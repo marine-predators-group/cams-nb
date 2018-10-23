@@ -20,8 +20,8 @@ description: University of Washington - Fishery Sciences - Roberts Lab
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://robertslab.github.io/sams-notebook/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
+  name: Sam White
+  twitter: kubu4
   picture:
 twitter_username: kubu4
 github_username: kubu4
