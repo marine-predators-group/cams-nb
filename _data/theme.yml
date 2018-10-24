@@ -27,12 +27,16 @@ t:
 # Google Fonts
 google_fonts:
   - name: "Montserrat"
-    weights: "300,300i,600,600i"
+    weights: "300,300i,500,500i"
+  - name: "Montserrat"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - posts.md
   - about.md
-  - cv.md
+  - tags.md
+  - categories.md
+  - dates.md
