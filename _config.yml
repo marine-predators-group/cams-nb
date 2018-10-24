@@ -22,10 +22,10 @@ url: https://robertslab.github.io/sams-notebook/ # the base hostname & protocol 
 author:
   name: Sam White
   twitter: kubu4
-  picture:
+  picture: /images/profile.jpeg
 twitter_username: kubu4
 github_username: kubu4
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo:  # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: algolia # lunr (default), algolia
