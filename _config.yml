@@ -38,7 +38,6 @@ algolia:
     shortname: kubu4
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
