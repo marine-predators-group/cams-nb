@@ -45,7 +45,7 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
-
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 google_analytics: UA-59101502-3
 
 # Pagination - https://jekyllrb.com/docs/pagination/
