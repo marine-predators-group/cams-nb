@@ -26,9 +26,9 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Montserrat"
-    weights: "300,300i,500,500i"
-  - name: "Montserrat"
+  - name: "Roboto"
+    weights: "100, 100i"
+  - name: "Roboto"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
