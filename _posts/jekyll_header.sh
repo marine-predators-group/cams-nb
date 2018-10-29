@@ -44,3 +44,6 @@ printf "  - %s\n" "${tag_array[@]}" >> "${new_md_file}"
 printf "%s\n" "${categories}" >> "${new_md_file}"
 printf "  - %s\n" "${categories_array[@]}" >> "${new_md_file}"
 printf "%s\n" "${md_line}" >> "${new_md_file}"
+
+# Open file with Atom text editor.
+atom "new_md_file"
