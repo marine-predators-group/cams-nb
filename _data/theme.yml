@@ -37,6 +37,6 @@ google_fonts:
 navigation_pages:
   - posts_by_month.md
   - posts_by_year.md
-  - projects.md
   - tags.md
+  - projects.md
   - about.md
