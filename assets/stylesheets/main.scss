@@ -4,8 +4,10 @@
 
 @charset "utf-8";
 
+// Set site-wide font here.
+$base-font-family: "Roboto", sans-serif !default;
+
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
-$base-font-family: "Roboto", sans-serif !default;
