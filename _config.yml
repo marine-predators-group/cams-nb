@@ -34,8 +34,8 @@ algolia:
   index_name: sams_notebook # YOUR_INDEX_NAME
   search_only_api_key: bad5bfcfef4a347363413e602cedd540 # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-  disqus:
-    shortname: kubu4
+disqus:
+  shortname: kubu4
 # Build settings
 markdown: kramdown
 plugins: # previsously gems
