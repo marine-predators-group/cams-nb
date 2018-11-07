@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-04-18 14:55:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/04/18/manuscript-oly-gbs-14-day-plan/
 slug: manuscript-oly-gbs-14-day-plan
 title: Manuscript - Oly GBS 14 Day Plan
 wordpress_id: 2547

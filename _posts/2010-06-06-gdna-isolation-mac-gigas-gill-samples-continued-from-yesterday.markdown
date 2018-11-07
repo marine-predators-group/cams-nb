@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-06-06 05:10:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/06/05/gdna-isolation-mac-gigas-gill-samples-continued-from-yesterday/
 slug: gdna-isolation-mac-gigas-gill-samples-continued-from-yesterday
 title: gDNA Isolation - Mac gigas gill samples (continued from yesterday)
 wordpress_id: 637

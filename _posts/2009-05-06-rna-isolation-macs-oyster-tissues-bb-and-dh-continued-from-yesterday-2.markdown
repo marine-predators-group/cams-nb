@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-06 18:35:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/06/rna-isolation-macs-oyster-tissues-bb-and-dh-continued-from-yesterday-2/
 slug: rna-isolation-macs-oyster-tissues-bb-and-dh-continued-from-yesterday-2
 title: RNA Isolation - Mac's oyster tissues (BB and DH) (CONTINUED from yesterday)
 wordpress_id: 1089

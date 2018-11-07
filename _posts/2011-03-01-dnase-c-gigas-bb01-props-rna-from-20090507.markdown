@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-01 23:32:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/01/dnase-c-gigas-bb01-props-rna-from-20090507/
 slug: dnase-c-gigas-bb01-props-rna-from-20090507
 title: DNase - C.gigas BB01 (PROPS) RNA (from 20090507)
 wordpress_id: 410

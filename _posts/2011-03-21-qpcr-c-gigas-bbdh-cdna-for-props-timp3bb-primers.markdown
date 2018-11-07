@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-21 22:06:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/21/qpcr-c-gigas-bbdh-cdna-for-props-timp3bb-primers/
 slug: qpcr-c-gigas-bbdh-cdna-for-props-timp3bb-primers
 title: qPCR - C.gigas BB/DH cDNA for PROPS (TIMP3(BB) primers)
 wordpress_id: 394

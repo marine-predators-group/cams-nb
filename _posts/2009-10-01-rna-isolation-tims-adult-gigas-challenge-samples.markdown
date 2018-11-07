@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-01 04:18:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/30/rna-isolation-tims-adult-gigas-challenge-samples/
 slug: rna-isolation-tims-adult-gigas-challenge-samples
 title: RNA Isolation - Tim's adult gigas challenge samples
 wordpress_id: 850

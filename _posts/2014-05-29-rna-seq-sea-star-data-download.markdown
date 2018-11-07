@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-05-29 05:50:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/05/28/rna-seq-sea-star-data-download/
 slug: rna-seq-sea-star-data-download
 title: RNA-Seq - Sea Star Data Download
 wordpress_id: 120

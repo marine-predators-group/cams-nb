@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-10 23:30:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna/
 slug: dna-quantification-c-virginica-mbd-enriched-dna
 title: DNA Quantification - C.virginica MBD-enriched DNA
 wordpress_id: 3011

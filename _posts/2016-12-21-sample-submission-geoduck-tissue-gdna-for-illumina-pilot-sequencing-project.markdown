@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-21 22:49:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/21/sample-submission-geoduck-tissue-gdna-for-illumina-pilot-sequencing-project/
 slug: sample-submission-geoduck-tissue-gdna-for-illumina-pilot-sequencing-project
 title: Sample Submission - Geoduck Tissue & gDNA for Illumina Pilot Sequencing Project
 wordpress_id: 2420

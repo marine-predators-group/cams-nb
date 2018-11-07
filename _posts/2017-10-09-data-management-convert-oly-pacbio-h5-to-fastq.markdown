@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-09 17:41:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/09/data-management-convert-oly-pacbio-h5-to-fastq/
 slug: data-management-convert-oly-pacbio-h5-to-fastq
 title: Data Management - Convert Oly PacBio H5 to FASTQ
 wordpress_id: 2776

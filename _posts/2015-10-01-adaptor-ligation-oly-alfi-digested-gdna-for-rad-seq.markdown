@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-01 22:56:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/01/adaptor-ligation-oly-alfi-digested-gdna-for-rad-seq/
 slug: adaptor-ligation-oly-alfi-digested-gdna-for-rad-seq
 title: Adaptor Ligation - Oly AlfI-Digested gDNA for RAD-seq
 wordpress_id: 1677

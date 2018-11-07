@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-06-09 05:05:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/06/08/gdna-isolation-mac-gigas-larvae-samples-control-larvae-6-7-10-and-5-aza-tr-larvae-6-7-10/
 slug: gdna-isolation-mac-gigas-larvae-samples-control-larvae-6-7-10-and-5-aza-tr-larvae-6-7-10
 title: 'gDNA Isolation - Mac gigas larvae samples: control larvae 6.7.10 and 5-aza
   tr larvae 6.7.10'

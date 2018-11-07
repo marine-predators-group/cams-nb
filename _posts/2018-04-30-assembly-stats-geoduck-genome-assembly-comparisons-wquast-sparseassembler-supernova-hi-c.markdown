@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-30 19:19:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/30/assembly-stats-geoduck-genome-assembly-comparisons-wquast-sparseassembler-supernova-hi-c/
 slug: assembly-stats-geoduck-genome-assembly-comparisons-wquast-sparseassembler-supernova-hi-c
 title: Assembly Stats - Geoduck Genome Assembly Comparisons w/Quast - SparseAssembler,
   SuperNova, Hi-C

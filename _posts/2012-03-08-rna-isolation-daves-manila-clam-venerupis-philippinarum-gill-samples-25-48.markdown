@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-08 01:33:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/07/rna-isolation-daves-manila-clam-venerupis-philippinarum-gill-samples-25-48/
 slug: rna-isolation-daves-manila-clam-venerupis-philippinarum-gill-samples-25-48
 title: RNA Isolation - Dave's Manila Clam (Venerupis philippinarum) Gill Samples (#25-48)
 wordpress_id: 267

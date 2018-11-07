@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-15 13:55:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/15/vcf-splitting-with-bcftools/
 slug: vcf-splitting-with-bcftools
 title: VCF Splitting with bcftools
 wordpress_id: 3624

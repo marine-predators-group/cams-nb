@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-09 22:31:29+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/09/data-received-geoduck-metagenome-hiseqx-data/
 slug: data-received-geoduck-metagenome-hiseqx-data
 title: Data Received - Geoduck Metagenome HiSeqX Data
 wordpress_id: 3505

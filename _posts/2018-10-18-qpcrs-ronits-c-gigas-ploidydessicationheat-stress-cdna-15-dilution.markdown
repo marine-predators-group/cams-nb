@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-18 21:03:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/18/qpcrs-ronits-c-gigas-ploidydessicationheat-stress-cdna-15-dilution/
 slug: qpcrs-ronits-c-gigas-ploidydessicationheat-stress-cdna-15-dilution
 title: qPCRs - Ronit's C.gigas ploidy/dessication/heat stress cDNA (1:5 dilution)
 wordpress_id: 3669

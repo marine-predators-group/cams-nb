@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-29 00:15:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment/
 slug: bioanalyzer-geoduck-gonad-rna-quality-assessment
 title: Bioanalyzer - Geoduck Gonad RNA Quality Assessment
 wordpress_id: 1444

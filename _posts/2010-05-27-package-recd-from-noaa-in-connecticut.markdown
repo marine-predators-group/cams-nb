@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-27 16:37:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/27/package-recd-from-noaa-in-connecticut/
 slug: package-recd-from-noaa-in-connecticut
 title: Package Rec'd - From NOAA in Connecticut
 wordpress_id: 647

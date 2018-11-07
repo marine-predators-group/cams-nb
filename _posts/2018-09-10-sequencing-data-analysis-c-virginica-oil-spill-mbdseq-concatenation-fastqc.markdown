@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-10 19:33:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/10/sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc/
 slug: sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc
 title: Sequencing Data Analysis - C.virginica Oil Spill MBDseq Concatenation & FastQC
 wordpress_id: 3540

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-07 22:36:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/07/dna-precipitation-dungan-mie-14v-gdna-from-earlier-today/
 slug: dna-precipitation-dungan-mie-14v-gdna-from-earlier-today
 title: DNA Precipitation - Dungan MIE-14v gDNA from earlier today
 wordpress_id: 969

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-01-04 21:46:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/01/04/data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files/
 slug: data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files
 title: Data Management - Replacement of Corrupt BGI Oly Genome FASTQ Files
 wordpress_id: 2442

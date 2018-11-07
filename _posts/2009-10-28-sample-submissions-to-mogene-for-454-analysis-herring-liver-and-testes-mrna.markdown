@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-28 02:36:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/27/sample-submissions-to-mogene-for-454-analysis-herring-liver-and-testes-mrna/
 slug: sample-submissions-to-mogene-for-454-analysis-herring-liver-and-testes-mrna
 title: Sample Submissions to MoGene for 454 Analysis - Herring Liver and Testes mRNA
 wordpress_id: 804

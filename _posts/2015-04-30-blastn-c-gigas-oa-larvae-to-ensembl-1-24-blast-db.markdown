@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-30 03:15:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/29/blastn-c-gigas-oa-larvae-to-ensembl-1-24-blast-db/
 slug: blastn-c-gigas-oa-larvae-to-ensembl-1-24-blast-db
 title: BLASTN - C.gigas OA Larvae to C.gigas Ensembl 1.24 BLAST DB
 wordpress_id: 1290

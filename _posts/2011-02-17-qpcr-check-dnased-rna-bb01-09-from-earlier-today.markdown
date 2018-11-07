@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-17 04:21:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/16/qpcr-check-dnased-rna-bb01-09-from-earlier-today/
 slug: qpcr-check-dnased-rna-bb01-09-from-earlier-today
 title: qPCR - Check DNased RNA BB01 & 09 (from earlier today)
 wordpress_id: 468

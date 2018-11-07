@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-21 00:11:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/20/samples-submitted-geoduck-tissues-to-illumina-for-more-10x-genomics-sequencing/
 slug: samples-submitted-geoduck-tissues-to-illumina-for-more-10x-genomics-sequencing
 title: Samples Submitted - Geoduck Tissues to Illumina for More 10x Genomics Sequencing
 wordpress_id: 2940

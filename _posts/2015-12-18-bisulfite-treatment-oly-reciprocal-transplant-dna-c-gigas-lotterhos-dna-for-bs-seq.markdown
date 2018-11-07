@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-18 23:23:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq/
 slug: bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq
 title: Bisulfite Treatment - Oly Reciprocal Transplant DNA & C.gigas Lotterhos DNA
   for BS-seq

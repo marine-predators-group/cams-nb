@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-04-19 17:17:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/04/19/manuscript-writing-submitted/
 slug: manuscript-writing-submitted
 title: Manuscript Writing - Submitted!
 wordpress_id: 2554

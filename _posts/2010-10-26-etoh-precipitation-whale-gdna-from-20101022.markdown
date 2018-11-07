@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-10-26 03:42:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/10/25/etoh-precipitation-whale-gdna-from-20101022/
 slug: etoh-precipitation-whale-gdna-from-20101022
 title: EtOH Precipitation - Whale gDNA from 20101022
 wordpress_id: 581

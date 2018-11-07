@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-15 16:57:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/15/samples-received-coral-dna-from-jose-m-eirin-lopez-florida-international-university/
 slug: samples-received-coral-dna-from-jose-m-eirin-lopez-florida-international-university
 title: Samples Received - Coral DNA from Jose M. Eirin-Lopez (Florida International
   University)

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-24 15:38:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/24/genome-assembly-olympia-oyster-illumina-pacbio-reads-using-redundans/
 slug: genome-assembly-olympia-oyster-illumina-pacbio-reads-using-redundans
 title: Genome Assembly - Olympia oyster Illumina & PacBio Reads Using Redundans
 wordpress_id: 2820

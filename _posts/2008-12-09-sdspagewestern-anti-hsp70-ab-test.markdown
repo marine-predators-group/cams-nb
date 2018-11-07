@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-09 18:29:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/09/sdspagewestern-anti-hsp70-ab-test/
 slug: sdspagewestern-anti-hsp70-ab-test
 title: SDS/PAGE/Western - anti-HSP70 Ab test
 wordpress_id: 1359

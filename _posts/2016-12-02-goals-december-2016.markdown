@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-02 06:52:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/01/goals-december-2016/
 slug: goals-december-2016
 title: Goals - December 2016
 wordpress_id: 2377

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-13 00:04:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/12/rna-precipitation-hard-clam-gill-1-rna-from-20080819/
 slug: rna-precipitation-hard-clam-gill-1-rna-from-20080819
 title: 'RNA Precipitation - Hard clam gill #1 RNA from 20080819'
 wordpress_id: 1169

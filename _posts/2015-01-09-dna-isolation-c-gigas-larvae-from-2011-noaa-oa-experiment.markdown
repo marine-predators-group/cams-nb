@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-09 22:40:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/09/dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment/
 slug: dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment
 title: DNA Isolation - C.gigas larvae from 2011 NOAA OA Experiment
 wordpress_id: 9

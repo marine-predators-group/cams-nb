@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-16 19:09:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/16/trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data/
 slug: trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC – TrimGalore! RRBS Geoduck BS-seq FASTQ data
 wordpress_id: 3348

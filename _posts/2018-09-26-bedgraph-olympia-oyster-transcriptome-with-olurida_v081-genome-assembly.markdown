@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-26 17:58:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/26/bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly/
 slug: bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly
 title: Bedgraph – Olympia oyster transcriptome with Olurida_v081 genome assembly
 wordpress_id: 3584

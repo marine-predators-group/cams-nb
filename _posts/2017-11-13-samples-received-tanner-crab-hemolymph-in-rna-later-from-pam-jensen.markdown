@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-13 23:14:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/13/samples-received-tanner-crab-hemolymph-in-rna-later-from-pam-jensen/
 slug: samples-received-tanner-crab-hemolymph-in-rna-later-from-pam-jensen
 title: Samples Received - Tanner Crab Hemolymph in RNA Later from Pam Jensen
 wordpress_id: 2911

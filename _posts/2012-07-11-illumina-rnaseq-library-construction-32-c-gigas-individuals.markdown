@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-11 23:28:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/11/illumina-rnaseq-library-construction-32-c-gigas-individuals/
 slug: illumina-rnaseq-library-construction-32-c-gigas-individuals
 title: Illumina RNAseq Library Construction - 32 C.gigas Individuals
 wordpress_id: 233

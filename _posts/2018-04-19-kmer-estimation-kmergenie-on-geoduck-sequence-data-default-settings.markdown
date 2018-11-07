@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-19 21:28:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/19/kmer-estimation-kmergenie-on-geoduck-sequence-data-default-settings/
 slug: kmer-estimation-kmergenie-on-geoduck-sequence-data-default-settings
 title: Kmer Estimation - Kmergenie on Geoduck Sequence Data (default settings)
 wordpress_id: 3270

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-12 00:49:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/11/rna-isolation-marthas-vineyard-mv-hemocytes/
 slug: rna-isolation-marthas-vineyard-mv-hemocytes
 title: RNA Isolation - Martha's Vineyard (MV) hemocytes
 wordpress_id: 1021

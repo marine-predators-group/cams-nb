@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-26 20:44:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/26/mini-preps-liquid-cultures-from-yesterday/
 slug: mini-preps-liquid-cultures-from-yesterday
 title: Mini Preps - Liquid Cultures from yesterday
 wordpress_id: 372

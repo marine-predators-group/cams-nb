@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-11 23:25:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/11/oligo-reconstitution-illumina-rnaseq-library-oligos-and-barcodes/
 slug: oligo-reconstitution-illumina-rnaseq-library-oligos-and-barcodes
 title: Oligo Reconstitution - Illumina RNAseq Library Oligos and Barcodes
 wordpress_id: 231

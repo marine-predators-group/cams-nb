@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-23 23:09:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/23/data-management-sra-submission-overview/
 slug: data-management-sra-submission-overview
 title: Data Management - SRA Submission Overview
 wordpress_id: 2044

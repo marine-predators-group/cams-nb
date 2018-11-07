@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-02 04:15:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/01/qpcrs-check-gdna-contamination-with-ef1-18s-primers-in-gigas-gill-rna-from-yesterday/
 slug: qpcrs-check-gdna-contamination-with-ef1-18s-primers-in-gigas-gill-rna-from-yesterday
 title: qPCRs - Check gDNA contamination with EF1 & 18s primers in gigas gill RNA (from
   yesterday)

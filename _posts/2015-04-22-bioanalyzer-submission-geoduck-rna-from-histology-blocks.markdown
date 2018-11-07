@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-22 23:09:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/22/bioanalyzer-submission-geoduck-rna-from-histology-blocks/
 slug: bioanalyzer-submission-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Submission - Geoduck Gonad RNA from Histology Blocks
 wordpress_id: 1269

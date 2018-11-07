@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-09 16:54:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/09/pcr-baysea-scallop-dna/
 slug: pcr-baysea-scallop-dna
 title: PCR - Bay/Sea Scallop DNA
 wordpress_id: 959

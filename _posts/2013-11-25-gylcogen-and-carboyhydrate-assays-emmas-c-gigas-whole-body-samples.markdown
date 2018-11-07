@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-11-25 22:54:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/11/25/gylcogen-and-carboyhydrate-assays-emmas-c-gigas-whole-body-samples/
 slug: gylcogen-and-carboyhydrate-assays-emmas-c-gigas-whole-body-samples
 title: Gylcogen and Carboyhydrate Assays - Emma's C.gigas Whole Body Samples
 wordpress_id: 184

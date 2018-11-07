@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-06 18:25:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/06/progress-report-titrator/
 slug: progress-report-titrator
 title: Progress Report - Titrator
 wordpress_id: 3122

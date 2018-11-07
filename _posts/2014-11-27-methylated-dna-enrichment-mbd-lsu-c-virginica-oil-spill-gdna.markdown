@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-27 06:15:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/26/methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna/
 slug: methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna
 title: Gel - Sheared LSU C.virginica Oil Spill gDNA (from yesterday)
 wordpress_id: 69

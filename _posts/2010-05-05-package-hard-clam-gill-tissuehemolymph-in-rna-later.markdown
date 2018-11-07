@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-05 16:52:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/05/package-hard-clam-gill-tissuehemolymph-in-rna-later/
 slug: package-hard-clam-gill-tissuehemolymph-in-rna-later
 title: Package - Hard Clam gill tissue/hemolymph in RNA later
 wordpress_id: 658

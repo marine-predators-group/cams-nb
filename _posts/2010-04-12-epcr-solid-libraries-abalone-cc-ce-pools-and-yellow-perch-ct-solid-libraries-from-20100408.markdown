@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-12 17:11:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/12/epcr-solid-libraries-abalone-cc-ce-pools-and-yellow-perch-ct-solid-libraries-from-20100408/
 slug: epcr-solid-libraries-abalone-cc-ce-pools-and-yellow-perch-ct-solid-libraries-from-20100408
 title: ePCR SOLiD Libraries - Abalone CC, CE pools and yellow perch CT SOLiD libraries
   (from 20100408)

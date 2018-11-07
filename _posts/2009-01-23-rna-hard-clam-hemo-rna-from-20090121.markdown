@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-23 02:59:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/22/rna-hard-clam-hemo-rna-from-20090121/
 slug: rna-hard-clam-hemo-rna-from-20090121
 title: RNA - Hard clam hemo RNA (from 20090121)
 wordpress_id: 1199

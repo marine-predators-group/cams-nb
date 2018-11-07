@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-27 15:59:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/27/primers-lake-trout-primers-for-hrm/
 slug: primers-lake-trout-primers-for-hrm
 title: Primers - Lake Trout Primers for HRM
 wordpress_id: 880

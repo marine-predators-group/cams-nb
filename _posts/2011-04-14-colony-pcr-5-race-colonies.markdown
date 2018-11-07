@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-14 21:13:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/14/colony-pcr-5-race-colonies/
 slug: colony-pcr-5-race-colonies
 title: Colony PCR - 5' RACE Colonies
 wordpress_id: 384

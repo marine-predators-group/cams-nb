@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-22 05:14:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/21/dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings/
 slug: dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings
 title: DNA Isolations - Fidalgo 2SN Reciprocal Transplants Final Samplings
 wordpress_id: 1737

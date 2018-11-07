@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-03 20:29:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/03/data-management-olympia-oyster-uw-pacbio-data-from-20170323/
 slug: data-management-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management - Olympia oyster UW PacBio Data from 20170323
 wordpress_id: 2614

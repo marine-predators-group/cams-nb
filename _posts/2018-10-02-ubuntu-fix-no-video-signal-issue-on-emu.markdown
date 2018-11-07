@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-02 15:22:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/02/ubuntu-fix-no-video-signal-issue-on-emu/
 slug: ubuntu-fix-no-video-signal-issue-on-emu
 title: Ubuntu – Fix “No Video Signal” Issue on Emu
 wordpress_id: 3596

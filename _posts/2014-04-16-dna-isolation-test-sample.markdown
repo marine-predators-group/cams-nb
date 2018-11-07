@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-16 19:12:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/16/dna-isolation-test-sample/
 slug: dna-isolation-test-sample
 title: DNA Isolation - Test Sample
 wordpress_id: 143

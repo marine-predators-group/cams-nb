@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-15 00:22:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/14/reverse-transcription-sepia-dnased-rna/
 slug: reverse-transcription-sepia-dnased-rna
 title: Reverse Transcription - Sepia DNased RNA
 wordpress_id: 754

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-06 16:14:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/06/qpcr-calibration-test-of-opticon-2-2/
 slug: qpcr-calibration-test-of-opticon-2-2
 title: qPCR - Calibration test of Opticon 2
 wordpress_id: 894

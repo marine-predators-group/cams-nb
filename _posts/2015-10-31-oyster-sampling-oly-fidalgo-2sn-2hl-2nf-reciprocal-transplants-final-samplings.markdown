@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-31 01:11:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/30/oyster-sampling-oly-fidalgo-2sn-2hl-2nf-reciprocal-transplants-final-samplings/
 slug: oyster-sampling-oly-fidalgo-2sn-2hl-2nf-reciprocal-transplants-final-samplings
 title: Oyster Sampling - Oly Fidalgo 2SN, 2HL, 2NF Reciprocal Transplants Final Samplings
 wordpress_id: 1752

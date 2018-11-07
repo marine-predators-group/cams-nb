@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-07 22:34:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/07/gdna-isolation-dungan-isolate-mie-14v/
 slug: gdna-isolation-dungan-isolate-mie-14v
 title: gDNA Isolation - Dungan isolate MIE-14v
 wordpress_id: 967

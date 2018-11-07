@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-13 17:42:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/13/samples-received-geoduck-larvae-metagenome-filter-rinses/
 slug: samples-received-geoduck-larvae-metagenome-filter-rinses
 title: Samples Received - Geoduck larvae metagenome filter rinses
 wordpress_id: 3140

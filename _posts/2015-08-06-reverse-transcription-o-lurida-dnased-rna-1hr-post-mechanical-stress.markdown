@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-06 18:27:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/06/reverse-transcription-o-lurida-dnased-rna-1hr-post-mechanical-stress/
 slug: reverse-transcription-o-lurida-dnased-rna-1hr-post-mechanical-stress
 title: Reverse Transcription – O.lurida DNased RNA 1hr post-mechanical stress
 wordpress_id: 1545

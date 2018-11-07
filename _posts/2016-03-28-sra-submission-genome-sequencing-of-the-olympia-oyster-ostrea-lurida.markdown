@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-28 23:21:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/28/sra-submission-genome-sequencing-of-the-olympia-oyster-ostrea-lurida/
 slug: sra-submission-genome-sequencing-of-the-olympia-oyster-ostrea-lurida
 title: SRA Submission – Genome sequencing of the Olympia oyster (Ostrea lurida)
 wordpress_id: 2066

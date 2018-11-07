@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-12 17:59:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/12/qpcr-macs-gigas-dnased-rna-from-earlier-today/
 slug: qpcr-macs-gigas-dnased-rna-from-earlier-today
 title: qPCR - Mac's gigas DNased RNA from earlier today
 wordpress_id: 1075

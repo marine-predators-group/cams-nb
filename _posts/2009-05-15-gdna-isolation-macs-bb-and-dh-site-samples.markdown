@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-15 16:49:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples/
 slug: gdna-isolation-macs-bb-and-dh-site-samples
 title: gDNA Isolation - Mac's BB and DH site samples
 wordpress_id: 1065

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-21 17:56:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/21/kmer-estimation-kmergenie-k-301-on-geoduck-sequence-data/
 slug: kmer-estimation-kmergenie-k-301-on-geoduck-sequence-data
 title: Kmer Estimation – Kmergenie (k 301) on Geoduck Sequence Data
 wordpress_id: 3278

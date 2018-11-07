@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-27 21:17:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data/
 slug: fastqcmultiqc-bgi-geoduck-genome-sequencing-data
 title: FastQC/MultiQC - BGI Geoduck Genome Sequencing Data
 wordpress_id: 3165

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-10 00:32:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/09/emulsion-pcr-herring-liver-cdna-for-solid-libraries/
 slug: emulsion-pcr-herring-liver-cdna-for-solid-libraries
 title: Emulsion PCR - Herring Liver cDNA for SOLiD Libraries
 wordpress_id: 760

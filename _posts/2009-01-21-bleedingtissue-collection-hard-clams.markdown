@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-21 03:16:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/20/bleedingtissue-collection-hard-clams/
 slug: bleedingtissue-collection-hard-clams
 title: Bleeding/Tissue Collection - Hard Clams
 wordpress_id: 1207

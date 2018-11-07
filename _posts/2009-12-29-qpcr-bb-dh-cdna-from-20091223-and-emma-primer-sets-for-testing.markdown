@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-29 23:35:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/29/qpcr-bb-dh-cdna-from-20091223-and-emma-primer-sets-for-testing/
 slug: qpcr-bb-dh-cdna-from-20091223-and-emma-primer-sets-for-testing
 title: qPCR - BB & DH cDNA (from 20091223) and Emma primer sets for testing
 wordpress_id: 728

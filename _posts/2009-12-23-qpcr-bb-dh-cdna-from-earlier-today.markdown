@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-23 23:59:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/23/qpcr-bb-dh-cdna-from-earlier-today/
 slug: qpcr-bb-dh-cdna-from-earlier-today
 title: qPCR - BB & DH cDNA (from earlier today)
 wordpress_id: 740

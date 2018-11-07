@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-20 03:00:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/19/herring-454-data/
 slug: herring-454-data
 title: Herring 454 Data
 wordpress_id: 790

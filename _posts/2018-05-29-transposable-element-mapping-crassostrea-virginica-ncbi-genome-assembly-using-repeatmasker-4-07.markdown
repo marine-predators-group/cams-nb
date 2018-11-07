@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-29 22:02:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/29/transposable-element-mapping-crassostrea-virginica-ncbi-genome-assembly-using-repeatmasker-4-07/
 slug: transposable-element-mapping-crassostrea-virginica-ncbi-genome-assembly-using-repeatmasker-4-07
 title: Transposable Element Mapping – Crassostrea virginica NCBI Genome Assembly using
   RepeatMasker 4.07

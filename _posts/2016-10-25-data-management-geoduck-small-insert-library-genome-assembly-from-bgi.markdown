@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-10-25 21:20:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/10/25/data-management-geoduck-small-insert-library-genome-assembly-from-bgi/
 slug: data-management-geoduck-small-insert-library-genome-assembly-from-bgi
 title: Data Management – Geoduck Small Insert Library Genome Assembly from BGI
 wordpress_id: 2311

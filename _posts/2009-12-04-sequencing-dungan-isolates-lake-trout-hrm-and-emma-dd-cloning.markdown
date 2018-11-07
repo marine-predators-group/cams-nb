@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-04 00:43:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/03/sequencing-dungan-isolates-lake-trout-hrm-and-emma-dd-cloning/
 slug: sequencing-dungan-isolates-lake-trout-hrm-and-emma-dd-cloning
 title: Sequencing - Dungan Isolates, Lake Trout HRM and Emma DD cloning
 wordpress_id: 770

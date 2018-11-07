@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-12 22:16:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/12/assembly-geoduck-hi-c-assembly-subsetting/
 slug: assembly-geoduck-hi-c-assembly-subsetting
 title: Assembly - Geoduck Hi-C Assembly Subsetting
 wordpress_id: 3332

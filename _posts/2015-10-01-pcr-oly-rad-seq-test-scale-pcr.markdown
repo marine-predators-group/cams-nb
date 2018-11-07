@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-01 23:50:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/01/pcr-oly-rad-seq-test-scale-pcr/
 slug: pcr-oly-rad-seq-test-scale-pcr
 title: PCR - Oly RAD-seq Test-scale PCR
 wordpress_id: 1682

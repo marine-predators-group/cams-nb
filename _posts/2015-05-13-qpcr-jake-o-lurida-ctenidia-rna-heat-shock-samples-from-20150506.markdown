@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-13 00:42:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/12/qpcr-jake-o-lurida-ctenidia-rna-heat-shock-samples-from-20150506/
 slug: qpcr-jake-o-lurida-ctenidia-rna-heat-shock-samples-from-20150506
 title: qPCR - Jake O.lurida ctenidia RNA (Heat Shock Samples) from 20150506
 wordpress_id: 1371

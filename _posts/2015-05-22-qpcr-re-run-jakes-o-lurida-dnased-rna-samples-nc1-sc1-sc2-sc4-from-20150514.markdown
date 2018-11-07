@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-22 00:38:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/21/qpcr-re-run-jakes-o-lurida-dnased-rna-samples-nc1-sc1-sc2-sc4-from-20150514/
 slug: qpcr-re-run-jakes-o-lurida-dnased-rna-samples-nc1-sc1-sc2-sc4-from-20150514
 title: qPCR - Re-run Jake's O.lurida DNased RNA Samples NC1, SC1, SC2, SC4 from 20150514
 wordpress_id: 1425

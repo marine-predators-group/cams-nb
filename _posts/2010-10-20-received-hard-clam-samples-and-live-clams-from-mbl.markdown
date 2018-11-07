@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-10-20 03:49:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/10/19/received-hard-clam-samples-and-live-clams-from-mbl/
 slug: received-hard-clam-samples-and-live-clams-from-mbl
 title: Received Hard Clam Samples and Live Clams from MBL
 wordpress_id: 585

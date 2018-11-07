@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-24 00:01:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/23/sequencing-mac-methylation-samples-sam-rhodopsin-samples-lisa-samples/
 slug: sequencing-mac-methylation-samples-sam-rhodopsin-samples-lisa-samples
 title: Sequencing - Mac methylation samples, Sam rhodopsin samples, Lisa samples
 wordpress_id: 742

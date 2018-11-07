@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-23 03:23:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/22/library-cleanup-lsu-c-virginica-mbd-bs-library/
 slug: library-cleanup-lsu-c-virginica-mbd-bs-library
 title: Library Cleanup - LSU C.virginica MBD BS Library
 wordpress_id: 100

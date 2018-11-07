@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-05-16 20:31:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/05/16/data-management-olympia-oyster-small-insert-library-genome-assembly-from-bgi/
 slug: data-management-olympia-oyster-small-insert-library-genome-assembly-from-bgi
 title: Data Management - Olympia Oyster Small Insert Library Genome Assembly from
   BGI

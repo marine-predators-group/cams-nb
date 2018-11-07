@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-15 22:46:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/15/data-management-integrity-check-of-final-bgi-olympia-oyster-geoduck-data/
 slug: data-management-integrity-check-of-final-bgi-olympia-oyster-geoduck-data
 title: Data Management - Integrity Check of Final BGI Olympia Oyster & Geoduck Data
 wordpress_id: 2403

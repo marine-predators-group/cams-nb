@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-24 02:28:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/23/mrna-precipitation-continued-from-yesterday/
 slug: mrna-precipitation-continued-from-yesterday
 title: mRNA - Precipitation continued from yesterday
 wordpress_id: 1197

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-17 19:46:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/17/computing-amazon-ec2-instance-out-of-space/
 slug: computing-amazon-ec2-instance-out-of-space
 title: Computing - Amazon EC2 Instance Out of Space?
 wordpress_id: 2223

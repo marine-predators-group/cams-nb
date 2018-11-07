@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-16 22:00:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/16/fastqc-rrbs-geoduck-bs-seq-fastq-data/
 slug: fastqc-rrbs-geoduck-bs-seq-fastq-data
 title: FastQC - RRBS Geoduck BS-seq FASTQ data
 wordpress_id: 3350

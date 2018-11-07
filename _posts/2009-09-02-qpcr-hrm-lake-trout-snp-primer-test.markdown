@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-02 04:59:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/01/qpcr-hrm-lake-trout-snp-primer-test/
 slug: qpcr-hrm-lake-trout-snp-primer-test
 title: qPCR - HRM Lake Trout SNP primer test
 wordpress_id: 876

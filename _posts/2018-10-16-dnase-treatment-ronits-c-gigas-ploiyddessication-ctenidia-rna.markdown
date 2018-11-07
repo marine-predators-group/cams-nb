@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-16 17:33:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna/
 slug: dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna
 title: DNase Treatment - Ronit's C.gigas Ploiyd/Dessication Ctenidia RNA
 wordpress_id: 3648

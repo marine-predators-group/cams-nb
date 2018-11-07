@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-09 23:11:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/09/qpcr-repeat-modified-of-yesterdays-abalone-cdna-check/
 slug: qpcr-repeat-modified-of-yesterdays-abalone-cdna-check
 title: qPCR - Repeat (modified) of yesterday's abalone cDNA check
 wordpress_id: 1139

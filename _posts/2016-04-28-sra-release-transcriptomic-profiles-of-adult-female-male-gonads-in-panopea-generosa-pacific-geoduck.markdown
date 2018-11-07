@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-28 16:35:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/28/sra-release-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck/
 slug: sra-release-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck
 title: SRA Release - Transcriptomic Profiles of Adult Female & Male Gonads in Panopea
   generosa (Pacific geoduck)

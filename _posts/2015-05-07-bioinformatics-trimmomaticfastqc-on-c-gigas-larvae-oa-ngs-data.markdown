@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-07 05:27:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/06/bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data/
 slug: bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data
 title: Bioinformatics - Trimmomatic/FASTQC on C.gigas Larvae OA NGS Data
 wordpress_id: 1322

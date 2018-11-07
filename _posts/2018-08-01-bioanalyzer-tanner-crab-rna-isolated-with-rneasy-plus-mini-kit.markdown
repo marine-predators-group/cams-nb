@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-01 21:23:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/01/bioanalyzer-tanner-crab-rna-isolated-with-rneasy-plus-mini-kit/
 slug: bioanalyzer-tanner-crab-rna-isolated-with-rneasy-plus-mini-kit
 title: Bioanalyzer - Tanner Crab RNA Isolated with RNeasy Plus Mini Kit
 wordpress_id: 3470

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-17 16:05:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/17/epinext-adaptor-1-counts-lsu-c-virginica-oil-spill-samples/
 slug: epinext-adaptor-1-counts-lsu-c-virginica-oil-spill-samples
 title: Epinext Adaptor 1 Counts - LSU C.virginica Oil Spill Samples
 wordpress_id: 927

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-12 00:25:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/11/bioanalyzer-herring-liver-cdna-for-solid-libraries/
 slug: bioanalyzer-herring-liver-cdna-for-solid-libraries
 title: Bioanalyzer - Herring Liver cDNA for SOLiD Libraries
 wordpress_id: 756

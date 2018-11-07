@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-15 21:33:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/15/assembly-stats-quast-stats-for-geoduck-sparseassembler-job-from-20180405/
 slug: assembly-stats-quast-stats-for-geoduck-sparseassembler-job-from-20180405
 title: Assembly Stats - Quast Stats for Geoduck SparseAssembler Job from 20180405
 wordpress_id: 3264

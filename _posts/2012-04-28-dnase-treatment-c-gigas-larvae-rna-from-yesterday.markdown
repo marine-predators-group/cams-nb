@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-04-28 00:01:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/04/27/dnase-treatment-c-gigas-larvae-rna-from-yesterday/
 slug: dnase-treatment-c-gigas-larvae-rna-from-yesterday
 title: DNase Treatment - C.gigas Larvae RNA from yesterday
 wordpress_id: 247

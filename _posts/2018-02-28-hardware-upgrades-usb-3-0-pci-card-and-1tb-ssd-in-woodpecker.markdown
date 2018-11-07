@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-28 23:46:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/28/hardware-upgrades-usb-3-0-pci-card-and-1tb-ssd-in-woodpecker/
 slug: hardware-upgrades-usb-3-0-pci-card-and-1tb-ssd-in-woodpecker
 title: Hardware Upgrades - USB 3.0 PCI Card and 1TB SSD in Woodpecker
 wordpress_id: 3116

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-08 23:05:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/08/bleeding-hard-clams-4/
 slug: bleeding-hard-clams-4
 title: Bleeding - Hard Clams
 wordpress_id: 1223

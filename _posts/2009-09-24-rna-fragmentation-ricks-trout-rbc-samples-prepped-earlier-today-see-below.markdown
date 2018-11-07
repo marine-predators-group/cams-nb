@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-24 04:38:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/23/rna-fragmentation-ricks-trout-rbc-samples-prepped-earlier-today-see-below/
 slug: rna-fragmentation-ricks-trout-rbc-samples-prepped-earlier-today-see-below
 title: RNA Fragmentation - Rick's trout RBC samples prepped earlier today (see below)
 wordpress_id: 862

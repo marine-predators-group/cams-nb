@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-06-04 03:44:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/06/03/qpcr-c-gigas-gapdh-second-rep-on-v-vulnificus-exposure-cdna-from-20110311-and-standard-curves-for-cox1-cox2-gapdh/
 slug: qpcr-c-gigas-gapdh-second-rep-on-v-vulnificus-exposure-cdna-from-20110311-and-standard-curves-for-cox1-cox2-gapdh
 title: qPCR - C.gigas GAPDH second rep on V.vulnificus exposure cDNA (from 20110311)
   and standard curves for COX1, COX2, GAPDH

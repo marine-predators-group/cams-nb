@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-16 03:19:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/15/sequencing-pgs-hi-4-pgs2cox2/
 slug: sequencing-pgs-hi-4-pgs2cox2
 title: Sequencing - PGS Hi 4 (PGS2/COX2)
 wordpress_id: 329

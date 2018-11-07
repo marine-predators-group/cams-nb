@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-08 23:18:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/08/qpcr-abalone-cdna-qt-from-earlier-today/
 slug: qpcr-abalone-cdna-qt-from-earlier-today
 title: qPCR - Abalone cDNA (QT) from earlier today
 wordpress_id: 1147

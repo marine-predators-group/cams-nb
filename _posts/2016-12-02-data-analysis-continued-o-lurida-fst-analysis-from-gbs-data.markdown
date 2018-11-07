@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-02 06:47:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/01/data-analysis-continued-o-lurida-fst-analysis-from-gbs-data/
 slug: data-analysis-continued-o-lurida-fst-analysis-from-gbs-data
 title: Data Analysis - Continued O.lurida Fst Analysis from GBS Data
 wordpress_id: 2374

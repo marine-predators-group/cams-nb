@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-10 18:28:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/10/sdspagewestern-anti-hsp70-ab-test-continued-from-yesterday/
 slug: sdspagewestern-anti-hsp70-ab-test-continued-from-yesterday
 title: SDS/PAGE/Western - anti-HSP70 Ab test CONTINUED (from yesterday)
 wordpress_id: 1357

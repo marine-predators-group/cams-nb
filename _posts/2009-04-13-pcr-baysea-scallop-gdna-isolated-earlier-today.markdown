@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-13 23:04:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/13/pcr-baysea-scallop-gdna-isolated-earlier-today/
 slug: pcr-baysea-scallop-gdna-isolated-earlier-today
 title: PCR - Bay/Sea scallop gDNA isolated earlier today
 wordpress_id: 1131

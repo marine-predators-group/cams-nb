@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-09-04 04:51:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/09/03/pcr-macs-bisulfite-treated-dna/
 slug: pcr-macs-bisulfite-treated-dna
 title: PCR - Mac's Bisulfite-Treated DNA
 wordpress_id: 116

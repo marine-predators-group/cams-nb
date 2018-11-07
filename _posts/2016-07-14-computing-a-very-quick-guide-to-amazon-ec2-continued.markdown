@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-14 20:20:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/14/computing-a-very-quick-guide-to-amazon-ec2-continued/
 slug: computing-a-very-quick-guide-to-amazon-ec2-continued
 title: Computing - A Very Quick "Guide" to Amazon EC2 Continued
 wordpress_id: 2197

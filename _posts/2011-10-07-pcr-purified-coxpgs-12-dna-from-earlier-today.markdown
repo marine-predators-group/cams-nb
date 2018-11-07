@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-07 02:26:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/06/pcr-purified-coxpgs-12-dna-from-earlier-today/
 slug: pcr-purified-coxpgs-12-dna-from-earlier-today
 title: PCR - Purified COX/PGS 1/2 DNA from earlier today
 wordpress_id: 298

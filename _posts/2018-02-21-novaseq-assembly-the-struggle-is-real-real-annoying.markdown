@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-21 18:39:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/21/novaseq-assembly-the-struggle-is-real-real-annoying/
 slug: novaseq-assembly-the-struggle-is-real-real-annoying
 title: NovaSeq Assembly - The Struggle is Real - Real Annoying!
 wordpress_id: 3107

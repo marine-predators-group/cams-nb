@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-04 19:37:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/04/dna-gel-claires-c-gigas-female-gonad-and-macs-c-gigas-gonad/
 slug: dna-gel-claires-c-gigas-female-gonad-and-macs-c-gigas-gonad
 title: DNA gel - Claire's C.gigas Female Gonad and Mac's C.gigas Gonad
 wordpress_id: 154

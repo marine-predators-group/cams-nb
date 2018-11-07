@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-09 23:16:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/09/docker-one-liner-to-create-docker-container/
 slug: docker-one-liner-to-create-docker-container
 title: Docker - One liner to create Docker container
 wordpress_id: 2146

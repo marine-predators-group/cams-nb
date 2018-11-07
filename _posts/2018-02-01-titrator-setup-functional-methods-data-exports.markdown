@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-01 23:00:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/01/titrator-setup-functional-methods-data-exports/
 slug: titrator-setup-functional-methods-data-exports
 title: Titrator Setup - Functional Methods & Data Exports
 wordpress_id: 3068

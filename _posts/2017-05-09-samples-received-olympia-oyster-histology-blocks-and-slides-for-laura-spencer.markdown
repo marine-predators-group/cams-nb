@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-05-09 14:04:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/05/09/samples-received-olympia-oyster-histology-blocks-and-slides-for-laura-spencer/
 slug: samples-received-olympia-oyster-histology-blocks-and-slides-for-laura-spencer
 title: Samples Received - Olympia oyster Histology Blocks and Slides (for Laura Spencer)
 wordpress_id: 2568

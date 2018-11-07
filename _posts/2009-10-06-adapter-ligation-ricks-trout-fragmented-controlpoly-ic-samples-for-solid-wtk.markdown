@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-06 04:11:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/05/adapter-ligation-ricks-trout-fragmented-controlpoly-ic-samples-for-solid-wtk/
 slug: adapter-ligation-ricks-trout-fragmented-controlpoly-ic-samples-for-solid-wtk
 title: Adapter Ligation - Rick's trout fragmented control/poly I:C samples for SOLiD
   WTK

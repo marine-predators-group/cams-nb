@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-08-08 13:47:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/08/08/data-management-illumina-geoduck-hiseq-miseq-data/
 slug: data-management-illumina-geoduck-hiseq-miseq-data
 title: Data Management - Illumina Geoduck HiSeq & MiSeq Data
 wordpress_id: 2676

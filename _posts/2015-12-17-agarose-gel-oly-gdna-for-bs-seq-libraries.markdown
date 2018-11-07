@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-17 22:38:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries/
 slug: agarose-gel-oly-gdna-for-bs-seq-libraries
 title: Agarose Gel - Oly gDNA for BS-seq Libraries
 wordpress_id: 1872

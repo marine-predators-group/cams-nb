@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-17 02:40:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/16/qpcr-abalone-cdna-0712-set-from-332009-by-lisa-and-dnased-rna-from-20090623-3/
 slug: qpcr-abalone-cdna-0712-set-from-332009-by-lisa-and-dnased-rna-from-20090623-3
 title: qPCR - Abalone cDNA (07:12 set from 3/3/2009 by Lisa) and DNased RNA (from
   20090623)

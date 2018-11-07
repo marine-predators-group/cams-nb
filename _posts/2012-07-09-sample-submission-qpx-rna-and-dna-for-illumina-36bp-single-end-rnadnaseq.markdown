@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-09 23:49:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/09/sample-submission-qpx-rna-and-dna-for-illumina-36bp-single-end-rnadnaseq/
 slug: sample-submission-qpx-rna-and-dna-for-illumina-36bp-single-end-rnadnaseq
 title: Sample Submission - QPX RNA and DNA for Illumina 36bp single-end RNA/DNAseq
 wordpress_id: 239

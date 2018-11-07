@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-09-06 22:48:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/09/06/goals-september-2016/
 slug: goals-september-2016
 title: Goals - September 2016
 wordpress_id: 2278

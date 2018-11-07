@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-05 17:22:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/05/ligation-illumina-p1-adapters-for-oly-oyster-gdna-01-rad-sequencing-from-20141031/
 slug: ligation-illumina-p1-adapters-for-oly-oyster-gdna-01-rad-sequencing-from-20141031
 title: Ligation - Illumina P1 Adapters for Oly Oyster gDNA-01 RAD Sequencing (from
   20141031)

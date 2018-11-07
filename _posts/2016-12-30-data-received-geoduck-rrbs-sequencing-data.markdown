@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-30 05:53:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/29/data-received-geoduck-rrbs-sequencing-data/
 slug: data-received-geoduck-rrbs-sequencing-data
 title: Data Received - Geoduck RRBS Sequencing Data
 wordpress_id: 2425

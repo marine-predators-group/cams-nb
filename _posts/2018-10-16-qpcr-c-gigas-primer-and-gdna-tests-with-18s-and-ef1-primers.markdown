@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-16 20:45:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers/
 slug: qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers
 title: qPCR – C.gigas primer and gDNA tests with 18s and EF1 primers
 wordpress_id: 3654

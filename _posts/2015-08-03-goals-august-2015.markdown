@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-03 15:47:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/03/goals-august-2015/
 slug: goals-august-2015
 title: Goals - August 2015
 wordpress_id: 1531

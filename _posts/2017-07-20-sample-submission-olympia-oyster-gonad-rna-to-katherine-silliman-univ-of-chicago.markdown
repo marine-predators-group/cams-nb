@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-20 20:08:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/20/sample-submission-olympia-oyster-gonad-rna-to-katherine-silliman-univ-of-chicago/
 slug: sample-submission-olympia-oyster-gonad-rna-to-katherine-silliman-univ-of-chicago
 title: Sample Submission - Olympia oyster gonad RNA to Katherine Silliman @ Univ.
   of Chicago

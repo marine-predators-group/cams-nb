@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-31 14:54:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/31/software-crash-olympia-oyster-genome-assembly-with-masurca-on-mox/
 slug: software-crash-olympia-oyster-genome-assembly-with-masurca-on-mox
 title: Software Crash - Olympia oyster genome assembly with Masurca on Mox
 wordpress_id: 2853

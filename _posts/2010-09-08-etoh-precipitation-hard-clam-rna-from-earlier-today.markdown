@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-08 04:18:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/07/etoh-precipitation-hard-clam-rna-from-earlier-today/
 slug: etoh-precipitation-hard-clam-rna-from-earlier-today
 title: EtOH Precipitation - Hard Clam RNA from earlier today
 wordpress_id: 601

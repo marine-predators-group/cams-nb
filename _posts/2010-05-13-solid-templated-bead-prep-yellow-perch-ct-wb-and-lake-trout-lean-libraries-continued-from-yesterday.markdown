@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-13 16:41:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/13/solid-templated-bead-prep-yellow-perch-ct-wb-and-lake-trout-lean-libraries-continued-from-yesterday/
 slug: solid-templated-bead-prep-yellow-perch-ct-wb-and-lake-trout-lean-libraries-continued-from-yesterday
 title: SOLiD Templated Bead Prep - Yellow perch CT, WB and lake trout Lean libraries
   (continued from yesterday)

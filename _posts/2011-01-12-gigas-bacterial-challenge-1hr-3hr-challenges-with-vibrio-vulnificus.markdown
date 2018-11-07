@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-01-12 05:10:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/11/gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus/
 slug: gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus
 title: Gigas Bacterial Challenge - 1hr & 3hr Challenges with Vibrio vulnificus
 wordpress_id: 500

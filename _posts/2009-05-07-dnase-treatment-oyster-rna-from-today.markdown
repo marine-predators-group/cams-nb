@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-07 18:29:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/07/dnase-treatment-oyster-rna-from-today/
 slug: dnase-treatment-oyster-rna-from-today
 title: DNase Treatment - Oyster RNA from today
 wordpress_id: 1085

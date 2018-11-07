@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-30 21:38:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/30/data-management-geoduck-rrbs-data-integrity-verification/
 slug: data-management-geoduck-rrbs-data-integrity-verification
 title: Data Management - Geoduck RRBS Data Integrity Verification
 wordpress_id: 2430

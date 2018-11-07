@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-23 03:10:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/22/mrna-isolation-hard-clam-gill-and-hemo-rna/
 slug: mrna-isolation-hard-clam-gill-and-hemo-rna
 title: mRNA Isolation - Hard Clam gill and hemo RNA
 wordpress_id: 1201

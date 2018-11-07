@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-03 01:05:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/02/hard-clam-challenge-qpx-strain-s-1-continued-from-yesterday/
 slug: hard-clam-challenge-qpx-strain-s-1-continued-from-yesterday
 title: Hard Clam Challenge - QPX Strain S-1 (continued from yesterday)
 wordpress_id: 776

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-02-18 21:49:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/02/18/dna-precipitation-geoduck-dna-from-20140213/
 slug: dna-precipitation-geoduck-dna-from-20140213
 title: DNA Precipitation - Geoduck DNA from 20140213
 wordpress_id: 170

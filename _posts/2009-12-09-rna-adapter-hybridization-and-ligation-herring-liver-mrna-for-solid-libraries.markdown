@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-09 00:34:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/08/rna-adapter-hybridization-and-ligation-herring-liver-mrna-for-solid-libraries/
 slug: rna-adapter-hybridization-and-ligation-herring-liver-mrna-for-solid-libraries
 title: RNA Adapter Hybridization and Ligation - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 762

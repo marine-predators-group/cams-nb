@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-27 00:17:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/26/transcriptome-alignment-bedgraph-olympia-oyster-transcriptome-with-olurida_v080-genome-assembly/
 slug: transcriptome-alignment-bedgraph-olympia-oyster-transcriptome-with-olurida_v080-genome-assembly
 title: Transcriptome Alignment & Bedgraph – Olympia oyster transcriptome with Olurida_v080
   genome assembly

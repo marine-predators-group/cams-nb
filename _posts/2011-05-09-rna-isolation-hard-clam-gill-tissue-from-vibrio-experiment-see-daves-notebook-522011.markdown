@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-09 20:29:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/09/rna-isolation-hard-clam-gill-tissue-from-vibrio-experiment-see-daves-notebook-522011/
 slug: rna-isolation-hard-clam-gill-tissue-from-vibrio-experiment-see-daves-notebook-522011
 title: RNA Isolation - Hard Clam Gill Tissue from Vibrio Experiment (see Dave's Notebook
   5/2/2011)

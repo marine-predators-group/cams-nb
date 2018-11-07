@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-08-28 22:26:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/08/28/samples-submitted-geoduck-ctenidia-to-illumina-for-10x-genomics-sequencing/
 slug: samples-submitted-geoduck-ctenidia-to-illumina-for-10x-genomics-sequencing
 title: Samples Submitted - Geoduck Ctenidia to Illumina for 10x Genomics Sequencing
 wordpress_id: 2699

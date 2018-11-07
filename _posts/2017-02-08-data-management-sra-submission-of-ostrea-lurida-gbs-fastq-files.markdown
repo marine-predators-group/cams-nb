@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-02-08 22:25:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/02/08/data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files/
 slug: data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files
 title: Data Management - SRA Submission of Ostrea lurida GBS FASTQ Files
 wordpress_id: 2474

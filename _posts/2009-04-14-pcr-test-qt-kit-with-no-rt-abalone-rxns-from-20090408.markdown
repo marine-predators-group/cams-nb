@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-14 19:36:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/14/pcr-test-qt-kit-with-no-rt-abalone-rxns-from-20090408/
 slug: pcr-test-qt-kit-with-no-rt-abalone-rxns-from-20090408
 title: PCR - Test QT Kit with No RT Abalone rxns from 20090408
 wordpress_id: 1127

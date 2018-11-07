@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-12 18:24:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/12/sdspagewestern-attempt-to-fixidentify-problems-with-westerns/
 slug: sdspagewestern-attempt-to-fixidentify-problems-with-westerns
 title: SDS/PAGE/Western - Attempt to fix/identify problem(s) with Westerns
 wordpress_id: 1355

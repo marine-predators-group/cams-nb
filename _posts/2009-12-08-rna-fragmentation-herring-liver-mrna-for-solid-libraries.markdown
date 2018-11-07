@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-08 00:36:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/07/rna-fragmentation-herring-liver-mrna-for-solid-libraries/
 slug: rna-fragmentation-herring-liver-mrna-for-solid-libraries
 title: RNA Fragmentation - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 764

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-09 23:25:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/09/trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data/
 slug: trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - Auto-trim C.virginica MBD BS-seq FASTQ data
 wordpress_id: 3222

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-17 04:17:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/16/dnase-c-gigas-bbdh-props-rna-from-20090507/
 slug: dnase-c-gigas-bbdh-props-rna-from-20090507
 title: DNase - C.gigas BB/DH (PROPS) RNA (from 20090507)
 wordpress_id: 466

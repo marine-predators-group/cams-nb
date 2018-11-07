@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-05-03 23:16:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/05/03/gbs-frustrations/
 slug: gbs-frustrations
 title: GBS Frustrations
 wordpress_id: 2109

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-01-26 01:56:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/01/25/qpcr-dnased-rna-from-earlier-today/
 slug: qpcr-dnased-rna-from-earlier-today
 title: qPCR - DNased RNA from earlier today
 wordpress_id: 281

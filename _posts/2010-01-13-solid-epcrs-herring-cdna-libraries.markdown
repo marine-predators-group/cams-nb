@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-13 19:33:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/13/solid-epcrs-herring-cdna-libraries/
 slug: solid-epcrs-herring-cdna-libraries
 title: SOLiD ePCRs - Herring cDNA libraries
 wordpress_id: 706

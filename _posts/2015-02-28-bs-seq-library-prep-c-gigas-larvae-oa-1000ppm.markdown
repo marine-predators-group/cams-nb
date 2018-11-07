@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-28 00:36:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/27/bs-seq-library-prep-c-gigas-larvae-oa-1000ppm/
 slug: bs-seq-library-prep-c-gigas-larvae-oa-1000ppm
 title: BS-seq Library Prep - C.gigas Larvae OA 1000ppm
 wordpress_id: 534

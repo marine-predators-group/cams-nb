@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-04 01:24:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/03/dna-quantification-claires-c-gigas-sheared-dna/
 slug: dna-quantification-claires-c-gigas-sheared-dna
 title: DNA Quantification - Claire's C.gigas Sheared DNA
 wordpress_id: 549

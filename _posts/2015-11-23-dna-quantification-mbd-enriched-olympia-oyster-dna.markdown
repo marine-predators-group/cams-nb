@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-23 17:24:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/23/dna-quantification-mbd-enriched-olympia-oyster-dna/
 slug: dna-quantification-mbd-enriched-olympia-oyster-dna
 title: DNA Quantification - MBD-enriched Olympia oyster DNA
 wordpress_id: 1807

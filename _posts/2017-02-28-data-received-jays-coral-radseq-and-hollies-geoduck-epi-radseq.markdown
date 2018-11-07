@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-02-28 00:29:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/02/27/data-received-jays-coral-radseq-and-hollies-geoduck-epi-radseq/
 slug: data-received-jays-coral-radseq-and-hollies-geoduck-epi-radseq
 title: Data Received - Jay's Coral RADseq and Hollie's Geoduck Epi-RADseq
 wordpress_id: 2481

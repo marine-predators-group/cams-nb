@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 22:58:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/25/dna-quality-assessment-geoduck-olympia-oyster-gdna/
 slug: dna-quality-assessment-geoduck-olympia-oyster-gdna
 title: DNA Quality Assessment - Geoduck & Olympia Oyster gDNA
 wordpress_id: 1842

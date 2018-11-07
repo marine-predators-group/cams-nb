@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-16 00:37:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/15/qpcr-mv-hemocyte-cdna-test-immomix-syto13-vs-strategene-sybr/
 slug: qpcr-mv-hemocyte-cdna-test-immomix-syto13-vs-strategene-sybr
 title: 'qPCR - MV hemocyte cDNA: Test Immomix (SYTO13) vs. Strategene SYBR'
 wordpress_id: 1013

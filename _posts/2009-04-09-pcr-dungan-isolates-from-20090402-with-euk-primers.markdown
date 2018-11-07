@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-09 23:14:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/09/pcr-dungan-isolates-from-20090402-with-euk-primers/
 slug: pcr-dungan-isolates-from-20090402-with-euk-primers
 title: PCR - Dungan isolates from 20090402 with Euk primers
 wordpress_id: 1143

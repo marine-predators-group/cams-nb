@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-04 00:41:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/03/mrna-precipitation-herring-liver-mrna-for-solid-libraries-continued-from-yesterday/
 slug: mrna-precipitation-herring-liver-mrna-for-solid-libraries-continued-from-yesterday
 title: mRNA Precipitation - Herring Liver mRNA for SOLiD Libraries (continued from
   yesterday)

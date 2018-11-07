@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-17 17:23:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/17/3558/
 slug: '3558'
 title: RNA Isolation - Lyophilized Tanner Crab Hemolymph in RNAlater
 wordpress_id: 3558

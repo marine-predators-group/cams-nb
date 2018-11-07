@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-20 15:22:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/20/sample-submission-geoduck-reduced-representation-bisulfite-pooled-libraries/
 slug: sample-submission-geoduck-reduced-representation-bisulfite-pooled-libraries
 title: Sample Submission - Geoduck Reduced Representation Bisulfite Pooled Libraries
 wordpress_id: 2414

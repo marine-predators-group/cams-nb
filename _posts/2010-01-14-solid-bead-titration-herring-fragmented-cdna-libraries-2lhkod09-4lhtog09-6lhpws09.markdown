@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-14 19:23:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/14/solid-bead-titration-herring-fragmented-cdna-libraries-2lhkod09-4lhtog09-6lhpws09/
 slug: solid-bead-titration-herring-fragmented-cdna-libraries-2lhkod09-4lhtog09-6lhpws09
 title: 'SOLiD Bead Titration - Herring fragmented cDNA libraries: 2LHKOD09, 4LHTOG09,
   6LHPWS09'

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-20 01:21:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/19/mbl-shipment-mv-oysterscod/
 slug: mbl-shipment-mv-oysterscod
 title: MBL Shipment - MV oysters/cod
 wordpress_id: 788

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-21 22:48:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data/
 slug: data-management-geoduck-phase-genomics-hi-c-data
 title: Data Management - Geoduck Phase Genomics Hi-C Data
 wordpress_id: 3295

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-07-05 23:09:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/07/05/ubuntu-fix-no-video-signal-issue-on-emuroadrunner/
 slug: ubuntu-fix-no-video-signal-issue-on-emuroadrunner
 title: Ubuntu - Fix "No Video Signal" Issue on Emu/Roadrunner
 wordpress_id: 3420

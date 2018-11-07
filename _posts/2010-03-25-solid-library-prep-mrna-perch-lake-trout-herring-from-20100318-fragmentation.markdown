@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-25 17:44:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/25/solid-library-prep-mrna-perch-lake-trout-herring-from-20100318-fragmentation/
 slug: solid-library-prep-mrna-perch-lake-trout-herring-from-20100318-fragmentation
 title: SOLiD Library Prep - mRNA (perch, lake trout, herring from 20100318) Fragmentation
 wordpress_id: 692

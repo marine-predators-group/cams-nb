@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-09 04:10:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/08/reverse-transcription-dnased-hard-clam-rna-from-earlier-today/
 slug: reverse-transcription-dnased-hard-clam-rna-from-earlier-today
 title: Reverse Transcription - DNased Hard Clam RNA from earlier today
 wordpress_id: 597

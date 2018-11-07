@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-31 19:05:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/31/server-hdd-failure-owl/
 slug: server-hdd-failure-owl
 title: Server HDD Failure - Owl
 wordpress_id: 1529

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-02 17:05:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/02/installation-microsoft-machine-learning-server-microsoft-r-open-on-emuroadrunner-r-studio-server/
 slug: installation-microsoft-machine-learning-server-microsoft-r-open-on-emuroadrunner-r-studio-server
 title: Installation - Microsoft Machine Learning Server (Microsoft R Open) on Emu/Roadrunner
   R Studio Server

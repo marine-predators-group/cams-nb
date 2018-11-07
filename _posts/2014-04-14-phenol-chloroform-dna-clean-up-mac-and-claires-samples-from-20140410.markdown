@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-14 19:23:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/14/phenol-chloroform-dna-clean-up-mac-and-claires-samples-from-20140410/
 slug: phenol-chloroform-dna-clean-up-mac-and-claires-samples-from-20140410
 title: Phenol-Chloroform DNA Clean Up - Mac and Claire's Samples (from 20140410)
 wordpress_id: 147

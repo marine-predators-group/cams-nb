@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-20 20:19:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/20/qpcr-emmas-new-3kdsqpcr-primers/
 slug: qpcr-emmas-new-3kdsqpcr-primers
 title: qPCR - Emma's New 3KDSqPCR Primers
 wordpress_id: 355

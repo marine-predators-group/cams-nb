@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-28 23:44:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/28/qpcrs-bb-dh-cdna-from-20091223-2/
 slug: qpcrs-bb-dh-cdna-from-20091223-2
 title: qPCRs - BB & DH cDNA (from 20091223)
 wordpress_id: 734

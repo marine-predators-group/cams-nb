@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-21 16:19:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/21/nanodrop-h-crach-dnased-rna-from-20090623/
 slug: nanodrop-h-crach-dnased-rna-from-20090623
 title: NanoDrop - H.crach DNased RNA (from 20090623)
 wordpress_id: 902

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-11-24 04:34:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/11/23/phenolchloroform-extractions-and-etoh-precipitations-hapii-and-mspi-digests-from-yesterday/
 slug: phenolchloroform-extractions-and-etoh-precipitations-hapii-and-mspi-digests-from-yesterday
 title: Phenol:Chloroform Extractions and EtOH Precipitations - HapII and MspI digests
   from yesterday

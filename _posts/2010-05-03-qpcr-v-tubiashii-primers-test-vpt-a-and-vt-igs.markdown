@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-03 16:54:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/03/qpcr-v-tubiashii-primers-test-vpt-a-and-vt-igs/
 slug: qpcr-v-tubiashii-primers-test-vpt-a-and-vt-igs
 title: qPCR - V.tubiashii primers test (Vpt A and Vt IGS)
 wordpress_id: 660

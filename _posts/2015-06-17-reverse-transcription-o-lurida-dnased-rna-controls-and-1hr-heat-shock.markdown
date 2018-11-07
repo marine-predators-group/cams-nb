@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-17 21:13:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/17/reverse-transcription-o-lurida-dnased-rna-controls-and-1hr-heat-shock/
 slug: reverse-transcription-o-lurida-dnased-rna-controls-and-1hr-heat-shock
 title: Reverse Transcription - O.lurida DNased RNA Controls and 1hr Heat Shock
 wordpress_id: 1483

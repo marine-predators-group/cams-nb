@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-09-22 02:34:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/09/21/ethanol-precipitation-purified-pgs1-pcr-from-yesterday/
 slug: ethanol-precipitation-purified-pgs1-pcr-from-yesterday
 title: Ethanol Precipitation - Purified PGS1 PCR from yesterday
 wordpress_id: 302

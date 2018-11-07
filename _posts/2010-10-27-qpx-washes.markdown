@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-10-27 03:41:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/10/26/qpx-washes/
 slug: qpx-washes
 title: QPX Washes
 wordpress_id: 579

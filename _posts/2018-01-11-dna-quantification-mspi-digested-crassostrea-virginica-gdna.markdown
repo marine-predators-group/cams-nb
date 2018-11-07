@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-11 23:41:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna/
 slug: dna-quantification-mspi-digested-crassostrea-virginica-gdna
 title: DNA Quantification - MspI-digested Crassostrea virginica gDNA
 wordpress_id: 3029

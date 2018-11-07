@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-30 23:49:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/30/restriction-digest-oly-gdna-for-rad-seq-walfi/
 slug: restriction-digest-oly-gdna-for-rad-seq-walfi
 title: Restriction Digest - Oly gDNA for RAD-seq w/AlfI
 wordpress_id: 1668

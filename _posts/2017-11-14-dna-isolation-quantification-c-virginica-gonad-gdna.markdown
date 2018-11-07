@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-14 23:14:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/14/dna-isolation-quantification-c-virginica-gonad-gdna/
 slug: dna-isolation-quantification-c-virginica-gonad-gdna
 title: DNA Isolation & Quantification - C. virginica Gonad gDNA
 wordpress_id: 2928

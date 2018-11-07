@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-08 21:37:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/08/data-management-o-lurida-2brad-dec2015-undetermined-fastq-files/
 slug: data-management-o-lurida-2brad-dec2015-undetermined-fastq-files
 title: Data Management - O.lurida 2bRAD Dec2015 Undetermined FASTQ files
 wordpress_id: 2028

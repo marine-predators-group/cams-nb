@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-23 15:47:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/23/assembly-stats-geoduck-hi-c-final-assembly-comparison/
 slug: assembly-stats-geoduck-hi-c-final-assembly-comparison
 title: Assembly Stats – Geoduck Hi-C Final Assembly Comparison
 wordpress_id: 3517

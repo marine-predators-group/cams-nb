@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-06 22:41:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/06/spec-reading-c-pugetti-gdna-from-20090526/
 slug: spec-reading-c-pugetti-gdna-from-20090526
 title: Spec Reading - C.pugetti gDNA from 20090526
 wordpress_id: 975

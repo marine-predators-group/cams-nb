@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-07 17:44:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/07/genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream/
 slug: genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream
 title: Genome Annotation - Olympia oyster genome using WQ-MAKER Instance on Jetstream
 wordpress_id: 3475

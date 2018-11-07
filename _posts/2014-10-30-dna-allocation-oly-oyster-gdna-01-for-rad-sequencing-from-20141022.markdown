@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-10-30 04:35:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/10/29/dna-allocation-oly-oyster-gdna-01-for-rad-sequencing-from-20141022/
 slug: dna-allocation-oly-oyster-gdna-01-for-rad-sequencing-from-20141022
 title: DNA Allocation - Oly Oyster gDNA-01 for RAD Sequencing (from 20141022)
 wordpress_id: 104

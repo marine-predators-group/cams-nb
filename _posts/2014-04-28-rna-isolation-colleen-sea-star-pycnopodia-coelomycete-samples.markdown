@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-28 16:50:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/28/rna-isolation-colleen-sea-star-pycnopodia-coelomycete-samples/
 slug: rna-isolation-colleen-sea-star-pycnopodia-coelomycete-samples
 title: RNA Isolation - Colleen Sea Star (Pycnopodia) Coelomycete Samples
 wordpress_id: 135

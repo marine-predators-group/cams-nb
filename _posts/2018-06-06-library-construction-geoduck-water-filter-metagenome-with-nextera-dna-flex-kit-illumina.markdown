@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-06-06 22:19:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/06/06/library-construction-geoduck-water-filter-metagenome-with-nextera-dna-flex-kit-illumina/
 slug: library-construction-geoduck-water-filter-metagenome-with-nextera-dna-flex-kit-illumina
 title: Library Construction - Geoduck Water Filter Metagenome with Nextera DNA Flex
   Kit (Illumina)

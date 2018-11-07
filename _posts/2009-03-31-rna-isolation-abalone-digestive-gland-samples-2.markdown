@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-31 23:54:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/31/rna-isolation-abalone-digestive-gland-samples-2/
 slug: rna-isolation-abalone-digestive-gland-samples-2
 title: RNA Isolation - Abalone digestive gland samples
 wordpress_id: 1159

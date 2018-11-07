@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-05-03 03:23:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/05/02/goals-may-2017/
 slug: goals-may-2017
 title: Goals - May 2017
 wordpress_id: 2562

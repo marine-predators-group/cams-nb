@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-23 22:27:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07/
 slug: transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07
 title: Transposable Element Mapping - Olympia Oyster Genome Assembly using RepeatMasker
   4.07

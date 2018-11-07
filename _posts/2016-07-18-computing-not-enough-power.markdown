@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-18 20:35:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/18/computing-not-enough-power/
 slug: computing-not-enough-power
 title: Computing - Not Enough Power!
 wordpress_id: 2229

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-28 03:02:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/27/bacterial-cultures-c-gigas-cox2pgs2-clones-from-yesterday/
 slug: bacterial-cultures-c-gigas-cox2pgs2-clones-from-yesterday
 title: Bacterial Cultures - C.gigas COX2/PGS2 Clones (from yesterday)
 wordpress_id: 318

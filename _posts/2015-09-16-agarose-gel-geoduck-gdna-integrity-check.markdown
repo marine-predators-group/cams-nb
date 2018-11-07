@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-16 20:17:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/16/agarose-gel-geoduck-gdna-integrity-check/
 slug: agarose-gel-geoduck-gdna-integrity-check
 title: Agarose Gel – Geoduck gDNA Integrity Check
 wordpress_id: 1617

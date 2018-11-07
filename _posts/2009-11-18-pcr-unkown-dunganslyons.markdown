@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-18 03:05:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/17/pcr-unkown-dunganslyons/
 slug: pcr-unkown-dunganslyons
 title: PCR - "Unkown" Dungans/Lyons
 wordpress_id: 794

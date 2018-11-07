@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-08 22:55:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/08/genome-annoation-olympia-oyster-genome-annotation-results-02/
 slug: genome-annoation-olympia-oyster-genome-annotation-results-02
 title: 'Genome Annoation – Olympia oyster genome annotation results #02'
 wordpress_id: 3497

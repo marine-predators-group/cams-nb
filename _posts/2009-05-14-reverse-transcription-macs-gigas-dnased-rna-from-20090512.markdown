@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-14 16:55:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/14/reverse-transcription-macs-gigas-dnased-rna-from-20090512/
 slug: reverse-transcription-macs-gigas-dnased-rna-from-20090512
 title: Reverse Transcription - Mac's gigas DNased RNA from 20090512
 wordpress_id: 1069

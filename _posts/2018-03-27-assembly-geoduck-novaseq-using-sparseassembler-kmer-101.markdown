@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-27 15:58:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/27/assembly-geoduck-novaseq-using-sparseassembler-kmer-101/
 slug: assembly-geoduck-novaseq-using-sparseassembler-kmer-101
 title: Assembly - Geoduck NovaSeq using SparseAssembler kmer = 101
 wordpress_id: 3154

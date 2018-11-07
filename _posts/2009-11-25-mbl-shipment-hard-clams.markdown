@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-25 01:19:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/24/mbl-shipment-hard-clams/
 slug: mbl-shipment-hard-clams
 title: MBL Shipment - Hard Clams
 wordpress_id: 786

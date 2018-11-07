@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-08 04:14:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/07/rna-isolation-hard-clam-tissues-recd-from-rutgers-on-20100820/
 slug: rna-isolation-hard-clam-tissues-recd-from-rutgers-on-20100820
 title: RNA Isolation - Hard Clam Tissues Rec'd from Rutgers on 20100820
 wordpress_id: 599

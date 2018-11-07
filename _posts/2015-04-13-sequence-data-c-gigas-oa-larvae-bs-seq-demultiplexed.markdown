@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-13 22:03:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/13/sequence-data-c-gigas-oa-larvae-bs-seq-demultiplexed/
 slug: sequence-data-c-gigas-oa-larvae-bs-seq-demultiplexed
 title: Sequence Data - C.gigas OA Larvae BS-Seq Demultiplexed
 wordpress_id: 1245

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-11 21:26:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/11/trimgalorefastqcmultiqc-trim-10bp-53-ends-c-virginica-mbd-bs-seq-fastq-data/
 slug: trimgalorefastqcmultiqc-trim-10bp-53-ends-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - Trim 10bp 5'/3' ends C.virginica MBD BS-seq FASTQ
   data

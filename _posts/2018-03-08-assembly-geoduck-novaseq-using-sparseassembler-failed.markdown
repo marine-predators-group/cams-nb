@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-08 16:30:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/08/assembly-geoduck-novaseq-using-sparseassembler-failed/
 slug: assembly-geoduck-novaseq-using-sparseassembler-failed
 title: Assembly - Geoduck NovaSeq using SparseAssembler (failed)
 wordpress_id: 3147

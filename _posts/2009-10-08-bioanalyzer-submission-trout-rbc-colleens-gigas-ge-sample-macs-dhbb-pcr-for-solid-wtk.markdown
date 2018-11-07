@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-08 03:57:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/07/bioanalyzer-submission-trout-rbc-colleens-gigas-ge-sample-macs-dhbb-pcr-for-solid-wtk/
 slug: bioanalyzer-submission-trout-rbc-colleens-gigas-ge-sample-macs-dhbb-pcr-for-solid-wtk
 title: Bioanalyzer Submission - Trout RBC, Colleen's gigas GE sample, Mac's DH/BB
   PCR for SOLiD WTK

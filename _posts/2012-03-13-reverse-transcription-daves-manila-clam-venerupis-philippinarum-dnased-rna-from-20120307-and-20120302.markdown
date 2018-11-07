@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-13 00:25:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/12/reverse-transcription-daves-manila-clam-venerupis-philippinarum-dnased-rna-from-20120307-and-20120302/
 slug: reverse-transcription-daves-manila-clam-venerupis-philippinarum-dnased-rna-from-20120307-and-20120302
 title: Reverse Transcription - Dave's Manila Clam (Venerupis philippinarum) DNased
   RNA from 20120307 and 20120302

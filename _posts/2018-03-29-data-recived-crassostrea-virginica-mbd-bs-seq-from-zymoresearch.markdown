@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-29 17:57:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/29/data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch/
 slug: data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch
 title: Data Received - Crassostrea virginica MBD BS-seq from ZymoResearch
 wordpress_id: 3162

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-19 23:41:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/19/kmer-estimation-kmergenie-tweaks-on-geoduck-sequence-data/
 slug: kmer-estimation-kmergenie-tweaks-on-geoduck-sequence-data
 title: 'Kmer Estimation – Kmergenie Tweaks on Geoduck Sequence Data '
 wordpress_id: 3276

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-25 23:46:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/25/qpcr-check-dnased-rna-bb01-for-residual-gdna-from-earlier-today-3/
 slug: qpcr-check-dnased-rna-bb01-for-residual-gdna-from-earlier-today-3
 title: qPCR - Check DNased RNA BB01 for Residual gDNA (from earlier today)
 wordpress_id: 422

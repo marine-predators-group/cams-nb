@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-10 21:33:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3/
 slug: mbd-enrichment-crassostrea-virginica-sheared-dna-day-3
 title: MBD Enrichment – Crassostrea virginica Sheared DNA Day 3
 wordpress_id: 3010

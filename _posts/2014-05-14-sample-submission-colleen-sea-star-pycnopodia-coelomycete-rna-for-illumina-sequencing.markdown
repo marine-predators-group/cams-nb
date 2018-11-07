@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-05-14 16:33:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/05/14/sample-submission-colleen-sea-star-pycnopodia-coelomycete-rna-for-illumina-sequencing/
 slug: sample-submission-colleen-sea-star-pycnopodia-coelomycete-rna-for-illumina-sequencing
 title: Sample Submission - Colleen Sea Star (Pycnopodia) Coelomycete RNA for Illumina
   Sequencing

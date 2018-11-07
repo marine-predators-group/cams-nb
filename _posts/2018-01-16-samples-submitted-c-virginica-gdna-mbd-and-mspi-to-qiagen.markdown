@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-16 22:07:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/16/samples-submitted-c-virginica-gdna-mbd-and-mspi-to-qiagen/
 slug: samples-submitted-c-virginica-gdna-mbd-and-mspi-to-qiagen
 title: Samples Submitted - C. virginica gDNA, MBD, and MspI to Qiagen
 wordpress_id: 3061

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-22 15:29:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/22/ethanol-precipitation-olympia-oyster-mbd/
 slug: ethanol-precipitation-olympia-oyster-mbd
 title: Ethanol Precipitation - Olympia oyster MBD
 wordpress_id: 1805

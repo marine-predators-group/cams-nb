@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-18 14:07:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6/
 slug: genome-assembly-olympia-oyster-pacbio-canu-v1-6
 title: Genome Assembly - Olympia oyster PacBio Canu v1.6
 wordpress_id: 2809

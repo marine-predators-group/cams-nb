@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-21 22:03:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/21/qpcr-c-gigas-bbdh-cdna-for-props-hmgp-primers/
 slug: qpcr-c-gigas-bbdh-cdna-for-props-hmgp-primers
 title: qPCR - C.gigas BB/DH cDNA for PROPS (HMGP primers)
 wordpress_id: 392

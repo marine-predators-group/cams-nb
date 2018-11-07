@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-01 19:43:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/01/dna-isolation-mackenzies-c-gigas-gonad-sample/
 slug: dna-isolation-mackenzies-c-gigas-gonad-sample
 title: DNA Isolation - Mackenzie's C.gigas Gonad Sample
 wordpress_id: 158

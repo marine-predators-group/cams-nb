@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-09-19 22:36:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/09/19/data-received-jays-coral-epiradseq-not-demultiplexed/
 slug: data-received-jays-coral-epiradseq-not-demultiplexed
 title: Data Received – Jay’s Coral epiRADseq - Not Demultiplexed
 wordpress_id: 2292

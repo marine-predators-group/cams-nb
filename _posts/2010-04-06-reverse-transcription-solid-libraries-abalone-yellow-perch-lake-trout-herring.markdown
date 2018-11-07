@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-06 17:26:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/06/reverse-transcription-solid-libraries-abalone-yellow-perch-lake-trout-herring/
 slug: reverse-transcription-solid-libraries-abalone-yellow-perch-lake-trout-herring
 title: Reverse Transcription SOLiD Libraries - Abalone, Yellow Perch, Lake Trout,
   Herring

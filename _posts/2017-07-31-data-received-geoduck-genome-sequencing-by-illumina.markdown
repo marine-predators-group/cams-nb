@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-31 16:01:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/31/data-received-geoduck-genome-sequencing-by-illumina/
 slug: data-received-geoduck-genome-sequencing-by-illumina
 title: Data Received - Geoduck Genome Sequencing by Illumina
 wordpress_id: 2662

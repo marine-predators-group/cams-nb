@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-05 23:22:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/05/gdna-isolation-geoduck-adductor-muscle/
 slug: gdna-isolation-geoduck-adductor-muscle
 title: gDNA Isolation - Geoduck Adductor Muscle
 wordpress_id: 1702

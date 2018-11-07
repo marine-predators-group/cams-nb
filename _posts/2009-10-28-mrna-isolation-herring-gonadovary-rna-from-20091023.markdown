@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-28 02:30:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/27/mrna-isolation-herring-gonadovary-rna-from-20091023/
 slug: mrna-isolation-herring-gonadovary-rna-from-20091023
 title: mRNA Isolation - Herring gonad/ovary RNA (from 20091023)
 wordpress_id: 802

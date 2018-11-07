@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-17 23:23:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/17/ethanol-precipitation-geoduck-olympia-oyster-gdna/
 slug: ethanol-precipitation-geoduck-olympia-oyster-gdna
 title: Ethanol Precipitation - Geoduck & Olympia oyster gDNA
 wordpress_id: 1640

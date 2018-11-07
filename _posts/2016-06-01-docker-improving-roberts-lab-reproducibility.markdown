@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-01 19:06:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/01/docker-improving-roberts-lab-reproducibility/
 slug: docker-improving-roberts-lab-reproducibility
 title: Docker - Improving Roberts Lab Reproducibility
 wordpress_id: 2128

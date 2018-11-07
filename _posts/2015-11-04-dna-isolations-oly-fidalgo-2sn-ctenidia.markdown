@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-04 05:50:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/03/dna-isolations-oly-fidalgo-2sn-ctenidia/
 slug: dna-isolations-oly-fidalgo-2sn-ctenidia
 title: DNA Isolations – Oly Fidalgo 2SN Ctenidia
 wordpress_id: 1755

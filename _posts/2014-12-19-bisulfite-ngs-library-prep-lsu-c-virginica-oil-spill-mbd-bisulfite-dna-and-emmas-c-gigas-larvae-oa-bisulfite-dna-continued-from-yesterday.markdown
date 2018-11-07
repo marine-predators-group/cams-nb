@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-12-19 03:11:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/12/18/bisulfite-ngs-library-prep-lsu-c-virginica-oil-spill-mbd-bisulfite-dna-and-emmas-c-gigas-larvae-oa-bisulfite-dna-continued-from-yesterday/
 slug: bisulfite-ngs-library-prep-lsu-c-virginica-oil-spill-mbd-bisulfite-dna-and-emmas-c-gigas-larvae-oa-bisulfite-dna-continued-from-yesterday
 title: Bisulfite NGS Library Prep - LSU C.virginica Oil Spill MBD Bisulfite DNA and
   Emma's C.gigas Larvae OA Bisulfite DNA (continued from yesterday)

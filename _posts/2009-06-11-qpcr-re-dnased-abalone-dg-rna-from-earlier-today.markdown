@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-11 01:46:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/10/qpcr-re-dnased-abalone-dg-rna-from-earlier-today/
 slug: qpcr-re-dnased-abalone-dg-rna-from-earlier-today
 title: qPCR - Re-DNased abalone Dg RNA from earlier today
 wordpress_id: 1027

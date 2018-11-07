@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-12-11 23:05:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/
 slug: dna-isolation-quantification-crassotrea-virginica-mantle-gdna
 title: DNA Isolation & Quantification - Crassostrea virginica Mantle gDNA
 wordpress_id: 2953

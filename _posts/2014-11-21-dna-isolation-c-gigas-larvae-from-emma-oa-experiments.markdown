@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-21 17:04:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/21/dna-isolation-c-gigas-larvae-from-emma-oa-experiments/
 slug: dna-isolation-c-gigas-larvae-from-emma-oa-experiments
 title: DNA Isolation - C.gigas Larvae from Emma OA Experiments
 wordpress_id: 81

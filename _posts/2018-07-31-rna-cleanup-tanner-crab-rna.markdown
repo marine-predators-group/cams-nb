@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-07-31 22:42:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/07/31/rna-cleanup-tanner-crab-rna/
 slug: rna-cleanup-tanner-crab-rna
 title: RNA Cleanup - Tanner Crab RNA
 wordpress_id: 3467

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-10 00:29:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/09/reverse-transcription-herring-liver-mrna-for-solid-libraries/
 slug: reverse-transcription-herring-liver-mrna-for-solid-libraries
 title: Reverse Transcription - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 758

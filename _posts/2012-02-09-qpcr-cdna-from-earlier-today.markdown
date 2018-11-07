@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-02-09 01:51:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/02/08/qpcr-cdna-from-earlier-today/
 slug: qpcr-cdna-from-earlier-today
 title: qPCR - cDNA from earlier today
 wordpress_id: 277

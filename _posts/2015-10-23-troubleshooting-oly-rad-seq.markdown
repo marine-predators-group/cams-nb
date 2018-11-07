@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-23 22:50:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/23/troubleshooting-oly-rad-seq/
 slug: troubleshooting-oly-rad-seq
 title: Troubleshooting - Oly RAD-seq
 wordpress_id: 1739

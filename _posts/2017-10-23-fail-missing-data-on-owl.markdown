@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-23 15:20:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/23/fail-missing-data-on-owl/
 slug: fail-missing-data-on-owl
 title: FAIL - Missing Data on Owl!
 wordpress_id: 2812

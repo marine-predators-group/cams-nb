@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-15 00:24:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/14/dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing/
 slug: dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing
 title: DNA Isolation - Ostrea lurida DNA for PacBio Sequencing
 wordpress_id: 2395

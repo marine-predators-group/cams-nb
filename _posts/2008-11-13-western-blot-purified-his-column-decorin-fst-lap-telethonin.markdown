@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-11-13 18:40:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/11/13/western-blot-purified-his-column-decorin-fst-lap-telethonin/
 slug: western-blot-purified-his-column-decorin-fst-lap-telethonin
 title: Western Blot - Purified (His column) decorin, FST, LAP & telethonin
 wordpress_id: 1367

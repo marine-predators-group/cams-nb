@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-02 00:05:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle/
 slug: genomic-dna-isolation-olympia-oyster-adductor-musle-mantle
 title: Genomic DNA Isolation - Olympia oyster adductor musle & mantle
 wordpress_id: 1558

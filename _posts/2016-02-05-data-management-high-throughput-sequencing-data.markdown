@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-02-05 04:48:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/02/04/data-management-high-throughput-sequencing-data/
 slug: data-management-high-throughput-sequencing-data
 title: Data Management - High-throughput Sequencing Data
 wordpress_id: 2013

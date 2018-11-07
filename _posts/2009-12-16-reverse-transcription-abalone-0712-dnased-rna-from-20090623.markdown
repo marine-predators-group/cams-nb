@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-16 00:16:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/15/reverse-transcription-abalone-0712-dnased-rna-from-20090623/
 slug: reverse-transcription-abalone-0712-dnased-rna-from-20090623
 title: Reverse Transcription - Abalone 07:12 DNased RNA (from 20090623)
 wordpress_id: 750

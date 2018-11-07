@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-05-09 13:55:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/05/09/samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/
 slug: samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu
 title: Samples Received - Acropora cervicornis (Staghorn coral) DNA from Javier Casariego
   (FIU)

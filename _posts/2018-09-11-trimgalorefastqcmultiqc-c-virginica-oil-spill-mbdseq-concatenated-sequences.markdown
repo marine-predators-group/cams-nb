@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-11 22:04:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/11/trimgalorefastqcmultiqc-c-virginica-oil-spill-mbdseq-concatenated-sequences/
 slug: trimgalorefastqcmultiqc-c-virginica-oil-spill-mbdseq-concatenated-sequences
 title: TrimGalore/FastQC/MultiQC - C.virginica Oil Spill MBDseq Concatenated Sequences
 wordpress_id: 3552

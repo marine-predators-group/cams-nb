@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-14 22:52:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/14/data-received-initial-olympia-oyster-genome-assembly-from-bgi/
 slug: data-received-initial-olympia-oyster-genome-assembly-from-bgi
 title: Data Received - Initial Olympia oyster Genome Assembly from BGI
 wordpress_id: 2035

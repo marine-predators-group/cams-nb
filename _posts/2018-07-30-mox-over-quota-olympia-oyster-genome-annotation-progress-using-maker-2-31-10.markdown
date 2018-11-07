@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-07-30 16:22:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/07/30/mox-over-quota-olympia-oyster-genome-annotation-progress-using-maker-2-31-10/
 slug: mox-over-quota-olympia-oyster-genome-annotation-progress-using-maker-2-31-10
 title: 'Mox – Over quota: Olympia oyster genome annotation progress (using Maker 2.31.10)'
 wordpress_id: 3459

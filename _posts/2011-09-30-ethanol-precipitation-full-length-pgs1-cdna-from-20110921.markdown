@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-09-30 02:31:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/09/29/ethanol-precipitation-full-length-pgs1-cdna-from-20110921/
 slug: ethanol-precipitation-full-length-pgs1-cdna-from-20110921
 title: Ethanol Precipitation - Full-length PGS1 cDNA (from 20110921)
 wordpress_id: 300

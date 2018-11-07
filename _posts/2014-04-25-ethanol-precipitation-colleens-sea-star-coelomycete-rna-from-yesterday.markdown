@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-25 16:55:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/25/ethanol-precipitation-colleens-sea-star-coelomycete-rna-from-yesterday/
 slug: ethanol-precipitation-colleens-sea-star-coelomycete-rna-from-yesterday
 title: Ethanol Precipitation - Colleen's Sea Star Coelomycete RNA from Yesterday
 wordpress_id: 137

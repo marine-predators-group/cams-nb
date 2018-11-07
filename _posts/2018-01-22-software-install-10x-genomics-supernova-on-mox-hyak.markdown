@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-22 23:46:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/22/software-install-10x-genomics-supernova-on-mox-hyak/
 slug: software-install-10x-genomics-supernova-on-mox-hyak
 title: Software Install - 10x Genomics Supernova on Mox (Hyak)
 wordpress_id: 3054

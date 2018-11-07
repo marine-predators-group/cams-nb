@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-14 19:05:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/14/genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wbgi-scaffold-assembly/
 slug: genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wbgi-scaffold-assembly
 title: Genome Assembly -  Olympia Oyster Illumina & PacBio Using PB Jelly w/BGI Scaffold
   Assembly

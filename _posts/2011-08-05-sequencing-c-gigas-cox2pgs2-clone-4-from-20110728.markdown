@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-08-05 02:56:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/08/04/sequencing-c-gigas-cox2pgs2-clone-4-from-20110728/
 slug: sequencing-c-gigas-cox2pgs2-clone-4-from-20110728
 title: 'Sequencing - C.gigas COX2/PGS2 Clone #4 from 20110728'
 wordpress_id: 314

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-06 13:37:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/06/data-management-tarball-of-olympia-oyster-uw-pacbio-data-from-20170323/
 slug: data-management-tarball-of-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management – Tarball of Olympia oyster UW PacBio Data from 20170323
 wordpress_id: 2630

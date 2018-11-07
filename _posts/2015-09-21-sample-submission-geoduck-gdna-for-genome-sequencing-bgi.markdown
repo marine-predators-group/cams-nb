@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-21 18:30:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/21/sample-submission-geoduck-gdna-for-genome-sequencing-bgi/
 slug: sample-submission-geoduck-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Geoduck gDNA for Genome Sequencing @ BGI
 wordpress_id: 1852

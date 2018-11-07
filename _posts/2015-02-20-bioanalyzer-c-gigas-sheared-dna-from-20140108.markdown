@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-20 18:34:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/20/bioanalyzer-c-gigas-sheared-dna-from-20140108/
 slug: bioanalyzer-c-gigas-sheared-dna-from-20140108
 title: Bioanalyzer - C.gigas Sheared DNA from 20140108
 wordpress_id: 508

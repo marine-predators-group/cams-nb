@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-17 16:22:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/17/qpcr-abalone-gdna-h-crach-067-1/
 slug: qpcr-abalone-gdna-h-crach-067-1
 title: qPCR - Abalone gDNA (H.crach 06:7-1)
 wordpress_id: 906

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-29 17:40:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/29/rna-gel-v-tubiashii-mrna-samples-from-20081224/
 slug: rna-gel-v-tubiashii-mrna-samples-from-20081224
 title: RNA Gel - V. tubiashii mRNA samples (from 20081224)
 wordpress_id: 1339

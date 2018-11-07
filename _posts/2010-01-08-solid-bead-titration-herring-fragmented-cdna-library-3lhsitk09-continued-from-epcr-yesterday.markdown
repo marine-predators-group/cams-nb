@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-08 19:55:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/08/solid-bead-titration-herring-fragmented-cdna-library-3lhsitk09-continued-from-epcr-yesterday/
 slug: solid-bead-titration-herring-fragmented-cdna-library-3lhsitk09-continued-from-epcr-yesterday
 title: SOLiD Bead Titration - Herring fragmented cDNA library 3LHSITK09 (CONTINUED
   from ePCR yesterday)

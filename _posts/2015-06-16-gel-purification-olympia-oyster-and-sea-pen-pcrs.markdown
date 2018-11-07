@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-16 00:50:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/15/gel-purification-olympia-oyster-and-sea-pen-pcrs/
 slug: gel-purification-olympia-oyster-and-sea-pen-pcrs
 title: Gel Purification - Olympia Oyster and Sea Pen PCRs
 wordpress_id: 1479

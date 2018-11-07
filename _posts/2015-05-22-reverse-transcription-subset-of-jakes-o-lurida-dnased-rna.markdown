@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-22 22:40:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/22/reverse-transcription-subset-of-jakes-o-lurida-dnased-rna/
 slug: reverse-transcription-subset-of-jakes-o-lurida-dnased-rna
 title: Reverse Transcription - Subset of Jake's O.lurida DNased RNA
 wordpress_id: 1436

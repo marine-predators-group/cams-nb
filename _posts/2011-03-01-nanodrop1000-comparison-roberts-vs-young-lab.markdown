@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-01 23:39:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/01/nanodrop1000-comparison-roberts-vs-young-lab/
 slug: nanodrop1000-comparison-roberts-vs-young-lab
 title: NanoDrop1000 Comparison - Roberts vs. Young Lab
 wordpress_id: 414

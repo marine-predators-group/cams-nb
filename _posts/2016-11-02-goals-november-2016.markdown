@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-11-02 14:12:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/02/goals-november-2016/
 slug: goals-november-2016
 title: Goals - November 2016
 wordpress_id: 2314

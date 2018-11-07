@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-08-01 19:21:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/08/01/computing-amazon-ec2-cost-analysis/
 slug: computing-amazon-ec2-cost-analysis
 title: Computing - Amazon EC2 Cost "Analysis"
 wordpress_id: 2244

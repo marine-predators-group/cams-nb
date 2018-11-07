@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-14 16:58:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/14/truseq-adaptor-identification-method-comparison-lsu-c-virginica-oil-spill-sequences/
 slug: truseq-adaptor-identification-method-comparison-lsu-c-virginica-oil-spill-sequences
 title: TruSeq Adaptor Identification Method Comparison - LSU C.virginica Oil Spill
   Sequences

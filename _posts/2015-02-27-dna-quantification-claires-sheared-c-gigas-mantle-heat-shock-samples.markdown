@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-27 03:34:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/26/dna-quantification-claires-sheared-c-gigas-mantle-heat-shock-samples/
 slug: dna-quantification-claires-sheared-c-gigas-mantle-heat-shock-samples
 title: DNA Quantification - Claire's Sheared C.gigas Mantle Heat Shock Samples
 wordpress_id: 520

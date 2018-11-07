@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-25 18:58:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/25/dna-isolation-claires-c-gigas-female-gonad/
 slug: dna-isolation-claires-c-gigas-female-gonad
 title: DNA Isolation - Claire's C.gigas Female Gonad
 wordpress_id: 139

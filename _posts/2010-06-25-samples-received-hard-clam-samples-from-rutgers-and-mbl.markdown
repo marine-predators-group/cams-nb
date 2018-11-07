@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-06-25 04:58:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/06/24/samples-received-hard-clam-samples-from-rutgers-and-mbl/
 slug: samples-received-hard-clam-samples-from-rutgers-and-mbl
 title: Samples Received - Hard Clam samples from Rutgers and MBL
 wordpress_id: 629

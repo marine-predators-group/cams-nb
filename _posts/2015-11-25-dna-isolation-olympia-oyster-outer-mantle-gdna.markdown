@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 01:47:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/24/dna-isolation-olympia-oyster-outer-mantle-gdna/
 slug: dna-isolation-olympia-oyster-outer-mantle-gdna
 title: DNA Isolation - Olympia Oyster Outer Mantle gDNA
 wordpress_id: 1811

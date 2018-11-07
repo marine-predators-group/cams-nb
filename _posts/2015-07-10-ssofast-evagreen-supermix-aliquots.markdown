@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-10 20:34:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/10/ssofast-evagreen-supermix-aliquots/
 slug: ssofast-evagreen-supermix-aliquots
 title: SsoFast EvaGreen Supermix Aliquots
 wordpress_id: 1514

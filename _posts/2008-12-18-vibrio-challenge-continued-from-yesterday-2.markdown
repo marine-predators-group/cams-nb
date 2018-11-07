@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-18 18:13:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/18/vibrio-challenge-continued-from-yesterday-2/
 slug: vibrio-challenge-continued-from-yesterday-2
 title: Vibrio challenge CONTINUED (from yesterday)
 wordpress_id: 1347

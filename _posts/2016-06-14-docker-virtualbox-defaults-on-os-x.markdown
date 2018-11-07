@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-14 18:10:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/14/docker-virtualbox-defaults-on-os-x/
 slug: docker-virtualbox-defaults-on-os-x
 title: Docker - VirtualBox Defaults on OS X
 wordpress_id: 2150

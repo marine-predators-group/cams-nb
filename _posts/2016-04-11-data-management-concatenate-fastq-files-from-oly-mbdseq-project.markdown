@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-11 19:34:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/11/data-management-concatenate-fastq-files-from-oly-mbdseq-project/
 slug: data-management-concatenate-fastq-files-from-oly-mbdseq-project
 title: Data Management - Concatenate FASTQ files from Oly MBDseq Project
 wordpress_id: 2078

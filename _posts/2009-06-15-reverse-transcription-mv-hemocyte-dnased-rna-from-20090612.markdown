@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-15 00:39:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/14/reverse-transcription-mv-hemocyte-dnased-rna-from-20090612/
 slug: reverse-transcription-mv-hemocyte-dnased-rna-from-20090612
 title: Reverse Transcription - MV hemocyte DNased RNA from 20090612
 wordpress_id: 1015

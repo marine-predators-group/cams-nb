@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-14 23:00:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/14/iso-creation-opticonmonitor3-disc-cloning/
 slug: iso-creation-opticonmonitor3-disc-cloning
 title: ISO Creation - OpticonMonitor3 Disc Cloning
 wordpress_id: 1391

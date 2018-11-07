@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-19 23:11:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/19/sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing/
 slug: sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing
 title: Sample Submission - Ostrea lurida gDNA for PacBio Sequencing
 wordpress_id: 2409

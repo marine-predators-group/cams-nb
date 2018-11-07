@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-24 16:58:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/24/rna-seq-c-gigas-total-rna-from-claires-prepost-heat-shock/
 slug: rna-seq-c-gigas-total-rna-from-claires-prepost-heat-shock
 title: RNA Seq - C.gigas Total RNA from Claire's Pre/Post Heat Shock
 wordpress_id: 79

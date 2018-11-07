@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-08 17:40:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/08/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark/
 slug: bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark
 title: 'BS-seq Mapping - Olympia oyster bisulfite sequencing: TrimGalore > FastQC
   > Bismark'

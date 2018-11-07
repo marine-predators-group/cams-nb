@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-22 17:45:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/22/rna-isolation-v-tubiashii-from-challenge-see-20081216/
 slug: rna-isolation-v-tubiashii-from-challenge-see-20081216
 title: RNA Isolation - V. tubiashii from challenge (see 20081216)
 wordpress_id: 1343

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-12-24 02:05:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/12/23/solid-retrieved-solid-library-samples-from-ceg-from-20101213/
 slug: solid-retrieved-solid-library-samples-from-ceg-from-20101213
 title: SOLiD - Retrieved SOLiD Library Samples from CEG from 20101213
 wordpress_id: 559

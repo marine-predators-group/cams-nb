@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-15 21:02:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/15/data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis/
 slug: data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis
 title: Data Received - Chionoecetes bairdi RNAseq & FastQC Analysis
 wordpress_id: 3639

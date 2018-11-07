@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-13 23:08:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/13/computing-the-very-quick-guide-to-amazon-web-services-cloud-computing-instances-ec2/
 slug: computing-the-very-quick-guide-to-amazon-web-services-cloud-computing-instances-ec2
 title: Computing - The Very Quick "Guide" to Amazon Web Services Cloud Computing Instances
   (EC2)

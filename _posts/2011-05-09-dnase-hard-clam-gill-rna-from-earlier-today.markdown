@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-09 20:35:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/09/dnase-hard-clam-gill-rna-from-earlier-today/
 slug: dnase-hard-clam-gill-rna-from-earlier-today
 title: DNase - Hard Clam Gill RNA (from earlier today)
 wordpress_id: 364

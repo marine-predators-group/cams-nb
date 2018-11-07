@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-10-23 04:37:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/10/22/dna-quantification-oly-oyster-gdna-01-for-rad-sequencing-from-20141014/
 slug: dna-quantification-oly-oyster-gdna-01-for-rad-sequencing-from-20141014
 title: DNA Quantification - Oly Oyster gDNA-01 for RAD Sequencing (from 20141014)
 wordpress_id: 106

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-12 20:52:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/12/dna-quantification-sea-lice-dna-from-20180523/
 slug: dna-quantification-sea-lice-dna-from-20180523
 title: DNA Quantification - Sea Lice DNA from 20180523
 wordpress_id: 3545

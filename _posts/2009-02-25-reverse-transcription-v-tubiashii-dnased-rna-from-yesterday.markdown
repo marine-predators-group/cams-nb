@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-25 02:05:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/24/reverse-transcription-v-tubiashii-dnased-rna-from-yesterday/
 slug: reverse-transcription-v-tubiashii-dnased-rna-from-yesterday
 title: Reverse Transcription - V.tubiashii DNAsed RNA (from yesterday)
 wordpress_id: 1181

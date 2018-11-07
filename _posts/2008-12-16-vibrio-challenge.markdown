@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-16 18:22:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/16/vibrio-challenge/
 slug: vibrio-challenge
 title: Vibrio challenge
 wordpress_id: 1353

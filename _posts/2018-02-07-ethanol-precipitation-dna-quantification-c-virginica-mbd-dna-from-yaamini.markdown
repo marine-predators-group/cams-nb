@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-07 20:36:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/07/ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini/
 slug: ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini
 title: Ethanol Precipitation & DNA Quantification - C. virginica MBD DNA from Yaamini
 wordpress_id: 3072

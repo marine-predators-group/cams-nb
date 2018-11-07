@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-06 00:03:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/05/agarose-gel-geoduck-olympia-oyster-gdna/
 slug: agarose-gel-geoduck-olympia-oyster-gdna
 title: Agarose Gel - Geoduck & Olympia Oyster gDNA
 wordpress_id: 1710

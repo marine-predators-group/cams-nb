@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-26 03:12:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/25/cloning-c-gigas-cox2pgs2-53-race-products-from-earlier-today/
 slug: cloning-c-gigas-cox2pgs2-53-race-products-from-earlier-today
 title: Cloning - C.gigas COX2/PGS2 5'/3' RACE Products (from earlier today)
 wordpress_id: 324

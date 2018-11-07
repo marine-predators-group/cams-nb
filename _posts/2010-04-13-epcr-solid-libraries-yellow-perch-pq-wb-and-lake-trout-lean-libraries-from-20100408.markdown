@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-13 17:10:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/13/epcr-solid-libraries-yellow-perch-pq-wb-and-lake-trout-lean-libraries-from-20100408/
 slug: epcr-solid-libraries-yellow-perch-pq-wb-and-lake-trout-lean-libraries-from-20100408
 title: ePCR SOLiD Libraries - Yellow perch PQ, WB and Lake Trout Lean libraries (from
   20100408)

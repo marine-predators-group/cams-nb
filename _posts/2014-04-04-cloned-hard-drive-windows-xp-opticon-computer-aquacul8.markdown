@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-04 19:39:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/04/cloned-hard-drive-windows-xp-opticon-computer-aquacul8/
 slug: cloned-hard-drive-windows-xp-opticon-computer-aquacul8
 title: Cloned Hard Drive - Windows XP Opticon Computer (Aquacul8)
 wordpress_id: 156

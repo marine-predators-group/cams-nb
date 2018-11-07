@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-03 20:48:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/03/rna-isolation-ronits-c-gigas-diploidtriploid-dessicationheat-shock-ctenidia-tissues/
 slug: rna-isolation-ronits-c-gigas-diploidtriploid-dessicationheat-shock-ctenidia-tissues
 title: RNA Isolation - Ronit's C.gigas diploid/triploid dessication/heat shock ctenidia
   tissues

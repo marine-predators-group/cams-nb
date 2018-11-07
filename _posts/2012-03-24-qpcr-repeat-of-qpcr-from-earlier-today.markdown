@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-24 00:20:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/23/qpcr-repeat-of-qpcr-from-earlier-today/
 slug: qpcr-repeat-of-qpcr-from-earlier-today
 title: qPCR - Repeat of qPCR from Earlier Today
 wordpress_id: 259

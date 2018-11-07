@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-30 20:46:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/30/software-installation-pb-jelly-suite-and-blasr-on-emu/
 slug: software-installation-pb-jelly-suite-and-blasr-on-emu
 title: Software Installation - PB Jelly Suite and Blasr on Emu
 wordpress_id: 2824

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-30 19:08:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/30/rnaseq-data-receipt-geoduck-gonad-rna-100bp-pe-illumina/
 slug: rnaseq-data-receipt-geoduck-gonad-rna-100bp-pe-illumina
 title: RNAseq Data Receipt - Geoduck Gonad RNA 100bp PE Illumina
 wordpress_id: 1498

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-24 19:09:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/24/rna-clean-up-colleens-sea-star-coelomycete-rna-from-20140416/
 slug: rna-clean-up-colleens-sea-star-coelomycete-rna-from-20140416
 title: RNA Clean Up - Colleen's Sea Star Coelomycete RNA from 20140416
 wordpress_id: 141

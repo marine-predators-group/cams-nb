@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-09 21:28:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/09/rna-isolation-tanner-crab-hemolymph-pellet-in-rnalater-using-trireagent/
 slug: rna-isolation-tanner-crab-hemolymph-pellet-in-rnalater-using-trireagent
 title: RNA Isolation - Tanner Crab Hemolymph Pellet in RNAlater using TriReagent
 wordpress_id: 3618

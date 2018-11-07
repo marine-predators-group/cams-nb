@@ -3,7 +3,6 @@ author: Sam White
 comments: true
 date: 2012-03-27 00:15:02+00:00
 layout: post
-link: http://onsnetwork.org/Sam White/2012/03/26/qpcr-taylor-water-filter-dna-extracts-from-20120322/
 slug: qpcr-taylor-water-filter-dna-extracts-from-20120322
 title: qPCR - Taylor Water Filter DNA Extracts from 20120322
 wordpress_id: 255

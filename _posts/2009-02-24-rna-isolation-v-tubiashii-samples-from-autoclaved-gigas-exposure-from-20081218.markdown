@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-24 02:09:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/23/rna-isolation-v-tubiashii-samples-from-autoclaved-gigas-exposure-from-20081218/
 slug: rna-isolation-v-tubiashii-samples-from-autoclaved-gigas-exposure-from-20081218
 title: RNA Isolation - V.tubiashii samples from autoclaved gigas exposure (from 20081218)
 wordpress_id: 1185

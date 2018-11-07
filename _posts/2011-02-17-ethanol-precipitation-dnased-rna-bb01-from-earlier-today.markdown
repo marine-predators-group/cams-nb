@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-17 04:23:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/16/ethanol-precipitation-dnased-rna-bb01-from-earlier-today/
 slug: ethanol-precipitation-dnased-rna-bb01-from-earlier-today
 title: Ethanol Precipitation - DNased RNA BB01 (from earlier today)
 wordpress_id: 470

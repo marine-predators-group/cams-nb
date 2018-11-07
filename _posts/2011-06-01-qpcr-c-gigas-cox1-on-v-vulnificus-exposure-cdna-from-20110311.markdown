@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-06-01 20:10:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/06/01/qpcr-c-gigas-cox1-on-v-vulnificus-exposure-cdna-from-20110311/
 slug: qpcr-c-gigas-cox1-on-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas COX1 on V.vulnificus exposure cDNA (from 20110311)
 wordpress_id: 348

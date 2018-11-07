@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-27 23:23:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/27/dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna/
 slug: dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna
 title: DNase Treatment - O.lurida Ctenidia 1hr Post-Mechanical Stress RNA
 wordpress_id: 1524

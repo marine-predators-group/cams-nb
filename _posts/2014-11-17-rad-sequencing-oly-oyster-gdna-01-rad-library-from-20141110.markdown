@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-17 17:07:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/17/rad-sequencing-oly-oyster-gdna-01-rad-library-from-20141110/
 slug: rad-sequencing-oly-oyster-gdna-01-rad-library-from-20141110
 title: RAD Sequencing - Oly Oyster gDNA-01 RAD Library (from 20141110)
 wordpress_id: 83

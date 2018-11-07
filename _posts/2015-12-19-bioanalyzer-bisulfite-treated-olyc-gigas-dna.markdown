@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-19 07:15:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/18/bioanalyzer-bisulfite-treated-olyc-gigas-dna/
 slug: bioanalyzer-bisulfite-treated-olyc-gigas-dna
 title: Bioanalyzer - Bisulfite-treated Oly/C.gigas DNA
 wordpress_id: 1898

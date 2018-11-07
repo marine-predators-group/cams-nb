@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-08-12 02:53:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/08/11/qpcr-c-gigas-v-vulnificus-exposure-cdna-from-20110311/
 slug: qpcr-c-gigas-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas V.vulnificus Exposure cDNA (from 20110311)
 wordpress_id: 312

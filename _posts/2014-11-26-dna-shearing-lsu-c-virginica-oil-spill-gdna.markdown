@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-26 06:28:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/25/dna-shearing-lsu-c-virginica-oil-spill-gdna/
 slug: dna-shearing-lsu-c-virginica-oil-spill-gdna
 title: DNA Shearing - LSU C.virginica Oil Spill gDNA
 wordpress_id: 77

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-16 18:15:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/16/qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-18s-primers/
 slug: qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-18s-primers
 title: qPCR - Ronit's DNAsed C.gigas Ploidy/Dessication RNA with 18s primers
 wordpress_id: 3652

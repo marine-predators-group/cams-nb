@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-10 04:32:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/09/qpcr-hpaiimspi-digests-from-earlier-today/
 slug: qpcr-hpaiimspi-digests-from-earlier-today
 title: qPCR - HpaII/MspI Digests from earlier today
 wordpress_id: 611

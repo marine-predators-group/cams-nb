@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-23 19:38:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/23/assembly-comparison-oly-pacbio-canu-sam-vs-sean-with-quast/
 slug: assembly-comparison-oly-pacbio-canu-sam-vs-sean-with-quast
 title: 'Assembly Comparison - Oly PacBio Canu: Sam vs. Sean with Quast'
 wordpress_id: 2817

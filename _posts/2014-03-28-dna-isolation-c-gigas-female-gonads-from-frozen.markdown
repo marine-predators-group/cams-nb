@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-03-28 20:14:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/03/28/dna-isolation-c-gigas-female-gonads-from-frozen/
 slug: dna-isolation-c-gigas-female-gonads-from-frozen
 title: DNA Isolation - C.gigas Female Gonads (from frozen)
 wordpress_id: 164

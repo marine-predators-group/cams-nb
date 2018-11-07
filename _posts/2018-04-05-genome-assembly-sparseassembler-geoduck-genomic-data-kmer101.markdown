@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-05 21:50:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/
 slug: genome-assembly-sparseassembler-geoduck-genomic-data-kmer101
 title: Genome Assembly - SparseAssembler Geoduck Genomic Data, kmer=101
 wordpress_id: 3212

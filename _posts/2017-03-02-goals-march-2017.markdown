@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-02 00:31:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/01/goals-march-2017/
 slug: goals-march-2017
 title: Goals - March 2017
 wordpress_id: 2492

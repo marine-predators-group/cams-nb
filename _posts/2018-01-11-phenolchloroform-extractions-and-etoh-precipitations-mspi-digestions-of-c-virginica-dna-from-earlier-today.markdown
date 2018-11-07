@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-11 22:22:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today/
 slug: phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today
 title: Phenol:Chloroform Extractions and EtOH Precipitations - MspI Digestions of
   C.virginica DNA from Earlier Today

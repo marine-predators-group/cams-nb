@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-15 22:09:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/15/qpcr-c-gigas-cox1cox2-tissue-distribution/
 slug: qpcr-c-gigas-cox1cox2-tissue-distribution
 title: qPCR - C.gigas COX1/COX2 Tissue Distribution
 wordpress_id: 396

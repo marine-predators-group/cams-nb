@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-11-08 23:56:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/11/08/qpcr-manila-clam-larvae-cdna-from-august-2012-daves-notebook/
 slug: qpcr-manila-clam-larvae-cdna-from-august-2012-daves-notebook
 title: qPCR - Manila Clam Larvae cDNA (from August 2012 - Dave's Notebook)
 wordpress_id: 208

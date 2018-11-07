@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-07 02:20:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/06/pcr-region-outside-of-coxpgs-qpcr-primers/
 slug: pcr-region-outside-of-coxpgs-qpcr-primers
 title: PCR - Region Outside of COX/PGS qPCR Primers
 wordpress_id: 296

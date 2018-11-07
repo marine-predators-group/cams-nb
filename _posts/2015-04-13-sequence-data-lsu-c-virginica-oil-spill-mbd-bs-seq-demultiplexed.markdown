@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-13 21:49:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/13/sequence-data-lsu-c-virginica-oil-spill-mbd-bs-seq-demultiplexed/
 slug: sequence-data-lsu-c-virginica-oil-spill-mbd-bs-seq-demultiplexed
 title: Sequence Data - LSU C.virginica Oil Spill MBD BS-Seq Demultiplexed
 wordpress_id: 1239

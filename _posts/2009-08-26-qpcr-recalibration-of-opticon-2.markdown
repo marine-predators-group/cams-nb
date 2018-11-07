@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-26 16:02:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/26/qpcr-recalibration-of-opticon-2/
 slug: qpcr-recalibration-of-opticon-2
 title: qPCR - Recalibration of Opticon 2
 wordpress_id: 884

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-14 13:24:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/14/filter-replacement-xserve-server-rack-enclosure/
 slug: filter-replacement-xserve-server-rack-enclosure
 title: Filter Replacement - Xserve Server Rack Enclosure
 wordpress_id: 2195

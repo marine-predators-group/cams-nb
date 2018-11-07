@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-27 03:04:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/26/colony-pcrs-c-gigas-cox2pgs2-clones-from-yesterday/
 slug: colony-pcrs-c-gigas-cox2pgs2-clones-from-yesterday
 title: Colony PCRs - C.gigas COX2/PGS2 Clones (from yesterday)
 wordpress_id: 320

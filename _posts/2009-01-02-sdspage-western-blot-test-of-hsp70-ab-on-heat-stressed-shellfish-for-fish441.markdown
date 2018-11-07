@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-02 23:11:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/02/sdspage-western-blot-test-of-hsp70-ab-on-heat-stressed-shellfish-for-fish441/
 slug: sdspage-western-blot-test-of-hsp70-ab-on-heat-stressed-shellfish-for-fish441
 title: SDS/PAGE, Western Blot - Test of HSP70 Ab on heat stressed shellfish for FISH441
 wordpress_id: 1229

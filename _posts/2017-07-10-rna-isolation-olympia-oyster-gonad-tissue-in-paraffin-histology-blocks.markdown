@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-10 21:21:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks/
 slug: rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks
 title: RNA Isolation - Olympia oyster gonad tissue in paraffin histology blocks
 wordpress_id: 2642

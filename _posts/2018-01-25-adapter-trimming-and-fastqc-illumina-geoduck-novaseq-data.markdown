@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-25 16:01:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data/
 slug: adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data
 title: Adapter Trimming and FASTQC - Illumina Geoduck Novaseq Data
 wordpress_id: 3078

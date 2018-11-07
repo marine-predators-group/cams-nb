@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-16 16:57:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/16/templated-bead-prep-solid-libraries-yellow-perch-wb-lake-trout-lean-and-sisco-and-herring-go-hws09-libraries/
 slug: templated-bead-prep-solid-libraries-yellow-perch-wb-lake-trout-lean-and-sisco-and-herring-go-hws09-libraries
 title: Templated Bead Prep SOLiD Libraries - Yellow perch WB, lake trout Lean and
   Sisco, and herring G/O HWS09 libraries

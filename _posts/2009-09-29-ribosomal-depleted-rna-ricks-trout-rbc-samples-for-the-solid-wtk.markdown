@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-29 04:32:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/28/ribosomal-depleted-rna-ricks-trout-rbc-samples-for-the-solid-wtk/
 slug: ribosomal-depleted-rna-ricks-trout-rbc-samples-for-the-solid-wtk
 title: Ribosomal-depleted RNA - Rick's trout RBC samples for the SOLiD WTK
 wordpress_id: 856

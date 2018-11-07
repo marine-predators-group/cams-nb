@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-23 23:45:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/23/sra-submission-individual-transcriptomic-profiles-of-c-gigas-before-after-heat-shock/
 slug: sra-submission-individual-transcriptomic-profiles-of-c-gigas-before-after-heat-shock
 title: SRA Submission - Individual Transcriptomic Profiles of C.gigas Before & After
   Heat Shock

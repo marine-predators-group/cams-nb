@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-14 19:57:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/14/dissection-frozen-geoduck-pacific-oyster/
 slug: dissection-frozen-geoduck-pacific-oyster
 title: Dissection - Frozen Geoduck & Pacific Oyster
 wordpress_id: 2204

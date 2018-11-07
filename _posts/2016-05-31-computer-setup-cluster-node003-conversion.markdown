@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-05-31 22:12:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/05/31/computer-setup-cluster-node003-conversion/
 slug: computer-setup-cluster-node003-conversion
 title: Computer Setup - Cluster Node003 Conversion
 wordpress_id: 2122

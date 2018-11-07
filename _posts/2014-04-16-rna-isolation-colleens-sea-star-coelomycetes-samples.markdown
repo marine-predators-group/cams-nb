@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-16 19:17:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/16/rna-isolation-colleens-sea-star-coelomycetes-samples/
 slug: rna-isolation-colleens-sea-star-coelomycetes-samples
 title: RNA Isolation - Colleens' Sea Star Coelomycetes Samples
 wordpress_id: 145

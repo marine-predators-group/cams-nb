@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-03 21:29:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/03/assembly-comparisons-olympia-oyster-genome-assemblies/
 slug: assembly-comparisons-olympia-oyster-genome-assemblies
 title: Assembly Comparisons - Olympia oyster genome assemblies
 wordpress_id: 2733

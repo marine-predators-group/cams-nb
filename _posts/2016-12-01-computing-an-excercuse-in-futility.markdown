@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-01 04:24:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/30/computing-an-excercuse-in-futility/
 slug: computing-an-excercuse-in-futility
 title: Computing - An Excercise in Futility
 wordpress_id: 2369

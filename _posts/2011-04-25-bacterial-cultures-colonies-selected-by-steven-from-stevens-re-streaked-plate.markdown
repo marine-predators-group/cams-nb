@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-25 21:03:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/25/bacterial-cultures-colonies-selected-by-steven-from-stevens-re-streaked-plate/
 slug: bacterial-cultures-colonies-selected-by-steven-from-stevens-re-streaked-plate
 title: Bacterial Cultures - Colonies Selected by Steven from Steven's Re-Streaked
   Plate

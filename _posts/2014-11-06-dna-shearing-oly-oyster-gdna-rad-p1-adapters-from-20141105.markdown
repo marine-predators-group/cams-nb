@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-06 17:17:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/06/dna-shearing-oly-oyster-gdna-rad-p1-adapters-from-20141105/
 slug: dna-shearing-oly-oyster-gdna-rad-p1-adapters-from-20141105
 title: DNA Shearing & Size Selection - Oly Oyster gDNA RAD P1 Adapters (from 20141105)
 wordpress_id: 89

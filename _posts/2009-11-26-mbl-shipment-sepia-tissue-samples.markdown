@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-26 01:17:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/25/mbl-shipment-sepia-tissue-samples/
 slug: mbl-shipment-sepia-tissue-samples
 title: MBL Shipment - Sepia tissue samples
 wordpress_id: 784

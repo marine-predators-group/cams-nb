@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-09 21:08:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/09/rna-isolation-quantificaiton-tanner-crab-hemolymph/
 slug: rna-isolation-quantificaiton-tanner-crab-hemolymph
 title: RNA Isolation & Quantificaiton - Tanner Crab Hemolymph
 wordpress_id: 3493

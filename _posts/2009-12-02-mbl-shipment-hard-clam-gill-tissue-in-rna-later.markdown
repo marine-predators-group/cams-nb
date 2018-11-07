@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-02 01:07:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/01/mbl-shipment-hard-clam-gill-tissue-in-rna-later/
 slug: mbl-shipment-hard-clam-gill-tissue-in-rna-later
 title: MBL Shipment - Hard Clam gill tissue in RNA Later
 wordpress_id: 778

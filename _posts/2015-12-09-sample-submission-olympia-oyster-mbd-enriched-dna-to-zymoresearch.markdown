@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-09 00:48:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/08/sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch/
 slug: sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch
 title: Sample Submission - Olympia oyster MBD-enriched DNA to ZymoResearch
 wordpress_id: 1997

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 01:59:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/24/phenol-chloroform-dna-cleanup-olympia-oyster-gdna/
 slug: phenol-chloroform-dna-cleanup-olympia-oyster-gdna
 title: Phenol-Chloroform DNA Cleanup - Olympia Oyster gDNA
 wordpress_id: 1815

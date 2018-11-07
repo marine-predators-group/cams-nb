@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-09 01:30:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/08/qpcr-daves-manila-calm-venerupis-philippinarum-dnased-rna-from-yesterday-and-20120302/
 slug: qpcr-daves-manila-calm-venerupis-philippinarum-dnased-rna-from-yesterday-and-20120302
 title: qPCR - Dave's Manila Calm (Venerupis philippinarum) DNased RNA from yesterday
   and 20120302

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-09-27 04:42:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/09/26/package-received-package-from-jerome-lapeyre-from-lsu/
 slug: package-received-package-from-jerome-lapeyre-from-lsu
 title: Package - Received Package from Jerome LaPeyre from LSU
 wordpress_id: 110

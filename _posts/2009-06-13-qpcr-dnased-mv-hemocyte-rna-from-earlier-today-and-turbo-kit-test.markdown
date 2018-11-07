@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-13 00:46:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/12/qpcr-dnased-mv-hemocyte-rna-from-earlier-today-and-turbo-kit-test/
 slug: qpcr-dnased-mv-hemocyte-rna-from-earlier-today-and-turbo-kit-test
 title: qPCR - DNased MV hemocyte RNA from earlier today AND Turbo kit test
 wordpress_id: 1019

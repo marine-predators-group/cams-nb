@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-23 18:15:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/23/dna-received-sea-lice-dna-from-cris-gallardo-escarate-at-universidad-de-concepcion/
 slug: dna-received-sea-lice-dna-from-cris-gallardo-escarate-at-universidad-de-concepcion
 title: 'DNA Received - Sea lice DNA from Cris Gallardo-Escarate at Universidad de
   Concepción '

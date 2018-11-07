@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-09-07 21:39:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/09/07/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon/
 slug: genome-assembly-olympia-oyster-pacbio-minimapminiasmracon
 title: Genome Assembly - Olympia oyster PacBio minimap/miniasm/racon
 wordpress_id: 2708

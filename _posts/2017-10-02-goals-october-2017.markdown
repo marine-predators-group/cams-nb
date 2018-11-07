@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-02 21:46:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/02/goals-october-2017/
 slug: goals-october-2017
 title: Goals - October 2017
 wordpress_id: 2725

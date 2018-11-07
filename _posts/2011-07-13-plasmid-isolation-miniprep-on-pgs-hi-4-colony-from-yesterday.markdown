@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-13 03:26:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/12/plasmid-isolation-miniprep-on-pgs-hi-4-colony-from-yesterday/
 slug: plasmid-isolation-miniprep-on-pgs-hi-4-colony-from-yesterday
 title: Plasmid Isolation - Miniprep on PGS Hi 4 Colony from yesterday
 wordpress_id: 331

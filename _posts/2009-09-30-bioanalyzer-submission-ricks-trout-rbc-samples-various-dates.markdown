@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-30 04:30:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/29/bioanalyzer-submission-ricks-trout-rbc-samples-various-dates/
 slug: bioanalyzer-submission-ricks-trout-rbc-samples-various-dates
 title: Bioanalyzer Submission - Rick's trout RBC samples (various dates)
 wordpress_id: 854

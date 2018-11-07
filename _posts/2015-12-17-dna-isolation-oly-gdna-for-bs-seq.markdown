@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-17 00:25:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/16/dna-isolation-oly-gdna-for-bs-seq/
 slug: dna-isolation-oly-gdna-for-bs-seq
 title: DNA Isolation - Oly gDNA for BS-seq
 wordpress_id: 1867

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-11-14 18:38:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/11/14/sequencing-y2h-colony-pcrs-from-20081112/
 slug: sequencing-y2h-colony-pcrs-from-20081112
 title: Sequencing - Y2H colony PCRs from 20081112
 wordpress_id: 1365

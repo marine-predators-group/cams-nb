@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-31 17:32:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/31/sdspage-western-blot-test-of-new-western-breeze-kit-hsp70-ab-for-fish441/
 slug: sdspage-western-blot-test-of-new-western-breeze-kit-hsp70-ab-for-fish441
 title: SDS/PAGE, Western Blot - Test of new Western Breeze Kit & HSP70 Ab for FISH441
 wordpress_id: 1337

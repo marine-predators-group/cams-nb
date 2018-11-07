@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-10 18:58:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/10/pcr-test-lexies-mercenaria-18s-contamination-issue/
 slug: pcr-test-lexies-mercenaria-18s-contamination-issue
 title: PCR - Test Lexie's Mercenaria 18s contamination issue
 wordpress_id: 700

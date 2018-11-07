@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-14 02:55:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/13/genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wplatanus-assembly/
 slug: genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wplatanus-assembly
 title: Genome Assembly -  Olympia Oyster Illumina & PacBio Using PB Jelly w/Platanus
   Assembly

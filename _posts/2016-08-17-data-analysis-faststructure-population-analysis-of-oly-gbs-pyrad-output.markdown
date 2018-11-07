@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-08-17 02:21:37+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/08/16/data-analysis-faststructure-population-analysis-of-oly-gbs-pyrad-output/
 slug: data-analysis-faststructure-population-analysis-of-oly-gbs-pyrad-output
 title: Data Analysis - fastStructure Population Analysis of Oly GBS PyRAD Output
 wordpress_id: 2251

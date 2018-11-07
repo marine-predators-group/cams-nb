@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-05-27 16:27:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/05/27/rna-isolation-jessicas-geoduck-larval-stages/
 slug: rna-isolation-jessicas-geoduck-larval-stages
 title: RNA Isolation - Jessica's Geoduck Larval Stages
 wordpress_id: 127

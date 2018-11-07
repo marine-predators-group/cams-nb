@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-02 04:48:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/01/medip-sbwb-fragmented-gdna-continued-from-yesterday-2/
 slug: medip-sbwb-fragmented-gdna-continued-from-yesterday-2
 title: MeDIP - SB/WB Fragmented gDNA (continued from yesterday)
 wordpress_id: 621

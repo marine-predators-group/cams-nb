@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-24 04:36:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/23/mrna-isolation-ricks-trout-rbc-samples-previously-treated-with-ribominus-kit-by-mac/
 slug: mrna-isolation-ricks-trout-rbc-samples-previously-treated-with-ribominus-kit-by-mac
 title: mRNA Isolation - Rick's trout RBC samples previously treated with Ribominus
   Kit (by Mac)

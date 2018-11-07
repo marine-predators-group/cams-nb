@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-06 23:28:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/06/genome-assembly-olympia-oyster-redundanscanu-vs-redundansracon/
 slug: genome-assembly-olympia-oyster-redundanscanu-vs-redundansracon
 title: Genome Assembly - Olympia oyster Redundans/Canu vs. Redundans/Racon
 wordpress_id: 2767

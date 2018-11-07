@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-08-29 22:59:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/08/29/data-management-synology-cloud-sync-to-uw-google-drive/
 slug: data-management-synology-cloud-sync-to-uw-google-drive
 title: Data Management - Synology Cloud Sync to UW Google Drive
 wordpress_id: 2269

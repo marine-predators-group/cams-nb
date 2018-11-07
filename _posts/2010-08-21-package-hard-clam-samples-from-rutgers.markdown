@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-08-21 04:25:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/08/20/package-hard-clam-samples-from-rutgers/
 slug: package-hard-clam-samples-from-rutgers
 title: Package - Hard Clam Samples from Rutgers
 wordpress_id: 605

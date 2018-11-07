@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-03 06:50:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/02/dna-isolation-geoduck-olympia-oyster/
 slug: dna-isolation-geoduck-olympia-oyster
 title: DNA Isolation - Geoduck & Olympia Oyster
 wordpress_id: 1698

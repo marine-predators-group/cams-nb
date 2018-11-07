@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-04 21:13:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/04/gunzip-trimmed-illumina-hiseq-genome-sequencing-data/
 slug: gunzip-trimmed-illumina-hiseq-genome-sequencing-data
 title: 'Gunzip - Trimmed Illumina Geoduck HiSeq Genome Sequencing Data '
 wordpress_id: 3199

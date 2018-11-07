@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-02-28 15:51:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/02/28/manuscript-writing-more-nuances-using-authorea/
 slug: manuscript-writing-more-nuances-using-authorea
 title: Manuscript Writing - More "Nuances" Using Authorea
 wordpress_id: 2486

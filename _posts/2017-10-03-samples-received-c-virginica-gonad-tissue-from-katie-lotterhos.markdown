@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-03 20:42:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/03/samples-received-c-virginica-gonad-tissue-from-katie-lotterhos/
 slug: samples-received-c-virginica-gonad-tissue-from-katie-lotterhos
 title: Samples Received - C.virginica gonad tissue from Katie Lotterhos
 wordpress_id: 2730

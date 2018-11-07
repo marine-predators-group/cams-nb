@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-02 23:51:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/02/gdna-isolation-new-dungan-isolates/
 slug: gdna-isolation-new-dungan-isolates
 title: gDNA Isolation - New Dungan isolates
 wordpress_id: 1157

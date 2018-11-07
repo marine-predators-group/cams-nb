@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-30 22:23:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/30/fastqcmultiqctrimgaloremultiqcfastqcmultiqc-o-lurida-wgbsseq-for-methylation-analysis/
 slug: fastqcmultiqctrimgaloremultiqcfastqcmultiqc-o-lurida-wgbsseq-for-methylation-analysis
 title: FastQC/MultiQC/TrimGalore/MultiQC/FastQC/MultiQC - O.lurida WGBSseq for Methylation
   Analysis

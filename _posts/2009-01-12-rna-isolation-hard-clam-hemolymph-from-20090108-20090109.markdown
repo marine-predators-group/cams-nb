@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-12 23:02:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/12/rna-isolation-hard-clam-hemolymph-from-20090108-20090109/
 slug: rna-isolation-hard-clam-hemolymph-from-20090108-20090109
 title: RNA Isolation - Hard Clam hemolymph from 20090108, 20090109
 wordpress_id: 1217

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-28 20:42:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/28/received-live-hard-clams-from-scott-lindell/
 slug: received-live-hard-clams-from-scott-lindell
 title: Received - Live Hard Clams From Scott Lindell
 wordpress_id: 370

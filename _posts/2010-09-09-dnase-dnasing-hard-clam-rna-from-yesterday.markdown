@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-09 04:06:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/08/dnase-dnasing-hard-clam-rna-from-yesterday/
 slug: dnase-dnasing-hard-clam-rna-from-yesterday
 title: DNase - DNasing Hard Clam RNA from yesterday
 wordpress_id: 595

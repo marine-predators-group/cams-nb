@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-05 17:29:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/05/novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous/
 slug: novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous
 title: NovaSeq Assembly - Trimmed Geoduck NovaSeq with Meraculous
 wordpress_id: 3086

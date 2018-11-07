@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-12-23 03:01:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/12/22/bisulfite-ngs-library-lsu-c-virginica-oil-spill-mbd-bisulfite-dna-sequencing-submission/
 slug: bisulfite-ngs-library-lsu-c-virginica-oil-spill-mbd-bisulfite-dna-sequencing-submission
 title: Bisulfite NGS Library - LSU C.virginica Oil Spill MBD Bisulfite DNA Sequencing
   Submission

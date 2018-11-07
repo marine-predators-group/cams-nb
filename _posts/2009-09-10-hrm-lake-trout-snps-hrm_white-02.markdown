@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-10 04:55:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/09/hrm-lake-trout-snps-hrm_white-02/
 slug: hrm-lake-trout-snps-hrm_white-02
 title: HRM - Lake Trout SNPs (HRM_white-02)
 wordpress_id: 872

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-11-21 23:54:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/11/21/reverse-transcription-fish441-rna/
 slug: reverse-transcription-fish441-rna
 title: Reverse Transcription - FISH441 RNA
 wordpress_id: 206

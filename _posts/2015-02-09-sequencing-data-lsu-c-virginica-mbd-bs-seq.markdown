@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-09 21:19:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/09/sequencing-data-lsu-c-virginica-mbd-bs-seq/
 slug: sequencing-data-lsu-c-virginica-mbd-bs-seq
 title: Sequencing Data - LSU C.virginica MBD BS-Seq
 wordpress_id: 453

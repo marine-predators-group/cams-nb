@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-30 23:43:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/30/data-storage-synology-dx513/
 slug: data-storage-synology-dx513
 title: Data Storage - Synology DX513
 wordpress_id: 1850

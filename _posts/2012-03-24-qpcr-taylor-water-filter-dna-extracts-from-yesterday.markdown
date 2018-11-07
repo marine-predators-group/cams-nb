@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-24 00:18:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/23/qpcr-taylor-water-filter-dna-extracts-from-yesterday/
 slug: qpcr-taylor-water-filter-dna-extracts-from-yesterday
 title: qPCR - Taylor Water Filter DNA Extracts from Yesterday
 wordpress_id: 257

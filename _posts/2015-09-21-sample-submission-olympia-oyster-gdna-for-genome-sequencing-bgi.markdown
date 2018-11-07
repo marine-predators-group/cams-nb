@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-21 21:12:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/21/sample-submission-olympia-oyster-gdna-for-genome-sequencing-bgi/
 slug: sample-submission-olympia-oyster-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Olympia Oyster gDNA for Genome Sequencing @ BGI
 wordpress_id: 1854

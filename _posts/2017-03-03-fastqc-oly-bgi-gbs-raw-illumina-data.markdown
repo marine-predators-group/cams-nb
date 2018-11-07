@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-03 00:00:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/02/fastqc-oly-bgi-gbs-raw-illumina-data/
 slug: fastqc-oly-bgi-gbs-raw-illumina-data
 title: FASTQC - Oly BGI GBS Raw Illumina Data
 wordpress_id: 2497

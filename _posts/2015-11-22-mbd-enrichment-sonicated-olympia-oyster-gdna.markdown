@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-22 03:52:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna/
 slug: mbd-enrichment-sonicated-olympia-oyster-gdna
 title: MBD Enrichment - Sonicated Olympia Oyster gDNA
 wordpress_id: 1798

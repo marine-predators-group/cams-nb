@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-03 00:35:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/02/automatic-notebook-backups-wget-script-synology-task-scheduler/
 slug: automatic-notebook-backups-wget-script-synology-task-scheduler
 title: Automatic Notebook Backups - wget Script & Synology Task Scheduler
 wordpress_id: 1511

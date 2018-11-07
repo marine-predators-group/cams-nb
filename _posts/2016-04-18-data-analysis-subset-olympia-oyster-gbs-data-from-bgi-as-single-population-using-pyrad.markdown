@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-18 22:52:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/18/data-analysis-subset-olympia-oyster-gbs-data-from-bgi-as-single-population-using-pyrad/
 slug: data-analysis-subset-olympia-oyster-gbs-data-from-bgi-as-single-population-using-pyrad
 title: Data Analysis - Subset Olympia Oyster GBS Data from BGI as Single Population
   Using PyRAD

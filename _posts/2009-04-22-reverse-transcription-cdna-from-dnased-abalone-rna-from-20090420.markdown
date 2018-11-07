@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-22 18:50:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/22/reverse-transcription-cdna-from-dnased-abalone-rna-from-20090420/
 slug: reverse-transcription-cdna-from-dnased-abalone-rna-from-20090420
 title: Reverse Transcription - cDNA from DNased Abalone RNA from 20090420
 wordpress_id: 1105

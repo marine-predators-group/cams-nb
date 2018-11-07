@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-19 17:21:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/19/assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail/
 slug: assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail
 title: Assembly - Geoduck Illumina NovaSeq SOAPdenovo2 on Mox (FAIL)
 wordpress_id: 3099

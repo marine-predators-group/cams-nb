@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-12-03 05:59:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/12/02/etoh-precipitation-lsu-c-virginica-oil-spill-mbd-continued-from-20141126/
 slug: etoh-precipitation-lsu-c-virginica-oil-spill-mbd-continued-from-20141126
 title: EtOH Precipitation - LSU C.virginica Oil Spill MBD Continued (from 20141126)
 wordpress_id: 67

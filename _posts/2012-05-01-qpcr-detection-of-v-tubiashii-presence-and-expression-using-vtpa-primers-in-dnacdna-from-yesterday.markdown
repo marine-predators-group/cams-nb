@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-05-01 23:53:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/05/01/qpcr-detection-of-v-tubiashii-presence-and-expression-using-vtpa-primers-in-dnacdna-from-yesterday/
 slug: qpcr-detection-of-v-tubiashii-presence-and-expression-using-vtpa-primers-in-dnacdna-from-yesterday
 title: qPCR - Detection of V.tubiashii Presence and Expression Using VtpA Primers
   in DNA/cDNA from yesterday

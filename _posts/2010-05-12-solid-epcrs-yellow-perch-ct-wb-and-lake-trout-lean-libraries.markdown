@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-12 16:44:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/12/solid-epcrs-yellow-perch-ct-wb-and-lake-trout-lean-libraries/
 slug: solid-epcrs-yellow-perch-ct-wb-and-lake-trout-lean-libraries
 title: SOLiD ePCRs - Yellow perch CT, WB and lake trout Lean libraries
 wordpress_id: 653

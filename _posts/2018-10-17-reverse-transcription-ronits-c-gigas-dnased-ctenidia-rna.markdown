@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-17 17:02:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna/
 slug: reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna
 title: Reverse Transcription - Ronit's C.gigas DNased ctenidia RNA
 wordpress_id: 3665

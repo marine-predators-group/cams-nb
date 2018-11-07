@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-17 00:11:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/16/pcr-sepia-cdna-and-dnased-rna/
 slug: pcr-sepia-cdna-and-dnased-rna
 title: PCR - Sepia cDNA and DNased RNA
 wordpress_id: 746

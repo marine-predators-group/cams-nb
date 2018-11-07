@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-26 20:52:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/26/bacterial-cultures-colonies-selected-from-yesterdays-colony-pcrs/
 slug: bacterial-cultures-colonies-selected-from-yesterdays-colony-pcrs
 title: Bacterial Cultures - Colonies Selected from Yesterday's Colony PCRs
 wordpress_id: 374

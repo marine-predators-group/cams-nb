@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-11-25 03:50:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/11/24/restriction-digestions-hpaii-and-mspi-on-macs-c-gigas-samples-round-2/
 slug: restriction-digestions-hpaii-and-mspi-on-macs-c-gigas-samples-round-2
 title: 'Restriction Digestions - HpaII and MspI on Mac''s C.gigas Samples: Round 2'
 wordpress_id: 571

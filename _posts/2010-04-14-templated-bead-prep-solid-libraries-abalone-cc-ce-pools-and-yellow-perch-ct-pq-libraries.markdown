@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-14 17:07:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/14/templated-bead-prep-solid-libraries-abalone-cc-ce-pools-and-yellow-perch-ct-pq-libraries/
 slug: templated-bead-prep-solid-libraries-abalone-cc-ce-pools-and-yellow-perch-ct-pq-libraries
 title: Templated Bead Prep SOLiD Libraries - Abalone CC, CE pools and yellow perch
   CT, PQ libraries

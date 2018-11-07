@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-05 23:32:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/05/dna-quantification-pooled-geoduck-gdna/
 slug: dna-quantification-pooled-geoduck-gdna
 title: DNA Quantification - Pooled geoduck gDNA
 wordpress_id: 1706

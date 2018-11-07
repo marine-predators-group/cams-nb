@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-07 00:48:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/06/bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna/
 slug: bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna
 title: Bisulfite NGS Library Prep - Bisulfite Conversion & Illumina Library Construction
   of C.gigas larvae DNA

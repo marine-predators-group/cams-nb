@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-04 23:41:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/04/blast-c-gigas-larvae-oa-illumina-data-against-genbank-nt-db/
 slug: blast-c-gigas-larvae-oa-illumina-data-against-genbank-nt-db
 title: BLAST - C.gigas Larvae OA Illumina Data Against GenBank nt DB
 wordpress_id: 1300

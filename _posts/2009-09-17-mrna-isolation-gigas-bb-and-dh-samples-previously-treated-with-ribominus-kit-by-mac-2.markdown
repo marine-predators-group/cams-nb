@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-17 04:45:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/16/mrna-isolation-gigas-bb-and-dh-samples-previously-treated-with-ribominus-kit-by-mac-2/
 slug: mrna-isolation-gigas-bb-and-dh-samples-previously-treated-with-ribominus-kit-by-mac-2
 title: mRNA Isolation - Gigas BB and DH samples previously treated with Ribominus
   Kit (by Mac)

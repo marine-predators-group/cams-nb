@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-28 01:12:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/27/qpcr-new-16s-primers-for-v-tubiashii-control-vs-autoclaved-gigas-samples-see-20090224/
 slug: qpcr-new-16s-primers-for-v-tubiashii-control-vs-autoclaved-gigas-samples-see-20090224
 title: qPCR - New 16s primers for V.tubiashii Control vs. Autoclaved gigas samples
   (see 20090224)

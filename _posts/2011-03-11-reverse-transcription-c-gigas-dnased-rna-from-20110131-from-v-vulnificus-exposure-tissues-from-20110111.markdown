@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-11 23:14:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/11/reverse-transcription-c-gigas-dnased-rna-from-20110131-from-v-vulnificus-exposure-tissues-from-20110111/
 slug: reverse-transcription-c-gigas-dnased-rna-from-20110131-from-v-vulnificus-exposure-tissues-from-20110111
 title: Reverse Transcription - C.gigas DNased RNA (from 20110131) from V.vulnificus
   Exposure & Tissues (from 20110111)

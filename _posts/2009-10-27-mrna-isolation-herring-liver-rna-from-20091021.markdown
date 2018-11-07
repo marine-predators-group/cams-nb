@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-27 03:16:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/26/mrna-isolation-herring-liver-rna-from-20091021/
 slug: mrna-isolation-herring-liver-rna-from-20091021
 title: mRNA Isolation - Herring Liver RNA (from 20091021)
 wordpress_id: 806

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-12 21:18:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/12/data-management-sra-submission-lsu-c-virginica-oil-spill-mbd-bs-seq-data/
 slug: data-management-sra-submission-lsu-c-virginica-oil-spill-mbd-bs-seq-data
 title: Data Management - SRA Submission LSU C.virginica Oil Spill MBD BS-seq Data
 wordpress_id: 3260

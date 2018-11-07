@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-12 03:32:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/11/pcr-colony-pcr-on-restreaked-pgs2-clones-from-20110707/
 slug: pcr-colony-pcr-on-restreaked-pgs2-clones-from-20110707
 title: PCR - Colony PCR on Restreaked PGS2 Clones from 20110707
 wordpress_id: 335

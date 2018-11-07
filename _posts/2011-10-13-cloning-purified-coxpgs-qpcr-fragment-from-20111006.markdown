@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-13 02:15:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/12/cloning-purified-coxpgs-qpcr-fragment-from-20111006/
 slug: cloning-purified-coxpgs-qpcr-fragment-from-20111006
 title: Cloning - Purified COX/PGS "qPCR Fragment" from 20111006
 wordpress_id: 294

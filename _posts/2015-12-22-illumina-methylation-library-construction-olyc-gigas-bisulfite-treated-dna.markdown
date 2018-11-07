@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-22 05:55:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/21/illumina-methylation-library-construction-olyc-gigas-bisulfite-treated-dna/
 slug: illumina-methylation-library-construction-olyc-gigas-bisulfite-treated-dna
 title: Illumina Methylation Library Construction - Oly/C.gigas Bisulfite-treated DNA
 wordpress_id: 1908

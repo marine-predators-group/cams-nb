@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-01-26 01:54:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/01/25/dnase-c-gigas-rna-from-20120124/
 slug: dnase-c-gigas-rna-from-20120124
 title: DNAse - C.gigas RNA from 20120124
 wordpress_id: 279

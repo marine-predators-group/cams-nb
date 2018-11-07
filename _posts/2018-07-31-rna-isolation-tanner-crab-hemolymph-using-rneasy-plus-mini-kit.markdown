@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-07-31 22:07:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/07/31/rna-isolation-tanner-crab-hemolymph-using-rneasy-plus-mini-kit/
 slug: rna-isolation-tanner-crab-hemolymph-using-rneasy-plus-mini-kit
 title: RNA Isolation - Tanner Crab Hemolymph Using RNeasy Plus Mini Kit
 wordpress_id: 3465

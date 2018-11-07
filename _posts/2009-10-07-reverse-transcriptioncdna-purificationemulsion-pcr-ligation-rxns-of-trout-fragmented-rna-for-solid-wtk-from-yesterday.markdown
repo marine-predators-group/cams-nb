@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-07 04:05:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/06/reverse-transcriptioncdna-purificationemulsion-pcr-ligation-rxns-of-trout-fragmented-rna-for-solid-wtk-from-yesterday/
 slug: reverse-transcriptioncdna-purificationemulsion-pcr-ligation-rxns-of-trout-fragmented-rna-for-solid-wtk-from-yesterday
 title: Reverse Transcription/cDNA purification/Emulsion PCR - Ligation rxns of trout
   fragmented RNA for SOLiD WTK (from yesterday)

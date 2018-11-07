@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-01 23:36:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/01/sample-submission-geoduck-gonad-for-rna-seq/
 slug: sample-submission-geoduck-gonad-for-rna-seq
 title: Sample Submission - Geoduck Gonad for RNA-seq
 wordpress_id: 1469

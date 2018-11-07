@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-16 00:20:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/15/pcr-sepia-cdna-from-yesterday/
 slug: pcr-sepia-cdna-from-yesterday
 title: PCR - Sepia cDNA (from yesterday)
 wordpress_id: 752

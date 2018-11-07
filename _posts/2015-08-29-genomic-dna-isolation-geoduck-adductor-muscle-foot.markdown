@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-29 00:15:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot/
 slug: genomic-dna-isolation-geoduck-adductor-muscle-foot
 title: Genomic DNA Isolation - Geoduck Adductor Muscle & Foot
 wordpress_id: 1556

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-03 04:23:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/02/package-hard-clam-samples-from-mbl/
 slug: package-hard-clam-samples-from-mbl
 title: Package - Hard Clam Samples from MBL
 wordpress_id: 603

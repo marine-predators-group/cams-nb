@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-06 13:51:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/06/qpcr-jakes-o-lurida-ctenidia-1hr-post-mechanical-stress-dnased-rna/
 slug: qpcr-jakes-o-lurida-ctenidia-1hr-post-mechanical-stress-dnased-rna
 title: qPCR - Jake's O.lurida ctenidia 1hr post-mechanical stress DNased RNA
 wordpress_id: 1534

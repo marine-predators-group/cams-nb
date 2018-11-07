@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-15 06:27:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/14/qpcr-jakes-o-lurida-ctenidia-dnased-rna-control-samples/
 slug: qpcr-jakes-o-lurida-ctenidia-dnased-rna-control-samples
 title: qPCR – Jake's O.lurida ctenidia DNased RNA (Control Samples)
 wordpress_id: 1413

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-14 03:06:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/13/hard-clams-shipment-from-rutgers/
 slug: hard-clams-shipment-from-rutgers
 title: Hard Clams - Shipment from Rutgers
 wordpress_id: 796

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-05 01:45:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/04/dna-quantification-quality-assessment-geoduck-oly-gdna/
 slug: dna-quantification-quality-assessment-geoduck-oly-gdna
 title: DNA Quantification & Quality Assessment - Geoduck & Oly gDNA
 wordpress_id: 1759

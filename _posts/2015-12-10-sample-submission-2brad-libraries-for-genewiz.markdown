@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-10 23:26:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/10/sample-submission-2brad-libraries-for-genewiz/
 slug: sample-submission-2brad-libraries-for-genewiz
 title: Sample Submission - 2bRAD Libraries for Genewiz
 wordpress_id: 1950

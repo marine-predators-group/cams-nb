@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-09 03:53:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/08/qpcr-tims-adults-gigas-challenge-dnased-rna-from-today/
 slug: qpcr-tims-adults-gigas-challenge-dnased-rna-from-today
 title: qPCR - Tim's adults gigas challenge DNased RNA (from today)
 wordpress_id: 834

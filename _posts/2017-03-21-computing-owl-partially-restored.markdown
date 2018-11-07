@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-21 18:34:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/21/computing-owl-partially-restored/
 slug: computing-owl-partially-restored
 title: Computing - Owl Partially Restored
 wordpress_id: 2530

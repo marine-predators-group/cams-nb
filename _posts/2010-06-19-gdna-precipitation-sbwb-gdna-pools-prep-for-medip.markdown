@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-06-19 05:00:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/06/18/gdna-precipitation-sbwb-gdna-pools-prep-for-medip/
 slug: gdna-precipitation-sbwb-gdna-pools-prep-for-medip
 title: gDNA Precipitation - SB/WB gDNA pools (prep for MeDIP)
 wordpress_id: 631

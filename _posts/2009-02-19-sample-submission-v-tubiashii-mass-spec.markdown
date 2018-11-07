@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-19 02:14:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/18/sample-submission-v-tubiashii-mass-spec/
 slug: sample-submission-v-tubiashii-mass-spec
 title: Sample Submission - V.tubiashii Mass Spec
 wordpress_id: 1189

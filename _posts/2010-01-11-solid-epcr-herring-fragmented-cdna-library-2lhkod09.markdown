@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-11 19:53:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/11/solid-epcr-herring-fragmented-cdna-library-2lhkod09/
 slug: solid-epcr-herring-fragmented-cdna-library-2lhkod09
 title: 'SOLiD ePCR - Herring fragmented cDNA library: 2LHKOD09'
 wordpress_id: 710

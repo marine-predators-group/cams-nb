@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-04-28 00:05:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/04/27/qpcr-check-dnased-rna-from-earlier-today-for-residual-gdna/
 slug: qpcr-check-dnased-rna-from-earlier-today-for-residual-gdna
 title: qPCR - Check DNased RNA from Earlier Today for Residual gDNA
 wordpress_id: 249

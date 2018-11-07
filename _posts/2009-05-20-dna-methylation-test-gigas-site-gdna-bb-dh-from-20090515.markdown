@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-20 05:07:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/19/dna-methylation-test-gigas-site-gdna-bb-dh-from-20090515/
 slug: dna-methylation-test-gigas-site-gdna-bb-dh-from-20090515
 title: DNA Methylation Test - Gigas site gDNA (BB & DH) from 20090515
 wordpress_id: 1059

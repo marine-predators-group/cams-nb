@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-09 04:40:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/08/dnase-treatment-abalone-dg-dnased-rna-from-20090605-2/
 slug: dnase-treatment-abalone-dg-dnased-rna-from-20090605-2
 title: DNase Treatment - Abalone Dg DNased RNA from 20090605
 wordpress_id: 1033

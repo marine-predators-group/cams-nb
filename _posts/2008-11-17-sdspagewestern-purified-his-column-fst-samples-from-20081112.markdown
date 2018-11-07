@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-11-17 18:32:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/11/17/sdspagewestern-purified-his-column-fst-samples-from-20081112/
 slug: sdspagewestern-purified-his-column-fst-samples-from-20081112
 title: SDS/PAGE/Western - Purified (His column) FST samples from 20081112
 wordpress_id: 1361

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-10 04:30:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/09/restriction-digests-various-gigas-gdna-from-earlier-today/
 slug: restriction-digests-various-gigas-gdna-from-earlier-today
 title: Restriction Digests - Various gigas gDNA from earlier today
 wordpress_id: 609

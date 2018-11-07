@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-19 18:29:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/19/software-installation-masurca-v3-2-3-assembler-on-mox-hyak/
 slug: software-installation-masurca-v3-2-3-assembler-on-mox-hyak
 title: Software Installation - MaSuRCA v3.2.3 Assembler on Mox (Hyak)
 wordpress_id: 2787

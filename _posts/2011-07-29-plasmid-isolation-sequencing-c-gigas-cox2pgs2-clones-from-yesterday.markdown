@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-29 02:59:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/28/plasmid-isolation-sequencing-c-gigas-cox2pgs2-clones-from-yesterday/
 slug: plasmid-isolation-sequencing-c-gigas-cox2pgs2-clones-from-yesterday
 title: Plasmid Isolation & Sequencing - C.gigas COX2/PGS2 Clones (from yesterday)
 wordpress_id: 316

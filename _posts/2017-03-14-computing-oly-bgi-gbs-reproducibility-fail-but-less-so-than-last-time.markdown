@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-14 22:56:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/14/computing-oly-bgi-gbs-reproducibility-fail-but-less-so-than-last-time/
 slug: computing-oly-bgi-gbs-reproducibility-fail-but-less-so-than-last-time
 title: Computing – Oly BGI GBS Reproducibility Fail (but, less so than last time)...
 wordpress_id: 2514

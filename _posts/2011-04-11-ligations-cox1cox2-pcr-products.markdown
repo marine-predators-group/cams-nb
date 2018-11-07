@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-11 21:35:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/11/ligations-cox1cox2-pcr-products/
 slug: ligations-cox1cox2-pcr-products
 title: Ligations - COX1/COX2 PCR Products
 wordpress_id: 386

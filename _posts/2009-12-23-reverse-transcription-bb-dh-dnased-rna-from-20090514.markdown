@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-23 23:57:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/23/reverse-transcription-bb-dh-dnased-rna-from-20090514/
 slug: reverse-transcription-bb-dh-dnased-rna-from-20090514
 title: Reverse Transcription - BB & DH DNased RNA (from 20090514)
 wordpress_id: 738

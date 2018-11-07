@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-10 23:30:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/10/chloroform-clean-up-lexies-qpx-rna-from-20110504/
 slug: chloroform-clean-up-lexies-qpx-rna-from-20110504
 title: Chloroform Clean Up - Lexie's QPX RNA from 20110504
 wordpress_id: 235

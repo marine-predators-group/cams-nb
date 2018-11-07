@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-14 19:00:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/14/data-managment-trim-output-cells-from-jupyter-notebook/
 slug: data-managment-trim-output-cells-from-jupyter-notebook
 title: Data Managment - Trim Output Cells from Jupyter Notebook
 wordpress_id: 2386

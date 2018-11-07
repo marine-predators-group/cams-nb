@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-22 16:18:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/22/qpcr-gigas-dna-for-opticon-testing/
 slug: qpcr-gigas-dna-for-opticon-testing
 title: qPCR - Gigas DNA for Opticon testing
 wordpress_id: 900

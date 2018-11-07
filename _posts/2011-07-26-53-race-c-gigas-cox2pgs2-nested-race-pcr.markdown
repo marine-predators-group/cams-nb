@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-26 03:08:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/25/53-race-c-gigas-cox2pgs2-nested-race-pcr/
 slug: 53-race-c-gigas-cox2pgs2-nested-race-pcr
 title: 5'/3' RACE - C.gigas COX2/PGS2 Nested RACE PCR
 wordpress_id: 322

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-21 19:05:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/21/data-management-sra-submission-oly-gbs-batch-submission/
 slug: data-management-sra-submission-oly-gbs-batch-submission
 title: Data Management – SRA Submission Oly GBS Batch Submission
 wordpress_id: 2532

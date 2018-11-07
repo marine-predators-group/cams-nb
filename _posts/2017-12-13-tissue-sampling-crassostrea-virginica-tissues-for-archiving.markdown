@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-12-13 23:30:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/12/13/tissue-sampling-crassostrea-virginica-tissues-for-archiving/
 slug: tissue-sampling-crassostrea-virginica-tissues-for-archiving
 title: Tissue Sampling - Crassostrea virginica Tissues for Archiving
 wordpress_id: 2988

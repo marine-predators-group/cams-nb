@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-01 17:37:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/01/rna-precipitation-and-fragmentation-for-solid-libraries-pooled-abalone-mrna-from-yesterday/
 slug: rna-precipitation-and-fragmentation-for-solid-libraries-pooled-abalone-mrna-from-yesterday
 title: RNA Precipitation and Fragmentation for SOLiD Libraries - Pooled abalone mRNA
   (from yesterday)

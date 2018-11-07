@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-16 22:39:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/16/truseq-adaptor-counts-lsu-c-virginica-oil-spill-sequences/
 slug: truseq-adaptor-counts-lsu-c-virginica-oil-spill-sequences
 title: TruSeq Adaptor Counts – LSU C.virginica Oil Spill Sequences
 wordpress_id: 923

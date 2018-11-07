@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-02-10 01:47:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/02/09/qpcr-cdna-from-20120208/
 slug: qpcr-cdna-from-20120208
 title: qPCR - cDNA from 20120208
 wordpress_id: 273

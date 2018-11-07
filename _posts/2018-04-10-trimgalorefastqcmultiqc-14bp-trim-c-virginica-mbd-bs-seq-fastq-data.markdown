@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-10 20:40:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/10/trimgalorefastqcmultiqc-14bp-trim-c-virginica-mbd-bs-seq-fastq-data/
 slug: trimgalorefastqcmultiqc-14bp-trim-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - 14bp Trim C.virginica MBD BS-seq FASTQ data
 wordpress_id: 3231

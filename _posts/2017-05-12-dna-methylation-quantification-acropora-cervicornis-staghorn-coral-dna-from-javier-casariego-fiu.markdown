@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-05-12 00:42:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/05/11/dna-methylation-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/
 slug: dna-methylation-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu
 title: DNA Methylation Quantification - Acropora cervicornis (Staghorn coral) DNA
   from Javier Casariego (FIU)

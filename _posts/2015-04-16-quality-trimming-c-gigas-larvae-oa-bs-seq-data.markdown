@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-16 05:13:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data/
 slug: quality-trimming-c-gigas-larvae-oa-bs-seq-data
 title: Quality Trimming - C.gigas Larvae OA BS-Seq Data
 wordpress_id: 1261

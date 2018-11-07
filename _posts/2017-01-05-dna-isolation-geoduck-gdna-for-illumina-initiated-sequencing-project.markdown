@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-01-05 19:34:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/01/05/dna-isolation-geoduck-gdna-for-illumina-initiated-sequencing-project/
 slug: dna-isolation-geoduck-gdna-for-illumina-initiated-sequencing-project
 title: DNA Isolation - Geoduck gDNA for Illumina-initiated Sequencing Project
 wordpress_id: 2447

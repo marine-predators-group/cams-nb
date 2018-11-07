@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-10 04:27:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/09/gdna-isolation-various-gigas-samples-continued-from-yesterday/
 slug: gdna-isolation-various-gigas-samples-continued-from-yesterday
 title: gDNA Isolation - Various gigas samples (continued from yesterday)
 wordpress_id: 607

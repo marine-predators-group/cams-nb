@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-17 19:01:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/17/sequencing-dungan-isolates/
 slug: sequencing-dungan-isolates
 title: Sequencing - Dungan isolates
 wordpress_id: 1115

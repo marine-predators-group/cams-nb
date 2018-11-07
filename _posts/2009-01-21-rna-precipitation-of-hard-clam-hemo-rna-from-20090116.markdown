@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-21 03:15:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/20/rna-precipitation-of-hard-clam-hemo-rna-from-20090116/
 slug: rna-precipitation-of-hard-clam-hemo-rna-from-20090116
 title: RNA - Precipitation of Hard Clam Hemo RNA from 20090116
 wordpress_id: 1205

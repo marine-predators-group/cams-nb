@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-15 19:31:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/15/qpcr-rab7_sybr-primers-on-abalone-rna-and-dnased-rna/
 slug: qpcr-rab7_sybr-primers-on-abalone-rna-and-dnased-rna
 title: qPCR - Rab7_SYBR primers on abalone RNA and DNased RNA
 wordpress_id: 1123

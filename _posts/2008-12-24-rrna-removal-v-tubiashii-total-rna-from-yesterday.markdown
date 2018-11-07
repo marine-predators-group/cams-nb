@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2008-12-24 17:43:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2008/12/24/rrna-removal-v-tubiashii-total-rna-from-yesterday/
 slug: rrna-removal-v-tubiashii-total-rna-from-yesterday
 title: rRNA Removal - V. tubiashii total RNA from yesterday
 wordpress_id: 1341

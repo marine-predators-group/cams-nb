@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-06 23:09:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/06/pcr-dungan-isolates-2/
 slug: pcr-dungan-isolates-2
 title: PCR - Dungan Isolates
 wordpress_id: 1227

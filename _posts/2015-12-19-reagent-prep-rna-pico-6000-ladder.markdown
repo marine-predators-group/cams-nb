@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-19 04:33:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/18/reagent-prep-rna-pico-6000-ladder/
 slug: reagent-prep-rna-pico-6000-ladder
 title: Reagent Prep - RNA Pico 6000 Ladder
 wordpress_id: 1902

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-04-08 22:17:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/04/08/pcr-hexokinase-and-partial-exon-1/
 slug: pcr-hexokinase-and-partial-exon-1
 title: 'PCR - Hexokinase and Partial Exon #1'
 wordpress_id: 196

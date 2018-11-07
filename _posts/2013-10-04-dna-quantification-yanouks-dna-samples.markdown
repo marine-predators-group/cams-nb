@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-10-04 22:04:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/10/04/dna-quantification-yanouks-dna-samples/
 slug: dna-quantification-yanouks-dna-samples
 title: DNA Quantification - Yanouk's DNA Samples
 wordpress_id: 190

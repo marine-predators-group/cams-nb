@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-25 23:46:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/25/transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with-hisat2/
 slug: transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with-hisat2
 title: Transcriptome Alignment – Olympia oyster RNAseq reads aligned to genome with
   HISAT2

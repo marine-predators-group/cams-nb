@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-04-27 00:07:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/04/26/rna-isolation-c-gigas-larvae-from-taylor-summer-2011/
 slug: rna-isolation-c-gigas-larvae-from-taylor-summer-2011
 title: RNA Isolation - C.gigas Larvae from Taylor Summer 2011
 wordpress_id: 251

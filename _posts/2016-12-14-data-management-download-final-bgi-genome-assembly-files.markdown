@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-12-14 18:52:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/12/14/data-management-download-final-bgi-genome-assembly-files/
 slug: data-management-download-final-bgi-genome-assembly-files
 title: Data Management - Download Final BGI Genome & Assembly Files
 wordpress_id: 2385

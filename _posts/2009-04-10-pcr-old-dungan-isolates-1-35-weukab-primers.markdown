@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-10 23:07:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/10/pcr-old-dungan-isolates-1-35-weukab-primers/
 slug: pcr-old-dungan-isolates-1-35-weukab-primers
 title: 'PCR - Old Dungan isolates #1-35 w/EukA/B primers'
 wordpress_id: 1135

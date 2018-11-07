@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-01 22:06:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/01/assembly-stats-sparseassembler-k95-on-geoduck-sequence-data-quast-for-stats/
 slug: assembly-stats-sparseassembler-k95-on-geoduck-sequence-data-quast-for-stats
 title: Assembly & Stats - SparseAssembler (k95) on Geoduck Sequence Data > Quast for
   Stats

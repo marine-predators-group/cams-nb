@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-09 22:21:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/09/fastqcmultiqc-c-virginica-mbd-bs-seq-data/
 slug: fastqcmultiqc-c-virginica-mbd-bs-seq-data
 title: FastQC/MultiQC - C. virginica MBD BS-seq Data
 wordpress_id: 3219

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-01 18:42:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/01/bacteria-c-pugetti-liquid-cultures-3/
 slug: bacteria-c-pugetti-liquid-cultures-3
 title: Bacteria - C. pugetti liquid cultures
 wordpress_id: 1095

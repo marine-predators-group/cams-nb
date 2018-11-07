@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-02 22:31:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/02/pcr-sea-pen-luciferase/
 slug: pcr-sea-pen-luciferase
 title: PCR - Sea Pen luciferase
 wordpress_id: 1507

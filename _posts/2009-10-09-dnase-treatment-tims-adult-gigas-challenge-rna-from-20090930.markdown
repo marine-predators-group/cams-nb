@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-09 03:51:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/08/dnase-treatment-tims-adult-gigas-challenge-rna-from-20090930/
 slug: dnase-treatment-tims-adult-gigas-challenge-rna-from-20090930
 title: DNase Treatment - Tim's adult gigas challenge RNA (from 20090930)
 wordpress_id: 832

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-03 01:44:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/02/dnase-daves-manila-clam-venerupis-philippinarum-gill-rna-from-yesterday/
 slug: dnase-daves-manila-clam-venerupis-philippinarum-gill-rna-from-yesterday
 title: DNase - Dave's Manila Clam (Venerupis philippinarum) Gill RNA from Yesterday
 wordpress_id: 269

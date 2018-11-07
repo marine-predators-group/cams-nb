@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-14 23:42:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507/
 slug: dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507
 title: DNase Treatment - Jake's O.lurida Ctenidia RNA (Controls) from 20150507
 wordpress_id: 1389

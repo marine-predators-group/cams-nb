@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-26 16:39:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/26/solid-epcrtemplated-bead-prep-lake-trout-lean-library/
 slug: solid-epcrtemplated-bead-prep-lake-trout-lean-library
 title: SOLiD ePCR/Templated Bead Prep - Lake Trout Lean library
 wordpress_id: 649

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-06-22 20:26:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/06/22/github-curation/
 slug: github-curation
 title: GitHub Curation
 wordpress_id: 2600

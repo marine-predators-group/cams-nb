@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-19 14:05:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity/
 slug: transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity
 title: Transcriptome Assembly - Olympia oyster RNAseq Data with Trinity
 wordpress_id: 3571

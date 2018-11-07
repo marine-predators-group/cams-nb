@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-04 23:29:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/04/3race-c-gigas-3race-for-cox2/
 slug: 3race-c-gigas-3race-for-cox2
 title: 3'RACE - C.gigas 3'RACE for COX2
 wordpress_id: 408

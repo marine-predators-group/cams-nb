@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-10 01:49:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/09/pcr-c-pugetti-gdna-from-20090526/
 slug: pcr-c-pugetti-gdna-from-20090526
 title: PCR - C.pugetti gDNA from 20090526
 wordpress_id: 1031

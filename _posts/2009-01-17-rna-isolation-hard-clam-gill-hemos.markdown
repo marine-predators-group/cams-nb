@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-17 03:21:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/16/rna-isolation-hard-clam-gill-hemos/
 slug: rna-isolation-hard-clam-gill-hemos
 title: RNA Isolation - Hard clam gill, hemos
 wordpress_id: 1209

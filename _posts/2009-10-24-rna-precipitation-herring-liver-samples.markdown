@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-24 03:22:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/23/rna-precipitation-herring-liver-samples/
 slug: rna-precipitation-herring-liver-samples
 title: RNA Precipitation - Herring Liver Samples
 wordpress_id: 812

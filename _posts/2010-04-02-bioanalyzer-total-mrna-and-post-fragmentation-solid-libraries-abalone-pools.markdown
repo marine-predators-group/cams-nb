@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-02 17:32:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/02/bioanalyzer-total-mrna-and-post-fragmentation-solid-libraries-abalone-pools/
 slug: bioanalyzer-total-mrna-and-post-fragmentation-solid-libraries-abalone-pools
 title: Bioanalyzer Total, mRNA and post-fragmentation SOLiD Libraries - Abalone pools
 wordpress_id: 682

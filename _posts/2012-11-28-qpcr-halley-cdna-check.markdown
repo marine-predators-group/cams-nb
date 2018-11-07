@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-11-28 23:52:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/11/28/qpcr-halley-cdna-check/
 slug: qpcr-halley-cdna-check
 title: qPCR - Halley cDNA Check
 wordpress_id: 204

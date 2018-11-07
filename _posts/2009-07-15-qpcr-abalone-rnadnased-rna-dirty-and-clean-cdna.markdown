@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-15 02:45:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/14/qpcr-abalone-rnadnased-rna-dirty-and-clean-cdna/
 slug: qpcr-abalone-rnadnased-rna-dirty-and-clean-cdna
 title: qPCR - Abalone RNA/DNased RNA & "dirty" and "clean" cDNA
 wordpress_id: 948

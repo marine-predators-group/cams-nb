@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-20 18:56:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/20/gdna-removal-abalone-rna-from-20090402-and-20090331/
 slug: gdna-removal-abalone-rna-from-20090402-and-20090331
 title: gDNA Removal - Abalone RNA from 20090402 and 20090331
 wordpress_id: 1111

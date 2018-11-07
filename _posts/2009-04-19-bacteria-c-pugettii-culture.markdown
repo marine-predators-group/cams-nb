@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-19 18:59:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/19/bacteria-c-pugettii-culture/
 slug: bacteria-c-pugettii-culture
 title: Bacteria - C. pugettii culture
 wordpress_id: 1113

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 02:03:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/24/phenol-chloroform-dna-cleanup-geoduck-gdna/
 slug: phenol-chloroform-dna-cleanup-geoduck-gdna
 title: Phenol-Chloroform DNA Cleanup - Geoduck gDNA
 wordpress_id: 1816

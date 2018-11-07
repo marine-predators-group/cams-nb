@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-01 04:47:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/31/genomic-pcr-repeat-of-c-gigas-cox-genomic-pcr-from-20110118/
 slug: genomic-pcr-repeat-of-c-gigas-cox-genomic-pcr-from-20110118
 title: Genomic PCR - Repeat of C.gigas COX genomic PCR from 20110118
 wordpress_id: 488

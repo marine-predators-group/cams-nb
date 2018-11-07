@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-03-23 00:22:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/03/22/dna-extraction-taylor-water-filter-samples-from-2011/
 slug: dna-extraction-taylor-water-filter-samples-from-2011
 title: DNA Extraction - Taylor Water Filter Samples from 2011
 wordpress_id: 261

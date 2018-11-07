@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-28 05:40:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/27/data-management-o-lurida-raw-bgi-gbs-fastq-data/
 slug: data-management-o-lurida-raw-bgi-gbs-fastq-data
 title: Data Management - O.lurida Raw BGI GBS FASTQ Data
 wordpress_id: 2099

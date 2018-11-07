@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-28 20:48:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/28/sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa/
 slug: sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa
 title: SRA Submission – Genome sequencing of the Pacific geoduck (Panopea generosa)
 wordpress_id: 2062

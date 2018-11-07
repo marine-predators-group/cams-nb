@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-13 02:15:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/12/trypsin-digestion-vibrio-2d-spots-continued-from-yesterday/
 slug: trypsin-digestion-vibrio-2d-spots-continued-from-yesterday
 title: Trypsin digestion - Vibrio 2D spots CONTINUED (from yesterday)
 wordpress_id: 1191

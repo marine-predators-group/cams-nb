@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-14 19:34:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/14/pcr-baysea-scallop-gdnas/
 slug: pcr-baysea-scallop-gdnas
 title: PCR - Bay/Sea scallop gDNAs
 wordpress_id: 1125

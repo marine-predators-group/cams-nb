@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-03 04:56:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/02/rna-isolation-abalone-dg-project/
 slug: rna-isolation-abalone-dg-project
 title: RNA Isolation - Abalone Dg Project
 wordpress_id: 1049

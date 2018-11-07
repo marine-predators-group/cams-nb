@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-15 04:45:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/14/dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna/
 slug: dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna
 title: DNA Bisulfite Conversion - C.gigas larvae OA Sheared DNA
 wordpress_id: 50

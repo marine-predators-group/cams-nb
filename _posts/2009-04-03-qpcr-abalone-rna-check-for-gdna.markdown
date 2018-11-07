@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-03 23:43:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/03/qpcr-abalone-rna-check-for-gdna/
 slug: qpcr-abalone-rna-check-for-gdna
 title: qPCR - Abalone RNA, check for gDNA
 wordpress_id: 1151

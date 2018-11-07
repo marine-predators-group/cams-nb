@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-12-01 03:43:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/11/30/restriction-digestionsligations-ms-aflp/
 slug: restriction-digestionsligations-ms-aflp
 title: Restriction Digestions/Ligations - MS-AFLP
 wordpress_id: 565

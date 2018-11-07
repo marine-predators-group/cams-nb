@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-06 13:41:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/06/rna-quantification-o-lurida-1hr-post-mechanical-heat-stress-dnased-rna/
 slug: rna-quantification-o-lurida-1hr-post-mechanical-heat-stress-dnased-rna
 title: RNA Quantification - O.lurida 1hr post-mechanical heat stress DNased RNA
 wordpress_id: 1533

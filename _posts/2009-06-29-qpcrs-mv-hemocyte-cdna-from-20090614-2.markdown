@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-29 23:01:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/29/qpcrs-mv-hemocyte-cdna-from-20090614-2/
 slug: qpcrs-mv-hemocyte-cdna-from-20090614-2
 title: qPCRs - MV hemocyte cDNA from 20090614
 wordpress_id: 987

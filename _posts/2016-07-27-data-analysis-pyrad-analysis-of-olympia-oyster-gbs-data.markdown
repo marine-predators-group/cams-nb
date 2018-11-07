@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-27 22:51:52+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data/
 slug: data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data
 title: Data Analysis - PyRad Analysis of Olympia Oyster GBS Data
 wordpress_id: 2235

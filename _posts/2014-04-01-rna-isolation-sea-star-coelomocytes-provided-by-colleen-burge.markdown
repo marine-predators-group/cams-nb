@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-04-01 19:46:00+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/04/01/rna-isolation-sea-star-coelomocytes-provided-by-colleen-burge/
 slug: rna-isolation-sea-star-coelomocytes-provided-by-colleen-burge
 title: RNA Isolation - Sea Star Coelomocytes (provided by Colleen Burge)
 wordpress_id: 160

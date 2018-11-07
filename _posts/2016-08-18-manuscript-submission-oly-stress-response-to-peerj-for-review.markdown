@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-08-18 19:15:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/08/18/manuscript-submission-oly-stress-response-to-peerj-for-review/
 slug: manuscript-submission-oly-stress-response-to-peerj-for-review
 title: Manuscript Submission - Oly Stress Response to PeerJ for Review
 wordpress_id: 2256

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-12 17:43:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/12/dnase-treatment-rigorous-macs-gigas-rnare-dnased-rna-from-20090507-20090508-respectively/
 slug: dnase-treatment-rigorous-macs-gigas-rnare-dnased-rna-from-20090507-20090508-respectively
 title: DNase Treatment (Rigorous!) - Mac's gigas RNA/Re-DNased RNA from 20090507 &
   20090508, respectively

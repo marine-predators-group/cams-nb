@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-04 04:54:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/03/dnase-treatment-abalone-dg-rna-isolated-yesterday/
 slug: dnase-treatment-abalone-dg-rna-isolated-yesterday
 title: DNase Treatment - Abalone Dg RNA isolated yesterday
 wordpress_id: 1047

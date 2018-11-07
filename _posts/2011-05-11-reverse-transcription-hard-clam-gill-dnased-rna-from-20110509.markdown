@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-11 20:26:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/11/reverse-transcription-hard-clam-gill-dnased-rna-from-20110509/
 slug: reverse-transcription-hard-clam-gill-dnased-rna-from-20110509
 title: Reverse Transcription - Hard Clam Gill DNased RNA (from 20110509)
 wordpress_id: 359

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-11 18:07:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/11/dna-isolation-macs-gigas-samples-from-20090505-20090506/
 slug: dna-isolation-macs-gigas-samples-from-20090505-20090506
 title: DNA Isolation - Mac's gigas samples from 20090505 & 20090506
 wordpress_id: 1077

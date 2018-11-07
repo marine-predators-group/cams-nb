@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-13 00:44:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/12/dnase-treatment-mv-hemocyte-rna-from-yesterday/
 slug: dnase-treatment-mv-hemocyte-rna-from-yesterday
 title: DNase Treatment - MV hemocyte RNA from yesterday
 wordpress_id: 1017

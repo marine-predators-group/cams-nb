@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-01-05 23:24:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/01/05/sample-submission-geoduck-gdna-for-illumina-pilot-sequencing-project/
 slug: sample-submission-geoduck-gdna-for-illumina-pilot-sequencing-project
 title: Sample Submission – Geoduck gDNA for Illumina Pilot Sequencing Project
 wordpress_id: 2452

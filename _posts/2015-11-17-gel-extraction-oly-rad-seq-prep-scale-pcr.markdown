@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-17 03:47:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/16/gel-extraction-oly-rad-seq-prep-scale-pcr/
 slug: gel-extraction-oly-rad-seq-prep-scale-pcr
 title: Gel Extraction - Oly RAD-Seq Prep Scale PCR
 wordpress_id: 1782

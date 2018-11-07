@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-02-13 23:24:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/02/13/reverse-transcription-herring-rna-from-20091026/
 slug: reverse-transcription-herring-rna-from-20091026
 title: Reverse Transcription - Herring RNA from 20091026
 wordpress_id: 202

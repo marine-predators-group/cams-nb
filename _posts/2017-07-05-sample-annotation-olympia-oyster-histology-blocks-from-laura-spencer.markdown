@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-05 21:33:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/05/sample-annotation-olympia-oyster-histology-blocks-from-laura-spencer/
 slug: sample-annotation-olympia-oyster-histology-blocks-from-laura-spencer
 title: Sample Annotation - Olympia oyster histology blocks (from Laura Spencer)
 wordpress_id: 2624

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-20 20:23:29+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/20/qpcr-lexies-qpx-temp-tissue-experiment-see-lexies-notebook-4262011/
 slug: qpcr-lexies-qpx-temp-tissue-experiment-see-lexies-notebook-4262011
 title: qPCR - Lexie's QPX Temp & Tissue Experiment (see Lexies Notebook 4/26/2011)
 wordpress_id: 357

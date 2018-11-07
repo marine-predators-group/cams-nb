@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-04-09 22:15:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/04/09/pcr-hexokinase-partial-cds/
 slug: pcr-hexokinase-partial-cds
 title: PCR - Hexokinase Partial CDS
 wordpress_id: 194

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-28 23:53:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/28/ubuntu-installation-convert-apple-xserve-bigfish-to-ubuntu/
 slug: ubuntu-installation-convert-apple-xserve-bigfish-to-ubuntu
 title: Ubuntu Installation - Convert Apple Xserve "bigfish" to Ubuntu
 wordpress_id: 3118

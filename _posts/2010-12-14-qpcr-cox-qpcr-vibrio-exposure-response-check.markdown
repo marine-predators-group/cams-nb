@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-12-14 02:11:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/12/13/qpcr-cox-qpcr-vibrio-exposure-response-check/
 slug: qpcr-cox-qpcr-vibrio-exposure-response-check
 title: qPCR - COX qPCR Vibrio Exposure Response Check
 wordpress_id: 561

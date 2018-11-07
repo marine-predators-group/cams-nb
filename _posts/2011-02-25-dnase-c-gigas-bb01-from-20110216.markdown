@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-25 23:44:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/25/dnase-c-gigas-bb01-from-20110216/
 slug: dnase-c-gigas-bb01-from-20110216
 title: DNase - C.gigas BB01 from 20110216
 wordpress_id: 420

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-01-09 04:17:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/01/08/data-received-bisulfite-treated-illumina-sequencing-from-genewiz/
 slug: data-received-bisulfite-treated-illumina-sequencing-from-genewiz
 title: Data Received - Bisulfite-treated Illumina Sequencing from Genewiz
 wordpress_id: 1959

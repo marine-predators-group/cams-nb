@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-09 04:36:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/08/pcr-new-c-gigas-cox-primers-for-sequencing-of-isoforms/
 slug: pcr-new-c-gigas-cox-primers-for-sequencing-of-isoforms
 title: PCR - New C. gigas COX Primers for Sequencing of Isoforms
 wordpress_id: 480

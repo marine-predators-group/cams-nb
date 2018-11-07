@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-17 00:13:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/16/pcr-sepia-cdna-2/
 slug: pcr-sepia-cdna-2
 title: PCR - Sepia cDNA
 wordpress_id: 748

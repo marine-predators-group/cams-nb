@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-06 22:47:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/06/data-management-sra-submission-olympia-oyster-uw-pacbio-data-from-20170323/
 slug: data-management-sra-submission-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management - SRA Submission Olympia Oyster UW PacBio Data from 20170323
 wordpress_id: 2633

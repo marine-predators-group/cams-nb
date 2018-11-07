@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-31 15:11:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/31/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-bismark-continued/
 slug: bs-seq-mapping-olympia-oyster-bisulfite-sequencing-bismark-continued
 title: 'BS-seq Mapping – Olympia oyster bisulfite sequencing: Bismark Continued'
 wordpress_id: 3396

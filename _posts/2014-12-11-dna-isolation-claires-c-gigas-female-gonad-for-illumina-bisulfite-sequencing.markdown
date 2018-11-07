@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-12-11 22:02:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/12/11/dna-isolation-claires-c-gigas-female-gonad-for-illumina-bisulfite-sequencing/
 slug: dna-isolation-claires-c-gigas-female-gonad-for-illumina-bisulfite-sequencing
 title: DNA Isolation - Claire's C.gigas Female Gonad for Illumina Bisulfite Sequencing
 wordpress_id: 176

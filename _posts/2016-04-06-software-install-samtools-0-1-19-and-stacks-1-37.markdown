@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-06 23:28:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/06/software-install-samtools-0-1-19-and-stacks-1-37/
 slug: software-install-samtools-0-1-19-and-stacks-1-37
 title: Software Install - samtools-0.1.19 and stacks-1.37
 wordpress_id: 2070

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-31 17:40:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/31/rna-precipitation-mrna-isolation-for-solid-libraries-pooled-abalone-total-rna-carmel-control-carmel-exposed/
 slug: rna-precipitation-mrna-isolation-for-solid-libraries-pooled-abalone-total-rna-carmel-control-carmel-exposed
 title: 'RNA Precipitation & mRNA Isolation for SOLiD Libraries - Pooled abalone total
   RNA: Carmel control, Carmel exposed'

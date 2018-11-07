@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-23 20:16:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/23/qpcr-hard-clam-ngs-primer-checks/
 slug: qpcr-hard-clam-ngs-primer-checks
 title: qPCR - Hard Clam NGS Primer Checks
 wordpress_id: 352

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-02 01:43:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/01/agarose-gel-geoduck-olympia-oyster-gdna-integrity-check/
 slug: agarose-gel-geoduck-olympia-oyster-gdna-integrity-check
 title: Agarose Gel - Geoduck & Olympia Oyster gDNA Integrity Check
 wordpress_id: 1571

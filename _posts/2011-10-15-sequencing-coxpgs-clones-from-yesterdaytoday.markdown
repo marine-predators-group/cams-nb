@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-15 02:02:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/14/sequencing-coxpgs-clones-from-yesterdaytoday/
 slug: sequencing-coxpgs-clones-from-yesterdaytoday
 title: Sequencing - COX/PGS Clones from yesterday/today
 wordpress_id: 288

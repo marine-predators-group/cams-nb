@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-09-15 02:42:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/09/14/pcr-full-length-pgs2-cdna/
 slug: pcr-full-length-pgs2-cdna
 title: PCR - Full-length PGS2 cDNA
 wordpress_id: 308

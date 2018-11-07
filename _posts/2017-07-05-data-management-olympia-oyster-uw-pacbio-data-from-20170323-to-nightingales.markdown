@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-07-05 22:35:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/07/05/data-management-olympia-oyster-uw-pacbio-data-from-20170323-to-nightingales/
 slug: data-management-olympia-oyster-uw-pacbio-data-from-20170323-to-nightingales
 title: Data Management - OLYMPIA OYSTER UW PACBIO DATA (FROM 20170323) TO NIGHTINGALES
 wordpress_id: 2627

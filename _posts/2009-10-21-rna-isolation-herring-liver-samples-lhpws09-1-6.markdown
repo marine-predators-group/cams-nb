@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-21 03:29:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/20/rna-isolation-herring-liver-samples-lhpws09-1-6/
 slug: rna-isolation-herring-liver-samples-lhpws09-1-6
 title: RNA Isolation - Herring Liver Samples (LHPWS09 1-6)
 wordpress_id: 818

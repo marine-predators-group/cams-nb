@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-05-11 14:25:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/05/11/dna-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu-2/
 slug: dna-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu-2
 title: DNA Quantification - Acropora cervicornis (Staghorn coral) DNA from Javier
   Casariego (FIU)

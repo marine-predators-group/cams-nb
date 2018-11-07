@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-11 03:18:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/10/sequencing-lake-trout-hrm/
 slug: sequencing-lake-trout-hrm
 title: Sequencing - Lake Trout HRM
 wordpress_id: 798

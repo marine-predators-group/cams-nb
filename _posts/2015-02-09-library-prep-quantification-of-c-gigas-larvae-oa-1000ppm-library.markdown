@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-09 22:36:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/09/library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library/
 slug: library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library
 title: Library Prep - Quantification of C.gigas larvae OA 1000ppm library
 wordpress_id: 462

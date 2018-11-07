@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-17 00:00:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/16/mrna-sample-submission-hard-clam-gill-1-mrna-from-20090313/
 slug: mrna-sample-submission-hard-clam-gill-1-mrna-from-20090313
 title: 'mRNA Sample Submission Hard clam gill #1 mRNA from 20090313'
 wordpress_id: 1165

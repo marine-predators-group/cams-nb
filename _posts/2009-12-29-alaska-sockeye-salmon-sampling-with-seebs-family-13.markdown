@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-29 23:39:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/29/alaska-sockeye-salmon-sampling-with-seebs-family-13/
 slug: alaska-sockeye-salmon-sampling-with-seebs-family-13
 title: 'Alaska sockeye salmon sampling (with Seebs): Family #13'
 wordpress_id: 730

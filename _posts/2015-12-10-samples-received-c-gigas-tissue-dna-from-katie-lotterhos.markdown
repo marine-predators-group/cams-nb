@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-10 18:09:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/10/samples-received-c-gigas-tissue-dna-from-katie-lotterhos/
 slug: samples-received-c-gigas-tissue-dna-from-katie-lotterhos
 title: Samples Received - C.gigas Tissue & DNA from Katie Lotterhos
 wordpress_id: 1885

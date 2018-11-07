@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-12 17:05:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/12/sample-submission-olympia-oyster-pcrs-sanger-sequencing/
 slug: sample-submission-olympia-oyster-pcrs-sanger-sequencing
 title: Sample Submission - Olympia oyster PCRs Sanger Sequencing
 wordpress_id: 1476

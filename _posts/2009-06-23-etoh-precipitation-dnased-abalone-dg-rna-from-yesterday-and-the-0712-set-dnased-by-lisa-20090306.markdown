@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-23 23:33:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/23/etoh-precipitation-dnased-abalone-dg-rna-from-yesterday-and-the-0712-set-dnased-by-lisa-20090306/
 slug: etoh-precipitation-dnased-abalone-dg-rna-from-yesterday-and-the-0712-set-dnased-by-lisa-20090306
 title: EtOH Precipitation - DNased Abalone Dg RNA from yesterday AND the 07:12 set
   (DNased by Lisa 20090306)

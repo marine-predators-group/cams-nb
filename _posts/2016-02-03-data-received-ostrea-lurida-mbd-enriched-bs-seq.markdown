@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-02-03 22:47:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/02/03/data-received-ostrea-lurida-mbd-enriched-bs-seq/
 slug: data-received-ostrea-lurida-mbd-enriched-bs-seq
 title: Data Received - Ostrea lurida MBD-enriched BS-seq
 wordpress_id: 1996

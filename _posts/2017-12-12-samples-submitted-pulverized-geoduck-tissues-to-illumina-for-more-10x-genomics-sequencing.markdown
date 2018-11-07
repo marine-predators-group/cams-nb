@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-12-12 22:06:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/12/12/samples-submitted-pulverized-geoduck-tissues-to-illumina-for-more-10x-genomics-sequencing/
 slug: samples-submitted-pulverized-geoduck-tissues-to-illumina-for-more-10x-genomics-sequencing
 title: Samples Submitted - Pulverized Geoduck Tissues to Illumina for More 10x Genomics
   Sequencing

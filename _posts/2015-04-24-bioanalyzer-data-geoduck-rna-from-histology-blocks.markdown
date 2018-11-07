@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-24 16:09:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/24/bioanalyzer-data-geoduck-rna-from-histology-blocks/
 slug: bioanalyzer-data-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Data - Geoduck RNA from Histology Blocks
 wordpress_id: 1271

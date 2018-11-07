@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-14 22:57:12+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/14/rna-precipitation-continued-from-yesterday/
 slug: rna-precipitation-continued-from-yesterday
 title: RNA - Precipitation continued from yesterday
 wordpress_id: 1211

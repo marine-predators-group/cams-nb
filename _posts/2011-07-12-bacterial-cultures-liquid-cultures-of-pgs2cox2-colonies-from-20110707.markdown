@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-07-12 03:29:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/07/11/bacterial-cultures-liquid-cultures-of-pgs2cox2-colonies-from-20110707/
 slug: bacterial-cultures-liquid-cultures-of-pgs2cox2-colonies-from-20110707
 title: Bacterial Cultures - Liquid Cultures of PGS2/COX2 Colonies from 20110707
 wordpress_id: 333

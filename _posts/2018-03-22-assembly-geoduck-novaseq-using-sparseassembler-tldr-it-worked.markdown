@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-03-22 16:25:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/03/22/assembly-geoduck-novaseq-using-sparseassembler-tldr-it-worked/
 slug: assembly-geoduck-novaseq-using-sparseassembler-tldr-it-worked
 title: Assembly - Geoduck NovaSeq using SparseAssembler (TL;DR - it worked!)
 wordpress_id: 3146

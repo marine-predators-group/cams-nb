@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-09 23:12:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/09/qpcr-check-dnased-abalone-rna-by-lisa-for-gdna/
 slug: qpcr-check-dnased-abalone-rna-by-lisa-for-gdna
 title: qPCR - Check DNased abalone RNA (by Lisa) for gDNA
 wordpress_id: 1141

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-01-22 04:55:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/21/rna-isolation-various-c-gigas-tissue-from-20110111-2/
 slug: rna-isolation-various-c-gigas-tissue-from-20110111-2
 title: RNA Isolation - Various C.gigas Tissue from 20110111
 wordpress_id: 494

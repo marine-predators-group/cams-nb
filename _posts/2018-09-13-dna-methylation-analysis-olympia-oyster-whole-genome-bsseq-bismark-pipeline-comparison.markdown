@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-13 17:28:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/13/dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison/
 slug: dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison
 title: DNA Methylation Analysis - Olympia Oyster Whole Genome BSseq Bismark Pipeline
   Comparison

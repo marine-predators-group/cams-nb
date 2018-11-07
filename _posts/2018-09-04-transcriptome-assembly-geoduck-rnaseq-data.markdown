@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-04 19:31:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/04/transcriptome-assembly-geoduck-rnaseq-data/
 slug: transcriptome-assembly-geoduck-rnaseq-data
 title: Transcriptome Assembly - Geoduck RNAseq data
 wordpress_id: 3533

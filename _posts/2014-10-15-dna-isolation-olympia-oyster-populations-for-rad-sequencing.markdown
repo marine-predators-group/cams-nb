@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-10-15 04:40:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/10/14/dna-isolation-olympia-oyster-populations-for-rad-sequencing/
 slug: dna-isolation-olympia-oyster-populations-for-rad-sequencing
 title: DNA Isolation - Olympia Oyster Populations for RAD Sequencing
 wordpress_id: 108

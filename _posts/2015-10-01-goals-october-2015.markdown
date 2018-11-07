@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-10-01 07:01:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/10/01/goals-october-2015/
 slug: goals-october-2015
 title: Goals - October 2015
 wordpress_id: 1674

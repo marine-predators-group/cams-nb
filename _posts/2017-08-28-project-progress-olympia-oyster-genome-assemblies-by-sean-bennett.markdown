@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-08-28 22:12:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/08/28/project-progress-olympia-oyster-genome-assemblies-by-sean-bennett/
 slug: project-progress-olympia-oyster-genome-assemblies-by-sean-bennett
 title: Project Progress - Olympia Oyster Genome Assemblies by Sean Bennett
 wordpress_id: 2682

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-18 17:48:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/18/bioanalyzer-for-solid-libraries-total-and-mrna-from-perch-lake-trout-herring-rna-samples-continued-from-yesterday/
 slug: bioanalyzer-for-solid-libraries-total-and-mrna-from-perch-lake-trout-herring-rna-samples-continued-from-yesterday
 title: Bioanalyzer for SOLiD libraries - Total and mRNA from Perch, Lake Trout & Herring
   RNA samples (CONTINUED from yesterday)

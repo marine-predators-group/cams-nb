@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-09-29 04:34:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/09/28/etoh-precipitation-ricks-trout-ribosomoal-depleted-rna-for-solid-wtk-from-today/
 slug: etoh-precipitation-ricks-trout-ribosomoal-depleted-rna-for-solid-wtk-from-today
 title: EtOH Precipitation - Rick's trout Ribosomoal-depleted RNA for SOLiD WTK (from
   today)

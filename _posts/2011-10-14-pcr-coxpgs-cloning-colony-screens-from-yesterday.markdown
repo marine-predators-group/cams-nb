@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-14 02:08:39+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/13/pcr-coxpgs-cloning-colony-screens-from-yesterday/
 slug: pcr-coxpgs-cloning-colony-screens-from-yesterday
 title: PCR - COX/PGS Cloning Colony Screens from yesterday
 wordpress_id: 290

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-07 20:37:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/07/rna-isolation-jakes-o-lurida-ctenidia-control-from-20150422/
 slug: rna-isolation-jakes-o-lurida-ctenidia-control-from-20150422
 title: RNA Isolation – Jake’s O. lurida Ctenidia Control from 20150422
 wordpress_id: 1325

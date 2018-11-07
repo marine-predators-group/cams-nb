@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-01 16:21:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued/
 slug: trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued
 title: TrimGalore!/FastQC/MultiQC - Illumina HiSeq Genome Sequencing Data Continued
 wordpress_id: 3179

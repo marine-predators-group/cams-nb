@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-02 23:28:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/02/library-quality-assessment-c-gigas-oa-larvae-illumina-libraries/
 slug: library-quality-assessment-c-gigas-oa-larvae-illumina-libraries
 title: Library Quality Assessment - C.gigas OA larvae Illumina libraries
 wordpress_id: 542

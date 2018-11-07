@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-03-14 20:17:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/03/14/dna-quality-check-yanouks-oyster-gdna/
 slug: dna-quality-check-yanouks-oyster-gdna
 title: DNA Quality Check - Yanouk's Oyster gDNA
 wordpress_id: 166

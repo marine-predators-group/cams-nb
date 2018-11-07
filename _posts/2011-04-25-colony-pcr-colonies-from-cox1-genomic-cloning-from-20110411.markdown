@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-25 20:57:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/25/colony-pcr-colonies-from-cox1-genomic-cloning-from-20110411/
 slug: colony-pcr-colonies-from-cox1-genomic-cloning-from-20110411
 title: Colony PCR - Colonies from COX1 Genomic Cloning (from 20110411)
 wordpress_id: 376

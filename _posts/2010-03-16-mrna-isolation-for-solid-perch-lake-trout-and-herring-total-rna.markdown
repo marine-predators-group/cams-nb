@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-16 17:52:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/16/mrna-isolation-for-solid-perch-lake-trout-and-herring-total-rna/
 slug: mrna-isolation-for-solid-perch-lake-trout-and-herring-total-rna
 title: mRNA Isolation for SOLiD - Perch, Lake Trout, and Herring total RNA
 wordpress_id: 698

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-09 20:27:59+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/09/ram-upgrade-roadrunner-apple-xserve-to-48gb-ram/
 slug: ram-upgrade-roadrunner-apple-xserve-to-48gb-ram
 title: RAM Upgrade - Roadrunner (Apple Xserve) to 48GB RAM
 wordpress_id: 2141

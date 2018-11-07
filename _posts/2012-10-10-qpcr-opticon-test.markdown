@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-10-10 23:19:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/10/10/qpcr-opticon-test/
 slug: qpcr-opticon-test
 title: qPCR - Opticon Test
 wordpress_id: 227

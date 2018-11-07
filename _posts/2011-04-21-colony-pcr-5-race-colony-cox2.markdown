@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-21 21:11:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/21/colony-pcr-5-race-colony-cox2/
 slug: colony-pcr-5-race-colony-cox2
 title: 'Colony PCR - 5'' RACE Colony: COX2'
 wordpress_id: 382

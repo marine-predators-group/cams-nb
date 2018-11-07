@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-17 00:15:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/16/dna-isolation-olympia-oyster-whole-body/
 slug: dna-isolation-olympia-oyster-whole-body
 title: DNA Isolation - Olympia oyster whole body
 wordpress_id: 1621

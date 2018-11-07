@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-07 00:24:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/06/rna-isolation-jakes-o-lurida-ctenidia-1hr-heat-stress-from-20150422/
 slug: rna-isolation-jakes-o-lurida-ctenidia-1hr-heat-stress-from-20150422
 title: RNA Isolation - Jake's O. lurida Ctenidia 1hr Heat Stress from 20150422
 wordpress_id: 1313

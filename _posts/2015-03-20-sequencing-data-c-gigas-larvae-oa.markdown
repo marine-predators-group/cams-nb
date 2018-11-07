@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-03-20 03:07:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/03/19/sequencing-data-c-gigas-larvae-oa/
 slug: sequencing-data-c-gigas-larvae-oa
 title: Sequencing Data - C.gigas Larvae OA
 wordpress_id: 935

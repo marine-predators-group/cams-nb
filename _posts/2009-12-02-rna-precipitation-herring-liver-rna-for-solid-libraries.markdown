@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-02 01:15:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/01/rna-precipitation-herring-liver-rna-for-solid-libraries/
 slug: rna-precipitation-herring-liver-rna-for-solid-libraries
 title: RNA Precipitation - Herring Liver RNA for SOLiD Libraries
 wordpress_id: 782

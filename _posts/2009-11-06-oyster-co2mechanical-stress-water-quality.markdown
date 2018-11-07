@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-11-06 03:21:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/11/05/oyster-co2mechanical-stress-water-quality/
 slug: oyster-co2mechanical-stress-water-quality
 title: Oyster CO2/Mechanical Stress - Water quality
 wordpress_id: 800

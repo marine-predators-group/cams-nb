@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-05-08 20:38:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/05/08/primer-design-hard-clam-ngs-primers/
 slug: primer-design-hard-clam-ngs-primers
 title: Primer Design - Hard Clam NGS Primers
 wordpress_id: 366

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-27 03:18:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/26/rna-precipitation-herring-gonadovary-rna-from-20091023/
 slug: rna-precipitation-herring-gonadovary-rna-from-20091023
 title: RNA Precipitation - Herring gonad/ovary RNA (from 20091023)
 wordpress_id: 808

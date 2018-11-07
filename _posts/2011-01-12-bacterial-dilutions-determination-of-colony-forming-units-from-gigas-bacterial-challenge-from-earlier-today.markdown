@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-01-12 05:14:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/11/bacterial-dilutions-determination-of-colony-forming-units-from-gigas-bacterial-challenge-from-earlier-today/
 slug: bacterial-dilutions-determination-of-colony-forming-units-from-gigas-bacterial-challenge-from-earlier-today
 title: Bacterial Dilutions - Determination of Colony Forming Units from Gigas Bacterial
   challenge (from earlier today)

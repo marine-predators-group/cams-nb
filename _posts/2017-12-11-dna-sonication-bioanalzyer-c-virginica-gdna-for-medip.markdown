@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-12-11 23:24:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/
 slug: dna-sonication-bioanalzyer-c-virginica-gdna-for-medip
 title: DNA Sonication & Bioanalzyer - C. virginica gDNA for MeDIP
 wordpress_id: 2956

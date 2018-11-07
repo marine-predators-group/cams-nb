@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-10-16 23:07:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/10/16/received-oysters-from-taylor-shellfish/
 slug: received-oysters-from-taylor-shellfish
 title: Received oysters from Taylor Shellfish.
 wordpress_id: 216

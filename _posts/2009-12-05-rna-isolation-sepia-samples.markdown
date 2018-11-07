@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-12-05 00:39:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/12/04/rna-isolation-sepia-samples/
 slug: rna-isolation-sepia-samples
 title: RNA Isolation - Sepia samples
 wordpress_id: 766

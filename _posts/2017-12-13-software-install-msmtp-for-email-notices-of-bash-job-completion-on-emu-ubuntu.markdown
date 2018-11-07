@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-12-13 21:47:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/12/13/software-install-msmtp-for-email-notices-of-bash-job-completion-on-emu-ubuntu/
 slug: software-install-msmtp-for-email-notices-of-bash-job-completion-on-emu-ubuntu
 title: Software Install - MSMTP For Email Notices of Bash Job Completion on Emu (Ubuntu)
 wordpress_id: 2970

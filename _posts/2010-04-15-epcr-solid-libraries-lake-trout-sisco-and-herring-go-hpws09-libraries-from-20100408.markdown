@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-15 17:06:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/15/epcr-solid-libraries-lake-trout-sisco-and-herring-go-hpws09-libraries-from-20100408/
 slug: epcr-solid-libraries-lake-trout-sisco-and-herring-go-hpws09-libraries-from-20100408
 title: ePCR SOLiD Libraries - Lake Trout Sisco and Herring G/O HPWS09 libraries (from
   20100408)

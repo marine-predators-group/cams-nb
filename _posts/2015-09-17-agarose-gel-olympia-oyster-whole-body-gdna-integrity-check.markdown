@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-17 19:36:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check/
 slug: agarose-gel-olympia-oyster-whole-body-gdna-integrity-check
 title: Agarose Gel - Olympia oyster Whole Body gDNA Integrity Check
 wordpress_id: 1624

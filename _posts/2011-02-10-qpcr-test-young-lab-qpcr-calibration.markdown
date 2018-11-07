@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-10 04:29:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/09/qpcr-test-young-lab-qpcr-calibration/
 slug: qpcr-test-young-lab-qpcr-calibration
 title: qPCR - Test Young Lab qPCR Calibration
 wordpress_id: 474

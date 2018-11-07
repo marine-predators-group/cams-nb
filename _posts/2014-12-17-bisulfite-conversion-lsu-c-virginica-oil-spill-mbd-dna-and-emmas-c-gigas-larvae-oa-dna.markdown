@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-12-17 04:54:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/12/16/bisulfite-conversion-lsu-c-virginica-oil-spill-mbd-dna-and-emmas-c-gigas-larvae-oa-dna/
 slug: bisulfite-conversion-lsu-c-virginica-oil-spill-mbd-dna-and-emmas-c-gigas-larvae-oa-dna
 title: Bisulfite Conversion - LSU C.virginica Oil Spill MBD DNA and Emma's C.gigas
   Larvae OA DNA

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-01-29 04:50:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/28/dnase-dnase-c-gigas-rna-from-20110120-20110121-and-20110124/
 slug: dnase-dnase-c-gigas-rna-from-20110120-20110121-and-20110124
 title: DNase - DNase C.gigas RNA from 20110120, 20110121 and 20110124
 wordpress_id: 490

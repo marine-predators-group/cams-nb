@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-03 04:42:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/02/restriction-digests-various-gigas-gdnas-of-macs/
 slug: restriction-digests-various-gigas-gdnas-of-macs
 title: Restriction Digests - Various gigas gDNAs of Mac's
 wordpress_id: 617

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-04 20:49:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/04/dna-methylation-analysis-olympia-oyster-bsseq-methylkit-analysis/
 slug: dna-methylation-analysis-olympia-oyster-bsseq-methylkit-analysis
 title: DNA Methylation Analysis - Olympia oyster BSseq MethylKit Analysis
 wordpress_id: 3536

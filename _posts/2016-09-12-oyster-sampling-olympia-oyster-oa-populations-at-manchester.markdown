@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-09-12 15:39:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/09/12/oyster-sampling-olympia-oyster-oa-populations-at-manchester/
 slug: oyster-sampling-olympia-oyster-oa-populations-at-manchester
 title: Oyster Sampling  - Olympia Oyster OA Populations at Manchester
 wordpress_id: 2288

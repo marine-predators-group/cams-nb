@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-27 22:57:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/27/computing-speed-benchmark-comparisons-between-local-external-server-files/
 slug: computing-speed-benchmark-comparisons-between-local-external-server-files
 title: Computing - Speed Benchmark Comparisons Between Local, External, & Server Files
 wordpress_id: 2093

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-03-15 00:24:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/03/14/data-management-o-lurida-genotype-by-sequencing-gbs-data-from-bgi/
 slug: data-management-o-lurida-genotype-by-sequencing-gbs-data-from-bgi
 title: Data Management - O. lurida genotype-by-sequencing (GBS) data from BGI
 wordpress_id: 2038

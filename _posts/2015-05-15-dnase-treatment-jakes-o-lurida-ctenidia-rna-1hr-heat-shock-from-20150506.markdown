@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-05-15 00:46:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506/
 slug: dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506
 title: DNase Treatment - Jake's O.lurida Ctenidia RNA (1hr Heat Shock) from 20150506
 wordpress_id: 1405

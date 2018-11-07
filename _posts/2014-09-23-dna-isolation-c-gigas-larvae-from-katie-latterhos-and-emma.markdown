@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-09-23 04:49:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/09/22/dna-isolation-c-gigas-larvae-from-katie-latterhos-and-emma/
 slug: dna-isolation-c-gigas-larvae-from-katie-latterhos-and-emma
 title: DNA Isolation - C.gigas Larvae from Katie Latterhos and Emma
 wordpress_id: 114

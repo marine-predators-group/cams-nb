@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-05 01:46:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/04/dna-quantification-quality-assessment-oly-2sn-gdna/
 slug: dna-quantification-quality-assessment-oly-2sn-gdna
 title: DNA Quantification & Quality Assessment - Oly 2SN gDNA
 wordpress_id: 1763

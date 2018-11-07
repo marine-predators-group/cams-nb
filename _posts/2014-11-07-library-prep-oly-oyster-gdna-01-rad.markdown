@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-07 17:15:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/07/library-prep-oly-oyster-gdna-01-rad/
 slug: library-prep-oly-oyster-gdna-01-rad
 title: Library Prep - Oly Oyster gDNA-01 RAD
 wordpress_id: 87

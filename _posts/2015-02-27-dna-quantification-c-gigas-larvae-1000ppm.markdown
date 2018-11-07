@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-02-27 04:19:26+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/02/26/dna-quantification-c-gigas-larvae-1000ppm/
 slug: dna-quantification-c-gigas-larvae-1000ppm
 title: DNA Quantification - C.gigas Larvae 1000ppm
 wordpress_id: 530

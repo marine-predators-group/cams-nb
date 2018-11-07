@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-07 23:36:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/07/computing-oly-bgi-gbs-reproducibility-fail/
 slug: computing-oly-bgi-gbs-reproducibility-fail
 title: Computing - Oly BGI GBS Reproducibility Fail
 wordpress_id: 2509

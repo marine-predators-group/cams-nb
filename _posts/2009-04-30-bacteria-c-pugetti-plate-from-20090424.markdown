@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-30 18:44:09+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/30/bacteria-c-pugetti-plate-from-20090424/
 slug: bacteria-c-pugetti-plate-from-20090424
 title: Bacteria - C. pugetti plate (from 20090424)
 wordpress_id: 1097

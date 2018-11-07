@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-18 15:52:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/18/c-pugetti-liquid-cultures/
 slug: c-pugetti-liquid-cultures
 title: C.pugetti - Liquid Cultures
 wordpress_id: 1061

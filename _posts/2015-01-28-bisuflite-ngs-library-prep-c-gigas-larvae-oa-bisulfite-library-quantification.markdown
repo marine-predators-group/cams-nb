@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-28 21:54:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification/
 slug: bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification
 title: Bisuflite NGS Library Prep – C.gigas larvae OA bisulfite library quantification
 wordpress_id: 438

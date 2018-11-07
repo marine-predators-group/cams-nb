@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-22 23:00:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/22/sample-submission-bs-seq-library-pool-to-genewiz/
 slug: sample-submission-bs-seq-library-pool-to-genewiz
 title: Sample Submission - BS-seq Library Pool to Genewiz
 wordpress_id: 1921

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-13 23:02:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/13/gdna-isolation-baysea-scallop-and-hybrid-samples/
 slug: gdna-isolation-baysea-scallop-and-hybrid-samples
 title: gDNA Isolation - Bay/Sea Scallop and hybrid samples
 wordpress_id: 1129

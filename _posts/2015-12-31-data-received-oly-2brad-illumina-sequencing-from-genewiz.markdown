@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-31 20:57:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/31/data-received-oly-2brad-illumina-sequencing-from-genewiz/
 slug: data-received-oly-2brad-illumina-sequencing-from-genewiz
 title: Data Received - Oly 2bRAD Illumina Sequencing from Genewiz
 wordpress_id: 1924

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-10 23:24:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/10/solid-sequencing-submission/
 slug: solid-sequencing-submission
 title: SOLiD Sequencing Submission
 wordpress_id: 404

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-11-30 22:45:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/11/30/troubleshooting-pb-jelly-install-on-emu-continued/
 slug: troubleshooting-pb-jelly-install-on-emu-continued
 title: Troubleshooting – PB Jelly Install on Emu Continued
 wordpress_id: 2944

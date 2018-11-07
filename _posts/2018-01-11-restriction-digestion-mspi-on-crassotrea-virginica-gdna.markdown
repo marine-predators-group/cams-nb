@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-11 21:48:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna/
 slug: restriction-digestion-mspi-on-crassotrea-virginica-gdna
 title: Restriction Digestion - MspI on Crassotrea virginica gDNA
 wordpress_id: 3021

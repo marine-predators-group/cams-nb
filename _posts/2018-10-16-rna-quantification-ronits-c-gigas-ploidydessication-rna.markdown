@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-16 15:14:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/16/rna-quantification-ronits-c-gigas-ploidydessication-rna/
 slug: rna-quantification-ronits-c-gigas-ploidydessication-rna
 title: RNA Quantification - Ronit's C.gigas Ploidy/Dessication RNA
 wordpress_id: 3642

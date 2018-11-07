@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-13 17:10:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/13/gdna-isolation-c-pugetti/
 slug: gdna-isolation-c-pugetti
 title: gDNA Isolation - C.pugetti
 wordpress_id: 1071

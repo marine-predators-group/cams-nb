@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-07 21:37:29+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/07/53-race-pcrs-nested-pcrs-for-cox2-sequence/
 slug: 53-race-pcrs-nested-pcrs-for-cox2-sequence
 title: 5'/3' RACE PCRs - Nested PCRs for COX2 Sequence
 wordpress_id: 388

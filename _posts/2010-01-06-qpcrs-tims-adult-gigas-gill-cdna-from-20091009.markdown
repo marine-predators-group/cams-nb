@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-06 20:14:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/06/qpcrs-tims-adult-gigas-gill-cdna-from-20091009/
 slug: qpcrs-tims-adult-gigas-gill-cdna-from-20091009
 title: qPCRs - Tim's Adult Gigas gill cDNA (from 20091009)
 wordpress_id: 720

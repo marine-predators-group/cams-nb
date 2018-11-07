@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 22:48:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/25/dna-isolation-geoduck-ctenidia-gdna/
 slug: dna-isolation-geoduck-ctenidia-gdna
 title: DNA Isolation - Geoduck Ctenidia gDNA
 wordpress_id: 1835

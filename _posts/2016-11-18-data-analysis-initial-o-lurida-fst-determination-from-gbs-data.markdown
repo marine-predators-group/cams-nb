@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-11-18 05:08:11+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/17/data-analysis-initial-o-lurida-fst-determination-from-gbs-data/
 slug: data-analysis-initial-o-lurida-fst-determination-from-gbs-data
 title: Data Analysis - Initial O.lurida Fst Determination from GBS Data
 wordpress_id: 2357

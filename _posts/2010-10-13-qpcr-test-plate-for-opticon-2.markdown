@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-10-13 03:53:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/10/12/qpcr-test-plate-for-opticon-2/
 slug: qpcr-test-plate-for-opticon-2
 title: qPCR - Test Plate for Opticon 2
 wordpress_id: 589

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-07 02:19:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/06/mrna-submission-for-agilent-bioanalyzer/
 slug: mrna-submission-for-agilent-bioanalyzer
 title: mRNA - Submission for Agilent Bioanalyzer
 wordpress_id: 1195

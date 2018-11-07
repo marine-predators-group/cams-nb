@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-11 23:15:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/11/reverse-transcription-c-gigas-bbdh-dnased-rna-from-20090507-for-props/
 slug: reverse-transcription-c-gigas-bbdh-dnased-rna-from-20090507-for-props
 title: Reverse Transcription - C.gigas BB/DH DNased RNA (from 20090507) for PROPS
 wordpress_id: 402

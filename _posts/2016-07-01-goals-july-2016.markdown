@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-01 12:43:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/01/goals-july-2016/
 slug: goals-july-2016
 title: Goals - July 2016
 wordpress_id: 2165

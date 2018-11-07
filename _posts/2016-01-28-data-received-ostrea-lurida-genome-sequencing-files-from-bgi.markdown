@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-01-28 00:30:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/01/27/data-received-ostrea-lurida-genome-sequencing-files-from-bgi/
 slug: data-received-ostrea-lurida-genome-sequencing-files-from-bgi
 title: Data Received - Ostrea lurida genome sequencing files from BGI
 wordpress_id: 1988

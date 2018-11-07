@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-10-14 02:13:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/10/13/mini-preps-coxpgs-cloning-colonies-from-today/
 slug: mini-preps-coxpgs-cloning-colonies-from-today
 title: Mini-preps - COX/PGS Cloning Colonies from today
 wordpress_id: 292

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-01 21:16:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/01/server-email-notifications-fix-eagle/
 slug: server-email-notifications-fix-eagle
 title: Server Email Notifications Fix - Eagle
 wordpress_id: 1561

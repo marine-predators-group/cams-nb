@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-16 16:59:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/16/data-management-illumina-novaseq-geoduck-genome-sequencing/
 slug: data-management-illumina-novaseq-geoduck-genome-sequencing
 title: Data Management - Illumina NovaSeq Geoduck Genome Sequencing
 wordpress_id: 3345

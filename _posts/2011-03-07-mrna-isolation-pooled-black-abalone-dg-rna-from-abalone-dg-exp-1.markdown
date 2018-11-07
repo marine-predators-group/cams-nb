@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-07 23:26:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/07/mrna-isolation-pooled-black-abalone-dg-rna-from-abalone-dg-exp-1/
 slug: mrna-isolation-pooled-black-abalone-dg-rna-from-abalone-dg-exp-1
 title: mRNA Isolation - Pooled Black Abalone Dg RNA (from Abalone Dg Exp 1)
 wordpress_id: 406

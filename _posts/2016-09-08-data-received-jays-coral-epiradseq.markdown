@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-09-08 19:51:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/09/08/data-received-jays-coral-epiradseq/
 slug: data-received-jays-coral-epiradseq
 title: Data Received - Jay's Coral epiRADseq
 wordpress_id: 2274

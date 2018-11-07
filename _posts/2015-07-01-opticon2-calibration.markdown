@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-01 05:22:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/30/opticon2-calibration/
 slug: opticon2-calibration
 title: Opticon2 Calibration
 wordpress_id: 1501

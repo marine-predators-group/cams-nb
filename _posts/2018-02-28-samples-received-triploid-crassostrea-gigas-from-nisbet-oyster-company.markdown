@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-02-28 23:21:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/02/28/samples-received-triploid-crassostrea-gigas-from-nisbet-oyster-company/
 slug: samples-received-triploid-crassostrea-gigas-from-nisbet-oyster-company
 title: Samples Received - Triploid Crassostrea gigas from Nisbet Oyster Company
 wordpress_id: 3111

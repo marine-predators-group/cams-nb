@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-31 19:45:49+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/31/software-installation-alpaca-on-roadrunner/
 slug: software-installation-alpaca-on-roadrunner
 title: Software Installation - ALPACA on Roadrunner
 wordpress_id: 2850

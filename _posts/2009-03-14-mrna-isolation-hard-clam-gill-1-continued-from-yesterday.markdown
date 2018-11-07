@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-14 00:02:27+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/13/mrna-isolation-hard-clam-gill-1-continued-from-yesterday/
 slug: mrna-isolation-hard-clam-gill-1-continued-from-yesterday
 title: 'mRNA Isolation - hard clam gill #1 continued from yesterday'
 wordpress_id: 1167

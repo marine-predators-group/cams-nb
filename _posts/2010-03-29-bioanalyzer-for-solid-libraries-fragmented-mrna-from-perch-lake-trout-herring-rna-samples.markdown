@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-29 17:42:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/29/bioanalyzer-for-solid-libraries-fragmented-mrna-from-perch-lake-trout-herring-rna-samples/
 slug: bioanalyzer-for-solid-libraries-fragmented-mrna-from-perch-lake-trout-herring-rna-samples
 title: Bioanalyzer for SOLiD Libraries - Fragmented mRNA from Perch, Lake Trout &
   Herring RNA samples

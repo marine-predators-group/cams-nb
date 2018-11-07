@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-07-16 00:46:42+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/07/15/rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress-2/
 slug: rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress-2
 title: RNA Isolation – O.lurida Ctenidia 1hr Post-Mechanical Stress
 wordpress_id: 1521

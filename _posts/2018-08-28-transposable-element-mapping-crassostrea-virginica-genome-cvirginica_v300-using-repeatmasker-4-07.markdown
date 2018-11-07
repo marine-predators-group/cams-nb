@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-08-28 14:21:16+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/08/28/transposable-element-mapping-crassostrea-virginica-genome-cvirginica_v300-using-repeatmasker-4-07/
 slug: transposable-element-mapping-crassostrea-virginica-genome-cvirginica_v300-using-repeatmasker-4-07
 title: Transposable Element Mapping – Crassostrea virginica Genome, Cvirginica_v300,
   using RepeatMasker 4.07

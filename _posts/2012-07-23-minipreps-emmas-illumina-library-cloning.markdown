@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-23 23:23:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/23/minipreps-emmas-illumina-library-cloning/
 slug: minipreps-emmas-illumina-library-cloning
 title: Minipreps - Emma's Illumina Library Cloning
 wordpress_id: 229

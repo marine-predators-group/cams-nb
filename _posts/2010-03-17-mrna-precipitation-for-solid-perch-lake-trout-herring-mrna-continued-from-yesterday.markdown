@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-03-17 17:50:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/03/17/mrna-precipitation-for-solid-perch-lake-trout-herring-mrna-continued-from-yesterday/
 slug: mrna-precipitation-for-solid-perch-lake-trout-herring-mrna-continued-from-yesterday
 title: mRNA Precipitation for SOLiD - Perch, Lake Trout, & Herring mRNA (CONTINUED
   from yesterday)

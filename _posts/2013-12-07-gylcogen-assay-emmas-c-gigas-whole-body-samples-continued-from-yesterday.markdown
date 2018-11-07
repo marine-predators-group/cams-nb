@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-12-07 22:35:46+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/12/07/gylcogen-assay-emmas-c-gigas-whole-body-samples-continued-from-yesterday/
 slug: gylcogen-assay-emmas-c-gigas-whole-body-samples-continued-from-yesterday
 title: Gylcogen Assay - Emma's C.gigas Whole Body Samples (continued from yesterday)
 wordpress_id: 178

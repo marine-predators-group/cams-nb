@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-03 01:07:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/02/qpcr-repeat-of-20090227-qpcr-with-clean-water/
 slug: qpcr-repeat-of-20090227-qpcr-with-clean-water
 title: qPCR - Repeat of 20090227 qPCR with clean water
 wordpress_id: 1173

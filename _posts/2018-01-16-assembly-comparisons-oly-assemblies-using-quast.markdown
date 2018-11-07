@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-01-16 18:50:08+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/01/16/assembly-comparisons-oly-assemblies-using-quast/
 slug: assembly-comparisons-oly-assemblies-using-quast
 title: Assembly Comparisons – Oly Assemblies Using Quast
 wordpress_id: 3045

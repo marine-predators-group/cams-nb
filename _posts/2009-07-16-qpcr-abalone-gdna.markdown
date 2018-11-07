@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-16 02:44:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/15/qpcr-abalone-gdna/
 slug: qpcr-abalone-gdna
 title: qPCR - Abalone gDNA
 wordpress_id: 946

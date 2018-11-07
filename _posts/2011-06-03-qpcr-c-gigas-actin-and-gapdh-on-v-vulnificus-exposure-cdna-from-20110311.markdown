@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-06-03 03:49:50+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/06/02/qpcr-c-gigas-actin-and-gapdh-on-v-vulnificus-exposure-cdna-from-20110311/
 slug: qpcr-c-gigas-actin-and-gapdh-on-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas actin and GAPDH on V.vulnificus exposure cDNA (from 20110311)
 wordpress_id: 343

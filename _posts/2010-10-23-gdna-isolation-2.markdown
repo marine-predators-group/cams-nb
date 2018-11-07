@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-10-23 03:47:32+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/10/22/gdna-isolation-2/
 slug: gdna-isolation-2
 title: gDNA Isolation
 wordpress_id: 583

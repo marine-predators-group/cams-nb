@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-10 23:09:05+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/10/pcr-abalone-gdnarnacdna-wnew-tollip-primer/
 slug: pcr-abalone-gdnarnacdna-wnew-tollip-primer
 title: PCR - Abalone gDNA/RNA/cDNA w/new TOLLIP primer
 wordpress_id: 1137

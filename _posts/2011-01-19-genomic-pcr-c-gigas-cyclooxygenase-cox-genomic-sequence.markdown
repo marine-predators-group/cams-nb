@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-01-19 04:59:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/01/18/genomic-pcr-c-gigas-cyclooxygenase-cox-genomic-sequence/
 slug: genomic-pcr-c-gigas-cyclooxygenase-cox-genomic-sequence
 title: Genomic PCR - C.gigas cyclooxygenase (COX) genomic sequence
 wordpress_id: 498

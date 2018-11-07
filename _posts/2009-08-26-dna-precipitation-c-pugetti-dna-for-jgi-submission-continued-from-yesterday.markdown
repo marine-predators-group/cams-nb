@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-26 16:00:25+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/26/dna-precipitation-c-pugetti-dna-for-jgi-submission-continued-from-yesterday/
 slug: dna-precipitation-c-pugetti-dna-for-jgi-submission-continued-from-yesterday
 title: DNA Precipitation - C.pugetti DNA for JGI submission (continued from yesterday)
 wordpress_id: 882

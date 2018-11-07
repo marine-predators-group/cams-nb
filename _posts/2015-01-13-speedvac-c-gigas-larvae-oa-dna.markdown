@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-13 00:12:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/12/speedvac-c-gigas-larvae-oa-dna/
 slug: speedvac-c-gigas-larvae-oa-dna
 title: SpeedVac - C.gigas larvae OA DNA
 wordpress_id: 27

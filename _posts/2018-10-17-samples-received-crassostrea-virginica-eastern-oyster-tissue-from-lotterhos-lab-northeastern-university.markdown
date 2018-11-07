@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-17 18:34:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/17/samples-received-crassostrea-virginica-eastern-oyster-tissue-from-lotterhos-lab-northeastern-university/
 slug: samples-received-crassostrea-virginica-eastern-oyster-tissue-from-lotterhos-lab-northeastern-university
 title: Samples Received - Crassostrea virginica (Eastern oyster) tissue from Lotterhos
   Lab (Northeastern University)

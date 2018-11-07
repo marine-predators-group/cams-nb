@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-05 14:20:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/05/gunzip-bgi-hiseq-geoduck-genome-sequencing-data/
 slug: gunzip-bgi-hiseq-geoduck-genome-sequencing-data
 title: 'Gunzip - BGI HiSeq Geoduck Genome Sequencing Data '
 wordpress_id: 3210

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-04-30 23:56:45+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/04/30/reverse-transcription-dnased-c-gigas-larval-rna-from-20120427/
 slug: reverse-transcription-dnased-c-gigas-larval-rna-from-20120427
 title: Reverse Transcription - DNased C.gigas Larval RNA from 20120427
 wordpress_id: 243

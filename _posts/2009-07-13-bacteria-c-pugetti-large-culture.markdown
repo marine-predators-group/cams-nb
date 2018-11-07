@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-13 16:41:04+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/13/bacteria-c-pugetti-large-culture/
 slug: bacteria-c-pugetti-large-culture
 title: Bacteria - C.pugetti large culture
 wordpress_id: 951

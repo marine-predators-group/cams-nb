@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-05-05 16:46:28+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/05/05/dna-isolation-qiagen-kit-comparison/
 slug: dna-isolation-qiagen-kit-comparison
 title: DNA Isolation - Qiagen Kit Comparison
 wordpress_id: 655

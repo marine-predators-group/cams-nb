@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-09-19 00:11:57+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/09/18/uninterruptible-power-supplies-ups/
 slug: uninterruptible-power-supplies-ups
 title: Uninterruptible Power Supplies (UPS)
 wordpress_id: 1657

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-03 17:47:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/03/sra-submission-olymia-oyster-whole-genome-bs-seq-data/
 slug: sra-submission-olymia-oyster-whole-genome-bs-seq-data
 title: SRA Submission - Olymia oyster Whole Genome BS-seq Data
 wordpress_id: 3609

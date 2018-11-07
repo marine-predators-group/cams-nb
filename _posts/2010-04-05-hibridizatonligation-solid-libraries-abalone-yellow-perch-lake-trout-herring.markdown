@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-05 17:30:24+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/05/hibridizatonligation-solid-libraries-abalone-yellow-perch-lake-trout-herring/
 slug: hibridizatonligation-solid-libraries-abalone-yellow-perch-lake-trout-herring
 title: Hibridizaton/Ligation SOLiD Libraries - Abalone, Yellow Perch, Lake Trout,
   Herring

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-01-28 04:03:20+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/01/27/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-dna-continued-from-yesterday/
 slug: bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-dna-continued-from-yesterday
 title: Bisuflite NGS Library Prep - C.gigas larvae OA bisulfite DNA (continued from
   yesterday)

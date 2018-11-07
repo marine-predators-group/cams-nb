@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-27 15:56:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/27/qpcr-gigas-gdna-test-of-recalibrated-opticon-2/
 slug: qpcr-gigas-gdna-test-of-recalibrated-opticon-2
 title: qPCR - Gigas gDNA test of recalibrated Opticon 2
 wordpress_id: 878

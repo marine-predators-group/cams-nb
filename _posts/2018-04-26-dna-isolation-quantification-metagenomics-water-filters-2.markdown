@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-26 16:02:19+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/26/dna-isolation-quantification-metagenomics-water-filters-2/
 slug: dna-isolation-quantification-metagenomics-water-filters-2
 title: DNA Isolation & Quantification - Metagenomics Water Filters
 wordpress_id: 3291

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-12-22 22:51:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/12/22/illumina-methylation-library-quantification-bs-seq-olyc-gigas-libraries/
 slug: illumina-methylation-library-quantification-bs-seq-olyc-gigas-libraries
 title: Illumina Methylation Library Quantification - BS-seq Oly/C.gigas Libraries
 wordpress_id: 1915

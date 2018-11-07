@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-03-14 22:20:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/03/14/pcr-hexokinase-promoter-and-cds-repeat-from-20130227/
 slug: pcr-hexokinase-promoter-and-cds-repeat-from-20130227
 title: PCR - Hexokinase Promoter and CDS (repeat from 20130227)
 wordpress_id: 198

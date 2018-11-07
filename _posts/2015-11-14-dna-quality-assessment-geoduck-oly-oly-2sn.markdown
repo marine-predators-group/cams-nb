@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-14 00:58:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/13/dna-quality-assessment-geoduck-oly-oly-2sn/
 slug: dna-quality-assessment-geoduck-oly-oly-2sn
 title: DNA Quality Assessment - Geoduck, Oly & Oly 2SN
 wordpress_id: 1773

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-04-14 05:53:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/04/13/sequence-data-analysis-c-gigas-larvae-oa-bs-seq-data/
 slug: sequence-data-analysis-c-gigas-larvae-oa-bs-seq-data
 title: Sequence Data Analysis - C.gigas Larvae OA BS-Seq Data
 wordpress_id: 1247

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-03-18 17:34:02+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/03/18/troubleshooting-synology-nas-owl-down-after-update/
 slug: troubleshooting-synology-nas-owl-down-after-update
 title: Troubleshooting - Synology NAS (Owl) Down After Update
 wordpress_id: 2523

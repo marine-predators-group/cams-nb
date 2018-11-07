@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-15 19:20:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/15/pcr-two-new-dungan-isolates-from-earlier-today/
 slug: pcr-two-new-dungan-isolates-from-earlier-today
 title: PCR - Two new Dungan isolates from earlier today
 wordpress_id: 1119

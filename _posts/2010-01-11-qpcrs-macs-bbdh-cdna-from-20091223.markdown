@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-01-11 19:43:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/01/11/qpcrs-macs-bbdh-cdna-from-20091223/
 slug: qpcrs-macs-bbdh-cdna-from-20091223
 title: qPCRs - Mac's BB/DH cDNA from 20091223
 wordpress_id: 708

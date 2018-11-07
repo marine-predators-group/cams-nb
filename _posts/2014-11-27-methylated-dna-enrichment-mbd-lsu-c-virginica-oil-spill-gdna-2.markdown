@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-27 06:20:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/26/methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna-2/
 slug: methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna-2
 title: Methylated DNA Enrichment (MBD) - LSU C.virginica Oil Spill gDNA
 wordpress_id: 73

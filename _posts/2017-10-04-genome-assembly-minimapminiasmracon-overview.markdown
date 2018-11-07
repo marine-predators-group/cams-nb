@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-04 14:58:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/04/genome-assembly-minimapminiasmracon-overview/
 slug: genome-assembly-minimapminiasmracon-overview
 title: Genome Assembly - minimap/miniasm/racon Overview
 wordpress_id: 2744

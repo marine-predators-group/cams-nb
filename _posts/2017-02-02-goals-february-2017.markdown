@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-02-02 14:51:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/02/02/goals-february-2017/
 slug: goals-february-2017
 title: Goals - February 2017
 wordpress_id: 2471

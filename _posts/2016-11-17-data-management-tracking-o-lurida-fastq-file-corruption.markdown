@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-11-17 22:11:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/17/data-management-tracking-o-lurida-fastq-file-corruption/
 slug: data-management-tracking-o-lurida-fastq-file-corruption
 title: Data Management - Tracking O.lurida FASTQ File Corruption
 wordpress_id: 2349

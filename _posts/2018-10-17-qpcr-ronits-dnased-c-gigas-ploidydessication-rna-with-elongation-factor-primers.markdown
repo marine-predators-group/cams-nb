@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-10-17 15:55:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/10/17/qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-elongation-factor-primers/
 slug: qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-elongation-factor-primers
 title: qPCR - Ronit’s DNAsed C.gigas Ploidy/Dessication RNA with elongation factor
   primers

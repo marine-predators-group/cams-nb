@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-07-11 17:01:36+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/07/11/mox-password-less-ssh/
 slug: mox-password-less-ssh
 title: Mox - Password-less SSH!
 wordpress_id: 3426

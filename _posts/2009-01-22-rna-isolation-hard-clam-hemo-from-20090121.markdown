@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-22 03:11:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/21/rna-isolation-hard-clam-hemo-from-20090121/
 slug: rna-isolation-hard-clam-hemo-from-20090121
 title: RNA Isolation - Hard clam hemo (from 20090121)
 wordpress_id: 1203

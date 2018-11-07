@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-08 17:14:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/08/cdna-clean-up-bioanalyzer-for-solid-libraries-abalone-yellow-perch-lake-trout-herring/
 slug: cdna-clean-up-bioanalyzer-for-solid-libraries-abalone-yellow-perch-lake-trout-herring
 title: cDNA clean up & Bioanalyzer for SOLiD Libraries - Abalone, Yellow Perch, Lake
   Trout, Herring

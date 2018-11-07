@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-02-10 04:31:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/02/09/data-analysis-young-lab-abi-7300-calibration-checks/
 slug: data-analysis-young-lab-abi-7300-calibration-checks
 title: Data Analysis - Young Lab ABI 7300 Calibration Checks
 wordpress_id: 476

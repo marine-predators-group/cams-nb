@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-04-07 17:20:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/04/07/gel-purification-pcr-cdna-solid-libraries-abalone-yellow-perch-lake-trout-herring/
 slug: gel-purification-pcr-cdna-solid-libraries-abalone-yellow-perch-lake-trout-herring
 title: Gel Purification & PCR cDNA SOLiD Libraries - Abalone, Yellow Perch, Lake Trout,
   Herring

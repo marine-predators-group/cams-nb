@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2013-09-19 22:07:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2013/09/19/pcr-lake-trout-c1q-3/
 slug: pcr-lake-trout-c1q-3
 title: PCR - Lake Trout C1q
 wordpress_id: 192

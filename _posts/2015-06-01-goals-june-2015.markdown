@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-06-01 13:00:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/06/01/goals-june-2015/
 slug: goals-june-2015
 title: Goals - June 2015
 wordpress_id: 1461

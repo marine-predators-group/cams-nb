@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-11 00:00:01+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/10/trimgalorefastqcmultiqc-2bp-3-end-read-1s-trim-c-virginica-mbd-bs-seq-fastq-data/
 slug: trimgalorefastqcmultiqc-2bp-3-end-read-1s-trim-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - 2bp 3' end Read 1s Trim C.virginica MBD BS-seq
   FASTQ data

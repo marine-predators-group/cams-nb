@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-08-17 16:11:51+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/08/17/qpcr-carita-primer-test-for-high-resolution-melt-hrm-curve-analysis/
 slug: qpcr-carita-primer-test-for-high-resolution-melt-hrm-curve-analysis
 title: qPCR - Carita Primer Test for High Resolution Melt (HRM) Curve Analysis
 wordpress_id: 890

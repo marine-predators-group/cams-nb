@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-04-10 23:06:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/04/10/pcr-baysea-scallop-hybrids/
 slug: pcr-baysea-scallop-hybrids
 title: PCR - Bay/Sea scallop hybrids
 wordpress_id: 1133

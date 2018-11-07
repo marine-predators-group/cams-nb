@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-10-26 23:04:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/10/26/qpcr-dnased-manila-clam-larvae-rna-from-august-2012-daves-notebook/
 slug: qpcr-dnased-manila-clam-larvae-rna-from-august-2012-daves-notebook
 title: qPCR - DNased Manila Clam Larvae RNA (from August 2012 - Dave's Notebook)
 wordpress_id: 214

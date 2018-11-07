@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-06-02 04:59:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/06/01/dna-gel-jgi-qc-check-of-c-pugetti-dna-from-20090526/
 slug: dna-gel-jgi-qc-check-of-c-pugetti-dna-from-20090526
 title: DNA Gel - JGI QC check of C. pugetti DNA from 20090526
 wordpress_id: 1053

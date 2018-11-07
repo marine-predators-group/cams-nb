@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-08-19 23:11:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/08/19/rad-seq-library-prep-reagents/
 slug: rad-seq-library-prep-reagents
 title: RAD-Seq Library Prep Reagents
 wordpress_id: 1552

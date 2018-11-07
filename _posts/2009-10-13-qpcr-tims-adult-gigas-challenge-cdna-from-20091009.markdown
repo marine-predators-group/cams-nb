@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-13 03:35:18+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/12/qpcr-tims-adult-gigas-challenge-cdna-from-20091009/
 slug: qpcr-tims-adult-gigas-challenge-cdna-from-20091009
 title: qPCR - Tim's adult gigas challenge cDNA (from 20091009)
 wordpress_id: 822

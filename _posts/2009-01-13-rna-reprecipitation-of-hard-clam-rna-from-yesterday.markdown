@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-01-13 23:00:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/01/13/rna-reprecipitation-of-hard-clam-rna-from-yesterday/
 slug: rna-reprecipitation-of-hard-clam-rna-from-yesterday
 title: RNA - Reprecipitation of hard clam RNA from yesterday
 wordpress_id: 1215

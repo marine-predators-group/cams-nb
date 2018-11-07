@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-07-13 16:51:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/07/13/pcr-dungan-isolate-mie-14v-gdna-from-20090708/
 slug: pcr-dungan-isolate-mie-14v-gdna-from-20090708
 title: PCR - Dungan isolate (MIE-14v) gDNA from 20090708
 wordpress_id: 955

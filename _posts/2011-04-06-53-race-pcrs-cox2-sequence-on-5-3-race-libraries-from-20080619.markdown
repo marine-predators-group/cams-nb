@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-04-06 21:40:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/04/06/53-race-pcrs-cox2-sequence-on-5-3-race-libraries-from-20080619/
 slug: 53-race-pcrs-cox2-sequence-on-5-3-race-libraries-from-20080619
 title: 5'/3' RACE PCRs - COX2 Sequence on 5' & 3' RACE Libraries (from 20080619)
 wordpress_id: 390

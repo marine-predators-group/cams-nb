@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2017-10-18 22:24:03+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2017/10/18/fail-directory-contents-deleted/
 slug: fail-directory-contents-deleted
 title: Fail - Directory Contents Deleted!
 wordpress_id: 2783

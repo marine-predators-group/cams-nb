@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-18 00:05:34+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/17/qpcr-oly-rad-seq-library-quantification-2/
 slug: qpcr-oly-rad-seq-library-quantification-2
 title: qPCR – Oly RAD-Seq Library Quantification
 wordpress_id: 1788

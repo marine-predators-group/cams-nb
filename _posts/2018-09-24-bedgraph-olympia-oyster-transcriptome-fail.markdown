@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-24 23:23:14+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/24/bedgraph-olympia-oyster-transcriptome-fail/
 slug: bedgraph-olympia-oyster-transcriptome-fail
 title: Bedgraph - Olympia oyster transcriptome (FAIL)
 wordpress_id: 3578

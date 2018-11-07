@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-10-24 03:20:40+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/10/23/rna-isolation-herring-gonadovary-samples/
 slug: rna-isolation-herring-gonadovary-samples
 title: RNA Isolation - Herring Gonad/Ovary Samples
 wordpress_id: 810

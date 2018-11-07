@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-03 20:14:13+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/03/dna-isolation-quantification-geoduck-larvae-metagenome-filter-rinses-2/
 slug: dna-isolation-quantification-geoduck-larvae-metagenome-filter-rinses-2
 title: DNA Isolation & Quantification – Geoduck larvae metagenome filter rinses
 wordpress_id: 3173

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-04-22 18:06:55+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/04/22/assembly-sparseassembler-k-131-on-geoduck-sequence-data/
 slug: assembly-sparseassembler-k-131-on-geoduck-sequence-data
 title: Assembly – SparseAssembler (k 131) on Geoduck Sequence Data
 wordpress_id: 3280

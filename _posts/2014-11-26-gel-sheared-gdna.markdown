@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-11-26 06:23:31+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/11/25/gel-sheared-gdna/
 slug: gel-sheared-gdna
 title: Gel - Sheared gDNA
 wordpress_id: 75

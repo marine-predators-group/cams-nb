@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-25 23:17:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/25/samples-received-oly-tissue-dna-from-katherine-silliman/
 slug: samples-received-oly-tissue-dna-from-katherine-silliman
 title: Samples Received - Oly Tissue & DNA from Katherine Silliman
 wordpress_id: 1845

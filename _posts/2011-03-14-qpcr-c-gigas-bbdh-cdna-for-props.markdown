@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2011-03-14 22:12:43+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2011/03/14/qpcr-c-gigas-bbdh-cdna-for-props/
 slug: qpcr-c-gigas-bbdh-cdna-for-props
 title: qPCR - C.gigas BB/DH cDNA for PROPS
 wordpress_id: 398

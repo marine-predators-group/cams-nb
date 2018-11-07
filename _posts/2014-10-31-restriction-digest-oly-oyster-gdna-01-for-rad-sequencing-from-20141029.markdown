@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-10-31 16:23:58+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/10/31/restriction-digest-oly-oyster-gdna-01-for-rad-sequencing-from-20141029/
 slug: restriction-digest-oly-oyster-gdna-01-for-rad-sequencing-from-20141029
 title: Restriction Digest - Oly Oyster gDNA-01 for RAD Sequencing (from 20141029)
 wordpress_id: 96

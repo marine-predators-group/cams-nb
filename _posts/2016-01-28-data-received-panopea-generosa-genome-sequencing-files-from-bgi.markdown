@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-01-28 00:30:48+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/01/27/data-received-panopea-generosa-genome-sequencing-files-from-bgi/
 slug: data-received-panopea-generosa-genome-sequencing-files-from-bgi
 title: Data Received - Panopea generosa genome sequencing files from BGI
 wordpress_id: 1992

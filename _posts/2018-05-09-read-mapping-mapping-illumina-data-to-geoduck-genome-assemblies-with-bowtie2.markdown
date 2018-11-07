@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-05-09 19:13:53+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/05/09/read-mapping-mapping-illumina-data-to-geoduck-genome-assemblies-with-bowtie2/
 slug: read-mapping-mapping-illumina-data-to-geoduck-genome-assemblies-with-bowtie2
 title: Read Mapping - Mapping Illumina Data to Geoduck Genome Assemblies with Bowtie2
 wordpress_id: 3317

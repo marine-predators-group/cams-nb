@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-15 16:51:44+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/15/gdna-isolation-gigas-dermo-samples/
 slug: gdna-isolation-gigas-dermo-samples
 title: gDNA Isolation - Gigas Dermo Samples
 wordpress_id: 1067

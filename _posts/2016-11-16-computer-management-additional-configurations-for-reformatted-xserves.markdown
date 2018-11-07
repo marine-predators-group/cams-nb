@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-11-16 18:24:33+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/16/computer-management-additional-configurations-for-reformatted-xserves/
 slug: computer-management-additional-configurations-for-reformatted-xserves
 title: Computer Management - Additional Configurations for Reformatted Xserves
 wordpress_id: 2336

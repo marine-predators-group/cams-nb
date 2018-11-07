@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-05-07 18:32:41+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/05/07/qpcr-dnased-oyster-rna-from-earlier-today/
 slug: qpcr-dnased-oyster-rna-from-earlier-today
 title: qPCR - DNased oyster RNA from earlier today
 wordpress_id: 1087

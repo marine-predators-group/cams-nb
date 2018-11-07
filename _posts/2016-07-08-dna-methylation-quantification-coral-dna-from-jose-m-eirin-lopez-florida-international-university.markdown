@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-07-08 05:49:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/07/07/dna-methylation-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university/
 slug: dna-methylation-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university
 title: DNA Methylation Quantification - Coral DNA from Jose M. Eirin-Lopez (Florida
   International University)

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-11-04 22:09:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/11/04/computing-retrieve-data-from-amazon-ec2-instance/
 slug: computing-retrieve-data-from-amazon-ec2-instance
 title: Computing - Retrieve data from Amazon EC2 Instance
 wordpress_id: 2319

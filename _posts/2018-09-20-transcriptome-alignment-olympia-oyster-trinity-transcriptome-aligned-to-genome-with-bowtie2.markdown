@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2018-09-20 00:17:30+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2018/09/19/transcriptome-alignment-olympia-oyster-trinity-transcriptome-aligned-to-genome-with-bowtie2/
 slug: transcriptome-alignment-olympia-oyster-trinity-transcriptome-aligned-to-genome-with-bowtie2
 title: Transcriptome Alignment - Olympia oyster Trinity transcriptome aligned to genome
   with Bowtie2

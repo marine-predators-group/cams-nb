@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-06-19 05:03:15+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/06/18/gdna-sonication-sbwb-gdna-pools-prep-for-medip-from-earlier-today/
 slug: gdna-sonication-sbwb-gdna-pools-prep-for-medip-from-earlier-today
 title: gDNA Sonication - SB/WB gDNA pools (prep for MeDIP) from earlier today
 wordpress_id: 633

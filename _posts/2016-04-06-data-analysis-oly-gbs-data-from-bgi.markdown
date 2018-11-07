@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-04-06 23:33:10+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/04/06/data-analysis-oly-gbs-data-from-bgi/
 slug: data-analysis-oly-gbs-data-from-bgi
 title: Data Analysis - Oly GBS Data from BGI Using Stacks
 wordpress_id: 2082

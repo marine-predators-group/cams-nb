@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2012-07-06 23:35:38+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2012/07/06/qpx-sample-pooling-for-illumina-sequencing/
 slug: qpx-sample-pooling-for-illumina-sequencing
 title: QPX Sample Pooling for Illumina Sequencing
 wordpress_id: 237

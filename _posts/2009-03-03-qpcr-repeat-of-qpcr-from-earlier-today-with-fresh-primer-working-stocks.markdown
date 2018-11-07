@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-03-03 01:10:17+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/03/02/qpcr-repeat-of-qpcr-from-earlier-today-with-fresh-primer-working-stocks/
 slug: qpcr-repeat-of-qpcr-from-earlier-today-with-fresh-primer-working-stocks
 title: qPCR - Repeat of qPCR from earlier today with fresh primer working stocks
 wordpress_id: 1175

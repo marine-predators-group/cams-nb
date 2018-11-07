@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2015-11-20 04:47:07+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2015/11/19/dna-sonication-oly-gdna-for-mbd/
 slug: dna-sonication-oly-gdna-for-mbd
 title: DNA Sonication - Oly gDNA for MBD
 wordpress_id: 1794

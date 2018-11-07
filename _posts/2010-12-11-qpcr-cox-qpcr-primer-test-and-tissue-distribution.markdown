@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-12-11 02:16:35+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/12/10/qpcr-cox-qpcr-primer-test-and-tissue-distribution/
 slug: qpcr-cox-qpcr-primer-test-and-tissue-distribution
 title: qPCR - COX qPCR Primer Test and Tissue Distribution
 wordpress_id: 563

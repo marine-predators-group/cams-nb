@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-09-10 03:59:22+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/09/09/qpcr-hard-clam-primers-on-cdna-from-yesterday/
 slug: qpcr-hard-clam-primers-on-cdna-from-yesterday
 title: qPCR - Hard Clam Primers on cDNA from yesterday
 wordpress_id: 593

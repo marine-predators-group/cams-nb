@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2014-02-12 21:54:21+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2014/02/12/dna-isolation-geoduck-3/
 slug: dna-isolation-geoduck-3
 title: DNA Isolation - Geoduck
 wordpress_id: 174

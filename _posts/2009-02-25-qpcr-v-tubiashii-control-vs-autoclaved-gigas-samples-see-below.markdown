@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-25 02:07:23+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/24/qpcr-v-tubiashii-control-vs-autoclaved-gigas-samples-see-below/
 slug: qpcr-v-tubiashii-control-vs-autoclaved-gigas-samples-see-below
 title: qPCR - V.tubiashii Control vs. Autoclaved gigas samples (see below)
 wordpress_id: 1183

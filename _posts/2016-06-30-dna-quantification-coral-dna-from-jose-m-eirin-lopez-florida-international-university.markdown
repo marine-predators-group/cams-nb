@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2016-06-30 18:35:54+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2016/06/30/dna-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university/
 slug: dna-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university
 title: DNA Quantification - Coral DNA from Jose M. Eirin-Lopez (Florida International
   University)

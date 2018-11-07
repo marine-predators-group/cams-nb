@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2009-02-21 02:11:56+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2009/02/20/epigenetics-experiment-gigas-treatment/
 slug: epigenetics-experiment-gigas-treatment
 title: Epigenetics Experiment - Gigas treatment
 wordpress_id: 1187

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-11-30 03:46:06+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/11/29/etoh-precipitations-hpaii-and-mspi-2nd-round-digests-from-20101124/
 slug: etoh-precipitations-hpaii-and-mspi-2nd-round-digests-from-20101124
 title: EtOH Precipitations - HpaII and MspI 2nd Round Digests from 20101124
 wordpress_id: 567

@@ -3,7 +3,6 @@ author: kubu4
 comments: true
 date: 2010-07-09 04:35:47+00:00
 layout: post
-link: http://onsnetwork.org/kubu4/2010/07/08/medip-sbwb-fragmented-gdna-etoh-precipitation-continued-from-20100702/
 slug: medip-sbwb-fragmented-gdna-etoh-precipitation-continued-from-20100702
 title: MeDIP - SB/WB Fragmented gDNA EtOH precipitation (continued from 20100702)
 wordpress_id: 613
