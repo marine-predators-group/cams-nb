@@ -1,0 +1,50 @@
+---
+author: kubu4
+comments: true
+date: 2018-04-19 21:28:52+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2018/04/19/kmer-estimation-kmergenie-on-geoduck-sequence-data-default-settings/
+slug: kmer-estimation-kmergenie-on-geoduck-sequence-data-default-settings
+title: Kmer Estimation - Kmergenie on Geoduck Sequence Data (default settings)
+wordpress_id: 3270
+author:
+- kubu4
+categories:
+- Geoduck Genome Sequencing
+tags:
+- geoduck
+- kmer
+- kmer genie
+- mox
+- Panopea generosa
+---
+
+After the [last SparseAssembler assembly completed](http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/), I wanted to do another run with a different kmer size (last time was arbitrarily set at 101). However, I didn't really know how to decide, particularly since this assembly consisted of mixed read lenghts (50bp and 100bp). So, I ran [kmergenie](http://kmergenie.bx.psu.edu/README) on all of our geoduck (_Panopea generosa_) sequencing data in hopes of getting a kmer determination to apply to my next assembly.
+
+The job was run on our Mox HPC node.
+
+Slurm script: [20180419_kmergenie_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmergenie_geoduck_slurm.sh)
+
+Input files list (needed for kmergenie command - see Slurm script linked above): [geoduck_fastq_list.txt](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/geoduck_fastq_list.txt)
+
+
+
+##### Results:
+
+
+
+Output folder: [20180419_kmergenie_geoduck/](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/)
+
+Slurm output file: [20180419_kmergenie_geoduck/slurm-161551.out](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/slurm-161551.out)
+
+Kmer histograms (HTML): [20180419_kmergenie_geoduck/histograms_report.html](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html)
+
+Screen cap from Kmer report:
+
+![](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmer_plot.png)
+
+This data estimates the best kmer size for this data to be 121.
+
+However, based on the [kmergenie documentation](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html#advhelp), this is likely to be inaccurate. This inaccuracy is based on the fact that our kmer graph should be concave. Our graph, instead, is only partial - we haven't reached a kmer size where the number of kmers is decreasing.
+
+As such, I'll try re-running with a different maximum kmer settting (default max is 121).

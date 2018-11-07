@@ -1,0 +1,46 @@
+---
+author: kubu4
+comments: true
+date: 2015-11-23 17:24:01+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2015/11/23/dna-quantification-mbd-enriched-olympia-oyster-dna/
+slug: dna-quantification-mbd-enriched-olympia-oyster-dna
+title: DNA Quantification - MBD-enriched Olympia oyster DNA
+wordpress_id: 1807
+author:
+- kubu4
+categories:
+- MBD Enrichment for Sequencing at ZymoResearch
+- Olympia oyster reciprocal transplant
+tags:
+- DNA Quantification
+- MBD
+- MBD-Seq
+- olympia oyster
+- Ostrea lurida
+- plate reader
+- Quant-iT DNA BR Kit
+- Victor 1420 plate reader
+---
+
+Quantified the MBD enriched samples prepped over the last two days: [MBD enrichment](http://onsnetwork.org/kubu4/2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna/), [EtOH precipiation](http://onsnetwork.org/kubu4/2015/11/22/ethanol-precipitation-olympia-oyster-mbd/).
+
+Samples were quantified using the QuantIT dsDNA BR Kit (Invitrogen) according to the manufacturer's protocol.
+
+Standards were run in triplicate, samples were run in duplicate.
+
+96-well black (opaque) plate was used.
+
+Fluorescence was measured on the Seeb Lab's Victor 1420 plate reader (Perkin Elmer).
+
+Results:
+
+Google Sheet: [20151123_MBD_libraries_quantification](https://docs.google.com/spreadsheets/d/1sGU8S_nGMEdRpB3nSye3lDyUUoZFmS2qHgeVSvqWS38/edit?usp=sharing)
+
+Standard curve looked good - R² = 0.999
+
+MBD recovery ranged from ~250 - 600ng.
+
+MBD percent recoveries ranged from ~2 - 20%. Input DNA quantities were taken from Katherine's numbers (Google Sheet): [Silliman-DNA-Samples](https://docs.google.com/spreadsheets/d/1anTR7QLB1p_Oyh_hUIWKKHy21sSvVjwTZmdqqxwcpWM/edit?usp=sharing)
+
+Will contact services about getting bisulfite Illumina sequencing performed.

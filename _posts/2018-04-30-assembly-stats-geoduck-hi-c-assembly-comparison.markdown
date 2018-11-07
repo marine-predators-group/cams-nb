@@ -1,0 +1,45 @@
+---
+author: kubu4
+comments: true
+date: 2018-04-30 18:53:44+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2018/04/30/assembly-stats-geoduck-hi-c-assembly-comparison/
+slug: assembly-stats-geoduck-hi-c-assembly-comparison
+title: Assembly Stats - Geoduck Hi-C Assembly Comparison
+wordpress_id: 3300
+author:
+- kubu4
+categories:
+- Geoduck Genome Sequencing
+tags:
+- assembly
+- geoduck
+- Panopea generosa
+- QUAST
+---
+
+Ran the following Quast command to compare [the two geoduck assemblies provided to us by Phase Genomics](http://onsnetwork.org/kubu4/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data/):
+
+
+    
+    <code>/home/sam/software/quast-4.5/quast.py \
+    -t 24 \
+    --labels 20180403_pga,20180421_pga \
+    /mnt/owl/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts\ results\ 2018-04-03\ 11\:05\:41.596285/PGA_assembly.fasta \
+    /mnt/owl/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts\ results\ 2018-04-21\ 18\:09\:04.514704/PGA_assembly.fasta</code>
+
+
+
+
+
+##### Results:
+
+
+
+Quast Output folder: [results_2018_04_30_11_16_04/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/)
+
+Quast report (HTML): [results_2018_04_30_11_16_04/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/report.html)
+
+![](http://owl.fish.washington.edu/Athaliana/20180430_quast_pga_assemblies.png)
+
+The two assemblies are _nearly_ identical. Interesting...

@@ -1,0 +1,25 @@
+---
+author: kubu4
+comments: true
+date: 2013-10-10 22:01:23+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2013/10/10/pcr-lake-trout-c1q-2/
+slug: pcr-lake-trout-c1q-2
+title: PCR - Lake Trout C1q
+wordpress_id: 188
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- bisulfite PCR
+- C1q
+- lake trout
+- Salvelinus namaycush
+---
+
+Repeated PCR from [20130919](/Sam%27s+Working+Notebook+July+-+December+2013#sjw20130919), but with a newly designed set of primers that targets the desired region of C1q for sequencing (SR IDs: 1553, 1554). Primers were designed in Geneious.
+
+Results:
+
+No amplification of any samples BS-treated or non-treated.

@@ -1,0 +1,25 @@
+---
+author: kubu4
+comments: true
+date: 2009-06-15 00:39:01+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/06/14/reverse-transcription-mv-hemocyte-dnased-rna-from-20090612/
+slug: reverse-transcription-mv-hemocyte-dnased-rna-from-20090612
+title: Reverse Transcription - MV hemocyte DNased RNA from 20090612
+wordpress_id: 1015
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- Crassostrea virginica
+- DNased RNA
+- Eastern oyster
+- hemocyte
+- M-MLV
+- Martha's Vineyard
+- oligo dT
+- reverse transcription
+---
+
+Made cDNA using Promega M-MLV RT and oligo dT primers. [RT rxn set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090614-01.jpg). Samples were stored @ 4C until ready to use.

@@ -1,0 +1,39 @@
+---
+author: kubu4
+comments: true
+date: 2015-02-09 22:36:05+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2015/02/09/library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library/
+slug: library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library
+title: Library Prep - Quantification of C.gigas larvae OA 1000ppm library
+wordpress_id: 462
+author:
+- kubu4
+categories:
+- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+tags:
+- BS-seq
+- Crassostrea gigas
+- DNA Quantification
+- FLx800 plate reader
+- larvae
+- library prep
+- OA
+- ocean acidification
+- Pacific oyster
+- Quant-iT DNA BR Kit
+---
+
+The completed BS Illumina [library made on Friday](http://onsnetwork.org/kubu4/2015/02/06/bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna/) (1000ppm) was quantified via fluorescence using the Quant-iT DNA BR Kit (Life Technologies/Invitrogen).  Also quantified [Jake's libraries](http://heareresearch.blogspot.com/2015/02/2-6-2015-library-creation-for-bs-samples.html). Used 1μL of  each sample and the standards.  All standards were run in duplicate.  Due to limited sample, the libraries were only processed singularly, without replication.  Fluorescence was measured on a FLx800 plate reader (BioTek), using the Gen5 (BioTek) software for all calculations.
+
+Results:
+
+[20150209_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](https://docs.google.com/spreadsheets/d/1HhnEA6Wwj3Kci-Lsh0wE2OTCxEc56KCVC3PF8bHzvJM/edit?usp=sharing)
+
+The good news is that the standard curve looked fine, with an R²=0.998.
+
+The bad news is that there's no detectable DNA in the sample, [just like last time](http://onsnetwork.org/kubu4/2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification/).
+
+Possibly something is totally shot with this sample?  Will quantify [the sheared DNA](http://onsnetwork.org/kubu4/2015/01/09/dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment/) and decide what to do.
+
+I quantified the sheared DNA and there's nothing there! Where did it go? I just don't get it. It was sheared, speed-vac'd and resuspended.  All the DNA should still be in the tubes...

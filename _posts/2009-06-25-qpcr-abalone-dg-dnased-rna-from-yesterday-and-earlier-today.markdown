@@ -1,0 +1,31 @@
+---
+author: kubu4
+comments: true
+date: 2009-06-25 23:27:16+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/06/25/qpcr-abalone-dg-dnased-rna-from-yesterday-and-earlier-today/
+slug: qpcr-abalone-dg-dnased-rna-from-yesterday-and-earlier-today
+title: qPCR - Abalone Dg DNased RNA from yesterday and earlier today
+wordpress_id: 993
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- 16s
+- black abalone
+- Dg
+- digestive gland
+- DNased RNA
+- H.crach_16s_SYB_F/R
+- Haliotis cracherodii
+- Immomix
+- Opticon2
+- qPCR
+- RNA
+- SYTO13
+---
+
+Check Abalone RNA for residual gDNA contamination after DNase treatment. Ran qPCR with H.crach_16s_SYB_F/R primers. [Plate layout/PCR set up here.](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090625-01.jpg)
+
+Results: Still gDNA in virtually every sample! This is totally insane. Will find/design primers that will only amplify gDNA to aid in subsequent analysis...

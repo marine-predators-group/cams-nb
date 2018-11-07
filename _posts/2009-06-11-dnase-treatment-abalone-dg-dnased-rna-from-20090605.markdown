@@ -1,0 +1,24 @@
+---
+author: kubu4
+comments: true
+date: 2009-06-11 01:22:37+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/06/10/dnase-treatment-abalone-dg-dnased-rna-from-20090605/
+slug: dnase-treatment-abalone-dg-dnased-rna-from-20090605
+title: DNase Treatment - Abalone Dg DNased RNA from 20090605
+wordpress_id: 1025
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- black abalone
+- Dg
+- digestive gland
+- DNase
+- DNased RNA
+- Haliotis cracherodii
+- Turbo DNA-free
+---
+
+This is the 3rd time this will be performed on these samples. Hopefully using a different (i.e. new) kit will work. Not sure what's going on here. Performed according to protocol.

@@ -1,0 +1,41 @@
+---
+author: kubu4
+comments: true
+date: 2009-03-24 23:58:04+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/03/24/qpcr-virginica-cdna-see-workup-sheet-below-for-more-info-regarding-cdna/
+slug: qpcr-virginica-cdna-see-workup-sheet-below-for-more-info-regarding-cdna
+title: qPCR - Virginica cDNA (see workup sheet below for more info regarding cDNA)
+wordpress_id: 1163
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- cDNA
+- Crassostrea virginica
+- Cv_BgBL
+- Cv_BGBP
+- Cv_CysB
+- Cv_HMG
+- Cv_HSP70
+- Eastern oyster
+- Immomix
+- Opticon2
+- qPCR
+- SYTO13
+---
+
+Set up qPCR using the following Virginica primers provided by Mac:
+
+Cv_BgBL
+
+Cv_BGBP
+
+Cv_CysB
+
+Cv_HMG
+
+Cv_HSP70
+
+Here is the [qPCR workup sheet](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090324-01.jpg) .

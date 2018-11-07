@@ -1,0 +1,24 @@
+---
+author: kubu4
+comments: true
+date: 2012-10-10 23:19:26+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2012/10/10/qpcr-opticon-test/
+slug: qpcr-opticon-test
+title: qPCR - Opticon Test
+wordpress_id: 227
+author:
+- kubu4
+categories:
+- Miscellaneous
+tags:
+- Opticon2
+- qPCR
+- troubleshooting
+---
+
+Ran qPCR to test uniformity of Opticon 2, after it was serviced on 20120926.
+
+Results:
+
+qPCR Data File (Opticon 2): [Sam_20121010_115249.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121010_115249.tad)

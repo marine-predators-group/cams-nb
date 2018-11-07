@@ -1,0 +1,82 @@
+---
+author: kubu4
+comments: true
+date: 2018-08-23 15:47:04+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2018/08/23/assembly-stats-geoduck-hi-c-final-assembly-comparison/
+slug: assembly-stats-geoduck-hi-c-final-assembly-comparison
+title: Assembly Stats – Geoduck Hi-C Final Assembly Comparison
+wordpress_id: 3517
+author:
+- kubu4
+categories:
+- Geoduck Genome Sequencing
+tags:
+- assembly
+- genome
+- geoduck
+- Panopea generosa
+- phase genomics
+- QUAST
+---
+
+We received the final geoduck genome assembly data from Phase Genomics, in which they updated the assembly by performing some manual curation:
+
+
+
+
+
+  * [geoduck_manual_scaffolds.fasta](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/geoduck_manual_scaffolds.fasta)
+
+
+
+There are additional assembly files that provide some additional assembly data. See the following directory:
+
+
+
+  * [20180822_phase_genomics_geoduck_Results/geoduck_manual/](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/)
+
+
+
+Actual sequencing data and two previous assemblies were [previously received on 20180421](http://onsnetwork.org/kubu4/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data/).
+
+All assembly data (both old and new) from Phase Genomics was downloaded in full from the Google Drive link provided by them and stored here on Owl:
+
+
+
+
+
+  * [20180822_phase_genomics_geoduck_Results/](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/)
+
+
+
+Ran Quast to compare all three assemblies provided (command run on Swoose):
+
+
+    
+    <code>
+    /home/sam/software/quast-4.5/quast.py \
+    -t 24 \
+    --labels 20180403_pga,20180421_pga,20180810_geo_manual \
+    /mnt/owl/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts results 2018-04-03 11:05:41.596285/PGA_assembly.fasta \ /mnt/owl/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts results 2018-04-21 18:09:04.514704/PGA_assembly.fasta \ /mnt/owl/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/geoduck_manual_scaffolds.fasta
+    </code>
+
+
+
+
+
+* * *
+
+
+
+
+
+#### Results:
+
+
+
+Quast output folder: [results_2018_08_23_07_38_28/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/)
+
+Quast report (HTML): [results_2018_08_23_07_38_28/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/report.html)
+
+![](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/20180823_quast_geoduck_pga.png)
