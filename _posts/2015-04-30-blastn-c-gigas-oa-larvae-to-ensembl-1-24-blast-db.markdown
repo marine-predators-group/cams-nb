@@ -8,15 +8,15 @@ slug: blastn-c-gigas-oa-larvae-to-ensembl-1-24-blast-db
 title: BLASTN - C.gigas OA Larvae to C.gigas Ensembl 1.24 BLAST DB
 wordpress_id: 1290
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- BLAST
-- Crassostrea gigas
-- ipython notebook
-- jupyter notebook
-- Pacific oyster
+  - BLAST
+  - Crassostrea gigas
+  - ipython notebook
+  - jupyter notebook
+  - Pacific oyster
 ---
 
 In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](http://owl.fish.washington.edu/halfshell/EmmaBS400.fa).

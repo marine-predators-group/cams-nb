@@ -8,15 +8,15 @@ slug: data-analysis-faststructure-population-analysis-of-oly-gbs-pyrad-output
 title: Data Analysis - fastStructure Population Analysis of Oly GBS PyRAD Output
 wordpress_id: 2251
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- fastStructure
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- Structure
+  - fastStructure
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - Structure
 ---
 
 After some basal readings about what Fst is (see notebook below for a definition and reference), I decided to try to use [fastStructure](http://rajanil.github.io/fastStructure/) to analyze the PyRAD output from [20160727](http://onsnetwork.org/kubu4/2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data/).

@@ -8,9 +8,9 @@ slug: goals-may-2016
 title: Goals - May 2016
 wordpress_id: 2106
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Well, I guess the first goal is to remember to be more consistent about writing monthly goals...

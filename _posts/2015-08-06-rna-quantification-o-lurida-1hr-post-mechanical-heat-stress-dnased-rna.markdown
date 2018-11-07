@@ -8,18 +8,18 @@ slug: rna-quantification-o-lurida-1hr-post-mechanical-heat-stress-dnased-rna
 title: RNA Quantification - O.lurida 1hr post-mechanical heat stress DNased RNA
 wordpress_id: 1533
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- ctenidia
-- DNased RNA
-- gill
-- mechanical stress
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- RNA quantification
+  - ctenidia
+  - DNased RNA
+  - gill
+  - mechanical stress
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - RNA quantification
 ---
 
 [DNased RNA from 07272015](http://onsnetwork.org/kubu4/2015/07/27/dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna/) was quantified using the Roberts Lab NanoDrop1000.

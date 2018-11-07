@@ -8,15 +8,15 @@ slug: spec-reading-c-pugetti-gdna-from-20090526
 title: Spec Reading - C.pugetti gDNA from 20090526
 wordpress_id: 975
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cycloclasticus pugetii
-- DNA Quantification
-- gDNA
-- JGI
-- NanoDrop1000
+  - Cycloclasticus pugetii
+  - DNA Quantification
+  - gDNA
+  - JGI
+  - NanoDrop1000
 ---
 
 A recent email from JGI indicates that they are satisfied with the quality of DNA (as seen on [20090601](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090601)), however their estimate of the gDNA concentration (42ng/uL) means that we have ~16ug of DNA. They requested 50ug. Based on the gel, their calculations are reasonable. However, the NanoDrop suggests that are sample is ~1350ng/uL! So, I've respec'd the sample and did a few dilutions to see how it looked.

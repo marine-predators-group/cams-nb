@@ -8,15 +8,15 @@ slug: computing-oly-bgi-gbs-reproducibility-fail-but-less-so-than-last-time
 title: Computing – Oly BGI GBS Reproducibility Fail (but, less so than last time)...
 wordpress_id: 2514
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
+  - BS-seq Libraries for Sequencing at Genewiz
 tags:
-- BGI
-- iTools
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - iTools
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Well, [my previous attempt at reproducing the demultiplexing that BGI performed was an exercise in futility](http://onsnetwork.org/kubu4/2017/03/07/computing-oly-bgi-gbs-reproducibility-fail/). BGI got back to me with the following message:

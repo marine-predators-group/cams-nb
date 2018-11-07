@@ -8,20 +8,20 @@ slug: hard-clam-challenge-qpx-strain-s-1-continued-from-yesterday
 title: Hard Clam Challenge - QPX Strain S-1 (continued from yesterday)
 wordpress_id: 776
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BX
-- FL
-- gill
-- Hard clam
-- mantle
-- Mercenaria mercenaria
-- QPX
-- QPX challenge
-- quahog parasite x
-- S-1
+  - BX
+  - FL
+  - gill
+  - Hard clam
+  - mantle
+  - Mercenaria mercenaria
+  - QPX
+  - QPX challenge
+  - quahog parasite x
+  - S-1
 ---
 
 All clams appeared to be alive and well. Most had their siphons out when I arrived to start collecting tissues. Clams were shucked after 24hr challenge. Gill and mantle samples were collected in separate 1.5mL snap cap tubes, stored briefly on ice and transferred to -80C in "Hard Clam QPX Challenge 12/2/2009." box.

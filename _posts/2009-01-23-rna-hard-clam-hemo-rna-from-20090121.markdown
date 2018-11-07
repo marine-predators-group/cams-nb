@@ -8,15 +8,15 @@ slug: rna-hard-clam-hemo-rna-from-20090121
 title: RNA - Hard clam hemo RNA (from 20090121)
 wordpress_id: 1199
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Hard clam
-- hemocyte
-- Mercenaria mercenaria
-- mRNA
-- mRNA enrichment
+  - Hard clam
+  - hemocyte
+  - Mercenaria mercenaria
+  - mRNA
+  - mRNA enrichment
 ---
 
 The two RNA samples from yesterday were precipitated and washed according to the [Ambion PolyA Purist protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MicroPoly%28A%29Purist%20Kit.pdf) and resuspended in 50uL of 0.1% DEPC-H2O.

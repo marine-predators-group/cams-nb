@@ -9,23 +9,23 @@ title: Templated Bead Prep SOLiD Libraries - Abalone CC, CE pools and yellow per
   CT, PQ libraries
 wordpress_id: 666
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bead counts
-- black abalone
-- Carmel
-- CC
-- CE
-- CT
-- Haliotis cracherodii
-- library prep
-- PQ
-- SOLiD
-- SOLiD libraries
-- templated bead prep
-- yellow perch
+  - bead counts
+  - black abalone
+  - Carmel
+  - CC
+  - CE
+  - CT
+  - Haliotis cracherodii
+  - library prep
+  - PQ
+  - SOLiD
+  - SOLiD libraries
+  - templated bead prep
+  - yellow perch
 ---
 
 All libraries were prepped according to ABI's "full-scale" bead prep protocol. Initial bead counts were performed using a hemocytometer in a 1:200 dilution:

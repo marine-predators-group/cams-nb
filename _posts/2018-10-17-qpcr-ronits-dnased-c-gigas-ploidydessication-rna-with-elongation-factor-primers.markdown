@@ -9,24 +9,24 @@ title: qPCR - Ronit’s DNAsed C.gigas Ploidy/Dessication RNA with elongation fa
   primers
 wordpress_id: 3658
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cfx connect
-- Crassostrea gigas
-- ctenidia
-- dessication
-- diploid
-- DNased RNA
-- EF1_qPCR_3'
-- EF1_qPCR_5'
-- Pacific oyster
-- qPCR
-- SRID 309
-- SRID 310
-- SsoFast EvaGreen Supermix
-- triploid
+  - cfx connect
+  - Crassostrea gigas
+  - ctenidia
+  - dessication
+  - diploid
+  - DNased RNA
+  - EF1_qPCR_3'
+  - EF1_qPCR_5'
+  - Pacific oyster
+  - qPCR
+  - SRID 309
+  - SRID 310
+  - SsoFast EvaGreen Supermix
+  - triploid
 ---
 
 [After I figured out the appropriate DNA and primers to use to detect gDNA in _Crassostrea gigas_ samples](http://onsnetwork.org/kubu4/2018/10/16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers/), I checked Ronit's [DNased ctenidia RNA (from 20181016)](http://onsnetwork.org/kubu4/2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna/) for residual gDNA.

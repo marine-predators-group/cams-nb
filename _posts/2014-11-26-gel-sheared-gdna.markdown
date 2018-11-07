@@ -8,14 +8,14 @@ slug: gel-sheared-gdna
 title: Gel - Sheared gDNA
 wordpress_id: 75
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- gel
-- MBD-Seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - gel
+  - MBD-Seq
 ---
 
 Ran ~250ng (out of 3000ng, according to Claire) of LSU C.virginica oil spill gDNA on a gel that was previously sheared by Claire to verify that shearing was successful.

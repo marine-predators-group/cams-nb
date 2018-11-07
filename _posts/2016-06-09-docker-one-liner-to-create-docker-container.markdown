@@ -8,14 +8,14 @@ slug: docker-one-liner-to-create-docker-container
 title: Docker - One liner to create Docker container
 wordpress_id: 2146
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- computing
-- docker
-- one liner
-- roadrunner
+  - computing
+  - docker
+  - one liner
+  - roadrunner
 ---
 
 One liner to create Docker container for Jupyter notebook usage and data analysis on roadrunner (Xserve):

@@ -9,15 +9,15 @@ title: Assembly & Stats - SparseAssembler (k95) on Geoduck Sequence Data > Quast
   Stats
 wordpress_id: 3327
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- mox
-- Panopea generosa
-- QUAST
-- SparseAssembler
+  - geoduck
+  - mox
+  - Panopea generosa
+  - QUAST
+  - SparseAssembler
 ---
 
 [Had a successful assembly with SparseAssembler k101](http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/), but figured I'd just tweak the kmer setting and throw it in the queue and see how it compares; minimal effort/time needed.

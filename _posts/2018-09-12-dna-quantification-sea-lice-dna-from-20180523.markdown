@@ -8,16 +8,16 @@ slug: dna-quantification-sea-lice-dna-from-20180523
 title: DNA Quantification - Sea Lice DNA from 20180523
 wordpress_id: 3545
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- caligus tape
-- DNA Quantification
-- NanoDrop1000
-- Qubit 3.0
-- Qubit dsDNA BR
-- sea lice
+  - caligus tape
+  - DNA Quantification
+  - NanoDrop1000
+  - Qubit 3.0
+  - Qubit dsDNA BR
+  - sea lice
 ---
 
 [We previously received sea lice (_Caligus tape_) DNA](http://onsnetwork.org/kubu4/2018/05/23/dna-received-sea-lice-dna-from-cris-gallardo-escarate-at-universidad-de-concepcion/) from Cris Gallardo-Escarate at Universidad de Concepción.

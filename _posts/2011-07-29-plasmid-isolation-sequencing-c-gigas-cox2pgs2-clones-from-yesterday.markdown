@@ -8,21 +8,21 @@ slug: plasmid-isolation-sequencing-c-gigas-cox2pgs2-clones-from-yesterday
 title: Plasmid Isolation & Sequencing - C.gigas COX2/PGS2 Clones (from yesterday)
 wordpress_id: 316
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS
-- PGS2
-- plasmid idolation
-- prostaglandin synthase
-- QIAprep
-- Sanger sequencing
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - plasmid idolation
+  - prostaglandin synthase
+  - QIAprep
+  - Sanger sequencing
 ---
 
 Isolated plasmid DNA from 3mL of liquid cultures that were inoculated yesterday using Qiagen's miniprep kit. DNA was eluted with 50uL of EB. DNA was prepped and sent for sequencing to ASU sequencing facility. Each clone was sequenced two times in each direction. Samples are as follows:

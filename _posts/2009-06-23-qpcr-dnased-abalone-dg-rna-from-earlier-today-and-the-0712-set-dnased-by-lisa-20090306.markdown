@@ -9,22 +9,22 @@ title: qPCR - DNased Abalone Dg RNA from earlier today AND the 07:12 set (DNased
   Lisa 20090306)
 wordpress_id: 1003
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 07:12
-- 16s
-- black abalone
-- Dg
-- digestive gland
-- DNased RNA
-- H.crach_16s_SYBR
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 07:12
+  - 16s
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNased RNA
+  - H.crach_16s_SYBR
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Set up qPCR using H.crach_16s_SYBR_F/R primers. [Plate layout/set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090622-01.jpg).

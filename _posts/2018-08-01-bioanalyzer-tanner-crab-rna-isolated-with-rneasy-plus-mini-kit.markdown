@@ -8,16 +8,16 @@ slug: bioanalyzer-tanner-crab-rna-isolated-with-rneasy-plus-mini-kit
 title: Bioanalyzer - Tanner Crab RNA Isolated with RNeasy Plus Mini Kit
 wordpress_id: 3470
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- Chionoecetes bairdi
-- electropherogram
-- RNA
-- RNA Pico 6000
-- tanner crab
+  - bioanalyzer
+  - Chionoecetes bairdi
+  - electropherogram
+  - RNA
+  - RNA Pico 6000
+  - tanner crab
 ---
 
 Ran the four Tanner crab RNA samples that [I isolated yesterday](http://onsnetwork.org/kubu4/2018/07/31/rna-isolation-tanner-crab-hemolymph-using-rneasy-plus-mini-kit/) on the Seeb Lab Bioanalyzer 2100 (Agilent) using the RNA Pico 6000 Kit.

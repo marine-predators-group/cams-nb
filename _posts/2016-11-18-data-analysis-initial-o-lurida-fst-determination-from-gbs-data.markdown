@@ -8,18 +8,18 @@ slug: data-analysis-initial-o-lurida-fst-determination-from-gbs-data
 title: Data Analysis - Initial O.lurida Fst Determination from GBS Data
 wordpress_id: 2357
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
 tags:
-- docker
-- dockerfile
-- FST
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- vcftools
+  - docker
+  - dockerfile
+  - FST
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - vcftools
 ---
 
 Finally running some analysis on the [output from my PyRad analysison 20160727](http://onsnetwork.org/kubu4/2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data/).

@@ -8,16 +8,16 @@ slug: titrator-setup-functional-methods-data-exports
 title: Titrator Setup - Functional Methods & Data Exports
 wordpress_id: 3068
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- LabX
-- Mettler Toledo
-- Rondolino
-- T5
-- T5 Excellence
-- titrator
+  - LabX
+  - Mettler Toledo
+  - Rondolino
+  - T5
+  - T5 Excellence
+  - titrator
 ---
 
 I've been working on getting our T5 Excellence titrator (Mettler Toledo) with Rondolino sample changer (Mettler Toledo) set up and operational.

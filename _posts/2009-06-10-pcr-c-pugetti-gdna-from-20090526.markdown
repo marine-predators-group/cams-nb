@@ -8,19 +8,19 @@ slug: pcr-c-pugetti-gdna-from-20090526
 title: PCR - C.pugetti gDNA from 20090526
 wordpress_id: 1031
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1492R
-- 16s
-- 27F
-- Cycloclasticus pugetii
-- gDNA
-- gel
-- gel extraction
-- PCR
-- Ultrafree-DA
+  - 1492R
+  - 16s
+  - 27F
+  - Cycloclasticus pugetii
+  - gDNA
+  - gel
+  - gel extraction
+  - PCR
+  - Ultrafree-DA
 ---
 
 This is a repeat of yesterday's PCR due to the presence of bands in the water-only samples. Will use reagents and universal 16s bacterial primers (27F & 1492R) provide by the Horner-Devine lab in hopes of: 1) getting this two work and, 2) figuring out the source of the contamination.

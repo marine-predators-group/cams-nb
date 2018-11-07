@@ -8,22 +8,22 @@ slug: pcr-new-dungan-isolates
 title: PCR - New Dungan isolates
 wordpress_id: 1149
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1.2t
-- 1.5t
-- 11t
-- 12t
-- 13t
-- 17t
-- 19t
-- AmpliTaq
-- Dungan isolates
-- gel
-- H5
-- PCR
+  - 1.2t
+  - 1.5t
+  - 11t
+  - 12t
+  - 13t
+  - 17t
+  - 19t
+  - AmpliTaq
+  - Dungan isolates
+  - gel
+  - H5
+  - PCR
 ---
 
 Repeat of PCR from [20090403](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090403), but using AmpliTaq and 50C annealing temp. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090406-01.jpg).

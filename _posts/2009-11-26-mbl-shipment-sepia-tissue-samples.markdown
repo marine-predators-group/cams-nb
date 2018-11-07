@@ -8,21 +8,21 @@ slug: mbl-shipment-sepia-tissue-samples
 title: MBL Shipment - Sepia tissue samples
 wordpress_id: 784
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- arm
-- cuttlefish
-- fin
-- Kendra Buresch
-- mantle
-- Marine Biological Laboratories
-- MBL
-- package
-- retina
-- RNAlater
-- Sepia officinalis
+  - arm
+  - cuttlefish
+  - fin
+  - Kendra Buresch
+  - mantle
+  - Marine Biological Laboratories
+  - MBL
+  - package
+  - retina
+  - RNAlater
+  - Sepia officinalis
 ---
 
 Received sepia tissue samples in RNA Later from Kendra Buresch. Here's the list of tissue we received, [according to the Post-It with the samples](http://eagle.fish.washington.edu/Arabidopsis/20091125-01.jpg):

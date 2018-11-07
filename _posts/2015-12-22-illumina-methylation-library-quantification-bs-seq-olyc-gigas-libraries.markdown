@@ -8,34 +8,34 @@ slug: illumina-methylation-library-quantification-bs-seq-olyc-gigas-libraries
 title: Illumina Methylation Library Quantification - BS-seq Oly/C.gigas Libraries
 wordpress_id: 1915
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- BS-seq
-- Crassostrea gigas
-- DNA Quantification
-- Katherine Silliman
-- Katie Lotterhos
-- M2
-- M3
-- NF2_6
-- NF_18
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- Qubit 3.0
-- Qubit dsDNA HS
-- TruSeq DNA Methylation Library
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - BS-seq
+  - Crassostrea gigas
+  - DNA Quantification
+  - Katherine Silliman
+  - Katie Lotterhos
+  - M2
+  - M3
+  - NF2_6
+  - NF_18
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - Qubit 3.0
+  - Qubit dsDNA HS
+  - TruSeq DNA Methylation Library
 ---
 
 Re-quantified [the libraries that were completed yesterday](http://onsnetwork.org/kubu4/2015/12/21/illumina-methylation-library-construction-olyc-gigas-bisulfite-treated-dna/) using the Qubit3.0 dsDNA HS (high sensitivity) assay because the library concentrations were too low for the normal broad range kit.

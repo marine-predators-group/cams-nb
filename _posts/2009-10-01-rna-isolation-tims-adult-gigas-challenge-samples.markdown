@@ -8,17 +8,17 @@ slug: rna-isolation-tims-adult-gigas-challenge-samples
 title: RNA Isolation - Tim's adult gigas challenge samples
 wordpress_id: 850
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gill
-- Pacific oyster
-- RNA isolation
-- RNA quantification
-- TriReagent
-- Vibrio tubiashii
+  - Crassostrea gigas
+  - gill
+  - Pacific oyster
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - Vibrio tubiashii
 ---
 
 RNA was isolated using 500uL of TriReagent for all samples. Samples were resuspended in 100uL of 0.1%DEPC-H2O and spec'd. Samples stored in Tim's "NAME OF BOX" box.

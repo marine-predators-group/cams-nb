@@ -9,18 +9,18 @@ title: SRA Release - Transcriptomic Profiles of Adult Female & Male Gonads in Pa
   generosa (Pacific geoduck)
 wordpress_id: 2103
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
-- SRA Submissions
+  - Protein expression profiles during sexual maturation in Geoduck
+  - SRA Submissions
 tags:
-- geoduck
-- Panopea generosa
-- PRJNA316216
-- SRA
-- SRP072283
-- SRX1659865
-- SRX1659866
+  - geoduck
+  - Panopea generosa
+  - PRJNA316216
+  - SRA
+  - SRP072283
+  - SRX1659865
+  - SRX1659866
 ---
 
 The RNAseq data that [I previously submitted to NCBI short read archive (SRA)](http://onsnetwork.org/kubu4/2016/03/24/sra-submission-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck/) has been released to the public today. Here are the various links for the project:

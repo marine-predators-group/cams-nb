@@ -8,19 +8,19 @@ slug: rna-isolation-daves-manila-clam-venerupis-philippinarum-gill-samples-25-48
 title: RNA Isolation - Dave's Manila Clam (Venerupis philippinarum) Gill Samples (#25-48)
 wordpress_id: 267
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- DNased RNA
-- Manila clam
-- NanoDrop1000
-- RNA isolation
-- RNA quantification
-- TriReagent
-- Turbo DNA-free
-- Venerupis philippinarum
+  - DNase
+  - DNased RNA
+  - Manila clam
+  - NanoDrop1000
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - Turbo DNA-free
+  - Venerupis philippinarum
 ---
 
 Isolated RNA from Manila Clam gill samples provided by Dave, according to protocol. Samples were resuspended in 0.1%-DEPC H2O and spec'd on the Roberts Lab NanoDrop1000. Samples were stored @ -80C in Dave's box that the tissue was initially stored in.

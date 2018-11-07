@@ -9,20 +9,20 @@ title: Bioanalyzer Submission - Trout RBC, Colleen's gigas GE sample, Mac's DH/B
   PCR for SOLiD WTK
 wordpress_id: 838
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BB
-- bioanalyzer
-- Crassostrea gigas
-- DH
-- lake trout
-- library prep
-- Pacific oyster
-- RBC
-- SOLiD
-- SOLiD libraries
+  - BB
+  - bioanalyzer
+  - Crassostrea gigas
+  - DH
+  - lake trout
+  - library prep
+  - Pacific oyster
+  - RBC
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Samples were delivered for analysis on the DNA 1000 chip.

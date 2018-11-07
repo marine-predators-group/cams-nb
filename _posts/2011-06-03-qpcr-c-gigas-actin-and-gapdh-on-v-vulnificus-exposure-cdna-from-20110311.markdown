@@ -8,18 +8,18 @@ slug: qpcr-c-gigas-actin-and-gapdh-on-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas actin and GAPDH on V.vulnificus exposure cDNA (from 20110311)
 wordpress_id: 343
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- cDNA
-- CFX96
-- Crassostrea gigas
-- GAPDH
-- Pacific oyster
-- qPCR
-- Vibrio vulnificus
+  - actin
+  - cDNA
+  - CFX96
+  - Crassostrea gigas
+  - GAPDH
+  - Pacific oyster
+  - qPCR
+  - Vibrio vulnificus
 ---
 
 Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111). This qPCR was to test 2 of 4 potential normalizing genes to evaluate which genes show the least amount of effect from the treatments in this experiment. Primers for actin used were Cg_Actin_306_F (SR ID: 1170), Cg_Actin_408_R (SR ID: 1171). Samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg). The master mix info is the same that was used earlier today, but with the primers noted above, not those listed on the calcs page. Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).

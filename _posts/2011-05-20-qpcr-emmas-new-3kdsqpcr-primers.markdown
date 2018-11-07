@@ -8,18 +8,18 @@ slug: qpcr-emmas-new-3kdsqpcr-primers
 title: qPCR - Emma's New 3KDSqPCR Primers
 wordpress_id: 355
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 3KDS
-- BLAST
-- Crassostrea gigas
-- gel
-- Pacific oyster
-- qPCR
-- troubleshooting
-- Vibrio vulnificus
+  - 3KDS
+  - BLAST
+  - Crassostrea gigas
+  - gel
+  - Pacific oyster
+  - qPCR
+  - troubleshooting
+  - Vibrio vulnificus
 ---
 
 Due to previous contamination issues with Emma's primers, Emma asked me to order new primers, reconstitute them and run a qPCR for her to see if we could eliminate her contamination issues with this primer set. cDNA template was supplied by Emma (from 2/2/11) and was from a C.gigas 3hr Vibrio vulnificus challenge. Samples were run in duplicate, as requested. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110520-01.jpg). Plate layout, cycling params, etc. can be found in the qPCR Report (see Results). Primer set used was:

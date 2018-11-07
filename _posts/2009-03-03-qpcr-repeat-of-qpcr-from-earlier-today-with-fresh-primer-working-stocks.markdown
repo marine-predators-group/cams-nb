@@ -8,17 +8,17 @@ slug: qpcr-repeat-of-qpcr-from-earlier-today-with-fresh-primer-working-stocks
 title: qPCR - Repeat of qPCR from earlier today with fresh primer working stocks
 wordpress_id: 1175
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- Opticon2
-- qPCR
-- SensiMix
-- SYBR
-- Vibrio tubiashii
-- Vtub_16s_V3
+  - 16s
+  - Opticon2
+  - qPCR
+  - SensiMix
+  - SYBR
+  - Vibrio tubiashii
+  - Vtub_16s_V3
 ---
 
 This is an exact repeat of the qPCR from earlier today, but using a fresh working stock of the Vtub_16s_V3 primers. [The plate layout/qPCR workup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090302-2.jpg).

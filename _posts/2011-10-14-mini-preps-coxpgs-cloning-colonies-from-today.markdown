@@ -8,16 +8,16 @@ slug: mini-preps-coxpgs-cloning-colonies-from-today
 title: Mini-preps - COX/PGS Cloning Colonies from today
 wordpress_id: 292
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- cyclooxygenase
-- PGS
-- plasmid isolation
-- prostaglandin synthase
-- QIAprep
+  - COX
+  - cyclooxygenase
+  - PGS
+  - plasmid isolation
+  - prostaglandin synthase
+  - QIAprep
 ---
 
 Selected 10 colonies (1-8, 18, 28) for mini-preps. Inoculated 5mL 1x LB + 50ug/mL of Kanamycin. Incubated O/N, 37C, 200RPM. 3mL of each culture were used for mini-preps. Used Qiagen kit. Samples were eluted w/30uL of EB.

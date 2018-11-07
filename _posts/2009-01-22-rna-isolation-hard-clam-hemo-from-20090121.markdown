@@ -8,18 +8,18 @@ slug: rna-isolation-hard-clam-hemo-from-20090121
 title: RNA Isolation - Hard clam hemo (from 20090121)
 wordpress_id: 1203
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gonad
-- Hard clam
-- hemocyte
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA isolation
-- RNA quantification
+  - gonad
+  - Hard clam
+  - hemocyte
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA isolation
+  - RNA quantification
 ---
 
 The 8 hemo samples were pooled and the 4 gonad/d.g. samples were pooled. RNA was isolated. The homo sample was resuspended in 100uL of 0.1%DEPC-H2O and the gonad/d.g. sample was resuspended in 50uL 0.1%DEPC-H2O. RNA was precipitated O/N @ -20C according to [Ambion PolyA Purist protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MicroPoly%28A%29Purist%20Kit.pdf) in preparation for mRNA isolation.

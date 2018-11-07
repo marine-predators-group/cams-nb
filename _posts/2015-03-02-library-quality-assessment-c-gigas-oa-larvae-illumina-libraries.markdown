@@ -8,21 +8,21 @@ slug: library-quality-assessment-c-gigas-oa-larvae-illumina-libraries
 title: Library Quality Assessment - C.gigas OA larvae Illumina libraries
 wordpress_id: 542
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bioanalyzer
-- BS-seq
-- Crassostrea gigas
-- EpiNext Post-Bisulfite DNA Library Preparation Kit
-- Genomics Core Facility
-- larvae
-- library prep
-- OA
-- ocean acidification
-- Pacific oyster
-- University of Oregon
+  - bioanalyzer
+  - BS-seq
+  - Crassostrea gigas
+  - EpiNext Post-Bisulfite DNA Library Preparation Kit
+  - Genomics Core Facility
+  - larvae
+  - library prep
+  - OA
+  - ocean acidification
+  - Pacific oyster
+  - University of Oregon
 ---
 
 Ran the [400ppm library](http://onsnetwork.org/kubu4/2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification/) and the [1000ppm library](http://onsnetwork.org/kubu4/2015/02/27/bs-seq-library-prep-c-gigas-larvae-oa-1000ppm/) preps on a DNA1000 Assay Chip (Agilent) on the Agilent 2100 Bioanalyzer.

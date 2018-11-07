@@ -9,21 +9,21 @@ title: mRNA Isolation - Gigas BB and DH samples previously treated with Ribominu
   Kit (by Mac)
 wordpress_id: 866
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- EtOH precipitation
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- Pacific oyster
-- PolyA Tract Kit
-- RNA
-- RNA quantification
+  - BB
+  - Crassostrea gigas
+  - DH
+  - EtOH precipitation
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific oyster
+  - PolyA Tract Kit
+  - RNA
+  - RNA quantification
 ---
 
 Was given 1ug of each of these two RNA samples and processed them with Promega's PolyA Tract Kit according to protocol. After elution, the samples were EtOH precipitated @ -20C for 30mins, pelleted 30mins 16,000g for 30mins, 4C. Supe removed, RNA washed with 1mL 70% EtOH and spun 15mins 16,000g, 4C. Supe removed. Resusupended in 15uL of 0.1% DEPC-H2O and spec'd.

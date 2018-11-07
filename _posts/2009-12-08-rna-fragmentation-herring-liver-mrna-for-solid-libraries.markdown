@@ -8,26 +8,26 @@ slug: rna-fragmentation-herring-liver-mrna-for-solid-libraries
 title: RNA Fragmentation - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 764
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- bioanalyzer
-- gel
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- Pacific herring
-- Ribominus Concentration Module Kit
-- RNA fragmentation
-- RNA Pico 6000
-- RNA quantification
-- total RNA
-- Whole Transcriptome Analysis Kit
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - bioanalyzer
+  - gel
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific herring
+  - Ribominus Concentration Module Kit
+  - RNA fragmentation
+  - RNA Pico 6000
+  - RNA quantification
+  - total RNA
+  - Whole Transcriptome Analysis Kit
 ---
 
 Samples from [20091203](/Sam%27s+Working+Notebook+Nov-Dec+2009#sjw20091203). 0.5uL was removed from each and transferred to separate tubes and diluted to < 5ng/uL for subsequent Bioanalyzer analysis using the Pico chip. Samples were fragmented using RNase III according to the Ambion WTK protocol and then cleaned up/concentrated using the Invitrogen RiboMinus Concentration Module according to the Ambion WTK protocol.

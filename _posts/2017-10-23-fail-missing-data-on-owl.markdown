@@ -8,11 +8,11 @@ slug: fail-missing-data-on-owl
 title: FAIL - Missing Data on Owl!
 wordpress_id: 2812
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- fail
+  - fail
 ---
 
 Uh oh. There appears to be some data that's been removed from Owl. I noticed this earlier when trying to look at some of Sean's data. His data should be in a folder with his name in [Owl/scaphapoda](http://owl.fish.washington.edu/scaphapoda/)

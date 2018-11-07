@@ -8,9 +8,9 @@ slug: goals-september-2016
 title: Goals - September 2016
 wordpress_id: 2278
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Whoops! It's already September 6th! The 1st of the month came and went without me noticing.

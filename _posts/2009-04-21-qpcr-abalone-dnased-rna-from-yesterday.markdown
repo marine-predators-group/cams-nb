@@ -8,21 +8,21 @@ slug: qpcr-abalone-dnased-rna-from-yesterday
 title: qPCR - Abalone DNased RNA from yesterday
 wordpress_id: 1109
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 08:3
-- 08:4
-- black abalone
-- Dg
-- digestive gland
-- DNased RNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 08:3
+  - 08:4
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNased RNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Performed qPCR to evaluate gDNA removal w/ 2x Immomx and SYTO 13. [qPCR/plate set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090421-01.jpg).

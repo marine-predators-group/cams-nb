@@ -8,14 +8,14 @@ slug: sequencing-lake-trout-hrm
 title: Sequencing - Lake Trout HRM
 wordpress_id: 798
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- high resolution melt curve
-- HRM
-- lake trout
-- Sanger sequencing
+  - high resolution melt curve
+  - HRM
+  - lake trout
+  - Sanger sequencing
 ---
 
 This is a second submission of 12 individuals from 8 primer sets. The previous sequencing run was botched because I used the combined primer plate instead of a single (forward or reverse) primer for submission.

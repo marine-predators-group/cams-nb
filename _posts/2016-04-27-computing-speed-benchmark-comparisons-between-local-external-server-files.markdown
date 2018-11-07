@@ -8,13 +8,13 @@ slug: computing-speed-benchmark-comparisons-between-local-external-server-files
 title: Computing - Speed Benchmark Comparisons Between Local, External, & Server Files
 wordpress_id: 2093
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- computing
-- ipython notebook
-- jupyter notebook
+  - computing
+  - ipython notebook
+  - jupyter notebook
 ---
 
 I decided to run a quick test to see what difference in speed (i.e. time) we might see between handling files that are stored locally, on an external hard drive (HDD), or on our server (Owl).

@@ -8,15 +8,15 @@ slug: data-received-ostrea-lurida-genome-sequencing-files-from-bgi
 title: Data Received - Ostrea lurida genome sequencing files from BGI
 wordpress_id: 1988
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Downloaded data from the BGI project portal to our server, Owl, using the Synology Download Station. Although the BGI portal is aesthetically nice, it's set up poorly for bulk downloads and took a few tries to download all of the files.

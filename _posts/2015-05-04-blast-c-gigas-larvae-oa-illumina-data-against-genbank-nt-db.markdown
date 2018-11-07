@@ -8,20 +8,20 @@ slug: blast-c-gigas-larvae-oa-illumina-data-against-genbank-nt-db
 title: BLAST - C.gigas Larvae OA Illumina Data Against GenBank nt DB
 wordpress_id: 1300
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bioinformatics
-- BLAST
-- BLASTn
-- BS-seq
-- Crassostrea gigas
-- GenBank
-- ipython notebook
-- jupyter notebook
-- NCBI
-- Pacific oyster
+  - bioinformatics
+  - BLAST
+  - BLASTn
+  - BS-seq
+  - Crassostrea gigas
+  - GenBank
+  - ipython notebook
+  - jupyter notebook
+  - NCBI
+  - Pacific oyster
 ---
 
 In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](http://owl.fish.washington.edu/halfshell/EmmaBS400.fa).

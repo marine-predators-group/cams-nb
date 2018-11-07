@@ -8,17 +8,17 @@ slug: data-management-o-lurida-genotype-by-sequencing-gbs-data-from-bgi
 title: Data Management - O. lurida genotype-by-sequencing (GBS) data from BGI
 wordpress_id: 2038
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 We received a hard drive from BGI on 20160223 (while I was out on paternity leave) containing the _Ostrea lurida_ GBS data.

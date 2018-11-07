@@ -8,17 +8,17 @@ slug: data-management-o-lurida-raw-bgi-gbs-fastq-data
 title: Data Management - O.lurida Raw BGI GBS FASTQ Data
 wordpress_id: 2099
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
 tags:
-- GBS
-- genotype-by-sequencing
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - GBS
+  - genotype-by-sequencing
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 BGI had previously supplied us with demultiplexed GBS FASTQ files. However, they had not provided us with the information/data on how those files were created. I contacted them and they've given us the two original FASTQ files, as well as the library index file and corresponding script they used for demultiplexing all of the files. The Jupyter (iPython) notebook below updates our [checksum](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/checksums.md5) and [readme](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/readme.md) files in our server directory that's hosting the files: [http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/)

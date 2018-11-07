@@ -9,18 +9,18 @@ title: FastQC/MultiQC/TrimGalore/MultiQC/FastQC/MultiQC - O.lurida WGBSseq for M
   Analysis
 wordpress_id: 3554
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BSseq
-- FASTQC
-- mox
-- multiqc
-- olympia oyster
-- Ostrea lurida
-- TrimGalore!
-- trimming
+  - BSseq
+  - FASTQC
+  - mox
+  - multiqc
+  - olympia oyster
+  - Ostrea lurida
+  - TrimGalore!
+  - trimming
 ---
 
 I previously ran this data [through the Bismark pipeline](http://onsnetwork.org/kubu4/2018/08/16/dna-methylation-analysis-bismark-pipeline-on-all-olympia-oyster-bsseq-datasets/) and [followed up with MethylKit analysis](http://onsnetwork.org/kubu4/2018/09/04/dna-methylation-analysis-olympia-oyster-bsseq-methylkit-analysis/). MethylKit analysis revealed an extremely low number of differentially methylated loci (DML), which seemed odd.

@@ -8,18 +8,18 @@ slug: dna-shearing-oly-oyster-gdna-rad-p1-adapters-from-20141105
 title: DNA Shearing & Size Selection - Oly Oyster gDNA RAD P1 Adapters (from 20141105)
 wordpress_id: 89
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Shearing
-- gel
-- gel purification
-- library prep
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
-- size selection
+  - DNA Shearing
+  - gel
+  - gel purification
+  - library prep
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
+  - size selection
 ---
 
 Pooled "low quality" samples and pooled "high quality" samples separately (in 1.5mL snap cap tubes) prior to shearing to improve chances of getting similar DNA size ranges.

@@ -9,21 +9,21 @@ title: mRNA Precipitation - Herring Liver mRNA for SOLiD Libraries (continued fr
   yesterday)
 wordpress_id: 768
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- EtOH precipitation
-- library prep
-- liver
-- mRNA
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - EtOH precipitation
+  - library prep
+  - liver
+  - mRNA
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Spun samples 16,000g, 30mins, 4C. Discarded supe, quick spun tubes, removed residual supe, washed with 1mL 70% EtOH. Spun samples 16,000g, 15mins, 4C. Discarded supe, quick spun tubes, removed residual supe, resuspended in 8.5uL of nuclease-free H2O. Stored @ -80C until ready to proceed with fragmentation for SOLiD libraries.

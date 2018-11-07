@@ -8,13 +8,13 @@ slug: qpcr-opticon-test
 title: qPCR - Opticon Test
 wordpress_id: 227
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Opticon2
-- qPCR
-- troubleshooting
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 Ran qPCR to test uniformity of Opticon 2, after it was serviced on 20120926.

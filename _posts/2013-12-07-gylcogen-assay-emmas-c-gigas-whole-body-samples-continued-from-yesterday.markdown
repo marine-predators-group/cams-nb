@@ -8,13 +8,13 @@ slug: gylcogen-assay-emmas-c-gigas-whole-body-samples-continued-from-yesterday
 title: Gylcogen Assay - Emma's C.gigas Whole Body Samples (continued from yesterday)
 wordpress_id: 178
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- glycogen assay
-- Pacific oyster
+  - Crassostrea gigas
+  - glycogen assay
+  - Pacific oyster
 ---
 
 Samples from yesterday were centrifuged 30mins, 4000g, 4C (fixed angle rotor).

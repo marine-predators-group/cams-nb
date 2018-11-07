@@ -8,22 +8,22 @@ slug: pcr-purified-coxpgs-12-dna-from-earlier-today
 title: PCR - Purified COX/PGS 1/2 DNA from earlier today
 wordpress_id: 298
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX1
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS1
-- PGS2
-- prostaglandin synthase
+  - COX
+  - COX1
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS1
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Ran PCR using primers Cg_COX1/2_qPCR_F, Cg_COX1_qPCR_R, Cg_COX2_454align1_R (SR IDs: 1192, 1191, 1190; respectively). Template was pooled cDNA from 20110311 of various C.gigas tissues. These reactions will verify (sort of) if we have both isoforms present in the PCR performed earlier today, prior to cloning. [Master mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/20111006-03.jpg).

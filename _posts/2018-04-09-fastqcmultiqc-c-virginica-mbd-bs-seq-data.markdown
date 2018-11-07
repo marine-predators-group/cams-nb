@@ -8,17 +8,17 @@ slug: fastqcmultiqc-c-virginica-mbd-bs-seq-data
 title: FastQC/MultiQC - C. virginica MBD BS-seq Data
 wordpress_id: 3219
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BS-seq
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- MBD-Seq
-- multiqc
-- ZymoResearch
+  - BS-seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - MBD-Seq
+  - multiqc
+  - ZymoResearch
 ---
 
 Per [Steven's GitHub Issues request](https://github.com/RobertsLab/resources/issues/217), I ran FastQC on the Eastern oyster MBD bisulfite sequencing data [we recently got back from ZymoResearch.](http://onsnetwork.org/kubu4/2018/03/29/data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch/)

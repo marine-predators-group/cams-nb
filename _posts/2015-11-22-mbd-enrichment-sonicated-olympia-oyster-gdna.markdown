@@ -8,36 +8,36 @@ slug: mbd-enrichment-sonicated-olympia-oyster-gdna
 title: MBD Enrichment - Sonicated Olympia Oyster gDNA
 wordpress_id: 1798
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
 tags:
-- hc1_2B
-- hc1_4B
-- hc2_15B
-- hc2_17
-- hc3_1
-- hc3_10
-- hc3_11
-- hc3_5
-- hc3_7
-- hc3_9
-- Hood Canal
-- MethylMiner Methylated DNA Enrichment Kit
-- olympia oyster
-- Ostrea lurida
-- Oyster Bay
-- ss2_14B
-- ss2_18B
-- ss2_9B
-- ss3_14B
-- ss3_15B
-- ss3_16B
-- ss3_20
-- ss3_3B
-- ss3_4B
-- ss5_18
+  - hc1_2B
+  - hc1_4B
+  - hc2_15B
+  - hc2_17
+  - hc3_1
+  - hc3_10
+  - hc3_11
+  - hc3_5
+  - hc3_7
+  - hc3_9
+  - Hood Canal
+  - MethylMiner Methylated DNA Enrichment Kit
+  - olympia oyster
+  - Ostrea lurida
+  - Oyster Bay
+  - ss2_14B
+  - ss2_18B
+  - ss2_9B
+  - ss3_14B
+  - ss3_15B
+  - ss3_16B
+  - ss3_20
+  - ss3_3B
+  - ss3_4B
+  - ss5_18
 ---
 
 [Olympia oyster gDNA that had previously been sonicated and fragmented](http://onsnetwork.org/kubu4/2015/11/19/dna-sonication-oly-gdna-for-mbd/) was enriched for the methylated fragments using the MethylMiner Methylated DNA Enrichment Kit (Invitrogen).

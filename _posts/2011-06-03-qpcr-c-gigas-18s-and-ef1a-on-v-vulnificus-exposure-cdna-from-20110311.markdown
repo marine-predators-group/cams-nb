@@ -8,18 +8,18 @@ slug: qpcr-c-gigas-18s-and-ef1a-on-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas 18s and EF1a on V.vulnificus exposure cDNA (from 20110311)
 wordpress_id: 341
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- cDNA
-- CFX96
-- Crassostrea gigas
-- EF1a
-- Pacific oyster
-- qPCR
-- Vibrio vulnificus
+  - 18s
+  - cDNA
+  - CFX96
+  - Crassostrea gigas
+  - EF1a
+  - Pacific oyster
+  - qPCR
+  - Vibrio vulnificus
 ---
 
 Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](http://onsnetwork.org/kubu4/2011/01/11/gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus/). This qPCR was to test 2 of 4 potential normalizing genes to evaluate which genes show the least amount of effect from the treatments in this experiment. Primers for 18s used were Cg_18s_1644_F (SR ID: 1168), Cg_18s_1750_R (SR ID: 1169). Primers for EF1a used were EF1_qPCR_5' (SR ID: 309), EF1_qPCR_3' (SR ID: 310)Samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg). The master mix info is the same that was used earlier today, but with the primers noted above, not those listed on the calcs page. Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).

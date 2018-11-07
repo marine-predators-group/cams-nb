@@ -8,34 +8,34 @@ slug: sra-submission-olymia-oyster-whole-genome-bs-seq-data
 title: SRA Submission - Olymia oyster Whole Genome BS-seq Data
 wordpress_id: 3609
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- BS-seq
-- Fidalgo Bay
-- olympia oyster
-- Ostrea lurida
-- Oyster Bay
-- PRJNA494552
-- SAMN10172233
-- SAMN10172234
-- SAMN10172235
-- SAMN10172236
-- SAMN10172237
-- SAMN10172238
-- SAMN10172239
-- SAMN10172240
-- SRA
-- SRP163248
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - BS-seq
+  - Fidalgo Bay
+  - olympia oyster
+  - Ostrea lurida
+  - Oyster Bay
+  - PRJNA494552
+  - SAMN10172233
+  - SAMN10172234
+  - SAMN10172235
+  - SAMN10172236
+  - SAMN10172237
+  - SAMN10172238
+  - SAMN10172239
+  - SAMN10172240
+  - SRA
+  - SRP163248
 ---
 
 Submitted [our whole genome bisulfite sequencing data](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015) to NCBI Sequence Read Archive (SRA).

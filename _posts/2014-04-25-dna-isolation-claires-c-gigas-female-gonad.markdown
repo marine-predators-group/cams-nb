@@ -8,20 +8,20 @@ slug: dna-isolation-claires-c-gigas-female-gonad
 title: DNA Isolation - Claire's C.gigas Female Gonad
 wordpress_id: 139
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- BS-seq
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- female
-- gDNA
-- gel
-- gonad
-- Pacific oyster
+  - BS-seq
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - female
+  - gDNA
+  - gel
+  - gonad
+  - Pacific oyster
 ---
 
 Trying this sample again(!!), but will now use TE for pellet resuspension to prevent sample degradation. Incubated sample RT on rotator in 500uL of DNazol + 2.7uL of Proteinase K (Fermentas; Stock 18.5mg/mL) for 5hrs. Added additional 500uL of DNazol, mixed gently and followed DNazol manufacturer's protocol. Performed first pellet was with 70% DNazol/ 30% EtOH solution. Resuspended pellet in 200uL of TE and spec'd on NanoDrop1000.

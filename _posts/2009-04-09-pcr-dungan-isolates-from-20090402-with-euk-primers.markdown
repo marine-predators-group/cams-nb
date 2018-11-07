@@ -8,24 +8,24 @@ slug: pcr-dungan-isolates-from-20090402-with-euk-primers
 title: PCR - Dungan isolates from 20090402 with Euk primers
 wordpress_id: 1143
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1.2t
-- 1.5t
-- 11t
-- 12t
-- 13t
-- 17t
-- 19t
-- Dungan isolates
-- Euk
-- gel
-- gel extraction
-- H5
-- PCR
-- Ultrafree-DA
+  - 1.2t
+  - 1.5t
+  - 11t
+  - 12t
+  - 13t
+  - 17t
+  - 19t
+  - Dungan isolates
+  - Euk
+  - gel
+  - gel extraction
+  - H5
+  - PCR
+  - Ultrafree-DA
 ---
 
 Did PCR with new Euk primers designed by Steven. Should be one step higher taxonomically. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090409-03.jpg). Aneal temp 50C.

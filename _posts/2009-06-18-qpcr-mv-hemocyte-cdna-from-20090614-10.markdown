@@ -8,20 +8,20 @@ slug: qpcr-mv-hemocyte-cdna-from-20090614-10
 title: qPCR - MV hemocyte cDNA from 20090614
 wordpress_id: 1009
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea virginica
-- Cv_BgBL_F/R
-- Eastern oyster
-- hemocyte
-- Immomix
-- Martha's Vineyard
-- Opticon2
-- qPCR
-- SYTO13
+  - cDNA
+  - Crassostrea virginica
+  - Cv_BgBL_F/R
+  - Eastern oyster
+  - hemocyte
+  - Immomix
+  - Martha's Vineyard
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Set up qPCR with Cv_BgBL_F/R primers. [Plate layout/PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090617-02.jpg).

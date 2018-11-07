@@ -9,14 +9,14 @@ title: Samples Received - Acropora cervicornis (Staghorn coral) DNA from Javier 
   (FIU)
 wordpress_id: 2566
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- Acropora cervicornis
-- DNA
-- FIU
-- Staghorn coral
+  - Acropora cervicornis
+  - DNA
+  - FIU
+  - Staghorn coral
 ---
 
 Received 62 coral (_Acropora cervicornis_) DNA samples from Javier Casariego at FIU.

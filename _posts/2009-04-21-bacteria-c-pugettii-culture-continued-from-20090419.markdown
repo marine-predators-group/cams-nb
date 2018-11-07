@@ -8,14 +8,14 @@ slug: bacteria-c-pugettii-culture-continued-from-20090419
 title: Bacteria - C. pugettii culture CONTINUED (from 20090419)
 wordpress_id: 1107
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- biphenyl
-- Cycloclasticus pugetii
-- marine broth
+  - bacterial culture
+  - biphenyl
+  - Cycloclasticus pugetii
+  - marine broth
 ---
 
 Transferred 1mL of the culture to a 50mL conical containing 4mL of 1x Marine Broth and a couple crystals of biphenyl. Kept the cap loosened and incubated at 20C with shaking at 200RPM. Kept the existing culture in the incubator as well. No apparent growth.

@@ -8,15 +8,15 @@ slug: opticon-calibration
 title: Opticon Calibration
 wordpress_id: 591
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- FAM
-- graphs
-- Opticon2
-- troubleshooting
+  - calibration
+  - FAM
+  - graphs
+  - Opticon2
+  - troubleshooting
 ---
 
 Distributed 50uL of FAM calibration dye to wells. Ran out of dye!!

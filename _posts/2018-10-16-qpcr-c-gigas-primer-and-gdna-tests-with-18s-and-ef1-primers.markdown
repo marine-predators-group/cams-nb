@@ -8,25 +8,25 @@ slug: qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers
 title: qPCR – C.gigas primer and gDNA tests with 18s and EF1 primers
 wordpress_id: 3654
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BB15
-- BB16
-- cfx connect
-- Cg_18s_1644_F
-- Cg_18s_1750_R
-- Crassostrea gigas
-- EF1_qPCR_3'
-- EF1_qPCR_5'
-- Pacific oyster
-- qPCR
-- SRID 1168
-- SRID 1169
-- SRID 309
-- SRID 310
-- SsoFast EvaGreen Supermix
+  - BB15
+  - BB16
+  - cfx connect
+  - Cg_18s_1644_F
+  - Cg_18s_1750_R
+  - Crassostrea gigas
+  - EF1_qPCR_3'
+  - EF1_qPCR_5'
+  - Pacific oyster
+  - qPCR
+  - SRID 1168
+  - SRID 1169
+  - SRID 309
+  - SRID 310
+  - SsoFast EvaGreen Supermix
 ---
 
 The [qPCR I ran earlier today to check for residual gDNA in Ronit's DNased RNA] turned out terribly, due to a combination of bad primers and, possibly, bad gDNA.

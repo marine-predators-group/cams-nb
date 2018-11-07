@@ -8,20 +8,20 @@ slug: dna-isolation-claires-c-gigas-female-gonad-and-macs-c-gigas-gonad
 title: DNA Isolation - Claire's C.gigas Female Gonad and Mac's C.gigas Gonad
 wordpress_id: 150
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- female
-- gDNA
-- gel
-- gonad
-- NanoDrop1000
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - female
+  - gDNA
+  - gel
+  - gonad
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 Due to the poor quality DNA yielded by the DNeasy Kit (Qiagen; see 20140404), I am re-isolating these samples using DNazol (Molecular Research Center). Weighed tissue from each frozen sample:

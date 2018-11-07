@@ -8,15 +8,15 @@ slug: dnase-treatment-tims-adult-gigas-challenge-rna-from-20090930
 title: DNase Treatment - Tim's adult gigas challenge RNA (from 20090930)
 wordpress_id: 832
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNased RNA
-- Pacific oyster
-- RNA
-- Turbo DNA-free
+  - Crassostrea gigas
+  - DNased RNA
+  - Pacific oyster
+  - RNA
+  - Turbo DNA-free
 ---
 
 Used 5uL of RNA from each sample, brought samples up to 50uL with H2O and treated according to Ambion's Turbo DNA-free kit. Rigorous protocol was followed (1.5uL DNase initially + 1.5uL additional DNase after 30mins). Transferred treated samples to a PCR plate to facilitate further manipulation of the samples. Will perform qPCR on these samples to make sure treatment worked.

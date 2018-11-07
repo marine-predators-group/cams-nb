@@ -8,21 +8,21 @@ slug: reverse-transcription-subset-of-jakes-o-lurida-dnased-rna
 title: Reverse Transcription - Subset of Jake's O.lurida DNased RNA
 wordpress_id: 1436
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- ctenidia
-- DNased RNA
-- gill
-- heat shock
-- M-MLV
-- oligo dT
-- olympia oyster
-- Ostrea lurida
-- reverse transcriptase
-- reverse transcription
+  - cDNA
+  - ctenidia
+  - DNased RNA
+  - gill
+  - heat shock
+  - M-MLV
+  - oligo dT
+  - olympia oyster
+  - Ostrea lurida
+  - reverse transcriptase
+  - reverse transcription
 ---
 
 Currently don't have sufficient reagents to perform reverse transcription on the entire set of DNased RNA ([control](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507/) and [1hr.heat-shocked](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506/) _O.lurida_ ctenidia samples). To enable Jake to start testing out some of his primers while we wait for reagents to come in, Steven suggested I generate some cDNA for him to use.

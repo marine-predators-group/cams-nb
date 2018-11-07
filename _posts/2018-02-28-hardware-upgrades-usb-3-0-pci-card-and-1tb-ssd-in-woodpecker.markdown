@@ -8,11 +8,11 @@ slug: hardware-upgrades-usb-3-0-pci-card-and-1tb-ssd-in-woodpecker
 title: Hardware Upgrades - USB 3.0 PCI Card and 1TB SSD in Woodpecker
 wordpress_id: 3116
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- woodpecker
+  - woodpecker
 ---
 
 Installed an additional 1TB SSD and a USB 3.0 PCI card in [woodpecker](https://docs.google.com/spreadsheets/d/1mtIITcjqZVEQtynYZFdOdx51uXTiXP7Jvvzv_SnWCDY/edit?usp=sharing) to make it usable for MinION sequencing. An SSD and USB 3.0 ports are just a couple of the hardware requirements for using the sequencer. Woodpecker already satisfied other hardware requirements (processor, RAM, hard drive space).

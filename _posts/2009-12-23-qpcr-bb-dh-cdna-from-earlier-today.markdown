@@ -8,21 +8,21 @@ slug: qpcr-bb-dh-cdna-from-earlier-today
 title: qPCR - BB & DH cDNA (from earlier today)
 wordpress_id: 740
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- cDNA
-- Crassostrea gigas
-- DH
-- HMGP
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SPI
-- SYTO 13
+  - BB
+  - cDNA
+  - Crassostrea gigas
+  - DH
+  - HMGP
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SPI
+  - SYTO 13
 ---
 
 qPCR was set up on these cDNAs using HMGP_5'/3' and SPI_5'/3' primers. [qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091223-02.jpg).

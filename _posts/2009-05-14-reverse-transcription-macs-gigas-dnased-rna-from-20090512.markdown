@@ -8,18 +8,18 @@ slug: reverse-transcription-macs-gigas-dnased-rna-from-20090512
 title: Reverse Transcription - Mac's gigas DNased RNA from 20090512
 wordpress_id: 1069
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- M-MLV
-- oligo dT
-- Pacific oyster
-- reverse transcription
-- RNA
+  - BB
+  - Crassostrea gigas
+  - DH
+  - M-MLV
+  - oligo dT
+  - Pacific oyster
+  - reverse transcription
+  - RNA
 ---
 
 Performed RT using Promega M-MLV RT according to M-MLV protocol and used 0.5ug oligo dT per ug of RNA on all BB and DH site samples that were negative for gDNA (see qPCR results [20090512](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090512)). [Calculations and work up are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdE1WT0dVbVFxQ0o1TkJXalF5MXFhcXc&hl=en). Samples were set up in a plate to facilitate sample loading in subsequent qPCRs.

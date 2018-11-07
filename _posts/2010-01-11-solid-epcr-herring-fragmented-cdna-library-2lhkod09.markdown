@@ -8,17 +8,17 @@ slug: solid-epcr-herring-fragmented-cdna-library-2lhkod09
 title: 'SOLiD ePCR - Herring fragmented cDNA library: 2LHKOD09'
 wordpress_id: 710
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2LHKOD09
-- cDNA
-- ePCR
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 2LHKOD09
+  - cDNA
+  - ePCR
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Using 1.5pM of starting template, based on success of the 3LHSITK09 bead prep (see 20100108).

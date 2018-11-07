@@ -8,19 +8,19 @@ slug: gdna-sonication-sbwb-gdna-pools-prep-for-medip-from-earlier-today
 title: gDNA Sonication - SB/WB gDNA pools (prep for MeDIP) from earlier today
 wordpress_id: 633
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Covaris S2
-- Crassostrea gigas
-- DNA Shearing
-- gel
-- Hyperladder I
-- MeDIP
-- Pacific oyster
-- R37
-- R51
+  - Covaris S2
+  - Crassostrea gigas
+  - DNA Shearing
+  - gel
+  - Hyperladder I
+  - MeDIP
+  - Pacific oyster
+  - R37
+  - R51
 ---
 
 The two gDNA pools (SB and WB) were sonicated using a Covaris S2. Used the guidelines of the manufacturer (listed below) for shearing gDNA to a desired target size (500bp):

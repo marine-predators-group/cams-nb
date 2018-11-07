@@ -9,32 +9,32 @@ title: Gel Purification & PCR cDNA SOLiD Libraries - Abalone, Yellow Perch, Lake
   Herring
 wordpress_id: 676
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- black abalone
-- Carmel
-- CC
-- cDNA
-- CE
-- CT
-- gel
-- Haliotis cracherodii
-- in-gel PCR
-- lake trout
-- Lean
-- library prep
-- Pacific herring
-- PQ
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- WB
-- Whole Transcriptome Analysis Kit
-- yellow perch
+  - 1 G/O HPWS09
+  - black abalone
+  - Carmel
+  - CC
+  - cDNA
+  - CE
+  - CT
+  - gel
+  - Haliotis cracherodii
+  - in-gel PCR
+  - lake trout
+  - Lean
+  - library prep
+  - Pacific herring
+  - PQ
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - Whole Transcriptome Analysis Kit
+  - yellow perch
 ---
 
 cDNA was gel purified according to Ambion's Whole Transcriptome Analysis Kit. The appropriate regions (100 - 200bp) were excised and cut in to 4, 1x5mm pieces. The two "internal" pieces were transferred to individual PCR tubes. The "outer" pieces were transferred together to a 1.5mL snap cap tube and stored @ -20C.

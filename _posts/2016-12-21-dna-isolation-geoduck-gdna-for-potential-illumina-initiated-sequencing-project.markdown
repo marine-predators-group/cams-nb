@@ -8,18 +8,18 @@ slug: dna-isolation-geoduck-gdna-for-potential-illumina-initiated-sequencing-pro
 title: DNA Isolation - Geoduck gDNA for Potential Illumina-initiated Sequencing Project
 wordpress_id: 2416
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Isolation
-- E.Z.N.A. Mollusc Kit
-- gel
-- geoduck
-- O'geneRuler DNA Ladder Mix
-- Panopea generosa
-- Qubit 3.0
-- Qubit dsDNA BR
+  - DNA Isolation
+  - E.Z.N.A. Mollusc Kit
+  - gel
+  - geoduck
+  - O'geneRuler DNA Ladder Mix
+  - Panopea generosa
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 We were approached by Cindy Lawley (Illumina Market Development) yesterday to see if we'd be able to participate in some product development. We agreed and need some geoduck DNA to send them, in case she's able to get our species greenlighted for use.

@@ -9,16 +9,16 @@ title: RNA Isolation - Hard Clam Gill Tissue from Vibrio Experiment (see Dave's 
   5/2/2011)
 wordpress_id: 368
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gill
-- Hard clam
-- Mercenaria mercenaria
-- RNA isolation
-- TriReagent
-- Vibrio tubiashii
+  - gill
+  - Hard clam
+  - Mercenaria mercenaria
+  - RNA isolation
+  - TriReagent
+  - Vibrio tubiashii
 ---
 
 Isolated RNA in 1mL of Tri-Reagent according to manufacturer's protocol. Samples were precipitated with isopropanol and stored over the weekend @ -20C. Will conclude isolation on Monday. The samples isolated were:

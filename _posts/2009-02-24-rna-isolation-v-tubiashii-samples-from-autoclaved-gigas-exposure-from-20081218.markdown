@@ -8,18 +8,18 @@ slug: rna-isolation-v-tubiashii-samples-from-autoclaved-gigas-exposure-from-2008
 title: RNA Isolation - V.tubiashii samples from autoclaved gigas exposure (from 20081218)
 wordpress_id: 1185
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- NanoDrop1000
-- RNA
-- RNA isolation
-- RNA quantification
-- TriReagent
-- Turbo DNA-free
-- Vibrio tubiashii
+  - DNase
+  - NanoDrop1000
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - Turbo DNA-free
+  - Vibrio tubiashii
 ---
 
 RNA was isolated from the Control and V.tub+gigas samples from the 0, 1, & 24hr time points using 1mL TriReagent. No visible pellets. Used 20uL of 0.1%DEPC-H2O to resuspend RNA. Incubated @ 55C, 5mins. Spec'd.

@@ -8,13 +8,13 @@ slug: trypsin-digestion-vibrio-2d-spots-from-20081217
 title: Trypsin digestion - Vibrio 2D spots from 20081217
 wordpress_id: 1193
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- protein
-- trypsin
-- Vibrio tubiashii
+  - protein
+  - trypsin
+  - Vibrio tubiashii
 ---
 
 Samples were prepared according to Goodlett Lab protocol and incubated O/N on LabQuake.

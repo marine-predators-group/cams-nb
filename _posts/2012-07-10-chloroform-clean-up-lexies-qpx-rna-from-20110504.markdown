@@ -8,18 +8,18 @@ slug: chloroform-clean-up-lexies-qpx-rna-from-20110504
 title: Chloroform Clean Up - Lexie's QPX RNA from 20110504
 wordpress_id: 235
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- chloroform
-- NanoDrop1000
-- QPX
-- quahog parasite x
-- RNA
-- RNA quantification
-- RNA-seq
-- troubleshooting
+  - chloroform
+  - NanoDrop1000
+  - QPX
+  - quahog parasite x
+  - RNA
+  - RNA quantification
+  - RNA-seq
+  - troubleshooting
 ---
 
 After submission of QPX samples to HTGU for Illumina library prep yesterday, I was notified that there was insufficient RNA for the QPX RNA samples. I checked the source RNA on the Roberts Lab NanoDrop1000 and determined that they had high phenol contamination (large peak at 270nm), which results in a large exaggeration in the OD260 absorbance ([NanoDrop1000 report](http://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/201200710%20QPX%20RNA%20ODs-01.JPG)[JPEG]; notice terrible OD260/280 ratios; did not save screen shot of absorbance peaks.). As such, the concentrations that Lexie had listed in her notebook for these samples are highly inaccurate and highly inflated. To remove the phenol, I brought all of her QPX RNA samples from 20110504 up to ~200uL with 0.1%DEPC-H2O, added 200uL of chloroform, vortexed for 30s, spun at 12,500g RT for 15mins, and transferred aqueous phase to new tube. Then performed an ethanol precipitation on the aqueous phase. Added 0.1 vols of 3.0M sodium acetate (pH = 5.2), 2.5 vols of 100% EtOH, mixed and incubated at -20C for 1hr. Pelleted RNA by spinning at 16,000g 4C for 15mins.

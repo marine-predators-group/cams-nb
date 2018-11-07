@@ -8,9 +8,9 @@ slug: dna-allocation-oly-oyster-gdna-01-for-rad-sequencing-from-20141022
 title: DNA Allocation - Oly Oyster gDNA-01 for RAD Sequencing (from 20141022)
 wordpress_id: 104
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 ---
 
 Transferred 500ng of gDNA from each sample to a 96-well, low-profile, non-skirted PCR plate (sample layout matches that of the layout of the source gDNA plate) and air-dried the samples over night.

@@ -8,15 +8,15 @@ slug: project-progress-olympia-oyster-genome-assemblies-by-sean-bennett
 title: Project Progress - Olympia Oyster Genome Assemblies by Sean Bennett
 wordpress_id: 2682
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- Illumina
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - BGI
+  - Illumina
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 Here's a brief overview of what [Sean](https://genefish.wordpress.com/author/seanb80/) has done with the Oly genome assembly front.

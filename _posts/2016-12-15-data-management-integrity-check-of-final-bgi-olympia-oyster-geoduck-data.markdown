@@ -8,23 +8,23 @@ slug: data-management-integrity-check-of-final-bgi-olympia-oyster-geoduck-data
 title: Data Management - Integrity Check of Final BGI Olympia Oyster & Geoduck Data
 wordpress_id: 2403
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- array
-- bash
-- BGI
-- checksum
-- geoduck
-- jupyter notebook
-- md5
-- olympia oyster
-- Ostrea lurida
-- ostrich
-- Panopea generosa
-- parameter substitution
+  - array
+  - bash
+  - BGI
+  - checksum
+  - geoduck
+  - jupyter notebook
+  - md5
+  - olympia oyster
+  - Ostrea lurida
+  - ostrich
+  - Panopea generosa
+  - parameter substitution
 ---
 
 After completing the downloads of these files from BGI, I needed to verify that the downloaded copies matched the originals. Below is a Jupyter Notebook detailing how I verified file integrity via MD5 checksums. It also highlights the importance of doing this check when working with large sequencing files (or, just large files in general), as a few of them had mis-matching MD5 checksums!

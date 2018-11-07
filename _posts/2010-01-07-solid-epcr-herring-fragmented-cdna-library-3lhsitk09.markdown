@@ -8,17 +8,17 @@ slug: solid-epcr-herring-fragmented-cdna-library-3lhsitk09
 title: 'SOLiD ePCR - Herring fragmented cDNA library: 3LHSITK09'
 wordpress_id: 716
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 3LHSITK09
-- cDNA
-- ePCR
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 3LHSITK09
+  - cDNA
+  - ePCR
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Due to low yield of templated beads (12x10^6) from the first run through (see SOLiD Bead Titration below), am repeating using 1.5pM of starting template (as opposed to 0.5pM used yesterday). It should be noted that there is NOT a linear relationship between the amount of starting template and the amount of enriched, templated beads one ends up with in this protocol. So, even though I am increasing the starting template by 3-fold, a 3-fold increase in the amount of enriched, templated beads is NOT expected (hopefully it'll be more than that!).

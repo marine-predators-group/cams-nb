@@ -8,18 +8,18 @@ slug: pcr-test-lexies-mercenaria-18s-contamination-issue
 title: PCR - Test Lexie's Mercenaria 18s contamination issue
 wordpress_id: 700
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- Apex Red Master Mix
-- cDNA
-- gel
-- Hard clam
-- Mercenaria mercenaria
-- PCR
-- troubleshooting
+  - 18s
+  - Apex Red Master Mix
+  - cDNA
+  - gel
+  - Hard clam
+  - Mercenaria mercenaria
+  - PCR
+  - troubleshooting
 ---
 
 Lexie's PCR with this primer set and a pool of Mercenria cDNA has yielded contamination in all of her waters. Performed two sets of PCR: one with her existing primer working stocks and the other with a fresh aliquot of primer working stocks. Used my own reagents/water. [PCR set up and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100310-01.jpg). PCR ran O/N.

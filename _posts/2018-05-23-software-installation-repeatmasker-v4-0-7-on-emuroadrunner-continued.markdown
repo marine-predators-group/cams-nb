@@ -8,16 +8,16 @@ slug: software-installation-repeatmasker-v4-0-7-on-emuroadrunner-continued
 title: Software Installation – RepeatMasker v4.0.7 on Emu/Roadrunner Continued
 wordpress_id: 3376
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- emu
-- RepeatMasker
-- rmblastn
-- roadrunner
-- TE
-- transposable elements
+  - emu
+  - RepeatMasker
+  - rmblastn
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 [After yesterday's difficulties getting RMblast to compile](http://onsnetwork.org/kubu4/2018/05/22/software-installation-repeatmasker-v4-0-7-on-emuroadrunner/), I deleted the folder and went through the build process again.

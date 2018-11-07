@@ -8,19 +8,19 @@ slug: gdna-isolation-2
 title: gDNA Isolation
 wordpress_id: 583
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- crab
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Eschrichtius robustus
-- gray whale
-- NanoDrop1000
-- RoundUp
-- sea star
+  - crab
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Eschrichtius robustus
+  - gray whale
+  - NanoDrop1000
+  - RoundUp
+  - sea star
 ---
 
 Isolated gDNA from crab (unknown species), starfish exposed to RoundUp (unknown species) and gray whale blubber using Qiagen's DNEasy Kit, according to manufacturer's protocol. Tissue was incubated at 55C with Proteinase K for 1hr. gDNA was eluted with 100uL of Buffer AE and spec'd.

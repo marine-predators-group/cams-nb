@@ -8,21 +8,21 @@ slug: sequencing-data-c-gigas-larvae-oa
 title: Sequencing Data - C.gigas Larvae OA
 wordpress_id: 935
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- BS-seq
-- checksum
-- code
-- Crassostrea gigas
-- curl
-- HiSeq2500
-- larvae
-- md5
-- OA
-- ocean acidification
-- Pacific oyster
+  - BS-seq
+  - checksum
+  - code
+  - Crassostrea gigas
+  - curl
+  - HiSeq2500
+  - larvae
+  - md5
+  - OA
+  - ocean acidification
+  - Pacific oyster
 ---
 
 Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) (order number 2212).

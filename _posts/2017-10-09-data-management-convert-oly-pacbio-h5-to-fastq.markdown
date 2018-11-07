@@ -8,14 +8,14 @@ slug: data-management-convert-oly-pacbio-h5-to-fastq
 title: Data Management - Convert Oly PacBio H5 to FASTQ
 wordpress_id: 2776
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- FASTQ
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - FASTQ
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 After working with all of this Olympia oyster genome sequencing data, I remembered that we had an old, singular PacBio SMRT cell file (from June 2013). This file didn't seem to be included in any recent assemblies of Sean's or mine. This is most likely because we have it in the PacBio H5 format and not in FASTQ.

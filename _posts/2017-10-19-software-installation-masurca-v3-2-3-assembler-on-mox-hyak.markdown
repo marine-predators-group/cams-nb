@@ -8,13 +8,13 @@ slug: software-installation-masurca-v3-2-3-assembler-on-mox-hyak
 title: Software Installation - MaSuRCA v3.2.3 Assembler on Mox (Hyak)
 wordpress_id: 2787
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- hyak
-- MaSuRCA
-- mox
+  - hyak
+  - MaSuRCA
+  - mox
 ---
 
 Saw this tweet this morning and thought this would be good to try out for our Olympia oyster genome assemblies, as it will handle "hybrid" assemblies (i.e. short-reads and long reads):

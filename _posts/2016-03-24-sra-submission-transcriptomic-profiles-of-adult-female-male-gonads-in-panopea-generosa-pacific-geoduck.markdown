@@ -9,15 +9,15 @@ title: SRA Submission - Transcriptomic Profiles of Adult Female & Male Gonads in
   generosa (Pacific geoduck).
 wordpress_id: 2057
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- geoduck
-- NCBI
-- Panopea generosa
-- SRA
-- SRP072283
+  - geoduck
+  - NCBI
+  - Panopea generosa
+  - SRA
+  - SRP072283
 ---
 
 [RNAseq experiment](http://onsnetwork.org/kubu4/category/protein-expression-profiles-during-sexual-maturation-in-geoduck/), which is part of a larger project that involves characterizing geoduck gonad development across multiple stages: histologically, proteomically, and transcriptomically. [Initial sample collection performed by Grace Crandall](http://genefish.wikispaces.com/Grace's+Notebook).

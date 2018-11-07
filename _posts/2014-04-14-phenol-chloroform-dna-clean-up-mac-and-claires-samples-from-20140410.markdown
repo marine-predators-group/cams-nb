@@ -8,20 +8,20 @@ slug: phenol-chloroform-dna-clean-up-mac-and-claires-samples-from-20140410
 title: Phenol-Chloroform DNA Clean Up - Mac and Claire's Samples (from 20140410)
 wordpress_id: 147
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNA
-- DNA Quantification
-- female
-- gel
-- gonad
-- NanoDrop1000
-- Pacific oyster
-- phenol-chloroform cleanup
-- troubleshooting
+  - Crassostrea gigas
+  - DNA
+  - DNA Quantification
+  - female
+  - gel
+  - gonad
+  - NanoDrop1000
+  - Pacific oyster
+  - phenol-chloroform cleanup
+  - troubleshooting
 ---
 
 Due to low 260/230 values and Mac's smeary sample, performed a phenol-chloroform DNA cleanup on the samples isolated 20140410.

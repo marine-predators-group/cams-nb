@@ -9,19 +9,19 @@ title: Bisulfite NGS Library Prep - Bisulfite Conversion & Illumina Library Cons
   of C.gigas larvae DNA
 wordpress_id: 447
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bisulfite conversion
-- BS-seq
-- Crassostrea gigas
-- DNA
-- larvae
-- library prep
-- OA
-- ocean acidification
-- Pacific oyster
+  - bisulfite conversion
+  - BS-seq
+  - Crassostrea gigas
+  - DNA
+  - larvae
+  - library prep
+  - OA
+  - ocean acidification
+  - Pacific oyster
 ---
 
 #### Bisulfite Conversion

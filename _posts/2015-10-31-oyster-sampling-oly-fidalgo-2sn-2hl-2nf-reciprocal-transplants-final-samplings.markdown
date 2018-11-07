@@ -8,19 +8,19 @@ slug: oyster-sampling-oly-fidalgo-2sn-2hl-2nf-reciprocal-transplants-final-sampl
 title: Oyster Sampling - Oly Fidalgo 2SN, 2HL, 2NF Reciprocal Transplants Final Samplings
 wordpress_id: 1752
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- ctenidia
-- E.Z.N.A. Mollusc Kit
-- Fidalgo 2HL
-- Fidalgo 2NF
-- Fidalgo 2SN
-- gill
-- olympia oyster
-- Ostrea lurida
-- RNAlater
+  - ctenidia
+  - E.Z.N.A. Mollusc Kit
+  - Fidalgo 2HL
+  - Fidalgo 2NF
+  - Fidalgo 2SN
+  - gill
+  - olympia oyster
+  - Ostrea lurida
+  - RNAlater
 ---
 
 The remaining Olympia oysters from Jake Heare’s reciprocal transplant experiment have been retrieved from field sites and are awaiting sampling. The oysters have been stored in the cold room (temp?) for 15 days so far.

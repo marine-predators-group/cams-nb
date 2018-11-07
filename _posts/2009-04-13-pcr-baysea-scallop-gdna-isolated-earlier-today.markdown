@@ -8,17 +8,17 @@ slug: pcr-baysea-scallop-gdna-isolated-earlier-today
 title: PCR - Bay/Sea scallop gDNA isolated earlier today
 wordpress_id: 1131
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- Argopecten irradians
-- bay scallop
-- gel
-- PCR
-- Placopecten magellanicus
-- sea scallop
+  - actin
+  - Argopecten irradians
+  - bay scallop
+  - gel
+  - PCR
+  - Placopecten magellanicus
+  - sea scallop
 ---
 
 Used 3 sets of reverse primers:

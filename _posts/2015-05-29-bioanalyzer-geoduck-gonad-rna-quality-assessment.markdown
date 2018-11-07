@@ -8,18 +8,18 @@ slug: bioanalyzer-geoduck-gonad-rna-quality-assessment
 title: Bioanalyzer - Geoduck Gonad RNA Quality Assessment
 wordpress_id: 1444
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- bioanalyzer
-- DNased RNA
-- electropherogram
-- gel
-- geoduck
-- gonad
-- NanoDrop1000
-- Panopea generosa
+  - bioanalyzer
+  - DNased RNA
+  - electropherogram
+  - gel
+  - geoduck
+  - gonad
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Before proceeding with transcriptomics for this project, we need to assess the integrity of the RNA via Bioanalyzer.

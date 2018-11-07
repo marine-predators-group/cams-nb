@@ -8,18 +8,18 @@ slug: dna-methylation-test-gigas-site-gdna-bb-dh-from-20090515
 title: DNA Methylation Test - Gigas site gDNA (BB & DH) from 20090515
 wordpress_id: 1059
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- gDNA
-- graphs
-- methylation
-- Pacific oyster
-- plate reader
+  - BB
+  - Crassostrea gigas
+  - DH
+  - gDNA
+  - graphs
+  - methylation
+  - Pacific oyster
+  - plate reader
 ---
 
 Used BB & DH samples #11-17 for procedure. Followed Epigentek's protocol. [My calcs for dilutions/solutions needed are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090519-01.jpg). All solutions were made fresh before using, except for Diluted GU1 which was made at the beginning of the procedure and stored on ice in a 50mL conical wrapped in aluminum foil. Used 100ng total (50ng/uL) of each sample gDNA. No standards for a standard curve based on speaking with Mac.

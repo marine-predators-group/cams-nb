@@ -8,14 +8,14 @@ slug: bleedingtissue-collection-hard-clams
 title: Bleeding/Tissue Collection - Hard Clams
 wordpress_id: 1207
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bleeding
-- Hard clam
-- hemocyte
-- Mercenaria mercenaria
+  - bleeding
+  - Hard clam
+  - hemocyte
+  - Mercenaria mercenaria
 ---
 
 Hemos were collected from the remaining 12 clams as before and stored @ -80C. NOTE: 4 hemocyte samples were extremely cloudy. Possibly not hemos? Maybe gonad/d.g.? Gill tissue was collected from 5 clams and stored @ -80C.

@@ -8,12 +8,12 @@ slug: filter-replacement-xserve-server-rack-enclosure
 title: Filter Replacement - Xserve Server Rack Enclosure
 wordpress_id: 2195
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- filter
-- Xserve
+  - filter
+  - Xserve
 ---
 
 Replaced the filters on the rack enclosure that houses the Apple Xserver server blades we have in the lab.

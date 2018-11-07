@@ -8,16 +8,16 @@ slug: rna-isolation-herring-gonadovary-samples-2
 title: RNA Isolation - Herring Gonad/Ovary Samples
 wordpress_id: 814
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gonad
-- ovary
-- Pacific herring
-- RNA
-- RNA isolation
-- TriReagent
+  - gonad
+  - ovary
+  - Pacific herring
+  - RNA
+  - RNA isolation
+  - TriReagent
 ---
 
 From the Seeb Lab. Homogenized entire gonad/ovary samples in 5mL of TriReagent with the sonicator. In essence, based on the manufacturer's recommendation, this means the ratio of tissue:TriReagent was ~2x. Transferred 0.5mL of homogenized gonad/ovary sample to 1.5mL snap cap tubes and added an additional 0.5mL of TriReagent, to adjust the ratio of tissue:TriReagent to ~1x. Samples were then stored @ -80C. These will be further processed tomorrow.

@@ -8,18 +8,18 @@ slug: pcr-full-length-pgs1-cdna-2
 title: PCR - Full-length PGS1 cDNA
 wordpress_id: 306
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS1
-- prostaglandin synthase
+  - cDNA
+  - Crassostrea gigas
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS1
+  - prostaglandin synthase
 ---
 
 Need more PCR product for sequencing. Repeated reaction from 20110825.

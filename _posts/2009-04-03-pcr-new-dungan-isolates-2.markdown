@@ -8,25 +8,25 @@ slug: pcr-new-dungan-isolates-2
 title: PCR - New Dungan isolates
 wordpress_id: 1153
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1.2t
-- 1.5t
-- 11t
-- 12t
-- 13t
-- 17t
-- 19t
-- Dungan isolates
-- gDNA
-- gel
-- gel extraction
-- GoTaq
-- H5
-- PCR
-- Ultrafree-DA
+  - 1.2t
+  - 1.5t
+  - 11t
+  - 12t
+  - 13t
+  - 17t
+  - 19t
+  - Dungan isolates
+  - gDNA
+  - gel
+  - gel extraction
+  - GoTaq
+  - H5
+  - PCR
+  - Ultrafree-DA
 ---
 
 Ran PCR with GoTaq on the new Dungan isolate gDNA from yesterday. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-02.pdf). 53C annealing temp.

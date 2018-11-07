@@ -9,21 +9,21 @@ title: ePCR SOLiD Libraries - Abalone CC, CE pools and yellow perch CT SOLiD lib
   (from 20100408)
 wordpress_id: 670
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Carmel
-- CC
-- CE
-- CT
-- ePCR
-- Haliotis cracherodii
-- library prep
-- SOLiD
-- SOLiD libraries
-- yellow perch
+  - black abalone
+  - Carmel
+  - CC
+  - CE
+  - CT
+  - ePCR
+  - Haliotis cracherodii
+  - library prep
+  - SOLiD
+  - SOLiD libraries
+  - yellow perch
 ---
 
 Emulsion PCR (ePCR) was performed for the above three mentioned SOLiD libraries using 1.5pM (180 pg/uL) of cDNA, according to the ABI "full scale" ePCR protocol. ePCRs were stored @ 4C until ready for the emulsion breaking step.

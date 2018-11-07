@@ -8,17 +8,17 @@ slug: genomic-dna-isolation-geoduck-adductor-muscle-foot-4
 title: Genomic DNA Isolation – Geoduck Adductor Muscle & Foot
 wordpress_id: 1613
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Just need a tad bit more gDNA for the geoduck genome sequencing project with BGI. Currently have ~69 and need a minimum of 73μg.

@@ -8,16 +8,16 @@ slug: reverse-transcription-o-lurida-dnased-rna-controls-and-1hr-heat-shock
 title: Reverse Transcription - O.lurida DNased RNA Controls and 1hr Heat Shock
 wordpress_id: 1483
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNased RNA
-- M-MLV
-- oligo dT
-- olympia oyster
-- Ostrea lurida
-- reverse transcription
+  - DNased RNA
+  - M-MLV
+  - oligo dT
+  - olympia oyster
+  - Ostrea lurida
+  - reverse transcription
 ---
 
 Performed reverse transcription on the Olympia oyster DNased RNA from [the control samples](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507/) and [the 1hr heat shock samples](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506/) of Jake's project. To accommodate the large numbers of anticipated genes to be targeted in subsequent qPCRs, I prepared 100μL reactions (normally, 25μL reactions are prepared) using 250ng of each DNased RNA. A 1:10 dilution of the oligo dT primers (Promega) was prepared to improve pipetting accuracy. All incubations were performed in a thermal cycler without using a heated lid.

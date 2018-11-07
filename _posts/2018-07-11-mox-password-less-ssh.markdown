@@ -8,9 +8,9 @@ slug: mox-password-less-ssh
 title: Mox - Password-less SSH!
 wordpress_id: 3426
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 ---
 
 The high performance computing (HPC) cluster  (called Mox) at Univ. of Washington (UW) frustratingly requires a password when SSH-ing, even when SSH keys are in use. I have a lengthy, unintelligible password that I use for my UW account, so having to type this in any time I want to initiate a new SSH session on Mox is a painful process.

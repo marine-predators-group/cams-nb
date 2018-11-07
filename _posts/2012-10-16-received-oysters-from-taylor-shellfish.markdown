@@ -8,12 +8,12 @@ slug: received-oysters-from-taylor-shellfish
 title: Received oysters from Taylor Shellfish.
 wordpress_id: 216
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- olympia oyster
-- Ostrea lurida
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Photos of oysters are here:

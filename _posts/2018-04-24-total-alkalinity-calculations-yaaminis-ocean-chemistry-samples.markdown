@@ -8,13 +8,13 @@ slug: total-alkalinity-calculations-yaaminis-ocean-chemistry-samples
 title: Total Alkalinity Calculations - Yaamini's Ocean Chemistry Samples
 wordpress_id: 3284
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- TA
-- titrator
-- total alkalinity
+  - TA
+  - titrator
+  - total alkalinity
 ---
 
 I ran a subset of Yaamini's ocean chemistry samples on our T5 Excellence titrator (Mettler Toledo) at the beginning of April. The subset were samples taken from the beginning, middle, and end of the experiment. The rationale for this was to assess whether or not total alkalinity (TA) varied across the experiment. If there was little variation, then there'd likely be no need to run all of the samples. However, should there be temporal differences, then all samples should be processed.

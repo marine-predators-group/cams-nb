@@ -8,20 +8,20 @@ slug: rna-fragmentation-ricks-trout-rbc-samples-prepped-earlier-today-see-below
 title: RNA Fragmentation - Rick's trout RBC samples prepped earlier today (see below)
 wordpress_id: 862
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- library prep
-- NanoDrop1000
-- RBC
-- Ribominus Concentration Module Kit
-- RNA fragmentation
-- RNA quantification
-- SOLiD
-- SOLiD libraries
-- trout
-- Whole Transcriptome Analysis Kit
+  - library prep
+  - NanoDrop1000
+  - RBC
+  - Ribominus Concentration Module Kit
+  - RNA fragmentation
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
+  - trout
+  - Whole Transcriptome Analysis Kit
 ---
 
 Samples were fragmented according to the Whole Transcriptome Kit protocol. Samples were then cleaned up using Invitrogen's Modified RiboMinus Concentration Module, according to protocol. Briefly:

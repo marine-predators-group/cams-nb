@@ -8,23 +8,23 @@ slug: pcr-dungan-isolates
 title: PCR - Dungan Isolates
 wordpress_id: 1225
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BC05Ca-18t/H5
-- Chelex
-- DNA Isolation
-- Dungan isolates
-- gel
-- Immomix
-- PCR
-- VATm-1.2t
-- VNTc-1.5t
-- VNTc-12-C1/G10
-- xCvC-11t
-- xCvC-12t
-- xCvC-17t
+  - BC05Ca-18t/H5
+  - Chelex
+  - DNA Isolation
+  - Dungan isolates
+  - gel
+  - Immomix
+  - PCR
+  - VATm-1.2t
+  - VNTc-1.5t
+  - VNTc-12-C1/G10
+  - xCvC-11t
+  - xCvC-12t
+  - xCvC-17t
 ---
 
 Samples (in Chelex) were vortexed and heated @ 95C for 30mins with periodic vortexing. Tubes were spun max speed @ 4C for 2 mins to pellet Chelex. Set up PCR using Immomix master mix. Anealing temp. = 56C. [PCR set up here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090107-01.jpg).

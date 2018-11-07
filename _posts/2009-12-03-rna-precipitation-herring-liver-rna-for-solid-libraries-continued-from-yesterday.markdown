@@ -8,26 +8,26 @@ slug: rna-precipitation-herring-liver-rna-for-solid-libraries-continued-from-yes
 title: RNA Precipitation - Herring Liver RNA for SOLiD Libraries (continued from yesterday)
 wordpress_id: 772
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- EtOH precipitation
-- library prep
-- liver
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- Pacific herring
-- RNA
-- RNA quantification
-- SOLiD
-- SOLiD libraries
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - EtOH precipitation
+  - library prep
+  - liver
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific herring
+  - RNA
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
 ---
 
 #### RNA Precipitation

@@ -8,16 +8,16 @@ slug: troubleshooting-synology-nas-owl-down-after-update
 title: Troubleshooting - Synology NAS (Owl) Down After Update
 wordpress_id: 2523
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- backup
-- DS1812+
-- owl
-- pics
-- server
-- Synology
+  - backup
+  - DS1812+
+  - owl
+  - pics
+  - server
+  - Synology
 ---
 
 TL;DR - Server didn't recover after firmware update last night. "Repair" is an option listed in the web interface, but I want to confirm with Synology what will happen if/when I click that button...

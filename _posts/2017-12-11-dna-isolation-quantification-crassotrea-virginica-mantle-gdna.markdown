@@ -8,17 +8,17 @@ slug: dna-isolation-quantification-crassotrea-virginica-mantle-gdna
 title: DNA Isolation & Quantification - Crassostrea virginica Mantle gDNA
 wordpress_id: 2953
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- Eastern oyster
-- Qubit 3.0
-- Qubit dsDNA BR
+  - Crassostrea virginica
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - Eastern oyster
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 DNA was isolated from a single adult Eastern oyster (_Crassostrea virginica_) for a pilot project with Qiagen to test their new DNA bisulfite conversion kit. The oyster was obtained yesterday afternoon (20171210) from the [Taylo rShellfish Pioneer Square location](https://www.taylorshellfishfarms.com/location/pioneer-square). The oyster was stored @ 4C O/N.

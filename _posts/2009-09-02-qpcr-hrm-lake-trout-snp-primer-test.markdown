@@ -8,14 +8,14 @@ slug: qpcr-hrm-lake-trout-snp-primer-test
 title: qPCR - HRM Lake Trout SNP primer test
 wordpress_id: 876
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- lake trout
-- LTP01
-- qPCR
-- SNPs
+  - lake trout
+  - LTP01
+  - qPCR
+  - SNPs
 ---
 
 Tested out the plate of Lake Trout primers (LTP01 - forward and reverse combined) for SNP detection. qPCR was performed using Roche 2x HRM M.M. [qPCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090901-01.jpg). Cycling params are as follows:

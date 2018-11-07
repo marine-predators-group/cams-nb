@@ -8,20 +8,20 @@ slug: dna-quality-assessment-geoduck-oly-oly-2sn
 title: DNA Quality Assessment - Geoduck, Oly & Oly 2SN
 wordpress_id: 1773
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
-- Olympia oyster reciprocal transplant
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
+  - Olympia oyster reciprocal transplant
 tags:
-- Fidalgo 2SN
-- gDNA
-- gel
-- geoduck
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - Fidalgo 2SN
+  - gDNA
+  - gel
+  - geoduck
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 I recently ran [gDNA isolated for geoduck and Olympia oyster genome sequencing](http://onsnetwork.org/kubu4/2015/11/04/dna-quantification-quality-assessment-geoduck-oly-gdna/), as well as [gDNA isolated from the Olympia oyster reciprocal transplant experiment](http://onsnetwork.org/kubu4/2015/11/04/dna-quantification-quality-assessment-oly-2sn-gdna/) out on a Bioanalyzer (Agilent) using the DNA 12000 chips. The results from the chip were a bit confusing and difficult to assess exactly what was going on with the DNA.

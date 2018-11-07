@@ -8,19 +8,19 @@ slug: samples-received-hard-clam-samples-from-rutgers-and-mbl
 title: Samples Received - Hard Clam samples from Rutgers and MBL
 wordpress_id: 629
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gill
-- Hard clam
-- hemolymph
-- Marine Biological Laboratories
-- MBL
-- Mercenaria mercenaria
-- RNAlater
-- Rutgers
-- Scott Lindell
+  - gill
+  - Hard clam
+  - hemolymph
+  - Marine Biological Laboratories
+  - MBL
+  - Mercenaria mercenaria
+  - RNAlater
+  - Rutgers
+  - Scott Lindell
 ---
 
 ###  *Important Note: These were received while I was out of lab. This notebook entry was added 20101021*

@@ -8,16 +8,16 @@ slug: bioanalyzer-submission-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Submission - Geoduck Gonad RNA from Histology Blocks
 wordpress_id: 1269
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- bioanalyzer
-- geoduck
-- gonad
-- Panopea generosa
-- paraffin
-- RNA
+  - bioanalyzer
+  - geoduck
+  - gonad
+  - Panopea generosa
+  - paraffin
+  - RNA
 ---
 
 Submitted 3μL (~75ng) of RNA from each of [the two gonad samples isolated from foot tissue embedded in paraffin histology blocks 20150408](http://onsnetwork.org/kubu4/2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks/) (to assess quality of RNA) to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](http://depts.washington.edu/ceeh/members/core-services.html):

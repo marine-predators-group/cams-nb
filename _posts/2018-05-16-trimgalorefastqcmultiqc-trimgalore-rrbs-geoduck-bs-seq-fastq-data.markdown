@@ -8,20 +8,20 @@ slug: trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC – TrimGalore! RRBS Geoduck BS-seq FASTQ data
 wordpress_id: 3348
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bismark
-- BS-seq
-- FASTQC
-- geoduck
-- jupyter notebook
-- multiqc
-- Panopea generosa
-- roadrunner
-- RRBS
-- TrimGalore!
+  - bismark
+  - BS-seq
+  - FASTQC
+  - geoduck
+  - jupyter notebook
+  - multiqc
+  - Panopea generosa
+  - roadrunner
+  - RRBS
+  - TrimGalore!
 ---
 
 * * *

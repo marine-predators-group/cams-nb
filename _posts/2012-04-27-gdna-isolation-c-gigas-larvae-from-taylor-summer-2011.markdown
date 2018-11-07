@@ -8,18 +8,18 @@ slug: gdna-isolation-c-gigas-larvae-from-taylor-summer-2011
 title: gDNA Isolation - C.gigas Larvae from Taylor Summer 2011
 wordpress_id: 253
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- larvae
-- NanoDrop1000
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - larvae
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 Samples that had been split from earlier today (see the RNA Isolation below) were resuspended in 1mL of DNAzol (MRC). 100ug of Proteinase K (Fermentas) was added to each sample. Samples were incubated at RT, O/N on a rotator. On 20120427 samples were pelleted 10mins, 10,000g, and supe transferred to fresh tube. DNA was precipitated with 0.5mL of 100% EtOH, mixed gently and pelleted 5mins, 5000g. Supe was discarded, pellets were washed with 1mL 75% EtOH, re-pelleted at same speed as previous step, supe discarded and pellets were resuspended in NanoPure H2O. Samples were spec'd on the Roberts Lab NanoDrop1000.

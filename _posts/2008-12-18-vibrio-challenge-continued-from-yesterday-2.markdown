@@ -8,14 +8,14 @@ slug: vibrio-challenge-continued-from-yesterday-2
 title: Vibrio challenge CONTINUED (from yesterday)
 wordpress_id: 1347
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial challenge
-- bacterial counts
-- Vibrio exposure
-- Vibrio tubiashii
+  - bacterial challenge
+  - bacterial counts
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 500mL culture was split evenly between two containers containing 3L sterile sea water each. One container also contained 3 large, autoclaved C. gigas. Containers had an air stone to promote circulation. 4 x 1mL samples were collected from each container, pelleted @ 10,00RPM 1min. Supe removed and samples stored @ -80C. Samples will be collected @ t = 0, 0.5, 1.0 and 24 hrs. Containers were covered with aluminum foil to minimize splashing caused the by the air stone.

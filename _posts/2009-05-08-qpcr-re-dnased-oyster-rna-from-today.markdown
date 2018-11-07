@@ -8,18 +8,18 @@ slug: qpcr-re-dnased-oyster-rna-from-today
 title: qPCR - Re-DNased oyster RNA from today
 wordpress_id: 1081
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- Crassostrea gigas
-- DNased RNA
-- Gigas_18s_F/R
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO13
+  - Crassostrea gigas
+  - DNased RNA
+  - Gigas_18s_F/R
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO13
 ---
 
 Performed qPCR on the re-DNased oyster RNA from earlier today with Gigas_18s_F/R primers to verify removal of detectable gDNA in the samples, since the initial qPCR from yesterday indicated residual gDNA was still present in the DNase treated RNA. [Plate layout/set up can be found here.](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090508-03.jpg)

@@ -8,14 +8,14 @@ slug: troubleshooting-pb-jelly-install-on-emu
 title: Troubleshooting - PB Jelly Install on Emu
 wordpress_id: 2936
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- $PATH
-- blasr
-- emu
-- PB Jelly
+  - $PATH
+  - blasr
+  - emu
+  - PB Jelly
 ---
 
 I previously [installed](http://onsnetwork.org/kubu4/2017/10/30/software-installation-pb-jelly-suite-and-blasr-on-emu/) and [ran PB Jelly](http://onsnetwork.org/kubu4/2017/11/14/genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wbgi-scaffold-assembly/). Despite no error messages being output, I noticed something odd during my quick post-assembly stats check: [The PB Jelly numbers were identical to the input reference file](http://onsnetwork.org/kubu4/2017/11/14/assembly-comparison-oly-assemblies-using-quast/). This seemed very strange and made me decide to look a bit deeper in the PB Jelly output files.

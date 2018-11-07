@@ -8,21 +8,21 @@ slug: rna-quantification-ronits-c-gigas-ploidydessication-rna
 title: RNA Quantification - Ronit's C.gigas Ploidy/Dessication RNA
 wordpress_id: 3642
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- ctenidia
-- D11-C
-- diploid
-- Pacific oyster
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNA quantification
-- T10-C
-- triploid
+  - Crassostrea gigas
+  - ctenidia
+  - D11-C
+  - diploid
+  - Pacific oyster
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNA quantification
+  - T10-C
+  - triploid
 ---
 
 Last Friday, Ronit quantified 1:10 dilutions of the RNA [I isolated on 20181003](http://onsnetwork.org/kubu4/2018/10/03/rna-isolation-ronits-c-gigas-diploidtriploid-dessicationheat-shock-ctenidia-tissues/) and the RNA [he finished isolating on 20181011](https://genefish.wordpress.com/2018/10/11/ronits-notebook-rna-extraction-day-2/), but two of the samples (D11-C, T10-C) were still too concentrated.

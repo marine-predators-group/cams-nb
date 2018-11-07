@@ -8,32 +8,32 @@ slug: qpcr-c-gigas-cox1cox2-tissue-distribution
 title: qPCR - C.gigas COX1/COX2 Tissue Distribution
 wordpress_id: 396
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CFX96
-- COX
-- COX1
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Dg
-- digestive gland
-- EF1a
-- expression analysis
-- gill
-- graphs
-- mantle
-- muscle
-- Pacific oyster
-- PGS
-- PGS1
-- PGS2
-- prostaglandin synthase
-- qPCR
-- Vibrio exposure
-- Vibrio vulnificus
+  - CFX96
+  - COX
+  - COX1
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Dg
+  - digestive gland
+  - EF1a
+  - expression analysis
+  - gill
+  - graphs
+  - mantle
+  - muscle
+  - Pacific oyster
+  - PGS
+  - PGS1
+  - PGS2
+  - prostaglandin synthase
+  - qPCR
+  - Vibrio exposure
+  - Vibrio vulnificus
 ---
 
 Performed qPCR using pooled cDNA from 20110311. Pooled 2uL from each of the following samples groups: Dg 3hr C, Gill 1hr C, Gill 1hr E, Mantle 3hr C, and Muscle 3hr C. [ Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110315-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). Primers sets run were:

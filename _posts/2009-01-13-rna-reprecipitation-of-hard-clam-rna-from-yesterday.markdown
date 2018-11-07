@@ -8,16 +8,16 @@ slug: rna-reprecipitation-of-hard-clam-rna-from-yesterday
 title: RNA - Reprecipitation of hard clam RNA from yesterday
 wordpress_id: 1215
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- Hard clam
-- hemocyte
-- hemolymph
-- Mercenaria mercenaria
-- RNA
+  - EtOH precipitation
+  - Hard clam
+  - hemocyte
+  - hemolymph
+  - Mercenaria mercenaria
+  - RNA
 ---
 
 Because of the relatively large size of the pellets vs. the amount of RNA, I think another round of precipitation would be best to help remove additional residual salt carryover. Will precipitate O/N according to Ambion PolyA Purist protocol. RNA pellets were resuspended in 250uL of 0.1%DEPC-H2O and precipitated O/N @ -20C.

@@ -9,15 +9,15 @@ title: Data Management - Olympia Oyster Small Insert Library Genome Assembly fro
   BGI
 wordpress_id: 2114
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Received another set of _Ostrea lurida_ genome assembly data from BGI. In this case, it's data assembled from the small insert libraries they created for this project.

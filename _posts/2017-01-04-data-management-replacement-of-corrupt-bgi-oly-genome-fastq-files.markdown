@@ -8,13 +8,13 @@ slug: data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files
 title: Data Management - Replacement of Corrupt BGI Oly Genome FASTQ Files
 wordpress_id: 2442
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- jupyter notebook
-- md5
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - jupyter notebook
+  - md5
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 [Previously, Sean and Steven identified two potentially corrupt FASTQ files](http://onsnetwork.org/kubu4/2016/11/17/data-management-tracking-o-lurida-fastq-file-corruption/). I contacted BGI about getting replacement files and they informed me that all versions of the FASTQ files they have delivered on three separate occasions are all the same file (despite having different file names). As such, I could use one of these versions to replace the corrupt FASTQ files. So, that's what I did!

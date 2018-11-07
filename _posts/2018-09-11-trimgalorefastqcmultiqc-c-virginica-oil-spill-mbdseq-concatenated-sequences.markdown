@@ -8,17 +8,17 @@ slug: trimgalorefastqcmultiqc-c-virginica-oil-spill-mbdseq-concatenated-sequence
 title: TrimGalore/FastQC/MultiQC - C.virginica Oil Spill MBDseq Concatenated Sequences
 wordpress_id: 3552
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- jupyter notebook
-- multiqc
-- TrimGalore!
-- trimming
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - jupyter notebook
+  - multiqc
+  - TrimGalore!
+  - trimming
 ---
 
 [Previously concatenated and analyzed our _Crassostrea virginica_ oil spill MBDseq data with FastQC](http://onsnetwork.org/kubu4/2018/09/10/sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc/).

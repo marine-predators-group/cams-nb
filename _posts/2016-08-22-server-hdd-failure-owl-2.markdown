@@ -8,15 +8,15 @@ slug: server-hdd-failure-owl-2
 title: Server HDD Failure – Owl
 wordpress_id: 2263
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- hard drive
-- HDD
-- owl
-- server
-- Synology
+  - hard drive
+  - HDD
+  - owl
+  - server
+  - Synology
 ---
 
 Noticed that Owl (Synology DS1812+ server) was beeping.

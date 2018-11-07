@@ -8,15 +8,15 @@ slug: sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing
 title: Sample Submission - Ostrea lurida gDNA for PacBio Sequencing
 wordpress_id: 2409
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
-- Samples Submitted
+  - Olympia Oyster Genome Sequencing
+  - Samples Submitted
 tags:
-- gDNA
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 Submitted 10μg (30.7μL) of the O.lurida [gDNA I isolated on 20161214](http://onsnetwork.org/kubu4/2016/12/14/dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing/) to [the UW PacBio facility](https://pacbio.gs.washington.edu/) - Order #450.

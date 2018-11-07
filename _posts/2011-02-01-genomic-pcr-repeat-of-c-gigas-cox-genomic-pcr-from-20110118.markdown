@@ -8,23 +8,23 @@ slug: genomic-pcr-repeat-of-c-gigas-cox-genomic-pcr-from-20110118
 title: Genomic PCR - Repeat of C.gigas COX genomic PCR from 20110118
 wordpress_id: 488
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- gel extraction
-- Pacific oyster
-- PCR
-- PGS
-- prostaglandin synthase
-- 'SR ID: 1148'
-- 'SR ID: 1149'
-- 'SR ID: 1151'
-- Ultrafree-DA
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - gel extraction
+  - Pacific oyster
+  - PCR
+  - PGS
+  - prostaglandin synthase
+  - 'SR ID: 1148'
+  - 'SR ID: 1149'
+  - 'SR ID: 1151'
+  - Ultrafree-DA
 ---
 
 This was repeated to generate more PCR product for sequencing purposes. [PCR master mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110131.jpg). Master mixes 04 and 05 (MM04 and MM05) were repeated to gain more PCR product from the faint 550bp & 1500bp bands(MM04) and 5000bp band (MM05).

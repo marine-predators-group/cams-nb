@@ -8,19 +8,19 @@ slug: qpcr-c-gigas-bbdh-cdna-for-props
 title: qPCR - C.gigas BB/DH cDNA for PROPS
 wordpress_id: 398
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- cDNA
-- CFX96
-- Crassostrea gigas
-- DH
-- HMGP
-- Pacific oyster
-- qPCR
-- TIMP3
+  - BB
+  - cDNA
+  - CFX96
+  - Crassostrea gigas
+  - DH
+  - HMGP
+  - Pacific oyster
+  - qPCR
+  - TIMP3
 ---
 
 Performed qPCR using cDNA from 20110311. This was performed for additional reps for TIMP3(BB) (SR IDs:1067 & 1106) and HMGP (SR IDs:359 & 360). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110314-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results).

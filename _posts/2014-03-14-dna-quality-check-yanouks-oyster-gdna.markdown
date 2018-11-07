@@ -8,17 +8,17 @@ slug: dna-quality-check-yanouks-oyster-gdna
 title: DNA Quality Check - Yanouk's Oyster gDNA
 wordpress_id: 166
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BS-seq
-- Crassostrea gigas
-- gDNA
-- gel
-- Pacific oyster
-- troubleshooting
-- Yanouk
+  - BS-seq
+  - Crassostrea gigas
+  - gDNA
+  - gel
+  - Pacific oyster
+  - troubleshooting
+  - Yanouk
 ---
 
 We've had some Illumina sequencing issues with Yanouk's samples, so I ran the samples out on a 0.8% agarose gel to evaluate the levels of degradation. Loaded 2uL of each sample. Did not load equal quantities of gDNA, due to the lack of available gDNA in the samples we submitted for Illumina sequencing. Added 2uL of H2O to samples 37 & 38 in hopes of having sufficient DNA for visualization on the gel.

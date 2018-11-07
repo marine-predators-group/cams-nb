@@ -8,16 +8,16 @@ slug: qpcr-repeat-of-qpcr-from-earlier-today
 title: qPCR - Repeat of qPCR from Earlier Today
 wordpress_id: 259
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- CFX96
-- DNA
-- qPCR
-- Vibrio tubiashii
-- water filter
+  - 16s
+  - CFX96
+  - DNA
+  - qPCR
+  - Vibrio tubiashii
+  - water filter
 ---
 
 Repeated exactly what was done earlier today due to apparent contamination in negative controls.

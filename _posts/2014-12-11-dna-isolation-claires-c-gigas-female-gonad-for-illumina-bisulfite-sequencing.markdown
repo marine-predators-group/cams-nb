@@ -8,17 +8,17 @@ slug: dna-isolation-claires-c-gigas-female-gonad-for-illumina-bisulfite-sequenci
 title: DNA Isolation - Claire's C.gigas Female Gonad for Illumina Bisulfite Sequencing
 wordpress_id: 176
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- BS-seq
-- Crassostrea gigas
-- DNA Isolation
-- DNazol
-- female
-- gonad
-- Pacific oyster
+  - BS-seq
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNazol
+  - female
+  - gonad
+  - Pacific oyster
 ---
 
 Due to poor "tag counts" from the initial sequencing (DATE) and the re-sequencing (20131127) of this sample, the HTGU facility has concluded that the library is probably at fault. They will make a new library and do a quality control run on the new library. However, they have insufficient gDNA left to make a new library.

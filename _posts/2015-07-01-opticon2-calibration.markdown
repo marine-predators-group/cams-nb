@@ -8,16 +8,16 @@ slug: opticon2-calibration
 title: Opticon2 Calibration
 wordpress_id: 1501
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- FAM
-- Opticon
-- Opticon2
-- qPCR
-- troubleshooting
+  - calibration
+  - FAM
+  - Opticon
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 Jake and Steven recently noticed localized "hot spots" on most of Jake's recent qPCRs, where higher levels of fluorescence were consistently showing up in interior portions of the plates than the outer portion of the plates.

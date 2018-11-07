@@ -8,22 +8,22 @@ slug: bioanalyzer-total-mrna-and-post-fragmentation-solid-libraries-abalone-pool
 title: Bioanalyzer Total, mRNA and post-fragmentation SOLiD Libraries - Abalone pools
 wordpress_id: 682
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- black abalone
-- CC Carmel
-- CE
-- electropherogram
-- Haliotis cracherodii
-- library prep
-- mRNA
-- RNA Pico
-- SOLiD
-- SOLiD libraries
-- total RNA
+  - bioanalyzer
+  - black abalone
+  - CC Carmel
+  - CE
+  - electropherogram
+  - Haliotis cracherodii
+  - library prep
+  - mRNA
+  - RNA Pico
+  - SOLiD
+  - SOLiD libraries
+  - total RNA
 ---
 
 0.5uL of fragmented mRNA from each library (combined with 0.5uL) was run on Agilent Bioanalyzer 2100 using RNA Pico chips/reagents according to Agilent's protocol.

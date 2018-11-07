@@ -8,14 +8,14 @@ slug: methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna-2
 title: Methylated DNA Enrichment (MBD) - LSU C.virginica Oil Spill gDNA
 wordpress_id: 73
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- MBD enrichment
-- MBD-Seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - MBD enrichment
+  - MBD-Seq
 ---
 
 Enrichment was performed using the MethylMiner Methylated DNA Enrichment Kit (Invitrogen) according to the manufacturer's protocol with the following changes:

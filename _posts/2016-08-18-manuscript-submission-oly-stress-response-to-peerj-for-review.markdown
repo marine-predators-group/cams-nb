@@ -8,14 +8,14 @@ slug: manuscript-submission-oly-stress-response-to-peerj-for-review
 title: Manuscript Submission - Oly Stress Response to PeerJ for Review
 wordpress_id: 2256
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- manuscript
-- olympia oyster
-- Ostrea lurida
-- PeerJ
+  - manuscript
+  - olympia oyster
+  - Ostrea lurida
+  - PeerJ
 ---
 
 Submitted the following manuscript to PeerJ for peer review:

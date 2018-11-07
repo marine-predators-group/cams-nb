@@ -8,14 +8,14 @@ slug: mbd-enrichment-crassostrea-virginica-sheared-dna-day-1
 title: MBD Enrichment - Crassostrea virginica Sheared DNA Day 1
 wordpress_id: 2996
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- MBD enrichment
-- MethylMiner Methylated DNA Enrichment Kit
+  - Crassostrea virginica
+  - Eastern oyster
+  - MBD enrichment
+  - MethylMiner Methylated DNA Enrichment Kit
 ---
 
 As part of a project with Qiagen to have them try out some of our DNA with their newest DNA bisulfite conversion kit, I previously [isolated DNA from _Crassotrea virginica_ (Eastern oyster)](http://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/) and [sheared to ~420bp](http://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/).

@@ -8,12 +8,12 @@ slug: package-received-package-from-jerome-lapeyre-from-lsu
 title: Package - Received Package from Jerome LaPeyre from LSU
 wordpress_id: 110
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- Eastern oyster
+  - Crassostrea virginica
+  - Eastern oyster
 ---
 
 Oyster (_C.virginica_) gill samples exposed to "no oil" and "highest level of oil." Samples were stored in Rack #2 in the -80C. Images of the box label and included paperwork below.

@@ -8,20 +8,20 @@ slug: bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data
 title: Bioinformatics - Trimmomatic/FASTQC on C.gigas Larvae OA NGS Data
 wordpress_id: 1322
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bioinformatics
-- BS-seq
-- Crassostrea gigas
-- FASTQC
-- graphs
-- ipython notebook
-- jupyter notebook
-- Pacific oyster
-- Trimmomatic
-- troubleshooting
+  - bioinformatics
+  - BS-seq
+  - Crassostrea gigas
+  - FASTQC
+  - graphs
+  - ipython notebook
+  - jupyter notebook
+  - Pacific oyster
+  - Trimmomatic
+  - troubleshooting
 ---
 
 In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](http://onsnetwork.org/kubu4/2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data/), the first 39 bases still showed inconsistent quality:

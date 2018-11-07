@@ -8,18 +8,18 @@ slug: data-received-bisulfite-treated-illumina-sequencing-from-genewiz
 title: Data Received - Bisulfite-treated Illumina Sequencing from Genewiz
 wordpress_id: 1959
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- BS-seq
-- Crassostrea gigas
-- Katie Lotterhos
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- wget
+  - BS-seq
+  - Crassostrea gigas
+  - Katie Lotterhos
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - wget
 ---
 
 Received notice the sequencing data was ready from Genewiz for the samples submitted [20151222](http://onsnetwork.org/kubu4/2015/12/22/sample-submission-bs-seq-library-pool-to-genewiz/).

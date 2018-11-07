@@ -8,21 +8,21 @@ slug: cloning-purified-coxpgs-qpcr-fragment-from-20111006
 title: Cloning - Purified COX/PGS "qPCR Fragment" from 20111006
 wordpress_id: 294
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial transormation
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- kanamycin
-- Pacific oyster
-- PGS
-- prostaglandin synthase
-- TOP10 cells
-- TOPO TA Cloning
-- X-gal
+  - bacterial transormation
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - kanamycin
+  - Pacific oyster
+  - PGS
+  - prostaglandin synthase
+  - TOP10 cells
+  - TOPO TA Cloning
+  - X-gal
 ---
 
 Cloned the purified "qPCR Fragment" from 20111006 using the TOPO TA Cloning Kit (Invitrogen). Performed a half reaction (total volume = 3uL), using 1uL of purified PCR product. Incubated at RT for 20mins and then placed reaction on ice. Transformed chemically competent TOP 10 cells (Invitrogen) and heat shocked at 42C for 30s. Added 250uL of RT S.O.C. medium and incubated at 37C, 200RPM. Plated cells on pre-warmed Kan50+X-Gal plates (plates from 20110726; X-Gal added ~30mins before plating cells). Incubated plates O/N, 37C.

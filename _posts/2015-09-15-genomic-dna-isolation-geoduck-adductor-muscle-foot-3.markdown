@@ -8,17 +8,17 @@ slug: genomic-dna-isolation-geoduck-adductor-muscle-foot-3
 title: Genomic DNA Isolation – Geoduck Adductor Muscle & Foot
 wordpress_id: 1598
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the DNAzol (Molecular Research Center) according to the manufacturer's protocol, with the following adjustments:

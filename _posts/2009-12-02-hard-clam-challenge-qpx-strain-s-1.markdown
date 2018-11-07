@@ -8,18 +8,18 @@ slug: hard-clam-challenge-qpx-strain-s-1
 title: Hard Clam Challenge - QPX Strain S-1
 wordpress_id: 780
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BX
-- FL
-- Hard clam
-- Mercenaria mercenaria
-- QPX
-- QPX challenge
-- quahog parasite x
-- S-1
+  - BX
+  - FL
+  - Hard clam
+  - Mercenaria mercenaria
+  - QPX
+  - QPX challenge
+  - quahog parasite x
+  - S-1
 ---
 
 Challenged 2 FL hard clams and 1 BX hard clam with ~100uL of unwashed, 11 day old cultures. 2 FL hard clams and 1 BX hard clam received ~100uL of QPX media, as controls. Injections were done through the hinge using 20G1 needles and aimed for the pericardial cavity. After injections, clams were left out of water for 1.5hrs, then return to small containers of sea water. They will be incubated for 24hrs.

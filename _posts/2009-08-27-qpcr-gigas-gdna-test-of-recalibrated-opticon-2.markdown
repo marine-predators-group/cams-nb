@@ -8,18 +8,18 @@ slug: qpcr-gigas-gdna-test-of-recalibrated-opticon-2
 title: qPCR - Gigas gDNA test of recalibrated Opticon 2
 wordpress_id: 878
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- Crassostrea gigas
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO 13
-- troubleshooting
+  - calibration
+  - Crassostrea gigas
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO 13
+  - troubleshooting
 ---
 
 Master mix containing Gigas gDNA will be used to verify that the recalibration did work. [qPCR setup/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090827-01.jpg). I've made a master mix using Cg_HSP70_F/R primers designed by Mac. gDNA is BB #12 (0.445ug/uL) from [20090519](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090519). The gDNA will be added to the master mix.

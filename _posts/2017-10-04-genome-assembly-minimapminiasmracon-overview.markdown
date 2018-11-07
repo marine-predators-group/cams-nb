@@ -8,14 +8,14 @@ slug: genome-assembly-minimapminiasmracon-overview
 title: Genome Assembly - minimap/miniasm/racon Overview
 wordpress_id: 2744
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- miniasm
-- minimap
-- racon
+  - assembly
+  - miniasm
+  - minimap
+  - racon
 ---
 
 Previously, I used the following three tools to do quick assembly of our Olympia oyster PacBio data:

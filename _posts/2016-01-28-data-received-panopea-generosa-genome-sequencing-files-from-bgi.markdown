@@ -8,15 +8,15 @@ slug: data-received-panopea-generosa-genome-sequencing-files-from-bgi
 title: Data Received - Panopea generosa genome sequencing files from BGI
 wordpress_id: 1992
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- BGI
-- geoduck
-- ipython notebook
-- jupyter notebook
-- Panopea generosa
+  - BGI
+  - geoduck
+  - ipython notebook
+  - jupyter notebook
+  - Panopea generosa
 ---
 
 Downloaded data from the BGI project portal to our server, Owl, using the Synology Download Station. Although the BGI portal is aesthetically nice, it's set up poorly for bulk downloads and took a few tries to download all of the files.

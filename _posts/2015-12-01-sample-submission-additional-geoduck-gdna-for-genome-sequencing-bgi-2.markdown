@@ -8,14 +8,14 @@ slug: sample-submission-additional-geoduck-gdna-for-genome-sequencing-bgi-2
 title: Sample Submission - Additional Geoduck gDNA for Genome Sequencing @ BGI
 wordpress_id: 1860
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- '1512021004'
-- gDNA
-- geoduck
-- Panopea generosa
+  - '1512021004'
+  - gDNA
+  - geoduck
+  - Panopea generosa
 ---
 
 Yep, BGI still needs more gDNA for the geoduck genome sequencing project. Samples have been quantified via dye-based fluorescence, as opposed to the NanoDrop, so our quantities should be more accurate and in-line with what BGI will also find.

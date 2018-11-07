@@ -8,15 +8,15 @@ slug: methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna
 title: Gel - Sheared LSU C.virginica Oil Spill gDNA (from yesterday)
 wordpress_id: 69
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- DNA Shearing
-- Eastern oyster
-- gel
-- MBD-Seq
+  - Crassostrea virginica
+  - DNA Shearing
+  - Eastern oyster
+  - gel
+  - MBD-Seq
 ---
 
 Ran ~250ng of sheared C.virginica gDNA from yesterday's shearing.

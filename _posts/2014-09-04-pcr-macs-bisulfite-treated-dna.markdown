@@ -8,15 +8,15 @@ slug: pcr-macs-bisulfite-treated-dna
 title: PCR - Mac's Bisulfite-Treated DNA
 wordpress_id: 116
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bisulfite PCR
-- Crassostrea gigas
-- gel
-- PCR
-- PyroMark
+  - bisulfite PCR
+  - Crassostrea gigas
+  - gel
+  - PCR
+  - PyroMark
 ---
 
 Realized that the PCR performed on 20140828 used the incorrect forward primer! As such, am repeating as before, but with the correct forward primer:

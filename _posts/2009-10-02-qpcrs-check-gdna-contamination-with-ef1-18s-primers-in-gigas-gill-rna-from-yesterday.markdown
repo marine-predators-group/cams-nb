@@ -9,19 +9,19 @@ title: qPCRs - Check gDNA contamination with EF1 & 18s primers in gigas gill RNA
   yesterday)
 wordpress_id: 848
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- Crassostrea gigas
-- EF1
-- gill
-- Immomix
-- Pacific oyster
-- qPCR
-- RNA
-- SYTO 13
+  - 18s
+  - Crassostrea gigas
+  - EF1
+  - gill
+  - Immomix
+  - Pacific oyster
+  - qPCR
+  - RNA
+  - SYTO 13
 ---
 
 Ran qPCR on RNA to evaluate gDNA contamination in the samples. Dilutions of the RNA were made at 1:100, which would be the equivalent amount when making cDNA (1:25) and diluting the cDNA (1:4) prior to using in a qPCR rxn. [qPCR set up is here with cycling params](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091001-01.jpg). [Plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091001-02.jpg).

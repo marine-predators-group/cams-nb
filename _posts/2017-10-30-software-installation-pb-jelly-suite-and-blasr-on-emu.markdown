@@ -8,14 +8,14 @@ slug: software-installation-pb-jelly-suite-and-blasr-on-emu
 title: Software Installation - PB Jelly Suite and Blasr on Emu
 wordpress_id: 2824
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- blasr
-- emu
-- PacBio
-- pbjelly
+  - blasr
+  - emu
+  - PacBio
+  - pbjelly
 ---
 
 I followed along with what [Sean previously did when installing on Emu](https://genefish.wordpress.com/2017/04/06/pbjelly-pt-2/), but it appears he didn't install it in the shared location to make it accessible to all users. So, I'm installing it in the `/home/shared/` directory.

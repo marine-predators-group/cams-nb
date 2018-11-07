@@ -8,18 +8,18 @@ slug: solid-epcrs-herring-cdna-libraries
 title: SOLiD ePCRs - Herring cDNA libraries
 wordpress_id: 706
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 4LHTOG09
-- 6LHPWS09
-- cDNA
-- ePCR
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 4LHTOG09
+  - 6LHPWS09
+  - cDNA
+  - ePCR
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 ### Herring fragmented cDNA library: 4LHTOG09

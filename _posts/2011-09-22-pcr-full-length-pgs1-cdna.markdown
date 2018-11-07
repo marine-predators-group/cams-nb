@@ -8,20 +8,20 @@ slug: pcr-full-length-pgs1-cdna
 title: PCR - Full-length PGS1 cDNA
 wordpress_id: 304
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- gel
-- gel extraction
-- Pacific oyster
-- PCR
-- PGS
-- PGS1
-- prostaglandin synthase
-- Ultrafree-DA
+  - cDNA
+  - Crassostrea gigas
+  - gel
+  - gel extraction
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS1
+  - prostaglandin synthase
+  - Ultrafree-DA
 ---
 
 Still have insufficient quantities of DNA for sequencing. Master mix calcs and cycling params are here. Additionally, used some of the purified PCR product as template in one of the reactions, just for comparison purposes. cDNA template was pooled cDNA from 20110311 from various C.gigas tissues. Also, increased the amount of template 4-fold in an attempt to obtain higher yields of PCR products for sequencing.

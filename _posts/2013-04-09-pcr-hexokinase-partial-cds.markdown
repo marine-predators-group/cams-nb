@@ -8,15 +8,15 @@ slug: pcr-hexokinase-partial-cds
 title: PCR - Hexokinase Partial CDS
 wordpress_id: 194
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gel
-- hexokinase
-- Pacific oyster
-- PCR
+  - Crassostrea gigas
+  - gel
+  - hexokinase
+  - Pacific oyster
+  - PCR
 ---
 
 Performed PCR using the primers CG_HK_CDS_2132-2158 (SRID: 1521) and Cg_Hk_CDS_3'_no_stop (SRID: 1519) on pooled C.gigas cDNA (from DATE).

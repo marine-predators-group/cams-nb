@@ -8,17 +8,17 @@ slug: genome-annotation-olympia-oyster-genome-complete-brief-note
 title: Genome Annotation – Olympia oyster genome complete - brief note
 wordpress_id: 3481
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- Atmosphere
-- Cyverse
-- JetStream
-- olympia oyster
-- Ostrea lurida
-- wq-maker
-- Xsede
+  - Atmosphere
+  - Cyverse
+  - JetStream
+  - olympia oyster
+  - Ostrea lurida
+  - wq-maker
+  - Xsede
 ---
 
 Whoa! [Genome annotation using Jetstream/WQ-MAKER that I started this morning](http://onsnetwork.org/kubu4/2018/08/07/genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream/) is complete!! Only 7hrs!

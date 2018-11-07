@@ -8,22 +8,22 @@ slug: pcr-dungan-isolates-2
 title: PCR - Dungan Isolates
 wordpress_id: 1227
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BC05Ca-18t/H5
-- Chelex
-- DNA Isolation
-- Dungan isolates
-- gel
-- PCR
-- VATm-1.2t
-- VNTc-1.5t
-- VNTc-12-C1/G10
-- xCvC-11t
-- xCvC-12t
-- xCvC-17t
+  - BC05Ca-18t/H5
+  - Chelex
+  - DNA Isolation
+  - Dungan isolates
+  - gel
+  - PCR
+  - VATm-1.2t
+  - VNTc-1.5t
+  - VNTc-12-C1/G10
+  - xCvC-11t
+  - xCvC-12t
+  - xCvC-17t
 ---
 
 All samples , except xCVC-11t, are already in Chelex. For xCvC-11t, pipetted a shunk of cells/tissue from source tube. Volume of liquid (EtOH) was ~75uL. Added this to screw cap tube containing 300uL of 10% Chelex solution. Vortexed and incubated @ 95C for 30mins. Vortexed and incubated other samples at 95C for 5mins. Set up PCR with AmpliTaq. Anneal temp. = 53C. [PCR set up here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090107-01.jpg).

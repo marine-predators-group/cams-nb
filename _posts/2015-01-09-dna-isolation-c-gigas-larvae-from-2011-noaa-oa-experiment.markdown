@@ -8,17 +8,17 @@ slug: dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment
 title: DNA Isolation - C.gigas larvae from 2011 NOAA OA Experiment
 wordpress_id: 9
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNA Shearing
-- larvae
-- OA
-- ocean acidification
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNA Shearing
+  - larvae
+  - OA
+  - ocean acidification
 ---
 
 DNA was isolated from the following samples:

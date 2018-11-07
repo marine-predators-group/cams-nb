@@ -8,20 +8,20 @@ slug: ribosomal-depleted-rna-ricks-trout-rbc-samples-for-the-solid-wtk
 title: Ribosomal-depleted RNA - Rick's trout RBC samples for the SOLiD WTK
 wordpress_id: 856
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- library prep
-- mRNA
-- NanoDrop1000
-- RBC
-- Ribominus Concentration Module Kit
-- RNA
-- RNA quantification
-- SOLiD
-- SOLiD libraries
-- trout
+  - library prep
+  - mRNA
+  - NanoDrop1000
+  - RBC
+  - Ribominus Concentration Module Kit
+  - RNA
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
+  - trout
 ---
 
 Prior to starting the procedure, 0.5uL of total RNA was removed from each sample (control, polyI:C), diluted to ~5ng/uL. 1.5uL of each of these was transferred to a 0.5mL snap cap tube for running on the PicoChip on the Bioanalyzer. These were stored @ -80C in the "Bioanalyzer Samples" box.

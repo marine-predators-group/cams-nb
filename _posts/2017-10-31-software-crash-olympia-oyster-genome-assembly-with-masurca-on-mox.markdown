@@ -8,16 +8,16 @@ slug: software-crash-olympia-oyster-genome-assembly-with-masurca-on-mox
 title: Software Crash - Olympia oyster genome assembly with Masurca on Mox
 wordpress_id: 2853
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- assembly
-- hyak
-- MaSuRCA
-- mox
-- olympia oyster
-- Ostrea lurida
+  - assembly
+  - hyak
+  - MaSuRCA
+  - mox
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Ah, the joys of bioinformatics. I just received an email from Mox indicating that [the Masurca assembly I started 11 DAYS AGO (!!)](http://onsnetwork.org/kubu4/2017/10/19/genome-assembly-olympia-oyster-illumina-pacbio-reads-using-masurca/) crashed.

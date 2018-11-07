@@ -8,20 +8,20 @@ slug: qpcr-tims-adult-gigas-challenge-cdna-from-today
 title: qPCR - Tim's adult gigas challenge cDNA (from today)
 wordpress_id: 830
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- EF1
-- expression analysis
-- graphs
-- IL17
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
-- Vibrio tubiashii
+  - cDNA
+  - EF1
+  - expression analysis
+  - graphs
+  - IL17
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
+  - Vibrio tubiashii
 ---
 
 Set up qPCR with EF1 primers and IL17 Internal primers. [Plate layout/setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091009-03.jpg). Note: gDNA sample used as a "positive" control will NOT amplify with the EF1 primers.

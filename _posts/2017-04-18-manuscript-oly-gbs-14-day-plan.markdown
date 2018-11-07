@@ -8,17 +8,17 @@ slug: manuscript-oly-gbs-14-day-plan
 title: Manuscript - Oly GBS 14 Day Plan
 wordpress_id: 2547
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- Authorea
-- GitHub
-- manuscript
-- olympia oyster
-- OSF
-- Ostrea lurida
-- Overleaf
+  - Authorea
+  - GitHub
+  - manuscript
+  - olympia oyster
+  - OSF
+  - Ostrea lurida
+  - Overleaf
 ---
 
 For [Pub-a-thon 2017](https://github.com/sr320/LabDocs/wiki/Pub-a-thon-2017), Steven has asked us to put together a 14 day plan for our manuscripts.

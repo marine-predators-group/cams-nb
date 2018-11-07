@@ -8,14 +8,14 @@ slug: medip-sbwb-fragmented-gdna-continued-from-yesterday
 title: MeDIP - SB/WB Fragmented gDNA (continued from yesterday)
 wordpress_id: 619
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- EtOH precipitation
-- MeDIP
-- Pacific oyster
+  - Crassostrea gigas
+  - EtOH precipitation
+  - MeDIP
+  - Pacific oyster
 ---
 
 Continued MeDIP process from yesterday. Protein A/G beads were pelleted XXXXXXXXX, supe transferred to clean tube. Beads were washed 3x in the following fashion, each wash saved to retain unmethylated DNA:

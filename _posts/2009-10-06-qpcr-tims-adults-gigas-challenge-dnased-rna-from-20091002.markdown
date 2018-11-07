@@ -8,18 +8,18 @@ slug: qpcr-tims-adults-gigas-challenge-dnased-rna-from-20091002
 title: qPCR - Tim's adults gigas challenge DNased RNA (from 20091002)
 wordpress_id: 842
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- Crassostrea gigas
-- DNased RNA
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO 13
+  - 18s
+  - Crassostrea gigas
+  - DNased RNA
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO 13
 ---
 
 Performed qPCR using q18s primers on DNased RNA (1:100 dilution to match final concentration of template after making cDNA). [qPCR set up and plate layout are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091005-01.jpg).

@@ -8,24 +8,24 @@ slug: qpcrs-macs-bbdh-cdna-from-20091223
 title: qPCRs - Mac's BB/DH cDNA from 20091223
 wordpress_id: 708
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- CALL
-- cDNA
-- CP17A
-- Crassostrea gigas
-- DH
-- EF1
-- GNRR2
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SPI
-- SYTO 13
+  - BB
+  - CALL
+  - cDNA
+  - CP17A
+  - Crassostrea gigas
+  - DH
+  - EF1
+  - GNRR2
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SPI
+  - SYTO 13
 ---
 
 GNRR2 and CALL primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-03.jpg).

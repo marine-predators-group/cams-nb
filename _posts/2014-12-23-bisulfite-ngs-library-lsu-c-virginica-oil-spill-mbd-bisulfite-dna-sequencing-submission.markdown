@@ -9,15 +9,15 @@ title: Bisulfite NGS Library - LSU C.virginica Oil Spill MBD Bisulfite DNA Seque
   Submission
 wordpress_id: 59
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- DNA Quantification
-- Eastern oyster
-- MBD-Seq
-- NGS sequencing
+  - Crassostrea virginica
+  - DNA Quantification
+  - Eastern oyster
+  - MBD-Seq
+  - NGS sequencing
 ---
 
 Combined the following libraries in equal quantities (17ng each) to create a single, multiplexed sample for sequencing (LSU_Oil_01):

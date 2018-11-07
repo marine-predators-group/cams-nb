@@ -8,14 +8,14 @@ slug: pcr-macs-bisulfite-treated-dna-2
 title: PCR - Mac's Bisulfite-Treated DNA
 wordpress_id: 118
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bisulfite PCR
-- Crassostrea gigas
-- gel
-- PCR
+  - bisulfite PCR
+  - Crassostrea gigas
+  - gel
+  - PCR
 ---
 
 Per Mac's request, ran a PCR on a set of bisulfite-treated DNA (in her gDNA 2014 box in small -20C):

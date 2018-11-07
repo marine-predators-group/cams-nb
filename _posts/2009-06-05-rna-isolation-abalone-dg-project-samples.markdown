@@ -8,18 +8,18 @@ slug: rna-isolation-abalone-dg-project-samples
 title: RNA Isolation - Abalone Dg Project Samples
 wordpress_id: 1045
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 08:4
-- black abalone
-- Dg
-- digestive gland
-- Haliotis cracherodii
-- NanoDrop1000
-- RNA isolation
-- RNA PowerSoil Kit
+  - 08:4
+  - black abalone
+  - Dg
+  - digestive gland
+  - Haliotis cracherodii
+  - NanoDrop1000
+  - RNA isolation
+  - RNA PowerSoil Kit
 ---
 
 RNA was isolated from the following samples using the MoBio RNA PowerSoil Kit according to protocol:

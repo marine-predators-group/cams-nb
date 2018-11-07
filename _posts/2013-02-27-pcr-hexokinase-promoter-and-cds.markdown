@@ -8,14 +8,14 @@ slug: pcr-hexokinase-promoter-and-cds
 title: PCR - Hexokinase Promoter and CDS
 wordpress_id: 200
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gel
-- Pacific oyster
-- PCR
+  - Crassostrea gigas
+  - gel
+  - Pacific oyster
+  - PCR
 ---
 
 Performed PCR to amplify the C.gigas hexokinase (ACCESSION#) promoter region (-2059bp) and the CDS without the stop codon. Elimination of the stop codon allows for subsequent cloning into the pBAD-TOPO expression vector, which will incorporate the V5 epitope tag sequence. This tag will be used to distinguish between endogenous hexokinase expression and expression generated from our hexokinase construct.

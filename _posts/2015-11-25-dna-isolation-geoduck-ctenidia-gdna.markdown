@@ -8,21 +8,21 @@ slug: dna-isolation-geoduck-ctenidia-gdna
 title: DNA Isolation - Geoduck Ctenidia gDNA
 wordpress_id: 1835
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- chloroform
-- ctenidia
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
-- Qubit 3.0
-- Qubit dsDNA BR
+  - chloroform
+  - ctenidia
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 Isolated additional gDNA for the genome sequencing. In an attempt to obtain better yields, I used ctenidia (instead of adductor muscle). Additionally, to try to improve the quality (260/280 & 260/230 ratios) of the gDNA, I added a chloroform step after the initial tissue homogenization.

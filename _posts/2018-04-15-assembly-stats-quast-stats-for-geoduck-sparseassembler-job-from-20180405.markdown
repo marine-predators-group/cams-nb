@@ -8,13 +8,13 @@ slug: assembly-stats-quast-stats-for-geoduck-sparseassembler-job-from-20180405
 title: Assembly Stats - Quast Stats for Geoduck SparseAssembler Job from 20180405
 wordpress_id: 3264
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- Panopea generosa
-- QUAST
+  - geoduck
+  - Panopea generosa
+  - QUAST
 ---
 
 [The geoduck genome assembly started 20180405](http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/) completed this weekend.

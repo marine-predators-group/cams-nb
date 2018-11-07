@@ -9,16 +9,16 @@ title: qPCR - New 16s primers for V.tubiashii Control vs. Autoclaved gigas sampl
   (see 20090224)
 wordpress_id: 1177
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- Opticon2
-- qPCR
-- SensiMix
-- SYBR
-- Vibrio tubiashii
+  - 16s
+  - Opticon2
+  - qPCR
+  - SensiMix
+  - SYBR
+  - Vibrio tubiashii
 ---
 
 qPCR was performed using SensiMix/SYBR "kit" with DNAsed RNA samples from [20090224](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090224). This qPCR used the new V.tub_16s_V3 primers in hopes of getting better amplification; both in signal intensity and elimination of the double peak seen in the melting curves from [20090224](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090224). [The plate layou/qPCR workup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090227-1.jpg).

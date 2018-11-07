@@ -8,20 +8,20 @@ slug: qpcr-abalone-gdna
 title: qPCR - Abalone gDNA
 wordpress_id: 946
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- gDNA
-- H.crach_16s
-- H.crach_h-1fg_intron
-- H.iris_actin_intron
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
+  - black abalone
+  - gDNA
+  - H.crach_16s
+  - H.crach_h-1fg_intron
+  - H.iris_actin_intron
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
 ---
 
 Used up the remainder of the one positive control gDNA that worked with all the primers in yesterday's reaction (H.crach_h-1fg_intron, H.iris_actin_intron, H.crach_16s), so need to find a new set of gDNA to use for future positive controls. [qPCR plate layout/set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090715-01.jpg). Anneal temp 50C. Used the following gDNA with :

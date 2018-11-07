@@ -8,18 +8,18 @@ slug: dnase-treatment-abalone-dg-rna-isolated-yesterday-and-from-20090518
 title: DNase Treatment - Abalone Dg RNA isolated yesterday and from 20090518
 wordpress_id: 1039
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Dg
-- digestive gland
-- DNase
-- Haliotis cracherodii
-- NanoDrop1000
-- RNA
-- Turbo DNA-free
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNase
+  - Haliotis cracherodii
+  - NanoDrop1000
+  - RNA
+  - Turbo DNA-free
 ---
 
 RNA from yesterday was treated according to Ambion Turbo DNA-free protocol to remove gDNA contamination. Work up is here.

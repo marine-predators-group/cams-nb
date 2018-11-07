@@ -8,17 +8,17 @@ slug: fastqc-oly-bgi-gbs-raw-illumina-data
 title: FASTQC - Oly BGI GBS Raw Illumina Data
 wordpress_id: 2497
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- FASTQC
-- GBS
-- genotype-by-sequencing
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - FASTQC
+  - GBS
+  - genotype-by-sequencing
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 In getting things prepared for [the manuscript we're writing about the Olympia oyster genotype-by-sequencing data from BGI](https://www.authorea.com/users/4974/articles/149442), I felt we needed to provide a [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) analysis of the raw data (since these two files are what [we submitted to the NCBI short read archive](http://onsnetwork.org/kubu4/wp-admin/post.php?post=2474&action=edit)) to provide support for the [Technical Validation section](https://github.com/kubu4/paper_oly_gbs/blob/master/technical_validation.md) of the manuscript.

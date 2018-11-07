@@ -8,17 +8,17 @@ slug: qpcr-replicate-of-v-tubiashii-control-vs-autoclaved-gigas-samples-see-yest
 title: qPCR - Replicate of V.tubiashii Control vs. Autoclaved gigas samples (see yesterday)
 wordpress_id: 1179
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- cDNA
-- OmpW
-- qPCR
-- SensiMix
-- SYBR
-- Vibrio tubiashii
+  - 16s
+  - cDNA
+  - OmpW
+  - qPCR
+  - SensiMix
+  - SYBR
+  - Vibrio tubiashii
 ---
 
 This is a repeat of the qPCR from yesterday, but without the 16s and OmpW primer sets due to double peaks in melting curves yesterday. [Plate layout/qPCR workup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090225-1.jpg).

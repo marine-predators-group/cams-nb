@@ -9,19 +9,19 @@ title: Bacterial Cultures - Colonies Selected by Steven from Steven's Re-Streake
   Plate
 wordpress_id: 378
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- COX
-- COX1
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS
-- PGS1
-- prostaglandin synthase
+  - bacterial culture
+  - COX
+  - COX1
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS
+  - PGS1
+  - prostaglandin synthase
 ---
 
 Inoculated 5mL of 1x LB + Kan50 (made by Steven on 3/23/11). Incubated O/N @ 37C, 250RPM. Will perform mini preps tomorrow. The following samples were selected (red text on the plate):

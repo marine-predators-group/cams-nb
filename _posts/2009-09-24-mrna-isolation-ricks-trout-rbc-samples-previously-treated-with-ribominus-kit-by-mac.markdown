@@ -9,18 +9,18 @@ title: mRNA Isolation - Rick's trout RBC samples previously treated with Ribomin
   Kit (by Mac)
 wordpress_id: 860
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- RBC
-- RNA quantification
-- trout
+  - EtOH precipitation
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - RBC
+  - RNA quantification
+  - trout
 ---
 
 Was given ~0.5ug of each of these two RNA samples and processed them with Ambion's microPolyA Purist Kit according to protocol. After elution, the samples were EtOH precipitated @ -80C for 30mins, pelleted 30mins 16,000g for 30mins, 4C. Supe removed, RNA washed with 1mL 70% EtOH and spun 10mins 16,000g, 4C. Supe removed. Resusupended in 8uL of The RNA Storage Solution and spec'd.

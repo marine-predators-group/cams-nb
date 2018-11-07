@@ -8,15 +8,15 @@ slug: data-received-jays-coral-epiradseq-not-demultiplexed
 title: Data Received – Jay’s Coral epiRADseq - Not Demultiplexed
 wordpress_id: 2292
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- coral
-- epiRAD
-- Porites
-- RAD
-- RAD-seq
+  - coral
+  - epiRAD
+  - Porites
+  - RAD
+  - RAD-seq
 ---
 
 Previously downloaded Jay's epiRADseq data that was provided by the Genomic Sequencing Laboratory at UC-Berkeley. It was provided already demultiplexed (which is very nice of them!). To be completionists on our end, we requested the non-demultiplexed data set.

@@ -8,17 +8,17 @@ slug: computer-management-additional-configurations-for-reformatted-xserves
 title: Computer Management - Additional Configurations for Reformatted Xserves
 wordpress_id: 2336
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- El Capitan
-- emu
-- OS X
-- ostrich
-- roadrunner
-- tmux
-- Xserve
+  - El Capitan
+  - emu
+  - OS X
+  - ostrich
+  - roadrunner
+  - tmux
+  - Xserve
 ---
 
 Sean got the remaining Xserves configured to run independently from the master node of the cluster they belonged to and installed OS X 10.11 (El Capitan).

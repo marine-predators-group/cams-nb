@@ -8,14 +8,14 @@ slug: computing-amazon-ec2-instance-out-of-space
 title: Computing - Amazon EC2 Instance Out of Space?
 wordpress_id: 2223
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
 tags:
-- EC2
-- jupyter notebook
-- pyrad
+  - EC2
+  - jupyter notebook
+  - pyrad
 ---
 
 Running PyRad analysis on the Olympia oyster GBS data. PyRad exited with warnings about running out of space. However, looking at free disk space on the EC2 Instance suggests that there's still space left on the disk. Possibly PyRad monitors the expected disk space usage during analysis to verify there will be sufficient disk space to write to? Regardless, will expand EC2 volume instance to a larger size...

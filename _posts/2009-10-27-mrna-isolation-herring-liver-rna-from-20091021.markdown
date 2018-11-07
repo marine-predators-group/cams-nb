@@ -8,17 +8,17 @@ slug: mrna-isolation-herring-liver-rna-from-20091021
 title: mRNA Isolation - Herring Liver RNA (from 20091021)
 wordpress_id: 806
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- liver
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- Pacific herring
-- RNA quantification
+  - liver
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific herring
+  - RNA quantification
 ---
 
 Isolated mRNA using Ambion's MicroPolyA Purist Kit according to protocol. Performed two rounds of isolation to decrease residual rRNA carryover that we frequently see after a single round.

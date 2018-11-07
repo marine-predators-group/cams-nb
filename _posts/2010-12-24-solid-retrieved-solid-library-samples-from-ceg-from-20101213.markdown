@@ -8,21 +8,21 @@ slug: solid-retrieved-solid-library-samples-from-ceg-from-20101213
 title: SOLiD - Retrieved SOLiD Library Samples from CEG from 20101213
 wordpress_id: 559
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CC
-- CE
-- Herring 2L HKOD09
-- Herring 3L HSITK09
-- Herring 4L HTOG09
-- Herring 6L HPWS09
-- HPWS09
-- PQ
-- Sisco
-- SOLiD
-- SOLiD libraries
+  - CC
+  - CE
+  - Herring 2L HKOD09
+  - Herring 3L HSITK09
+  - Herring 4L HTOG09
+  - Herring 6L HPWS09
+  - HPWS09
+  - PQ
+  - Sisco
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Retrieved the following SOLiD libraries from the CEG and stored in -80C in the "NGS Libraries" Box.

@@ -8,19 +8,19 @@ slug: fastqc-oly-bgi-gbs-raw-illumina-data-demultiplexed
 title: FASTQC - Oly BGI GBS Raw Illumina Data Demultiplexed
 wordpress_id: 2506
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- docker
-- FASTQC
-- GBS
-- genotype-by-sequencing
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- ostrich
+  - BGI
+  - docker
+  - FASTQC
+  - GBS
+  - genotype-by-sequencing
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - ostrich
 ---
 
 [Last week, I ran the two raw FASTQ files through FastQC](http://onsnetwork.org/kubu4/2017/03/02/fastqc-oly-bgi-gbs-raw-illumina-data/). As expected, FastQC detected "errors". These errors are due to the presence of adapter sequences, barcodes, and the use of a restriction enzyme (ApeKI) in library preparation. In summary, it's not surprising that FastQC was not please with the data because it's expecting a "standard" library prep that's already been trimmed and demultiplexed.

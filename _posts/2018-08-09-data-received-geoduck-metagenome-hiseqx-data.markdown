@@ -8,9 +8,9 @@ slug: data-received-geoduck-metagenome-hiseqx-data
 title: Data Received - Geoduck Metagenome HiSeqX Data
 wordpress_id: 3505
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 ---
 
 Received the data from [the geoduck metagenome libraries that I prepared](http://onsnetwork.org/kubu4/wp-admin/post.php?post=3400&action=edit) and were sequenced at the Northwest Genomics Center at UW on the HiSeqX (Illumina) - PE 151bp.

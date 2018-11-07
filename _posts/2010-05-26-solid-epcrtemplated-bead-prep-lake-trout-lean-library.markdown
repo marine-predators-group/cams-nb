@@ -8,18 +8,18 @@ slug: solid-epcrtemplated-bead-prep-lake-trout-lean-library
 title: SOLiD ePCR/Templated Bead Prep - Lake Trout Lean library
 wordpress_id: 649
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bead counts
-- ePCR
-- lake trout
-- Lean
-- library prep
-- SOLiD
-- SOLiD libraries
-- templated bead prep
+  - bead counts
+  - ePCR
+  - lake trout
+  - Lean
+  - library prep
+  - SOLiD
+  - SOLiD libraries
+  - templated bead prep
 ---
 
 ePCR was performed following ABI's "full scale" protocol, using 1pM of SOLiD cDNA library.

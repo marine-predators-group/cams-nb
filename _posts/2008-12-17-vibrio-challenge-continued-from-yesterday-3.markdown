@@ -8,14 +8,14 @@ slug: vibrio-challenge-continued-from-yesterday-3
 title: Vibrio challenge CONTINUED (from yesterday)
 wordpress_id: 1349
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial challenge
-- bacterial culture
-- Vibrio exposure
-- Vibrio tubiashii
+  - bacterial challenge
+  - bacterial culture
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 One of the two starter cultures from yesterday were used to inoculate 500mL 1x LB+1% NaCl and incubated O/N @ 30C 200RPM.

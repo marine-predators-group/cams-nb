@@ -8,16 +8,16 @@ slug: gbs-frustrations
 title: GBS Frustrations
 wordpress_id: 2109
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cyverse
-- GBS
-- genotype-by-sequencing
-- pyrad
-- stacks
-- tassel
+  - Cyverse
+  - GBS
+  - genotype-by-sequencing
+  - pyrad
+  - stacks
+  - tassel
 ---
 
 This isn't really a notebook entry - it's more of a traditional blog post.

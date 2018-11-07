@@ -8,17 +8,17 @@ slug: rna-cleanup-tanner-crab-rna-pools
 title: RNA Cleanup - Tanner Crab RNA Pools
 wordpress_id: 3453
 author:
-- kubu4
+  - kubu4
 categories:
-- Tanner Crab RNAseq
+  - Tanner Crab RNAseq
 tags:
-- NanoDrop1000
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNeasy MiniElute Cleanup Kit
-- RNeasy Plus Mini
-- tanner crab
+  - NanoDrop1000
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNeasy MiniElute Cleanup Kit
+  - RNeasy Plus Mini
+  - tanner crab
 ---
 
 Grace had previously pooled a set of crab RNA in preparation for RNAseq. [Yesterday, we/she concentrated the samples and then quantified them](https://grace-ac.github.io/Crab-pools-pt-2-Skyline/). Unfortunately, Qubit results were not good (concentrations were _far_ below the expected 20ng/uL) and the NanoDrop1000 results yielded awful looking curves.

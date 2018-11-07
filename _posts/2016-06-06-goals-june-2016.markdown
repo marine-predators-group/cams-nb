@@ -8,9 +8,9 @@ slug: goals-june-2016
 title: Goals - June 2016
 wordpress_id: 2137
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Current goals are as follows:

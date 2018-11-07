@@ -8,14 +8,14 @@ slug: dna-quantification-yanouks-dna-samples
 title: DNA Quantification - Yanouk's DNA Samples
 wordpress_id: 190
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- Pacific oyster
-- Yanouk
+  - Crassostrea gigas
+  - DNA Quantification
+  - Pacific oyster
+  - Yanouk
 ---
 
 ![](http://eagle.fish.washington.edu/Arabidopsis/20131004%20-%20Yanouk%20gigas%20gDNA%20ODs.JPG)

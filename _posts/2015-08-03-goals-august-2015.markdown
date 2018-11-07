@@ -8,9 +8,9 @@ slug: goals-august-2015
 title: Goals - August 2015
 wordpress_id: 1531
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 ### Review of [last month's goals](http://onsnetwork.org/kubu4/2015/07/02/goals-july-2015/):

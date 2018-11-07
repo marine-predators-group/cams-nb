@@ -9,21 +9,21 @@ title: TruSeq Adaptor Identification Method Comparison - LSU C.virginica Oil Spi
   Sequences
 wordpress_id: 910
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- barcodes
-- Crassostrea virginica
-- Eastern oyster
-- FASTQ
-- FASTQC
-- fastx_barcode_splitter
-- grep
-- index sequences
-- ipython notebook
-- jupyter notebook
-- TruSeq
+  - barcodes
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQ
+  - FASTQC
+  - fastx_barcode_splitter
+  - grep
+  - index sequences
+  - ipython notebook
+  - jupyter notebook
+  - TruSeq
 ---
 
 We recently received [Illumina HiSeq2500 data back from this project](http://onsnetwork.org/kubu4/2015/02/09/sequencing-data-lsu-c-virginica-mbd-bs-seq/). Initially looking at the data, something seems off.  Using FASTQC, the quality drops of drastically towards the last 20 bases of the reads. We also see a high degree of Illumina TruSeq adaptor/index sequences present in our data.

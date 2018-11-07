@@ -8,22 +8,22 @@ slug: rna-fragmentation-ricks-trout-rbc-samples-prepped-earlier-today
 title: RNA Fragmentation - Rick's trout RBC samples prepped earlier today
 wordpress_id: 852
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- library prep
-- NanoDrop1000
-- RBC
-- Ribominus Concentration Module Kit
-- RNA
-- RNA fragmentation
-- RNA quantification
-- SOLiD
-- SOLiD libraries
-- trout
-- Whole Transcriptome Analysis Kit
+  - EtOH precipitation
+  - library prep
+  - NanoDrop1000
+  - RBC
+  - Ribominus Concentration Module Kit
+  - RNA
+  - RNA fragmentation
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
+  - trout
+  - Whole Transcriptome Analysis Kit
 ---
 
 #### EtOH Precipitaiton - Rick's trout Ribosomoal-depleted RNA for SOLiD WTK (continued from yesterday)

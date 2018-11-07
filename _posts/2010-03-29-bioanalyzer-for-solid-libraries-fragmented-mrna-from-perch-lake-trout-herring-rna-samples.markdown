@@ -9,27 +9,27 @@ title: Bioanalyzer for SOLiD Libraries - Fragmented mRNA from Perch, Lake Trout 
   Herring RNA samples
 wordpress_id: 690
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- bioanalyzer
-- CT
-- gel
-- lake trout
-- Lean
-- library prep
-- Pacific herring
-- PQ
-- RNA
-- RNA Pico 6000
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- WB
-- yellow perch
+  - 1 G/O HPWS09
+  - bioanalyzer
+  - CT
+  - gel
+  - lake trout
+  - Lean
+  - library prep
+  - Pacific herring
+  - PQ
+  - RNA
+  - RNA Pico 6000
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - yellow perch
 ---
 
 1uL of each sample from 20100325 was run on the Agilent 2100 Bioanalyzer on a RNA Pico 6000 chip to evaluate RNA quantity and fragmentation.

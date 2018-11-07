@@ -9,16 +9,16 @@ title: Sample Submission - Colleen Sea Star (Pycnopodia) Coelomycete RNA for Ill
   Sequencing
 wordpress_id: 131
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Submitted
-- Sea star RNA-seq
+  - Samples Submitted
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- Pycnopodia helianthoides
-- RNA
-- RNA-seq
-- sea star
+  - coelomycete
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA-seq
+  - sea star
 ---
 
 Sent the following samples (in their entirety) to Cornell for Illumina HiSeq 100bp paired-end sequencing:

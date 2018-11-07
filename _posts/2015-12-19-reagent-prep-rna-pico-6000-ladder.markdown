@@ -8,12 +8,12 @@ slug: reagent-prep-rna-pico-6000-ladder
 title: Reagent Prep - RNA Pico 6000 Ladder
 wordpress_id: 1902
 author:
-- kubu4
+  - kubu4
 categories:
-- Reagent Prep
+  - Reagent Prep
 tags:
-- ladder
-- RNA Pico 6000
+  - ladder
+  - RNA Pico 6000
 ---
 
 Prepared the RNA Pico 6000 ladder (Agilent) according to the manufacturer's protocol:

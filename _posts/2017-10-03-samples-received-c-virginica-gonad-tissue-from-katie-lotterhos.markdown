@@ -8,12 +8,12 @@ slug: samples-received-c-virginica-gonad-tissue-from-katie-lotterhos
 title: Samples Received - C.virginica gonad tissue from Katie Lotterhos
 wordpress_id: 2730
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- Crassostrea virginica
-- Katie Lotterhos
+  - Crassostrea virginica
+  - Katie Lotterhos
 ---
 
 Received and stored [@-80C in rack 8, row 5, column 5](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).

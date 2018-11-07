@@ -8,18 +8,18 @@ slug: agarose-gel-geoduck-olympia-oyster-gdna-integrity-check
 title: Agarose Gel - Geoduck & Olympia Oyster gDNA Integrity Check
 wordpress_id: 1571
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- gDNA
-- gel
-- geoduck
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - gDNA
+  - gel
+  - geoduck
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA (from 20150828)](http://onsnetwork.org/kubu4/2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot/) and [Olympia oyster gDNA (from 20150901)](http://onsnetwork.org/kubu4/2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle/).

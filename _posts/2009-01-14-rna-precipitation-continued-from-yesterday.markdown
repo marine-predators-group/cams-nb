@@ -8,18 +8,18 @@ slug: rna-precipitation-continued-from-yesterday
 title: RNA - Precipitation continued from yesterday
 wordpress_id: 1211
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- Hard clam
-- hemocyte
-- hemolymph
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA quantification
+  - EtOH precipitation
+  - Hard clam
+  - hemocyte
+  - hemolymph
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA quantification
 ---
 
 Transferred supe to a fresh tube and added 1mL 70% EtOH to remaining pellet. Spun samples max speed @ 4C 30 mins. Removed supe and washed pellets with 1mL 70% EtOH. Spun max speed 10 mins. Removed supe . Resuspended the "supe" sample in 50uL 0.1%DEPC-H2O and the "pellet" sample in 100uL 0.1%DEPC-H2O.

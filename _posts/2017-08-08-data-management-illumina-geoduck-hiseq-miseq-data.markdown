@@ -8,14 +8,14 @@ slug: data-management-illumina-geoduck-hiseq-miseq-data
 title: Data Management - Illumina Geoduck HiSeq & MiSeq Data
 wordpress_id: 2676
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- FASTQ
-- geoduck
-- Illumina
-- Panopea generosa
+  - FASTQ
+  - geoduck
+  - Illumina
+  - Panopea generosa
 ---
 
 [The HDD we received from Illumina last week](http://onsnetwork.org/kubu4/2017/07/31/data-received-geoduck-genome-sequencing-by-illumina/) only had data (i.e. fastq files) from the NovaSeq runs they performed - nothing from either the MiSeq, nor the HiSeq runs.

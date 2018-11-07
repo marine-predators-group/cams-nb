@@ -9,19 +9,19 @@ title: Genome Assembly – Olympia Oyster Illumina & PacBio Using PB Jelly w/BGI
   Assembly
 wordpress_id: 3043
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- Illumina
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- PacBio
-- PB Jelly
-- pbjelly
-- QUAST
+  - assembly
+  - Illumina
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
+  - PB Jelly
+  - pbjelly
+  - QUAST
 ---
 
 [After another attempt to fix PB Jelly](http://onsnetwork.org/kubu4/2017/11/30/troubleshooting-pb-jelly-install-on-emu-continued/), I ran it again.

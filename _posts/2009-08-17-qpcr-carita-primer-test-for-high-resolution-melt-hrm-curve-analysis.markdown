@@ -8,15 +8,15 @@ slug: qpcr-carita-primer-test-for-high-resolution-melt-hrm-curve-analysis
 title: qPCR - Carita Primer Test for High Resolution Melt (HRM) Curve Analysis
 wordpress_id: 890
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- high resolution melt curve
-- HRM
-- lake trout
-- Opticon2
-- qPCR
+  - high resolution melt curve
+  - HRM
+  - lake trout
+  - Opticon2
+  - qPCR
 ---
 
 Ran a qPCR on Rick's Lake Trout DNA from 4/28/2009 using primers in Carita's [CMA01 Primer Plate](http://eagle.fish.washington.edu/Arabidopsis/CMA01%20primer%20plate.xls) (Excel file). DNA was pooled (2uL from each sample), spec'd and diluted to 10ng/uL. [qPCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090817-01.jpg). Plate layout matches Carita's primer plate layout. Since we're just looking for positive/negative samples, I ran this on the Opticon 2 despite the recent "problems" we've been having with it. Cycling params used with the 2x HRM M.M. are as follows:

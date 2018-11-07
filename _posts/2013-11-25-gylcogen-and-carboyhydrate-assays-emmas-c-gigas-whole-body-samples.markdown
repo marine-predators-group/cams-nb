@@ -8,13 +8,13 @@ slug: gylcogen-and-carboyhydrate-assays-emmas-c-gigas-whole-body-samples
 title: Gylcogen and Carboyhydrate Assays - Emma's C.gigas Whole Body Samples
 wordpress_id: 184
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- glycogen assay
-- Pacific oyster
+  - Crassostrea gigas
+  - glycogen assay
+  - Pacific oyster
 ---
 
 Samples were previously freeze dried overnight and stored @ -20C. To maximize sample homogeneity and, thus, increase accuracy of both assays, all samples were mechanically pulverized in their existing tubes. Approximately half of each sample was weighed and used for the glycogen assay. The remainder of each sample was stored @ -20C.

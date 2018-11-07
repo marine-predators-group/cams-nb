@@ -8,21 +8,21 @@ slug: sequencing-data-lsu-c-virginica-mbd-bs-seq
 title: Sequencing Data - LSU C.virginica MBD BS-Seq
 wordpress_id: 453
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- BS-seq
-- checksum
-- code
-- Crassostrea virginica
-- curl
-- Eastern oyster
-- HiSeq2500
-- LSU
-- MBD
-- md5
-- oil
+  - BS-seq
+  - checksum
+  - code
+  - Crassostrea virginica
+  - curl
+  - Eastern oyster
+  - HiSeq2500
+  - LSU
+  - MBD
+  - md5
+  - oil
 ---
 
 Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) (order number 2112).

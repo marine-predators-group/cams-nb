@@ -9,20 +9,20 @@ title: Phenol:Chloroform Extractions and EtOH Precipitations - HapII and MspI di
   from yesterday
 wordpress_id: 573
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- EtOH precipitation
-- gill
-- gonad
-- HpaII
-- MspI
-- NanoDrop1000
-- Pacific oyster
-- phenol-chloroform cleanup
+  - Crassostrea gigas
+  - DNA Quantification
+  - EtOH precipitation
+  - gill
+  - gonad
+  - HpaII
+  - MspI
+  - NanoDrop1000
+  - Pacific oyster
+  - phenol-chloroform cleanup
 ---
 
 Restriction digests from yesterday were mixed with equal volume (50uL) of phenol:chloroform:IAA (25:24:1) and centrifuged 16,000g for 5mins @ 4C. Aqueous phase was transferred to a clean tube and an equal volume (50uL) of chloroform was added. Samples were mixed and centrifuged 16,000g for 5mins @ 4C. Aqueous phase was transferred to clean tubes and EtOH precipitated, [according to protocol](/protocols#Protocols-Nucleic%20Acid%20Precipitation-Ethanol%20Precipitation%20(DNA)). Samples were resuspended in 25uL of H2O and spec'd.

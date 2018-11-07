@@ -8,22 +8,22 @@ slug: qpcr-jakes-o-lurida-ctenidia-dnased-rna-1hr-heat-shock-samples
 title: qPCR – Jake's O.lurida ctenidia DNased RNA (1hr Heat Shock Samples)
 wordpress_id: 1414
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- ctenidia
-- DNased RNA
-- gill
-- olympia oyster
-- Opticon
-- Opticon2
-- Ostrea lurida
-- qPCR
-- 'SR ID: 1504'
-- 'SR ID: 1505'
-- SsoFast EvaGreen Supermix
+  - actin
+  - ctenidia
+  - DNased RNA
+  - gill
+  - olympia oyster
+  - Opticon
+  - Opticon2
+  - Ostrea lurida
+  - qPCR
+  - 'SR ID: 1504'
+  - 'SR ID: 1505'
+  - SsoFast EvaGreen Supermix
 ---
 
 Ran qPCR on DNased RNA from earlier today to assess whether there was any residual gDNA after [the DNase treatment](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506/) with Oly_Actin_F/R primers (SR IDs: 1505, 1504).

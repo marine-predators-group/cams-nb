@@ -9,20 +9,20 @@ title: 'BS-seq Mapping - Olympia oyster bisulfite sequencing: TrimGalore > FastQ
   > Bismark'
 wordpress_id: 3310
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- MBD Enrichment for Sequencing at ZymoResearch
+  - BS-seq Libraries for Sequencing at Genewiz
+  - MBD Enrichment for Sequencing at ZymoResearch
 tags:
-- bismark
-- BS-seq
-- FASTQC
-- jupyter notebook
-- multiqc
-- olympia oyster
-- Ostrea lurida
-- TrimGalore!
-- trimming
+  - bismark
+  - BS-seq
+  - FASTQC
+  - jupyter notebook
+  - multiqc
+  - olympia oyster
+  - Ostrea lurida
+  - TrimGalore!
+  - trimming
 ---
 
 [Steven asked me to evaluate our methylation sequencing data sets for Olympia oyster](https://github.com/RobertsLab/resources/issues/225).

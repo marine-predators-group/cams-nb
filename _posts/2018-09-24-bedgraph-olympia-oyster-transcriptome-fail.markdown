@@ -8,18 +8,18 @@ slug: bedgraph-olympia-oyster-transcriptome-fail
 title: Bedgraph - Olympia oyster transcriptome (FAIL)
 wordpress_id: 3578
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- alignment
-- bedgraph
-- bedtools
-- mox
-- olympia oyster
-- Ostrea lurida
-- samtools
-- transcriptome
+  - alignment
+  - bedgraph
+  - bedtools
+  - mox
+  - olympia oyster
+  - Ostrea lurida
+  - samtools
+  - transcriptome
 ---
 
 Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.

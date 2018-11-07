@@ -8,17 +8,17 @@ slug: gdna-isolation-c-pugetti-from-20090518
 title: gDNA Isolation - C. pugetti (from 20090518)
 wordpress_id: 1057
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- Cycloclasticus pugetii
-- DNA Isolation
-- DNA Quantification
-- gDNA
-- JGI
-- NanoDrop1000
+  - bacterial culture
+  - Cycloclasticus pugetii
+  - DNA Isolation
+  - DNA Quantification
+  - gDNA
+  - JGI
+  - NanoDrop1000
 ---
 
 Followed [JGI "Bacterial genomic DNA isolation using CTAB" protocol](http://my.jgi.doe.gov/general/protocols/DNA_Isolation_Bacterial_CTAB_Protocol.doc)(Word doc) with the following notes/changes.

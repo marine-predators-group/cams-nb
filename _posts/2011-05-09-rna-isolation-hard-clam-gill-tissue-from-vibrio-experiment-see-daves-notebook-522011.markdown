@@ -9,18 +9,18 @@ title: RNA Isolation - Hard Clam Gill Tissue from Vibrio Experiment (see Dave's 
   5/2/2011)
 wordpress_id: 361
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Hard clam
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA isolation
-- RNA quantification
-- TriReagent
-- Vibrio tubiashii
+  - Hard clam
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - Vibrio tubiashii
 ---
 
 Isolated RNA in 1mL of Tri-Reagent according to the manufacturer's protocol. Also, finished RNA isolation of samples that were started 20110506. Samples were resuspended in 50uL 0.1%DEPC-H2O and spec'd.

@@ -8,16 +8,16 @@ slug: computing-oly-bgi-gbs-reproducibility-fail-2
 title: Computing – Oly BGI GBS Reproducibility; fail?
 wordpress_id: 2520
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 OK, so things have improved since [the last attempt at getting this BGI script to run](http://onsnetwork.org/kubu4/2017/03/14/computing-oly-bgi-gbs-reproducibility-fail-but-less-so-than-last-time/) and demultiplex the raw data.

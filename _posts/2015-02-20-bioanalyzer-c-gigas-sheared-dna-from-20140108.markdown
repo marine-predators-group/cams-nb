@@ -8,19 +8,19 @@ slug: bioanalyzer-c-gigas-sheared-dna-from-20140108
 title: Bioanalyzer - C.gigas Sheared DNA from 20140108
 wordpress_id: 508
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- bioanalyzer
-- Crassostrea gigas
-- DNA
-- DNA1000
-- electropherogram
-- heat shock
-- mantle
-- Pacific oyster
-- spreadsheet
+  - bioanalyzer
+  - Crassostrea gigas
+  - DNA
+  - DNA1000
+  - electropherogram
+  - heat shock
+  - mantle
+  - Pacific oyster
+  - spreadsheet
 ---
 
 To complement MBD ChiP-seq data and RNA-seq data that we have from this experiment, we want to generate, at a minimum, some BS-seq data from the same _C.gigas_ individuals used for the other aspects of this experiment.  [Claire had previously isolated DNA and sheared the DNA on 20140108](https://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee). If possible, we'd like to perform MBD enrichment, but the current quantities of DNA may prevent us from this.

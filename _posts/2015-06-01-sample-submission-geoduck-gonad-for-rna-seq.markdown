@@ -8,19 +8,19 @@ slug: sample-submission-geoduck-gonad-for-rna-seq
 title: Sample Submission - Geoduck Gonad for RNA-seq
 wordpress_id: 1469
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- DNased RNA
-- geoduck
-- Geo_pool_F
-- Geo_pool_M
-- gonad
-- HiSeq2500
-- Illumina
-- Panopea generosa
-- RNA-seq
+  - DNased RNA
+  - geoduck
+  - Geo_pool_F
+  - Geo_pool_M
+  - gonad
+  - HiSeq2500
+  - Illumina
+  - Panopea generosa
+  - RNA-seq
 ---
 
 Prepared two pools of geoduck RNA for RNA-seq (Illumina HiSeq2500, 100bp, PE) with GENEWIZ, Inc.

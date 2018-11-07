@@ -9,17 +9,17 @@ title: Transposable Element Mapping – Crassostrea virginica Genome, Cvirginica
   using RepeatMasker 4.07
 wordpress_id: 3529
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- jupyter notebook
-- RepeatMasker
-- roadrunner
-- TE
-- transposable elements
+  - Crassostrea virginica
+  - Eastern oyster
+  - jupyter notebook
+  - RepeatMasker
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 Per this [GitHub issue](https://github.com/RobertsLab/resources/issues/352), I'm IDing transposable elements (TEs) in the _Crassostrea virginica_ genome.

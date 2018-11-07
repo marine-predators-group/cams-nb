@@ -8,16 +8,16 @@ slug: qpcr-taylor-water-filter-dna-extracts-from-20120322
 title: qPCR - Taylor Water Filter DNA Extracts from 20120322
 wordpress_id: 255
 author:
-- Sam White
+  - Sam White
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CFX96
-- DNA
-- qPCR
-- Vibrio tubiashii
-- VtpA
-- water filter
+  - CFX96
+  - DNA
+  - qPCR
+  - Vibrio tubiashii
+  - VtpA
+  - water filter
 ---
 
 Ran qPCR on the Taylor water filter DNA extracts from [20120322](/Sam%27s+Working+Notebook+January+-+March+2012#sjw20120322) using V.tubiashii VtpA primers (provide by Elene; no SR ID?) instead of 16s primers, which failed to produce acceptable results in the melt curves (see [20120323](/Sam%27s+Working+Notebook+January+-+March+2012#sjw20120323)). Additionally, Elene has a standard curve for V. tubiashii (from 1/12/2011) based off of CFUs/mL, which will allow us to quantify theoretical number of V.tubiashii CFUs present in each sample.

@@ -8,19 +8,19 @@ slug: qpcr-cdna-from-20120208
 title: qPCR - cDNA from 20120208
 wordpress_id: 273
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- CFX96
-- DNA
-- qPCR
-- RE22
-- rseA
-- Vibrio tubiashii
-- VtpA
-- VtpR
+  - cDNA
+  - CFX96
+  - DNA
+  - qPCR
+  - RE22
+  - rseA
+  - Vibrio tubiashii
+  - VtpA
+  - VtpR
 ---
 
 Performed qPCR on all 12 samples. Used the following primers, provided by Elene, to detect V.tubiashii expression:

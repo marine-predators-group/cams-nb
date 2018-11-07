@@ -9,22 +9,22 @@ title: Reverse Transcription/cDNA purification/Emulsion PCR - Ligation rxns of t
   fragmented RNA for SOLiD WTK (from yesterday)
 wordpress_id: 840
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- DNA Quantification
-- ePCR
-- ligation
-- NanoDrop1000
-- RBC
-- reverse transcription
-- RNA
-- SOLiD
-- SOLiD libraries
-- trout
-- Whole Transcriptome Analysis Kit
+  - cDNA
+  - DNA Quantification
+  - ePCR
+  - ligation
+  - NanoDrop1000
+  - RBC
+  - reverse transcription
+  - RNA
+  - SOLiD
+  - SOLiD libraries
+  - trout
+  - Whole Transcriptome Analysis Kit
 ---
 
 The four samples from yesterday were prepared according to the Agilent SOLiD WTK protocol. Briefly:

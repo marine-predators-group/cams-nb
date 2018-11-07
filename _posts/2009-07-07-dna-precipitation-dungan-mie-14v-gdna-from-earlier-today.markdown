@@ -8,14 +8,14 @@ slug: dna-precipitation-dungan-mie-14v-gdna-from-earlier-today
 title: DNA Precipitation - Dungan MIE-14v gDNA from earlier today
 wordpress_id: 969
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan
-- EtOH precipitation
-- gDNA
-- MIE-14v
+  - Dungan
+  - EtOH precipitation
+  - gDNA
+  - MIE-14v
 ---
 
 Added 1/10 volume of 3M NaOAc (pH = 5.2) to sample (10uL) and then 2 volumes of ice cold 100% EtOH to samples (220uL). Mixed thoroughly and incubated O/N @ -20c.

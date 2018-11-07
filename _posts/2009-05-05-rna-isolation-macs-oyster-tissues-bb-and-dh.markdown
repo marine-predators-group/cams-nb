@@ -8,15 +8,15 @@ slug: rna-isolation-macs-oyster-tissues-bb-and-dh
 title: RNA Isolation - Mac's oyster tissues (BB and DH)
 wordpress_id: 1091
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- Pacific oyster
-- RNA isolation
+  - BB
+  - Crassostrea gigas
+  - DH
+  - Pacific oyster
+  - RNA isolation
 ---
 
 Processed BB#1-8 up to the point of precipitation. Added isopropanol and stored @ -20C. Organic phase was retained for subsequent gDNA isolation and stored @ 4C.

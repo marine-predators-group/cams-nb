@@ -8,15 +8,15 @@ slug: dna-quantification-claires-c-gigas-sheared-dna
 title: DNA Quantification - Claire's C.gigas Sheared DNA
 wordpress_id: 549
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- heat shock
-- Pacific oyster
-- Quant-iT DNA BR Kit
+  - Crassostrea gigas
+  - DNA Quantification
+  - heat shock
+  - Pacific oyster
+  - Quant-iT DNA BR Kit
 ---
 
 In an attempt to obtain the most accurate measurement of [Claire's sheared, heat shock mantle DNA](http://onsnetwork.org/kubu4/2015/02/20/bioanalyzer-c-gigas-sheared-dna-from-20140108/), I quantified the samples using a third method: fluorescence.

@@ -8,19 +8,19 @@ slug: colony-pcr-colonies-from-cox1-genomic-cloning-from-20110411
 title: Colony PCR - Colonies from COX1 Genomic Cloning (from 20110411)
 wordpress_id: 376
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX1
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX1
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - prostaglandin synthase
 ---
 
 Ran colony PCR on various colonies produced from cloning on 20110411. All colonies were picked, re-streaked on Kan50 plate(s) and PCR'd. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/20110425-01.jpg). Cycling params:

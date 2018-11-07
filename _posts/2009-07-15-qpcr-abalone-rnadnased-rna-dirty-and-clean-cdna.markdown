@@ -8,19 +8,19 @@ slug: qpcr-abalone-rnadnased-rna-dirty-and-clean-cdna
 title: qPCR - Abalone RNA/DNased RNA & "dirty" and "clean" cDNA
 wordpress_id: 948
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- cDNA
-- DNased RNA
-- gDNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
+  - black abalone
+  - cDNA
+  - DNased RNA
+  - gDNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
 ---
 
 This was done to really test the detection methods we're using for gDNA contamination in our qPCRs. [qPCR plate layout/set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090714-01.jpg). Anneal temp 50C.

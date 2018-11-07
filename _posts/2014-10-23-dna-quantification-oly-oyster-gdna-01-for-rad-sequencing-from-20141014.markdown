@@ -8,14 +8,14 @@ slug: dna-quantification-oly-oyster-gdna-01-for-rad-sequencing-from-20141014
 title: DNA Quantification - Oly Oyster gDNA-01 for RAD Sequencing (from 20141014)
 wordpress_id: 106
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Quantification
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - DNA Quantification
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Quantified the gDNA isolated 20141014 using the Quant-iT dsDNA Broad Range kit (Life Technologies).

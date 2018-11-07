@@ -8,28 +8,28 @@ slug: pcr-new-c-gigas-cox-primers-for-sequencing-of-isoforms
 title: PCR - New C. gigas COX Primers for Sequencing of Isoforms
 wordpress_id: 480
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- gel extraction
-- Hyperladder I
-- isoforms
-- Pacific oyster
-- PCR
-- PGS
-- prostaglandin synthase
-- 'SR ID: 1146'
-- 'SR ID: 1151'
-- 'SR ID: 1190'
-- 'SR ID: 1191'
-- 'SR ID: 1192'
-- 'SR ID: 1193'
-- Ultrafree-DA
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - gel extraction
+  - Hyperladder I
+  - isoforms
+  - Pacific oyster
+  - PCR
+  - PGS
+  - prostaglandin synthase
+  - 'SR ID: 1146'
+  - 'SR ID: 1151'
+  - 'SR ID: 1190'
+  - 'SR ID: 1191'
+  - 'SR ID: 1192'
+  - 'SR ID: 1193'
+  - Ultrafree-DA
 ---
 
 Used new primers for obtaining bands for additional sequencing of both COX isoforms in C. gigas. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110208-01.jpg). Master mix shorthand (MM##) is described below:

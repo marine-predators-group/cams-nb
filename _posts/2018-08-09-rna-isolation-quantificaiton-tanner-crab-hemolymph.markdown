@@ -8,18 +8,18 @@ slug: rna-isolation-quantificaiton-tanner-crab-hemolymph
 title: RNA Isolation & Quantificaiton - Tanner Crab Hemolymph
 wordpress_id: 3493
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- hemolymph
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNA isolation
-- RNeasy Plus Micro Kit
-- tanner crab
+  - Chionoecetes bairdi
+  - hemolymph
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNA isolation
+  - RNeasy Plus Micro Kit
+  - tanner crab
 ---
 
 Isolated RNA from [40 Tanner crab hemolymph samples selected by Grace](https://github.com/RobertsLab/resources/issues/336) with the RNeasy Plus Micro Kit (Qiagen) according to [the manufacturer's protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-Plus-Micro-Handbook.pdf), with the following modifications:

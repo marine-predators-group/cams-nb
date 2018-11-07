@@ -8,21 +8,21 @@ slug: colony-pcr-5-race-colonies
 title: Colony PCR - 5' RACE Colonies
 wordpress_id: 384
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Two light blue colonies (there were no white colonies) were picked, restreaked on a new Kan50 plate (no X-gal) and PCR'd.

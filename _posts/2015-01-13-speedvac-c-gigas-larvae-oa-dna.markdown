@@ -8,14 +8,14 @@ slug: speedvac-c-gigas-larvae-oa-dna
 title: SpeedVac - C.gigas larvae OA DNA
 wordpress_id: 27
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- concentrate
-- Crassostrea gigas
-- DNA
-- SpeedVac
+  - concentrate
+  - Crassostrea gigas
+  - DNA
+  - SpeedVac
 ---
 
 The DNA extracted and sheared on [20150109](http://onsnetwork.org/kubu4/2015/01/09/dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment/) was in a volume too great to proceed with bisulfite conversion.  Dried the samples to complete dryness in a SpeedVac (~4hrs).  Reconsitituted DNA in 24μL of NanoPure water.  Will bisulfite convert tomorrow.

@@ -8,14 +8,14 @@ slug: dna-quantification-oly-oyster-gdna-01-rad-library
 title: DNA Quantification - Oly Oyster gDNA-01 RAD Library
 wordpress_id: 85
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Quantification
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - DNA Quantification
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Quantified the library using the Quant-It BR Kit (Life Technologies) according to the manufacturer's protocol. Only used 1uL of the RAD library due to the small volume (15uL).

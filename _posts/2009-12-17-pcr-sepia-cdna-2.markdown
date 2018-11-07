@@ -8,22 +8,22 @@ slug: pcr-sepia-cdna-2
 title: PCR - Sepia cDNA
 wordpress_id: 748
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- arm
-- cDNA
-- cuttlefish
-- fin
-- gel
-- mantle
-- opsin
-- PCR
-- retina
-- rhodopsin
-- Sepia officinalis
-- Taq Red Master Mix
+  - arm
+  - cDNA
+  - cuttlefish
+  - fin
+  - gel
+  - mantle
+  - opsin
+  - PCR
+  - retina
+  - rhodopsin
+  - Sepia officinalis
+  - Taq Red Master Mix
 ---
 
 This is an exact repeat of the PCR from yesterday, due to inconsistencies between repeated PCRs from yesterday and earlier today. [Here's yesterday's workup](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091215-02.jpg). Samples were stored @ 4C O/N after completion of PCR. Gell was run on 20091217.

@@ -8,17 +8,17 @@ slug: data-received-jays-coral-radseq-and-hollies-geoduck-epi-radseq
 title: Data Received - Jay's Coral RADseq and Hollie's Geoduck Epi-RADseq
 wordpress_id: 2481
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Anthopleura elegantissima
-- docker
-- geoduck
-- jupyter notebook
-- Panopea generosa
-- Porites astreoides
-- wget
+  - Anthopleura elegantissima
+  - docker
+  - geoduck
+  - jupyter notebook
+  - Panopea generosa
+  - Porites astreoides
+  - wget
 ---
 
 Jay received notice from [UC Berkeley](http://qb3.berkeley.edu/gsl/) that the sequencing data from [his coral RADseq](http://onsnetwork.org/jdimond/2017/02/14/rad-library-prep/) was ready. In addition, [the sequencing contains some epiRADseq data from samples provided by Hollie Putnam](https://hputnam.github.io/Putnam_Lab_Notebook/Geoduck_Larval_DNA_Extractions/). See his notebook for multiple links that describe library preparation (indexing and barcodes), sample pooling, and species breakdown.

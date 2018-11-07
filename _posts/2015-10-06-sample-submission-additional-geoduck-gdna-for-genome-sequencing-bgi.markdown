@@ -8,14 +8,14 @@ slug: sample-submission-additional-geoduck-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Additional Geoduck gDNA for Genome Sequencing @ BGI
 wordpress_id: 1857
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- '1510071003'
-- gDNA
-- geoduck
-- Panopea generosa
+  - '1510071003'
+  - gDNA
+  - geoduck
+  - Panopea generosa
 ---
 
 Previous shipment of gDNA proved to be of insufficient quantity when assessed by BGI, so needed to isolate more.

@@ -8,18 +8,18 @@ slug: dnase-treatment-jakes-o-lurida-ctenidia-rna-1hr-heat-shock-from-20150506
 title: DNase Treatment - Jake's O.lurida Ctenidia RNA (1hr Heat Shock) from 20150506
 wordpress_id: 1405
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- DNased RNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - DNase
+  - DNased RNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Since the [_O.lurida_ RNA I isolated on 20150506](http://onsnetwork.org/kubu4/2015/05/06/rna-isolation-jakes-o-lurida-ctenidia-1hr-heat-stress-from-20150422/) showed [residual gDNA via qPCR](http://onsnetwork.org/kubu4/2015/05/12/qpcr-jake-o-lurida-ctenidia-rna-heat-shock-samples-from-20150506/), I treated 1.5μg of RNA from each sample using the Turbo DNA-free Kit (Ambion/Life Technologies), following the "rigorous" protocol.

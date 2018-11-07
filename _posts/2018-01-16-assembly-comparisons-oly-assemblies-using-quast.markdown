@@ -8,15 +8,15 @@ slug: assembly-comparisons-oly-assemblies-using-quast
 title: Assembly Comparisons – Oly Assemblies Using Quast
 wordpress_id: 3045
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- QUAST
+  - assembly
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - QUAST
 ---
 
 I ran [Quast](http://quast.sourceforge.net/quast.html) to compare all of our [current Olympia oyster genome assemblies](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies/8f8c0a46e4f0c15db5174d11f024c4f6dabf3170).

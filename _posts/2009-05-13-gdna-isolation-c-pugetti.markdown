@@ -8,15 +8,15 @@ slug: gdna-isolation-c-pugetti
 title: gDNA Isolation - C.pugetti
 wordpress_id: 1071
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cycloclasticus pugetii
-- DNA Isolation
-- gDNA
-- gel
-- JGI
+  - Cycloclasticus pugetii
+  - DNA Isolation
+  - gDNA
+  - gel
+  - JGI
 ---
 
 Isolated according to [JGI protocol](http://my.jgi.doe.gov/general/protocols/DNA_Isolation_Bacterial_CTAB_Protocol.doc) (Word doc). Used 100mL, 8 day old culture inoculated from a plate on [20090505](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090505). Resuspended pellets in 740uL of TE and took an OD600 via the NanoDrop. Diluted the sample appropriately to an OD600 ~ = 1.0 in a final volume of 740uL TE ([see the last three measurements for OD600 of final dilution](http://eagle.fish.washington.edu/Arabidopsis/20090513%20C.pugetti%20SJW.bmp)).

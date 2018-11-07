@@ -8,25 +8,25 @@ slug: dna-isolation-geoduck-olympia-oyster
 title: DNA Isolation - Geoduck & Olympia Oyster
 wordpress_id: 1698
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
-- Olympia oyster reciprocal transplant
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
+  - Olympia oyster reciprocal transplant
 tags:
-- adductor muscle
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- foot
-- geoduck
-- NanoDrop1000
-- NF1A
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
-- RNAse A
-- SN49A
+  - adductor muscle
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - foot
+  - geoduck
+  - NanoDrop1000
+  - NF1A
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
+  - RNAse A
+  - SN49A
 ---
 
 Amazingly, we need more gDNA for the two genome sequencing projects (geoduck and Olympia oyster). Used geoduck "foot 1" sample from Box 1 of the [foot samples collected by Brent & Steven on 20150811.](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) Used Olympia oyster adductor muscle from Box 1 of [adductor muscle sample collected by Brent & Steven on 20150812.](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/)

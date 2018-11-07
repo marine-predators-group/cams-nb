@@ -8,19 +8,19 @@ slug: clone-restreaking-pgs2-hilo-clones-from-20110421
 title: Clone Restreaking - PGS2 Hi/Lo Clones (from 20110421)
 wordpress_id: 337
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- kanamycin
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - kanamycin
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Sequencing of the PGS2/COX2 clone failed (was empty vector). Restreaked bacterial clones on to a Kan50 plate (made 20110413 by SJW) from a plate that Caroline Storer had created from cloning colony selection on 20110421. Samples were labeled as PGS Lo 1 & 2 and PGS Hi 3 & 4. Additionally, there were red numbers on the plate associated with these four samples. They were 42 - 45, respectively. PGS Hi 4 (#45) was previously grown up and sequenced. This sample is what produced vector only sequence. Incubated O/N @ 37C. Hopefully we'll bacteria is still viable and will have samples to grow up for miniprep, plamsid iso and sequencing.

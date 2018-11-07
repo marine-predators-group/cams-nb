@@ -8,20 +8,20 @@ slug: qpcr-jake-o-lurida-ctenidia-rna-control-samples-from-20150507
 title: qPCR - Jake O.lurida ctenidia RNA (Control Samples) From 20150507
 wordpress_id: 1369
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- ctenidia
-- gill
-- olympia oyster
-- Opticon2
-- Ostrea lurida
-- qPCR
-- RNA
-- 'SR ID: 1504'
-- 'SR ID: 1505'
+  - actin
+  - ctenidia
+  - gill
+  - olympia oyster
+  - Opticon2
+  - Ostrea lurida
+  - qPCR
+  - RNA
+  - 'SR ID: 1504'
+  - 'SR ID: 1505'
 ---
 
 Ran qPCRs on the [_O.lurida_ total RNA I isolated on 20150507](http://onsnetwork.org/kubu4/2015/05/07/rna-isolation-jakes-o-lurida-ctenidia-control-from-20150422/) to assess presence of gDNA carryover with Oly Actin primers (SR IDs: 1505, 1504).

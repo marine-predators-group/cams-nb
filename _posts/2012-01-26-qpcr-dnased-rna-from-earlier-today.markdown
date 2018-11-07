@@ -8,17 +8,17 @@ slug: qpcr-dnased-rna-from-earlier-today
 title: qPCR - DNased RNA from earlier today
 wordpress_id: 281
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- CFX96
-- Crassostrea gigas
-- DNased RNA
-- gDNA
-- Pacific oyster
-- qPCR
+  - 18s
+  - CFX96
+  - Crassostrea gigas
+  - DNased RNA
+  - gDNA
+  - Pacific oyster
+  - qPCR
 ---
 
 Checked DNased RNA samples from earlier today for the presence of residual gDNA. Used C.gigas BB16 gDNA (from [20110201](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011)) diluted to ~7ng/uL as a positive control to match the dilution factor of the RNA that will be used in the reverse transcription reaction (175ng in 25uL = 7ng/uL). All samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120125-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results).

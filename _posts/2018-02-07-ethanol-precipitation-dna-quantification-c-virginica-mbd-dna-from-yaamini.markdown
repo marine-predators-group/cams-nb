@@ -8,18 +8,18 @@ slug: ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini
 title: Ethanol Precipitation & DNA Quantification - C. virginica MBD DNA from Yaamini
 wordpress_id: 3072
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Submitted
+  - Samples Submitted
 tags:
-- Crassostrea virginica
-- DNA Quantification
-- Eastern oyster
-- EtOH precipitation
-- MethylMiner Methylated DNA Enrichment Kit
-- Qubit 3.0
-- Qubit dsDNA HS
-- ZymoResearch
+  - Crassostrea virginica
+  - DNA Quantification
+  - Eastern oyster
+  - EtOH precipitation
+  - MethylMiner Methylated DNA Enrichment Kit
+  - Qubit 3.0
+  - Qubit dsDNA HS
+  - ZymoResearch
 ---
 
 Finished the ethanol precipitation as described in the [MethylMiner (Invitrogen) manual](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Invitrogen_MethylMiner_Manual.pdf) which Yaamini had previously initiated: [https://yaaminiv.github.io/Virginica-MBDSeq-Day4/](https://yaaminiv.github.io/Virginica-MBDSeq-Day4/)

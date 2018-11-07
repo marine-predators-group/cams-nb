@@ -8,15 +8,15 @@ slug: samples-received-c-gigas-tissue-dna-from-katie-lotterhos
 title: Samples Received - C.gigas Tissue & DNA from Katie Lotterhos
 wordpress_id: 1885
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- Crassostrea gigas
-- gDNA
-- mantle
-- Pacific oyster
-- RNAlater
+  - Crassostrea gigas
+  - gDNA
+  - mantle
+  - Pacific oyster
+  - RNAlater
 ---
 
 Received 6 samples from Katie today. The box was labeled and stored @ -20C.

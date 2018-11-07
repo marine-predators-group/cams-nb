@@ -8,19 +8,19 @@ slug: qpcr-rab7_sybr-primers-on-abalone-rna-and-dnased-rna
 title: qPCR - Rab7_SYBR primers on abalone RNA and DNased RNA
 wordpress_id: 1123
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- DNased RNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- Rab7_SYBR
-- RNA
-- SYTO13
+  - black abalone
+  - DNased RNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - Rab7_SYBR
+  - RNA
+  - SYTO13
 ---
 
 Attempt to find out if gDNA contamination exists iafter Ambion treatment. Previous test (on [20090414](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090414)) suggests the QT Kit did not eliminate gDNA. [PCR set up and plate layout here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090415-02.jpg). Used Immomix and SYTO 13.

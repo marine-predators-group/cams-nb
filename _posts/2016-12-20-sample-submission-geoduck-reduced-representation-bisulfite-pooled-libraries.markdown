@@ -8,14 +8,14 @@ slug: sample-submission-geoduck-reduced-representation-bisulfite-pooled-librarie
 title: Sample Submission - Geoduck Reduced Representation Bisulfite Pooled Libraries
 wordpress_id: 2414
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Submitted
+  - Samples Submitted
 tags:
-- geoduck
-- Hollie Putnam
-- Panopea generosa
-- RRBS
+  - geoduck
+  - Hollie Putnam
+  - Panopea generosa
+  - RRBS
 ---
 
 Hollie Putnam asked me to help her get samples ready for submission for Illumina sequencing at Genewiz.

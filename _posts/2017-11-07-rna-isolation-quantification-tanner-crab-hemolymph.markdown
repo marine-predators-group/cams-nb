@@ -8,19 +8,19 @@ slug: rna-isolation-quantification-tanner-crab-hemolymph
 title: RNA Isolation & Quantification - Tanner crab hemolymph
 wordpress_id: 2886
 author:
-- kubu4
+  - kubu4
 categories:
-- Tanner Crab RNAseq
+  - Tanner Crab RNAseq
 tags:
-- 3665/3873
-- 3859/3656
-- Chionoecetes bairdi
-- Qubit 3.0
-- Qubit RNA HS
-- RNA isolation
-- RNA quantification
-- RNAzol RT
-- tanner crab
+  - 3665/3873
+  - 3859/3656
+  - Chionoecetes bairdi
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA isolation
+  - RNA quantification
+  - RNAzol RT
+  - tanner crab
 ---
 
 We received three Tanner crab (_Chionoecetes bairdi_)hemolymph samples from Pam Jensen (NOAA) yesterday. From her email to Steven:

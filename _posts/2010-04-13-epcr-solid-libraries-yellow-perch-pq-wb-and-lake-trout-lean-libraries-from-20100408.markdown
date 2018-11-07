@@ -9,19 +9,19 @@ title: ePCR SOLiD Libraries - Yellow perch PQ, WB and Lake Trout Lean libraries 
   20100408)
 wordpress_id: 668
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ePCR
-- lake trout
-- Lean
-- library prep
-- PQ
-- SOLiD
-- SOLiD libraries
-- WB
-- yellow perch
+  - ePCR
+  - lake trout
+  - Lean
+  - library prep
+  - PQ
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - yellow perch
 ---
 
 ePCR was performed for the above three mentioned SOLiD libraries using 1.5pM (180 pg/uL) of cDNA, according to the ABI "full scale" ePCR protocol. ePCRs were stored @ 4C until ready for the emulsion breaking step.

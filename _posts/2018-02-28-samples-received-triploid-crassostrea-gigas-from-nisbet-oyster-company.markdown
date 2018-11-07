@@ -8,14 +8,14 @@ slug: samples-received-triploid-crassostrea-gigas-from-nisbet-oyster-company
 title: Samples Received - Triploid Crassostrea gigas from Nisbet Oyster Company
 wordpress_id: 3111
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- Crassostrea gigas
-- Nisbet Oyster Company
-- Pacific oyster
-- triploid
+  - Crassostrea gigas
+  - Nisbet Oyster Company
+  - Pacific oyster
+  - triploid
 ---
 
 Received a bag of Pacific oysters from Nisbet Oyster Company.

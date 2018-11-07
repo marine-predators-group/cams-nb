@@ -8,22 +8,22 @@ slug: western-blot-purified-his-column-decorin-fst-lap-telethonin
 title: Western Blot - Purified (His column) decorin, FST, LAP & telethonin
 wordpress_id: 1367
 author:
-- kubu4
+  - kubu4
 categories:
-- Myostatin Interacting Proteins
+  - Myostatin Interacting Proteins
 tags:
-- anti-His tag
-- chemiluminescent
-- Coomassie
-- decorin
-- follistatin
-- FST
-- LAP
-- Oncorhynchus mykiss
-- rainbow trout
-- SDS-PAGE
-- telothonin
-- Western blot
+  - anti-His tag
+  - chemiluminescent
+  - Coomassie
+  - decorin
+  - follistatin
+  - FST
+  - LAP
+  - Oncorhynchus mykiss
+  - rainbow trout
+  - SDS-PAGE
+  - telothonin
+  - Western blot
 ---
 
 10uL of each sample from yesterday (binding supe, washes and elution fractions) were mixed with 2x sample reducing buffer and boiled 5 mins. Samples were loaded onto Pierce 4-20% Tris-Glycine SDS/PAGE gels. 10uL of SeeBlue ladder was loaded. 5uL of positive control lysate was loaded. Gels were run @ 150V for 45mins.

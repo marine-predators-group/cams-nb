@@ -8,15 +8,15 @@ slug: ethanol-precpitation-dnased-rna-bb01-from-earlier-today
 title: Ethanol Precpitation - DNased RNA BB01 (from earlier today)
 wordpress_id: 424
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DNased RNA
-- EtOH precipitation
-- Pacific oyster
+  - BB
+  - Crassostrea gigas
+  - DNased RNA
+  - EtOH precipitation
+  - Pacific oyster
 ---
 
 Due to residual gDNA contamination, will EtOH precipitate in order to treat with DNase again. Add 0.5 vols 3M NaAOc (pH=

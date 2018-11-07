@@ -9,16 +9,16 @@ title: Installation - Microsoft Machine Learning Server (Microsoft R Open) on Em
   R Studio Server
 wordpress_id: 3606
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- emu
-- Microsoft R Open
-- MRO
-- R
-- R Studio
-- roadrunner
+  - emu
+  - Microsoft R Open
+  - MRO
+  - R
+  - R Studio
+  - roadrunner
 ---
 
 Steven recently saw an announcement that Microsoft R Open now handles multi-threaded processing (default R does not), so we were interested in trying it out. I installed MLR/MRO on Emu/Roadrunner (Apple Xserve; Ubuntu 16.04). [Followed the Microsoft installation directions for Ubuntu](https://docs.microsoft.com/en-us/machine-learning-server/install/machine-learning-server-linux-install). In retrospect, I think I could've just installed MRO, but this gets the job done as well and won't hurt anything.

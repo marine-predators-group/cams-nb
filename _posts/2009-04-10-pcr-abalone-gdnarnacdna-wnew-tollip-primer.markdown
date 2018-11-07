@@ -8,20 +8,20 @@ slug: pcr-abalone-gdnarnacdna-wnew-tollip-primer
 title: PCR - Abalone gDNA/RNA/cDNA w/new TOLLIP primer
 wordpress_id: 1137
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Ab_866_Rv
-- black abalone
-- cDNA
-- DNased RNA
-- gDNA
-- H.discus_806_F
-- Haliotis cracherodii
-- PCR
-- RNA
-- TOLLIP
+  - Ab_866_Rv
+  - black abalone
+  - cDNA
+  - DNased RNA
+  - gDNA
+  - H.discus_806_F
+  - Haliotis cracherodii
+  - PCR
+  - RNA
+  - TOLLIP
 ---
 
 Performed a new PCR on the three types of samples listed above with new TOLLIP primers. The new TOLLIP primers (H.discus_806_F/Ab_866_Rv) surround a putative intron. Thus, they will be useful for determining the presence of gDNA contamination in RNA/cDNA. Anneal temp 55C. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090410-02.jpg) .

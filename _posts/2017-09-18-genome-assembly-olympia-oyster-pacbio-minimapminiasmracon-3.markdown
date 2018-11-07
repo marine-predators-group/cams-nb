@@ -8,9 +8,9 @@ slug: genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-3
 title: Genome Assembly - Olympia oyster PacBio minimap/miniasm/racon
 wordpress_id: 2715
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 ---
 
 In this [GitHub Issue](https://github.com/RobertsLab/project-olympia.oyster-genomic/issues/29), Steven had suggested I try out the minimap/miniasm/racon pipeline for assembling our Olympia oyster PacBio data.

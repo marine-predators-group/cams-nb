@@ -8,16 +8,16 @@ slug: hrm-lake-trout-snps-hrm-white-01
 title: HRM - Lake Trout SNPs (HRM-white-01)
 wordpress_id: 874
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- high resolution melt curve
-- HRM
-- lake trout
-- LightCycler480
-- LTP01
-- SNPs
+  - high resolution melt curve
+  - HRM
+  - lake trout
+  - LightCycler480
+  - LTP01
+  - SNPs
 ---
 
 The following primers from primer plate LTP01 will be used for analysis of [Rick's Lake Trout DNA plate](http://eagle.fish.washington.edu/Arabidopsis/Lake%20Trout%20DNA1%20Plate%2020090428.jpg) (from 4/28/2009): A1, C1, H1, B2. So, that's 4 primer sets x 96 DNA samples = 384. [HRM set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090904-01.jpg). A 1:10 dilution plate of [Rick's Lake Trout DNA1 plate](http://eagle.fish.washington.edu/Arabidopsis/Lake%20Trout%20DNA1%20Plate%2020090428.jpg) (from 4/28/2009) was made for HRM. This means approximately 20ng of DNA used in each rxn. The robot was used to add 1uL of DNA from the 96-well plate to the appropriate wells of the 384-well HRM rxn plate. Plate was spun to collect the DNA at the bottom of the wells. The wells were visually inspected to ensure that each received the DNA. 1uL of DNA was manually added to those wells that did not receive sample (B23, C23).

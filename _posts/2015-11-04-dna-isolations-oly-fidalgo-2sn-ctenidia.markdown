@@ -8,16 +8,16 @@ slug: dna-isolations-oly-fidalgo-2sn-ctenidia
 title: DNA Isolations – Oly Fidalgo 2SN Ctenidia
 wordpress_id: 1755
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Isolation
-- E.Z.N.A. Mollusc Kit
-- Fidalgo 2SN
-- gDNA
-- olympia oyster
-- Ostrea lurida
+  - DNA Isolation
+  - E.Z.N.A. Mollusc Kit
+  - Fidalgo 2SN
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Isolated DNA from 24 2SN ctenidia samples from [Friday's sampling](http://onsnetwork.org/kubu4/2015/10/30/oyster-sampling-oly-fidalgo-2sn-2hl-2nf-reciprocal-transplants-final-samplings/) (#32 - 55). Samples were thawed at RT.

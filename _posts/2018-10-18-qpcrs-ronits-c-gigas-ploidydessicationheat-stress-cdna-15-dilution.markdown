@@ -8,42 +8,42 @@ slug: qpcrs-ronits-c-gigas-ploidydessicationheat-stress-cdna-15-dilution
 title: qPCRs - Ronit's C.gigas ploidy/dessication/heat stress cDNA (1:5 dilution)
 wordpress_id: 3669
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cfx connect
-- Cg_18s_F
-- Cg_18s_R
-- Cg_DNMT1_F
-- Cg_DNMT1_R
-- Cg_hsc70_F
-- Cg_hsc70_R2
-- Cg_Hsp90_F
-- Cg_Hsp90_R
-- Cg_Prx6_F
-- Cg_Prx6_R
-- Crassostrea gigas
-- dessication
-- EF1_qPCR_3'
-- EF1_qPCR_5'
-- heat shock
-- Pacific oyster
-- ploidy
-- qPCR
-- 'SR ID: 1381'
-- 'SR ID: 1382'
-- 'SR ID: 1396'
-- 'SR ID: 1408'
-- 'SR ID: 1409'
-- 'SR ID: 1416'
-- 'SR ID: 1510'
-- 'SR ID: 1511'
-- 'SR ID: 1532'
-- 'SR ID: 1533'
-- 'SR ID: 308'
-- 'SR ID: 309'
-- SsoFast EvaGreen Supermix
+  - cfx connect
+  - Cg_18s_F
+  - Cg_18s_R
+  - Cg_DNMT1_F
+  - Cg_DNMT1_R
+  - Cg_hsc70_F
+  - Cg_hsc70_R2
+  - Cg_Hsp90_F
+  - Cg_Hsp90_R
+  - Cg_Prx6_F
+  - Cg_Prx6_R
+  - Crassostrea gigas
+  - dessication
+  - EF1_qPCR_3'
+  - EF1_qPCR_5'
+  - heat shock
+  - Pacific oyster
+  - ploidy
+  - qPCR
+  - 'SR ID: 1381'
+  - 'SR ID: 1382'
+  - 'SR ID: 1396'
+  - 'SR ID: 1408'
+  - 'SR ID: 1409'
+  - 'SR ID: 1416'
+  - 'SR ID: 1510'
+  - 'SR ID: 1511'
+  - 'SR ID: 1532'
+  - 'SR ID: 1533'
+  - 'SR ID: 308'
+  - 'SR ID: 309'
+  - SsoFast EvaGreen Supermix
 ---
 
 IMPORTANT: The cDNA used for the qPCRs described below was a 1:5 dilution of [Ronit's cDNA made 20181017](http://onsnetwork.org/kubu4/2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna/) with the following [primers](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)! Diluted cDNA was stored in his -20oC box with his original cDNA.

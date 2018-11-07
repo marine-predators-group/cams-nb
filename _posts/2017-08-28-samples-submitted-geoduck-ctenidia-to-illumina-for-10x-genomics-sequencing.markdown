@@ -8,16 +8,16 @@ slug: samples-submitted-geoduck-ctenidia-to-illumina-for-10x-genomics-sequencing
 title: Samples Submitted - Geoduck Ctenidia to Illumina for 10x Genomics Sequencing
 wordpress_id: 2699
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Samples Submitted
+  - Geoduck Genome Sequencing
+  - Samples Submitted
 tags:
-- 10x genomics
-- ctenidia
-- geoduck
-- Illumina
-- Panopea generosa
+  - 10x genomics
+  - ctenidia
+  - geoduck
+  - Illumina
+  - Panopea generosa
 ---
 
 Continuing Illumina's generous efforts to use our geoduck samples to test out the robustness of their emerging sequencing technologies, they have requested we send them some geoduck tissue so that they can try to complete the genome sequencing efforts using the 10x genomics sequencing platform.

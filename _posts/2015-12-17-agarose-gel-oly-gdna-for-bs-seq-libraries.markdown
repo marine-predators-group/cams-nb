@@ -8,32 +8,32 @@ slug: agarose-gel-oly-gdna-for-bs-seq-libraries
 title: Agarose Gel - Oly gDNA for BS-seq Libraries
 wordpress_id: 1872
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF12
-- 1NF13
-- 1NF14
-- 1NF15
-- 1NF16
-- 1NF17
-- 1NF18
-- 2NF1
-- 2NF2
-- 2NF3
-- 2NF4
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- gDNA
-- gel
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
+  - 1NF11
+  - 1NF12
+  - 1NF13
+  - 1NF14
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 1NF18
+  - 2NF1
+  - 2NF2
+  - 2NF3
+  - 2NF4
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - gDNA
+  - gel
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Ran 1μL of each sample from [yesterday's DNA isolation](http://onsnetwork.org/kubu4/2015/12/16/dna-isolation-oly-gdna-for-bs-seq/) on a 0.8% agarose, low-TAE gel, stained with ethidium bromide.

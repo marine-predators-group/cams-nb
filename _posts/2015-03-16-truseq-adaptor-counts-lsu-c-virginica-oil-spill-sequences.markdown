@@ -8,23 +8,23 @@ slug: truseq-adaptor-counts-lsu-c-virginica-oil-spill-sequences
 title: TruSeq Adaptor Counts – LSU C.virginica Oil Spill Sequences
 wordpress_id: 923
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- barcodes
-- bioinformatics
-- Crassostrea virginica
-- demultiplexing
-- Eastern oyster
-- FASTQ
-- fastx_barcode_splitter
-- grep
-- ipython notebook
-- jupyter notebook
-- LSU
-- oil
-- TruSeq
+  - barcodes
+  - bioinformatics
+  - Crassostrea virginica
+  - demultiplexing
+  - Eastern oyster
+  - FASTQ
+  - fastx_barcode_splitter
+  - grep
+  - ipython notebook
+  - jupyter notebook
+  - LSU
+  - oil
+  - TruSeq
 ---
 
 Initial analysis, [comparing barcode identification methods](http://onsnetwork.org/kubu4/2015/03/14/truseq-adaptor-identification-method-comparison-lsu-c-virginica-oil-spill-sequences/), revealed the following info about demultiplexing on untrimmed sequences:

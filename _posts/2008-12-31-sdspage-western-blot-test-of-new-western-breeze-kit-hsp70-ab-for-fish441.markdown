@@ -8,24 +8,24 @@ slug: sdspage-western-blot-test-of-new-western-breeze-kit-hsp70-ab-for-fish441
 title: SDS/PAGE, Western Blot - Test of new Western Breeze Kit & HSP70 Ab for FISH441
 wordpress_id: 1337
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- anti-HSP70
-- anti-myc
-- antibody
-- Coomassie
-- Crassostrea gigas
-- MSTN
-- MSTN1b
-- myostatin
-- Pacific oyster
-- protein
-- SDS-PAGE
-- SeeBlue Plus
-- Western blot
-- Western Breeze Chromogenic (anti-mouse) Kit
+  - anti-HSP70
+  - anti-myc
+  - antibody
+  - Coomassie
+  - Crassostrea gigas
+  - MSTN
+  - MSTN1b
+  - myostatin
+  - Pacific oyster
+  - protein
+  - SDS-PAGE
+  - SeeBlue Plus
+  - Western blot
+  - Western Breeze Chromogenic (anti-mouse) Kit
 ---
 
 Ran varying amounts of Gigas Gill 24hr Control protein extract from [20080917](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20080917). See table below:

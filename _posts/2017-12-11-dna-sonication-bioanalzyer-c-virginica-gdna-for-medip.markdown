@@ -8,17 +8,17 @@ slug: dna-sonication-bioanalzyer-c-virginica-gdna-for-medip
 title: DNA Sonication & Bioanalzyer - C. virginica gDNA for MeDIP
 wordpress_id: 2956
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- Crassostrea virginica
-- DNA 12000 assay
-- DNA Shearing
-- Eastern oyster
-- qsonica
-- sonication
+  - bioanalyzer
+  - Crassostrea virginica
+  - DNA 12000 assay
+  - DNA Shearing
+  - Eastern oyster
+  - qsonica
+  - sonication
 ---
 
 I transferred 8ug (136uL) of _Crassotrea virginica_ gDNA ([isolated earlier today](http://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/)) to two separate 1.7mL snap cap tubes for sonication/shearing.

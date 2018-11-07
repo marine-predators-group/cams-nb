@@ -9,18 +9,18 @@ title: EtOH Precipitation - Rick's trout Ribosomoal-depleted RNA for SOLiD WTK (
   today)
 wordpress_id: 858
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- library prep
-- mRNA
-- RBC
-- RNA
-- SOLiD
-- SOLiD libraries
-- trout
+  - EtOH precipitation
+  - library prep
+  - mRNA
+  - RBC
+  - RNA
+  - SOLiD
+  - SOLiD libraries
+  - trout
 ---
 
 The "control" and "poly I:C" samples prepared earlier today were EtOH precipitated in preparation for fragmentation.

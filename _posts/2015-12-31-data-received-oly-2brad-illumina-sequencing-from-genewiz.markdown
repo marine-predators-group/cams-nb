@@ -8,19 +8,19 @@ slug: data-received-oly-2brad-illumina-sequencing-from-genewiz
 title: Data Received - Oly 2bRAD Illumina Sequencing from Genewiz
 wordpress_id: 1924
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 2bRAD
-- bash
-- code
-- command line
-- olympia oyster
-- Ostrea lurida
-- RAD
-- shell
+  - 2bRAD
+  - bash
+  - code
+  - command line
+  - olympia oyster
+  - Ostrea lurida
+  - RAD
+  - shell
 ---
 
 The data was made available to use on 20151224 and took two days to download.

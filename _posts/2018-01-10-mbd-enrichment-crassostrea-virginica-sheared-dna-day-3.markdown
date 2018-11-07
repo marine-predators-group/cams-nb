@@ -8,16 +8,16 @@ slug: mbd-enrichment-crassostrea-virginica-sheared-dna-day-3
 title: MBD Enrichment – Crassostrea virginica Sheared DNA Day 3
 wordpress_id: 3010
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- EtOH precipitation
-- MBD
-- MBD enrichment
-- MethylMiner Methylated DNA Enrichment Kit
+  - Crassostrea virginica
+  - Eastern oyster
+  - EtOH precipitation
+  - MBD
+  - MBD enrichment
+  - MethylMiner Methylated DNA Enrichment Kit
 ---
 
 Continued MBD enrichment of _C.virginica_ DNA [from yesterday](http://onsnetwork.org/kubu4/2018/01/09/mbd-enrichment…ared-dna-day-2/) for Qiagen project.

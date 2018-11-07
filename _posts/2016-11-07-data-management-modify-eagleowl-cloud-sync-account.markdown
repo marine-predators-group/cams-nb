@@ -8,14 +8,14 @@ slug: data-management-modify-eagleowl-cloud-sync-account
 title: Data Management - Modify Eagle/Owl Cloud Sync Account
 wordpress_id: 2330
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Cloud Sync
-- Eagle
-- owl
-- Synology
+  - Cloud Sync
+  - Eagle
+  - owl
+  - Synology
 ---
 
 Re-examining our backup options for our two Synology servers (Eagle & Owl), I realized that they were both backing up to the just my account on UW's unlimited Google Drive storage.

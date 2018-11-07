@@ -8,17 +8,17 @@ slug: dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings
 title: DNA Isolations - Fidalgo 2SN Reciprocal Transplants Final Samplings
 wordpress_id: 1737
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- ctenidia
-- DNA Isolation
-- E.Z.N.A. Mollusc Kit
-- Fidalgo 2SN
-- olympia oyster
-- Ostrea lurida
-- RNAlater
+  - ctenidia
+  - DNA Isolation
+  - E.Z.N.A. Mollusc Kit
+  - Fidalgo 2SN
+  - olympia oyster
+  - Ostrea lurida
+  - RNAlater
 ---
 
 The remaining Olympia oysters from Jake Heare's reciprocal transplant experiment have been retrieved from field sites and are awaiting sampling. The oysters have been stored in the cold room (temp?) for 6 days so far.

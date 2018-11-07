@@ -8,13 +8,13 @@ slug: qpcr-gigas-dna-for-opticon-testing
 title: qPCR - Gigas DNA for Opticon testing
 wordpress_id: 900
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Opticon2
-- qPCR
-- troubleshooting
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 Due to some weird anomolies seen during my previous qPCRs with the H.crach RNA/cDNA samples (positive controls produced good fluorescence when tested in Column 1 of the Opticon, but consistently failed to produce virtually any fluorescence when in Column 6 of the Opticon), I've decided to check the Opticon's fluorescence detection.

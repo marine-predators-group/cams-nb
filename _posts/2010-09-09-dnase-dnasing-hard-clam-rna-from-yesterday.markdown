@@ -8,21 +8,21 @@ slug: dnase-dnasing-hard-clam-rna-from-yesterday
 title: DNase - DNasing Hard Clam RNA from yesterday
 wordpress_id: 595
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- DNase
-- DNased RNA
-- Hard clam
-- MA
-- MAX
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - CA
+  - DNase
+  - DNased RNA
+  - Hard clam
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Pooled 2ug of each sample in each group (MAX, CA, MA) for a total of 6ug of RNA (3 total samples), brought volume up to 50uL and DNased using Ambion's Turbo DNA-free following the rigorous protocol. Calcs can be seen here. Spec'd:

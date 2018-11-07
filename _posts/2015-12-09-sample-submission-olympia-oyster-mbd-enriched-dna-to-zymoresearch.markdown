@@ -8,38 +8,38 @@ slug: sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch
 title: Sample Submission - Olympia oyster MBD-enriched DNA to ZymoResearch
 wordpress_id: 1997
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
-- Samples Submitted
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
+  - Samples Submitted
 tags:
-- BS-seq
-- hc1_2B
-- hc1_4B
-- hc2_15B
-- hc2_17
-- hc3_1
-- hc3_10
-- hc3_11
-- hc3_5
-- hc3_7
-- hc3_9
-- MBD
-- MBD enrichment
-- MBD-Seq
-- olympia oyster
-- Ostrea lurida
-- ss2_14B
-- ss2_18B
-- ss2_9B
-- ss3_14B
-- ss3_15B
-- ss3_16B
-- ss3_20
-- ss3_3B
-- ss3_4B
-- ss5_18
+  - BS-seq
+  - hc1_2B
+  - hc1_4B
+  - hc2_15B
+  - hc2_17
+  - hc3_1
+  - hc3_10
+  - hc3_11
+  - hc3_5
+  - hc3_7
+  - hc3_9
+  - MBD
+  - MBD enrichment
+  - MBD-Seq
+  - olympia oyster
+  - Ostrea lurida
+  - ss2_14B
+  - ss2_18B
+  - ss2_9B
+  - ss3_14B
+  - ss3_15B
+  - ss3_16B
+  - ss3_20
+  - ss3_3B
+  - ss3_4B
+  - ss5_18
 ---
 
 We opted to go with ZymoResearch for this project because they could do the bisulfite treatment and finish the sequencing by the end of January.

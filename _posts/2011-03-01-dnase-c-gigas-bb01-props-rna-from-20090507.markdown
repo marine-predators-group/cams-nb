@@ -8,17 +8,17 @@ slug: dnase-c-gigas-bb01-props-rna-from-20090507
 title: DNase - C.gigas BB01 (PROPS) RNA (from 20090507)
 wordpress_id: 410
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DNase
-- NanoDrop1000
-- Pacific oyster
-- RNA quantification
-- Turbo DNA-free
+  - BB
+  - Crassostrea gigas
+  - DNase
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Since the previous DNase treatment failed for this sample, will repeat but will start with less RNA (5ug instead of 10ug). Need more DNased RNA to finish repeating of PROPS. Some samples had insufficient quantities of DNased RNA remaining in BB01. Used 5ug of RNA and followed Ambion's "rigorous" protocol, utilizing a total of 2uL of DNAse for each sample. Briefly, samples were incubated @ 37C for 30mins, an additional 1uL of DNase was added to each sample, mixed and incubated for an additional 30mins @ 37C. After finishing protocol, samples were spec'd.

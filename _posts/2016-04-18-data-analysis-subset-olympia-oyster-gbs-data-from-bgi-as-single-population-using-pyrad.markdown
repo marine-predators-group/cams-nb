@@ -9,18 +9,18 @@ title: Data Analysis - Subset Olympia Oyster GBS Data from BGI as Single Populat
   Using PyRAD
 wordpress_id: 2088
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- .vcf
-- IGV
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- pyrad
-- SNPs
+  - .vcf
+  - IGV
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - pyrad
+  - SNPs
 ---
 
 Attempting to get some sort of analysis of the _Ostrea lurida_ [GBS data from BGI](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015), particularly since [the last run at it using Stacks](http://onsnetwork.org/kubu4/2016/04/06/data-analysis-oly-gbs-data-from-bgi/) crashed (literally) and burned (not literally).

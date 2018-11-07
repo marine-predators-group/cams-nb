@@ -8,15 +8,15 @@ slug: docker-virtualbox-defaults-on-os-x
 title: Docker - VirtualBox Defaults on OS X
 wordpress_id: 2150
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- docker
-- OS X
-- roadrunner
-- virtualbox
-- Xserve
+  - docker
+  - OS X
+  - roadrunner
+  - virtualbox
+  - Xserve
 ---
 
 I noticed a discrepancy between what system info is detected natively on Roadrunner (Apple Xserve) and what was being shown when I started a Docker container.

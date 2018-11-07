@@ -8,19 +8,19 @@ slug: genomic-dna-isolation-geoduck-adductor-muscle-foot
 title: Genomic DNA Isolation - Geoduck Adductor Muscle & Foot
 wordpress_id: 1556
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- adductor muscle
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- foot
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - adductor muscle
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - foot
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer's protocol, with the following adjustments:

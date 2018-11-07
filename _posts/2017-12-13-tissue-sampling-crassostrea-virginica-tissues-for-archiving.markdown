@@ -8,13 +8,13 @@ slug: tissue-sampling-crassostrea-virginica-tissues-for-archiving
 title: Tissue Sampling - Crassostrea virginica Tissues for Archiving
 wordpress_id: 2988
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- pics
+  - Crassostrea virginica
+  - Eastern oyster
+  - pics
 ---
 
 I figured it'd be prudent to collect some Eastern oyster (_Crassotrea virginica_) to have around the lab.

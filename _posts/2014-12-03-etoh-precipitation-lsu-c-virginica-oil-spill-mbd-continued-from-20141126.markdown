@@ -8,16 +8,16 @@ slug: etoh-precipitation-lsu-c-virginica-oil-spill-mbd-continued-from-20141126
 title: EtOH Precipitation - LSU C.virginica Oil Spill MBD Continued (from 20141126)
 wordpress_id: 67
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- DNA Quantification
-- Eastern oyster
-- EtOH precipitation
-- library prep
-- MBD-Seq
+  - Crassostrea virginica
+  - DNA Quantification
+  - Eastern oyster
+  - EtOH precipitation
+  - library prep
+  - MBD-Seq
 ---
 
 Precipitation was continued according to the MethylMiner Methylated DNA Enrichment Kit (Invitrogen). Since I will need sample volumes of 24uL for the subsequent bisulfite conversion, I resuspended the samples in 29uL of water (will use 2.5uL x 2 reps for quantification).

@@ -8,14 +8,14 @@ slug: computing-a-very-quick-guide-to-amazon-ec2-continued
 title: Computing - A Very Quick "Guide" to Amazon EC2 Continued
 wordpress_id: 2197
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EBS
-- EC2
-- s3fs-fuse
-- scp
+  - EBS
+  - EC2
+  - s3fs-fuse
+  - scp
 ---
 
 [Yesterday's post](http://onsnetwork.org/kubu4/2016/07/13/computing-the-very-quick-guide-to-amazon-web-services-cloud-computing-instances-ec2/) ended with me trying to mount a S3 bucket to my EC2 instance using [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse).

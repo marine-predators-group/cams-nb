@@ -8,13 +8,13 @@ slug: ubuntu-installation-convert-apple-xserve-bigfish-to-ubuntu
 title: Ubuntu Installation - Convert Apple Xserve "bigfish" to Ubuntu
 wordpress_id: 3118
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- bigfish
-- ubuntu
-- Xserve
+  - bigfish
+  - ubuntu
+  - Xserve
 ---
 
 Due to hardware limitations on the Apple Xserves we have, we can't use drives >2TB in size. "Bigfish" was set up to be RAID'd and, as such, has three existing HDDs installed.

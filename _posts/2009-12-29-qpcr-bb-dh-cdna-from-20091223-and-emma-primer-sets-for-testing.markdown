@@ -8,19 +8,19 @@ slug: qpcr-bb-dh-cdna-from-20091223-and-emma-primer-sets-for-testing
 title: qPCR - BB & DH cDNA (from 20091223) and Emma primer sets for testing
 wordpress_id: 728
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- cDNA
-- Crassostrea gigas
-- DH
-- DPGN1
-- Opticon2
-- Pacific oyster
-- PGSC1
-- qPCR
+  - BB
+  - cDNA
+  - Crassostrea gigas
+  - DH
+  - DPGN1
+  - Opticon2
+  - Pacific oyster
+  - PGSC1
+  - qPCR
 ---
 
 qPCR was set up on these cDNAs using the following primers:

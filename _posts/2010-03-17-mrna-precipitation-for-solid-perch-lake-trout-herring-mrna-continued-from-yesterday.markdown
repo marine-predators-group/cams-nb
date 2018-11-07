@@ -9,28 +9,28 @@ title: mRNA Precipitation for SOLiD - Perch, Lake Trout, & Herring mRNA (CONTINU
   from yesterday)
 wordpress_id: 696
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- CT
-- lake trout
-- Lean
-- library prep
-- Micro PolyA Purist
-- mRNA enrichment
-- NanoDrop1000
-- Pacific herring
-- PQ
-- Ribominus Concentration Module Kit
-- RNA quantification
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- WB
-- yellow perch
+  - 1 G/O HPWS09
+  - CT
+  - lake trout
+  - Lean
+  - library prep
+  - Micro PolyA Purist
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific herring
+  - PQ
+  - Ribominus Concentration Module Kit
+  - RNA quantification
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - yellow perch
 ---
 
 mRNA was pelleted and washed according to Ambion's MicroPolyA Purist Kit. Pellets were resuspended in 8uL nuclease-free H2O and spec'd. 0.5uL was taken from each sample, transferred to a fresh tube, diluted to ~5ng/uL and stored @ -80C for eventual Bioanalyzer analysis. mRNA samples were stored @ -80C until we receive the Ribominus Concentration Module Kit from Invitrogen (turns out we didn't have any!) for cleaning up the RNA after fragmentation.

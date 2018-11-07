@@ -8,17 +8,17 @@ slug: dnase-treatment-mv-hemocyte-rna-from-yesterday
 title: DNase Treatment - MV hemocyte RNA from yesterday
 wordpress_id: 1017
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DNase
-- Eastern oyster
-- hemocyte
-- Martha's Vineyard
-- RNA
-- Turbo DNA-free
+  - Crassostrea virginica
+  - DNase
+  - Eastern oyster
+  - hemocyte
+  - Martha's Vineyard
+  - RNA
+  - Turbo DNA-free
 ---
 
 Samples 3326: B23, A25, A22, B14, A21, A10 B22 came up positive for gDNA still. These were retreated according to Ambion protocol with a brand new Turbo DNA-free DNase kit. Additionally, I tested all three existing kits by "spiking" 19uL of H2O with 1uL (~200ng) of gigas gDNA; one tube for each kit and an untreated sample. Will qPCR to see if gDNA removal was successful.

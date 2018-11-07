@@ -8,16 +8,16 @@ slug: titrations-hollies-seawater-samples-3
 title: Titrations - Hollie's Seawater Samples
 wordpress_id: 3190
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- A10
-- CRM 168
-- Rondolino
-- T5 Excellence
-- TA
-- total alkalinity
+  - A10
+  - CRM 168
+  - Rondolino
+  - T5 Excellence
+  - TA
+  - total alkalinity
 ---
 
 All data is deposited in the following GitHub repo:

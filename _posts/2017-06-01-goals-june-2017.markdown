@@ -8,12 +8,12 @@ slug: goals-june-2017
 title: Goals - June 2017
 wordpress_id: 2595
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 tags:
-- manuscript
-- PeerJ
+  - manuscript
+  - PeerJ
 ---
 
 Well, my previous goal was to tidy up an [existing manuscript](https://github.com/RobertsLab/paper-Olurida-gene) and get it re-submitted to PeerJ. That's pretty much done, as Steven will be giving a final once over and formatting the rebuttal letter prior to resubmission.

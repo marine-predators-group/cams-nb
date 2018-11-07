@@ -8,15 +8,15 @@ slug: titrations-yaaminis-seawater-samples-2
 title: Titrations - Yaamini's Seawater Samples
 wordpress_id: 3196
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Rondolino
-- T5 Excellence
-- TA
-- titration
-- total alkalinity
+  - Rondolino
+  - T5 Excellence
+  - TA
+  - titration
+  - total alkalinity
 ---
 
 All data is deposited in the following GitHub repo:

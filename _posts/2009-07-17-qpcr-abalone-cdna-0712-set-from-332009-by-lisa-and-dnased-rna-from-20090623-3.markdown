@@ -9,20 +9,20 @@ title: qPCR - Abalone cDNA (07:12 set from 3/3/2009 by Lisa) and DNased RNA (fro
   20090623)
 wordpress_id: 944
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 07:12
-- black abalone
-- cDNA
-- DNased RNA
-- H.crach_h-1fg_intron
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
+  - 07:12
+  - black abalone
+  - cDNA
+  - DNased RNA
+  - H.crach_h-1fg_intron
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
 ---
 
 This is nearly a repeat of the qPCR earlier today due to the fact that the positive control never amplified. This is being done to check whether or not there is gDNA contamination in these cDNA and DNased RNA. Will use H.crach_h-1fg_intron primers. In hopes of remedying the positive control issue, I have used three sets of gDNA and used 5uL instead of the usual 1uL for their respective reactions. qPCR plate layout/set up is here. Anneal temp 50C.

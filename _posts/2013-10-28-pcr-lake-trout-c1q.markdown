@@ -8,15 +8,15 @@ slug: pcr-lake-trout-c1q
 title: PCR - Lake Trout C1q
 wordpress_id: 186
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bisulfite PCR
-- C1q
-- lake trout
-- PCR
-- Salvelinus namaycush
+  - bisulfite PCR
+  - C1q
+  - lake trout
+  - PCR
+  - Salvelinus namaycush
 ---
 
 Repeated PCR from [20130919](/Sam%27s+Working+Notebook+July+-+December+2013#sjw20130919), but with a newly designed reverse primer. Primers were designed using MethPrimer (SR IDs: 1553, 1555). Primers were designed using MethPrimer:

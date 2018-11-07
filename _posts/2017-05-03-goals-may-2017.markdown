@@ -8,9 +8,9 @@ slug: goals-may-2017
 title: Goals - May 2017
 wordpress_id: 2562
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 A day late, but definitely not a dollar short!

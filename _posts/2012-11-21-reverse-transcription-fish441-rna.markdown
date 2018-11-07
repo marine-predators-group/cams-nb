@@ -8,13 +8,13 @@ slug: reverse-transcription-fish441-rna
 title: Reverse Transcription - FISH441 RNA
 wordpress_id: 206
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- FISH441
-- M-MLV
-- reverse transcription
+  - FISH441
+  - M-MLV
+  - reverse transcription
 ---
 
 Reverse transcribed the class FISH441 RNA to cDNA. Followed protocol provided on the FISH441 Wiki page, NOT the usual Roberts Lab protocol, with some modifications.

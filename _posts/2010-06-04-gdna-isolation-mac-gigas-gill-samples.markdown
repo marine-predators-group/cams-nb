@@ -8,18 +8,18 @@ slug: gdna-isolation-mac-gigas-gill-samples
 title: gDNA Isolation - Mac gigas gill samples
 wordpress_id: 639
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNazol
-- gill
-- Pacific oyster
-- R37
-- R51
-- RNAlater
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNazol
+  - gill
+  - Pacific oyster
+  - R37
+  - R51
+  - RNAlater
 ---
 
 Set up gDNA isolation from the following samples:

@@ -8,18 +8,18 @@ slug: manuscript-writing-the-nuances-of-using-authorea
 title: Manuscript Writing - The "Nuances" of Using Authorea
 wordpress_id: 2456
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Miscellaneous
+  - Genotype-by-sequencing at BGI
+  - Miscellaneous
 tags:
-- Authorea
-- BibTeX
-- LaTeX
-- manuscript
-- olympia oyster
-- Ostrea lurida
-- troubleshooting
+  - Authorea
+  - BibTeX
+  - LaTeX
+  - manuscript
+  - olympia oyster
+  - Ostrea lurida
+  - troubleshooting
 ---
 
 I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_gbs) covering our [genotype-by-sequencing data for the Olympia oyster](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015) using the [Authorea.com platform](https://www.authorea.com/users/4974/articles/149442) and am encountering some issues that are a bit frustrating. Here's what's happening (and the ways I've managed to get around the problems).

@@ -8,16 +8,16 @@ slug: genome-annoation-olympia-oyster-genome-annotation-results-01
 title: 'Genome Annoation - Olympia oyster genome annotation results #01'
 wordpress_id: 3487
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- annotation
-- genome
-- maker
-- olympia oyster
-- Ostrea lurida
-- wq-maker
+  - annotation
+  - genome
+  - maker
+  - olympia oyster
+  - Ostrea lurida
+  - wq-maker
 ---
 
 Yesterday, [I annotated our Olympia oyster genome using WQ-MAKER in just 7hrs!](http://onsnetwork.org/kubu4/2018/08/07/genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream/).

@@ -9,16 +9,16 @@ title: qPCR - Dave's Manila Calm (Venerupis philippinarum) DNased RNA from yeste
   and 20120302
 wordpress_id: 265
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- beta actin
-- CFX96
-- DNased RNA
-- Manila clam
-- qPCR
-- Venerupis philippinarum
+  - beta actin
+  - CFX96
+  - DNased RNA
+  - Manila clam
+  - qPCR
+  - Venerupis philippinarum
 ---
 
 Performed qPCR on all DNased RNA samples from this group (samples #1-48) using beta actin primers (SR IDs: 1379, 1380). 0.5uL of each DNased RNA was used, which was the equivalent of ~40ng, in order to simulate the amount of RNA present in the subsequent cDNA (1000ng of RNA in 25uL cDNA; use 1uL of cDNA in qPCR reaction). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120308-01.jpg). Plate layout, cycling params, etc., can be found in the qPCR Report (see Results). 0.5uL of total RNA from sample Vp gill 01 was used to serve as a positive control, since Dave has no existing V. phillippinarum cDNA.

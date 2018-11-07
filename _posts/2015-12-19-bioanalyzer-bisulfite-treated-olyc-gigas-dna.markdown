@@ -8,32 +8,32 @@ slug: bioanalyzer-bisulfite-treated-olyc-gigas-dna
 title: Bioanalyzer - Bisulfite-treated Oly/C.gigas DNA
 wordpress_id: 1898
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- bioanalyzer
-- Crassostrea gigas
-- electropherogram
-- Katherine Silliman
-- Katie Lotterhos
-- M2
-- M3
-- NF2_18
-- NF2_6
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- RNA Pico 6000
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - bioanalyzer
+  - Crassostrea gigas
+  - electropherogram
+  - Katherine Silliman
+  - Katie Lotterhos
+  - M2
+  - M3
+  - NF2_18
+  - NF2_6
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - RNA Pico 6000
 ---
 
 Following the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf), I ran 1μL of each sample on an RNA Pico 6000 chip on the Seeb Lab's Bioanalyzer 2100 (Agilent) to confirm that [bisulfite conversion from earlier today](http://onsnetwork.org/kubu4/2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq/) worked.

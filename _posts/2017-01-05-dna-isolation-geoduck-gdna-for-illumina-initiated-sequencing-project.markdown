@@ -8,20 +8,20 @@ slug: dna-isolation-geoduck-gdna-for-illumina-initiated-sequencing-project
 title: DNA Isolation - Geoduck gDNA for Illumina-initiated Sequencing Project
 wordpress_id: 2447
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- gel
-- geoduck
-- Illumina
-- Panopea generosa
-- Qubit 3.0
-- Qubit dsDNA BR
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - gel
+  - geoduck
+  - Illumina
+  - Panopea generosa
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 [We were previously approached by Cindy Lawley (Illumina Market Development) for possible participation in an Illumina product development project, in which they wanted to have some geoduck tissue and DNA on-hand in case Illumina green-lighted the use of geoduck for testing out the new sequencing platform on non-model organisms](http://onsnetwork.org/kubu4/2016/12/21/dna-isolation-geoduck-gdna-for-potential-illumina-initiated-sequencing-project/). Well, guess what, Illumina has give the green light for sequencing our geoduck! However, they need at least 4μg of gDNA, so I'm isolating more.

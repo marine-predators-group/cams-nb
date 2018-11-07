@@ -8,21 +8,21 @@ slug: qpcr-cox-qpcr-primer-test-and-tissue-distribution
 title: qPCR - COX qPCR Primer Test and Tissue Distribution
 wordpress_id: 563
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CFX96
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- digestive gland
-- gill
-- mantle
-- muscle
-- Pacific oyster
-- prostaglandin synthase
-- qPCR
+  - CFX96
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - digestive gland
+  - gill
+  - mantle
+  - muscle
+  - Pacific oyster
+  - prostaglandin synthase
+  - qPCR
 ---
 
 Used new cyclooxygenase primers (SR IDs 1060, 1061) to see how they performed and to evaluate tissue distribution. Tissue distribution was evaluated using the following cDNAs made on 10/27/10 from Emma:

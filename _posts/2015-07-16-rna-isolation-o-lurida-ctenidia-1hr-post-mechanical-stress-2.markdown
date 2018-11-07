@@ -8,17 +8,17 @@ slug: rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress-2
 title: RNA Isolation – O.lurida Ctenidia 1hr Post-Mechanical Stress
 wordpress_id: 1521
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- ctenidia
-- gill
-- mechanical stress
-- olympia oyster
-- Ostrea lurida
-- RNA isolation
-- RNAzol RT
+  - ctenidia
+  - gill
+  - mechanical stress
+  - olympia oyster
+  - Ostrea lurida
+  - RNA isolation
+  - RNAzol RT
 ---
 
 Isolated RNA from [Jake’s _Ostrea lurida_ ctenidia samples that had been subjected to mechanical stress (from 20150422)](http://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html).

@@ -8,13 +8,13 @@ slug: data-management-tarball-of-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management – Tarball of Olympia oyster UW PacBio Data from 20170323
 wordpress_id: 2630
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 [I'd previously attempted to archive this data set](http://onsnetwork.org/kubu4/2017/07/03/data-management-olympia-oyster-uw-pacbio-data-from-20170323/) on multiple occasions, across multiple days, but network dropouts kept killing my connection to the server (Owl) and, in turn, interrupting the tarball operation.

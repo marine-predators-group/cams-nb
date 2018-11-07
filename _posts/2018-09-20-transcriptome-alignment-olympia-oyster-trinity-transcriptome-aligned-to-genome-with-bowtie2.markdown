@@ -9,15 +9,15 @@ title: Transcriptome Alignment - Olympia oyster Trinity transcriptome aligned to
   with Bowtie2
 wordpress_id: 3576
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bowtie2
-- mox
-- olympia oyster
-- Ostrea lurida
-- transcriptome
+  - bowtie2
+  - mox
+  - olympia oyster
+  - Ostrea lurida
+  - transcriptome
 ---
 
 Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.

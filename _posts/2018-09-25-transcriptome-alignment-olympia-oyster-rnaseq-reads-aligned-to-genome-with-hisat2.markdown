@@ -9,15 +9,15 @@ title: Transcriptome Alignment – Olympia oyster RNAseq reads aligned to genome
   HISAT2
 wordpress_id: 3586
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- alignment
-- hisat2
-- mox
-- olympia oyster
-- Ostrea lurida
+  - alignment
+  - hisat2
+  - mox
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 [Yesterday's attempt at producing a bedgraph](http://onsnetwork.org/kubu4/2018/09/24/bedgraph-olympia-oyster-transcriptome-fail/) was a failure and a prodcuct of a major brain fart. The worst part is that I was questioning what I was doing the entire time, but still went through with the process! Yeesh!

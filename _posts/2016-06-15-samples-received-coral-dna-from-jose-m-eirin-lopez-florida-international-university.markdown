@@ -9,12 +9,12 @@ title: Samples Received - Coral DNA from Jose M. Eirin-Lopez (Florida Internatio
   University)
 wordpress_id: 2158
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- coral
-- DNA
+  - coral
+  - DNA
 ---
 
 Steven received these coral DNA samples today. Here's his post on Google Plus (stored @ 4C in FTR 213):

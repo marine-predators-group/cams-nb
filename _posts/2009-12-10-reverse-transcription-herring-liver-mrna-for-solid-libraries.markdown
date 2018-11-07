@@ -8,24 +8,24 @@ slug: reverse-transcription-herring-liver-mrna-for-solid-libraries
 title: Reverse Transcription - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 758
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- cDNA
-- gel
-- library prep
-- liver
-- MiniElute PCR Purification Kit
-- Pacific herring
-- reverse transcription
-- SOLiD
-- SOLiD libraries
-- Whole Transcriptome Analysis Kit
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - cDNA
+  - gel
+  - library prep
+  - liver
+  - MiniElute PCR Purification Kit
+  - Pacific herring
+  - reverse transcription
+  - SOLiD
+  - SOLiD libraries
+  - Whole Transcriptome Analysis Kit
 ---
 
 Ligation reactions from yesterday were subject to reverse transcription according to protocol. [Master mix workup info is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091209-01.jpg). Samples were incubated @ 42C, 30mins and then cleaned up using the Qiagen MiniElute PCR Purification Kit, according to the Ambion WTK protocol.

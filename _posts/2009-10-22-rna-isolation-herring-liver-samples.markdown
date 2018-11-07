@@ -8,16 +8,16 @@ slug: rna-isolation-herring-liver-samples
 title: RNA Isolation - Herring Liver Samples
 wordpress_id: 816
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- liver
-- NanoDrop1000
-- Pacific herring
-- RNA
-- RNA isolation
-- RNA quantification
+  - liver
+  - NanoDrop1000
+  - Pacific herring
+  - RNA
+  - RNA isolation
+  - RNA quantification
 ---
 
 RNA was isolated according to protocol. Pellets were resuspended in 200uL of 0.1%DEPC-H2O, heated @ 55C for 5 mins, spec'd and stored @ -80C in the "Herring RNA Box #1".

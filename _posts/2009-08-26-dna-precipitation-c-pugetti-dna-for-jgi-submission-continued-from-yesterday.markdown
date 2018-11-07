@@ -8,15 +8,15 @@ slug: dna-precipitation-c-pugetti-dna-for-jgi-submission-continued-from-yesterda
 title: DNA Precipitation - C.pugetti DNA for JGI submission (continued from yesterday)
 wordpress_id: 882
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cycloclasticus pugetii
-- DNA
-- EtOH precipitation
-- gel
-- JGI
+  - Cycloclasticus pugetii
+  - DNA
+  - EtOH precipitation
+  - gel
+  - JGI
 ---
 
 Sample was removed from -20C and spun @ 4C, 16,000 x g for 30mins. Supe removed, pellet washed with 1mL 70% EtOH and spun @ 4C, 16,000 x g for 15mins. Supe removed, tube spun briefly and remainder of EtOH removed. Pellet was resuspended in 100uL of 1x TE and spec'd. Sample will be run on a gel according to JGI instructions.

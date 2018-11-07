@@ -8,18 +8,18 @@ slug: qpcr-repeat-modified-of-yesterdays-abalone-cdna-check
 title: qPCR - Repeat (modified) of yesterday's abalone cDNA check
 wordpress_id: 1139
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- black abalone
-- cDNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 16s
+  - black abalone
+  - cDNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 qPCR was performed with 16s_sybr primers on a subset of the "No RT" cDNA rxns from yesterday at both 55C and 60C. [Sample set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090409-01.jpg).

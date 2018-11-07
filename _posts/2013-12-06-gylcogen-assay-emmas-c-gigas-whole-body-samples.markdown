@@ -8,13 +8,13 @@ slug: gylcogen-assay-emmas-c-gigas-whole-body-samples
 title: Gylcogen Assay - Emma's C.gigas Whole Body Samples
 wordpress_id: 180
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- glycogen assay
-- Pacific oyster
+  - Crassostrea gigas
+  - glycogen assay
+  - Pacific oyster
 ---
 
 Finally located the remaining half of Emma's samples. These had already been freeze dried AND pulverized! So, I just had to weigh out ~half of each sample for the glycogen assay.

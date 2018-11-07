@@ -8,14 +8,14 @@ slug: computing-owl-partially-restored
 title: Computing - Owl Partially Restored
 wordpress_id: 2530
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- owl
-- server
-- Synology
-- troubleshooting
+  - owl
+  - server
+  - Synology
+  - troubleshooting
 ---
 
 Heard back from Synology and they indicated I should click the "Repair" option [to fix the System Partition Failed error message seen previously](http://onsnetwork.org/kubu4/2017/03/18/troubleshooting-synology-nas-owl-down-after-update/).

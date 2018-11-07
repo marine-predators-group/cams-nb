@@ -8,22 +8,22 @@ slug: cloning-c-gigas-cox2pgs2-53-race-products-from-earlier-today
 title: Cloning - C.gigas COX2/PGS2 5'/3' RACE Products (from earlier today)
 wordpress_id: 324
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- kanamycin
-- ligation
-- Pacific oyster
-- pCR2.1
-- PGS
-- PGS2
-- prostaglandin synthase
-- TOPO TA Cloning
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - kanamycin
+  - ligation
+  - Pacific oyster
+  - pCR2.1
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - TOPO TA Cloning
 ---
 
 The bands that were excised and purified earlier today were cloned in to pCR2.1 using the TOPO TA Cloning Kit (Invitrogen) according to the manufacturer's protocol with the following changes: used 4uL of all PCR products, incubated ligation reactions for 15mins @ RT, incubated competent cells with ligation reactions for 15mins on ice.

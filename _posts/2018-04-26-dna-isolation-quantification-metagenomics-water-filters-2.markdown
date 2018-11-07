@@ -8,18 +8,18 @@ slug: dna-isolation-quantification-metagenomics-water-filters-2
 title: DNA Isolation & Quantification - Metagenomics Water Filters
 wordpress_id: 3291
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Isolation
-- DNeasy
-- filter
-- geoduck
-- metagenomics
-- Panopea generosa
-- Qubit 1x dsDNA HS Assay Kit
-- Qubit 3.0
+  - DNA Isolation
+  - DNeasy
+  - filter
+  - geoduck
+  - metagenomics
+  - Panopea generosa
+  - Qubit 1x dsDNA HS Assay Kit
+  - Qubit 3.0
 ---
 
 After discussing [the preliminary DNA isolation attemp](http://onsnetwork.org/kubu4/2018/04/11/dna-isolation-quantification-metagenomics-water-filters/) with Steven & Emma, we decided to proceed with DNA isolations on the remaining 0.22μm filters.

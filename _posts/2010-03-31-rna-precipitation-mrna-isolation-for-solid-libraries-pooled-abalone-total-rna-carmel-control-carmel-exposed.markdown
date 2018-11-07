@@ -9,24 +9,24 @@ title: 'RNA Precipitation & mRNA Isolation for SOLiD Libraries - Pooled abalone 
   RNA: Carmel control, Carmel exposed'
 wordpress_id: 688
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Carmel
-- CC
-- CE
-- Haliotis cracherodii
-- library prep
-- Micro PolyA Purist
-- mRNA enrichment
-- NanoDrop1000
-- RNA quantification
-- SOLiD
-- SOLiD libraries
-- total RNA
-- Whole Transcriptome Analysis Kit
+  - black abalone
+  - Carmel
+  - CC
+  - CE
+  - Haliotis cracherodii
+  - library prep
+  - Micro PolyA Purist
+  - mRNA enrichment
+  - NanoDrop1000
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
+  - total RNA
+  - Whole Transcriptome Analysis Kit
 ---
 
 RNA of 8 samples from each group was pooled equally from each individual. RNA was precipitated according to Ambion's MicroPolyA Purist Kit. Used 0.1 volumes of 3M NaAOc, pH=5.2, 2.5vols of 100% EtOH and incubated 30min @ -80C. Pelleted RNA 16,000g, 30mins. Washed pellet w/70% EtOH and pelleted RNA 16,000g, 15mins. Pellets were resuspended in 50uL nuclease-free H2O and spec'd:

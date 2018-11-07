@@ -8,16 +8,16 @@ slug: fastqcmultiqc-bgi-geoduck-genome-sequencing-data
 title: FastQC/MultiQC - BGI Geoduck Genome Sequencing Data
 wordpress_id: 3165
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- BGI
-- FASTQC
-- geoduck
-- mox
-- multiqc
-- Panopea generosa
+  - BGI
+  - FASTQC
+  - geoduck
+  - mox
+  - multiqc
+  - Panopea generosa
 ---
 
 Since running [SparseAssembler seems to be working](http://onsnetwork.org/kubu4/2018/03/27/assembly-geoduck-novaseq-using-sparseassembler-kmer-101/) and actually able to produce assemblies, I've decided I'll try to beef up the geoduck genome assembly with the rest of our existing genomic sequencing data.

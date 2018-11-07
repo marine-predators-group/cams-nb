@@ -9,21 +9,21 @@ title: SRA Submission - Individual Transcriptomic Profiles of C.gigas Before & A
   Heat Shock
 wordpress_id: 2054
 author:
-- kubu4
+  - kubu4
 categories:
-- SRA Submissions
+  - SRA Submissions
 tags:
-- 2M
-- 2M-HS
-- 4M
-- 4M-HS
-- 6M
-- 6M-HS
-- Crassostrea gigas
-- NCBI
-- Pacific oyster
-- SRA
-- SRP072251
+  - 2M
+  - 2M-HS
+  - 4M
+  - 4M-HS
+  - 6M
+  - 6M-HS
+  - Crassostrea gigas
+  - NCBI
+  - Pacific oyster
+  - SRA
+  - SRP072251
 ---
 
 RNA-seq experiment conducted by [Claire in 2013](http://claireeolson.blogspot.com/).

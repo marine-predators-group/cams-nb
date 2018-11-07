@@ -9,23 +9,23 @@ title: Templated Bead Prep SOLiD Libraries - Yellow perch WB, lake trout Lean an
   Sisco, and herring G/O HWS09 libraries
 wordpress_id: 662
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- bead counts
-- gonad
-- lake trout
-- Lean
-- library prep
-- ovary
-- Pacific herring
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- templated bead prep
+  - 1 G/O HPWS09
+  - bead counts
+  - gonad
+  - lake trout
+  - Lean
+  - library prep
+  - ovary
+  - Pacific herring
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - templated bead prep
 ---
 
 All libraries were prepped according to ABI's "full-scale" bead prep protocol. Initial bead counts were performed using a hemocytometer in a 1:200 dilution:

@@ -8,15 +8,15 @@ slug: dna-isolation-quantification-metagenomics-water-filters
 title: DNA Isolation & Quantification - Metagenomics Water Filters
 wordpress_id: 3241
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNeasy
-- metagenomics
-- Qubit 1x dsDNA HS Assay Kit
-- Qubit 3.0
-- water filter
+  - DNeasy
+  - metagenomics
+  - Qubit 1x dsDNA HS Assay Kit
+  - Qubit 3.0
+  - water filter
 ---
 
 Isolated DNA from the following two filters:

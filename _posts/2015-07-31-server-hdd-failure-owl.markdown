@@ -8,15 +8,15 @@ slug: server-hdd-failure-owl
 title: Server HDD Failure - Owl
 wordpress_id: 1529
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- hard drive
-- HDD
-- owl
-- server
-- Synology
+  - hard drive
+  - HDD
+  - owl
+  - server
+  - Synology
 ---
 
 We had our first true test of the Synology RAID redundancy with our Synology 1812+ server (Owl). One of the hard drives (HDD) failed. All of the other drives were fine, the data was intact and we had a new replacement HDD on hand. However, there was one shortcoming: no email notification of the drive failure. Luckily, the Synology server is next to Steven's office and he could hear an audible beeping alerting him to the fact that something was wrong. In any case, the email notifications have been fixed and a replacement hard drive was added to the system. Here's how these things were accomplished.

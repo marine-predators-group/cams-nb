@@ -8,17 +8,17 @@ slug: dnase-c-gigas-rna-from-20120124
 title: DNAse - C.gigas RNA from 20120124
 wordpress_id: 279
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNase
-- NanoDrop1000
-- Pacific oyster
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - Crassostrea gigas
+  - DNase
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 5ug of each RNA was DNased using Ambion's Turbo DNA-free Kit, according to the rigorous protocol and spec'd on Roberts Lab NanoDrop 1000. [RNA volume calcs are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdEJBaExkeTVQb1BoWFkyaHNLQnN0T0E#gid=0).

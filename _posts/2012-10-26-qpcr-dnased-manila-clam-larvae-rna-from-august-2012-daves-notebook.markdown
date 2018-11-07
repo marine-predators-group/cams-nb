@@ -8,20 +8,20 @@ slug: qpcr-dnased-manila-clam-larvae-rna-from-august-2012-daves-notebook
 title: qPCR - DNased Manila Clam Larvae RNA (from August 2012 - Dave's Notebook)
 wordpress_id: 214
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- EF1a
-- larvae
-- Manila clam
-- OA
-- ocean acidification
-- Opticon2
-- qPCR
-- RNA
-- Venerupis philippinarum
+  - DNase
+  - EF1a
+  - larvae
+  - Manila clam
+  - OA
+  - ocean acidification
+  - Opticon2
+  - qPCR
+  - RNA
+  - Venerupis philippinarum
 ---
 
 Performed qPCR on Dave's manila clam larvae DNased RNA from August 2012 using EF1a primers (SR IDs: 1463, 1474).

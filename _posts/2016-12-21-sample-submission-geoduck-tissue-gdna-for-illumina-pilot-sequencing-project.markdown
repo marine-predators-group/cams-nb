@@ -8,14 +8,14 @@ slug: sample-submission-geoduck-tissue-gdna-for-illumina-pilot-sequencing-projec
 title: Sample Submission - Geoduck Tissue & gDNA for Illumina Pilot Sequencing Project
 wordpress_id: 2420
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Samples Submitted
+  - Geoduck Genome Sequencing
+  - Samples Submitted
 tags:
-- geoduck
-- Illumina
-- Panopea generosa
+  - geoduck
+  - Illumina
+  - Panopea generosa
 ---
 
 Sent the following samples to Illumina for possible selection in a new pilot sequencing platform they're working on.

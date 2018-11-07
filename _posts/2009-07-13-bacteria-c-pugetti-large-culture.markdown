@@ -8,15 +8,15 @@ slug: bacteria-c-pugetti-large-culture
 title: Bacteria - C.pugetti large culture
 wordpress_id: 951
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- biphenyl
-- Cycloclasticus pugetii
-- JGI
-- marine broth
+  - bacterial culture
+  - biphenyl
+  - Cycloclasticus pugetii
+  - JGI
+  - marine broth
 ---
 
 One of the three starter liquid cultures from [20090706](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090706) wee used to inoculate 1L of Marine Broth + biphenyl. Incubated 200RPM @ 28C.

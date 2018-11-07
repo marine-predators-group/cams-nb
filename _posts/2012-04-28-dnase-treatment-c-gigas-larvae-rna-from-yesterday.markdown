@@ -8,17 +8,17 @@ slug: dnase-treatment-c-gigas-larvae-rna-from-yesterday
 title: DNase Treatment - C.gigas Larvae RNA from yesterday
 wordpress_id: 247
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNase
-- NanoDrop1000
-- Pacific oyster
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - Crassostrea gigas
+  - DNase
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Treated 5ug of total RNA (in a 50uL rxn) using Turbo DNA-free (Ambion) according to the "Standard" protocol. Samples were spec'd on the Roberts Lab NanoDrop 1000.

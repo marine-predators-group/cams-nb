@@ -8,19 +8,19 @@ slug: mrna-isolation-herring-gonadovary-rna-from-20091023
 title: mRNA Isolation - Herring gonad/ovary RNA (from 20091023)
 wordpress_id: 802
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- gonad
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- ovary
-- Pacific herring
-- RNA quantification
+  - EtOH precipitation
+  - gonad
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - ovary
+  - Pacific herring
+  - RNA quantification
 ---
 
 #### RNA Precipitation

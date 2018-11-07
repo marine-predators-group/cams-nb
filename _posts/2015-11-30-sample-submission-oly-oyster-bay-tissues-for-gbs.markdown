@@ -8,20 +8,20 @@ slug: sample-submission-oly-oyster-bay-tissues-for-gbs
 title: Sample Submission - Oly Oyster Bay Tissues for GBS
 wordpress_id: 1847
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
-- Samples Submitted
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
+  - Samples Submitted
 tags:
-- 1HL
-- 1NF
-- 1SN
-- BGI
-- GBS
-- genotype-by-sequencing
-- olympia oyster
-- Ostrea lurida
+  - 1HL
+  - 1NF
+  - 1SN
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Sent Olympia oyster tissue samples to BGI for genotype-by-sequencing (GBS). Tissues were shipped FedEx standard overnight on dry ice.

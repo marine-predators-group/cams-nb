@@ -8,18 +8,18 @@ slug: rna-isolation-colleen-sea-star-pycnopodia-coelomycete-sample
 title: RNA Isolation - Colleen Sea Star (Pycnopodia) Coelomycete Sample
 wordpress_id: 133
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- Direct-zol
-- Pycnopodia helianthoides
-- RNA
-- RNA isolation
-- RNA quantification
-- sea star
-- TriReagent
+  - coelomycete
+  - Direct-zol
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - sea star
+  - TriReagent
 ---
 
 Apparently the Bio26 sample provided on 20140428 was incorrect. Instead, the sample should have been CF26.

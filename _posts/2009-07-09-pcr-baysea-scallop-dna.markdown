@@ -8,18 +8,18 @@ slug: pcr-baysea-scallop-dna
 title: PCR - Bay/Sea Scallop DNA
 wordpress_id: 959
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- Argopecten irradians
-- bay scallop
-- gDNA
-- gel
-- PCR
-- Placopecten magellanicus
-- sea scallop
+  - actin
+  - Argopecten irradians
+  - bay scallop
+  - gDNA
+  - gel
+  - PCR
+  - Placopecten magellanicus
+  - sea scallop
 ---
 
 An additional attempt to get the actin primers to work for use in screening samples for bay/sea scallop hybrids. The scallop_actin_fw primer was used in conjunction with the following:

@@ -8,12 +8,12 @@ slug: samples-received-geoduck-larvae-metagenome-filter-rinses
 title: Samples Received - Geoduck larvae metagenome filter rinses
 wordpress_id: 3140
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- geoduck
-- Panopea generosa
+  - geoduck
+  - Panopea generosa
 ---
 
 Received geoduck hatchery metagenome samples from Emma. These samples are intended for DNA isolation.

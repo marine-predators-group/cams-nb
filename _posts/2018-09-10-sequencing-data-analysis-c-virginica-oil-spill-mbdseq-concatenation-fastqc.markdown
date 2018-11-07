@@ -8,15 +8,15 @@ slug: sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc
 title: Sequencing Data Analysis - C.virginica Oil Spill MBDseq Concatenation & FastQC
 wordpress_id: 3540
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- FASTQC
-- jupyter notebook
-- multiqc
-- roadrunner
-- Xserve
+  - FASTQC
+  - jupyter notebook
+  - multiqc
+  - roadrunner
+  - Xserve
 ---
 
 Per [Steven's request](https://github.com/RobertsLab/resources/issues/366), I concatenated our _Crassostrea virginica_ LSU oil spill MBDseq sequencing data and ran FastQC on the concatenated files.

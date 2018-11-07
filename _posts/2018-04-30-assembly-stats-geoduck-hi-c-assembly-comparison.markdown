@@ -8,14 +8,14 @@ slug: assembly-stats-geoduck-hi-c-assembly-comparison
 title: Assembly Stats - Geoduck Hi-C Assembly Comparison
 wordpress_id: 3300
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- geoduck
-- Panopea generosa
-- QUAST
+  - assembly
+  - geoduck
+  - Panopea generosa
+  - QUAST
 ---
 
 Ran the following Quast command to compare [the two geoduck assemblies provided to us by Phase Genomics](http://onsnetwork.org/kubu4/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data/):

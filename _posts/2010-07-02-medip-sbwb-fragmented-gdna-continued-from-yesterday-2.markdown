@@ -8,14 +8,14 @@ slug: medip-sbwb-fragmented-gdna-continued-from-yesterday-2
 title: MeDIP - SB/WB Fragmented gDNA (continued from yesterday)
 wordpress_id: 621
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gDNA
-- MeDIP
-- Pacific oyster
+  - Crassostrea gigas
+  - gDNA
+  - MeDIP
+  - Pacific oyster
 ---
 
 Continued MeDIP process from yesterday. Added 20uL of Protein A/G Plus Agarose (Santa Cruz Biotech) beads to each sample and continued incubation with rotation @ 4C for 2hrs. Pelleted the Protein A/G beads 3300g, 2mins, 4C.

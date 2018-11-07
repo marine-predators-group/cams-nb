@@ -8,11 +8,11 @@ slug: github-curation
 title: GitHub Curation
 wordpress_id: 2600
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- GitHub
+  - GitHub
 ---
 
 Updated a couple of GitHub Wikis:

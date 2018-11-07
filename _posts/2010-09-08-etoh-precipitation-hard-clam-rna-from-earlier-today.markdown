@@ -8,18 +8,18 @@ slug: etoh-precipitation-hard-clam-rna-from-earlier-today
 title: EtOH Precipitation - Hard Clam RNA from earlier today
 wordpress_id: 601
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- EtOH precipitation
-- Hard clam
-- MA
-- MAX
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA quantification
+  - CA
+  - EtOH precipitation
+  - Hard clam
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 RNA was mixed with 0.1 vols of 3M NAOAc (pH = 5.2) and 2.5 vols of 100% EtOH, vortexed and incubated @ -20C for 30mins. RNA was pelleted @ 16,000g, 30mins, 4C. Supe was discarded and pellet was washed with 1mL 70% EtOH. RNA was pelleted @ 16,000g, 15mins, 4C. This was step was repeated a second time. Supe was discarded, the RNA was resuspended in 50uL of 0.1% DEPC-H2O, spec'd and stored @ -80C:

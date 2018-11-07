@@ -8,16 +8,16 @@ slug: sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa
 title: SRA Submission – Genome sequencing of the Pacific geoduck (Panopea generosa)
 wordpress_id: 2062
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- SRA Submissions
+  - Geoduck Genome Sequencing
+  - SRA Submissions
 tags:
-- geoduck
-- NCBI
-- Panopea generosa
-- SRA
-- SRP072453
+  - geoduck
+  - NCBI
+  - Panopea generosa
+  - SRA
+  - SRP072453
 ---
 
 Adding our geoduck genome sequencing (sequencing done by BGI) to the NCBI Sequence Read Archive (SRS). The current status can be seen in the screen cap below. Release date is set for a year from now, but will likely bump it up. Need Steven to review the details of the submission (BioProject, Experiment descriptions, etc.) before I initiate the public release. Will update this post with the SRA number once we receive it.

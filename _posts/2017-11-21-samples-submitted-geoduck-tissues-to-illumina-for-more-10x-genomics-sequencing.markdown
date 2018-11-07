@@ -8,14 +8,14 @@ slug: samples-submitted-geoduck-tissues-to-illumina-for-more-10x-genomics-sequen
 title: Samples Submitted - Geoduck Tissues to Illumina for More 10x Genomics Sequencing
 wordpress_id: 2940
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Samples Submitted
+  - Geoduck Genome Sequencing
+  - Samples Submitted
 tags:
-- geoduck
-- Illumina
-- Panopea generosa
+  - geoduck
+  - Illumina
+  - Panopea generosa
 ---
 
 Continuing Illumina's generous efforts to use our geoduck samples to test out the robustness of their emerging sequencing technologies, they have requested we send them some more geoduck tissue so that they can try to isolate higher molecular weight DNA to complete the genome sequencing efforts using the 10x genomics sequencing platform.

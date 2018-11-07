@@ -9,15 +9,15 @@ title: Reverse Transcription - Dave's Manila Clam (Venerupis philippinarum) DNas
   RNA from 20120307 and 20120302
 wordpress_id: 263
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNased RNA
-- M-MLV
-- Manila clam
-- reverse transcription
-- Venerupis philippinarum
+  - DNased RNA
+  - M-MLV
+  - Manila clam
+  - reverse transcription
+  - Venerupis philippinarum
 ---
 
 Performed reverse transcription on 1.5ug of DNased RNA in a 75uL reaction, using oligo dT primers. All reagents were scaled appropriately (based on Promega's M-MLV RT protocol). Samples were prepared in a plate and stored @ -20C. Plate layout and all reverse transcription calcs are here:

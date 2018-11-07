@@ -9,35 +9,35 @@ title: cDNA clean up & Bioanalyzer for SOLiD Libraries - Abalone, Yellow Perch, 
   Trout, Herring
 wordpress_id: 672
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- bioanalyzer
-- black abalone
-- Carmel
-- CC
-- cDNA
-- CE
-- CT
-- DNA Quantification
-- electropherogram
-- Haliotis cracherodii
-- lake trout
-- Lean
-- library prep
-- NanoDrop1000
-- Pacific herring
-- PQ
-- PureLink Micro Kit
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- WB
-- Whole Transcriptome Analysis Kit
-- yellow perch
+  - 1 G/O HPWS09
+  - bioanalyzer
+  - black abalone
+  - Carmel
+  - CC
+  - cDNA
+  - CE
+  - CT
+  - DNA Quantification
+  - electropherogram
+  - Haliotis cracherodii
+  - lake trout
+  - Lean
+  - library prep
+  - NanoDrop1000
+  - Pacific herring
+  - PQ
+  - PureLink Micro Kit
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - Whole Transcriptome Analysis Kit
+  - yellow perch
 ---
 
 Amplified cDNA was cleaned up using the Invitrogen PureLink Micro Kit, but was done so according to Ambion's Whole Transcriptome Analysis Kit protocol and then spec'd.

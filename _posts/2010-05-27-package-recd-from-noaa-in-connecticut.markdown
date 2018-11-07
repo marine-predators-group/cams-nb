@@ -8,16 +8,16 @@ slug: package-recd-from-noaa-in-connecticut
 title: Package Rec'd - From NOAA in Connecticut
 wordpress_id: 647
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- algae
-- Isochrysis sp. T-150
-- NOAA
-- package
-- Tetraselmis cheri Ply429
-- Thalassiaosira weissflugii TW
+  - algae
+  - Isochrysis sp. T-150
+  - NOAA
+  - package
+  - Tetraselmis cheri Ply429
+  - Thalassiaosira weissflugii TW
 ---
 
 Rec'd 6 15mL conical tubes with liquid cultures of various algae. It appears that we rec'd two of each culture. No note/info included with package. Tubes will be stored @ RT in the styrofoam container they arrived in. Tube labels are listed below:

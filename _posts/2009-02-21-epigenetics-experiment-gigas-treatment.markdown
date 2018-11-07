@@ -8,13 +8,13 @@ slug: epigenetics-experiment-gigas-treatment
 title: Epigenetics Experiment - Gigas treatment
 wordpress_id: 1187
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- chemical exposure
-- Crassostrea gigas
-- Pacific oyster
+  - chemical exposure
+  - Crassostrea gigas
+  - Pacific oyster
 ---
 
 Set up two containers with 3L seawater and 4 gigas in each container. The treated sample contained:

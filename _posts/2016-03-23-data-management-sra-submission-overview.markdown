@@ -8,12 +8,12 @@ slug: data-management-sra-submission-overview
 title: Data Management - SRA Submission Overview
 wordpress_id: 2044
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- NCBI
-- SRA
+  - NCBI
+  - SRA
 ---
 
 We have an enormous backlog of high-throughput sequencing files (641 FASTQ files, to be exact) that we need/want to get added to the NCBI Sequence Read Archive (SRA).

@@ -8,20 +8,20 @@ slug: pcr-full-length-pgs1-pgs2-cdnas
 title: PCR - Full-length PGS1 & PGS2 cDNAs
 wordpress_id: 310
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- gel
-- gel extraction
-- Pacific oyster
-- PCR
-- PGS
-- PGS1
-- PGS2
-- Ultrafree-DA
+  - cDNA
+  - Crassostrea gigas
+  - gel
+  - gel extraction
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS1
+  - PGS2
+  - Ultrafree-DA
 ---
 
 Ran PCR to amplify full-length cDNAs of PGS1 & PGS2 (COX1 & COX2) using primers designed to anneal in the 5'/3'UTRs of each isoform. PGS1 primers = SRIDs: 1377, 1378. PGS2 primers = 1376, 1375. [Master mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110825-01.jpg). cDNA was pooled cDNA made [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311) from various tissues.

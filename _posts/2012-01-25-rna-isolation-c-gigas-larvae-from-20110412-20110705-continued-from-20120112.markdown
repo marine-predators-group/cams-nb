@@ -8,16 +8,16 @@ slug: rna-isolation-c-gigas-larvae-from-20110412-20110705-continued-from-2012011
 title: RNA Isolation - C.gigas Larvae from 20110412 & 20110705 (Continued from 20120112)
 wordpress_id: 283
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- EtOH precipitation
-- NanoDrop1000
-- RNA
-- RNA isolation
-- RNA quantification
-- TriReagent
+  - EtOH precipitation
+  - NanoDrop1000
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
 ---
 
 All of the RNA samples were re-combined with their respective counterparts and subject to a standard EtOH precipitation (0.1 volumes of 3M NaOAc, pH = 5.2, 2.5 volumes 100% EtOH; incubated -80C 1hr; pelleted; washed with 1mL 70% EtOH; pelleted). Pellets were washed two additional times (for a total of three washes) with 70% EtOH. RNA was resuspended in 50uL of 0.1% DEPC-H2O and spec'd on the Roberts Lab NanoDrop 1000.

@@ -8,15 +8,15 @@ slug: sample-submission-v-tubiashii-mass-spec
 title: Sample Submission - V.tubiashii Mass Spec
 wordpress_id: 1189
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2-1
-- 2-2
-- mass spec
-- protein
-- Vibrio tubiashii
+  - 2-1
+  - 2-2
+  - mass spec
+  - protein
+  - Vibrio tubiashii
 ---
 
 Vibrio samples (2-1 and 2-2) from 20090212 were submitted to the mass spec facility.

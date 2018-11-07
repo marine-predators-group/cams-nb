@@ -8,15 +8,15 @@ slug: data-management-geoduck-rrbs-data-integrity-verification
 title: Data Management - Geoduck RRBS Data Integrity Verification
 wordpress_id: 2430
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- geoduck
-- jupyter notebook
-- md5
-- Panopea generosa
-- RRBS
+  - geoduck
+  - jupyter notebook
+  - md5
+  - Panopea generosa
+  - RRBS
 ---
 
 [Yesterday, I downloaded the Illumina FASTQ files provided by Genewiz](http://onsnetwork.org/kubu4/2016/12/29/data-received-geoduck-rrbs-sequencing-data/) for Hollie Putnam's reduced representation bisulfite geoduck libraries. However, Genewiz had not provided a checksum file at the time.

@@ -8,20 +8,20 @@ slug: bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data-2
 title: Bioinformatics – Trimmomatic/FASTQC on C.gigas Larvae OA NGS Data
 wordpress_id: 1434
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bioinformatics
-- BS-seq
-- Crassostrea gigas
-- FASTQC
-- Illumina
-- ipython notebook
-- jupyter notebook
-- NGS sequencing
-- Pacific oyster
-- Trimmomatic
+  - bioinformatics
+  - BS-seq
+  - Crassostrea gigas
+  - FASTQC
+  - Illumina
+  - ipython notebook
+  - jupyter notebook
+  - NGS sequencing
+  - Pacific oyster
+  - Trimmomatic
 ---
 
 [Previously trimmed the first 39 bases of sequence from reads from the BS-Seq data](http://onsnetwork.org/kubu4/2015/05/06/bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data/) in an attempt to improve our ability to map the reads back to the _C.gigas_ genome. However, Mac (and Steven) noticed that the last ~10 bases of all the reads showed a steady increase in the %G, suggesting some sort of bias (maybe adaptor??):

@@ -8,21 +8,21 @@ slug: colony-pcrs-c-gigas-cox2pgs2-clones-from-yesterday
 title: Colony PCRs - C.gigas COX2/PGS2 Clones (from yesterday)
 wordpress_id: 320
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Performed colony PCRs on the 4 sets of cloning reactions that were performed yesterday using the M13F/R vector primers. Colonies were picked, restreaked on a fresh LB Kan50 plates (made 20110726 by SJW) and PCR'd. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110726-01.jpg). Selected 8 white colonies from each cloning reaction for PCR. Restreaked plate was incubated @ 37C O/N.

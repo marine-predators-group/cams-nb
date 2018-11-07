@@ -8,21 +8,21 @@ slug: qpcrs-mv-hemocyte-cdna-from-20090614-3
 title: qPCRs - MV hemocyte cDNA from 20090614
 wordpress_id: 997
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea virginica
-- Cv_CatY_F/R
-- Cv_CIAPIN_F/R
-- Eastern oyster
-- hemocyte
-- Immomix
-- Martha's Vineyard
-- Opticon2
-- qPCR
-- SYTO13
+  - cDNA
+  - Crassostrea virginica
+  - Cv_CatY_F/R
+  - Cv_CIAPIN_F/R
+  - Eastern oyster
+  - hemocyte
+  - Immomix
+  - Martha's Vineyard
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 ### qPCR - CIAPIN Primers

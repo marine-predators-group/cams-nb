@@ -8,19 +8,19 @@ slug: oyster-sampling-olympia-oyster-oa-populations-at-manchester
 title: Oyster Sampling  - Olympia Oyster OA Populations at Manchester
 wordpress_id: 2288
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Katherine Silliman
-- Manchester
-- NOAA
-- NWFSC
-- OA
-- ocean acidification
-- olympia oyster
-- Ostrea lurida
-- PSRF
+  - Katherine Silliman
+  - Manchester
+  - NOAA
+  - NWFSC
+  - OA
+  - ocean acidification
+  - olympia oyster
+  - Ostrea lurida
+  - PSRF
 ---
 
 I helped Katherine Silliman with her oyster sampling today from her ocean acidification experiment with Olympia oysters (_Ostrea lurida_) at the [Kenneth K. Chew Center for Shellfish Research & Restoration](https://www.nwfsc.noaa.gov/news/features/hatchery/), which is housed at the [NOAA Northwest Fisheries Science Center at Manchester](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj30seU2YzPAhUK7WMKHd-vDDoQFggfMAA&url=https%3A%2F%2Fwww.nwfsc.noaa.gov%2Fabout%2Ffacilities%2Fmanchester.cfm&usg=AFQjCNE4edH0s1QL25HWGuYDsJRS81HR6A&sig2=vLRsC5MAFVm3okHHZPs6Ow) in a partnership with the [Puget Sound Restoration Fund (PSRF)](http://www.restorationfund.org/). We sampled the following tissues and stored in 1mL RNAlater:

@@ -8,9 +8,9 @@ slug: goals-august-2017
 title: Goals - August 2017
 wordpress_id: 2670
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Data, data, data! That is the theme for this month.

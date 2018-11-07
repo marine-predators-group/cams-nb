@@ -8,24 +8,24 @@ slug: 53-race-c-gigas-cox2pgs2-nested-race-pcr
 title: 5'/3' RACE - C.gigas COX2/PGS2 Nested RACE PCR
 wordpress_id: 322
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- gel extraction
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
-- RACE PCR
-- SMART RACE
-- Ultrafree-DA
+  - cDNA
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - gel extraction
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - RACE PCR
+  - SMART RACE
+  - Ultrafree-DA
 ---
 
 Performed nested RACE PCR on the RACE PCR products generated on 20110722 using the following nested primers: PGS2_ngspRACE_5' (SR ID: 1350) and PGS2_ngspRACE_3' (SR ID: 1349). Removed 2uL from each of the primary PCR reactions and brought up to 100uL in tricine EDTA (supplied in the Clontech SMARTer RACE cDNA Amplification Kit). Performed the nested RACE PCR according to the Clontech manual. Briefly, this is the same as the primary RACE PCR reaction, but using 5uL of the diluted primary PCR product and 1uL of the Nested Universal Primer (instead of 5uL of the 10X Universal Primer Mix). [Master mix calcs and set up are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110725-01.jpg). Cycling params followed "Program 2" of the Clontech protocol, modified for nested primers, and are as follows:

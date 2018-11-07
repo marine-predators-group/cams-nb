@@ -8,9 +8,9 @@ slug: goals-february-2017
 title: Goals - February 2017
 wordpress_id: 2471
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 First goal is to be the first person in lab to post their goals each month. Props to one of our new grad students, [Yaamini Venkataraman](http://yaaminiv.github.io/) on beating me this month!

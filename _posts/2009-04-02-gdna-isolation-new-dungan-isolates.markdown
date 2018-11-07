@@ -8,24 +8,24 @@ slug: gdna-isolation-new-dungan-isolates
 title: gDNA Isolation - New Dungan isolates
 wordpress_id: 1157
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BC05Ca18c/H5
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Dungan isolates
-- gDNA
-- NanoDrop1000
-- UNTc-1.5t
-- VATm-1.2t
-- xCvC-11t
-- xCvC-12t
-- xCvC-17t
-- xCvC-19t
-- xCvE-13t
+  - BC05Ca18c/H5
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Dungan isolates
+  - gDNA
+  - NanoDrop1000
+  - UNTc-1.5t
+  - VATm-1.2t
+  - xCvC-11t
+  - xCvC-12t
+  - xCvC-17t
+  - xCvC-19t
+  - xCvE-13t
 ---
 
 gDNA was isolated from the following using the Qiagen DNEasy Kit:

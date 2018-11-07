@@ -8,16 +8,16 @@ slug: sdspagewestern-purified-his-column-fst-samples-from-20081112
 title: SDS/PAGE/Western - Purified (His column) FST samples from 20081112
 wordpress_id: 1361
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- anti-His tag
-- antibody
-- chemiluminescent
-- Coomassie
-- SDS-PAGE
-- SeeBlue Plus
+  - anti-His tag
+  - antibody
+  - chemiluminescent
+  - Coomassie
+  - SDS-PAGE
+  - SeeBlue Plus
 ---
 
 10uL of each sample from 20081112 (binding supe, washes and elution fractions) were mixed with 2x sample reducing buffer and boiled 5 mins. Samples were loaded onto Pierce 4-20% Tris-Glycine SDS/PAGE gels. 10uL of SeeBlue ladder was loaded. 5uL of positive control lysate was loaded. Gel was run @ 150V for 45mins.

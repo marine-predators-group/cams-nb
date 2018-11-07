@@ -8,18 +8,18 @@ slug: dna-isolation-geoduck-adductor-muscle-gdna
 title: DNA Isolation - Geoduck Adductor Muscle gDNA
 wordpress_id: 1812
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
-- Quant-iT DNA BR Kit
-- Victor 1420 plate reader
+  - DNA Isolation
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
+  - Quant-iT DNA BR Kit
+  - Victor 1420 plate reader
 ---
 
 Since we still don't have sufficient gDNA for the full scope of the genome sequencing, I isolated more gDNA.

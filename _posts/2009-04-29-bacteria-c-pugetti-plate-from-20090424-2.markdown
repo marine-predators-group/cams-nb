@@ -8,12 +8,12 @@ slug: bacteria-c-pugetti-plate-from-20090424-2
 title: Bacteria - C. pugetti plate (from 20090424)
 wordpress_id: 1099
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- Cycloclasticus pugetii
+  - bacterial culture
+  - Cycloclasticus pugetii
 ---
 
 There appears to be growth on the plate. There is a large, bright yellow/chartreuse region on the plate where the streaking was initiated. Additionally, upon close inspection, it appears as though colonies can be seen.

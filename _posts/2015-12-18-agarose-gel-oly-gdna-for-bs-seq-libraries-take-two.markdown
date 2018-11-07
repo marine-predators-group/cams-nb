@@ -8,36 +8,36 @@ slug: agarose-gel-oly-gdna-for-bs-seq-libraries-take-two
 title: Agarose Gel - Oly gDNA for BS-seq Libraries, Take Two
 wordpress_id: 1881
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF12
-- 1NF13
-- 1NF14
-- 1NF15
-- 1NF16
-- 1NF17
-- 1NF18
-- 2NF1
-- 2NF2
-- 2NF3
-- 2NF4
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- Crassostrea gigas
-- gel
-- M1
-- M2
-- M3
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
+  - 1NF11
+  - 1NF12
+  - 1NF13
+  - 1NF14
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 1NF18
+  - 2NF1
+  - 2NF2
+  - 2NF3
+  - 2NF4
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - Crassostrea gigas
+  - gel
+  - M1
+  - M2
+  - M3
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
 ---
 
 [The gel I ran earlier today](http://onsnetwork.org/kubu4/2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries/) looked real rough, due to the fact that I didn't bother to equalize loading quantities of samples (I just loaded 1μL of all samples regardless of concentration). So, I'm repeating it using 100ng of DNA from all samples.

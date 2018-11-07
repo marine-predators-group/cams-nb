@@ -8,17 +8,17 @@ slug: rna-isolation-hard-clam-hemolymph-from-20090108-20090109
 title: RNA Isolation - Hard Clam hemolymph from 20090108, 20090109
 wordpress_id: 1217
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Hard clam
-- hemolymph
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA isolation
-- RNA quantification
-- TriReagent
+  - Hard clam
+  - hemolymph
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
 ---
 
 1mL of TriReagent was used to isolate RNA from 3 combined tubes of hemolymph. This resulted in 10 total RNA preps. Pellets were resuspended in 100uL of 0.1% DEPC-H2O and pooled into a single tube and NanoDropped.

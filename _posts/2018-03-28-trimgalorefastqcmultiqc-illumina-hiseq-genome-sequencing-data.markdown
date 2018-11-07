@@ -8,16 +8,16 @@ slug: trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data
 title: TrimGalore!/FastQC/MultiQC - Illumina HiSeq Genome Sequencing Data
 wordpress_id: 3177
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- FASTQC
-- geoduck
-- mox
-- multiqc
-- Panopea generosa
-- TrimGalore!
+  - FASTQC
+  - geoduck
+  - mox
+  - multiqc
+  - Panopea generosa
+  - TrimGalore!
 ---
 
 [Previous FastQC/MultiQC analysis](http://onsnetwork.org/kubu4/2018/03/28/fastqcmultiqc-illumina-hiseq-genome-sequencing-data/) of the geoduck Illumina HiSeq data (_NMP_.fastq.gz files) revealed a high level of overrepresented sequences, high levels of Per Base N Content, failure of Per Sequence GC Content, and a few other bad things.

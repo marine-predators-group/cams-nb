@@ -8,21 +8,21 @@ slug: qpcr-mv-hemocyte-cdna-from-20090614
 title: qPCR - MV hemocyte cDNA from 20090614
 wordpress_id: 965
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- cDNA
-- Crassostrea virginica
-- Cv_18s_F/R
-- Eastern oyster
-- hemocyte
-- Immomix
-- Martha's Vineyard
-- Opticon2
-- qPCR
-- SYTO13
+  - 18s
+  - cDNA
+  - Crassostrea virginica
+  - Cv_18s_F/R
+  - Eastern oyster
+  - hemocyte
+  - Immomix
+  - Martha's Vineyard
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Set up qPCR with Cv_18s_F/R primers on the following samples that had previously come up negative in both reps using the diluted (1:20) cDNA that Mac had made specifically for the 18s runs:

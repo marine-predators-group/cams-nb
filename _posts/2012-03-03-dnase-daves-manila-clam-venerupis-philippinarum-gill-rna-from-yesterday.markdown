@@ -8,16 +8,16 @@ slug: dnase-daves-manila-clam-venerupis-philippinarum-gill-rna-from-yesterday
 title: DNase - Dave's Manila Clam (Venerupis philippinarum) Gill RNA from Yesterday
 wordpress_id: 269
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- gill
-- Manila clam
-- RNA
-- Turbo DNA-free
-- Venerupis philippinarum
+  - DNase
+  - gill
+  - Manila clam
+  - RNA
+  - Turbo DNA-free
+  - Venerupis philippinarum
 ---
 
 DNased RNA using Ambion's Turbo DNA-free Kit following the "routine" protocol. 5ug of total RNA from each sample was treated in 50uL reactions. Samples will be spec'd on Monday with the Roberts Lab NanoDrop 1000.

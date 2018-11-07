@@ -8,20 +8,20 @@ slug: bacterial-cultures-liquid-cultures-of-pgs2cox2-colonies-from-20110707
 title: Bacterial Cultures - Liquid Cultures of PGS2/COX2 Colonies from 20110707
 wordpress_id: 333
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- kanamycin
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
+  - bacterial culture
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - kanamycin
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Inoculated 5mL of 1xLB + Kan50 with re-streaked colonies from [20110707](/Sam%27s+Working+Notebook+July-October+2011#sjw20110707). Incubated O/N, 37C, 200RPM. Will isolated plasmids of those with inserts tomorrow.

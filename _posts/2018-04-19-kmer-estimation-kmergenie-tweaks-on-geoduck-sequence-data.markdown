@@ -8,15 +8,15 @@ slug: kmer-estimation-kmergenie-tweaks-on-geoduck-sequence-data
 title: 'Kmer Estimation – Kmergenie Tweaks on Geoduck Sequence Data '
 wordpress_id: 3276
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- kmer
-- kmer genie
-- mox
-- Panopea generosa
+  - geoduck
+  - kmer
+  - kmer genie
+  - mox
+  - Panopea generosa
 ---
 
 Earlier today, [I ran kmergenie on our all of geoduck DNA sequencing data](http://onsnetwork.org/kubu4/2018/04/19/kmer-estimation-kmergenie-on-geoduck-sequence-data-default-settings/) to see what it would spit out for an ideal kmer setting, which I would then use in another assembly attempt using SparseAssembler; just to see how the assembly might change.

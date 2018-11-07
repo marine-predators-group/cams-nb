@@ -8,15 +8,15 @@ slug: dna-quantification-pooled-geoduck-gdna
 title: DNA Quantification - Pooled geoduck gDNA
 wordpress_id: 1706
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Quantification
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Pooled the gDNA samples [from earlier today](http://onsnetwork.org/kubu4/2015/10/05/gdna-isolation-geoduck-adductor-muscle/) & [from 20151002](http://onsnetwork.org/kubu4/2015/10/02/dna-isolation-geoduck-olympia-oyster/).

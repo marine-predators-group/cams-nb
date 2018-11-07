@@ -9,16 +9,16 @@ title: Computing - The Very Quick "Guide" to Amazon Web Services Cloud Computing
   (EC2)
 wordpress_id: 2179
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Amazon
-- AWS
-- computing
-- EC2
-- S3
-- s3fs-fuse
+  - Amazon
+  - AWS
+  - computing
+  - EC2
+  - S3
+  - s3fs-fuse
 ---
 
 This all takes a surprisingly long time to set up.

@@ -8,18 +8,18 @@ slug: qpcr-check-dnased-abalone-rna-by-lisa-for-gdna
 title: qPCR - Check DNased abalone RNA (by Lisa) for gDNA
 wordpress_id: 1141
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- black abalone
-- DNased RNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 16s
+  - black abalone
+  - DNased RNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 qPCR was performed with 16s_sybr primers on the DNased RNA that Lisa did. Annel temp 55C. [Sample set up and plate layout is here.](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090409-02.jpg)

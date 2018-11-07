@@ -8,36 +8,36 @@ slug: illumina-methylation-library-construction-olyc-gigas-bisulfite-treated-dna
 title: Illumina Methylation Library Construction - Oly/C.gigas Bisulfite-treated DNA
 wordpress_id: 1908
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- barcodes
-- bioanalyzer
-- BS-seq
-- Crassostrea gigas
-- DNA 12000 assay
-- electropherogram
-- M2
-- M3
-- NF2_6
-- NF_18
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- Qubit 3.0
-- Qubit dsDNA BR
-- TruSeq
-- TruSeq DNA Methylation Library
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - barcodes
+  - bioanalyzer
+  - BS-seq
+  - Crassostrea gigas
+  - DNA 12000 assay
+  - electropherogram
+  - M2
+  - M3
+  - NF2_6
+  - NF_18
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - Qubit 3.0
+  - Qubit dsDNA BR
+  - TruSeq
+  - TruSeq DNA Methylation Library
 ---
 
 Took the [bisulfite-treated DNA from 20151218](http://onsnetwork.org/kubu4/2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq/) and made Illumina libraries using the [TruSeq DNA Methylation Library Kit (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).

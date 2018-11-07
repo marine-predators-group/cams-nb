@@ -8,17 +8,17 @@ slug: dna-isolation-mackenzies-c-gigas-ee2-gonad-samples
 title: DNA Isolation - Mackenzie's C.gigas EE2 Gonad Samples
 wordpress_id: 129
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gel
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gel
+  - Pacific oyster
 ---
 
 Isolated DNA from the following samples, provided by Mackenzie:

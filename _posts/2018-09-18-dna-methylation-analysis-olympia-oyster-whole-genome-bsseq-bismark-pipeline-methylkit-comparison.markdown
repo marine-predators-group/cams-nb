@@ -9,17 +9,17 @@ title: DNA Methylation Analysis – Olympia Oyster Whole Genome BSseq Bismark Pi
   MethylKit Comparison
 wordpress_id: 3567
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BSseq
-- DML
-- methylation
-- methylkit
-- olympia oyster
-- Ostrea lurida
-- R
+  - BSseq
+  - DML
+  - methylation
+  - methylkit
+  - olympia oyster
+  - Ostrea lurida
+  - R
 ---
 
 I previously ran two variations on the Bismark analysis for our Olympia oyster whole genome bisulfite sequencing data:

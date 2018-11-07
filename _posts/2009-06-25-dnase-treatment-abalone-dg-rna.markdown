@@ -8,17 +8,17 @@ slug: dnase-treatment-abalone-dg-rna
 title: DNase Treatment - Abalone Dg RNA
 wordpress_id: 991
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Dg
-- digestive gland
-- DNase
-- Haliotis cracherodii
-- RNA
-- Turbo DNA-free
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNase
+  - Haliotis cracherodii
+  - RNA
+  - Turbo DNA-free
 ---
 
 DNase treated Abalone Dg RNA. Followed Ambion's Turbo DNA-free Kit rigorous protocol. [Here are the calcs/workup for the DNase treatment](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdFNmTGk3Z2ZkTFJ1NHdjSUtjS0RMREE&hl=en). This used previously untreated RNA.

@@ -9,17 +9,17 @@ title: Transposable Element Mapping – Olympia Oyster Genome Assembly, Olurida_
   using RepeatMasker 4.07
 wordpress_id: 3412
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- RepeatMasker
-- roadrunner
-- TE
-- transposable elements
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - RepeatMasker
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 [I previously performed this analysis](http://onsnetwork.org/kubu4/2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07/) using a different version of our _Ostrea lurida_ genome assembly. [Steven asked that I repeat the analysis with a modified version of the genome assembly (Olurida_v081)](https://github.com/RobertsLab/resources/issues/265#issuecomment-401055771) - only has contigs >1000bp in length.

@@ -8,16 +8,16 @@ slug: sdspagewestern-anti-hsp70-ab-test-continued-from-yesterday
 title: SDS/PAGE/Western - anti-HSP70 Ab test CONTINUED (from yesterday)
 wordpress_id: 1357
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- anti-HSP70
-- antibody
-- chemiluminescent
-- Crassostrea gigas
-- Pacific oyster
-- Western blot
+  - anti-HSP70
+  - antibody
+  - chemiluminescent
+  - Crassostrea gigas
+  - Pacific oyster
+  - Western blot
 ---
 
 Primary Ab (anti-HSP70) solution was saved and stored in the 4C. The membrane was washed 3x 10 mins. w/1x TBS-T. 15mL blocking solution was added to membrane and incubated at RT for 10mins. Secondary Ab (DAM HRP) was added at a 1:2500 dilution and inubated at RT for 30 mins. Secondary Ab solution was discarded and membrane was washed 3x 10 mins. w/ 1x TBS-T and then developed with Millipore Immobilon Chemiluminescent reagent.

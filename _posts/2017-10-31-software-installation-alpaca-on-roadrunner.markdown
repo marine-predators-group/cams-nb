@@ -8,13 +8,13 @@ slug: software-installation-alpaca-on-roadrunner
 title: Software Installation - ALPACA on Roadrunner
 wordpress_id: 2850
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ALPACA
-- Celera
-- roadrunner
+  - ALPACA
+  - Celera
+  - roadrunner
 ---
 
 List of software that needed installing to run ALPACA:

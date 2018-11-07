@@ -8,15 +8,15 @@ slug: agarose-gel-geoduck-gdna-integrity-check
 title: Agarose Gel – Geoduck gDNA Integrity Check
 wordpress_id: 1617
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- gDNA
-- gel
-- geoduck
-- O'geneRuler DNA Ladder Mix
-- Panopea generosa
+  - gDNA
+  - gel
+  - geoduck
+  - O'geneRuler DNA Ladder Mix
+  - Panopea generosa
 ---
 
 Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA isolated earlier today](http://onsnetwork.org/kubu4/2015/09/16/genomic-dna-isolation-geoduck-adductor-muscle-foot-4/).

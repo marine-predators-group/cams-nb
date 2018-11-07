@@ -8,14 +8,14 @@ slug: qpcr-additional-calibration-test-of-opticon-2
 title: qPCR - Additional Calibration test of Opticon 2
 wordpress_id: 888
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- Opticon2
-- qPCR
-- troubleshooting
+  - calibration
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 Based on recs from Bio-Rad rep (Carl Fisher), will repeat Opticon 2 calibration (see [20090813](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090813)) test according to Opticon manual. Then, will rotate plate 180 degrees and repeat test and upload data to Bio-Rad server for analysis and evaluation.

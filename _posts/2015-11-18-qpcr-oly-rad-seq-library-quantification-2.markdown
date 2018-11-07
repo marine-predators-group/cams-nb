@@ -8,20 +8,20 @@ slug: qpcr-oly-rad-seq-library-quantification-2
 title: qPCR – Oly RAD-Seq Library Quantification
 wordpress_id: 1788
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 2bRAD
-- KAPA Library Illumina Quantification Kit
-- olympia oyster
-- Opticon
-- Opticon2
-- Ostrea lurida
-- qPCR
-- RAD
-- RAD-seq
+  - 2bRAD
+  - KAPA Library Illumina Quantification Kit
+  - olympia oyster
+  - Opticon
+  - Opticon2
+  - Ostrea lurida
+  - qPCR
+  - RAD
+  - RAD-seq
 ---
 
 After yesterday's attempt at quantification revealed insufficient dilution of the libraries, I repeated the qPCRs using 1:100000 dilutions of each of the libraries. [Used the KAPA Illumina Quantification Kit (KAPA Biosystems) according to the manufacturer’s protocol](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/KAPA_Biosystems_KAPA_Library_Quantification_Illumina_Manual_July2014.pdf).

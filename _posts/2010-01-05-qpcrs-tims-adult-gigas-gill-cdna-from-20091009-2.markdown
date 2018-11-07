@@ -8,20 +8,20 @@ slug: qpcrs-tims-adult-gigas-gill-cdna-from-20091009-2
 title: qPCRs - Tim's Adult Gigas gill cDNA (from 20091009)
 wordpress_id: 722
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cg_HIF1
-- Crassostrea gigas
-- EF1
-- gill
-- IL17 Iso D
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO 13
+  - Cg_HIF1
+  - Crassostrea gigas
+  - EF1
+  - gill
+  - IL17 Iso D
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO 13
 ---
 
 Duplicates of earlier qPCRs.

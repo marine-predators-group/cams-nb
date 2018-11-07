@@ -8,17 +8,17 @@ slug: rna-isolation-jessicas-geoduck-larval-stages
 title: RNA Isolation - Jessica's Geoduck Larval Stages
 wordpress_id: 127
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- geoduck
-- Panopea generosa
-- RNA
-- RNA isolation
-- RNA quantification
-- RNAlater
-- TriReagent
+  - geoduck
+  - Panopea generosa
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - RNAlater
+  - TriReagent
 ---
 
 Isolated RNA from the following samples provided by Jessica Blanchette (stored in RNA later):

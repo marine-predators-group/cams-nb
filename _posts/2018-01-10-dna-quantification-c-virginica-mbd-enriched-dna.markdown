@@ -8,15 +8,15 @@ slug: dna-quantification-c-virginica-mbd-enriched-dna
 title: DNA Quantification - C.virginica MBD-enriched DNA
 wordpress_id: 3011
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DNA Quantification
-- Eastern oyster
-- Qubit 3.0
-- Qubit dsDNA BR
+  - Crassostrea virginica
+  - DNA Quantification
+  - Eastern oyster
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 Quantified _Crassostrea virginica_ MBD-enriched DNA [from earlier today](http://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment…ared-dna-day-3/) for Qiagen project.

@@ -9,20 +9,20 @@ title: 'SOLiD Bead Titration - Herring fragmented cDNA libraries: 2LHKOD09, 4LHT
   6LHPWS09'
 wordpress_id: 704
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2LHKOD09
-- 4LHTOG09
-- 6LHPWS09
-- bead counts
-- cDNA
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD libraries
-- templated bead prep
+  - 2LHKOD09
+  - 4LHTOG09
+  - 6LHPWS09
+  - bead counts
+  - cDNA
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
+  - templated bead prep
 ---
 
 Continued with templated bead prep from ePCRs for these libraries. Samples were processed according to the ABI "Templated Bead Preparation Guide" following the "full-scale" protocol.

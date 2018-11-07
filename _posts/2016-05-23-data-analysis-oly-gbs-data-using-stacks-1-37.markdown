@@ -8,18 +8,18 @@ slug: data-analysis-oly-gbs-data-using-stacks-1-37
 title: Data Analysis - Oly GBS Data Using Stacks 1.37
 wordpress_id: 2118
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- stacks
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - stacks
 ---
 
 This analysis ran (or, more properly, was attempted) for a couple of weeks and failed a few times. The failures seemed to be linked to the external hard drive I was reading/writing data to. It continually locked up, leading to "Segmentation fault" errors.

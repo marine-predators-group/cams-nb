@@ -8,9 +8,9 @@ slug: goals-june-2015
 title: Goals - June 2015
 wordpress_id: 1461
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Before we check out this month's goals, let's have a quick review of [last month's goals](http://onsnetwork.org/kubu4/2015/05/01/goals-may-2015/) and which, if any, I was able to accomplish.

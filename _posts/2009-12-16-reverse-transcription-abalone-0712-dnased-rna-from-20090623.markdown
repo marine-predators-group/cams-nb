@@ -8,17 +8,17 @@ slug: reverse-transcription-abalone-0712-dnased-rna-from-20090623
 title: Reverse Transcription - Abalone 07:12 DNased RNA (from 20090623)
 wordpress_id: 750
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 07:12
-- DNased RNA
-- M-MLV
-- NanoDrop1000
-- oligo dT
-- reverse transcription
-- RNA quantification
+  - 07:12
+  - DNased RNA
+  - M-MLV
+  - NanoDrop1000
+  - oligo dT
+  - reverse transcription
+  - RNA quantification
 ---
 
 Spec - DNased Abalone 07:12 RNA

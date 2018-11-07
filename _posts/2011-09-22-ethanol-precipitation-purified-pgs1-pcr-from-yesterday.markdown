@@ -8,14 +8,14 @@ slug: ethanol-precipitation-purified-pgs1-pcr-from-yesterday
 title: Ethanol Precipitation - Purified PGS1 PCR from yesterday
 wordpress_id: 302
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA
-- EtOH precipitation
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA
+  - EtOH precipitation
+  - Pacific oyster
 ---
 
 Added 0.1 vols of 3M sodium acetate (pH = 5.2; 38uL) and 2 vols of 100% EtOH (836uL). Incubated 30mins @ -20C. Pelleted DNA 16,000g, 15mins, 4C. Removed supe. Washed pellet w/1mL 70% EtOH. Pelleted DNA 16,000g, 15mins, 4C. Removed supe. Air-dried pellet. Resuspended in 50uL of Qiagen EB Buffer and spec'd.

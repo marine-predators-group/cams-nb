@@ -8,18 +8,18 @@ slug: qpcr-repeat-of-20090227-qpcr-with-clean-water
 title: qPCR - Repeat of 20090227 qPCR with clean water
 wordpress_id: 1173
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- DNased RNA
-- Opticon2
-- qPCR
-- SensiMix
-- SYBR
-- V.tub_16s_V3
-- Vibrio tubiashii
+  - 16s
+  - DNased RNA
+  - Opticon2
+  - qPCR
+  - SensiMix
+  - SYBR
+  - V.tub_16s_V3
+  - Vibrio tubiashii
 ---
 
 This is an exact repeat of the qPCR from Friday, but using a fresh aliquot of water for preparation. [The plate layout/qPCR workup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090302-1.jpg).

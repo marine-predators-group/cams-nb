@@ -8,13 +8,13 @@ slug: rad-seq-library-prep-reagents
 title: RAD-Seq Library Prep Reagents
 wordpress_id: 1552
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Reagent Prep
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Reagent Prep
 tags:
-- AlfI
-- RAD-seq
+  - AlfI
+  - RAD-seq
 ---
 
 A box with the above title was established in the -20C in FTR 209 containing the following:

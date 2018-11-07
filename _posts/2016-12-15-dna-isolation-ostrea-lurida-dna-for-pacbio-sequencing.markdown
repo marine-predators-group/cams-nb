@@ -8,19 +8,19 @@ slug: dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing
 title: DNA Isolation - Ostrea lurida DNA for PacBio Sequencing
 wordpress_id: 2395
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- gel
-- olympia oyster
-- Ostrea lurida
-- Qubit 3.0
-- Qubit dsDNA BR
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - gel
+  - olympia oyster
+  - Ostrea lurida
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 In an attempt to improve upon the partial genome assembly we received from BGI, we will be sending DNA to the [UW PacBio core facility](https://pacbio.gs.washington.edu/) for additional sequencing.

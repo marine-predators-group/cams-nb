@@ -8,16 +8,16 @@ slug: dna-precipitation-continued-dungan-mie-14v-gdna-from-yesterday
 title: DNA Precipitation CONTINUED - Dungan MIE-14v gDNA from yesterday
 wordpress_id: 961
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Quantification
-- Dungan
-- EtOH precipitation
-- gDNA
-- MIE-14v
-- NanoDrop1000
+  - DNA Quantification
+  - Dungan
+  - EtOH precipitation
+  - gDNA
+  - MIE-14v
+  - NanoDrop1000
 ---
 
 Sample was pelleted by spinning in a microcentrifuge @ max speed, 4C for 30mins. Supe was removed and sample CAREFULLY washed with 1mL 70% EtOH. Sample was spun in a microcentrifuge @ max speed, 4C for 10mins. Supe was removed, sample brought up in 10uL of TE and spec'd.

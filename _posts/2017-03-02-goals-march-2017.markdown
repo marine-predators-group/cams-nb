@@ -8,9 +8,9 @@ slug: goals-march-2017
 title: Goals - March 2017
 wordpress_id: 2492
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Goal, singular: Get [Oly GBS manuscript](https://github.com/kubu4/paper_oly_gbs) completed/submitted.

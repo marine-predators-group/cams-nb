@@ -8,19 +8,19 @@ slug: received-hard-clam-samples-and-live-clams-from-mbl
 title: Received Hard Clam Samples and Live Clams from MBL
 wordpress_id: 585
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BX1
-- gill
-- Hard clam
-- MA4
-- Marine Biological Laboratories
-- MBL
-- Mercenaria mercenaria
-- RNAlater
-- Scott Lindell
+  - BX1
+  - gill
+  - Hard clam
+  - MA4
+  - Marine Biological Laboratories
+  - MBL
+  - Mercenaria mercenaria
+  - RNAlater
+  - Scott Lindell
 ---
 
 Received 82 gill samples in RNA Later in 3 microfuge tube racks from MBL (Scott Lindell). Samples were catalogued, boxed (1 box) and stored at -80C.

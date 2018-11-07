@@ -8,15 +8,15 @@ slug: sample-submission-qpx-rna-and-dna-for-illumina-36bp-single-end-rnadnaseq
 title: Sample Submission - QPX RNA and DNA for Illumina 36bp single-end RNA/DNAseq
 wordpress_id: 239
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
-- Samples Submitted
+  - Miscellaneous
+  - Samples Submitted
 tags:
-- DNA-seq
-- QPX
-- quahog parasite x
-- RNA-seq
+  - DNA-seq
+  - QPX
+  - quahog parasite x
+  - RNA-seq
 ---
 
 Submitted samples to HTGU for Illumina sequencing.

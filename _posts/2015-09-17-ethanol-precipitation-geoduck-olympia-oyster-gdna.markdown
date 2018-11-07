@@ -8,18 +8,18 @@ slug: ethanol-precipitation-geoduck-olympia-oyster-gdna
 title: Ethanol Precipitation - Geoduck & Olympia oyster gDNA
 wordpress_id: 1640
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- DNA Quantification
-- EtOH precipitation
-- geoduck
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - DNA Quantification
+  - EtOH precipitation
+  - geoduck
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 Pooled all of the geoduck gDNA from all the previous geoduck isolations for the [Geoduck Genome Sequencing Project](http://onsnetwork.org/kubu4/category/geoduck-genome-sequencing/) and pooled all of the _Ostrea lurida_ gDNA from previous Ostrea lurida isolations for the [Olympia Oyster Genome Sequencing Project](http://onsnetwork.org/kubu4/category/olympia-oyster-genome-sequencing/).

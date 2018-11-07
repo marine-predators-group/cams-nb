@@ -8,23 +8,23 @@ slug: rna-adapter-hybridization-and-ligation-herring-liver-mrna-for-solid-librar
 title: RNA Adapter Hybridization and Ligation - Herring Liver mRNA for SOLiD Libraries
 wordpress_id: 762
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- hybridization
-- library prep
-- ligation
-- liver
-- mRNA
-- Pacific herring
-- SOLiD
-- SOLiD libraries
-- Whole Transcriptome Analysis Kit
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - hybridization
+  - library prep
+  - ligation
+  - liver
+  - mRNA
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
+  - Whole Transcriptome Analysis Kit
 ---
 
 RNA from yesterday was speedvac'd to dryness and resuspended in 3uL of nuclease-free H2O. Samples were mixed with Adaptor Mix A and hybridized according to Ambion WTK protocol. Samples were then ligated for 16hrs @ 16C, according to Ambion WTK protocol.

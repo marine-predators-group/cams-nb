@@ -8,19 +8,19 @@ slug: gdna-precipitation-sbwb-gdna-pools-prep-for-medip
 title: gDNA Precipitation - SB/WB gDNA pools (prep for MeDIP)
 wordpress_id: 631
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- EtOH precipitation
-- gDNA
-- MeDIP
-- NanoDrop1000
-- Pacific oyster
-- R37
-- R51
+  - Crassostrea gigas
+  - DNA Quantification
+  - EtOH precipitation
+  - gDNA
+  - MeDIP
+  - NanoDrop1000
+  - Pacific oyster
+  - R37
+  - R51
 ---
 
 8 gDNA samples from SB were pooled and 8 gDNA samples from WB were pooled, using equal amounts of gDNA from each sample (1250ng) for a total of 10ug ([see SB/WB Mac's MeDIP spreadsheet for specific samples/volumes used in pooling](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdElDb2c3d3lrdXlYZHhJMk5YeWo4eWc&hl=en#gid=0)). Since samples were stored in pH-adjusted NaOH (see [20100605](/Sam%27s+Working+Notebook+May-June+2010#sjw20100605)), they needed to be precipitated in order to have the gDNA suspended in TE for the downstream steps of methylated DNA immunoprecipitation (MeDIP). 10% 3M sodium acetate (pH = 5.2) was added to each tube, then 2.5 vols of 100% EtOH and mixed. Samples were incubated @ -20C for 30mins. DNA was pelleted by spinning 16,000g for 30mins @ 4C. Supe was discarded. Pellets were washed with 1mL 70% EtOH and then pelleted @ 16,000g for 10mins @ 4C. Supe was discarded and gDNA was resuspended in 120uL of TE (pH = 8.0) and spec'd.

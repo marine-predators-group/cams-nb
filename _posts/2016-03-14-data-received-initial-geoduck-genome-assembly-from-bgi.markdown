@@ -8,15 +8,15 @@ slug: data-received-initial-geoduck-genome-assembly-from-bgi
 title: Data Received - Initial Geoduck Genome Assembly from BGI
 wordpress_id: 2034
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- BGI
-- geoduck
-- Panopea generosa
-- scaffold
+  - assembly
+  - BGI
+  - geoduck
+  - Panopea generosa
+  - scaffold
 ---
 
 The initial assembly of the Ostrea lurida genome is available from BGI. Currently, we've stashed it here:

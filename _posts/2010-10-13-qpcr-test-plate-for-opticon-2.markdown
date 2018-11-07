@@ -8,22 +8,22 @@ slug: qpcr-test-plate-for-opticon-2
 title: qPCR - Test Plate for Opticon 2
 wordpress_id: 589
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DH15
-- gDNA
-- IL-17
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- 'SR ID: 255'
-- 'SR ID: 256'
-- SYTO 13
-- troubleshooting
+  - Crassostrea gigas
+  - DH15
+  - gDNA
+  - IL-17
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - 'SR ID: 255'
+  - 'SR ID: 256'
+  - SYTO 13
+  - troubleshooting
 ---
 
 Ran a full plate for testing well-to-well consistency (or, inconsistency!) of the Opticon 2, since it's been behaving poorly lately. This will provide us with an idea of whether or not the oddities that we've been witnessing have any effect on our actual data.

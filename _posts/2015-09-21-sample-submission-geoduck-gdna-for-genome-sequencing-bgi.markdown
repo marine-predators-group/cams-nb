@@ -8,14 +8,14 @@ slug: sample-submission-geoduck-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Geoduck gDNA for Genome Sequencing @ BGI
 wordpress_id: 1852
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- '1509191002'
-- gDNA
-- geoduck
-- Panopea generosa
+  - '1509191002'
+  - gDNA
+  - geoduck
+  - Panopea generosa
 ---
 
 Shipped the pooled gDNA we've been accumulating to BGI to initiate the geoduck genome sequencing project.

@@ -8,18 +8,18 @@ slug: gdna-isolation-geoduck-adductor-muscle
 title: gDNA Isolation - Geoduck Adductor Muscle
 wordpress_id: 1702
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- adductor muscle
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - adductor muscle
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 My isolation on Friday didn't yield a sufficient quantity of gDNA for the additional DNA needed for the geoduck genome sequencing project. Used two [adductor muscles (Box 1) samples collected by Brent & Steven on 20150811.](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/)

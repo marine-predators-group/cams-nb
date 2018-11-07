@@ -8,23 +8,23 @@ slug: qpcr-dnased-abalone-dg-rna-from-20090625-2
 title: qPCR - DNased Abalone Dg RNA from 20090625
 wordpress_id: 963
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 06:50-10
-- 07:12
-- black abalone
-- cDNA
-- DNased RNA
-- gDNA
-- H.crach_h-1fg_intron
-- H.iris_actin_intron
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 06:50-10
+  - 07:12
+  - black abalone
+  - cDNA
+  - DNased RNA
+  - gDNA
+  - H.crach_h-1fg_intron
+  - H.iris_actin_intron
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Ran qPCR on DNased Abalone Dg RNA (07:12 Set), gDNA (06:50-10) and clean cDNA (from [20090422](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090422)) using primers (H.crach_h-1fg_intron_Fw/Rv) designed to bind only to a region in an intron of the H.cracherodii hemocyanin gene. [PCR setup/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090708-01.jpg). Anneal temp of 50C was used.

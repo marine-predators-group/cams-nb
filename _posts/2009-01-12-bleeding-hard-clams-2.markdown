@@ -8,15 +8,15 @@ slug: bleeding-hard-clams-2
 title: Bleeding - Hard Clams
 wordpress_id: 1219
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bleeding
-- Hard clam
-- hemocyte
-- hemolymph
-- Mercenaria mercenaria
+  - bleeding
+  - Hard clam
+  - hemocyte
+  - hemolymph
+  - Mercenaria mercenaria
 ---
 
 Bled 8 clams from 20090108 and 20090109, #4, 6, 8, 15, 16, 17, 21, 26. Bled clams using a 23g 1.5 needle on a 3mL syringe. Fluid was gathered and ranged from ~0.4-1.0mL. Hemolymph was transferred to individual 1.5mL snap cap tubes and spun @ 100g for 30mins @ 4C. Most of the supe was removed, but left ~100uL in each tube to avoid disturbing any pellet. Samples were stored @ -80C in the red box with previous hard clam hemo samples.

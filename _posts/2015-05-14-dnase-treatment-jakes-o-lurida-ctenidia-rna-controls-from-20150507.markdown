@@ -8,18 +8,18 @@ slug: dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507
 title: DNase Treatment - Jake's O.lurida Ctenidia RNA (Controls) from 20150507
 wordpress_id: 1389
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- DNased RNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - DNase
+  - DNased RNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Since the [O.lurida RNA I isolated on 20150507](http://onsnetwork.org/kubu4/2015/05/07/rna-isolation-jakes-o-lurida-ctenidia-control-from-20150422/) showed [residual gDNA via qPCR](http://onsnetwork.org/kubu4/2015/05/12/qpcr-jake-o-lurida-ctenidia-rna-control-samples-from-20150507/), I treated 5μg of RNA from each sample using the Turbo DNA-free Kit (Ambion/Life Technologies), following the "rigorous" protocol.

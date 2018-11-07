@@ -8,15 +8,15 @@ slug: cloned-hard-drive-windows-xp-opticon-computer-aquacul8
 title: Cloned Hard Drive - Windows XP Opticon Computer (Aquacul8)
 wordpress_id: 156
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Aquacul8
-- backup
-- computer servicing
-- HDD cloning
-- Opticon
+  - Aquacul8
+  - backup
+  - computer servicing
+  - HDD cloning
+  - Opticon
 ---
 
 Cloned the XP hard drive of the computer hooked up to the Opticon qPCR machine using Macrium Reflect Free. Verified that the clone is bootable and operates correctly. Will store one of the hard drives.

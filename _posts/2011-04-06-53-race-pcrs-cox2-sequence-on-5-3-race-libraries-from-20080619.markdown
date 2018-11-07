@@ -8,20 +8,20 @@ slug: 53-race-pcrs-cox2-sequence-on-5-3-race-libraries-from-20080619
 title: 5'/3' RACE PCRs - COX2 Sequence on 5' & 3' RACE Libraries (from 20080619)
 wordpress_id: 390
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
-- RACE
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - RACE
 ---
 
 Ran PCRs on both the 5' & 3' RACE libraries created 20080619 with a new COX2 gene-specifc (GSP) primer designed by Steven (CgPGSRACEsrGSP1; SR ID: 1208). Although this primer was designed to obtain additional 5' sequence, it was used with both 5' and 3' libraries as a precaution in case it accidentally designed on the wrong strand. PCR rxn was set up according to the Clontech SMARTer RACE cDNA Amplification Kit. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110406-01.jpg). PCR cycling followed "Program 1" from the Clontech manual for 25 cycles.

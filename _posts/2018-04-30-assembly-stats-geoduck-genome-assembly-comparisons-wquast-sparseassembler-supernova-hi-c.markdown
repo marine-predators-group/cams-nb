@@ -9,14 +9,14 @@ title: Assembly Stats - Geoduck Genome Assembly Comparisons w/Quast - SparseAsse
   SuperNova, Hi-C
 wordpress_id: 3304
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- geoduck
-- Panopea generosa
-- QUAST
+  - assembly
+  - geoduck
+  - Panopea generosa
+  - QUAST
 ---
 
 [Steven requested a comparison of geoduck genome assemblies](https://github.com/RobertsLab/resources/issues/235).

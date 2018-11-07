@@ -8,20 +8,20 @@ slug: genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstre
 title: Genome Annotation - Olympia oyster genome using WQ-MAKER Instance on Jetstream
 wordpress_id: 3475
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- annotation
-- Atmosphere
-- Cyverse
-- genome
-- JetStream
-- maker
-- olympia oyster
-- Ostrea lurida
-- wq-maker
-- Xsede
+  - annotation
+  - Atmosphere
+  - Cyverse
+  - genome
+  - JetStream
+  - maker
+  - olympia oyster
+  - Ostrea lurida
+  - wq-maker
+  - Xsede
 ---
 
 Yesterday, our [Xsede Startup Application (Google Doc)](https://docs.google.com/document/d/1v4ukb4M3ZY73KaBsYjcmF35pAE2pEGH9AevdXAxCONI/edit?usp=sharing) got approval for 100,000 Service Units (SUs) and 1TB of disk space on Xsede/Atmosphere/Jetstream (or, whatever it's actually called!). The approval happened within an hour of submitting the application!

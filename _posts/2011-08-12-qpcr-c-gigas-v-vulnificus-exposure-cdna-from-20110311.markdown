@@ -8,19 +8,19 @@ slug: qpcr-c-gigas-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas V.vulnificus Exposure cDNA (from 20110311)
 wordpress_id: 312
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- CFX96
-- Crassostrea gigas
-- defensin
-- GAPDH
-- Pacific oyster
-- qPCR
-- Vibrio exposure
-- Vibrio vulnificus
+  - cDNA
+  - CFX96
+  - Crassostrea gigas
+  - defensin
+  - GAPDH
+  - Pacific oyster
+  - qPCR
+  - Vibrio exposure
+  - Vibrio vulnificus
 ---
 
 Ran a qPCR using 3hr Vibrio vulnificus exposure cDNA from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311). Original experiment conducted on [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111) with defensin primers (SR IDs: 1109 & 1070) and GAPDH (SR IDs: 1172 & 1173). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110811-01.jpg). Cycling params, plate layout, etc can be seen in the qPCR Report (see Results). This was performed to help Herschel.

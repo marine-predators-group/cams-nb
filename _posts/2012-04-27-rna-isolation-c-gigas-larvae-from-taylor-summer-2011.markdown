@@ -8,19 +8,19 @@ slug: rna-isolation-c-gigas-larvae-from-taylor-summer-2011
 title: RNA Isolation - C.gigas Larvae from Taylor Summer 2011
 wordpress_id: 251
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- larvae
-- NanoDrop1000
-- Pacific oyster
-- RNA
-- RNA isolation
-- RNA quantification
-- RNAlater
-- TriReagent
+  - Crassostrea gigas
+  - larvae
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - RNAlater
+  - TriReagent
 ---
 
 Samples had been stored in RNA Later (Ambion). Samples were pelleted and the RNA Later supe removed. Samples were washed (2x) with 1mL TE (pH = 8.0) to remove excess salt resulting from the RNA Later. Samples were split, roughly equally, into two separate tubes. Samples were pelleted and the supe removed. One tube from each sample was set aside for gDNA isolation using DNAzol (MRC). The other tube was vortexed vigorously in TriReagent (MRC) and the then treated according to protocol. Samples were resuspended in 100uL of 0.1% DEPC-H2O and spec'd on the Roberts Lab NanoDrop 1000.

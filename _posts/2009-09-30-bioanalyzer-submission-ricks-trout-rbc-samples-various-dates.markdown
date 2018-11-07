@@ -8,19 +8,19 @@ slug: bioanalyzer-submission-ricks-trout-rbc-samples-various-dates
 title: Bioanalyzer Submission - Rick's trout RBC samples (various dates)
 wordpress_id: 854
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- gel
-- library prep
-- RBC
-- RNA
-- RNA Pico 6000
-- SOLiD
-- SOLiD libraries
-- trout
+  - bioanalyzer
+  - gel
+  - library prep
+  - RBC
+  - RNA
+  - RNA Pico 6000
+  - SOLiD
+  - SOLiD libraries
+  - trout
 ---
 
 Submitted Rick's trout RBC samples to FHRC for bioanalysis using the PicoChip for use with the SOLiD WTK. [Submission sheet is here](http://genefish.fish.washington.edu/%7Esrlab/Bioanalyzer%20Submissions/20090929-01.jpg).

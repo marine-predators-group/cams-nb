@@ -8,17 +8,17 @@ slug: sequence-data-lsu-c-virginica-oil-spill-mbd-bs-seq-demultiplexed
 title: Sequence Data - LSU C.virginica Oil Spill MBD BS-Seq Demultiplexed
 wordpress_id: 1239
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- BS-seq
-- Crassostrea virginica
-- Eastern oyster
-- LSU
-- MBD-Seq
-- NGS sequencing
-- oil
+  - BS-seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - LSU
+  - MBD-Seq
+  - NGS sequencing
+  - oil
 ---
 
 I had previously contacted Doug Turnbull at the [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) for help demultiplexing this data, as it was initially returned to us as a single data set with "no index" (i.e. barcode) set for any of [the libraries that were sequenced](http://onsnetwork.org/kubu4/2015/02/09/sequencing-data-lsu-c-virginica-mbd-bs-seq/). As it turns out, when multiplexed libraries are sequenced using the Illumina platform, an index read step needs to be "enabled" on the machine for sequencing. Otherwise, the machine does not perform the index read step (since it wouldn't be necessary for a single library). Surprisingly, the sample submission form for the [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/)  doesn't request any information regarding whether or not a submitted sample has been multiplexed. However, by default, they enable the index read step on all sequencing runs. I provided them with the barcodes and they demultiplexed them after the fact.

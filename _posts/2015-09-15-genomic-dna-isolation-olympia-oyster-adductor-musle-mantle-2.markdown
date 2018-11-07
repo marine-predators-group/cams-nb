@@ -8,18 +8,18 @@ slug: genomic-dna-isolation-olympia-oyster-adductor-musle-mantle-2
 title: Genomic DNA Isolation - Olympia oyster adductor musle & mantle
 wordpress_id: 1585
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- adductor muscle
-- DNA Isolation
-- DNA Quantification
-- gDNA
-- mantle
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
+  - adductor muscle
+  - DNA Isolation
+  - DNA Quantification
+  - gDNA
+  - mantle
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 [Previously isolated gDNA from these tissues on 20150901](http://onsnetwork.org/kubu4/2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle/). However, found out after the isolations that BGI needs &gt;73μg of gDNA for the genome sequencing project, which is significantly more than I obtained previously.

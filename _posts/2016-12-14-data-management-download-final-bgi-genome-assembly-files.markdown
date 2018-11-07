@@ -8,18 +8,18 @@ slug: data-management-download-final-bgi-genome-assembly-files
 title: Data Management - Download Final BGI Genome & Assembly Files
 wordpress_id: 2385
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- geoduck
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- owl
-- Panopea generosa
+  - BGI
+  - geoduck
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - owl
+  - Panopea generosa
 ---
 
 We received info to download the final data and genome assembly files for geoduck and Olympia oyster from BGI.

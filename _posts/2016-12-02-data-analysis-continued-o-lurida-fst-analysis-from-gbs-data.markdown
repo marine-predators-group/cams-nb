@@ -8,10 +8,10 @@ slug: data-analysis-continued-o-lurida-fst-analysis-from-gbs-data
 title: Data Analysis - Continued O.lurida Fst Analysis from GBS Data
 wordpress_id: 2374
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
 ---
 
 Continued t[he analysis I started the other day](http://onsnetwork.org/kubu4/2016/11/17/data-analysis-initial-o-lurida-fst-determination-from-gbs-data/). Still following [Katherine Silliman's notebook](https://github.com/ksil91/2016_Notebook/blob/master/2bRAD%20Subset%20Population%20Structure%20Analysis.ipynb) for guidance.

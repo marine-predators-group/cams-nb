@@ -8,21 +8,21 @@ slug: rna-isolation-jakes-o-lurida-ctenidia-1hr-heat-stress-from-20150422
 title: RNA Isolation - Jake's O. lurida Ctenidia 1hr Heat Stress from 20150422
 wordpress_id: 1313
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ctenidia
-- DEPC-H2O
-- gill
-- heat shock
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- pics
-- RNA isolation
-- RNA quantification
-- RNAzol RT
+  - ctenidia
+  - DEPC-H2O
+  - gill
+  - heat shock
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - pics
+  - RNA isolation
+  - RNA quantification
+  - RNAzol RT
 ---
 
 Isolated RNA from [Jake's Olympia oyster ctenidia, 1hr heat shock, collected on 20150422](http://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.

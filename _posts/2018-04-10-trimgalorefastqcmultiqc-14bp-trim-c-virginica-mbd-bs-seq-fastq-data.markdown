@@ -8,17 +8,17 @@ slug: trimgalorefastqcmultiqc-14bp-trim-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - 14bp Trim C.virginica MBD BS-seq FASTQ data
 wordpress_id: 3231
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- MBD-Seq
-- multiqc
-- TrimGalore!
-- ZymoResearch
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - MBD-Seq
+  - multiqc
+  - TrimGalore!
+  - ZymoResearch
 ---
 
 [Yesterday, I ran TrimGalore/FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](http://onsnetwork.org/kubu4/2018/04/09/trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data/) with the default settings (i.e. "auto-trim"). There was still some variability in the first ~15bp of the reads and Steven wanted to see how a hard trim would change things.

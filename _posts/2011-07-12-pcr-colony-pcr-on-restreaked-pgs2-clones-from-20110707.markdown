@@ -8,19 +8,19 @@ slug: pcr-colony-pcr-on-restreaked-pgs2-clones-from-20110707
 title: PCR - Colony PCR on Restreaked PGS2 Clones from 20110707
 wordpress_id: 335
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX2
-- cyclooxygenase
-- gel
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX2
+  - cyclooxygenase
+  - gel
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Ran a colony PCR at the same time that I inoculated liquid cultures, using M13 primers.

@@ -8,18 +8,18 @@ slug: dnase-treatment-abalone-dg-rna-0712-set
 title: DNase Treatment - Abalone Dg RNA (07:12 set)
 wordpress_id: 995
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 07:12
-- black abalone
-- Dg
-- digestive gland
-- DNase
-- Haliotis cracherodii
-- RNA
-- Turbo DNA-free
+  - 07:12
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNase
+  - Haliotis cracherodii
+  - RNA
+  - Turbo DNA-free
 ---
 
 DNase treated the 07:12 set of Abalone Dg RNA. Also, respec'd the RNA prior to proceeding. Followed Ambion's Turbo DNA-free Kit rigorous protocol. [Here are the calcs/workup for the DNase treatment](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdFNmTGk3Z2ZkTFJ1NHdjSUtjS0RMREE&hl=en). This used previously untreated RNA.

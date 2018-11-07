@@ -8,14 +8,14 @@ slug: vibrio-challenge-continued-from-yesterday
 title: Vibrio challenge CONTINUED (from yesterday)
 wordpress_id: 1345
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial challenge
-- bacterial counts
-- Vibrio exposure
-- Vibrio tubiashii
+  - bacterial challenge
+  - bacterial counts
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 Significantly more bacteria in the container containing autoclaved oysters. Collected 2 x 50mL from each treatment. Collected ~750mL from each treatment. Cells were pelleted 4000RPM, 15mins, 4C. Supe was removed and pellets frozen @ -80C.

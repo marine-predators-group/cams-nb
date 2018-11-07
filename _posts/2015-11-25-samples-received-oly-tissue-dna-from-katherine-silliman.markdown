@@ -8,17 +8,17 @@ slug: samples-received-oly-tissue-dna-from-katherine-silliman
 title: Samples Received - Oly Tissue & DNA from Katherine Silliman
 wordpress_id: 1845
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
-- Samples Received
+  - Olympia oyster reciprocal transplant
+  - Samples Received
 tags:
-- DNA
-- Fidalgo Bay
-- Hood Canal
-- Katherine Silliman
-- olympia oyster
-- Ostrea lurida
+  - DNA
+  - Fidalgo Bay
+  - Hood Canal
+  - Katherine Silliman
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Samples were stored @ -20C in FTR 209.

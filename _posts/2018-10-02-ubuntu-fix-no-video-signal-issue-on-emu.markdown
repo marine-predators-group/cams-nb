@@ -8,14 +8,14 @@ slug: ubuntu-fix-no-video-signal-issue-on-emu
 title: Ubuntu – Fix “No Video Signal” Issue on Emu
 wordpress_id: 3596
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- emu
-- grub
-- ubuntu
-- Xserve
+  - emu
+  - grub
+  - ubuntu
+  - Xserve
 ---
 
 [An issue with Emu](https://github.com/RobertsLab/resources/issues/376) cropped up a few weeks ago that was seemingly caused by upgrading from Ubuntu 16.04 to 18.04.

@@ -8,16 +8,16 @@ slug: dna-isolation-quantification-geoduck-larvae-metagenome-filter-rinses
 title: DNA Isolation & Quantification - Geoduck larvae metagenome filter rinses
 wordpress_id: 3142
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Isolation
-- DNazol
-- geoduck
-- Panopea generosa
-- Qubit 3.0
-- Qubit dsDNA HS
+  - DNA Isolation
+  - DNazol
+  - geoduck
+  - Panopea generosa
+  - Qubit 3.0
+  - Qubit dsDNA HS
 ---
 
 Isolated DNA from two of the [geoduck hatchery metagenome samples Emma delivered on 20180313](http://onsnetwork.org/kubu4/2018/03/13/samples-received-geoduck-larvae-metagenome-filter-rinses/) to get an idea of what type of yields we might get from these.

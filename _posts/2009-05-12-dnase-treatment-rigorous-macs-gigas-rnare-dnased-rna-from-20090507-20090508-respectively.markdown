@@ -9,17 +9,17 @@ title: DNase Treatment (Rigorous!) - Mac's gigas RNA/Re-DNased RNA from 20090507
   20090508, respectively
 wordpress_id: 1073
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- DNase
-- Pacific oyster
-- RNA
-- Turbo DNA-free
+  - BB
+  - Crassostrea gigas
+  - DH
+  - DNase
+  - Pacific oyster
+  - RNA
+  - Turbo DNA-free
 ---
 
 Followed the rigorous protocol for Ambion's Turbo DNA-free protocol for the following RNAs:

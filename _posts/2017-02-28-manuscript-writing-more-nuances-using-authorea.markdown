@@ -8,11 +8,11 @@ slug: manuscript-writing-more-nuances-using-authorea
 title: Manuscript Writing - More "Nuances" Using Authorea
 wordpress_id: 2486
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Authorea
+  - Authorea
 ---
 
 [I previously highlighted some of the issues I was having using Authorea.com](http://onsnetwork.org/kubu4/2017/01/23/manuscript-writing-the-nuances-of-using-authorea/) as an writing platform.

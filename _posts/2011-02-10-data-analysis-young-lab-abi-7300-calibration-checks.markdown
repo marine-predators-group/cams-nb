@@ -8,19 +8,19 @@ slug: data-analysis-young-lab-abi-7300-calibration-checks
 title: Data Analysis - Young Lab ABI 7300 Calibration Checks
 wordpress_id: 476
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- ABI 7300
-- Crassostrea gigas
-- gDNA
-- graphs
-- Pacific oyster
-- qPCR
-- troubleshooting
-- Young Lab
+  - 18s
+  - ABI 7300
+  - Crassostrea gigas
+  - gDNA
+  - graphs
+  - Pacific oyster
+  - qPCR
+  - troubleshooting
+  - Young Lab
 ---
 
 All runs (3 runs were conducted) were created using a master mix containing C.gigas gDNA (either 50ng or 100ng), 1X Promega qPCR Master Mix, 0.2uM each of forward/reverse primers (18s; Roberts SR ID: 156, 157). The master mix was mixed well and 10uL were distributed in each well of ABI plates. Plates were sealed with ABI optical adhesive covers.

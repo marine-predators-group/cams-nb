@@ -8,18 +8,18 @@ slug: pcr-sea-pen-luciferase
 title: PCR - Sea Pen luciferase
 wordpress_id: 1507
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Apex Red Master Mix
-- gDNA
-- gel
-- luciferase
-- O'GeneRuler 100bp DNA ladder
-- PCR
-- Renilla reniformis
-- sea pen
+  - Apex Red Master Mix
+  - gDNA
+  - gel
+  - luciferase
+  - O'GeneRuler 100bp DNA ladder
+  - PCR
+  - Renilla reniformis
+  - sea pen
 ---
 
 Ran a PCR to obtain luciferase DNA for sequencing.

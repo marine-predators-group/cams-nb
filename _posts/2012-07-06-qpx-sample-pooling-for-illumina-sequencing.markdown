@@ -8,14 +8,14 @@ slug: qpx-sample-pooling-for-illumina-sequencing
 title: QPX Sample Pooling for Illumina Sequencing
 wordpress_id: 237
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA-seq
-- QPX
-- quahog parasite x
-- RNA-seq
+  - DNA-seq
+  - QPX
+  - quahog parasite x
+  - RNA-seq
 ---
 
 Pooling volumes/quantities for QPX RNA/DNA-seq:

@@ -8,16 +8,16 @@ slug: library-cleanup-lsu-c-virginica-mbd-bs-library
 title: Library Cleanup - LSU C.virginica MBD BS Library
 wordpress_id: 100
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- bioanalyzer
-- Crassostrea virginica
-- DNA Quantification
-- Eastern oyster
-- electropherogram
-- library prep
+  - bioanalyzer
+  - Crassostrea virginica
+  - DNA Quantification
+  - Eastern oyster
+  - electropherogram
+  - library prep
 ---
 
 I was contacted by the sequencing facility at the University of Oregon regarding a sample quality issue with our library.  As evidenced by the electropherogram below, there is a great deal of adaptor primer dimer (the peak at 128bp):

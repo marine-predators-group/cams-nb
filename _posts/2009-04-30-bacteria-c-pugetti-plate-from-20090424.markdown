@@ -8,12 +8,12 @@ slug: bacteria-c-pugetti-plate-from-20090424
 title: Bacteria - C. pugetti plate (from 20090424)
 wordpress_id: 1097
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- Cycloclasticus pugetii
+  - bacterial culture
+  - Cycloclasticus pugetii
 ---
 
 An additional yellowing has occurred on the plate. This is in accordance with the Dyksterhouse et al. paper. Colonies still barely visible.

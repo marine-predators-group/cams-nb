@@ -8,30 +8,30 @@ slug: rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks-2
 title: RNA Isolation - Olympia oyster gonad tissue in paraffin histology blocks
 wordpress_id: 2653
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Disruptor Genie
-- histology blocks
-- Laura Spencer
-- NF-10 22
-- NF-10-23
-- NF-10-24
-- NF-10-26
-- NF-10-28
-- NF-10-30
-- olympia oyster
-- Ostrea lurida
-- PAXgene Tissue RNA Kit
-- RNA
-- RNA isolation
-- SN-10-16
-- SN-10-17
-- SN-10-20
-- SN-10-25
-- SN-10-26
-- SN-10-31
+  - Disruptor Genie
+  - histology blocks
+  - Laura Spencer
+  - NF-10 22
+  - NF-10-23
+  - NF-10-24
+  - NF-10-26
+  - NF-10-28
+  - NF-10-30
+  - olympia oyster
+  - Ostrea lurida
+  - PAXgene Tissue RNA Kit
+  - RNA
+  - RNA isolation
+  - SN-10-16
+  - SN-10-17
+  - SN-10-20
+  - SN-10-25
+  - SN-10-26
+  - SN-10-31
 ---
 
 My [previous go at this](http://onsnetwork.org/kubu4/2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks/) was a little premature - I didn't wait for Laura to fully annotate her slides/blocks. Little did I know, the tissue was mostly visceral mass and, as such, I didn't hit much in the way of actual gonad tissue. So, I'm redoing this, now that [Grace has gone through and annotated the blocks to point out gonad tissue](https://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/). [SN-10-16 was sent to Katherine Silliman on 20170720]().

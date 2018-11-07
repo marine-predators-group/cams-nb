@@ -8,22 +8,22 @@ slug: qpcr-hpaiimspi-digests-from-earlier-today
 title: qPCR - HpaII/MspI Digests from earlier today
 wordpress_id: 611
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 5-azacitidine
-- Crassostrea gigas
-- gill
-- HSP 70
-- Immomix
-- mantle
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO 13
-- Vibrio exposure
-- Vibrio tubiashii
+  - 5-azacitidine
+  - Crassostrea gigas
+  - gill
+  - HSP 70
+  - Immomix
+  - mantle
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO 13
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 [qPCR plate layout/setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100709-01.jpg).

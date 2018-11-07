@@ -8,23 +8,23 @@ slug: 3race-c-gigas-3race-for-cox2
 title: 3'RACE - C.gigas 3'RACE for COX2
 wordpress_id: 408
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
-- RACE
-- RACE PCR
-- SMART RACE
+  - cDNA
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - RACE
+  - RACE PCR
+  - SMART RACE
 ---
 
 Used Cg_COX2_3'RACE_short (SR ID: 1197) & Cg_COX2_3'RACE_long (SR ID: 1196) and the Clonetech SMART RACE cDNA Amplification Kit (unknown acquisition date) to attempt to acquire more 3' sequence of the C.gigas COX2 isoform. Used Gigas 3'RACE cDNA (from 20080610).

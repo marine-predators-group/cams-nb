@@ -8,21 +8,21 @@ slug: quality-trimming-c-gigas-larvae-oa-bs-seq-data
 title: Quality Trimming - C.gigas Larvae OA BS-Seq Data
 wordpress_id: 1261
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bioinformatics
-- BS-seq
-- Crassostrea gigas
-- FASTQC
-- ipython notebook
-- jupyter notebook
-- larvae
-- OA
-- ocean acidification
-- Pacific oyster
-- Trimmomatic
+  - bioinformatics
+  - BS-seq
+  - Crassostrea gigas
+  - FASTQC
+  - ipython notebook
+  - jupyter notebook
+  - larvae
+  - OA
+  - ocean acidification
+  - Pacific oyster
+  - Trimmomatic
 ---
 
 Jupyter (IPython) Notebook: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb)

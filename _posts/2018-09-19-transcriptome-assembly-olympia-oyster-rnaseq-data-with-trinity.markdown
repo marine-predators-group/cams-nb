@@ -8,16 +8,16 @@ slug: transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity
 title: Transcriptome Assembly - Olympia oyster RNAseq Data with Trinity
 wordpress_id: 3571
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- assembly
-- mox
-- olympia oyster
-- Ostrea lurida
-- RNAseq
-- trinity
+  - assembly
+  - mox
+  - olympia oyster
+  - Ostrea lurida
+  - RNAseq
+  - trinity
 ---
 
 Used all of our current oly RNAseq data to assemble a transcriptome using Trinity.

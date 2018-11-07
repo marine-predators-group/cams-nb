@@ -8,15 +8,15 @@ slug: rad-sequencing-oly-oyster-gdna-01-rad-library-from-20141110
 title: RAD Sequencing - Oly Oyster gDNA-01 RAD Library (from 20141110)
 wordpress_id: 83
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
-- Samples Submitted
+  - Olympia oyster reciprocal transplant
+  - Samples Submitted
 tags:
-- library prep
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - library prep
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Prepared 10nM of the library in total volume of 20uL of Buffer EB (Qiagen) + 0.1% Tween-20, according the University of Oregon's Genomic's Core:

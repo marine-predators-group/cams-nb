@@ -8,18 +8,18 @@ slug: bioanalyzer-data-geoduck-rna-from-histology-blocks
 title: Bioanalyzer Data - Geoduck RNA from Histology Blocks
 wordpress_id: 1271
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- bioanalyzer
-- electropherogram
-- foot
-- gel
-- geoduck
-- Panopea generosa
-- RNA
-- RNA Pico
+  - bioanalyzer
+  - electropherogram
+  - foot
+  - gel
+  - geoduck
+  - Panopea generosa
+  - RNA
+  - RNA Pico
 ---
 
 I received the Bioanalyzer data back for the [geoduck foot RNA samples I submitted 20150422](http://onsnetwork.org/kubu4/2015/04/22/bioanalyzer-submission-geoduck-rna-from-histology-blocks/). The two samples were run on the RNA Pico chip assay.

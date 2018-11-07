@@ -8,15 +8,15 @@ slug: dna-extraction-taylor-water-filter-samples-from-2011
 title: DNA Extraction - Taylor Water Filter Samples from 2011
 wordpress_id: 261
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Isolation
-- DNeasy
-- gDNA
-- Vibrio tubiashii
-- water filter
+  - DNA Isolation
+  - DNeasy
+  - gDNA
+  - Vibrio tubiashii
+  - water filter
 ---
 
 Extracted DNA from the following water filter samples using the Qiagen DNeasy Blood & Tissue Kit:

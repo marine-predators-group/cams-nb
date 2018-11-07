@@ -8,21 +8,21 @@ slug: qpcr-macs-gigas-dnased-rna-from-earlier-today
 title: qPCR - Mac's gigas DNased RNA from earlier today
 wordpress_id: 1075
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- 18s
-- BB
-- Crassostrea gigas
-- DH
-- DNased RNA
-- Gigas_18s_F/R
-- Immomix
-- Opticon2
-- Pacific oyster
-- qPCR
-- SYTO13
+  - 18s
+  - BB
+  - Crassostrea gigas
+  - DH
+  - DNased RNA
+  - Gigas_18s_F/R
+  - Immomix
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - SYTO13
 ---
 
 Performed qPCR on the DNased oyster RNA from earlier today with Gigas_18s_F/R primers to verify removal of detectable gDNA in the samples, since the qPCR from 20090508 indicated residual gDNA was still present in some of the DNase treated RNA. [Plate layout/set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090512-01.jpg).

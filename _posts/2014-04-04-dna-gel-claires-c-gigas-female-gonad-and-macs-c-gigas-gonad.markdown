@@ -8,17 +8,17 @@ slug: dna-gel-claires-c-gigas-female-gonad-and-macs-c-gigas-gonad
 title: DNA gel - Claire's C.gigas Female Gonad and Mac's C.gigas Gonad
 wordpress_id: 154
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNeasy
-- female
-- gDNA
-- gel
-- gonad
-- Pacific oyster
+  - Crassostrea gigas
+  - DNeasy
+  - female
+  - gDNA
+  - gel
+  - gonad
+  - Pacific oyster
 ---
 
 Ran out 2uL of Clair'es C.gigas female gonad gDNA (from 20140328) and Mac's C.gigas gonad gDNA (from 20140402) for quality assessment. Both samples had been isolated using Qiagen's Blood & Tissue DNeasy Kit. 2uL of each sample was run on a 0.8% 1x TBE gel.

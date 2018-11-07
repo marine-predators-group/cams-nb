@@ -8,16 +8,16 @@ slug: rna-gel-v-tubiashii-mrna-samples-from-20081224
 title: RNA Gel - V. tubiashii mRNA samples (from 20081224)
 wordpress_id: 1339
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gel
-- MICROBExpress Kit
-- RNA
-- rRNA
-- total RNA
-- Vibrio tubiashii
+  - gel
+  - MICROBExpress Kit
+  - RNA
+  - rRNA
+  - total RNA
+  - Vibrio tubiashii
 ---
 
 ![external image 20081229.png](http://eagle.fish.washington.edu/Arabidopsis/20081229.png)

@@ -8,17 +8,17 @@ slug: dna-quantification-quality-assessment-oly-2sn-gdna
 title: DNA Quantification & Quality Assessment - Oly 2SN gDNA
 wordpress_id: 1763
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- bioanalyzer
-- DNA Quantification
-- Fidalgo 2SN
-- gDNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
+  - bioanalyzer
+  - DNA Quantification
+  - Fidalgo 2SN
+  - gDNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Comparison of three different approaches to using the E.Z.N.A. Mollusc Kit:

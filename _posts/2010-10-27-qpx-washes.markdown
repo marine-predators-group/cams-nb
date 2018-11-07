@@ -8,12 +8,12 @@ slug: qpx-washes
 title: QPX Washes
 wordpress_id: 579
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- QPX
-- quahog parasite x
+  - QPX
+  - quahog parasite x
 ---
 
 Washed 4 day old QPX cultures. 3 isolates (S-1, TD-81, ATCC), two flasks (13mL) of each were washed in the following manner:

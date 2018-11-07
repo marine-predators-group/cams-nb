@@ -9,16 +9,16 @@ title: Bisulfite NGS Library Prep - LSU C.virginica Oil Spill MBD Bisulfite DNA 
   Emma's C.gigas Larvae OA Bisulfite DNA (continued from yesterday)
 wordpress_id: 61
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea gigas
-- Crassostrea virginica
-- Eastern oyster
-- library prep
-- PCR
+  - Crassostrea gigas
+  - Crassostrea virginica
+  - Eastern oyster
+  - library prep
+  - PCR
 ---
 
 Continued library prep from yesterday. Set up Library Amplification according to the protocol. The samples received the following Barcode Indices:

@@ -8,9 +8,9 @@ slug: goals-july-2016
 title: Goals - July 2016
 wordpress_id: 2165
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Unfortunately, most of this month's goals are the same as last months!

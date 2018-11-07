@@ -8,20 +8,20 @@ slug: qpcr-v-tubiashii-control-vs-autoclaved-gigas-samples-see-below
 title: qPCR - V.tubiashii Control vs. Autoclaved gigas samples (see below)
 wordpress_id: 1183
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- cDNA
-- DNased RNA
-- OmpW
-- Opticon2
-- qPCR
-- SensiMix
-- SYBR
-- Vibrio tubiashii
-- Vtub_16sV2
+  - 16s
+  - cDNA
+  - DNased RNA
+  - OmpW
+  - Opticon2
+  - qPCR
+  - SensiMix
+  - SYBR
+  - Vibrio tubiashii
+  - Vtub_16sV2
 ---
 
 qPCR was performed using SensiMix/SYBR "kit" with DNAsed RNA samples and cDNA made earlier today. [The plate layout/qPCR workup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090224-2.jpg).

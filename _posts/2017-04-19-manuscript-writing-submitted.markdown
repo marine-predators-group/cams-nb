@@ -8,17 +8,17 @@ slug: manuscript-writing-submitted
 title: Manuscript Writing - Submitted!
 wordpress_id: 2554
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- manuscript
-- olympia oyster
-- Open Science Framework
-- OSF
-- Ostrea lurida
-- Overleaf
-- Scientific Data
+  - manuscript
+  - olympia oyster
+  - Open Science Framework
+  - OSF
+  - Ostrea lurida
+  - Overleaf
+  - Scientific Data
 ---
 
 ## Boom!

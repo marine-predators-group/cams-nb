@@ -8,14 +8,14 @@ slug: dna-quantification-mspi-digested-crassostrea-virginica-gdna
 title: DNA Quantification - MspI-digested Crassostrea virginica gDNA
 wordpress_id: 3029
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- Qubit 3.0
-- Qubit dsDNA BR
+  - Crassostrea virginica
+  - Eastern oyster
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 Quantified the two MspI-digested DNA samples for the Qiagen project [from earlier today](http://onsnetwork.org/kubu4/2018/01/11/phenolchlorofo…-earlier-today/) with the Qubit 3.0 (ThermoFisher).

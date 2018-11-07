@@ -9,13 +9,13 @@ title: Gylcogen & Carboyhydrate Assays - Emma's C.gigas Whole Body Samples (cont
   from yesterday)
 wordpress_id: 182
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- glycogen assay
-- Pacific oyster
+  - Crassostrea gigas
+  - glycogen assay
+  - Pacific oyster
 ---
 
 Samples from yesterday were centrifuged 30mins, 4000g, 4C (fixed angle rotor).

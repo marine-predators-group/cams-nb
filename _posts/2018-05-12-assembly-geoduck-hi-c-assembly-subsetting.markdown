@@ -8,16 +8,16 @@ slug: assembly-geoduck-hi-c-assembly-subsetting
 title: Assembly - Geoduck Hi-C Assembly Subsetting
 wordpress_id: 3332
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- faidx
-- geoduck
-- Hi-C
-- Panopea generosa
-- phase genomics
-- QUAST
+  - faidx
+  - geoduck
+  - Hi-C
+  - Panopea generosa
+  - phase genomics
+  - QUAST
 ---
 
 [Steven asked me to create a couple of subsets of our Phase Genomics Hi-C geoduck genome assembly (pga_02)](https://github.com/RobertsLab/resources/issues/259):

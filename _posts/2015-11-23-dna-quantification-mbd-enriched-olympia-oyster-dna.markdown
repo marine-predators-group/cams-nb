@@ -8,19 +8,19 @@ slug: dna-quantification-mbd-enriched-olympia-oyster-dna
 title: DNA Quantification - MBD-enriched Olympia oyster DNA
 wordpress_id: 1807
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Quantification
-- MBD
-- MBD-Seq
-- olympia oyster
-- Ostrea lurida
-- plate reader
-- Quant-iT DNA BR Kit
-- Victor 1420 plate reader
+  - DNA Quantification
+  - MBD
+  - MBD-Seq
+  - olympia oyster
+  - Ostrea lurida
+  - plate reader
+  - Quant-iT DNA BR Kit
+  - Victor 1420 plate reader
 ---
 
 Quantified the MBD enriched samples prepped over the last two days: [MBD enrichment](http://onsnetwork.org/kubu4/2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna/), [EtOH precipiation](http://onsnetwork.org/kubu4/2015/11/22/ethanol-precipitation-olympia-oyster-mbd/).

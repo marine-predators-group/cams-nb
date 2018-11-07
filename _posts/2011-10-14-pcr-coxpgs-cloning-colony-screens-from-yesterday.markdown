@@ -8,21 +8,21 @@ slug: pcr-coxpgs-cloning-colony-screens-from-yesterday
 title: PCR - COX/PGS Cloning Colony Screens from yesterday
 wordpress_id: 290
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX1
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS1
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX1
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS1
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Performed PCR on 40 colonies using both qPCR primer sets to see if I could differentiate between which colonies potentially contained each isoform to reduce the amount of clones needed for sequencing. Master mix and cycling params are here. Primers used were:

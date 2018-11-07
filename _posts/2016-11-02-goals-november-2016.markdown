@@ -8,9 +8,9 @@ slug: goals-november-2016
 title: Goals - November 2016
 wordpress_id: 2314
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Well, I'm serious this time. My goal for this month is to complete the Oly GBS data analysis and, get the data sets and data analysis prepared/placed in satisfactory repositories in preparation for publication in [Scientific Data](http://www.nature.com/sdata/about).

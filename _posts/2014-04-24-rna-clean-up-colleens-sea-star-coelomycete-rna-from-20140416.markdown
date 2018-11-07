@@ -8,19 +8,19 @@ slug: rna-clean-up-colleens-sea-star-coelomycete-rna-from-20140416
 title: RNA Clean Up - Colleen's Sea Star Coelomycete RNA from 20140416
 wordpress_id: 141
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- Direct-zol
-- Pycnopodia helianthoides
-- RNA
-- RNA quantification
-- RNA-seq
-- sea star
-- TriReagent
-- troubleshooting
+  - coelomycete
+  - Direct-zol
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA quantification
+  - RNA-seq
+  - sea star
+  - TriReagent
+  - troubleshooting
 ---
 
 Zymoresearch support suggested putting the samples through another set of columns to help clean up the apparent phenol carryover that was seen (absorbance peak shifted to 270nm) in the initial isolation of these samples.

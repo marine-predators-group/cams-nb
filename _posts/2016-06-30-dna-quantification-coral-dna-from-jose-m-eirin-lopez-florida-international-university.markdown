@@ -9,15 +9,15 @@ title: DNA Quantification - Coral DNA from Jose M. Eirin-Lopez (Florida Internat
   University)
 wordpress_id: 2160
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- coral
-- DNA
-- DNA Quantification
-- Qubit 3.0
-- Qubit dsDNA BR
+  - coral
+  - DNA
+  - DNA Quantification
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 Quantified [the DNA we received from Jose on 20160615](http://onsnetwork.org/kubu4/2016/06/15/samples-received-coral-dna-from-jose-m-eirin-lopez-florida-international-university/) using the Qubit 3.0 Flouorometer (ThermoFisher) with the dsDNA Broad Range (BR) Kit according to the manufacturer's protocol. Used 1μL of each sample.

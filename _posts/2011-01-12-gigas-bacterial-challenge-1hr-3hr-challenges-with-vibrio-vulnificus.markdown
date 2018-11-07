@@ -8,19 +8,19 @@ slug: gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus
 title: Gigas Bacterial Challenge - 1hr & 3hr Challenges with Vibrio vulnificus
 wordpress_id: 500
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial challenge
-- bacterial culture
-- CFU
-- colony forming units
-- Crassostrea gigas
-- Pacific oyster
-- RE22
-- ST-H750 rotor
-- Vibrio vulnificus
+  - bacterial challenge
+  - bacterial culture
+  - CFU
+  - colony forming units
+  - Crassostrea gigas
+  - Pacific oyster
+  - RE22
+  - ST-H750 rotor
+  - Vibrio vulnificus
 ---
 
 400mL O/N culture (1x LB+1% NaCl, 37C, 150RPM, 1L flask) of V.vulnificus (STRAIN??) and V.tubiashii (Strain: RE22) were pelleted (4300RPM, 25C, Sorvall ST-H750 rotor). Supe was removed and pellets were each resuspended in 50mL sea water. 1mL was taken from each to use for dilutions to determine colony forming units (CFU).

@@ -8,16 +8,16 @@ slug: gdna-isolation-dungan-isolate-mie-14v
 title: gDNA Isolation - Dungan isolate MIE-14v
 wordpress_id: 967
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Dungan
-- MIE-14v
-- NanoDrop1000
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Dungan
+  - MIE-14v
+  - NanoDrop1000
 ---
 
 Cells stored in EtOH were pelleted 5000g, 10mins, 25C. A brownish smear was present along the inside of the tube after spinning; not really a pellet per se. Supe was removed and cells were washed twice with 1X PBS. The smear was reduced to a pellet after the first wash in PBS. The second wash resulted in a slightly smaller pellet, but a pellet was present nonetheless before proceeding. Cells were subjected to an enzymatic lysis in 180uL of a TE/Triton X-100/lysozyme mixture as described in the Qiagen DNeasy Kit for Gram-Positive Bacteria (and for cells having substantial cell walls). Cells were incubated in this mixture for 30mins @ 37C. 25uL of proteinase K and 200uL of Buffer AL were then added and the mixture was incubated @ 70C for 30mins. Protocol then followed the "normal" steps for isolation of gDNA. Sample was eluted in 100uL of Buffer AE and then spec'd.

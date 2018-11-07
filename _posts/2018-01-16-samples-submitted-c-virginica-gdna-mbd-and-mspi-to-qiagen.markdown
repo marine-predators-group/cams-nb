@@ -8,16 +8,16 @@ slug: samples-submitted-c-virginica-gdna-mbd-and-mspi-to-qiagen
 title: Samples Submitted - C. virginica gDNA, MBD, and MspI to Qiagen
 wordpress_id: 3061
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Submitted
+  - Samples Submitted
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- gDNA
-- MBD
-- MspI
-- Qiagen
+  - Crassostrea virginica
+  - Eastern oyster
+  - gDNA
+  - MBD
+  - MspI
+  - Qiagen
 ---
 
 Sent _Crassostrea virginica_ samples to Qiagen, as part of the collaboration we have with them for testing their new bisulfite conversion kit on various reduced representation DNA.

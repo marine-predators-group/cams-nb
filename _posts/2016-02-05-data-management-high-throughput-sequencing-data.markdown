@@ -8,13 +8,13 @@ slug: data-management-high-throughput-sequencing-data
 title: Data Management - High-throughput Sequencing Data
 wordpress_id: 2013
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- fusion table
-- nightingales
-- owl
+  - fusion table
+  - nightingales
+  - owl
 ---
 
 We've had a recent influx of sequencing data, which is great, but it created a bit of a backlog documenting what we've received.

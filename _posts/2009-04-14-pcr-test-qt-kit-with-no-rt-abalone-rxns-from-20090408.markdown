@@ -8,19 +8,19 @@ slug: pcr-test-qt-kit-with-no-rt-abalone-rxns-from-20090408
 title: PCR - Test QT Kit with No RT Abalone rxns from 20090408
 wordpress_id: 1127
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- cDNA
-- Dg
-- digestive gland
-- gDNA
-- gel
-- Haliotis cracherodii
-- PCR
-- Quantitect Kit
+  - black abalone
+  - cDNA
+  - Dg
+  - digestive gland
+  - gDNA
+  - gel
+  - Haliotis cracherodii
+  - PCR
+  - Quantitect Kit
 ---
 
 Anneal 55C. [PCR set up is here (bottom half of sheet)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090414-01.jpg).

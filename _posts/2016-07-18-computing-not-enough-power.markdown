@@ -8,16 +8,16 @@ slug: computing-not-enough-power
 title: Computing - Not Enough Power!
 wordpress_id: 2229
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- computing
-- EC2
-- jupyter notebook
-- pyrad
-- stacks
-- ustacks
+  - computing
+  - EC2
+  - jupyter notebook
+  - pyrad
+  - stacks
+  - ustacks
 ---
 
 Well, [I tackled the storage space issue by expanding the EC2 Instance to have a 1000GB of storage space](http://onsnetwork.org/kubu4/2016/07/17/computing-amazon-ec2-instance-out-of-space/). Now that that's no longer a concern, it turns out I'm running up against processing/memory limits!

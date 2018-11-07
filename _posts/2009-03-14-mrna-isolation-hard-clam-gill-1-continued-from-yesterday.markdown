@@ -8,17 +8,17 @@ slug: mrna-isolation-hard-clam-gill-1-continued-from-yesterday
 title: 'mRNA Isolation - hard clam gill #1 continued from yesterday'
 wordpress_id: 1167
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gill
-- Hard clam
-- Mercenaria mercenaria
-- Micro PolyA Purist
-- mRNA
-- NanoDrop1000
-- RNA quantification
+  - gill
+  - Hard clam
+  - Mercenaria mercenaria
+  - Micro PolyA Purist
+  - mRNA
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 Precipitation was continued from yesterday. Samples were resuspended in 25uL of The RNA Storage Solution (from PolyAPursit Kit) and spec'd. Samples were stored @ -80C in Sam's RNA box.

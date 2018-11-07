@@ -8,18 +8,18 @@ slug: dna-isolation-quantification-c-virginica-gonad-gdna
 title: DNA Isolation & Quantification - C. virginica Gonad gDNA
 wordpress_id: 2928
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- gonad
-- Qubit 3.0
-- Qubit dsDNA BR
+  - Crassostrea virginica
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - gonad
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 I isolated DNA from [the _Crassotrea virginica_ gonad samples sent by Katie Lotterhos](http://onsnetwork.org/kubu4/2017/10/03/samples-received-c-virginica-gonad-tissue-from-katie-lotterhos/) using the E.Z.N.A. Mollusc Kit with the following modifications:

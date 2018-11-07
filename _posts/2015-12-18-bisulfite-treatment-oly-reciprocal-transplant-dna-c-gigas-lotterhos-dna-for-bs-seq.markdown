@@ -9,34 +9,34 @@ title: Bisulfite Treatment - Oly Reciprocal Transplant DNA & C.gigas Lotterhos D
   for BS-seq
 wordpress_id: 1892
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- bisulfite conversion
-- BS-seq
-- Crassostrea gigas
-- EZ DNA Methylation-Gold Kit
-- gDNA
-- Katherine Silliman
-- Katie Lotterhos
-- M2
-- M3
-- NF2_18
-- NF2_6
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- PTC-200
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - bisulfite conversion
+  - BS-seq
+  - Crassostrea gigas
+  - EZ DNA Methylation-Gold Kit
+  - gDNA
+  - Katherine Silliman
+  - Katie Lotterhos
+  - M2
+  - M3
+  - NF2_18
+  - NF2_6
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - PTC-200
 ---
 
 After confirming that the [DNA available for this project looked good](http://onsnetwork.org/kubu4/2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries-take-two/), I performed bisulfite treatment on the following gDNA samples:

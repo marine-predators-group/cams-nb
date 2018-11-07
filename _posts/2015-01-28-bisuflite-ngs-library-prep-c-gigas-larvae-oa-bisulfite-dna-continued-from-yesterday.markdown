@@ -9,15 +9,15 @@ title: Bisuflite NGS Library Prep - C.gigas larvae OA bisulfite DNA (continued f
   yesterday)
 wordpress_id: 434
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- barcodes
-- BS-seq
-- Crassostrea gigas
-- library prep
-- Pacific oyster
+  - barcodes
+  - BS-seq
+  - Crassostrea gigas
+  - library prep
+  - Pacific oyster
 ---
 
 Continued Illumina library prep of bisulfite-treated DNA samples (400ppm and 1000ppm; from [20150114)](http://onsnetwork.org/kubu4/2015/01/14/dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna/)  with [Methylamp DNA Modification Kit (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf). Performed bead clean up immediately after End Repair.

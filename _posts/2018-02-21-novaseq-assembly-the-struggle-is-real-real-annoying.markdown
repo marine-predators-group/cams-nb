@@ -8,19 +8,19 @@ slug: novaseq-assembly-the-struggle-is-real-real-annoying
 title: NovaSeq Assembly - The Struggle is Real - Real Annoying!
 wordpress_id: 3107
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- AllPaths-LG
-- assembly
-- geoduck
-- jr-assembler
-- meraculous
-- mox
-- NovaSeq
-- Panopea generosa
-- SOAPdenovo2
+  - AllPaths-LG
+  - assembly
+  - geoduck
+  - jr-assembler
+  - meraculous
+  - mox
+  - NovaSeq
+  - Panopea generosa
+  - SOAPdenovo2
 ---
 
 Well, I continue to struggle to makek progress on assembling the geoduck Illumina NovaSeq data. Granted, there is a _ton_ of data (374GB!!!!), but it's still frustrating that we can't get an assembly anywhere...

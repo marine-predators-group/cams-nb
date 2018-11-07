@@ -8,14 +8,14 @@ slug: mox-olympia-oyster-genome-annotation-progress-using-maker-2-31-10
 title: Mox - Olympia oyster genome annotation progress (using Maker 2.31.10)
 wordpress_id: 3442
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- maker
-- mox
-- olympia oyster
-- Ostrea lurida
+  - maker
+  - mox
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 #### TL;DR - It appears to be continuing where it left off!

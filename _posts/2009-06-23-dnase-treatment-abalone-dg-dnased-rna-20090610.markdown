@@ -8,17 +8,17 @@ slug: dnase-treatment-abalone-dg-dnased-rna-20090610
 title: DNase Treatment - Abalone Dg DNased RNA 20090610
 wordpress_id: 1001
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Dg
-- digestive gland
-- DNase
-- Haliotis cracherodii
-- RNA
-- Turbo DNA-free
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNase
+  - Haliotis cracherodii
+  - RNA
+  - Turbo DNA-free
 ---
 
 This is the 4th time this RNA has been DNased. Performed using Ambion's Tubro DNA-free Kit. Followed the "rigorous" treatment protocol.

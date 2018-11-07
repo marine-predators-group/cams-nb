@@ -8,17 +8,17 @@ slug: restriction-digest-oly-gdna-for-rad-seq-walfi-2
 title: Restriction Digest – Oly gDNA for RAD-seq w/AlfI
 wordpress_id: 1714
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- AlfI
-- gDNA
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
-- restriction digestion
+  - AlfI
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
+  - restriction digestion
 ---
 
 Previously initiated the RAD-seq procedure for the sample set described below. However, [the test scale PCR yielded poor results](http://onsnetwork.org/kubu4/2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2/). Katherine Silliman [suggested that the poor performance of the test scale PCR was likely due to low numbers of adaptor-ligated fragments](http://onsnetwork.org/kubu4/2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2/#comments). Since [the input DNA is so degraded](http://onsnetwork.org/kubu4/2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check/), I've repeated this using 9μg of input DNA (instead of the recommended 1.2μg). This should increase the number of available cleavage sites for AlfI, thus improving the number of available ligation sites for the adaptors.

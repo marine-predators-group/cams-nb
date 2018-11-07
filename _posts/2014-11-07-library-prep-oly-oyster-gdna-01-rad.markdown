@@ -8,14 +8,14 @@ slug: library-prep-oly-oyster-gdna-01-rad
 title: Library Prep - Oly Oyster gDNA-01 RAD
 wordpress_id: 87
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- library prep
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - library prep
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the Kappa LTP Kit:

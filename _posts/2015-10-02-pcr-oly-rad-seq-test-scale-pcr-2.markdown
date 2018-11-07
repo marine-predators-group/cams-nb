@@ -8,23 +8,23 @@ slug: pcr-oly-rad-seq-test-scale-pcr-2
 title: PCR - Oly RAD-seq Test-scale PCR
 wordpress_id: 1695
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- gel
-- ILL-BC1
-- ILL-HT1
-- ILL-LIB1
-- ILL-LIB2
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
-- PCR
-- PTC-200
-- Q5 High-Fidelity DNA Polymerase
-- RAD-seq
+  - gel
+  - ILL-BC1
+  - ILL-HT1
+  - ILL-LIB1
+  - ILL-LIB2
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
+  - PCR
+  - PTC-200
+  - Q5 High-Fidelity DNA Polymerase
+  - RAD-seq
 ---
 
 [Yesterday's test scale PCR failed to produce any bands](http://onsnetwork.org/kubu4/2015/10/01/pcr-oly-rad-seq-test-scale-pcr/) in any samples (expected size of ~166bp). This is not particularly surprising, due to [the level of degradation in these samples](http://onsnetwork.org/kubu4/2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check/). As such, repeated the test scale PCR, but increased the number of cycles.

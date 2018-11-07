@@ -8,22 +8,22 @@ slug: epinext-adaptor-1-counts-lsu-c-virginica-oil-spill-samples
 title: Epinext Adaptor 1 Counts - LSU C.virginica Oil Spill Samples
 wordpress_id: 927
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- barcodes
-- bioinformatics
-- Crassostrea virginica
-- demultiplexing
-- Eastern oyster
-- FASTQ
-- fastx_barcode_splitter
-- grep
-- ipython notebook
-- jupyter notebook
-- LSU
-- oil
+  - barcodes
+  - bioinformatics
+  - Crassostrea virginica
+  - demultiplexing
+  - Eastern oyster
+  - FASTQ
+  - fastx_barcode_splitter
+  - grep
+  - ipython notebook
+  - jupyter notebook
+  - LSU
+  - oil
 ---
 
 Before contacting the Univ. of Oregon facility for help with this sequence demultiplexing dilemma, I contacted Epigentek to find out what the other adaptor sequence that is used in the EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina). I used grep and fastx_barcode_splitter to determine how many reads (if any) contained this adaptor sequence. All analysis was performed in the embedded Jupyter (IPython) notebook embedded below.

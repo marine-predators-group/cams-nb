@@ -8,14 +8,14 @@ slug: data-management-geoduck-small-insert-library-genome-assembly-from-bgi
 title: Data Management – Geoduck Small Insert Library Genome Assembly from BGI
 wordpress_id: 2311
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- BGI
-- geoduck
-- jupyter notebook
-- Panopea generosa
+  - BGI
+  - geoduck
+  - jupyter notebook
+  - Panopea generosa
 ---
 
 Received another set of _Panopea generosa_ genome assembly data from BGI back in May! I neglected to create MD5 checksums, as well as a readme file for this data set! Of course, I needed some of the info that the readme file should've had and it wasn't there. So, here's the skinny...

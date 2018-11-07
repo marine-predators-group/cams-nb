@@ -8,17 +8,17 @@ slug: software-install-msmtp-for-email-notices-of-bash-job-completion-on-emu-ubu
 title: Software Install - MSMTP For Email Notices of Bash Job Completion on Emu (Ubuntu)
 wordpress_id: 2970
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- email
-- emu
-- encryption
-- gpg
-- msmtp
-- password
-- ubuntu
+  - email
+  - emu
+  - encryption
+  - gpg
+  - msmtp
+  - password
+  - ubuntu
 ---
 
 [After I finally resolved the installation of PB Jelly on Emu](http://onsnetwork.org/kubu4/2017/11/30/troubleshooting-pb-jelly-install-on-emu-continued/) (running Ubuntu 16.04), I've had a PB Jelly assembly running for the past two weeks! I've gotten tired of checking on its status (i.e. is it still running?) every day, so I dove in and figured out how to set up Emu to email me when the job is complete!

@@ -8,14 +8,14 @@ slug: goals-october-2015
 title: Goals - October 2015
 wordpress_id: 1674
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 tags:
-- geoduck
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - geoduck
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 I'd review last month's goals, but I completely forgot to post them!

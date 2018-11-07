@@ -8,25 +8,25 @@ slug: rna-precipitation-herring-liver-rna-for-solid-libraries
 title: RNA Precipitation - Herring Liver RNA for SOLiD Libraries
 wordpress_id: 782
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 2L HKOD09
-- 3L
-- 3L HSITK09
-- 4L
-- 4L HTOG09
-- 6L
-- 6L HPWS09
-- EtOH precipitation
-- library prep
-- liver
-- Pacific herring
-- RNA
-- SOLiD
-- SOLiD libraries
+  - 2L
+  - 2L HKOD09
+  - 3L
+  - 3L HSITK09
+  - 4L
+  - 4L HTOG09
+  - 6L
+  - 6L HPWS09
+  - EtOH precipitation
+  - library prep
+  - liver
+  - Pacific herring
+  - RNA
+  - SOLiD
+  - SOLiD libraries
 ---
 
 50uL of RNA from each of the following were precipitated O/N @ -20C:

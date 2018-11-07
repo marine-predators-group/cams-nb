@@ -8,15 +8,15 @@ slug: data-management-sra-submission-oly-gbs-batch-submission-fail
 title: Data Management - SRA Submission Oly GBS Batch Submission Fail
 wordpress_id: 2527
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI oyster
-- ftp
-- olympia oyster
-- Ostrea lurida
-- SRA
+  - BGI oyster
+  - ftp
+  - olympia oyster
+  - Ostrea lurida
+  - SRA
 ---
 
 [I had previously submitted the two non-demultiplexed genotype-by-sequencing (GBS) files provided by BGI to the NCBI short read archive (SRA)](http://onsnetwork.org/kubu4/2017/02/08/data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files/).

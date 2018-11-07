@@ -8,14 +8,14 @@ slug: pcr-hexokinase-promoter-and-cds-repeat-from-20130227
 title: PCR - Hexokinase Promoter and CDS (repeat from 20130227)
 wordpress_id: 198
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- hexokinase
-- Pacific oyster
-- PCR
+  - Crassostrea gigas
+  - hexokinase
+  - Pacific oyster
+  - PCR
 ---
 
 Performed a repeat of the failed PCR from 20130227, but used a pool of cDNA (made from 20110311 C.gigas cDNA) instead of a single sample and changed the annealing temp to 50C.

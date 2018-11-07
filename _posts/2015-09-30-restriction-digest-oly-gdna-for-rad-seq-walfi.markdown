@@ -8,18 +8,18 @@ slug: restriction-digest-oly-gdna-for-rad-seq-walfi
 title: Restriction Digest - Oly gDNA for RAD-seq w/AlfI
 wordpress_id: 1668
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
-- Reagent Prep
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
+  - Reagent Prep
 tags:
-- AlfI
-- gDNA
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
-- restriction digestion
+  - AlfI
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
+  - restriction digestion
 ---
 
 Used a subset (10 samples) from [the _Ostrea lurida_ gDNA isolated 20150916](http://onsnetwork.org/kubu4/2015/09/16/dna-isolation-olympia-oyster-whole-body/) to prepare RAD libraries. This will be done to assess whether or not these samples, [which appear to be heavily degraded](http://onsnetwork.org/kubu4/2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check/), are viable for RAD-seq.

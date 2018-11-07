@@ -8,15 +8,15 @@ slug: genome-assembly-olympia-oyster-pacbio-canu-v1-6
 title: Genome Assembly - Olympia oyster PacBio Canu v1.6
 wordpress_id: 2809
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- canu
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - canu
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 I decided to run Canu myself, since documentation for [Sean's Canu run](https://genefish.wordpress.com/2017/06/19/seans-notebook-canu-run-finished/) is a bit lacking. Additionally, it looks like he specified a genome size of 500Mbp, which is probably too small. For this assembly, I set the genome size to 1.9Gbp (based on the info in the [BGI assembly report, using 17-mers for calculating genome size](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/docs/20160512_F15FTSUSAT0327_genome_survey.pdf)), which is probably on the large size.

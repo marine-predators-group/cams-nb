@@ -8,32 +8,32 @@ slug: sample-submission-bs-seq-library-pool-to-genewiz
 title: Sample Submission - BS-seq Library Pool to Genewiz
 wordpress_id: 1921
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
-- Samples Submitted
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
+  - Samples Submitted
 tags:
-- 1NF11
-- 1NF15
-- 1NF16
-- 1NF17
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- BS-seq
-- Crassostrea gigas
-- Katherine Silliman
-- Katie Lotterhos
-- M2
-- M3
-- NF2_6
-- NF_18
-- olympia oyster
-- Ostrea lurida
-- Pacific oyster
-- TruSeq DNA Methylation Library
+  - 1NF11
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - BS-seq
+  - Crassostrea gigas
+  - Katherine Silliman
+  - Katie Lotterhos
+  - M2
+  - M3
+  - NF2_6
+  - NF_18
+  - olympia oyster
+  - Ostrea lurida
+  - Pacific oyster
+  - TruSeq DNA Methylation Library
 ---
 
 Pooled 10ng of each of [the libraries prepared yesterday](http://onsnetwork.org/kubu4/2015/12/21/illumina-methylation-library-construction-olyc-gigas-bisulfite-treated-dna/) with [TruSeq DNA Methylation Library Kit (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf) for sequencing at Genewiz.

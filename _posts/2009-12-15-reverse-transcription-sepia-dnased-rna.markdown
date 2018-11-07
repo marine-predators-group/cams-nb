@@ -8,24 +8,24 @@ slug: reverse-transcription-sepia-dnased-rna
 title: Reverse Transcription - Sepia DNased RNA
 wordpress_id: 754
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- arm
-- cDNA
-- cuttlefish
-- DNase
-- DNased RNA
-- fin
-- M-MLV
-- mantle
-- NanoDrop1000
-- oligo dT
-- retina
-- RNA quantification
-- Sepia officinalis
-- Turbo DNA-free
+  - arm
+  - cDNA
+  - cuttlefish
+  - DNase
+  - DNased RNA
+  - fin
+  - M-MLV
+  - mantle
+  - NanoDrop1000
+  - oligo dT
+  - retina
+  - RNA quantification
+  - Sepia officinalis
+  - Turbo DNA-free
 ---
 
 DNase Treatment - Sepia RNA (from [20091204](/Sam%27s+Working+Notebook+Nov-Dec+2009#sjw20091204))

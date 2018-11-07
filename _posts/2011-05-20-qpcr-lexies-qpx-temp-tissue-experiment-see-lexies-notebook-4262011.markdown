@@ -8,17 +8,17 @@ slug: qpcr-lexies-qpx-temp-tissue-experiment-see-lexies-notebook-4262011
 title: qPCR - Lexie's QPX Temp & Tissue Experiment (see Lexies Notebook 4/26/2011)
 wordpress_id: 357
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- CFX96
-- LABY
-- qPCR
-- QPX
-- quahog parasite x
-- SPB
+  - cDNA
+  - CFX96
+  - LABY
+  - qPCR
+  - QPX
+  - quahog parasite x
+  - SPB
 ---
 
 Ran qPCR with Lexie's cDNA samples from this experiment with the following primer sets in order to better evaluate her biological reps:

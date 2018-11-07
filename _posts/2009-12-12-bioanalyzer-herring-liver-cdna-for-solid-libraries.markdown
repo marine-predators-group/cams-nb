@@ -8,22 +8,22 @@ slug: bioanalyzer-herring-liver-cdna-for-solid-libraries
 title: Bioanalyzer - Herring Liver cDNA for SOLiD Libraries
 wordpress_id: 756
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- bioanalyzer
-- cDNA
-- DNA 1000 chip
-- library prep
-- liver
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - bioanalyzer
+  - cDNA
+  - DNA 1000 chip
+  - library prep
+  - liver
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Samples were run on the DNA 1000 chip for cDNA smear analysis.

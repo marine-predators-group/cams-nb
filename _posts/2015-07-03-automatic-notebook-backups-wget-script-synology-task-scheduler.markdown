@@ -8,14 +8,14 @@ slug: automatic-notebook-backups-wget-script-synology-task-scheduler
 title: Automatic Notebook Backups - wget Script & Synology Task Scheduler
 wordpress_id: 1511
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- backup
-- script
-- Synology
-- wget
+  - backup
+  - script
+  - Synology
+  - wget
 ---
 
 ## UPDATE 20150714 - READ ENTIRE POST

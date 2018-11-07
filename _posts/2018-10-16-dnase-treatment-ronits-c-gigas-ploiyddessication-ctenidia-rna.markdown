@@ -8,19 +8,19 @@ slug: dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna
 title: DNase Treatment - Ronit's C.gigas Ploiyd/Dessication Ctenidia RNA
 wordpress_id: 3648
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- ctenidia
-- dessication
-- diploid
-- DNase
-- Pacific oyster
-- RNA
-- triploid
-- Turbo DNA-free
+  - Crassostrea gigas
+  - ctenidia
+  - dessication
+  - diploid
+  - DNase
+  - Pacific oyster
+  - RNA
+  - triploid
+  - Turbo DNA-free
 ---
 
 After [quantifying Ronit's RNA earlier today](http://onsnetwork.org/kubu4/2018/10/16/rna-quantification-ronits-c-gigas-ploidydessication-rna/), I DNased them using the Turbo DNA-free Kit (Ambion), according to the [manufacturer's standard protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Ambion_Turbo_DNA_Free.pdf).

@@ -8,22 +8,22 @@ slug: pcr-sepia-cdna-from-yesterday
 title: PCR - Sepia cDNA (from yesterday)
 wordpress_id: 752
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- arm
-- cDNA
-- cuttlefish
-- fin
-- gel
-- mantle
-- opsin
-- PCR
-- retina
-- rhodopsin
-- Sepia officinalis
-- Taq Red Master Mix
+  - arm
+  - cDNA
+  - cuttlefish
+  - fin
+  - gel
+  - mantle
+  - opsin
+  - PCR
+  - retina
+  - rhodopsin
+  - Sepia officinalis
+  - Taq Red Master Mix
 ---
 
 Set up PCR on recent Sepia cDNA samples using both S. officianalis_rhodopsin_F, R primers & Sep_op_F2, R2 primers. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091215-02.jpg). Looking back at my old paper (gasp!) notebook from March 2007, I noticed that each primer set required differing amounts of Mg2+. Rhodopsin primers require 3mM Mg2+ in the PCR rxn and the opsin primers require 2mM Mg2+ in the PCR rxn. Mg2+ was added as required and is shown on the PCR set up link above.

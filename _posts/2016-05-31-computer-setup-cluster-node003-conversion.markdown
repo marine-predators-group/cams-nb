@@ -8,15 +8,15 @@ slug: computer-setup-cluster-node003-conversion
 title: Computer Setup - Cluster Node003 Conversion
 wordpress_id: 2122
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- cluster
-- computer servicing
-- node003
-- roadrunner
-- Xserve
+  - cluster
+  - computer servicing
+  - node003
+  - roadrunner
+  - Xserve
 ---
 
 Here's an overview of some of the struggles getting node003 converted/upgraded to function as an independent computer (as opposed to a slave node in the Apple computer cluster).

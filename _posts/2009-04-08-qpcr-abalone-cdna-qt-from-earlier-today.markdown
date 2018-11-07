@@ -8,18 +8,18 @@ slug: qpcr-abalone-cdna-qt-from-earlier-today
 title: qPCR - Abalone cDNA (QT) from earlier today
 wordpress_id: 1147
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- black abalone
-- cDNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 16s
+  - black abalone
+  - cDNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 qPCR was performed with 16s_sybr primers on a subset of the cDNA rxns and all of the "No RT" rxns from earlier to detect the presence of contaminating gDNA. qPCR was also performed with the Rab7_sybr primers on a subset of the cDNA rxns to check that the assay would work. [The qPCR set up sheet/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090408-05.jpg). Annealing temp = 55C.

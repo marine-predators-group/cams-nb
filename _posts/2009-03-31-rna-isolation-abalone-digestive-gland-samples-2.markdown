@@ -8,19 +8,19 @@ slug: rna-isolation-abalone-digestive-gland-samples-2
 title: RNA Isolation - Abalone digestive gland samples
 wordpress_id: 1159
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 08:3
-- black abalone
-- Dg
-- digestive gland
-- Haliotis cracherodii
-- NanoDrop1000
-- RNA isolation
-- RNA PowerSoil Kit
-- RNA quantification
+  - 08:3
+  - black abalone
+  - Dg
+  - digestive gland
+  - Haliotis cracherodii
+  - NanoDrop1000
+  - RNA isolation
+  - RNA PowerSoil Kit
+  - RNA quantification
 ---
 
 Total RNA was isolated from the following abalone digestive gland samples using the RNA Powersoil Kit, according to their protocol:

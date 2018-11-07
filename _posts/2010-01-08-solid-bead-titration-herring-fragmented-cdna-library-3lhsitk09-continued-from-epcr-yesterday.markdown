@@ -9,18 +9,18 @@ title: SOLiD Bead Titration - Herring fragmented cDNA library 3LHSITK09 (CONTINU
   from ePCR yesterday)
 wordpress_id: 712
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 3LHSITK09
-- bead counts
-- cDNA
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD library
-- templated bead prep
+  - 3LHSITK09
+  - bead counts
+  - cDNA
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD library
+  - templated bead prep
 ---
 
 Completed the remainder of the procedure for template bead titration, according to the ABI "Templated Bead Preparation Guide" following the "full-scale" protocol.

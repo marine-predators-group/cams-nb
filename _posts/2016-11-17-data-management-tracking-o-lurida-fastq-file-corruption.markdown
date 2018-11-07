@@ -8,17 +8,17 @@ slug: data-management-tracking-o-lurida-fastq-file-corruption
 title: Data Management - Tracking O.lurida FASTQ File Corruption
 wordpress_id: 2349
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- BGI
-- checksum
-- docker
-- jupyter notebook
-- md5
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - checksum
+  - docker
+  - jupyter notebook
+  - md5
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 **UPDATE 20170104 - [These two corrupt files have been replaced with non-corrupt files](http://onsnetwork.org/kubu4/2017/01/04/data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files/).**

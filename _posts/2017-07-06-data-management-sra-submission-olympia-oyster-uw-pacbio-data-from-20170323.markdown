@@ -8,20 +8,20 @@ slug: data-management-sra-submission-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management - SRA Submission Olympia Oyster UW PacBio Data from 20170323
 wordpress_id: 2633
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- FASTQ
-- ftp
-- NCBI
-- olympia oyster
-- Ostrea lurida
-- PacBio
-- PRJNA316624
-- SAMN07326085
-- SRA
-- SRR5809355
+  - FASTQ
+  - ftp
+  - NCBI
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
+  - PRJNA316624
+  - SAMN07326085
+  - SRA
+  - SRR5809355
 ---
 
 Submitted the FASTQ files from the [UW PacBio Data from 20170323](http://onsnetwork.org/kubu4/2017/03/23/data-management-olympia-oyster-pacbio-data-received/) to the [NCBI sequence read archive (SRA)](https://www.ncbi.nlm.nih.gov/sra).

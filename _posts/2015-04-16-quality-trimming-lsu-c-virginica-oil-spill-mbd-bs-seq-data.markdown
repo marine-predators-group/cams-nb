@@ -8,20 +8,20 @@ slug: quality-trimming-lsu-c-virginica-oil-spill-mbd-bs-seq-data
 title: Quality Trimming - LSU C.virginica Oil Spill MBD BS-Seq Data
 wordpress_id: 1260
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- BS-seq
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- ipython notebook
-- jupyter notebook
-- MBD-Seq
-- NGS sequencing
-- oil
-- Trimmomatic
+  - BS-seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - ipython notebook
+  - jupyter notebook
+  - MBD-Seq
+  - NGS sequencing
+  - oil
+  - Trimmomatic
 ---
 
 Jupyter (IPython) Notebook: [20150414_C_virginica_LSU_Oil_Spill_Trimmomatic_FASTQC.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_virginica_LSU_Oil_Spill_Trimmomatic_FASTQC.ipynb)

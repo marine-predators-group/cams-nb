@@ -9,17 +9,17 @@ title: TrimGalore/FastQC/MultiQC - 2bp 3' end Read 1s Trim C.virginica MBD BS-se
   FASTQ data
 wordpress_id: 3234
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- MBD-Seq
-- multiqc
-- TrimGalore!
-- ZymoResearch
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - MBD-Seq
+  - multiqc
+  - TrimGalore!
+  - ZymoResearch
 ---
 
 [Earlier today, I ran TrimGalore/FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](http://onsnetwork.org/kubu4/2018/04/10/trimgalorefastqcmultiqc-14bp-trim-c-virginica-mbd-bs-seq-fastq-data/) and hard trimmed the first 14bp from each read. Things looked better at the 5' end, but the 3' end of each of the READ1 seqs showed a wonky 2bp blip, so decided to trim that off.

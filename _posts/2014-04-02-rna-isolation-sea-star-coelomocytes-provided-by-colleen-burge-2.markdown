@@ -8,21 +8,21 @@ slug: rna-isolation-sea-star-coelomocytes-provided-by-colleen-burge-2
 title: RNA Isolation - Sea Star Coelomocytes (provided by Colleen Burge)
 wordpress_id: 162
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- Direct-zol
-- P16
-- P6
-- Pycnopodia helianthoides
-- RNA
-- RNA isolation
-- RNA quantification
-- RNAlater
-- sea star
-- TriReagent
+  - coelomycete
+  - Direct-zol
+  - P16
+  - P6
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - RNAlater
+  - sea star
+  - TriReagent
 ---
 
 Tried another method of RNA Isolation for comparison with regular TriReagent method.

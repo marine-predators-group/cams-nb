@@ -8,14 +8,14 @@ slug: qpcr-test-young-lab-qpcr-calibration
 title: qPCR - Test Young Lab qPCR Calibration
 wordpress_id: 474
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- qPCR
-- troubleshooting
-- Young Lab
+  - calibration
+  - qPCR
+  - troubleshooting
+  - Young Lab
 ---
 
 This is a repeat of the two runs from yesterday, just to see if there is a correlation between the failed plates being the first of the day or not. M[aster mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110208-01.jpg) (these calcs are from yesterday, but were used again for today).

@@ -9,14 +9,14 @@ title: Ligation - Illumina P1 Adapters for Oly Oyster gDNA-01 RAD Sequencing (fr
   20141031)
 wordpress_id: 94
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- library prep
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - library prep
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Made 25nM working stock from the 100nM stock adapter plate provided by Carita. Added 2uL of each adapter to corresponding well of SbfI digested DNA (e.g. DNA plate well A1 got the P1 adapter from well A1 in the adapter plate).

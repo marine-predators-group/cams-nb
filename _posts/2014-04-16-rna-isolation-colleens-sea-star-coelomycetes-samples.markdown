@@ -8,19 +8,19 @@ slug: rna-isolation-colleens-sea-star-coelomycetes-samples
 title: RNA Isolation - Colleens' Sea Star Coelomycetes Samples
 wordpress_id: 145
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- Direct-zol
-- NanoDrop1000
-- Pycnopodia helianthoides
-- RNA
-- RNA isolation
-- RNA quantification
-- RNAlater
-- sea star
+  - coelomycete
+  - Direct-zol
+  - NanoDrop1000
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - RNAlater
+  - sea star
 ---
 
 Isolated RNA from the following samples stored in RNAlater:

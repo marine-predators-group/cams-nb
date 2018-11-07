@@ -8,15 +8,15 @@ slug: sample-submission-olympia-oyster-gdna-for-genome-sequencing-bgi
 title: Sample Submission - Olympia Oyster gDNA for Genome Sequencing @ BGI
 wordpress_id: 1854
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
-- Samples Submitted
+  - Olympia Oyster Genome Sequencing
+  - Samples Submitted
 tags:
-- '1509191001'
-- gDNA
-- olympia oyster
-- Ostrea lurida
+  - '1509191001'
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Shipped the pooled gDNA we've been accumulating to BGI to initiate the Olympia oyster genome sequencing project.

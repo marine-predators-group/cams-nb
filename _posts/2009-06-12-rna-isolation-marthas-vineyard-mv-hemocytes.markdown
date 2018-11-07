@@ -8,16 +8,16 @@ slug: rna-isolation-marthas-vineyard-mv-hemocytes
 title: RNA Isolation - Martha's Vineyard (MV) hemocytes
 wordpress_id: 1021
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DEPC-H2O
-- Eastern oyster
-- Martha's Vineyard
-- RNA isolation
-- TriReagent
+  - Crassostrea virginica
+  - DEPC-H2O
+  - Eastern oyster
+  - Martha's Vineyard
+  - RNA isolation
+  - TriReagent
 ---
 
 Samples were pelleted at 100g, 4C for 10mins. The supe was mostly removed, leaving ~50uL of supe above the pellets. RNA was isolated according to the TriReagent protocol from the following samples:

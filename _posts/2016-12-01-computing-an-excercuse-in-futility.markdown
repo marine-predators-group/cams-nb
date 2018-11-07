@@ -8,12 +8,12 @@ slug: computing-an-excercuse-in-futility
 title: Computing - An Excercise in Futility
 wordpress_id: 2369
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- jupyter notebook
-- R
+  - jupyter notebook
+  - R
 ---
 
 Trying to continue my [Oly GBS analsyis from the other day](http://onsnetwork.org/kubu4/2016/11/17/data-analysis-initial-o-lurida-fst-determination-from-gbs-data/) and follow along with [Katherine Silliman's notebook](https://github.com/ksil91/2016_Notebook/blob/master/2bRAD%20Subset%20Population%20Structure%20Analysis.ipynb)

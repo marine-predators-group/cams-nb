@@ -9,18 +9,18 @@ title: Genome Assembly -  Olympia Oyster Illumina & PacBio Using PB Jelly w/BGI 
   Assembly
 wordpress_id: 2920
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- BGI
-- Illumina
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- PacBio
-- PB Jelly
+  - assembly
+  - BGI
+  - Illumina
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
+  - PB Jelly
 ---
 
 [Yesterday, I ran PB Jelly using Sean's Platanus assembly](http://onsnetwork.org/kubu4/2017/11/13/genome-assembly-olympia-oyster-illumina-pacbio-using-pb-jelly-wplatanus-assembly/), but that didn't produce an assembly because [PB Jelly](https://sourceforge.net/p/pb-jelly/wiki/Home/) was expecting gaps in the Illumina reference assembly (i.e. scaffolds, not contigs).

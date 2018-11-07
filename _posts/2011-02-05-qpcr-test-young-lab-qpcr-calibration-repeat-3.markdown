@@ -8,14 +8,14 @@ slug: qpcr-test-young-lab-qpcr-calibration-repeat-3
 title: qPCR - Test Young Lab qPCR Calibration (Repeat)
 wordpress_id: 486
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ABI 7300
-- qPCR
-- troubleshooting
-- Young Lab
+  - ABI 7300
+  - qPCR
+  - troubleshooting
+  - Young Lab
 ---
 
 This is a repeat of an earlier run from today, but with a different qPCR plate. [Here're master mix calcs (bottom half of page)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110204-01.jpg). Cycling params were as follows:

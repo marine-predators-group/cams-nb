@@ -8,18 +8,18 @@ slug: dna-isolation-geoduck-2
 title: DNA Isolation - Geoduck
 wordpress_id: 172
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Axa
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - Axa
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Since yesterday's DNA isolation failed to yield sufficient quantity of DNA from the ethanol-fixed samples, I isolated additional DNA from the same samples.

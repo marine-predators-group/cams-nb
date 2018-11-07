@@ -9,16 +9,16 @@ title: Transposable Element Mapping – Crassostrea virginica NCBI Genome Assemb
   RepeatMasker 4.07
 wordpress_id: 3392
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- jupyter notebook
-- RepeatMasker
-- roadrunner
-- TE
-- transposable elements
+  - Crassostrea virginica
+  - jupyter notebook
+  - RepeatMasker
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 Genome used: [NCBI GCA_002022765.4_C_virginica-3.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/022/765/GCA_002022765.4_C_virginica-3.0)

@@ -8,17 +8,17 @@ slug: bioanalyzer-fragmented-sbwb-gdna-from-20100625
 title: Bioanalyzer - Fragmented SB/WB gDNA (from 20100625)
 wordpress_id: 623
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- Crassostrea gigas
-- DNA1000
-- electropherogram
-- Pacific oyster
-- R37
-- R51
+  - bioanalyzer
+  - Crassostrea gigas
+  - DNA1000
+  - electropherogram
+  - Pacific oyster
+  - R37
+  - R51
 ---
 
 To gain a more quantitative assessment of the fragmentation from [20100625](/Sam%27s+Working+Notebook+May-June+2010#sjw20100625), I ran 1uL of each sample (~55ng, according to pre-fragmentation spec values) on the Agilent Bioanalyzer 2100, using the DNA 1000 kit, according to manufacturer's protocol.

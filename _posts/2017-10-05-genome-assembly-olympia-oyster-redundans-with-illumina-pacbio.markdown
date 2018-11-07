@@ -8,17 +8,17 @@ slug: genome-assembly-olympia-oyster-redundans-with-illumina-pacbio
 title: Genome Assembly - Olympia Oyster Redundans with Illumina + PacBio
 wordpress_id: 2759
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- canu
-- Illumina
-- jupyter notebook
-- Ostrea
-- PacBio
-- QUAST
-- redundans
+  - canu
+  - Illumina
+  - jupyter notebook
+  - Ostrea
+  - PacBio
+  - QUAST
+  - redundans
 ---
 
 Redundans should assemble both Illumina and PacBio data, so let's do that.

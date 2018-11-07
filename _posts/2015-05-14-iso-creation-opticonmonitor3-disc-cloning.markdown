@@ -8,16 +8,16 @@ slug: iso-creation-opticonmonitor3-disc-cloning
 title: ISO Creation - OpticonMonitor3 Disc Cloning
 wordpress_id: 1391
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Apple
-- disk image
-- ISO
-- Opticon
-- OS X
-- software
+  - Apple
+  - disk image
+  - ISO
+  - Opticon
+  - OS X
+  - software
 ---
 
 Since many newer computers are coming _without_ optical disc drives (including my laptop, which I want to install this software on), I created an .iso disc image of the OpticonMonitor3 (BioRad) installation disc.

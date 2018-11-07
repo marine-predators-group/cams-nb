@@ -8,14 +8,14 @@ slug: bacteria-c-pugetti-liquid-cultures-2
 title: Bacteria - C. pugetti liquid cultures
 wordpress_id: 1093
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- biphenyl
-- Cycloclasticus pugetii
-- marine broth
+  - bacterial culture
+  - biphenyl
+  - Cycloclasticus pugetii
+  - marine broth
 ---
 
 Started two 100mL cultures in 1x Marine Broth + biphenyl. One culture was inoculated from the original liquid culture (from [20090419](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090419)) and the second was inoculated with a thick loopfull of C. pugetti from the plate (from [20090424](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090424)). Cultures were incubated @ 28C, 200RPM.

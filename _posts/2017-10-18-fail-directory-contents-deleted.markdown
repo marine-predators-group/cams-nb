@@ -8,9 +8,9 @@ slug: fail-directory-contents-deleted
 title: Fail - Directory Contents Deleted!
 wordpress_id: 2783
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 ---
 
 Uh, not sure what happened here:

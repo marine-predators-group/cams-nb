@@ -8,18 +8,18 @@ slug: gdna-isolation-two-new-dungan-isolates
 title: gDNA Isolation - Two new Dungan isolates
 wordpress_id: 1121
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Dungan isolates
-- gDNA
-- MIE-14y
-- NanoDrop1000
-- VNTc-1.2-C1/G10
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Dungan isolates
+  - gDNA
+  - MIE-14y
+  - NanoDrop1000
+  - VNTc-1.2-C1/G10
 ---
 
 Isolated gDNA from the following two samples:

@@ -8,21 +8,21 @@ slug: qpcr-re-dnased-abalone-dg-rna-from-earlier-today-3
 title: qPCR - Re-DNased abalone Dg RNA from earlier today
 wordpress_id: 1035
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- black abalone
-- Dg
-- digestive gland
-- DNased RNA
-- H.crach_16s_SYB_F/R
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - 16s
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNased RNA
+  - H.crach_16s_SYB_F/R
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Done to verify removal of gDNA from RNA. Used H.crach_16s_syb_f/r primers. [PCR workup/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090608-01.jpg).

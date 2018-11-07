@@ -9,17 +9,17 @@ title: TrimGalore/FastQC/MultiQC - Trim 10bp 5'/3' ends C.virginica MBD BS-seq F
   data
 wordpress_id: 3251
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- MBD-Seq
-- multiqc
-- TrimGalore!
-- ZymoResearch
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - MBD-Seq
+  - multiqc
+  - TrimGalore!
+  - ZymoResearch
 ---
 
 Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](https://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) Since this is the next step in our pipeline, we figured we should probably just follow their recommendations!

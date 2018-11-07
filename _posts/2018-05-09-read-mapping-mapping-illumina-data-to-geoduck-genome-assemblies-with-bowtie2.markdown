@@ -8,15 +8,15 @@ slug: read-mapping-mapping-illumina-data-to-geoduck-genome-assemblies-with-bowti
 title: Read Mapping - Mapping Illumina Data to Geoduck Genome Assemblies with Bowtie2
 wordpress_id: 3317
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- bowtie2
-- geoduck
-- jupyter notebook
-- Panopea generosa
+  - assembly
+  - bowtie2
+  - geoduck
+  - jupyter notebook
+  - Panopea generosa
 ---
 
 We have an upcoming meeting with Illumina to discuss how the geoduck genome project is coming along and to decide how we want to proceed.

@@ -8,29 +8,29 @@ slug: genomic-pcr-c-gigas-cyclooxygenase-cox-genomic-sequence
 title: Genomic PCR - C.gigas cyclooxygenase (COX) genomic sequence
 wordpress_id: 498
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- gel extraction
-- graphs
-- Hyperladder I
-- isoforms
-- Pacific oyster
-- PCR
-- PGS
-- prostaglandin synthase
-- 'SR ID: 1146'
-- 'SR ID: 1147'
-- 'SR ID: 1148'
-- 'SR ID: 1149'
-- 'SR ID: 1150'
-- 'SR ID: 1151'
-- Ultrafree-DA
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - gel extraction
+  - graphs
+  - Hyperladder I
+  - isoforms
+  - Pacific oyster
+  - PCR
+  - PGS
+  - prostaglandin synthase
+  - 'SR ID: 1146'
+  - 'SR ID: 1147'
+  - 'SR ID: 1148'
+  - 'SR ID: 1149'
+  - 'SR ID: 1150'
+  - 'SR ID: 1151'
+  - Ultrafree-DA
 ---
 
 Attempt to obtain full genomic sequence for C.gigas COX. [PCR set up/cycling params/etc are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110118-01.jpg). Primer set combinations(master mixes) are as follows:

@@ -8,17 +8,17 @@ slug: dna-quantification-claires-sheared-c-gigas-mantle-heat-shock-samples
 title: DNA Quantification - Claire's Sheared C.gigas Mantle Heat Shock Samples
 wordpress_id: 520
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- graphs
-- heat shock
-- mantle
-- NanoDrop1000
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Quantification
+  - graphs
+  - heat shock
+  - mantle
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 I previously [checked Claire's sheared DNA on the Bioanalyzer to verify the fragment size](http://onsnetwork.org/kubu4/2015/02/20/bioanalyzer-c-gigas-sheared-dna-from-20140108/) and to quantify the samples. [Looking at her notebook](https://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee), her numbers differ greatly from the Bioanalyzer, possibly due to the fact that the DNA1000 assay chip used only measures DNA fragments up to 1000bp in size. If her shearing was incomplete, then there would be DNA fragments larger than 1000bp that wouldn't have been measured by the Bioanalyzer. So, I decided to quantify the samples on the NanoDrop1000 (ThermoFisher) again.

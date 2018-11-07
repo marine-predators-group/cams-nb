@@ -8,17 +8,17 @@ slug: rna-cleanup-tanner-crab-rna
 title: RNA Cleanup - Tanner Crab RNA
 wordpress_id: 3467
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- NanoDrop1000
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNeasy Plus Mini
-- tanner crab
+  - Chionoecetes bairdi
+  - NanoDrop1000
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNeasy Plus Mini
+  - tanner crab
 ---
 
 In a continued attempt to figure out what we can do about the tanner crab RNA, [Steven tasked me with using an RNeasy Kit to cleanup some existing RNA](https://github.com/RobertsLab/resources/issues/330).

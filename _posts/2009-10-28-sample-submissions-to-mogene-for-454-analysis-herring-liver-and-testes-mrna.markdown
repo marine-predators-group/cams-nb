@@ -8,19 +8,19 @@ slug: sample-submissions-to-mogene-for-454-analysis-herring-liver-and-testes-mrn
 title: Sample Submissions to MoGene for 454 Analysis - Herring Liver and Testes mRNA
 wordpress_id: 804
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
-- Samples Submitted
+  - Miscellaneous
+  - Samples Submitted
 tags:
-- 454 sequencing
-- gonad
-- liver
-- mRNA
-- ovary
-- Pacific herring
-- SR01
-- SR02
+  - 454 sequencing
+  - gonad
+  - liver
+  - mRNA
+  - ovary
+  - Pacific herring
+  - SR01
+  - SR02
 ---
 
 Submitted 400ng of liver mRNA (SR01) and 400ng of testes (gonad) mRNA (SR02) to MoGene. Samples were packed in dry ice and FedEx.

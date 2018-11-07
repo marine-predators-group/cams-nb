@@ -8,15 +8,15 @@ slug: dna-methylation-analysis-bismark-pipeline-on-all-olympia-oyster-bsseq-data
 title: DNA Methylation Analysis - Bismark Pipeline on All Olympia oyster BSseq Datasets
 wordpress_id: 3511
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bismark
-- BS-seq
-- methylation
-- olympia oyster
-- Ostrea lurida
+  - bismark
+  - BS-seq
+  - methylation
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Bismark analysis of all of our current Olympia oyster (_Ostrea lurida_) DNA methylation high-throughput sequencing data.

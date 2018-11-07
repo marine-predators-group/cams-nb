@@ -8,17 +8,17 @@ slug: rnaseq-data-receipt-geoduck-gonad-rna-100bp-pe-illumina
 title: RNAseq Data Receipt - Geoduck Gonad RNA 100bp PE Illumina
 wordpress_id: 1498
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- geoduck
-- Geo_pool_F
-- Geo_pool_M
-- gonad
-- Illumina
-- Panopea generosa
-- RNA-seq
+  - geoduck
+  - Geo_pool_F
+  - Geo_pool_M
+  - gonad
+  - Illumina
+  - Panopea generosa
+  - RNA-seq
 ---
 
 Received notification that the [samples sent on 20150601 for RNAseq](http://onsnetwork.org/kubu4/2015/06/01/sample-submission-geoduck-gonad-for-rna-seq/) were completed.

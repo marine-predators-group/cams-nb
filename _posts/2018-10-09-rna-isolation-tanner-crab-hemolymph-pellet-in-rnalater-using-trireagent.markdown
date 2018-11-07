@@ -8,18 +8,18 @@ slug: rna-isolation-tanner-crab-hemolymph-pellet-in-rnalater-using-trireagent
 title: RNA Isolation - Tanner Crab Hemolymph Pellet in RNAlater using TriReagent
 wordpress_id: 3618
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNA isolation
-- RNA quantification
-- tanner crab
-- TriReagent
+  - Chionoecetes bairdi
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - tanner crab
+  - TriReagent
 ---
 
 [I previously isolated RNA from crab hemolymp from a lyophilized sample](http://onsnetwork.org/kubu4/2018/09/17/3558/) using TriReagent and Grace [recently tried isolating RNA from crab hemolyph pellet (non-lyophilized) using TriReagent](https://github.com/grace-ac/grace-ac.github.io/blob/master/_posts/2018-10-08-R-plans-Bioanalyzer-results.md). The [results for her extractions weren't so great](https://github.com/RobertsLab/resources/issues/393#issuecomment-428025198), so I'm giving it a shot with the following samples:

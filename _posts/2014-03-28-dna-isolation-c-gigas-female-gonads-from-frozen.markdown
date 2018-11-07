@@ -8,18 +8,18 @@ slug: dna-isolation-c-gigas-female-gonads-from-frozen
 title: DNA Isolation - C.gigas Female Gonads (from frozen)
 wordpress_id: 164
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
+  - Lineage-specific DNA methylation patterns in developing oysters
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- female
-- gonad
-- NanoDrop1000
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - female
+  - gonad
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 Isolated gDNA from Claire's "Female DNA" (from 05/16/2013) using the Qiagen Blood & Tissue DNeasy Kit according to the manufacturer's protocol, with the following changes:

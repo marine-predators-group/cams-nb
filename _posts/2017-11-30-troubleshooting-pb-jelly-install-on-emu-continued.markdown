@@ -8,16 +8,16 @@ slug: troubleshooting-pb-jelly-install-on-emu-continued
 title: Troubleshooting – PB Jelly Install on Emu Continued
 wordpress_id: 2944
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- $LD_LIBRARY_PATH
-- blasr
-- emu
-- PB Jelly
-- pbjelly
-- ubuntu
+  - $LD_LIBRARY_PATH
+  - blasr
+  - emu
+  - PB Jelly
+  - pbjelly
+  - ubuntu
 ---
 
 The [last "fix"](http://onsnetwork.org/kubu4/2017/11/20/troubleshooting-pb-jelly-install-on-emu/) didn't fix everything.

@@ -8,18 +8,18 @@ slug: pcr-full-length-pgs2-cdna
 title: PCR - Full-length PGS2 cDNA
 wordpress_id: 308
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - cDNA
+  - Crassostrea gigas
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Repeated PCR from 20110825 to attempt to amplify the full-length cDNA for PGS2 (COX2), however this time using a more robust polymerase (Amplitaq Gold) in hopes of getting results. Additionally, tried 3 different Mg2+ concentrations (1.5mM, 2.0mM, and 3.0mM). [Master mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110914-01.jpg). cDNA was pooled cDNA made [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311) from various tissues. PGS2 primers = 1376, 1375.

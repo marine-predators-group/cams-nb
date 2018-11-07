@@ -8,17 +8,17 @@ slug: docker-improving-roberts-lab-reproducibility
 title: Docker - Improving Roberts Lab Reproducibility
 wordpress_id: 2128
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- computing
-- docker
-- dockerfile
-- jupyter notebook
-- R
-- R Studio
-- reproducibility
+  - computing
+  - docker
+  - dockerfile
+  - jupyter notebook
+  - R
+  - R Studio
+  - reproducibility
 ---
 
 In an attempt at furthering our lab's abilities to maximize our reproducibility, I've been  working on developing an all-encompassing Docker image. Docker is a type of virtual machine (i.e. a self-contained computer that runs within your computer). For the Roberts Lab, the advantage of using Docker is that the Docker images can be customized to run a specific suite of software and these images can then be used by any other person in the lab (assuming they can run Docker on their particular operating system), regardless of operating system. In turn, if everyone is using the same Docker image (i.e. the same virtual machine with all the same software), then we should be able to reproduce data analyses more reliably, due to the fact that there won't be differences between software versions that people are using. Additionally, using Docker greatly simplifies the setup of new computers with the requisite software.

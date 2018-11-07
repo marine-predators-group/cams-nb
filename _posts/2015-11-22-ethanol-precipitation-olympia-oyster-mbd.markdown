@@ -8,15 +8,15 @@ slug: ethanol-precipitation-olympia-oyster-mbd
 title: Ethanol Precipitation - Olympia oyster MBD
 wordpress_id: 1805
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
 tags:
-- EtOH precipitation
-- MethylMiner Methylated DNA Enrichment Kit
-- olympia oyster
-- Ostrea lurida
+  - EtOH precipitation
+  - MethylMiner Methylated DNA Enrichment Kit
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Precipitated [the MBD enriched DNA from yesterday](http://onsnetwork.org/kubu4/2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna/) according to the MethylMiner Methylated DNA Enrichment Kit (Invitrogen) protocol.

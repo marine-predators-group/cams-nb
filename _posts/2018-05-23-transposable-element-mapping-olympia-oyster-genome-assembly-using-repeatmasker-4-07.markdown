@@ -9,17 +9,17 @@ title: Transposable Element Mapping - Olympia Oyster Genome Assembly using Repea
   4.07
 wordpress_id: 3382
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- RepeatMasker
-- roadrunner
-- TE
-- transposable elements
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - RepeatMasker
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 [Steven wanted transposable elements (TEs) in the Olympia oyster genome identified.](https://github.com/RobertsLab/resources/issues/265)

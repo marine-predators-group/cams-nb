@@ -8,18 +8,18 @@ slug: received-hard-clam-samples-from-rutgers
 title: Received Hard Clam Samples from Rutgers
 wordpress_id: 587
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- gill
-- Hard clam
-- hemolymph
-- MA
-- MAX
-- Mercenaria mercenaria
-- Rutgers
+  - CA
+  - gill
+  - Hard clam
+  - hemolymph
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - Rutgers
 ---
 
 30 gill tissue samples in RNA Later from CA, MA, & MAX each.

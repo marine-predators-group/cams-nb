@@ -8,15 +8,15 @@ slug: progress-report-titrator
 title: Progress Report - Titrator
 wordpress_id: 3122
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CRM
-- Rondolino
-- T5
-- T5 Excellence
-- titrator
+  - CRM
+  - Rondolino
+  - T5
+  - T5 Excellence
+  - titrator
 ---
 
 I'll begin this entry with a TL;DR (becuase it's definitely a very long read):

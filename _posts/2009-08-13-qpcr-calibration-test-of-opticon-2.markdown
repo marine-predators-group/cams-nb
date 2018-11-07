@@ -8,14 +8,14 @@ slug: qpcr-calibration-test-of-opticon-2
 title: qPCR - Calibration test of Opticon 2
 wordpress_id: 892
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- Opticon2
-- qPCR
-- troubleshooting
+  - calibration
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 Received new FAM calibration reagent. It comes pre-prepared in a 1x PCR buffer (0.3uM), however there is only enough for a single plate (use 50uL/well). Will run plate in Opticon 2. Run according to the calibration protocol in the Opticon 2 manual (p. 10-4).

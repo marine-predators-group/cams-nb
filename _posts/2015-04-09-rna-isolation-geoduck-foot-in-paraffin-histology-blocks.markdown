@@ -8,21 +8,21 @@ slug: rna-isolation-geoduck-foot-in-paraffin-histology-blocks
 title: RNA Isolation - Geoduck Gonad in Paraffin Histology Blocks
 wordpress_id: 1233
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- Disruptor Genie
-- geoduck
-- gonad
-- histology
-- histology cassettes
-- NanoDrop1000
-- Panopea generosa
-- paraffin
-- PAXgene Tissue RNA Kit
-- RNA isolation
-- RNA quantification
+  - Disruptor Genie
+  - geoduck
+  - gonad
+  - histology
+  - histology cassettes
+  - NanoDrop1000
+  - Panopea generosa
+  - paraffin
+  - PAXgene Tissue RNA Kit
+  - RNA isolation
+  - RNA quantification
 ---
 
 Isolated RNA from geoduck gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Grace's notebook for full details on samples and preservation](http://genefish.wikispaces.com/Grace%27s+Notebook).

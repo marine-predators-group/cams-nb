@@ -8,15 +8,15 @@ slug: data-received-geoduck-rrbs-sequencing-data
 title: Data Received - Geoduck RRBS Sequencing Data
 wordpress_id: 2425
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Genewiz
-- geoduck
-- Illumina
-- Panopea generosa
-- RRBS
+  - Genewiz
+  - geoduck
+  - Illumina
+  - Panopea generosa
+  - RRBS
 ---
 
 Hollie Putnam prepared some reduced representation bisulfite Illumina libraries and had them sequenced by Genewiz.

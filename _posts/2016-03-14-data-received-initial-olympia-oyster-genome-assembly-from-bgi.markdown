@@ -8,15 +8,15 @@ slug: data-received-initial-olympia-oyster-genome-assembly-from-bgi
 title: Data Received - Initial Olympia oyster Genome Assembly from BGI
 wordpress_id: 2035
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- BGI
-- olympia oyster
-- Ostrea lurida
-- scaffold
+  - assembly
+  - BGI
+  - olympia oyster
+  - Ostrea lurida
+  - scaffold
 ---
 
 The initial assembly of the Ostrea lurida genome is available from BGI. Currently, we've stashed it here:

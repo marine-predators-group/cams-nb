@@ -8,26 +8,26 @@ slug: adaptor-ligation-oly-alfi-digested-gdna-for-rad-seq
 title: Adaptor Ligation - Oly AlfI-Digested gDNA for RAD-seq
 wordpress_id: 1677
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
-- Reagent Prep
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
+  - Reagent Prep
 tags:
-- 3ILL-NR
-- 5ILL-NR
-- anti-ILL
-- ILL-BC1
-- ILL-HT1
-- ILL-HT2
-- ILL-LIB1
-- ILL-LIB2
-- ligation
-- olympia oyster
-- Ostrea lurida
-- PTC-200
-- RAD-seq
-- T4 DNA Ligase
+  - 3ILL-NR
+  - 5ILL-NR
+  - anti-ILL
+  - ILL-BC1
+  - ILL-HT1
+  - ILL-HT2
+  - ILL-LIB1
+  - ILL-LIB2
+  - ligation
+  - olympia oyster
+  - Ostrea lurida
+  - PTC-200
+  - RAD-seq
+  - T4 DNA Ligase
 ---
 
 [Yesterday's AlfI over night restriction digest](http://onsnetwork.org/kubu4/2015/09/30/restriction-digest-oly-gdna-for-rad-seq-walfi/) was heat inactivated by heating @ 65C for 10mins. Samples were stored on ice.

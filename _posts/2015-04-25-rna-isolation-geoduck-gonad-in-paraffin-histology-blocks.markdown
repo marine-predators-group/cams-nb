@@ -8,19 +8,19 @@ slug: rna-isolation-geoduck-gonad-in-paraffin-histology-blocks
 title: RNA Isolation – Geoduck Gonad in Paraffin Histology Blocks
 wordpress_id: 1273
 author:
-- kubu4
+  - kubu4
 categories:
-- Protein expression profiles during sexual maturation in Geoduck
+  - Protein expression profiles during sexual maturation in Geoduck
 tags:
-- DNased RNA
-- geoduck
-- gonad
-- histology cassettes
-- NanoDrop1000
-- Panopea generosa
-- PAXgene Tissue RNA Kit
-- RNA isolation
-- RNA quantification
+  - DNased RNA
+  - geoduck
+  - gonad
+  - histology cassettes
+  - NanoDrop1000
+  - Panopea generosa
+  - PAXgene Tissue RNA Kit
+  - RNA isolation
+  - RNA quantification
 ---
 
 UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](http://onsnetwork.org/kubu4/2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment/).

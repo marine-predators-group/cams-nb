@@ -9,19 +9,19 @@ title: Transcriptome Alignment & Bedgraph – Olympia oyster transcriptome with 
   genome assembly
 wordpress_id: 3589
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- alignment
-- bedgraph
-- bedtools
-- hisat2
-- mox
-- Olurida_v080
-- olympia oyster
-- Ostrea lurida
-- samtools
+  - alignment
+  - bedgraph
+  - bedtools
+  - hisat2
+  - mox
+  - Olurida_v080
+  - olympia oyster
+  - Ostrea lurida
+  - samtools
 ---
 
 [Yesterday, I produced a bedgraph file of our Olympia oyster RNAseq data coverage using our Olurida_v081 genome.](http://onsnetwork.org/kubu4/2018/09/26/bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly/)

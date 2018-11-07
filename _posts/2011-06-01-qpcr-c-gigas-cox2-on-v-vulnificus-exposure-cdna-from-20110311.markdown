@@ -8,24 +8,24 @@ slug: qpcr-c-gigas-cox2-on-v-vulnificus-exposure-cdna-from-20110311
 title: qPCR - C.gigas COX2 on V.vulnificus exposure cDNA (from 20110311)
 wordpress_id: 350
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- CFX96
-- COX
-- COX1
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS
-- PGS1
-- PGS2
-- prostaglandin synthase
-- qPCR
-- Vibrio vulnificus
+  - cDNA
+  - CFX96
+  - COX
+  - COX1
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS
+  - PGS1
+  - PGS2
+  - prostaglandin synthase
+  - qPCR
+  - Vibrio vulnificus
 ---
 
 Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111). Primers used were Cg_COX1/2_qPCR_F (SR ID: 1192) & Cg_COX2_454align1_R (SR ID: 1190). Samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110601-01.jpg). The master mix info is the same that was used earlier today, but with the primers noted above, not those listed on the calcs page. Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).

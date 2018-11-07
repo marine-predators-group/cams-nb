@@ -8,14 +8,14 @@ slug: gunzip-trimmed-illumina-hiseq-genome-sequencing-data
 title: 'Gunzip - Trimmed Illumina Geoduck HiSeq Genome Sequencing Data '
 wordpress_id: 3199
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- gunzip
-- mox
-- Panopea generosa
+  - geoduck
+  - gunzip
+  - mox
+  - Panopea generosa
 ---
 
 In preparation to run SpareAssembler, I needed to gunzip the [trimmed gzipped FASTQ files from 20140401](http://onsnetwork.org/kubu4/2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued/).

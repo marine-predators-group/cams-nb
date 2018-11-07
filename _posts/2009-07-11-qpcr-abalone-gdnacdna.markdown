@@ -8,20 +8,20 @@ slug: qpcr-abalone-gdnacdna
 title: qPCR - Abalone gDNA/cDNA
 wordpress_id: 953
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- cDNA
-- gDNA
-- H.crach_h-1fg_intron
-- H.iris_actin_intron
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO13
+  - black abalone
+  - cDNA
+  - gDNA
+  - H.crach_h-1fg_intron
+  - H.iris_actin_intron
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 Due to lack of amplification in gDNA samples from [20090710](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090710) and [20090708](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090708) with either set of intron primers, will repeat with additional gDNA samples to make sure the primers are the problem and not the gDNA. Used the H.iris_actin_intron_Fw/Rv and the H.crach_h-1fg_intron_Fw/Rv primers. [PCR setup/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090713-01.jpg). Anneal temp 50C.

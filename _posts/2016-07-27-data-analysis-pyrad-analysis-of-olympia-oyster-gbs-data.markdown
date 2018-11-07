@@ -8,16 +8,16 @@ slug: data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data
 title: Data Analysis - PyRad Analysis of Olympia Oyster GBS Data
 wordpress_id: 2235
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- docker
-- EC2
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- pyrad
+  - docker
+  - EC2
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - pyrad
 ---
 
 [Previously, I ran a PyRad analysis on just a subset of these samples in an attempt to have some data for a grant pre-proposal](http://onsnetwork.org/kubu4/2016/04/18/data-analysis-subset-olympia-oyster-gbs-data-from-bgi-as-single-population-using-pyrad/).

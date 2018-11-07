@@ -8,16 +8,16 @@ slug: dna-methylation-analysis-olympia-oyster-bsseq-methylkit-analysis
 title: DNA Methylation Analysis - Olympia oyster BSseq MethylKit Analysis
 wordpress_id: 3536
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bismark
-- BSseq
-- methylation
-- methylkit
-- olympia oyster
-- Ostrea lurida
+  - bismark
+  - BSseq
+  - methylation
+  - methylkit
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 ##### NOTE: IMPORTANT CAVEATS - READ POST BEFORE USING DATA.

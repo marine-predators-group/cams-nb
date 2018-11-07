@@ -8,15 +8,15 @@ slug: nanodrop-h-crach-dnased-rna-from-20090623
 title: NanoDrop - H.crach DNased RNA (from 20090623)
 wordpress_id: 902
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- DNased RNA
-- Haliotis cracherodii
-- NanoDrop1000
-- RNA quantification
+  - black abalone
+  - DNased RNA
+  - Haliotis cracherodii
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 Samples were first spec'd , since they had not been since their DNase treatement.

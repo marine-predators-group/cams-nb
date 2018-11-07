@@ -8,37 +8,37 @@ slug: data-received-ostrea-lurida-mbd-enriched-bs-seq
 title: Data Received - Ostrea lurida MBD-enriched BS-seq
 wordpress_id: 1996
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
 tags:
-- hc1_2B
-- hc1_4B
-- hc2_15B
-- hc2_17
-- hc3_1
-- hc3_10
-- hc3_11
-- hc3_5
-- hc3_7
-- hc3_9
-- ipython notebook
-- jupyter notebook
-- MBD-Seq
-- olympia oyster
-- Ostrea lurida
-- ss2_14B
-- ss2_18B
-- ss2_9B
-- ss3_14B
-- ss3_15B
-- ss3_16B
-- ss3_20
-- ss3_3B
-- ss3_4B
-- ss5_18
-- ZymoResearch
+  - hc1_2B
+  - hc1_4B
+  - hc2_15B
+  - hc2_17
+  - hc3_1
+  - hc3_10
+  - hc3_11
+  - hc3_5
+  - hc3_7
+  - hc3_9
+  - ipython notebook
+  - jupyter notebook
+  - MBD-Seq
+  - olympia oyster
+  - Ostrea lurida
+  - ss2_14B
+  - ss2_18B
+  - ss2_9B
+  - ss3_14B
+  - ss3_15B
+  - ss3_16B
+  - ss3_20
+  - ss3_3B
+  - ss3_4B
+  - ss5_18
+  - ZymoResearch
 ---
 
 Received the Olympia oyster, MBD-enriched BS-seq sequencing files (50bp, single read) from ZymoResearch ([submitted 20151208](http://onsnetwork.org/kubu4/2015/12/08/sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch/)). Here's the sample list:

@@ -8,20 +8,20 @@ slug: rna-isolation-jakes-o-lurida-ctenidia-control-from-20150422
 title: RNA Isolation – Jake’s O. lurida Ctenidia Control from 20150422
 wordpress_id: 1325
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ctenidia
-- gill
-- heat shock
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- RNA
-- RNA isolation
-- RNA quantification
-- RNAzol RT
+  - ctenidia
+  - gill
+  - heat shock
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - RNAzol RT
 ---
 
 Isolated RNA from [Jake’s Olympia oyster ctenidia, controls, collected on 20150422](http://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.

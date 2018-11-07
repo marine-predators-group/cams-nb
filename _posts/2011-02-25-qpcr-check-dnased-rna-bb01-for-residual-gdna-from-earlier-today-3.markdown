@@ -8,17 +8,17 @@ slug: qpcr-check-dnased-rna-bb01-for-residual-gdna-from-earlier-today-3
 title: qPCR - Check DNased RNA BB01 for Residual gDNA (from earlier today)
 wordpress_id: 422
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- 18s
-- BB
-- CFX96
-- Crassostrea gigas
-- DNased RNA
-- Pacific oyster
-- qPCR
+  - 18s
+  - BB
+  - CFX96
+  - Crassostrea gigas
+  - DNased RNA
+  - Pacific oyster
+  - qPCR
 ---
 
 Ran qPCR on DNased RNA from earlier today to verify removal of contaminating gDNA. Used C.gigas 18s primers (SR IDs: 156, 157). 0.5uL (50ng) of DNased RNA was used for testing. This corresponds, roughly, to the amount of sample that would be carried through to qPCR analysis of cDNA, assuming 1ug of RNA was used to make the cDNA (cDNA = 1000ng RNA/25uL = 40ng/uL, 1uL of cDNA in 25uL qPCR reaction). Positive control sample was ~25ng BB16 gDNA (from [20090519](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090519)). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110225-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). RNA was stored @ -80C in "Sam's -80C Box".

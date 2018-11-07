@@ -8,18 +8,18 @@ slug: pcr-baysea-scallop-gdnas
 title: PCR - Bay/Sea scallop gDNAs
 wordpress_id: 1125
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- Argopecten irradians
-- bay scallop
-- gDNA
-- gel
-- PCR
-- Placopecten magellanicus
-- sea scallop
+  - actin
+  - Argopecten irradians
+  - bay scallop
+  - gDNA
+  - gel
+  - PCR
+  - Placopecten magellanicus
+  - sea scallop
 ---
 
 Used higher annealing temps to improve primer specificity, compared to yesterday's results. [PCR set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090414-02.png).

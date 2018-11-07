@@ -8,17 +8,17 @@ slug: genome-assembly-sparseassembler-geoduck-genomic-data-kmer101
 title: Genome Assembly - SparseAssembler Geoduck Genomic Data, kmer=101
 wordpress_id: 3212
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- BGI
-- geoduck
-- Illumina
-- mox
-- NovaSeq
-- Panopea generosa
-- SparseAssembler
+  - BGI
+  - geoduck
+  - Illumina
+  - mox
+  - NovaSeq
+  - Panopea generosa
+  - SparseAssembler
 ---
 
 ##### UPDATE 20180413

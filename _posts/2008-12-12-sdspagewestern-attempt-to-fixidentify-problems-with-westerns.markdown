@@ -8,20 +8,20 @@ slug: sdspagewestern-attempt-to-fixidentify-problems-with-westerns
 title: SDS/PAGE/Western - Attempt to fix/identify problem(s) with Westerns
 wordpress_id: 1355
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ant-His tag
-- anti-myc
-- chemiluminescent
-- chromogenic
-- Coomassie
-- MSTN1b
-- myostatin
-- SDS-PAGE
-- Western blot
-- Western Breeze Chromogenic (anti-mouse) Kit
+  - ant-His tag
+  - anti-myc
+  - chemiluminescent
+  - chromogenic
+  - Coomassie
+  - MSTN1b
+  - myostatin
+  - SDS-PAGE
+  - Western blot
+  - Western Breeze Chromogenic (anti-mouse) Kit
 ---
 
 Will use two different antibodies and two different development methods: chromogenic (Invitrogen Western Breeze) and chemiluminescent.

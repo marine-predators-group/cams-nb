@@ -8,19 +8,19 @@ slug: dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna
 title: DNase Treatment - O.lurida Ctenidia 1hr Post-Mechanical Stress RNA
 wordpress_id: 1524
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- ctenidia
-- DNase
-- gill
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - ctenidia
+  - DNase
+  - gill
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 Quantified the RNA I isolated from Jake's samples on [20150715](http://onsnetwork.org/kubu4/2015/07/15/rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress-2/) and [20150710](http://onsnetwork.org/kubu4/2015/07/10/rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress/) using the Roberts Lab NanoDrop1000 (ThermoFisher).

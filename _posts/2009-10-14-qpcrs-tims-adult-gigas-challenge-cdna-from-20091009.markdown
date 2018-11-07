@@ -8,23 +8,23 @@ slug: qpcrs-tims-adult-gigas-challenge-cdna-from-20091009
 title: qPCRs - Tim's adult gigas challenge cDNA (from 20091009)
 wordpress_id: 820
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- expression analysis
-- graphs
-- IkB
-- Immomix
-- P450
-- Pacific oyster
-- Prx6
-- qPCR
-- SYTO 13
-- TNFRAF3
-- Vibrio tubiashii
+  - cDNA
+  - Crassostrea gigas
+  - expression analysis
+  - graphs
+  - IkB
+  - Immomix
+  - P450
+  - Pacific oyster
+  - Prx6
+  - qPCR
+  - SYTO 13
+  - TNFRAF3
+  - Vibrio tubiashii
 ---
 
 Set up qPCR with Cg_P450 primers and TNFRAF3'/5' primers. [Plate layout/setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091013-02.jpg).

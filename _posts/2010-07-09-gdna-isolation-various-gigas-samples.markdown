@@ -8,21 +8,21 @@ slug: gdna-isolation-various-gigas-samples
 title: gDNA Isolation - Various gigas samples
 wordpress_id: 615
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 5-azacitidine
-- Crassostrea gigas
-- DNA Isolation
-- DNazol
-- gDNA
-- gill
-- gonad
-- mantle
-- Pacific oyster
-- Vibrio exposure
-- Vibrio tubiashii
+  - 5-azacitidine
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNazol
+  - gDNA
+  - gill
+  - gonad
+  - mantle
+  - Pacific oyster
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 Placed ~20mg fragments of tissue in 250uL DNAzol. Added 1.35uL of Proteinase K (Fermentas; 18.5mg/mL) to reach a final concentration of 100ug/mL. Incubated RT, O/N, end-over-end rotation. Will complete DNA isolation tomorrow.

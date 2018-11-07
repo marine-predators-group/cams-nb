@@ -8,21 +8,21 @@ slug: sequencing-pgs-hi-4-pgs2cox2
 title: Sequencing - PGS Hi 4 (PGS2/COX2)
 wordpress_id: 329
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- alignment
-- BLAST
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
-- Sanger sequencing
+  - alignment
+  - BLAST
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - Sanger sequencing
 ---
 
 Sent plasmid prep to ASU (5uL of plasmid + 1uL of 10uM M13F/R). SJW01 = M13F, SJW02 = M13R.

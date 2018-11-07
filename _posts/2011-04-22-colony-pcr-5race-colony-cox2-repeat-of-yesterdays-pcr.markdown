@@ -8,21 +8,21 @@ slug: colony-pcr-5race-colony-cox2-repeat-of-yesterdays-pcr
 title: 'Colony PCR - 5''RACE Colony: COX2 (repeat of yesterday''s PCR)'
 wordpress_id: 380
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 Repeated yesterday's PCR on the re-streaked colony in order to run the product on a gel with a more appropriate ladder. See yesterday's entry for all PCR info.

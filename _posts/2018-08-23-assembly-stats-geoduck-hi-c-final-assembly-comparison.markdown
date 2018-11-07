@@ -8,16 +8,16 @@ slug: assembly-stats-geoduck-hi-c-final-assembly-comparison
 title: Assembly Stats – Geoduck Hi-C Final Assembly Comparison
 wordpress_id: 3517
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- genome
-- geoduck
-- Panopea generosa
-- phase genomics
-- QUAST
+  - assembly
+  - genome
+  - geoduck
+  - Panopea generosa
+  - phase genomics
+  - QUAST
 ---
 
 We received the final geoduck genome assembly data from Phase Genomics, in which they updated the assembly by performing some manual curation:

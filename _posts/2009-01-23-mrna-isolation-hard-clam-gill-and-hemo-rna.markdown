@@ -8,19 +8,19 @@ slug: mrna-isolation-hard-clam-gill-and-hemo-rna
 title: mRNA Isolation - Hard Clam gill and hemo RNA
 wordpress_id: 1201
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gill
-- Hard clam
-- hemocyte
-- Mercenaria mercenaria
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- RNA quantification
+  - gill
+  - Hard clam
+  - hemocyte
+  - Mercenaria mercenaria
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 mRNA was isolated according to [Ambion PolyA Purist protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MicroPoly%28A%29Purist%20Kit.pdf). After mixing samples with resin, samples were incubated @ RT for 1hr. Samples were washed per the protocol. However, the hemo sample was not clearing from the spin columns with the protocol-directed 3 min. spins. The column had to be spun up to 15 mins. in order for the column to clear. :(

@@ -8,16 +8,16 @@ slug: ethanol-precipitation-colleens-sea-star-coelomycete-rna-from-yesterday
 title: Ethanol Precipitation - Colleen's Sea Star Coelomycete RNA from Yesterday
 wordpress_id: 137
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- coelomycete
-- EtOH precipitation
-- Pycnopodia helianthoides
-- RNA
-- RNA quantification
-- sea star
+  - coelomycete
+  - EtOH precipitation
+  - Pycnopodia helianthoides
+  - RNA
+  - RNA quantification
+  - sea star
 ---
 
 Performed an EtOH precipitation on the sea start RNA due to some residual column resin (?) in the tubes after elution.

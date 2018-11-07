@@ -8,19 +8,19 @@ slug: reverse-transcription-o-lurida-dnased-rna-1hr-post-mechanical-stress
 title: Reverse Transcription – O.lurida DNased RNA 1hr post-mechanical stress
 wordpress_id: 1545
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- cDNA
-- ctenidia
-- DNased RNA
-- gill
-- mechanical stress
-- olympia oyster
-- Ostrea lurida
-- reverse transcriptase
-- reverse transcription
+  - cDNA
+  - ctenidia
+  - DNased RNA
+  - gill
+  - mechanical stress
+  - olympia oyster
+  - Ostrea lurida
+  - reverse transcriptase
+  - reverse transcription
 ---
 
 Performed reverse transcription on the Olympia oyster [DNased RNA from the 1hr post-mechanical stress samples](http://onsnetwork.org/kubu4/2015/07/27/dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna/) from Jake’s project. To accommodate the large numbers of anticipated genes to be targeted in subsequent qPCRs, I prepared 100μL reactions (normally, 25μL reactions are prepared) using 250ng of each DNased RNA. A 1:10 dilution of the oligo dT primers (Promega) was prepared to improve pipetting accuracy. All incubations were performed in a thermal cycler without using a heated lid.

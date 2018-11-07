@@ -8,18 +8,18 @@ slug: gdna-isolation-gigas-dermo-samples
 title: gDNA Isolation - Gigas Dermo Samples
 wordpress_id: 1067
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Dermo
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Eastern oyster
-- NanoDrop1000
-- Perkinsus marinus
+  - Crassostrea virginica
+  - Dermo
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Eastern oyster
+  - NanoDrop1000
+  - Perkinsus marinus
 ---
 
 Transferred tissue from previously Chelexed samples:

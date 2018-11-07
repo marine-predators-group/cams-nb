@@ -8,15 +8,15 @@ slug: kmer-estimation-kmergenie-k-301-on-geoduck-sequence-data
 title: Kmer Estimation – Kmergenie (k 301) on Geoduck Sequence Data
 wordpress_id: 3278
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- kmer
-- kmer genie
-- mox
-- Panopea generosa
+  - geoduck
+  - kmer
+  - kmer genie
+  - mox
+  - Panopea generosa
 ---
 
 Continuing the quest for the ideal kmer size to use for our geoduck assembly.

@@ -9,16 +9,16 @@ title: Bisulfite NGS Library Prep - LSU C.virginica Oil Spill Bisulfite DNA and 
   C.gigas Larvae OA Bisulfite DNA
 wordpress_id: 63
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea gigas
-- Crassostrea virginica
-- Eastern oyster
-- library prep
-- MBD-Seq
+  - Crassostrea gigas
+  - Crassostrea virginica
+  - Eastern oyster
+  - library prep
+  - MBD-Seq
 ---
 
 Constructed next generation libraries (Illumina) using the bisulfite-treated DNA from yesterday using the EpiNext Post-Bisulfite DNA Library Preparation Kit - Illumina (Epigentek). Samples were processed according to the manufacturer's protocol up to Section 8 (Library Amplification) with the following changes:

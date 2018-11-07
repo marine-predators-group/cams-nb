@@ -8,21 +8,21 @@ slug: colony-pcr-5-race-colony-cox2
 title: 'Colony PCR - 5'' RACE Colony: COX2'
 wordpress_id: 382
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- colony screen
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PCR
-- PGS
-- PGS2
-- prostaglandin synthase
+  - colony screen
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PCR
+  - PGS
+  - PGS2
+  - prostaglandin synthase
 ---
 
 [One white colony](http://eagle.fish.washington.edu/Arabidopsis/Pics/20110421-01.jpg) (marked with arrow in image linked) from the two plates from Steven's cloning (from yesterday) was picked, restreaked on a new Kan50 plate (no X-gal) and PCR'd.

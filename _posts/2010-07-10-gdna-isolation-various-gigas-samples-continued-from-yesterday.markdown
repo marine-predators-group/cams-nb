@@ -8,21 +8,21 @@ slug: gdna-isolation-various-gigas-samples-continued-from-yesterday
 title: gDNA Isolation - Various gigas samples (continued from yesterday)
 wordpress_id: 607
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 5-azacitidine
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gill
-- mantle
-- NanoDrop1000
-- Pacific oyster
-- Vibrio exposure
-- Vibrio tubiashii
+  - 5-azacitidine
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gill
+  - mantle
+  - NanoDrop1000
+  - Pacific oyster
+  - Vibrio exposure
+  - Vibrio tubiashii
 ---
 
 Pelleted residual tissue 10mins @ 10,000g @ RT. Transferred supe to new tubes. Precipitated DNA with 0.25mL 100% EtOH. Incubated 3mins @ RT. DNA was pelleted 5mins @ 5000g @ RT. Supe was removed, pellets were washed with 1mL 75% EtOH (x2). Supe was fully removed and the DNAs were resuspended in 300uL 8mM NaOH (made 7/9/10 SJW).

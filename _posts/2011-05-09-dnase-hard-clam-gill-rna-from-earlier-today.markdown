@@ -8,18 +8,18 @@ slug: dnase-hard-clam-gill-rna-from-earlier-today
 title: DNase - Hard Clam Gill RNA (from earlier today)
 wordpress_id: 364
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- DNased RNA
-- Hard clam
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - DNase
+  - DNased RNA
+  - Hard clam
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 DNased 5ug of RNA from each sample with Ambion's Turbo DNA-free Kit, according to the manufacturer's rigorous protocol. Samples were spec'd and stored @ -80C in the "Hard Clam V.t. Experiment RNA" box.

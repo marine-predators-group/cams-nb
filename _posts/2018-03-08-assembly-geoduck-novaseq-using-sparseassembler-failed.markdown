@@ -8,15 +8,15 @@ slug: assembly-geoduck-novaseq-using-sparseassembler-failed
 title: Assembly - Geoduck NovaSeq using SparseAssembler (failed)
 wordpress_id: 3147
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- geoduck
-- NovaSeq
-- Panopea generosa
-- SparseAssembler
+  - assembly
+  - geoduck
+  - NovaSeq
+  - Panopea generosa
+  - SparseAssembler
 ---
 
 Steven came across a [2012 paper in BMC Bioinformatics ("Exploiting sparseness in _de novo_ genome assembly")](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1) that utilized an assembly program we hadn't previously encountered: [SparseAssembler](https://sourceforge.net/projects/sparseassembler/)

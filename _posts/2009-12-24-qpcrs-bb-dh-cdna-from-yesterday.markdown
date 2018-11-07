@@ -8,21 +8,21 @@ slug: qpcrs-bb-dh-cdna-from-yesterday
 title: qPCRs - BB & DH cDNA (from yesterday)
 wordpress_id: 736
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- C1QT4
-- cDNA
-- CP17A
-- Crassostrea gigas
-- DH
-- Ficolin 3
-- MDR49
-- Opticon2
-- Pacific oyster
-- qPCR
+  - BB
+  - C1QT4
+  - cDNA
+  - CP17A
+  - Crassostrea gigas
+  - DH
+  - Ficolin 3
+  - MDR49
+  - Opticon2
+  - Pacific oyster
+  - qPCR
 ---
 
 qPCR was set up on these cDNAs using the following primers:

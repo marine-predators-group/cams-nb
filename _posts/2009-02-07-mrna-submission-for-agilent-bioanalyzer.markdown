@@ -8,16 +8,16 @@ slug: mrna-submission-for-agilent-bioanalyzer
 title: mRNA - Submission for Agilent Bioanalyzer
 wordpress_id: 1195
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- Crassostrea gigas
-- gill
-- graph
-- mRNA
-- Pacific oyster
+  - bioanalyzer
+  - Crassostrea gigas
+  - gill
+  - graph
+  - mRNA
+  - Pacific oyster
 ---
 
 Submitted 4uL (108ng/uL) of mRNA from gigas gill (from DATE!; sometime in late August) to the Center for Array Technologies (CART) at UW. Sample was labelled "SR01".

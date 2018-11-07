@@ -9,14 +9,14 @@ title: Samples Received - Crassostrea virginica (Eastern oyster) tissue from Lot
   Lab (Northeastern University)
 wordpress_id: 3656
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- Katie Lotterhos
-- tissue
+  - Crassostrea virginica
+  - Eastern oyster
+  - Katie Lotterhos
+  - tissue
 ---
 
 ![](http://gannet.fish.washington.edu/Atumefaciens/images/20181017_samples_recd.jpg)

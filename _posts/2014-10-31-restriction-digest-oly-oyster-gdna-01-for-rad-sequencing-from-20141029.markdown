@@ -8,15 +8,15 @@ slug: restriction-digest-oly-oyster-gdna-01-for-rad-sequencing-from-20141029
 title: Restriction Digest - Oly Oyster gDNA-01 for RAD Sequencing (from 20141029)
 wordpress_id: 96
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- library prep
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
-- restriction digestion
+  - library prep
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
+  - restriction digestion
 ---
 
 Samples required two days of drying for all samples to fully dry down.

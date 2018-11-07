@@ -8,17 +8,17 @@ slug: sequencing-c-gigas-cox2pgs2-clone-4-from-20110728
 title: 'Sequencing - C.gigas COX2/PGS2 Clone #4 from 20110728'
 wordpress_id: 314
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS2
-- prostaglandin synthase
-- Sanger sequencing
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS2
+  - prostaglandin synthase
+  - Sanger sequencing
 ---
 
 Used new primers for sequencing (SR IDs: 1351 & 1352) clone #4. Sequenced clone two times in each direction. DNA and primers were sent for sequencing at ASU. Requested "High GC" treatment to help overcome the issue seen on 20110728.

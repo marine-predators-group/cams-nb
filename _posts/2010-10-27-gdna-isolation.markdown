@@ -8,18 +8,18 @@ slug: gdna-isolation
 title: gDNA Isolation
 wordpress_id: 577
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- algae
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- Eschrichtius robustus
-- gray whale
-- NanoDrop1000
-- T.ISO
+  - algae
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - Eschrichtius robustus
+  - gray whale
+  - NanoDrop1000
+  - T.ISO
 ---
 
 Isolated gDNA from gray whale skin, human cheek cells (my own!) and two different species of algae (species 1, species 2) using Qiagen's DNEasy Blood & Tissue Kit according to protocol. Incubated all samples at 55C for 1hr. Eluted DNA with 50uL of Buffer AE. Spec'd samples on NanoDrop 1000.

@@ -8,15 +8,15 @@ slug: pcr-lake-trout-c1q-3
 title: PCR - Lake Trout C1q
 wordpress_id: 192
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bisulfite PCR
-- C1q
-- gel
-- lake trout
-- Salvelinus namaycush
+  - bisulfite PCR
+  - C1q
+  - gel
+  - lake trout
+  - Salvelinus namaycush
 ---
 
 Ran PCR on lake trout DNA and lake trout bisulfite-converted DNA. Used primers SRIDs: 1551 and 1552. DNA was isolated by Caroline Storer on 4/4/2011 and bisulfite converted on 4/7/2011. Master mix and cycling params are here:

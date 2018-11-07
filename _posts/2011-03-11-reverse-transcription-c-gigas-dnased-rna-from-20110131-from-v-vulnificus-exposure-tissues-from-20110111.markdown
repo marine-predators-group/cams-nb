@@ -9,17 +9,17 @@ title: Reverse Transcription - C.gigas DNased RNA (from 20110131) from V.vulnifi
   Exposure & Tissues (from 20110111)
 wordpress_id: 400
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- DNased RNA
-- M-MLV
-- Pacific oyster
-- reverse transcription
-- Vibrio exposure
+  - cDNA
+  - Crassostrea gigas
+  - DNased RNA
+  - M-MLV
+  - Pacific oyster
+  - reverse transcription
+  - Vibrio exposure
 ---
 
 Performed RT on DNased RNA using Promega MMLV RT and Oligo dT according to manufacturer's protocol, using 1ug of DNased RNA. Due to large number of samples, cDNA was made in PCR plate. [Plate layout and calcs are here](https://spreadsheets0.google.com/ccc?hl=en&hl=en&key=tGdgxaN5NchLx8wNDKAdWzg&authkey=CMrM2CM#gid=0). cDNA was diluted 4-fold (to 100uL total volume) based on qPCR done by Emma on 20110202.

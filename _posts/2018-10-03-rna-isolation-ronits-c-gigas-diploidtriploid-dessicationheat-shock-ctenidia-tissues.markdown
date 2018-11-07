@@ -9,15 +9,15 @@ title: RNA Isolation - Ronit's C.gigas diploid/triploid dessication/heat shock c
   tissues
 wordpress_id: 3615
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- ctenidia
-- Pacific oyster
-- RNA isolation
-- RNAzol RT
+  - Crassostrea gigas
+  - ctenidia
+  - Pacific oyster
+  - RNA isolation
+  - RNAzol RT
 ---
 
 Isolated RNA from a subset of Ronit's _Crassostrea gigas_ ctenidia samples (see [Ronit's notebook for experiment deets](https://genefish.wordpress.com/author/voicesonsocialissues/)):

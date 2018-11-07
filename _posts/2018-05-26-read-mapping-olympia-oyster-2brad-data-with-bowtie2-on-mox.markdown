@@ -8,14 +8,14 @@ slug: read-mapping-olympia-oyster-2brad-data-with-bowtie2-on-mox
 title: Read Mapping – Olympia oyster 2bRAD Data with Bowtie2 (on Mox)
 wordpress_id: 3341
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2bRAD
-- bowtie2
-- mox
-- olympia oyster
-- Ostrea lurida
+  - 2bRAD
+  - bowtie2
+  - mox
+  - olympia oyster
+  - Ostrea lurida
 ---
 

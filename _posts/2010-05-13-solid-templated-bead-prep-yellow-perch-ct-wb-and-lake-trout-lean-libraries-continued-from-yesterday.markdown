@@ -9,20 +9,20 @@ title: SOLiD Templated Bead Prep - Yellow perch CT, WB and lake trout Lean libra
   (continued from yesterday)
 wordpress_id: 651
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bead counts
-- CT
-- lake trout
-- Lean
-- library prep
-- SOLiD
-- SOLiD libraries
-- templated bead prep
-- WB
-- yellow perch
+  - bead counts
+  - CT
+  - lake trout
+  - Lean
+  - library prep
+  - SOLiD
+  - SOLiD libraries
+  - templated bead prep
+  - WB
+  - yellow perch
 ---
 
 Templated bead preparation was performed according to the "full scale" protocol.

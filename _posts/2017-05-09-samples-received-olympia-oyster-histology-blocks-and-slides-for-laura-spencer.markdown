@@ -8,15 +8,15 @@ slug: samples-received-olympia-oyster-histology-blocks-and-slides-for-laura-spen
 title: Samples Received - Olympia oyster Histology Blocks and Slides (for Laura Spencer)
 wordpress_id: 2568
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- histology
-- histology cassettes
-- olympia oyster
-- Ostrea lurida
-- slides
+  - histology
+  - histology cassettes
+  - olympia oyster
+  - Ostrea lurida
+  - slides
 ---
 
 Received histology blocks and slides for Laura Spencer.

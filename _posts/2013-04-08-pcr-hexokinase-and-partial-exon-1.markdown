@@ -8,17 +8,17 @@ slug: pcr-hexokinase-and-partial-exon-1
 title: 'PCR - Hexokinase and Partial Exon #1'
 wordpress_id: 196
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gel
-- gel extraction
-- hexokinase
-- Pacific oyster
-- PCR
-- Ultrafree-DA
+  - Crassostrea gigas
+  - gel
+  - gel extraction
+  - hexokinase
+  - Pacific oyster
+  - PCR
+  - Ultrafree-DA
 ---
 
 Performed PCR using newly designed primers to amplify the C. gigas hexokinase "promoter" (-2059bp from start) along with a portion of the first exon.

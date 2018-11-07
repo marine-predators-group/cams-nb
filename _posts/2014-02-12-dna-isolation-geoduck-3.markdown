@@ -8,18 +8,18 @@ slug: dna-isolation-geoduck-3
 title: DNA Isolation - Geoduck
 wordpress_id: 174
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Axa
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - Axa
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Isolated gDNA from 6 geoduck siphon samples provided by Brent using the Qiagen DNeasy Spin Kit. Samples were as follows:

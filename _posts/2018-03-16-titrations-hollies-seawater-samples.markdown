@@ -8,18 +8,18 @@ slug: titrations-hollies-seawater-samples
 title: Titrations - Hollie's Seawater Samples
 wordpress_id: 3183
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- A10
-- CRM 168
-- Rondolino
-- sea water
-- T5 Excellence
-- TA
-- titration
-- total alkalinity
+  - A10
+  - CRM 168
+  - Rondolino
+  - sea water
+  - T5 Excellence
+  - TA
+  - titration
+  - total alkalinity
 ---
 
 Performed total alkalinity (TA) titrations on Hollie's samples using our T5 Excellence titrator (Mettler Toledo) and Rondolino sample changer.

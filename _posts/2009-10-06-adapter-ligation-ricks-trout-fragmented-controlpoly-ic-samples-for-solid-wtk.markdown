@@ -9,17 +9,17 @@ title: Adapter Ligation - Rick's trout fragmented control/poly I:C samples for S
   WTK
 wordpress_id: 844
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- library prep
-- ligation
-- RBC
-- SOLiD
-- SOLiD libraries
-- trout
-- Whole Transcriptome Analysis Kit
+  - library prep
+  - ligation
+  - RBC
+  - SOLiD
+  - SOLiD libraries
+  - trout
+  - Whole Transcriptome Analysis Kit
 ---
 
 See the Next Gen Seq Library Database for more info. Processed the 4 samples (one set Ribominus only, one set Ribominus + PolyA enriched) according to the Agilent WTK. Briefly:

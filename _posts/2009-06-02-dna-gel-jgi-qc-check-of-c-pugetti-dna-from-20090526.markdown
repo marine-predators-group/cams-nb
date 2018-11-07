@@ -8,14 +8,14 @@ slug: dna-gel-jgi-qc-check-of-c-pugetti-dna-from-20090526
 title: DNA Gel - JGI QC check of C. pugetti DNA from 20090526
 wordpress_id: 1053
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Cycloclasticus pugetii
-- gDNA
-- gel
-- JGI
+  - Cycloclasticus pugetii
+  - gDNA
+  - gel
+  - JGI
 ---
 
 ![](http://eagle.fish.washington.edu/Arabidopsis/20090601%20C%20pugetti%20gDNA%20JGI%20QC.jpg)

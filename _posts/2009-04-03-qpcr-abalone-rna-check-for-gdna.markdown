@@ -8,18 +8,18 @@ slug: qpcr-abalone-rna-check-for-gdna
 title: qPCR - Abalone RNA, check for gDNA
 wordpress_id: 1151
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 16s
-- black abalone
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- RNA
-- SYTO13
+  - 16s
+  - black abalone
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - RNA
+  - SYTO13
 ---
 
 Abalone RNA isolated from this week was qPCR's with 16s primers to determine if gDNA contamination was present. [PCR/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-01.pdf).

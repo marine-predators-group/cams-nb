@@ -8,20 +8,20 @@ slug: qpcrs-bb-dh-cdna-from-20091223
 title: qPCRs - BB & DH cDNA (from 20091223)
 wordpress_id: 726
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DEF1
-- DH
-- Opticon2
-- Pacific oyster
-- qPCR
-- RETST
-- SEMSA
-- TIMP3
+  - BB
+  - Crassostrea gigas
+  - DEF1
+  - DH
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - RETST
+  - SEMSA
+  - TIMP3
 ---
 
 qPCR was set up on these cDNAs using the following primers:

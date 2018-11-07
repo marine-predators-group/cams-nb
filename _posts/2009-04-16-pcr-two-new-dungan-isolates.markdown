@@ -8,14 +8,14 @@ slug: pcr-two-new-dungan-isolates
 title: PCR - Two new Dungan isolates
 wordpress_id: 1117
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- AmpliTaq
-- Dungan isolates
-- gel
-- PCR
+  - AmpliTaq
+  - Dungan isolates
+  - gel
+  - PCR
 ---
 
 Repeat of yesterday's PCR, but with AmpliTaq, less gDNA and 50uL rxn volume. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090416-01.jpg).

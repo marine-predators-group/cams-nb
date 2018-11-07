@@ -8,28 +8,28 @@ slug: mrna-isolation-for-solid-perch-lake-trout-and-herring-total-rna
 title: mRNA Isolation for SOLiD - Perch, Lake Trout, and Herring total RNA
 wordpress_id: 698
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O
-- CT
-- lake trout
-- Lean
-- library prep
-- Micro PolyA Purist
-- mRNA enrichment
-- NanoDrop1000
-- Pacific herring
-- PQ
-- RNA quantification
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- total RNA
-- WB
-- yellow perch
+  - 1 G/O
+  - CT
+  - lake trout
+  - Lean
+  - library prep
+  - Micro PolyA Purist
+  - mRNA enrichment
+  - NanoDrop1000
+  - Pacific herring
+  - PQ
+  - RNA quantification
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - total RNA
+  - WB
+  - yellow perch
 ---
 
 Received pooled lean and siscowet RNA from Rick. Samples will be processed immediately for SOLiD fragment libraries. Two 1.5mL snap cap tubes labelled:

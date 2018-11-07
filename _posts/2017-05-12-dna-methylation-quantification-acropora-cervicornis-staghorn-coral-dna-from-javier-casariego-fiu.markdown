@@ -9,78 +9,78 @@ title: DNA Methylation Quantification - Acropora cervicornis (Staghorn coral) DN
   from Javier Casariego (FIU)
 wordpress_id: 2583
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2h Block 1
-- 2h Block 10
-- 2h Block 2
-- 2h Block 3
-- 2h Block 4
-- 2h Block 5
-- 2h Block 6
-- 2h Block 8
-- 2h Block 9
-- 72h Block 1
-- 72h Block 10
-- 72h Block 2
-- 72h Block 3
-- 72h Block 4
-- 72h Block 5
-- 72h Block 6
-- 72h Block 8
-- 72h Block 9
-- Acropora cervicornis
-- D14 Block 1
-- D14 Block 10
-- D14 Block 2
-- D14 Block 3
-- D14 Block 4
-- D14 Block 5
-- D14 Block 6
-- D14 Block 8
-- D14 Block 9
-- D20 Block 1
-- D20 Block 10
-- D20 Block 2
-- D20 Block 3
-- D20 Block 4
-- D20 Block 5
-- D20 Block 6
-- D20 Block 8
-- D20 Block 9
-- D27 Block 1
-- D27 Block 10
-- D27 Block 2
-- D27 Block 3
-- D27 Block 4
-- D27 Block 5
-- D27 Block 6
-- D27 Block 8
-- D27 Block 9
-- D35 Block 1
-- D35 Block 2
-- D35 Block 3
-- D35 Block 4
-- D35 Block 5
-- D35 Block 6
-- D35 Block 8
-- D35 Block 9
-- D7 Block 1
-- D7 Block 10
-- D7 Block 2
-- D7 Block 3
-- D7 Block 4
-- D7 Block 5
-- D7 Block 6
-- D7 Block 8
-- D7 Block 9
-- DNA
-- methylation
-- MethylFlash Methylated DNA Quantification Kit [Colorimetric]
-- Staghorn coral
-- Victor 1420 plate reader
+  - 2h Block 1
+  - 2h Block 10
+  - 2h Block 2
+  - 2h Block 3
+  - 2h Block 4
+  - 2h Block 5
+  - 2h Block 6
+  - 2h Block 8
+  - 2h Block 9
+  - 72h Block 1
+  - 72h Block 10
+  - 72h Block 2
+  - 72h Block 3
+  - 72h Block 4
+  - 72h Block 5
+  - 72h Block 6
+  - 72h Block 8
+  - 72h Block 9
+  - Acropora cervicornis
+  - D14 Block 1
+  - D14 Block 10
+  - D14 Block 2
+  - D14 Block 3
+  - D14 Block 4
+  - D14 Block 5
+  - D14 Block 6
+  - D14 Block 8
+  - D14 Block 9
+  - D20 Block 1
+  - D20 Block 10
+  - D20 Block 2
+  - D20 Block 3
+  - D20 Block 4
+  - D20 Block 5
+  - D20 Block 6
+  - D20 Block 8
+  - D20 Block 9
+  - D27 Block 1
+  - D27 Block 10
+  - D27 Block 2
+  - D27 Block 3
+  - D27 Block 4
+  - D27 Block 5
+  - D27 Block 6
+  - D27 Block 8
+  - D27 Block 9
+  - D35 Block 1
+  - D35 Block 2
+  - D35 Block 3
+  - D35 Block 4
+  - D35 Block 5
+  - D35 Block 6
+  - D35 Block 8
+  - D35 Block 9
+  - D7 Block 1
+  - D7 Block 10
+  - D7 Block 2
+  - D7 Block 3
+  - D7 Block 4
+  - D7 Block 5
+  - D7 Block 6
+  - D7 Block 8
+  - D7 Block 9
+  - DNA
+  - methylation
+  - MethylFlash Methylated DNA Quantification Kit [Colorimetric]
+  - Staghorn coral
+  - Victor 1420 plate reader
 ---
 
 Used the [MethylFlash Methylated DNA Quantification Kit (Colorimetric) from Epigentek](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf) to quantify methylation in these coral DNA samples.

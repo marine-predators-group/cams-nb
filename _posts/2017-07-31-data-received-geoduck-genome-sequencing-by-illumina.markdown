@@ -8,13 +8,13 @@ slug: data-received-geoduck-genome-sequencing-by-illumina
 title: Data Received - Geoduck Genome Sequencing by Illumina
 wordpress_id: 2662
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- Illumina
-- Panopea generosa
+  - geoduck
+  - Illumina
+  - Panopea generosa
 ---
 
 We previously sent some geoduck samples to Illumina, [as part of a pilot project for them to test out a new sequencing platform](http://onsnetwork.org/kubu4/2017/01/05/sample-submission-geoduck-gdna-for-illumina-pilot-sequencing-project/). The data has finally arrived!

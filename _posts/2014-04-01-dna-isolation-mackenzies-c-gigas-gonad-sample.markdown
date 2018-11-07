@@ -8,17 +8,17 @@ slug: dna-isolation-mackenzies-c-gigas-gonad-sample
 title: DNA Isolation - Mackenzie's C.gigas Gonad Sample
 wordpress_id: 158
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- gDNA
-- gonad
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - gDNA
+  - gonad
+  - Pacific oyster
 ---
 
 Mac's been having some difficulty getting good quality gDNA from some of her gonad samples, so she asked me to give it a shot.

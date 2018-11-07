@@ -9,14 +9,14 @@ title: Phenol:Chloroform Extractions and EtOH Precipitations - MspI Digestions o
   C.virginica DNA from Earlier Today
 wordpress_id: 3026
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- EtOH precipitation
-- phenol-chloroform cleanup
+  - Crassostrea virginica
+  - Eastern oyster
+  - EtOH precipitation
+  - phenol-chloroform cleanup
 ---
 
 [The two MspI restriction digestions from earlier today](http://onsnetwork.org/kubu4/2018/01/11/restriction-di…virginica-gdna/) for our project with Qiagen were subjected to phenol:chloroform cleanup and subsequent ethanol precipitations.

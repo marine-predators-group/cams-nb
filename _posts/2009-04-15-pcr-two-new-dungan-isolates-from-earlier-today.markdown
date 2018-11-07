@@ -8,17 +8,17 @@ slug: pcr-two-new-dungan-isolates-from-earlier-today
 title: PCR - Two new Dungan isolates from earlier today
 wordpress_id: 1119
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan isolates
-- Euk
-- gDNA
-- LABY
-- MIE-14y
-- PCR
-- VNTc-1.2-C1/G10
+  - Dungan isolates
+  - Euk
+  - gDNA
+  - LABY
+  - MIE-14y
+  - PCR
+  - VNTc-1.2-C1/G10
 ---
 
 Set up PCRs on:

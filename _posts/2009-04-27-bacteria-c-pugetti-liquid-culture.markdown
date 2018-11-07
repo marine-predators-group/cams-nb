@@ -8,12 +8,12 @@ slug: bacteria-c-pugetti-liquid-culture
 title: Bacteria - C. pugetti liquid culture
 wordpress_id: 1101
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- Cycloclasticus pugetii
+  - bacterial culture
+  - Cycloclasticus pugetii
 ---
 
 Results: It has now been 8 days since revival of the ATCC freeze dried culture. The media still looks a bit cloudy, but hasn't really changed since the second or third day post-revival. Of note, there does seem to be an accumulation of clumps in the tube. These may or may not be clumps of cells. Will consult with Steven when he returns. Might need to pass cells and take some ODs to really assess changes in growth as these cells may not be as robust as E. coli or other common lab cultures.

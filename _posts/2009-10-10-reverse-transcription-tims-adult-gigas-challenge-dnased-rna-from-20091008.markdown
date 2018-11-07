@@ -8,17 +8,17 @@ slug: reverse-transcription-tims-adult-gigas-challenge-dnased-rna-from-20091008
 title: Reverse Transcription - Tim's adult gigas challenge DNased RNA (from 20091008)
 wordpress_id: 828
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- DNased RNA
-- M-MLV
-- oligo dT
-- Pacific oyster
-- reverse transcription
+  - cDNA
+  - Crassostrea gigas
+  - DNased RNA
+  - M-MLV
+  - oligo dT
+  - Pacific oyster
+  - reverse transcription
 ---
 
 Performed RT rxns. [Setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091009-02.jpg). cDNA was subsequently diluted 1:4 (added 75uL H2O to each well) to properly mirror Tim's previous qPCRs.

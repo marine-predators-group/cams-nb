@@ -8,15 +8,15 @@ slug: trypsin-digestion-vibrio-2d-spots-continued-from-yesterday
 title: Trypsin digestion - Vibrio 2D spots CONTINUED (from yesterday)
 wordpress_id: 1191
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2-1
-- 2-2
-- protein
-- trypsin
-- Vibrio tubiashii
+  - 2-1
+  - 2-2
+  - protein
+  - trypsin
+  - Vibrio tubiashii
 ---
 
 Sample prep was continued from yesterday. SpeedVac'd final, pooled elutions for 1.5hrs. Stored tubes @ -80C. Will submit samples 2-1 and 2-2 for mass spec analysis.

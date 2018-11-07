@@ -8,15 +8,15 @@ slug: samples-received-tanner-crab-hemolymph-in-rna-later-from-pam-jensen
 title: Samples Received - Tanner Crab Hemolymph in RNA Later from Pam Jensen
 wordpress_id: 2911
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
-- Tanner Crab RNAseq
+  - Samples Received
+  - Tanner Crab RNAseq
 tags:
-- Chionoecetes bairdi
-- hemolymph
-- RNAlater
-- tanner crab
+  - Chionoecetes bairdi
+  - hemolymph
+  - RNAlater
+  - tanner crab
 ---
 
 Pam Jensen stopped by and dropped off Tanner crab (_Chionoecetes bairdi_) hemolymph samples (~300) stored in RNA Later (Ambion). Samples were stored at 4C.

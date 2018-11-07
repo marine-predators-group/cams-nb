@@ -8,14 +8,14 @@ slug: data-management-olympia-oyster-uw-pacbio-data-from-20170323
 title: Data Management - Olympia oyster UW PacBio Data from 20170323
 wordpress_id: 2614
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- PacBio
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
 ---
 
 Due to other priorities, getting [this PacBio data](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)) sorted and prepped for our [next gen sequencing data management plan (DMP)](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan) was put on the back burner. I finally got around to this, but it wasn't all successful.

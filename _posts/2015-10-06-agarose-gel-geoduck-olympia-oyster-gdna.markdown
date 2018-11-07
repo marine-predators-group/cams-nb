@@ -8,20 +8,20 @@ slug: agarose-gel-geoduck-olympia-oyster-gdna
 title: Agarose Gel - Geoduck & Olympia Oyster gDNA
 wordpress_id: 1710
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
-- Olympia oyster reciprocal transplant
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
+  - Olympia oyster reciprocal transplant
 tags:
-- gDNA
-- gel
-- geoduck
-- NF1A
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
-- SN49A
+  - gDNA
+  - gel
+  - geoduck
+  - NF1A
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
+  - SN49A
 ---
 
 Needed to assess the integrity of the newest gDNA isolated for the two genome sequencing projects: [Geoduck gDNA from earlier today](http://onsnetwork.org/kubu4/2015/10/05/dna-quantification-pooled-geoduck-gdna/) and [Olympia oyster gDNA from 20151002](http://onsnetwork.org/kubu4/2015/10/02/dna-isolation-geoduck-olympia-oyster/).

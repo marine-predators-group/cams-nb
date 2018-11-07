@@ -8,31 +8,31 @@ slug: pcr-oly-rad-seq-prep-scale-pcr-2
 title: PCR – Oly RAD-seq Prep Scale PCR
 wordpress_id: 1770
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- barcodes
-- gel
-- ILL-BC1
-- ILL-BC10
-- ILL-BC2
-- ILL-BC3
-- ILL-BC4
-- ILL-BC5
-- ILL-BC6
-- ILL-BC7
-- ILL-BC8
-- ILL-BC9
-- ILL-HT1
-- olympia oyster
-- Ostrea lurida
-- PCR
-- PTC-200
-- Q5 High-Fidelity DNA Polymerase
-- RAD
-- RAD-seq
+  - barcodes
+  - gel
+  - ILL-BC1
+  - ILL-BC10
+  - ILL-BC2
+  - ILL-BC3
+  - ILL-BC4
+  - ILL-BC5
+  - ILL-BC6
+  - ILL-BC7
+  - ILL-BC8
+  - ILL-BC9
+  - ILL-HT1
+  - olympia oyster
+  - Ostrea lurida
+  - PCR
+  - PTC-200
+  - Q5 High-Fidelity DNA Polymerase
+  - RAD
+  - RAD-seq
 ---
 
 Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).

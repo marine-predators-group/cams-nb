@@ -8,18 +8,18 @@ slug: qpcr-abalone-gdna-h-crach-067-1
 title: qPCR - Abalone gDNA (H.crach 06:7-1)
 wordpress_id: 906
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 06:7-1
-- black abalone
-- gDNA
-- Haliotis cracherodii
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
+  - 06:7-1
+  - black abalone
+  - gDNA
+  - Haliotis cracherodii
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
 ---
 
 This is to test (again!) the H.crach_h-1fg_intron primers and obtain a working positive control. This gDNA is from Lisa/Nate. Acquired from them 20090717. Don't know date/method of isolation, but this should be good, recent gDNA. [qPCR plate layout/set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090717-01.jpg). Anneal temp 50C. Ran serial dilutions of the gDNA: undiluted, 1:10 and 1:100.

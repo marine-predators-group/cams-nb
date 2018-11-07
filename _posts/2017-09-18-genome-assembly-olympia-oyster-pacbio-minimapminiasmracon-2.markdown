@@ -8,16 +8,16 @@ slug: genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-2
 title: Genome Assembly - Olympia oyster PacBio minimap/miniasm/racon
 wordpress_id: 2710
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- jupyter notebook
-- miniasm
-- olympia oyster
-- Ostrea lurida
-- PacBio
-- racon
+  - jupyter notebook
+  - miniasm
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
+  - racon
 ---
 
 In this [GitHub Issue](https://github.com/RobertsLab/project-olympia.oyster-genomic/issues/29), Steven had suggested I try out the minimap/miniasm/racon pipeline for assembling our Olympia oyster PacBio data.

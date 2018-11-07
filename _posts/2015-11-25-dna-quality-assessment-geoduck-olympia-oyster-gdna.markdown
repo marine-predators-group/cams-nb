@@ -8,18 +8,18 @@ slug: dna-quality-assessment-geoduck-olympia-oyster-gdna
 title: DNA Quality Assessment - Geoduck & Olympia Oyster gDNA
 wordpress_id: 1842
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- gDNA
-- gel
-- geoduck
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - gDNA
+  - gel
+  - geoduck
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 Have three separate sets of geoduck & olympia oyster gDNA that need to be run on gels before sending to BGI for genome sequencing:

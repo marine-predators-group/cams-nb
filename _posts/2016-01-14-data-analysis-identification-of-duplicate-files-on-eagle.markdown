@@ -8,20 +8,20 @@ slug: data-analysis-identification-of-duplicate-files-on-eagle
 title: Data Analysis - Identification of duplicate files on Eagle
 wordpress_id: 1979
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- awk
-- bash
-- DS413
-- duplicate files
-- Eagle
-- fslint
-- ipython notebook
-- jupyter notebook
-- sed
-- Synology
+  - awk
+  - bash
+  - DS413
+  - duplicate files
+  - Eagle
+  - fslint
+  - ipython notebook
+  - jupyter notebook
+  - sed
+  - Synology
 ---
 
 Recently, we've been bumping into our storage limit on Eagle (our Synology DS413):

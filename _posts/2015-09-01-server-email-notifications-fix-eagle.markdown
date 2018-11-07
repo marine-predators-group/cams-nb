@@ -8,13 +8,13 @@ slug: server-email-notifications-fix-eagle
 title: Server Email Notifications Fix - Eagle
 wordpress_id: 1561
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Eagle
-- server
-- Synology
+  - Eagle
+  - server
+  - Synology
 ---
 
 The system was previously set to use Steven’s Comcast SMTP server. Sending a test email from Eagle failed, indicating authentication failure. I changed this to use the University of Washington’s email server for outgoing messages. Here’s how…

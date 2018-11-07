@@ -8,26 +8,26 @@ slug: qpcr-cox-qpcr-vibrio-exposure-response-check
 title: qPCR - COX qPCR Vibrio Exposure Response Check
 wordpress_id: 561
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2x Brilliant III Ultra Fast SYBR Green QPCR Master Mix
-- COX
-- Crassostrea gigas
-- cyclooxygenase
-- gill
-- graphs
-- Opticon2
-- Pacific oyster
-- PCR Miner
-- prostaglandin
-- qPCR
-- 'SR ID: 1060'
-- 'SR ID: 1061'
-- Vibrio exposure
-- Vibrio parahaemolyticus
-- Vibrio vulnificus
+  - 2x Brilliant III Ultra Fast SYBR Green QPCR Master Mix
+  - COX
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gill
+  - graphs
+  - Opticon2
+  - Pacific oyster
+  - PCR Miner
+  - prostaglandin
+  - qPCR
+  - 'SR ID: 1060'
+  - 'SR ID: 1061'
+  - Vibrio exposure
+  - Vibrio parahaemolyticus
+  - Vibrio vulnificus
 ---
 
 Used COX primers (SR IDs 1060, 1061) and cDNA from 20080327, which consisted of 7 control gigas gill and 7 vibrio-exposed (24hrs) gigas gill samples, labeled as C# and VE#, respectively. The experiment was a 24hr. exposure live Vibrio vulnificus, parahaemolyticus Cf = 2.055x10^11 (6.85x10^7 Vibrio cells/oyster).

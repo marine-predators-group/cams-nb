@@ -8,18 +8,18 @@ slug: dna-isolation-geoduck
 title: DNA Isolation - Geoduck
 wordpress_id: 168
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Axa
-- DNA Isolation
-- DNA Quantification
-- DNeasy
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
+  - Axa
+  - DNA Isolation
+  - DNA Quantification
+  - DNeasy
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
 ---
 
 Isolated additional geoduck gDNA from the two fresh (now frozen) geoduck's that Brent provided me with on 20140212 so that we can potentially isolate RNA from the same geoducks to tie in with the DNA Illumina sequencing that Axa will be conducting. Isolated DNA using the DNeasy Blood & Tissue Kit (Qiagen) according to the manufacturer's protocol (incubated minced siphon tissue at 56C for 3hrs). Eluted with 75uL of ddH2O and spec'd on NanoDrop1000.

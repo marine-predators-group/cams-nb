@@ -8,14 +8,14 @@ slug: assembly-sparseassembler-k-131-on-geoduck-sequence-data
 title: Assembly – SparseAssembler (k 131) on Geoduck Sequence Data
 wordpress_id: 3280
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- mox
-- Panopea generosa
-- SparseAssembler
+  - geoduck
+  - mox
+  - Panopea generosa
+  - SparseAssembler
 ---
 
 After some runs with kmergenie, [I've decided to try re-running SparseAssembler using a kmer setting of 131](http://onsnetwork.org/kubu4/2018/04/21/kmer-estimation-kmergenie-k-301-on-geoduck-sequence-data/).

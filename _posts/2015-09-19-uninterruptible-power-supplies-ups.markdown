@@ -8,16 +8,16 @@ slug: uninterruptible-power-supplies-ups
 title: Uninterruptible Power Supplies (UPS)
 wordpress_id: 1657
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Eagle
-- Opticon
-- owl
-- Synology
-- uninterruptible power supply
-- UPS
+  - Eagle
+  - Opticon
+  - owl
+  - Synology
+  - uninterruptible power supply
+  - UPS
 ---
 
 A new UPS we installed this week for our qPCR machine (Opticon2 - BioRad) to handle power surges and power outages doesn't seem to be working properly. With the qPCR machine (and computer and NanoDrop1000) plugged into the "battery" outlets on the UPS, this is what happens when the Opticon goes through a heating cycle:

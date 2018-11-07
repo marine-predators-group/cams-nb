@@ -8,18 +8,18 @@ slug: rna-precipitation-hard-clam-gill-1-rna-from-20080819
 title: 'RNA Precipitation - Hard clam gill #1 RNA from 20080819'
 wordpress_id: 1169
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNase
-- EtOH precipitation
-- Hard clam
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - DNase
+  - EtOH precipitation
+  - Hard clam
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 DNAsed RNA using Ambion Turbo DNA-free kit, following the rigorous procedure. Diluted total RNA to 0.2ug/uL (Vf = 720uL). Added 1uL DNase and incubated the tube @ 37C for 30mins. Added an additional 1uL DNase and continued incubated for 30mins. Added 0.2 volumes of DNase Inactivation Reagent (158.4uL) and incubated at RT for 10mins with periodic mixing. Pelleted inactivation reagent according to protocol and transferred supe (DNA-free RNA) to clean tube.

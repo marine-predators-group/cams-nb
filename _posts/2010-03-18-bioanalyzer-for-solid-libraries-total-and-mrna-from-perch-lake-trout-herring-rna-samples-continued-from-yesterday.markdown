@@ -9,28 +9,28 @@ title: Bioanalyzer for SOLiD libraries - Total and mRNA from Perch, Lake Trout &
   RNA samples (CONTINUED from yesterday)
 wordpress_id: 694
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- bioanalyzer
-- CT
-- electropherogram
-- gel
-- lake trout
-- Lean
-- library prep
-- mRNA
-- Pacific herring
-- PQ
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- total RNA
-- WB
-- yellow perch
+  - 1 G/O HPWS09
+  - bioanalyzer
+  - CT
+  - electropherogram
+  - gel
+  - lake trout
+  - Lean
+  - library prep
+  - mRNA
+  - Pacific herring
+  - PQ
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - total RNA
+  - WB
+  - yellow perch
 ---
 
 Total and mRNA aliquots (~5ng/uL) were run on the Agilent Bioanalyzer Pico RNA chips.

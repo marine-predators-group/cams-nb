@@ -8,14 +8,14 @@ slug: nanodrop1000-comparison-roberts-vs-young-lab-2
 title: NanoDrop1000 Comparison - Roberts vs. Young Lab
 wordpress_id: 472
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gDNA
-- NanoDrop1000
-- troubleshooting
+  - Crassostrea gigas
+  - gDNA
+  - NanoDrop1000
+  - troubleshooting
 ---
 
 Due to an apparent reduction in assay sensitivity for the Hematodidium qPCR assay, we have decided to determine if the spec readings of the plasmid DNA being used for the standard curves are accurate. Used C.gigas gDNA and the lambda DNA Standard (100ng/uL) included in the Quant-iT PicoGreen dsDNA Assay Kit (Invitrogen) that was marked as received 9/1/10. Tested both the Roberts Lab and Young Lab using these DNAs. At least 6 separate measurements were taken of each DNA on each machine. Samples were briefly mixed by flicking the tube 4-5 times prior to each measurement.

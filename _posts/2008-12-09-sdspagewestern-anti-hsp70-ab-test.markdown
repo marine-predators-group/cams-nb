@@ -8,22 +8,22 @@ slug: sdspagewestern-anti-hsp70-ab-test
 title: SDS/PAGE/Western - anti-HSP70 Ab test
 wordpress_id: 1359
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- anti-HSP70
-- antibody
-- Coomassie
-- Crassostrea gigas
-- gill
-- mucus
-- Octopus rubescans
-- Pacific oyster
-- protein
-- red octopus
-- SDS-PAGE
-- skin
+  - anti-HSP70
+  - antibody
+  - Coomassie
+  - Crassostrea gigas
+  - gill
+  - mucus
+  - Octopus rubescans
+  - Pacific oyster
+  - protein
+  - red octopus
+  - SDS-PAGE
+  - skin
 ---
 
 Test of the new [anti-HSP70 Ab (ABR cat# MA3-006)](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Product%20Information%20Sheets/Antibodies/ABR%20-%20HSP70%20Ab.jpg). Gigas gill protein extracts from 20080617 (both control and Vibrio exposure samples) were each pooled to result in 10ug protein of control and 10ug protein of VE in a volume of 10uL each. The two samples were mixed with an equal volume of 2x sample reducing buffer. O. rubescans samples were taken from Rachel's -20C box. 15uL of each sample was mixed with 2x sample reducing buffer. All samples were boiled for 5mins and spot spun. Samples were loaded onto Pierce 4-20% Tris-Glycine SDS/PAGE gels. 10uL of SeeBlue ladder was loaded. Gel was run @ 150V for 45mins.

@@ -8,18 +8,18 @@ slug: genome-assembly-olympia-oyster-illumina-pacbio-reads-using-redundans
 title: Genome Assembly - Olympia oyster Illumina & PacBio Reads Using Redundans
 wordpress_id: 2820
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- canu
-- Illumina
-- olympia oyster
-- Ostrea lurida
-- PacBio
-- QUAST
-- redundans
+  - assembly
+  - canu
+  - Illumina
+  - olympia oyster
+  - Ostrea lurida
+  - PacBio
+  - QUAST
+  - redundans
 ---
 
 Had problems with Docker and Jupyter Notebook inexplicably dying and deleting all the files in the working directory of the Jupyter Notebook (which also happened to be the volume mounted in the Docker container).

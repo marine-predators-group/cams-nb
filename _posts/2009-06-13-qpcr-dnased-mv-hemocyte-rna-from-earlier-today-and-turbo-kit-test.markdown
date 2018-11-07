@@ -8,22 +8,22 @@ slug: qpcr-dnased-mv-hemocyte-rna-from-earlier-today-and-turbo-kit-test
 title: qPCR - DNased MV hemocyte RNA from earlier today AND Turbo kit test
 wordpress_id: 1019
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- Crassostrea virginica
-- Cv_18s_F/R
-- DNased RNA
-- Eastern oyster
-- Gigas_18s_F/R
-- hemocyte
-- Immomix
-- Martha's Vineyard
-- Opticon2
-- qPCR
-- SYTO13
+  - 18s
+  - Crassostrea virginica
+  - Cv_18s_F/R
+  - DNased RNA
+  - Eastern oyster
+  - Gigas_18s_F/R
+  - hemocyte
+  - Immomix
+  - Martha's Vineyard
+  - Opticon2
+  - qPCR
+  - SYTO13
 ---
 
 [qPCR set up/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090612-01.jpg). Used Cv_18s_F/R primers for the MV hemocyte RNA and Gigas_18s_F/R primers for the Turbo kit test. Anneal 55C.

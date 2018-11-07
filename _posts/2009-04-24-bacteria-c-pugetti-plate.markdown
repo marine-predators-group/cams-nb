@@ -8,14 +8,14 @@ slug: bacteria-c-pugetti-plate
 title: Bacteria - C. pugetti plate
 wordpress_id: 1103
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- biphenyl
-- Cycloclasticus pugetii
-- marine broth
+  - bacterial culture
+  - biphenyl
+  - Cycloclasticus pugetii
+  - marine broth
 ---
 
 Streaked C. pugetti onto marine broth plate + a few biphenyl crystals and incubated at RT over the weekend.

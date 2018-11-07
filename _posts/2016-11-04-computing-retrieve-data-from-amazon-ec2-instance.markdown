@@ -8,18 +8,18 @@ slug: computing-retrieve-data-from-amazon-ec2-instance
 title: Computing - Retrieve data from Amazon EC2 Instance
 wordpress_id: 2319
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- Olympia oyster reciprocal transplant
+  - Genotype-by-sequencing at BGI
+  - Olympia oyster reciprocal transplant
 tags:
-- AWS
-- EC2
-- olympia oyster
-- Ostrea lurida
-- pyrad
-- scp
-- ssh
+  - AWS
+  - EC2
+  - olympia oyster
+  - Ostrea lurida
+  - pyrad
+  - scp
+  - ssh
 ---
 
 I had an existing instance that still had data on it from my [PyRad analysis on 20160727](http://onsnetwork.org/kubu4/2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data/) that I needed to retrieve.

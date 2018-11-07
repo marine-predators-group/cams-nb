@@ -8,12 +8,12 @@ slug: sequencing-dungan-isolates
 title: Sequencing - Dungan isolates
 wordpress_id: 1115
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan isolates
-- Sanger sequencing
+  - Dungan isolates
+  - Sanger sequencing
 ---
 
 Submitted two plates for sequencing. Each sample two times from each direction.

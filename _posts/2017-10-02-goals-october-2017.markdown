@@ -8,9 +8,9 @@ slug: goals-october-2017
 title: Goals - October 2017
 wordpress_id: 2725
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 I guess one of my primary goals is to make sure I actually write my monthly goals each month.

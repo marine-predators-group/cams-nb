@@ -8,16 +8,16 @@ slug: data-management-synology-cloud-sync-to-uw-google-drive
 title: Data Management - Synology Cloud Sync to UW Google Drive
 wordpress_id: 2269
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- DS1812+
-- DS413
-- DX513
-- Eagle
-- owl
-- Synology
+  - DS1812+
+  - DS413
+  - DX513
+  - Eagle
+  - owl
+  - Synology
 ---
 
 After a bit of a scare this weekend (Synology DX513 expansion unit no longer detected two drives after a system update - resolved by powering down the system and rebooting it), we revisited our approach for backing up data.

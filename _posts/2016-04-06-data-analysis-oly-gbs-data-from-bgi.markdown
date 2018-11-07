@@ -8,18 +8,18 @@ slug: data-analysis-oly-gbs-data-from-bgi
 title: Data Analysis - Oly GBS Data from BGI Using Stacks
 wordpress_id: 2082
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- ipython notebook
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- stacks
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - ipython notebook
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - stacks
 ---
 
 UPDATE (20160418) : I'm posting this more for posterity, as Stacks continually locked up at both the "ustacks" and "cstacks" stages. These processes would take days to run (on the full 96 samples) and then the processes would become "stuck" (viewed via the `top` command in OS X).

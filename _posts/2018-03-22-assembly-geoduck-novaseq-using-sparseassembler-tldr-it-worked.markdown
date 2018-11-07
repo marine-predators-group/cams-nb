@@ -8,15 +8,15 @@ slug: assembly-geoduck-novaseq-using-sparseassembler-tldr-it-worked
 title: Assembly - Geoduck NovaSeq using SparseAssembler (TL;DR - it worked!)
 wordpress_id: 3146
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- NovaSeq
-- Panopea generosa
-- QUAST
-- SparseAssembler
+  - geoduck
+  - NovaSeq
+  - Panopea generosa
+  - QUAST
+  - SparseAssembler
 ---
 
 The prior attempt using SparseAssembler [failed due to a kmer size that was deemed too large](http://onsnetwork.org/kubu4/2018/03/08/assembly-geoduck-novaseq-using-sparseassembler-failed/).

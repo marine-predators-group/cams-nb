@@ -8,25 +8,25 @@ slug: emulsion-pcr-herring-liver-cdna-for-solid-libraries
 title: Emulsion PCR - Herring Liver cDNA for SOLiD Libraries
 wordpress_id: 760
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2L
-- 3L
-- 4L
-- 6L
-- cDNA
-- DNA Quantification
-- ePCR
-- library prep
-- liver
-- NanoDrop1000
-- Pacific herring
-- PureLink
-- SOLiD
-- SOLiD libraries
-- Whole Transcriptome Analysis Kit
+  - 2L
+  - 3L
+  - 4L
+  - 6L
+  - cDNA
+  - DNA Quantification
+  - ePCR
+  - library prep
+  - liver
+  - NanoDrop1000
+  - Pacific herring
+  - PureLink
+  - SOLiD
+  - SOLiD libraries
+  - Whole Transcriptome Analysis Kit
 ---
 
 Emulsion PCR was performed with the two inner gel bands cut out earlier today according to the Ambio WTK protocol. PCR was run for 15 cycles. After the PCR, the samples were cleaned up using the Invitrogen PureLink PCR Micro Kit, according to the Ambion WTK protocol. The cleaned up cDNA (referred to as "libraries" from now on) was spec'd prior to running on the Bioanalyzer.

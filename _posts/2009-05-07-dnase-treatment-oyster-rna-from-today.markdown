@@ -8,19 +8,19 @@ slug: dnase-treatment-oyster-rna-from-today
 title: DNase Treatment - Oyster RNA from today
 wordpress_id: 1085
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- DNase
-- NanoDrop1000
-- Pacific oyster
-- RNA
-- RNA quantification
-- Turbo DNA-free
+  - BB
+  - Crassostrea gigas
+  - DH
+  - DNase
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA
+  - RNA quantification
+  - Turbo DNA-free
 ---
 
 All of the RNA (50uL) was DNase treated with Ambion's Turbo DNA-free kit according to protocol. Samples were spec'd.

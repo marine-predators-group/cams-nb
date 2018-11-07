@@ -8,20 +8,20 @@ slug: rna-isolation-hard-clam-tissues-recd-from-rutgers-on-20100820
 title: RNA Isolation - Hard Clam Tissues Rec'd from Rutgers on 20100820
 wordpress_id: 599
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- Hard clam
-- MA
-- MAX
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA isolation
-- RNA quantification
-- Rutgers
-- TriReagent
+  - CA
+  - Hard clam
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA isolation
+  - RNA quantification
+  - Rutgers
+  - TriReagent
 ---
 
 RNA was isolated from the following samples using TriReagent, according to protocol:

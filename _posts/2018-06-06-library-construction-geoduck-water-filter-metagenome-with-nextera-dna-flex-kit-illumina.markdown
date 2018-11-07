@@ -9,18 +9,18 @@ title: Library Construction - Geoduck Water Filter Metagenome with Nextera DNA F
   Kit (Illumina)
 wordpress_id: 3400
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- geoduck
-- library prep
-- metagenomics
-- nextera
-- Panopea generosa
-- Qubit 1x dsDNA HS Assay Kit
-- Qubit 3.0
+  - bioanalyzer
+  - geoduck
+  - library prep
+  - metagenomics
+  - nextera
+  - Panopea generosa
+  - Qubit 1x dsDNA HS Assay Kit
+  - Qubit 3.0
 ---
 
 Made Illumina libraries with goeduck metagenome water filter DNA I previously isolated on:

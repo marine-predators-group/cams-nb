@@ -8,17 +8,17 @@ slug: solid-epcr-herring-fragmented-cdna-library-3lhsitk09-from-20091209
 title: 'SOLiD ePCR - Herring fragmented cDNA library: 3LHSITK09 (from 20091209)'
 wordpress_id: 718
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 3LHSITK09
-- cDNA
-- ePCR
-- library prep
-- Pacific herring
-- SOLiD
-- SOLiD libraries
+  - 3LHSITK09
+  - cDNA
+  - ePCR
+  - library prep
+  - Pacific herring
+  - SOLiD
+  - SOLiD libraries
 ---
 
 Processed herring fragmented cDNA library 3LHSITK09 (88.ng/uL) according to the ABI "Templated Bead Preparation Guide" following the "full-scale" protocol. Made a 1:1000 dilution (1uL library, 999uL 1x Low TE) = 88.5pg/uL. Mixed 67.8uL of this diluted sample with 32.2uL 1x Low TE to get a final concentration of 60pg/uL (500pM, according to ABI protocol). Oil phase used was previously prepared by Jesse (Seeb lab) in mid-December 2009. This oil phase is stable for 2 months @ 4C.

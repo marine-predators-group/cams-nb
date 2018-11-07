@@ -8,13 +8,13 @@ slug: bacteria-c-pugetti-culture-from-20090713
 title: Bacteria - C.pugetti culture (from 20090713)
 wordpress_id: 896
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- Cycloclasticus pugetii
-- JGI
+  - bacterial culture
+  - Cycloclasticus pugetii
+  - JGI
 ---
 
 1L liquid culture (grown for 10 days) was split into two UV-sterilized bottles. Cells were pelleted in a Sorvall T21 centrifuge using the bucket rotor for 30mins @ 4200RPM, 4C. Supe was removed and bacterial pellets were stored @ -20C.

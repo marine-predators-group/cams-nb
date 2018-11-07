@@ -8,16 +8,16 @@ slug: qpcr-manila-clam-larvae-cdna-from-august-2012-daves-notebook
 title: qPCR - Manila Clam Larvae cDNA (from August 2012 - Dave's Notebook)
 wordpress_id: 208
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- GPX3
-- HSP90
-- larvae
-- Manila clam
-- qPCR
-- Venerupis philippinarum
+  - GPX3
+  - HSP90
+  - larvae
+  - Manila clam
+  - qPCR
+  - Venerupis philippinarum
 ---
 
 Ran qPCR on manila clam larvae cDNA that Dave made on 8/7/2012, using the sample sets from 7/29/2011 and 8/5/2011 of the OA manila clam experiment he ran.

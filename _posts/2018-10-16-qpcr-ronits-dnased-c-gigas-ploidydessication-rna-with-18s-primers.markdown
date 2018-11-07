@@ -8,24 +8,24 @@ slug: qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-18s-primers
 title: qPCR - Ronit's DNAsed C.gigas Ploidy/Dessication RNA with 18s primers
 wordpress_id: 3652
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- BB15
-- cfx connect
-- Crassostrea gigas
-- dessication
-- diploid
-- DNased RNA
-- gigas18s_fw
-- gigas18s_rv
-- Pacific oyster
-- qPCR
-- SRID 157
-- SsoFast EvaGreen Supermix
-- triploid
+  - 18s
+  - BB15
+  - cfx connect
+  - Crassostrea gigas
+  - dessication
+  - diploid
+  - DNased RNA
+  - gigas18s_fw
+  - gigas18s_rv
+  - Pacific oyster
+  - qPCR
+  - SRID 157
+  - SsoFast EvaGreen Supermix
+  - triploid
 ---
 
 After [DNasing Ronit's RNA earlier today](http://onsnetwork.org/kubu4/2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna/), I needed to check for any residual gDNA.

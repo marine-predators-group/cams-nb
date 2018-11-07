@@ -8,20 +8,20 @@ slug: '3558'
 title: RNA Isolation - Lyophilized Tanner Crab Hemolymph in RNAlater
 wordpress_id: 3558
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- crab
-- hemolymph
-- lyophilize
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNA isolation
-- RNAlater
-- tanner crab
+  - Chionoecetes bairdi
+  - crab
+  - hemolymph
+  - lyophilize
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNA isolation
+  - RNAlater
+  - tanner crab
 ---
 
 Due to difficulties getting RNA from hemolymph samples stored in RNAlater, Grace is testing out lyophilizing samples before extraction. Who knows what impact this will have on RNA, but it's worth a shot!

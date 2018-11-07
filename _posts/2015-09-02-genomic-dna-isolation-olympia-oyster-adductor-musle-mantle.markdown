@@ -8,17 +8,17 @@ slug: genomic-dna-isolation-olympia-oyster-adductor-musle-mantle
 title: Genomic DNA Isolation - Olympia oyster adductor musle & mantle
 wordpress_id: 1558
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Isolated gDNA from _Ostrea lurida_ (Olympia oyster) [adductor muscle & mantle samples collected by Brent & Steven on 20150812](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer’s protocol, with the following adjustments:

@@ -8,20 +8,20 @@ slug: medip-sbwb-fragmented-gdna-etoh-precipitation-continued-from-20100702
 title: MeDIP - SB/WB Fragmented gDNA EtOH precipitation (continued from 20100702)
 wordpress_id: 613
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA
-- DNA Quantification
-- EtOH precipitation
-- MeDIP
-- methylation
-- NanoDrop1000
-- Pacific oyster
-- R37
-- R51
+  - Crassostrea gigas
+  - DNA
+  - DNA Quantification
+  - EtOH precipitation
+  - MeDIP
+  - methylation
+  - NanoDrop1000
+  - Pacific oyster
+  - R37
+  - R51
 ---
 
 Finished EtOH precipitation of MeDIP gDNA. Samples were pelleted 16,000g, 4C, 30mins. Supe was discarded. Washed with 1mL 70% EtOH, pelleted 16,000g, 4C, 15mins. Supe discarded. MeDIP DNA was resuspended in 100uL of TE (pH = 8.5). Wash samples, containing unmethylated DNA, were resuspended/combined in a total of 100uL TE (pH = 8.5). Samples were spec'd:

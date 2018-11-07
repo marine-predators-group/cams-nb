@@ -9,13 +9,13 @@ title: 'DNA Received - Sea lice DNA from Cris Gallardo-Escarate at Universidad d
   Concepción '
 wordpress_id: 3379
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Received
+  - Samples Received
 tags:
-- caligus tape
-- DNA
-- sea lice
+  - caligus tape
+  - DNA
+  - sea lice
 ---
 
 Received _Caligus tape_ DNA - two samples:

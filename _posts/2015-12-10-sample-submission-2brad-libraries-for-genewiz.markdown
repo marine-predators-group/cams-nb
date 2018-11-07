@@ -8,17 +8,17 @@ slug: sample-submission-2brad-libraries-for-genewiz
 title: Sample Submission - 2bRAD Libraries for Genewiz
 wordpress_id: 1950
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
-- Samples Submitted
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
+  - Samples Submitted
 tags:
-- 2bRAD
-- olympia oyster
-- Ostrea lurida
-- RAD
-- RAD-seq
+  - 2bRAD
+  - olympia oyster
+  - Ostrea lurida
+  - RAD
+  - RAD-seq
 ---
 
 Pooled the libraries into a single sample for sequencing on Illumina HiSeq2500 by Genewiz.

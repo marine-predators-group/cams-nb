@@ -8,16 +8,16 @@ slug: pcr-unkown-dunganslyons
 title: PCR - "Unkown" Dungans/Lyons
 wordpress_id: 794
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan isolates
-- gel
-- gel extraction
-- lyons
-- PCR
-- Ultrafree-DA
+  - Dungan isolates
+  - gel
+  - gel extraction
+  - lyons
+  - PCR
+  - Ultrafree-DA
 ---
 
 This was done on the numbered tubes using the LABY A/Y primers for eventual sequencing. Turns out many of the tubes have some info (other than just a number) on their sides which might provide more information regarding which isolate they actually are. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091117-01.jpg). Annealing temp 55C.

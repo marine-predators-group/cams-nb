@@ -8,16 +8,16 @@ slug: data-management-sra-submission-oly-gbs-batch-submission
 title: Data Management – SRA Submission Oly GBS Batch Submission
 wordpress_id: 2532
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- olympia oyster
-- Ostrea lurida
-- SRA
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - olympia oyster
+  - Ostrea lurida
+  - SRA
 ---
 
 [An earlier attempt at submitting these files failed.](http://onsnetwork.org/kubu4/2017/03/20/data-management-sra-submission-oly-gbs-batch-submission-fail/)

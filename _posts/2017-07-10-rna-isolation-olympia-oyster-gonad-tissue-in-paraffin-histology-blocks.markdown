@@ -8,33 +8,33 @@ slug: rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks
 title: RNA Isolation - Olympia oyster gonad tissue in paraffin histology blocks
 wordpress_id: 2642
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Disruptor Genie
-- gonad
-- histology blocks
-- Katherine Silliman
-- Laura Spencer
-- NF-10 22
-- NF-10-23
-- NF-10-24
-- NF-10-26
-- NF-10-28
-- NF-10-30
-- olympia oyster
-- Ostrea lurida
-- PAXgene Tissue RNA Kit
-- Qubit 3.0
-- Qubit RNA HS
-- RNA isolation
-- SN-10-16
-- SN-10-17
-- SN-10-20
-- SN-10-25
-- SN-10-26
-- SN-10-31
+  - Disruptor Genie
+  - gonad
+  - histology blocks
+  - Katherine Silliman
+  - Laura Spencer
+  - NF-10 22
+  - NF-10-23
+  - NF-10-24
+  - NF-10-26
+  - NF-10-28
+  - NF-10-30
+  - olympia oyster
+  - Ostrea lurida
+  - PAXgene Tissue RNA Kit
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA isolation
+  - SN-10-16
+  - SN-10-17
+  - SN-10-20
+  - SN-10-25
+  - SN-10-26
+  - SN-10-31
 ---
 
 UPDATE 20170712: The RNA I isolated below is from incorrect regions of tissue. I misunderstood exactly what this tissue was, and admittedly, jumped the gun. The tissue is actually collected from the visceral mass - which contains gonad (a small amount) and digestive gland (a large amount). The RNA isolated below will be stored in one of the [Shellfish RNA boxes](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing) and I will isolate RNA from the correct regions [indicated by Grace](https://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/)

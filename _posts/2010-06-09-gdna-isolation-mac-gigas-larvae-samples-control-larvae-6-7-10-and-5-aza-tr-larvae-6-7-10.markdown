@@ -9,19 +9,19 @@ title: 'gDNA Isolation - Mac gigas larvae samples: control larvae 6.7.10 and 5-a
   tr larvae 6.7.10'
 wordpress_id: 635
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 5-azacitidine
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- larvae
-- NanoDrop1000
-- Pacific oyster
+  - 5-azacitidine
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - larvae
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 Continued gDNA isolation of the above mentioned larvae samples that was started by Mac yesterday. Amount of larvae in tubes looked disproportionately large, relative to the amount of DNAzol used in the O/N Proteinase K digestion(~500uL) so I added and additional 500uL of DNAzol to each of the two samples and gently pipetted a few times to mix.

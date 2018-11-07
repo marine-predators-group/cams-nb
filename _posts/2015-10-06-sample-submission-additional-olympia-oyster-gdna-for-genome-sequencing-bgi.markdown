@@ -9,15 +9,15 @@ title: Sample Submission - Additional Olympia Oyster gDNA for Genome Sequencing 
   BGI
 wordpress_id: 1856
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
-- Samples Submitted
+  - Olympia Oyster Genome Sequencing
+  - Samples Submitted
 tags:
-- '1510071002'
-- gDNA
-- olympia oyster
-- Ostrea lurida
+  - '1510071002'
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Previous shipment of gDNA proved to be of insufficient quantity when assessed by BGI, so needed to isolate more.

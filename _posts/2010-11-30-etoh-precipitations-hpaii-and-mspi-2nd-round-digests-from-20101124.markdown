@@ -8,17 +8,17 @@ slug: etoh-precipitations-hpaii-and-mspi-2nd-round-digests-from-20101124
 title: EtOH Precipitations - HpaII and MspI 2nd Round Digests from 20101124
 wordpress_id: 567
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Quantification
-- EtOH precipitation
-- HpaII
-- MspI
-- NanoDrop1000
-- Pacific oyster
+  - Crassostrea gigas
+  - DNA Quantification
+  - EtOH precipitation
+  - HpaII
+  - MspI
+  - NanoDrop1000
+  - Pacific oyster
 ---
 
 Samples were EtOH precipitated, [according to protocol](https://github.com/RobertsLab/resources/blob/master/protocols/ethanol_precipitation_DNA.md). Samples were resuspended in 20uL of Qiagen's EB and spec'd.

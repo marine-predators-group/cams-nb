@@ -8,14 +8,14 @@ slug: rna-seq-sea-star-data-download
 title: RNA-Seq - Sea Star Data Download
 wordpress_id: 120
 author:
-- kubu4
+  - kubu4
 categories:
-- Sea star RNA-seq
+  - Sea star RNA-seq
 tags:
-- Pycnopodia helianthoides
-- RNA-seq
-- sea star
-- wget
+  - Pycnopodia helianthoides
+  - RNA-seq
+  - sea star
+  - wget
 ---
 
 Received RNA-seq data from Cornell. They provided a convenient download script for retrieving all the data files at one time (a bash script containing a series of wget commands with each individual file's URL), which is faster/easier than performing individual wget commands for each individual file and faster/easier then using the Synology "Download Station" app when so many URLs are involved.

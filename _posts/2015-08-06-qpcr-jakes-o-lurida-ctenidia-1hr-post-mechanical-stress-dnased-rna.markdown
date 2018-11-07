@@ -8,22 +8,22 @@ slug: qpcr-jakes-o-lurida-ctenidia-1hr-post-mechanical-stress-dnased-rna
 title: qPCR - Jake's O.lurida ctenidia 1hr post-mechanical stress DNased RNA
 wordpress_id: 1534
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- actin
-- ctenidia
-- DNased RNA
-- gill
-- mechanical stress
-- olympia oyster
-- Opticon2
-- Ostrea lurida
-- qPCR
-- 'SR ID: 1504'
-- 'SR ID: 1505'
-- SsoFast EvaGreen Supermix
+  - actin
+  - ctenidia
+  - DNased RNA
+  - gill
+  - mechanical stress
+  - olympia oyster
+  - Opticon2
+  - Ostrea lurida
+  - qPCR
+  - 'SR ID: 1504'
+  - 'SR ID: 1505'
+  - SsoFast EvaGreen Supermix
 ---
 
 Ran qPCR on DNased RNA from earlier today to assess whether there was any residual gDNA after [the DNase treatment](http://onsnetwork.org/kubu4/2015/05/14/dnase-treatment-jakes-o-lurida-ctenidia-rna-controls-from-20150507/) with Oly_Actin_F/R primers (SR IDs: 1505, 1504).

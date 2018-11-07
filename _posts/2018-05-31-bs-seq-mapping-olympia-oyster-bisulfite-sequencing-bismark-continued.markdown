@@ -8,16 +8,16 @@ slug: bs-seq-mapping-olympia-oyster-bisulfite-sequencing-bismark-continued
 title: 'BS-seq Mapping – Olympia oyster bisulfite sequencing: Bismark Continued'
 wordpress_id: 3396
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BS-seq
-- methylkit
-- olympia oyster
-- Ostrea lurida
-- R
-- R Studio
+  - BS-seq
+  - methylkit
+  - olympia oyster
+  - Ostrea lurida
+  - R
+  - R Studio
 ---
 
 [Previously took the analysis just through the mapping](http://onsnetwork.org/kubu4/2018/05/08/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark/), but didn't realize [Steven wanted me to fully process the data](https://github.com/RobertsLab/resources/issues/225#issuecomment-390408604).

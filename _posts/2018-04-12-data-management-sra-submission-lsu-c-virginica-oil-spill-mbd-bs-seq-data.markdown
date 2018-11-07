@@ -8,21 +8,21 @@ slug: data-management-sra-submission-lsu-c-virginica-oil-spill-mbd-bs-seq-data
 title: Data Management - SRA Submission LSU C.virginica Oil Spill MBD BS-seq Data
 wordpress_id: 3260
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- GenBank
-- HB16
-- HB2
-- HB30
-- NB11
-- NB3
-- NB6
-- oil
-- SRA
+  - Crassostrea virginica
+  - Eastern oyster
+  - GenBank
+  - HB16
+  - HB2
+  - HB30
+  - NB11
+  - NB3
+  - NB6
+  - oil
+  - SRA
 ---
 
 Submitted the _Crassostrea virginica_ (Eastern oyster) MBD BS-seq data [we received on 20150413](http://onsnetwork.org/kubu4/2015/04/13/sequence-data-lsu-c-virginica-oil-spill-mbd-bs-seq-demultiplexed/) to NCBI Sequence Read Archive.

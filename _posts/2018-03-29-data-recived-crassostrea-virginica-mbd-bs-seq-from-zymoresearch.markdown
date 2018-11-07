@@ -8,16 +8,16 @@ slug: data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch
 title: Data Received - Crassostrea virginica MBD BS-seq from ZymoResearch
 wordpress_id: 3162
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BS-seq
-- Crassostrea virginica
-- Eastern oyster
-- Illumina
-- MBD
-- ZymoResearch
+  - BS-seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - Illumina
+  - MBD
+  - ZymoResearch
 ---
 
 Received the sequencing data from ZymoResearch for the <em>Crassostrea virginica</em> gonad MBD DNA that was [sent to them on 20180207](http://onsnetwork.org/kubu4/2018/02/07/ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini/) for bisulfite conversion, library construction, and sequencing.

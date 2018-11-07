@@ -8,9 +8,9 @@ slug: goals-december-2016
 title: Goals - December 2016
 wordpress_id: 2377
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 Well, I've finally progressed with the Olly GBS analysis!

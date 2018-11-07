@@ -9,15 +9,15 @@ title: DNA Methylation Quantification - Coral DNA from Jose M. Eirin-Lopez (Flor
   International University)
 wordpress_id: 2171
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- coral
-- DNA
-- methylation
-- MethylFlash Methylated DNA Quantification Kit [Colorimetric]
-- Victor 1420 plate reader
+  - coral
+  - DNA
+  - methylation
+  - MethylFlash Methylated DNA Quantification Kit [Colorimetric]
+  - Victor 1420 plate reader
 ---
 
 Ran the [coral DNA I quantified on 20160630](http://onsnetwork.org/kubu4/2016/06/30/dna-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university/) through the MethylFlash Methylated DNA Quantification Kit [Colorimetric] (Epigentek) kit to quantify global methylation.

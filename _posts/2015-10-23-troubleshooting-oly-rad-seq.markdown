@@ -8,14 +8,14 @@ slug: troubleshooting-oly-rad-seq
 title: Troubleshooting - Oly RAD-seq
 wordpress_id: 1739
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- RAD
-- RAD-seq
-- troubleshooting
+  - RAD
+  - RAD-seq
+  - troubleshooting
 ---
 
 [After the failure of the prep-scale PCR for the RAD library construction](http://onsnetwork.org/kubu4/2015/10/13/pcr-oly-rad-seq-prep-scale-pcr/), Katherin Silliman pointed out [a potential problem (too much dNTPs)](http://onsnetwork.org/kubu4/2015/10/13/pcr-oly-rad-seq-prep-scale-pcr/#comments). This was odd because I was following the Meyer Protocol and I used what was indicated.

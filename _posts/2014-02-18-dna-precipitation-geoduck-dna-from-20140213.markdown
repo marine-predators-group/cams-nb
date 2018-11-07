@@ -8,15 +8,15 @@ slug: dna-precipitation-geoduck-dna-from-20140213
 title: DNA Precipitation - Geoduck DNA from 20140213
 wordpress_id: 170
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Axa
-- EtOH precipitation
-- gDNA
-- geoduck
-- Panopea generosa
+  - Axa
+  - EtOH precipitation
+  - gDNA
+  - geoduck
+  - Panopea generosa
 ---
 
 After speaking with Axa regarding the DNA concentrations, he would like the DNA from the ethanol-fixed tissue to be more concentrated, and he wants them in ddH2O instead of Buffer AE (from the Qiagen DNeasy Kit). So, I preformed a standard ethanol precipitation. Added 0.1 volumes of 3M sodium acetate (pH = 5.2) [15uL], 2.5 volumes of 100% ethanol [412.5uL] and incubated @ -20C over the weekend.

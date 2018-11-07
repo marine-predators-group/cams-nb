@@ -8,15 +8,15 @@ slug: sample-submission-olympia-oyster-sea-pen-pcrs-sanger-sequencing
 title: Sample Submission – Olympia oyster & Sea Pen PCRs Sanger Sequencing
 wordpress_id: 1481
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- olympia oyster
-- Ostrea lurida
-- Renilla reniformis
-- Sanger sequencing
-- sea pen
+  - olympia oyster
+  - Ostrea lurida
+  - Renilla reniformis
+  - Sanger sequencing
+  - sea pen
 ---
 
 Prepared two DNA plates and corresponding primer plates for sequencing at the UW HTGC from the purified [gel-purified PCRs from yesterday](http://onsnetwork.org/kubu4/2015/06/15/gel-purification-olympia-oyster-and-sea-pen-pcrs/). Primer plates were prepared by adding 7μL of NanoPure H2O to each well and then adding 3μL of 10μM primer to the appropriate wells. For the DNA plates, added 10μL of DNA to the appropriate wells.

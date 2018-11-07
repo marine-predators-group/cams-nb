@@ -8,19 +8,19 @@ slug: bacterial-cultures-colonies-selected-from-yesterdays-colony-pcrs
 title: Bacterial Cultures - Colonies Selected from Yesterday's Colony PCRs
 wordpress_id: 374
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- COX
-- COX1
-- Crassostrea gigas
-- cyclooxygenase
-- Pacific oyster
-- PGS
-- PGS1
-- prostaglandin synthase
+  - bacterial culture
+  - COX
+  - COX1
+  - Crassostrea gigas
+  - cyclooxygenase
+  - Pacific oyster
+  - PGS
+  - PGS1
+  - prostaglandin synthase
 ---
 
 Inoculated 5mL of 1x LB + Kan50 (made by Steven on 3/23/11). Incubated O/N at 37C, 250RPM. Will perform mini preps tomorrow. The following samples were selected:

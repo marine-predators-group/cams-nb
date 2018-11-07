@@ -8,19 +8,19 @@ slug: dna-isolation-olympia-oyster-outer-mantle-gdna
 title: DNA Isolation - Olympia Oyster Outer Mantle gDNA
 wordpress_id: 1811
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- Quant-iT DNA BR Kit
-- Victor 1420 plate reader
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - Quant-iT DNA BR Kit
+  - Victor 1420 plate reader
 ---
 
 Since we still don't have sufficient gDNA for the full scope of the Olympia oyster genome sequencing, I isolated more gDNA.

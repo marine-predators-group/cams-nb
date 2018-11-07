@@ -9,19 +9,19 @@ title: ePCR SOLiD Libraries - Lake Trout Sisco and Herring G/O HPWS09 libraries 
   20100408)
 wordpress_id: 664
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- ePCR
-- lake trout
-- library prep
-- Pacific herring
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
+  - 1 G/O HPWS09
+  - ePCR
+  - lake trout
+  - library prep
+  - Pacific herring
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
 ---
 
 ePCR was performed for the above three mentioned SOLiD libraries using 1.5pM (180 pg/uL) of cDNA, according to the ABI "full scale" ePCR protocol. ePCRs were stored @ 4C until ready for the emulsion breaking step.

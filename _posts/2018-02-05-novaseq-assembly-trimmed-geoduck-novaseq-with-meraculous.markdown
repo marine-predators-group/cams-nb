@@ -8,19 +8,19 @@ slug: novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous
 title: NovaSeq Assembly - Trimmed Geoduck NovaSeq with Meraculous
 wordpress_id: 3086
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- geoduck
-- Illumina
-- kmer
-- kmer genie
-- meraculous
-- NovaSeq
-- Panopea generosa
-- roadrunner
+  - assembly
+  - geoduck
+  - Illumina
+  - kmer
+  - kmer genie
+  - meraculous
+  - NovaSeq
+  - Panopea generosa
+  - roadrunner
 ---
 
 Attempted to use [Meraculous](https://jgi.doe.gov/data-and-tools/meraculous/) to assemble the [trimmed geoduck NovaSeq data](http://onsnetwork.org/kubu4/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data/).

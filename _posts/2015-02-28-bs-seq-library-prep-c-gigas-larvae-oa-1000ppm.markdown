@@ -8,21 +8,21 @@ slug: bs-seq-library-prep-c-gigas-larvae-oa-1000ppm
 title: BS-seq Library Prep - C.gigas Larvae OA 1000ppm
 wordpress_id: 534
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bisulfite conversion
-- BS-seq
-- Crassostrea gigas
-- EpiNext Post-Bisulfite DNA Library Preparation Kit
-- larvae
-- library prep
-- Methylamp DNA Modification
-- NanoDrop1000
-- OA
-- ocean acidification
-- Pacific oyster
+  - bisulfite conversion
+  - BS-seq
+  - Crassostrea gigas
+  - EpiNext Post-Bisulfite DNA Library Preparation Kit
+  - larvae
+  - library prep
+  - Methylamp DNA Modification
+  - NanoDrop1000
+  - OA
+  - ocean acidification
+  - Pacific oyster
 ---
 
 ### Bisulfite Conversion

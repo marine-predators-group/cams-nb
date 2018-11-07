@@ -8,18 +8,18 @@ slug: adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data
 title: Adapter Trimming and FASTQC - Illumina Geoduck Novaseq Data
 wordpress_id: 3078
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- FASTQC
-- geoduck
-- Illumina
-- multiqc
-- NovaSeq
-- Panopea generosa
-- trim galore
-- trimming
+  - FASTQC
+  - geoduck
+  - Illumina
+  - multiqc
+  - NovaSeq
+  - Panopea generosa
+  - trim galore
+  - trimming
 ---
 
 We would like to get an assembly of the geoduck NovaSeq data that Illumina provided us with.

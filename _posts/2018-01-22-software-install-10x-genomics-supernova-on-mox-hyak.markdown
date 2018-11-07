@@ -8,15 +8,15 @@ slug: software-install-10x-genomics-supernova-on-mox-hyak
 title: Software Install - 10x Genomics Supernova on Mox (Hyak)
 wordpress_id: 3054
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 10x genomics
-- bcl2fastq2
-- hyak
-- mox
-- supernova
+  - 10x genomics
+  - bcl2fastq2
+  - hyak
+  - mox
+  - supernova
 ---
 
 [Steven asked me to install Supernova (by 10x Genomics on our Mox node](https://github.com/RobertsLab/resources/issues/159).

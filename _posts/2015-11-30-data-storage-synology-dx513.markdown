@@ -8,13 +8,13 @@ slug: data-storage-synology-dx513
 title: Data Storage - Synology DX513
 wordpress_id: 1850
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- owl
-- server
-- Synology
+  - owl
+  - server
+  - Synology
 ---
 
 Running a bit low on storage on Owl (Synology DS1812+) and we will be receiving a ton of data in the next few months, so we purchased a Synology DX513. It's an expansion unit designed specifically for seamlessly expanding our existing storage volume on Owl.

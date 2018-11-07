@@ -8,19 +8,19 @@ slug: data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files
 title: Data Management - SRA Submission of Ostrea lurida GBS FASTQ Files
 wordpress_id: 2474
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
-- SRA Submissions
+  - Genotype-by-sequencing at BGI
+  - SRA Submissions
 tags:
-- NCBI
-- olympia oyster
-- Ostrea lurida
-- PRJNA371817
-- SRA
-- SRP099079
-- SRS1964845
-- SRX2545968
+  - NCBI
+  - olympia oyster
+  - Ostrea lurida
+  - PRJNA371817
+  - SRA
+  - SRP099079
+  - SRS1964845
+  - SRX2545968
 ---
 
 Prepared a short read archive (SRA) submission for archiving our Olympia oyster genotype-by-sequencing (GBS) data in NCBI. This is in preparation for submission of the [mansucript we're putting together](https://www.authorea.com/users/4974/articles/149442).

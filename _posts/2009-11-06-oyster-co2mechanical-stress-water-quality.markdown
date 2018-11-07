@@ -8,12 +8,12 @@ slug: oyster-co2mechanical-stress-water-quality
 title: Oyster CO2/Mechanical Stress - Water quality
 wordpress_id: 800
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CO2 stress
-- mechanical stress
+  - CO2 stress
+  - mechanical stress
 ---
 
 See [Rachel's 441 Notebook](/Rachel%27s+441+Notebook) from 10/28/2009 through 11/4/2009 for experiment info. 500mL of water was collected from the CO2 and the air tanks. Water was vacuum filtered through Watman paper. The Watman paper was allowed to dry over the weekend.

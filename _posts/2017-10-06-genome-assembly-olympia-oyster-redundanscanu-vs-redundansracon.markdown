@@ -8,18 +8,18 @@ slug: genome-assembly-olympia-oyster-redundanscanu-vs-redundansracon
 title: Genome Assembly - Olympia oyster Redundans/Canu vs. Redundans/Racon
 wordpress_id: 2767
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- assembly
-- canu
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- QUAST
-- racon
-- redundans
+  - assembly
+  - canu
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - QUAST
+  - racon
+  - redundans
 ---
 
 Decided to compare the Redundans using Canu as reference and Redundans using Racon as reference. Both reference assemblies were just our PacBio data.

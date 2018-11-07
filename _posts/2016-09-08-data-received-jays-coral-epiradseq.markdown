@@ -8,15 +8,15 @@ slug: data-received-jays-coral-epiradseq
 title: Data Received - Jay's Coral epiRADseq
 wordpress_id: 2274
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- coral
-- epiRAD
-- Porites
-- RAD
-- RAD-seq
+  - coral
+  - epiRAD
+  - Porites
+  - RAD
+  - RAD-seq
 ---
 
 We received notice that [Jay's coral (Porites spp) epiRADseq](http://onsnetwork.org/jdimond/2016/08/02/rad-sequencing-days-12/) data was available from the Genomic Sequencing Laboratory at UC-Berkeley.

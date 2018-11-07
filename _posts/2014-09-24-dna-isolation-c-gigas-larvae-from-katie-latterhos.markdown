@@ -8,15 +8,15 @@ slug: dna-isolation-c-gigas-larvae-from-katie-latterhos
 title: DNA Isolation - C.gigas Larvae from Katie Latterhos
 wordpress_id: 112
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- OA
-- ocean acidification
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - OA
+  - ocean acidification
 ---
 
 Since the previous isolation attempt was unsuccessful (see 20140922), we're trying a slightly different approach than yesterday.

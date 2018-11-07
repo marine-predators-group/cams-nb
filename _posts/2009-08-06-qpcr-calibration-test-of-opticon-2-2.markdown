@@ -8,14 +8,14 @@ slug: qpcr-calibration-test-of-opticon-2-2
 title: qPCR - Calibration test of Opticon 2
 wordpress_id: 894
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- Opitcon2
-- qPCR
-- troubleshooting
+  - calibration
+  - Opitcon2
+  - qPCR
+  - troubleshooting
 ---
 
 Due to results of Opticon testing from [20090722](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090722), we have acquired FAM Calibartion Dye from Bio-Rad. Although not listed online or on the product itself, Bio-Rad customer service informed me that the concentration = 1mM. The calibration protocol in the Opticon 2 manual (p. 10-4) says to use 0.3uM (Cf) in 50uL. Will follow this info. Made up 15mLs of dye solution and distributed 50uL into each well of 3 plates. Tested all three plates on two different machines (Opticon 2 and Friedman lab's).

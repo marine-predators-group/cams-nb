@@ -8,15 +8,15 @@ slug: dna-isolation-olympia-oyster-populations-for-rad-sequencing
 title: DNA Isolation - Olympia Oyster Populations for RAD Sequencing
 wordpress_id: 108
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Isolation
-- DNeasy
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
+  - DNA Isolation
+  - DNeasy
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
 ---
 
 Olympia oysters from three different Puget Sound locations/populations (HL, NF, and SN) were collected and stored @ -80C on 8/29/2103.

@@ -8,19 +8,19 @@ slug: qpcr-macs-bbdh-cdna-from-20091223
 title: qPCR - Mac's BB/DH cDNA from 20091223
 wordpress_id: 702
 author:
-- kubu4
+  - kubu4
 categories:
-- PROPS
+  - PROPS
 tags:
-- BB
-- cDNA
-- DH
-- DPGN
-- GSTA
-- Immomix
-- Opticon2
-- qPCR
-- SYTO 13
+  - BB
+  - cDNA
+  - DH
+  - DPGN
+  - GSTA
+  - Immomix
+  - Opticon2
+  - qPCR
+  - SYTO 13
 ---
 
 GSTA and DPGN primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100115-01.jpg).

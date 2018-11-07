@@ -8,18 +8,18 @@ slug: restriction-digest-oly-gdna-for-rad-seq-walfi-3
 title: Restriction Digest – Oly gDNA for RAD-seq w/AlfI
 wordpress_id: 1741
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 2bRAD
-- AlfI
-- gDNA
-- olympia oyster
-- Ostrea lurida
-- RAD-seq
-- restriction digestion
+  - 2bRAD
+  - AlfI
+  - gDNA
+  - olympia oyster
+  - Ostrea lurida
+  - RAD-seq
+  - restriction digestion
 ---
 
 T[he previous attempt at making these RAD libraries failed during the prep-scale PCR](http://onsnetwork.org/kubu4/2015/10/13/pcr-oly-rad-seq-prep-scale-pcr/), likely due to [a discrepancy in the version of the Meyer Lab protocol I was following](http://onsnetwork.org/kubu4/2015/10/23/troubleshooting-oly-rad-seq/), so I have to start at the beginning to try to make these libraries again.

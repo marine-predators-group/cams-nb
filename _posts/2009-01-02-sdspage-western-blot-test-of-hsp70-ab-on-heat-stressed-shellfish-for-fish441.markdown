@@ -8,20 +8,20 @@ slug: sdspage-western-blot-test-of-hsp70-ab-on-heat-stressed-shellfish-for-fish4
 title: SDS/PAGE, Western Blot - Test of HSP70 Ab on heat stressed shellfish for FISH441
 wordpress_id: 1229
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- barnacle
-- Coomassie
-- Crassostrea gigas
-- gel
-- heat shock
-- HSP70
-- Pacific oyster
-- SDS-PAGE
-- Western blot
-- Western Breeze Chromogenic (anti-mouse) Kit
+  - barnacle
+  - Coomassie
+  - Crassostrea gigas
+  - gel
+  - heat shock
+  - HSP70
+  - Pacific oyster
+  - SDS-PAGE
+  - Western blot
+  - Western Breeze Chromogenic (anti-mouse) Kit
 ---
 
 Pacific oysters, a mussel, barnacles and a clam (sp. ?) were transferred from the holding tank to a large beaker with sea water which was placed into a 37C water bath. The shellfish were incubated in this water bath for ~3hrs. Tissues were collected from each, transferred to a 50mL conical tube and immediately placed in a dry ice/ethanol bath:

@@ -9,19 +9,19 @@ title: mRNA Isolation - Gigas BB and DH samples previously treated with Ribominu
   Kit (by Mac)
 wordpress_id: 864
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BB
-- Crassostrea gigas
-- DH
-- EtOH precipitation
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- Pacific oyster
-- RNA
+  - BB
+  - Crassostrea gigas
+  - DH
+  - EtOH precipitation
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - Pacific oyster
+  - RNA
 ---
 
 Was given ~0.5ug of each of these two RNA samples and processed them with Ambion's microPolyA Purist Kit according to protocol. After elution, the samples were EtOH precipitated @ -80C for 30mins, pelleted 30mins 16,000g for 30mins, 4C. Supe removed, RNA washed with 1mL 70% EtOH and spun 10mins 16,000g, 4C. Supe removed. Resusupended in 10uL of The RNA Storage Solution and gave back to Mac.

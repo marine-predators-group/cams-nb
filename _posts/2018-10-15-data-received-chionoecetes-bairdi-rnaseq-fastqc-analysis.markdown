@@ -8,18 +8,18 @@ slug: data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis
 title: Data Received - Chionoecetes bairdi RNAseq & FastQC Analysis
 wordpress_id: 3639
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- FASTQC
-- hemolymph
-- md5
-- multiqc
-- NovaSeq
-- RNAseq
-- tanner crab
+  - Chionoecetes bairdi
+  - FASTQC
+  - hemolymph
+  - md5
+  - multiqc
+  - NovaSeq
+  - RNAseq
+  - tanner crab
 ---
 
 We received [Grace's 100bp PE NovaSeq (Illumian) RNAseq data](https://grace-ac.github.io/Pooled-sample-handed-toNWGC/) from the Northwest Genomics Center today.

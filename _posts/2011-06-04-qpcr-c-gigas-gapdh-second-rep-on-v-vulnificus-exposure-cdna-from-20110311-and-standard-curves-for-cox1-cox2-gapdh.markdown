@@ -9,20 +9,20 @@ title: qPCR - C.gigas GAPDH second rep on V.vulnificus exposure cDNA (from 20110
   and standard curves for COX1, COX2, GAPDH
 wordpress_id: 339
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- CFX96
-- COX1
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- GAPDH
-- Pacific oyster
-- qPCR
-- Vibrio vulnificus
+  - cDNA
+  - CFX96
+  - COX1
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - GAPDH
+  - Pacific oyster
+  - qPCR
+  - Vibrio vulnificus
 ---
 
 Ran a qPCR on all cDNA samples. Created a standard curve to possibly allow for use of the BioRad software for gene expression analysis. Standard curve was created from pooled cDNA (1uL from each individual sample). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg).

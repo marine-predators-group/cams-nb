@@ -8,15 +8,15 @@ slug: sample-submission-olympia-oyster-pcrs-sanger-sequencing
 title: Sample Submission - Olympia oyster PCRs Sanger Sequencing
 wordpress_id: 1476
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- HTGC
-- olympia oyster
-- Ostrea lurida
-- PCR
-- Sanger sequencing
+  - HTGC
+  - olympia oyster
+  - Ostrea lurida
+  - PCR
+  - Sanger sequencing
 ---
 
 Submitted a plate of purified PCR products (PCR products prepared by Jake on [20150609](http://heareresearch.blogspot.com/2015/06/6-9-2015-flanking-primer-trial-pcr.html) and [20150610](http://heareresearch.blogspot.com/2015/06/6-10-2015-flanking-primer-pcr-pt-2.html)) that Jake set up yesterday, to the [UW High-Throughput Genomics Center](http://www.htseq.org/) for Sanger sequencing.

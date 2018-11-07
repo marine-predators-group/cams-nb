@@ -8,16 +8,16 @@ slug: agarose-gel-olympia-oyster-whole-body-gdna-integrity-check
 title: Agarose Gel - Olympia oyster Whole Body gDNA Integrity Check
 wordpress_id: 1624
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- gDNA
-- gel
-- O'geneRuler DNA Ladder Mix
-- olympia oyster
-- Ostrea lurida
+  - gDNA
+  - gel
+  - O'geneRuler DNA Ladder Mix
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Ran the [gDNA isolated yesterday from _Ostrea lurida_ whole body](http://onsnetwork.org/kubu4/2015/09/16/dna-isolation-olympia-oyster-whole-body/) on a 0.8% modified TAE gel (w/EtBr) to assess gDNA integrity. Used 1μL of each sample.

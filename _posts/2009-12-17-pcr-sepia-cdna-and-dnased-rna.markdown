@@ -8,23 +8,23 @@ slug: pcr-sepia-cdna-and-dnased-rna
 title: PCR - Sepia cDNA and DNased RNA
 wordpress_id: 746
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- arm
-- cDNA
-- cuttlefish
-- DNased RNA
-- fin
-- gel
-- mantle
-- opsin
-- PCR
-- retina
-- rhodopsin
-- Sepia officinalis
-- Taq Red Master Mix
+  - arm
+  - cDNA
+  - cuttlefish
+  - DNased RNA
+  - fin
+  - gel
+  - mantle
+  - opsin
+  - PCR
+  - retina
+  - rhodopsin
+  - Sepia officinalis
+  - Taq Red Master Mix
 ---
 
 Set up PCR on recent Sepia cDNA and DNased RNA samples using both S. officianalis_rhodopsin_F, R primers & Sep_op_F2, R2 primers. After yesterday's intirguing PCR results, we need to confirm that the DNased RNA is free of contaminating gDNA. Additionally, we want to excise bands from the cDNA samples for sequencing. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091216-01.jpg). RNA was prepped as though making cDNA; diluted 0.2ug of DNased RNA in a final volume of 25uL. Used 1uL of this for PCRs.

@@ -8,14 +8,14 @@ slug: restriction-digestion-mspi-on-crassotrea-virginica-gdna
 title: Restriction Digestion - MspI on Crassotrea virginica gDNA
 wordpress_id: 3021
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- MspI
-- restriction digestion
+  - Crassostrea virginica
+  - Eastern oyster
+  - MspI
+  - restriction digestion
 ---
 
 Digested two 1.5μg aliquots of _Crassostrea virginica_ [isolated 20171211](http://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/), as part of the project we're doing with Qiagen.

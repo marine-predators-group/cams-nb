@@ -9,25 +9,25 @@ title: RNA Precipitation and Fragmentation for SOLiD Libraries - Pooled abalone 
   (from yesterday)
 wordpress_id: 686
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Carmel
-- CC
-- CE
-- EtOH precipitation
-- Haliotis cracherodii
-- library prep
-- Micro PolyA Purist
-- mRNA
-- NanoDrop1000
-- Ribominus Concentration Module Kit
-- RNA quantification
-- SOLiD
-- SOLiD libraries
-- Whole Transcriptome Analysis Kit
+  - black abalone
+  - Carmel
+  - CC
+  - CE
+  - EtOH precipitation
+  - Haliotis cracherodii
+  - library prep
+  - Micro PolyA Purist
+  - mRNA
+  - NanoDrop1000
+  - Ribominus Concentration Module Kit
+  - RNA quantification
+  - SOLiD
+  - SOLiD libraries
+  - Whole Transcriptome Analysis Kit
 ---
 
 mRNA was precipitated according to Ambion's MicroPolyA Purist Kit protocol. Added 0.1vols of ammonium acetate, 2.5vols of 100% EtOH and incubated 30mins @ -80C. Samples were pelleted, washed with 1mL 70% EtOH, pelleted, resuspended in 8uL of nuclease-free H2O and spec'd:

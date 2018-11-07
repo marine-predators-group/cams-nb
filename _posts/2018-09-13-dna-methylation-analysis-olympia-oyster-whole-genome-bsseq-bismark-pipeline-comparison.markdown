@@ -9,15 +9,15 @@ title: DNA Methylation Analysis - Olympia Oyster Whole Genome BSseq Bismark Pipe
   Comparison
 wordpress_id: 3563
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bismark
-- BSseq
-- methylation
-- olympia oyster
-- Ostrea lurida
+  - bismark
+  - BSseq
+  - methylation
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Ran Bismark using our high performance computing (HPC) node, Mox, with two different bowtie2 settings:

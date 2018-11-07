@@ -8,14 +8,14 @@ slug: qpcr-recalibration-of-opticon-2
 title: qPCR - Recalibration of Opticon 2
 wordpress_id: 884
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- calibration
-- Opticon2
-- qPCR
-- troubleshooting
+  - calibration
+  - Opticon2
+  - qPCR
+  - troubleshooting
 ---
 
 According to the Bio-Rad rep that analyzed the calibration test on [20090824](/Sam%27s+Working+Notebook+Jun-Aug+2009#sjw20090824), recalibration might be a good idea. As such, we'll do that. Old calibration file was found and backed up prior to proceeding, as generation of a new calibration file would replace the old one.

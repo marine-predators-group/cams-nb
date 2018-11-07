@@ -8,18 +8,18 @@ slug: sequence-data-analysis-lsu-c-virginica-oil-spill-mbd-bs-seq-data
 title: Sequence Data Analysis - LSU C.virginica Oil Spill MBD BS-Seq Data
 wordpress_id: 1253
 author:
-- kubu4
+  - kubu4
 categories:
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- BS-seq
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- LSU
-- MBD-Seq
-- NGS sequencing
-- oil
+  - BS-seq
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - LSU
+  - MBD-Seq
+  - NGS sequencing
+  - oil
 ---
 
 Performed some rudimentary data analysis on the new, demultiplexed data downloaded earlier today:

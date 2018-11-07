@@ -8,22 +8,22 @@ slug: gdna-isolation-mac-gigas-gill-samples-continued-from-yesterday-2
 title: gDNA Isolation - Mac gigas gill samples (continued from yesterday)
 wordpress_id: 642
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- gel
-- homogenization
-- Hyperladder I
-- NanoDrop1000
-- Pacific oyster
-- R51
-- RNAlater
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - gel
+  - homogenization
+  - Hyperladder I
+  - NanoDrop1000
+  - Pacific oyster
+  - R51
+  - RNAlater
 ---
 
 Continued with gDNA isolation from yesterday's samples. Additionally, isolated gDNA from R51 01, but homogenized the tissue (using disposable 1.5mL mortar/pestle) in 0.5mL of DNAzol and topped off to 1.0mL. All 3 samples were gently pipetted up and down to further dissolve the tissue. For those samples that were subjected to Proteinase K digestion, I transferred 100uL of the solution to a new tube containing 1mL of DNAzol, [as described in the DNAzol protocol (see "Notes, #5" part of protocol)](http://www.mrcgene.com/dnazol.htm). Tubes were incubated 10mins @ RT.

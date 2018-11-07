@@ -8,20 +8,20 @@ slug: qpcr-test-young-lab-qpcr-calibration-2
 title: qPCR - Test Young Lab qPCR Calibration
 wordpress_id: 484
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 18s
-- ABI 7300
-- Crassostrea gigas
-- gDNA
-- Pacific oyster
-- qPCR
-- 'SR ID: 156'
-- 'SR ID: 157'
-- troubleshooting
-- Young Lab
+  - 18s
+  - ABI 7300
+  - Crassostrea gigas
+  - gDNA
+  - Pacific oyster
+  - qPCR
+  - 'SR ID: 156'
+  - 'SR ID: 157'
+  - troubleshooting
+  - Young Lab
 ---
 
 Recently, the Young Lab's ABI 7300 qPCR machine was calibrated. Steven asked me to run a plate and see how well the calibration worked. Ran a plate with C.gigas gDNA and Gigas 18s primers (SR ID: 156 and 157) that are known to amplify gDNA. [Master mix calcs are here (top half of page)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110204-01.jpg). Cycling params were as follows:

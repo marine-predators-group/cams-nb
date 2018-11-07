@@ -8,22 +8,22 @@ slug: reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna
 title: Reverse Transcription - Ronit's C.gigas DNased ctenidia RNA
 wordpress_id: 3665
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- ctenidia
-- dessication
-- diploid
-- DNased RNA
-- heat shock
-- M-MLV
-- oligo dT
-- Pacific oyster
-- reverse transcriptase
-- reverse transcription
-- triploid
+  - Crassostrea gigas
+  - ctenidia
+  - dessication
+  - diploid
+  - DNased RNA
+  - heat shock
+  - M-MLV
+  - oligo dT
+  - Pacific oyster
+  - reverse transcriptase
+  - reverse transcription
+  - triploid
 ---
 
 Proceeded with reverse transcription of [Ronit's DNased ctenidia RNA (from 20181016)](http://onsnetwork.org/kubu4/2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna/).

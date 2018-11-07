@@ -8,15 +8,15 @@ slug: assembly-comparisons-olympia-oyster-genome-assemblies
 title: Assembly Comparisons - Olympia oyster genome assemblies
 wordpress_id: 2733
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- docker
-- jupyter notebook
-- olympia oyster
-- Ostrea lurida
-- QUAST
+  - docker
+  - jupyter notebook
+  - olympia oyster
+  - Ostrea lurida
+  - QUAST
 ---
 
 ### --- UPDATE 20171009 ---

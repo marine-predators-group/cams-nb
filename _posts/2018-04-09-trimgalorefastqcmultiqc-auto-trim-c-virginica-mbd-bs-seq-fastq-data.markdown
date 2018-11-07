@@ -8,16 +8,16 @@ slug: trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data
 title: TrimGalore/FastQC/MultiQC - Auto-trim C.virginica MBD BS-seq FASTQ data
 wordpress_id: 3222
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- Eastern oyster
-- FASTQC
-- MBD-Seq
-- multiqc
-- TrimGalore!
+  - Crassostrea virginica
+  - Eastern oyster
+  - FASTQC
+  - MBD-Seq
+  - multiqc
+  - TrimGalore!
 ---
 
 [Yesterday, I ran FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](http://onsnetwork.org/kubu4/2018/04/09/fastqcmultiqc-c-virginica-mbd-bs-seq-data/). Steven wanted to trim it and see how things turned out.

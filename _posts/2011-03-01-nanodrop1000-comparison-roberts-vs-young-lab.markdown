@@ -8,12 +8,12 @@ slug: nanodrop1000-comparison-roberts-vs-young-lab
 title: NanoDrop1000 Comparison - Roberts vs. Young Lab
 wordpress_id: 414
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- NanoDrop1000
-- troubleshooting
+  - NanoDrop1000
+  - troubleshooting
 ---
 
 A previous comparison was performed (see 20110209), but it was determined that the standard DNA being used to test the machines was old/degraded. Lisa ordered a new standard DNA dilutions series (Quant-iT dsDNA Kit; Invitrogen) and these DNAs were used. All DNAs were measured 5 times and were mixed by gently flicking between each measurement. A "blank" was measured between each different [DNA] and, if the reading was > + or - 1ng/uL, the machine was reblanked.

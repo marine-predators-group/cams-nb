@@ -8,9 +8,9 @@ slug: goals-august-2016
 title: Goals - August 2016
 wordpress_id: 2242
 author:
-- kubu4
+  - kubu4
 categories:
-- Goals
+  - Goals
 ---
 
 

@@ -8,14 +8,14 @@ slug: assembly-sparseassembler-k-111-on-geoduck-sequence-data
 title: Assembly – SparseAssembler (k 111) on Geoduck Sequence Data
 wordpress_id: 3282
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- mox
-- Panopea generosa
-- SparseAssembler
+  - geoduck
+  - mox
+  - Panopea generosa
+  - SparseAssembler
 ---
 
 Continuing to try to find the best kmer setting to work with SparseAssemlber after [the last attempt failed due to a kmer size that was too large](http://onsnetwork.org/kubu4/2018/04/22/assembly-sparseassembler-k-131-on-geoduck-sequence-data/) (k 131; which happens to be outside the max kmer size [127] for SparseAssembler), I re-ran SparseAssembler with an arbitrarily selected kmer size < 131 (picked k 111).

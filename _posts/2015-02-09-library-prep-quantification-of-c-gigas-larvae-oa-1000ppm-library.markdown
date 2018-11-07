@@ -8,20 +8,20 @@ slug: library-prep-quantification-of-c-gigas-larvae-oa-1000ppm-library
 title: Library Prep - Quantification of C.gigas larvae OA 1000ppm library
 wordpress_id: 462
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- BS-seq
-- Crassostrea gigas
-- DNA Quantification
-- FLx800 plate reader
-- larvae
-- library prep
-- OA
-- ocean acidification
-- Pacific oyster
-- Quant-iT DNA BR Kit
+  - BS-seq
+  - Crassostrea gigas
+  - DNA Quantification
+  - FLx800 plate reader
+  - larvae
+  - library prep
+  - OA
+  - ocean acidification
+  - Pacific oyster
+  - Quant-iT DNA BR Kit
 ---
 
 The completed BS Illumina [library made on Friday](http://onsnetwork.org/kubu4/2015/02/06/bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna/) (1000ppm) was quantified via fluorescence using the Quant-iT DNA BR Kit (Life Technologies/Invitrogen).  Also quantified [Jake's libraries](http://heareresearch.blogspot.com/2015/02/2-6-2015-library-creation-for-bs-samples.html). Used 1μL of  each sample and the standards.  All standards were run in duplicate.  Due to limited sample, the libraries were only processed singularly, without replication.  Fluorescence was measured on a FLx800 plate reader (BioTek), using the Gen5 (BioTek) software for all calculations.

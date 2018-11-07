@@ -8,20 +8,20 @@ slug: solid-sequencing-submission
 title: SOLiD Sequencing Submission
 wordpress_id: 404
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ATCC 19106
-- BX
-- Crassostrea gigas
-- Hard clam
-- MA
-- Mercenaria mercenaria
-- Pacific oyster
-- RE22
-- SOLiD
-- Vibrio tubiashii
+  - ATCC 19106
+  - BX
+  - Crassostrea gigas
+  - Hard clam
+  - MA
+  - Mercenaria mercenaria
+  - Pacific oyster
+  - RE22
+  - SOLiD
+  - Vibrio tubiashii
 ---
 
 Submitted the following 8 samples for SOLiD sequencing at HTGU:

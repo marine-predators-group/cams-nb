@@ -8,17 +8,17 @@ slug: pcr-unknown-dunganslyons
 title: PCR - "Unknown" Dungans/Lyons
 wordpress_id: 792
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan isolates
-- gel
-- gel extraction
-- LABY
-- lyons
-- PCR
-- Ultrafree-DA
+  - Dungan isolates
+  - gel
+  - gel extraction
+  - LABY
+  - lyons
+  - PCR
+  - Ultrafree-DA
 ---
 
 This is a repeat of yesterday's set up with LABY primers, but with an annealing temp of 53C in hopes of improving the number of amplicons generated from additional samples. See yesterday's PCR run for info on samples.

@@ -8,30 +8,30 @@ slug: sample-annotation-olympia-oyster-histology-blocks-from-laura-spencer
 title: Sample Annotation - Olympia oyster histology blocks (from Laura Spencer)
 wordpress_id: 2624
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gonad
-- histology
-- histology blocks
-- histology slides
-- Laura Spencer
-- NF-10 22
-- NF-10-23
-- NF-10-24
-- NF-10-26
-- NF-10-28
-- NF-10-30
-- olympia oyster
-- Ostrea lurida
-- pics
-- SN-10-16
-- SN-10-17
-- SN-10-20
-- SN-10-25
-- SN-10-26
-- SN-10-31
+  - gonad
+  - histology
+  - histology blocks
+  - histology slides
+  - Laura Spencer
+  - NF-10 22
+  - NF-10-23
+  - NF-10-24
+  - NF-10-26
+  - NF-10-28
+  - NF-10-30
+  - olympia oyster
+  - Ostrea lurida
+  - pics
+  - SN-10-16
+  - SN-10-17
+  - SN-10-20
+  - SN-10-25
+  - SN-10-26
+  - SN-10-31
 ---
 
 I've been asked to isolate RNA from some paraffin-embedded Olympia oyster gonad tissue.

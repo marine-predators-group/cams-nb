@@ -8,12 +8,12 @@ slug: dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna
 title: DNA Bisulfite Conversion - C.gigas larvae OA Sheared DNA
 wordpress_id: 50
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- bisulfite conversion
-- DNA
+  - bisulfite conversion
+  - DNA
 ---
 
 After discussing with Steven, decided to use only samples from 20110513, due to high algae amounts present in the 20110519 samples.

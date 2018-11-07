@@ -8,15 +8,15 @@ slug: ram-upgrade-roadrunner-apple-xserve-to-48gb-ram
 title: RAM Upgrade - Roadrunner (Apple Xserve) to 48GB RAM
 wordpress_id: 2141
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- Apple
-- Mac
-- RAM
-- roadrunner
-- Xserve
+  - Apple
+  - Mac
+  - RAM
+  - roadrunner
+  - Xserve
 ---
 
 We received the new 48GB RAM set we ordered from Other World Computing for [the Apple Xserve (roadrunner) that I installed El Capitan (OS X 10.11.5) on two weeks ago](http://onsnetwork.org/kubu4/2016/05/31/computer-setup-cluster-node003-conversion/).

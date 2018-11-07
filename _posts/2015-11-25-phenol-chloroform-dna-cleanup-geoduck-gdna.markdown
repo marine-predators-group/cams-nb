@@ -8,18 +8,18 @@ slug: phenol-chloroform-dna-cleanup-geoduck-gdna
 title: Phenol-Chloroform DNA Cleanup - Geoduck gDNA
 wordpress_id: 1816
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- DNA Quantification
-- gDNA
-- geoduck
-- NanoDrop1000
-- Panopea generosa
-- phenol-chloroform cleanup
-- Quant-iT DNA BR Kit
-- Victor 1420 plate reader
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
+  - phenol-chloroform cleanup
+  - Quant-iT DNA BR Kit
+  - Victor 1420 plate reader
 ---
 
 The [gDNA I extracted on 20151104](http://onsnetwork.org/kubu4/2015/11/04/dna-quantification-quality-assessment-geoduck-oly-gdna/) didn't look great on the NanoDrop so I decided to perform a phenol-chloroform cleanup to see if I could improve the NanoDrop1000 absorbance spectrum and, in turn, the quality of the gDNA.

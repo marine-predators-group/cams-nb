@@ -8,21 +8,21 @@ slug: sdspagewestern-anti-hsp70-ab-re-test
 title: SDS/PAGE/Western - anti-HSP70 Ab Re-test
 wordpress_id: 1351
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- anti-HSP70
-- antibody
-- chemiluminescent
-- Coomassie
-- Crassostrea gigas
-- hemocyte
-- hemolymph
-- Pacific oyster
-- protein
-- SDS-PAGE
-- SeeBlue Plus
+  - anti-HSP70
+  - antibody
+  - chemiluminescent
+  - Coomassie
+  - Crassostrea gigas
+  - hemocyte
+  - hemolymph
+  - Pacific oyster
+  - protein
+  - SDS-PAGE
+  - SeeBlue Plus
 ---
 
 Another attempt to determine appropriate amounts of anti-HSP70 Ab [(ABR cat# MA3-006)](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Product%20Information%20Sheets/Antibodies/ABR%20-%20HSP70%20Ab.jpg)and/or protein needed for better detection of HSP70 in Gigas protein samples. Gigas gill protein extracts from 20080617 (both control and Vibrio exposure samples) were each pooled. The two samples were mixed with an equal volume of 2x sample reducing buffer. 100uL of hemolymph were extracted from Gigas muscles and mixed with an equal volume of 2x sample reducing buffer. Samples were boiled for 5mins. and loaded onto a Pierce 4-20% tris-hepes gel. Also loaded 10uL of SeeBlue ladder. Ran gel @ 150V for 45mins. Samples were transferred to nitrocellulose 20V for 30mins. Well locations were marked on the membrane with a pencil. Gel was stained with Coomassie stain for 30 mins and then destained with 10% acetic acid until bands were clearly visible.

@@ -8,19 +8,19 @@ slug: trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data-directio
 title: TrimGalore/FastQC/MultiQC – TrimGalore! RRBS Geoduck BS-seq FASTQ data (directional)
 wordpress_id: 3358
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BS-seq
-- FASTQC
-- geoduck
-- jupyter notebook
-- multiqc
-- Panopea generosa
-- roadrunner
-- RRBS
-- TrimGalore!
+  - BS-seq
+  - FASTQC
+  - geoduck
+  - jupyter notebook
+  - multiqc
+  - Panopea generosa
+  - roadrunner
+  - RRBS
+  - TrimGalore!
 ---
 
 [Earlier this week, I ran TrimGalore!, but set the trimming, incorrectly - due to a copy/paste mistake, as `--non-directional`](http://onsnetwork.org/kubu4/2018/05/16/trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data/), so I re-ran with the correct settings.

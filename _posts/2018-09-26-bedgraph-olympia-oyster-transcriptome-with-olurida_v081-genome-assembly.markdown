@@ -8,18 +8,18 @@ slug: bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly
 title: Bedgraph – Olympia oyster transcriptome with Olurida_v081 genome assembly
 wordpress_id: 3584
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bedgraph
-- bedtools
-- IGV
-- mox
-- Olurida_v081
-- olympia oyster
-- Ostrea lurida
-- transcriptome
+  - bedgraph
+  - bedtools
+  - IGV
+  - mox
+  - Olurida_v081
+  - olympia oyster
+  - Ostrea lurida
+  - transcriptome
 ---
 
 I took the sorted BAM file from [yesterday's corrected RNAseq genome alignment](http://onsnetwork.org/kubu4/2018/09/25/transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with-hisat2/) and converted it to a bedgraph using BEDTools genomeCoverageBed tool.

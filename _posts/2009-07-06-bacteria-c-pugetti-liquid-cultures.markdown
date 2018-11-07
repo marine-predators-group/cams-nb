@@ -8,14 +8,14 @@ slug: bacteria-c-pugetti-liquid-cultures
 title: Bacteria - C. pugetti liquid cultures
 wordpress_id: 971
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial culture
-- biphenyl
-- Cycloclasticus pugetii
-- marine broth
+  - bacterial culture
+  - biphenyl
+  - Cycloclasticus pugetii
+  - marine broth
 ---
 
 Inoculated 3 x 5mL Marine Broth + biphenyl crystals (UV sterilized) cultures from frozen stock in 50mL Falcon tubes. Incubated 200RPM, 28C. Will use these are starter cultures to inoculate larger cultures.

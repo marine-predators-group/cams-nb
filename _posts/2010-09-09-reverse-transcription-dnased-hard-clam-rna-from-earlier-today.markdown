@@ -8,20 +8,20 @@ slug: reverse-transcription-dnased-hard-clam-rna-from-earlier-today
 title: Reverse Transcription - DNased Hard Clam RNA from earlier today
 wordpress_id: 597
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- cDNA
-- DNased RNA
-- Hard clam
-- M-MLV
-- MA
-- MAX
-- Mercenaria mercenaria
-- oligo dT
-- reverse transcription
+  - CA
+  - cDNA
+  - DNased RNA
+  - Hard clam
+  - M-MLV
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - oligo dT
+  - reverse transcription
 ---
 
 Prepared cDNA using 1ug of RNA from each of the 3 pools (CA, MA, MAX) and processed according to Promega's M-MLV protocol, using oligo dT primers. [Calcs and master mix set up are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdEVLYTlhWlA3M0V0Y0luNzh3bU85SVE&hl=en&authkey=CKvPlt8G). Briefly, RNA was combined with oligo dT primers, denatured @ 70C for 5mins, immediately placed on ice for 2mins, mixed with RT master mix, incubated 1hr @ 42C, 3mins @ 95C, and then stored @ -20C.

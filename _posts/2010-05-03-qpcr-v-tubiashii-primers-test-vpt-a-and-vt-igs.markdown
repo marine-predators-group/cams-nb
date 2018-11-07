@@ -8,17 +8,17 @@ slug: qpcr-v-tubiashii-primers-test-vpt-a-and-vt-igs
 title: qPCR - V.tubiashii primers test (Vpt A and Vt IGS)
 wordpress_id: 660
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Immomix
-- qPCR
-- RE22
-- SYTO 13
-- Vibrio tubiashii
-- VptA
-- Vt IGS
+  - Immomix
+  - qPCR
+  - RE22
+  - SYTO 13
+  - Vibrio tubiashii
+  - VptA
+  - Vt IGS
 ---
 
 Utilized to sets of primers obtained from the Friedman Lab: VptA (referred to as "Hasegawa", even though the reference article calls the primers Vtp A) and Vt IGS (referred to as "Lee" primers, presumably from a published article). For template, used "RE22 DNA" that was given to me by Elene. Tube is dated 9/10/09 and has no indication of concentration. Performed qPCR on a set of 10-fold dilutions. [Plate layout/qPCR set up is here, along with dilution series used](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100503-01.jpg).

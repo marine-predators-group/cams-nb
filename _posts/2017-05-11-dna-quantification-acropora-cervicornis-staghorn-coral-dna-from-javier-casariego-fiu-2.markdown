@@ -9,17 +9,17 @@ title: DNA Quantification - Acropora cervicornis (Staghorn coral) DNA from Javie
   Casariego (FIU)
 wordpress_id: 2578
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2h Block 1
-- 2h Block 8
-- Acropora cervicornis
-- D35 Block 8
-- Qubit 3.0
-- Qubit dsDNA BR
-- Staghorn coral
+  - 2h Block 1
+  - 2h Block 8
+  - Acropora cervicornis
+  - D35 Block 8
+  - Qubit 3.0
+  - Qubit dsDNA BR
+  - Staghorn coral
 ---
 
 I quantified the three samples (listed below) that [I SpeedVac'd yesterday](http://onsnetwork.org/kubu4/2017/05/10/dna-concentration-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/) using the the Roberts Lab Qubit 3.0.

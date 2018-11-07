@@ -8,18 +8,18 @@ slug: dnase-treatment-mv-hemocyte-rna-from-earlier-today
 title: DNase Treatment - MV hemocyte RNA from earlier today
 wordpress_id: 1023
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea virginica
-- DNase
-- Eastern oyster
-- hemocyte
-- Martha's Vineyard
-- NanoDrop1000
-- RNA
-- Turbo DNA-free
+  - Crassostrea virginica
+  - DNase
+  - Eastern oyster
+  - hemocyte
+  - Martha's Vineyard
+  - NanoDrop1000
+  - RNA
+  - Turbo DNA-free
 ---
 
 The entire 20uL of RNA were treated with Ambion's Turbo DNA-free kit according to protocol and spec'd.

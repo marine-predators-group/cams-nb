@@ -9,17 +9,17 @@ title: qPCR - Detection of V.tubiashii Presence and Expression Using VtpA Primer
   in DNA/cDNA from yesterday
 wordpress_id: 241
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CFX96
-- Crassostrea gigas
-- larvae
-- Pacific oyster
-- qPCR
-- Vibrio tubiashii
-- VtpA
+  - CFX96
+  - Crassostrea gigas
+  - larvae
+  - Pacific oyster
+  - qPCR
+  - Vibrio tubiashii
+  - VtpA
 ---
 
 Ran qPCR with VtpA primers on cDNA and DNA (from yesterday) of C.gigas larvae to see levels of V.tubiashii compared to their water filter samples (see [20120326](/Sam%27s+Working+Notebook+January+-+March+2012#sjw20120326)). Master mix calcs are here. Plate layout, cycling params, etc can be seen in the qPCR Report (see Results). Used 1uL of cDNA and 100ng (1uL) of DNA as template.

@@ -8,16 +8,16 @@ slug: assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail
 title: Assembly - Geoduck Illumina NovaSeq SOAPdenovo2 on Mox (FAIL)
 wordpress_id: 3099
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- assembly
-- geoduck
-- mox
-- NovaSeq
-- Panopea generosa
-- SOAPdenovo2
+  - assembly
+  - geoduck
+  - mox
+  - NovaSeq
+  - Panopea generosa
+  - SOAPdenovo2
 ---
 
 Trying to get the NovaSeq data assembled using SOAPdenovo2 on the Mox HPC node we have and it will not work.

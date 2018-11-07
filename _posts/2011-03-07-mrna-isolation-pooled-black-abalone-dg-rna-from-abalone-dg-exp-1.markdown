@@ -8,19 +8,19 @@ slug: mrna-isolation-pooled-black-abalone-dg-rna-from-abalone-dg-exp-1
 title: mRNA Isolation - Pooled Black Abalone Dg RNA (from Abalone Dg Exp 1)
 wordpress_id: 406
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- black abalone
-- Dg
-- digestive gland
-- Haliotis cracherodii
-- Micro PolyA Purist
-- mRNA
-- mRNA enrichment
-- NanoDrop1000
-- RNA quantification
+  - black abalone
+  - Dg
+  - digestive gland
+  - Haliotis cracherodii
+  - Micro PolyA Purist
+  - mRNA
+  - mRNA enrichment
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 mRNA was isolated for SOLiD sequencing by HTGU. Made two pools of San Nick RNA (Control and Exposed) using equal amounts (5ug) of each individual sample. [Individual samples used can be found here](https://spreadsheets0.google.com/ccc?hl=en&key=t4HghspMlGPpaauScCdruFg&hl=en#gid=0). mRNA was isolated using Ambion's Micro PolyAPurist Kit according to protocol. Procedure was performed two times on each pool and then EtOH precipitated. Samples were resuspended in 10uL of The RNA Storage Solution provided in the kit and spec'd on the Roberts Lab ND1000. Samples were stored @ -80C in the "Next Gen Sequencing Libraries" box.

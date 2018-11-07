@@ -8,9 +8,9 @@ slug: sample-submission-olympia-oyster-pcrs-sanger-sequencing-3
 title: Sample Submission – Olympia oyster PCRs Sanger Sequencing
 wordpress_id: 1549
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia oyster reciprocal transplant
+  - Olympia oyster reciprocal transplant
 ---
 
 Submitted a plate of purified PCR products (PCR products prepared by Jake on [20150625](http://heareresearch.blogspot.com/2015/06/6-25-2015-flanking-pcr-pt-4.html)) that Jake set up 20150625, to the [UW High-Throughput Genomics Center](http://www.htseq.org/) for Sanger sequencing.

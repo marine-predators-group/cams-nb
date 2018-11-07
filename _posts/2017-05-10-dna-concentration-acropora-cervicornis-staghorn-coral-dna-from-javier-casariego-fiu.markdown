@@ -9,17 +9,17 @@ title: DNA Concentration - Acropora cervicornis (Staghorn coral) DNA from Javier
   (FIU)
 wordpress_id: 2573
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 2h Block 1
-- 2h Block 8
-- Acropora cervicornis
-- D35 Block 8
-- FIU
-- SpeedVac
-- Staghorn coral
+  - 2h Block 1
+  - 2h Block 8
+  - Acropora cervicornis
+  - D35 Block 8
+  - FIU
+  - SpeedVac
+  - Staghorn coral
 ---
 
 [Three samples (of the 62 total) that were quantified earlier today](http://onsnetwork.org/kubu4/2017/05/10/dna-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/), had concentrations too low for use in the methylation assay:

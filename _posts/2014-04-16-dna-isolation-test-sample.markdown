@@ -8,19 +8,19 @@ slug: dna-isolation-test-sample
 title: DNA Isolation - Test Sample
 wordpress_id: 143
 author:
-- kubu4
+  - kubu4
 categories:
-- Lineage-specific DNA methylation patterns in developing oysters
-- Miscellaneous
+  - Lineage-specific DNA methylation patterns in developing oysters
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNazol
-- female
-- gel
-- gonad
-- Pacific oyster
-- troubleshooting
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNazol
+  - female
+  - gel
+  - gonad
+  - Pacific oyster
+  - troubleshooting
 ---
 
 Due to the recent poor quality gDNA that has been isolated from C.gigas gonad, I decided to do a quick test using TE for DNA pellet resuspension in hopes that old Buffer EB (Qiagen) or old nuclease-free H2O (Promega) are to blame for the apparent, rapid degradation that I've experienced.

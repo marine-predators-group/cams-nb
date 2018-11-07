@@ -8,18 +8,18 @@ slug: restriction-digestions-hpaii-and-mspi-on-macs-c-gigas-samples-round-2
 title: 'Restriction Digestions - HpaII and MspI on Mac''s C.gigas Samples: Round 2'
 wordpress_id: 571
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- gill
-- gonad
-- HpaII
-- MspI
-- Pacific oyster
-- phenol-chloroform cleanup
-- restriction digestion
+  - Crassostrea gigas
+  - gill
+  - gonad
+  - HpaII
+  - MspI
+  - Pacific oyster
+  - phenol-chloroform cleanup
+  - restriction digestion
 ---
 
 Continued with 2nd round of digestions from yesterday. All samples were resuspended in 25uL of H2O yesterday, so brought volume up to 44uL with H2O, added 5uL of appropriate 10X Buffer (HpaII = NEB Buffer #4, MspI = NEB Buffer #1), added 1uL of enzyme, incubated 37C for 3hrs. Heat-inactivated all samples @ -80C for 30 mins.

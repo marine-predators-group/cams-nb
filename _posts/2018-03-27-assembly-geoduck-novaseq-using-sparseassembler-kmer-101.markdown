@@ -8,15 +8,15 @@ slug: assembly-geoduck-novaseq-using-sparseassembler-kmer-101
 title: Assembly - Geoduck NovaSeq using SparseAssembler kmer = 101
 wordpress_id: 3154
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- geoduck
-- NovaSeq
-- Panopea generosa
-- QUAST
-- SparseAssembler
+  - geoduck
+  - NovaSeq
+  - Panopea generosa
+  - QUAST
+  - SparseAssembler
 ---
 
 The [prior run used a kmer size of 61](http://onsnetwork.org/kubu4/2018/03/22/assembly-geoduck-novaseq-using-sparseassembler-tldr-it-worked/), and the resulting assembly was rather poor (small N50).

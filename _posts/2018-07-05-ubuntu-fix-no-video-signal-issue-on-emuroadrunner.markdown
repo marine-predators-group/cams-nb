@@ -8,17 +8,17 @@ slug: ubuntu-fix-no-video-signal-issue-on-emuroadrunner
 title: Ubuntu - Fix "No Video Signal" Issue on Emu/Roadrunner
 wordpress_id: 3420
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- emu
-- grub
-- Remmina
-- remote dekstop
-- roadrunner
-- ubuntu
-- Xserve
+  - emu
+  - grub
+  - Remmina
+  - remote dekstop
+  - roadrunner
+  - ubuntu
+  - Xserve
 ---
 
 Both Apple Xserves (Emu/Roadrunner) running Ubuntu (16.04LTS) experienced the same issue - the monitor would indicate "No Video Signal", would go dark, and wasn't responsive to keyboard/mouse movements. However, you _could_ ssh into both machines w/o issue.

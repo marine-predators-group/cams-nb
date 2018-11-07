@@ -8,16 +8,16 @@ slug: computing-oly-bgi-gbs-reproducibility-fail
 title: Computing - Oly BGI GBS Reproducibility Fail
 wordpress_id: 2509
 author:
-- kubu4
+  - kubu4
 categories:
-- Genotype-by-sequencing at BGI
+  - Genotype-by-sequencing at BGI
 tags:
-- BGI
-- GBS
-- genotype-by-sequencing
-- iTools
-- olympia oyster
-- Ostrea lurida
+  - BGI
+  - GBS
+  - genotype-by-sequencing
+  - iTools
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Since we're preparing a manuscript that relies on BGI's manipulation/handling of the genotype-by-sequencing data, I attempted to could reproduce the demultiplexing steps that BGI used in order to perform the SNP/genotyping on these samples.

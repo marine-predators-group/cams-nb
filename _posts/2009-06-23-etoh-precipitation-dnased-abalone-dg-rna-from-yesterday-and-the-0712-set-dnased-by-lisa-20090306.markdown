@@ -9,19 +9,19 @@ title: EtOH Precipitation - DNased Abalone Dg RNA from yesterday AND the 07:12 s
   (DNased by Lisa 20090306)
 wordpress_id: 999
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 07:12
-- black abalone
-- Dg
-- digestive gland
-- DNased RNA
-- EtOH precipitation
-- Haliotis cracherodii
-- NanoDrop1000
-- RNA quantification
+  - 07:12
+  - black abalone
+  - Dg
+  - digestive gland
+  - DNased RNA
+  - EtOH precipitation
+  - Haliotis cracherodii
+  - NanoDrop1000
+  - RNA quantification
 ---
 
 Due to the excessive number of times that these samples have been DNased, I'm concerned that the buffer is becoming too concentrated. So, I'm performing an EtOH precip on them to clean them up and then proceed with another round of DNase treatment.

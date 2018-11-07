@@ -8,14 +8,14 @@ slug: reverse-transcription-dnased-c-gigas-larval-rna-from-20120427
 title: Reverse Transcription - DNased C.gigas Larval RNA from 20120427
 wordpress_id: 243
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- M-MLV
-- reverse transcription
-- RNA
-- Vibrio tubiashii
+  - M-MLV
+  - reverse transcription
+  - RNA
+  - Vibrio tubiashii
 ---
 
 Performed reverse transcription using random primers (Promega) diluted 1:100 (5ng/uL) with 175ng of DNased total RNA. Random primers were used because we will be targeting V.tubiashii RNA instead of eukaryotic RNA. Reverse transcription was performed with M-MLV Reverse Transcriptase (Promega) according to the manufacturer's protocol. [Calcs are here](http://Calcs%20are%20here.%20%20).

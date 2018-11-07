@@ -8,15 +8,15 @@ slug: software-installation-repeatmasker-v4-0-7-on-emuroadrunner
 title: Software Installation - RepeatMasker v4.0.7 on Emu/Roadrunner
 wordpress_id: 3361
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- emu
-- RepeatMasker
-- roadrunner
-- TE
-- transposable elements
+  - emu
+  - RepeatMasker
+  - roadrunner
+  - TE
+  - transposable elements
 ---
 
 [Steven asked that I re-run some Olympia oyster transposable elements analysis](https://github.com/RobertsLab/resources/issues/265) using RepeatMasker and a newer version of our Olympia oyster genome assembly.

@@ -8,16 +8,16 @@ slug: data-management-geoduck-phase-genomics-hi-c-data
 title: Data Management - Geoduck Phase Genomics Hi-C Data
 wordpress_id: 3295
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Samples Received
+  - Geoduck Genome Sequencing
+  - Samples Received
 tags:
-- assembly
-- geoduck
-- Hi-C
-- Panopea generosa
-- phase genomics
+  - assembly
+  - geoduck
+  - Hi-C
+  - Panopea generosa
+  - phase genomics
 ---
 
 We received sequencing/assembly data from Phase Genomics.

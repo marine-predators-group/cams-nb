@@ -8,19 +8,19 @@ slug: ethanol-precipitation-full-length-pgs1-cdna-from-20110921
 title: Ethanol Precipitation - Full-length PGS1 cDNA (from 20110921)
 wordpress_id: 300
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA
-- DNA Quantification
-- EtOH precipitation
-- NanoDrop1000
-- Pacific oyster
-- PGS
-- PGS1
-- prostaglandin synthase
+  - Crassostrea gigas
+  - DNA
+  - DNA Quantification
+  - EtOH precipitation
+  - NanoDrop1000
+  - Pacific oyster
+  - PGS
+  - PGS1
+  - prostaglandin synthase
 ---
 
 Performed an EtOH on gel-purified PCR products from 20110921. Briefly, added 0.1 vols of 3M sodium acetate (pH=5.2; 43uL), mixed and then added 2.5 vols of 100% EtOH (1182.5uL). Mixed, split into two tubes (due to high volume not fitting in a single tube) and incubated @ -80C O/N. Pelleted DNA 16,000g, 20mins, 4C. Discarded supe. Washed pellet w/ 1mL 70% EtOH. Pelleted DNA 16,000g, 15mins, 4C. Discarded supe. Resuspended both pellets in a TOTAL of 25uL Qiagen Buffer EB (10mM Tris-HCl) and spec'd.

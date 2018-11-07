@@ -8,15 +8,15 @@ slug: qpcr-test-young-lab-qpcr-calibration-repeat-2
 title: qPCR - Test Young Lab qPCR Calibration (Repeat)
 wordpress_id: 482
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- ABI 7300
-- gDNA
-- qPCR
-- troubleshooting
-- Young Lab
+  - ABI 7300
+  - gDNA
+  - qPCR
+  - troubleshooting
+  - Young Lab
 ---
 
 This was repeated from earlier today due to the failure of the previous run, but had to use new gDNA since I ran out of the stock I had previously used. M[aster mix calcs and cycling params are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110208-01.jpg).

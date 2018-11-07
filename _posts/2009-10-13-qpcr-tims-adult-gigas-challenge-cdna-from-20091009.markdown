@@ -8,21 +8,21 @@ slug: qpcr-tims-adult-gigas-challenge-cdna-from-20091009
 title: qPCR - Tim's adult gigas challenge cDNA (from 20091009)
 wordpress_id: 822
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- cDNA
-- Crassostrea gigas
-- expression analysis
-- graphs
-- HIF1
-- Immomix
-- Pacific oyster
-- Postaglandin E2
-- qPCR
-- SYTO 13
-- Vibrio tubiashii
+  - cDNA
+  - Crassostrea gigas
+  - expression analysis
+  - graphs
+  - HIF1
+  - Immomix
+  - Pacific oyster
+  - Postaglandin E2
+  - qPCR
+  - SYTO 13
+  - Vibrio tubiashii
 ---
 
 Set up qPCR with Cg_HIF1 (hypoxia induced factor 1) primers and prostaglandin E2 primers. [Plate layout/setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091012-01.jpg).

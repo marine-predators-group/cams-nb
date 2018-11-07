@@ -8,16 +8,16 @@ slug: rna-isolation-v-tubiashii-from-challenge-see-20081216
 title: RNA Isolation - V. tubiashii from challenge (see 20081216)
 wordpress_id: 1343
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- MICROBExpress Kit
-- NanoDrop1000
-- RNA isolation
-- RNA quantification
-- TriReagent
-- Vibrio tubiashii
+  - MICROBExpress Kit
+  - NanoDrop1000
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - Vibrio tubiashii
 ---
 
 Added 10mL TriReagent to 2 x 50mL pellets (5.63 x 10^11 total bacteria; see calcs on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the control samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Added 10mL TriReagent to 1 x 50mL pellet (1.835 x 10^12 total bacteria; see calcs on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the V.tubi + oyster samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Scaled rest of RNA protocol to match. Resuspended pellets in 100uL 0.1%DEPC-H2O. Samples were NanoDropped.

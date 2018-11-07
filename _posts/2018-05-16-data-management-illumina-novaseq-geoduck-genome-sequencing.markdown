@@ -8,17 +8,17 @@ slug: data-management-illumina-novaseq-geoduck-genome-sequencing
 title: Data Management - Illumina NovaSeq Geoduck Genome Sequencing
 wordpress_id: 3345
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- 10x genomics
-- geoduck
-- Hi-C
-- Illumina
-- nightingales
-- NovaSeq
-- Panopea generosa
+  - 10x genomics
+  - geoduck
+  - Hi-C
+  - Illumina
+  - nightingales
+  - NovaSeq
+  - Panopea generosa
 ---
 
 As part of the Illumina collaborative geoduck genome sequencing project, their end goal has always been to sequence the genome in a single run.
@@ -78,7 +78,7 @@ Will add info to:
 
 List of files received:
 
-```
+[code lang=text]
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L001_R1_001.fastq.gz
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L001_R2_001.fastq.gz
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L002_R1_001.fastq.gz
@@ -151,4 +151,4 @@ Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L001_R1_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L001_R2_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L002_R1_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L002_R2_001.fastq.gz
-```
+[/code]

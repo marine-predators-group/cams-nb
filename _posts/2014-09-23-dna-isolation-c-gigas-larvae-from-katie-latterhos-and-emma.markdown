@@ -8,16 +8,16 @@ slug: dna-isolation-c-gigas-larvae-from-katie-latterhos-and-emma
 title: DNA Isolation - C.gigas Larvae from Katie Latterhos and Emma
 wordpress_id: 114
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- larvae
-- OA
-- ocean acidification
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - larvae
+  - OA
+  - ocean acidification
 ---
 
 Isolated gDNA from two C.gigas larvae samples (stored in RNA Later) from Katie Latterhos:

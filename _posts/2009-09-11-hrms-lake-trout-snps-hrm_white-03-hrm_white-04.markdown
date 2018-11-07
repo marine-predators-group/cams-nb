@@ -8,15 +8,15 @@ slug: hrms-lake-trout-snps-hrm_white-03-hrm_white-04
 title: HRMs - Lake Trout SNPs (HRM_white-03 & HRM_white-04)
 wordpress_id: 870
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- high resolution melt curve
-- HRM
-- lake trout
-- LTP01
-- SNPs
+  - high resolution melt curve
+  - HRM
+  - lake trout
+  - LTP01
+  - SNPs
 ---
 
 #### HRM_white-03

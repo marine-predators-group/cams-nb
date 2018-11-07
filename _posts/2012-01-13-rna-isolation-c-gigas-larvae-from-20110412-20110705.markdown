@@ -8,19 +8,19 @@ slug: rna-isolation-c-gigas-larvae-from-20110412-20110705
 title: RNA Isolation - C.gigas Larvae from 20110412 & 20110705
 wordpress_id: 285
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- larvae
-- NanoDrop1000
-- Pacific oyster
-- RNA
-- RNA isolation
-- RNA quantification
-- TriReagent
-- troubleshooting
+  - Crassostrea gigas
+  - larvae
+  - NanoDrop1000
+  - Pacific oyster
+  - RNA
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
+  - troubleshooting
 ---
 
 RNA was isolated from C.gigas larvae collected from Taylor Shellfish hatchery on the dates noted above. Samples were in RNA Later. RNA Later was removed. Attempted homogenization with a pestle proved futile, as a significant quantity of larvae were sticking to the pestle and were nearly impossible to wash off using TriReagent as a rinsing agent. Due to this, all samples were vortexed for 1min in 1mL of TriReagent. It should be noted that the TriReagent took on a cloudy appearance and even showed some separation into two layers upon letting the samples sit. This was not normal and I was immediately concerned about the high salt content from residual RNA Later. Samples were treated normally with the following changes:

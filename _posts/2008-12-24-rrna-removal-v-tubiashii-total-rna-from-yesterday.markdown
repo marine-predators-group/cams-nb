@@ -8,17 +8,17 @@ slug: rrna-removal-v-tubiashii-total-rna-from-yesterday
 title: rRNA Removal - V. tubiashii total RNA from yesterday
 wordpress_id: 1341
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- MICROBExpress Kit
-- NanoDrop1000
-- RNA
-- RNA quantification
-- rRNA
-- total RNA
-- Vibrio tubiashii
+  - MICROBExpress Kit
+  - NanoDrop1000
+  - RNA
+  - RNA quantification
+  - rRNA
+  - total RNA
+  - Vibrio tubiashii
 ---
 
 rRNA removal was continued from O/N precipitation. Processed the samples according to the [Ambion MICROBExpress Kit protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MICROBexpress%20bacterial%20mRNA%20kit.pdf) and resuspended final pellets in 25uL of The RNA Storage Solution. Samples were spec'd on the NanoDrop.

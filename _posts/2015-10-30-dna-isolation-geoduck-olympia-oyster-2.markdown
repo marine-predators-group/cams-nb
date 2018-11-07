@@ -8,19 +8,19 @@ slug: dna-isolation-geoduck-olympia-oyster-2
 title: DNA Isolation – Geoduck & Olympia Oyster
 wordpress_id: 1743
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- DNA Isolation
-- DNA Quantification
-- gDNA
-- geoduck
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - DNA Isolation
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 Amazingly, we need more gDNA for the two genome sequencing projects (geoduck and Olympia oyster). Used geoduck adductor muscle sample from Box 1 of the geoduck [samples collected by Brent & Steven on 20150811.](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) Used Olympia oyster ctenidia from Box 1 of [adductor muscle sample collected by Brent & Steven on 20150812.](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/)

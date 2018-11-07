@@ -9,16 +9,16 @@ title: Bisulfite Conversion - LSU C.virginica Oil Spill MBD DNA and Emma's C.gig
   Larvae OA DNA
 wordpress_id: 65
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
-- LSU C.virginica Oil Spill MBD BS Sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - LSU C.virginica Oil Spill MBD BS Sequencing
 tags:
-- bisulfite conversion
-- Crassostrea gigas
-- Crassostrea virginica
-- Eastern oyster
-- MBD-Seq
+  - bisulfite conversion
+  - Crassostrea gigas
+  - Crassostrea virginica
+  - Eastern oyster
+  - MBD-Seq
 ---
 
 Performed bisulfite conversion on MBD DNA samples from LSU C.virginica oil spill samples (see [201411202](/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141202) and [20141126](/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141126)) and Emma's C.gigas larvae OA DNA samples (see 20141121) with the Methylamp DNA Modification Kit (Epigentek).

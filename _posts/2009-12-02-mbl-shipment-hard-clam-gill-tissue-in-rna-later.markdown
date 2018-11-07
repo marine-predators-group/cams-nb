@@ -8,21 +8,21 @@ slug: mbl-shipment-hard-clam-gill-tissue-in-rna-later
 title: MBL Shipment - Hard Clam gill tissue in RNA Later
 wordpress_id: 778
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- BX
-- FL
-- gill
-- Hard clam
-- Marine Biological Laboratories
-- MBL
-- Mercenaria mercenaria
-- package
-- RNAlater
-- Scott Lindell
-- scudders
+  - BX
+  - FL
+  - gill
+  - Hard clam
+  - Marine Biological Laboratories
+  - MBL
+  - Mercenaria mercenaria
+  - package
+  - RNAlater
+  - Scott Lindell
+  - scudders
 ---
 
 Received samples from Scott Lindell today. Two Ziplock bags taped together labelled "11/16/09 Clams scudders." The bags contain 2mL screw cap tubes with small tissue samples in RNA later. One group of tubes is labelled with FL-3 # and the other group with BX-4 #. Samples will be stored at 4C to be processed later this month.

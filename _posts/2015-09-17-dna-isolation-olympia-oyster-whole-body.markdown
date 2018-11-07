@@ -8,18 +8,18 @@ slug: dna-isolation-olympia-oyster-whole-body
 title: DNA Isolation - Olympia oyster whole body
 wordpress_id: 1621
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- DNA Isolation
-- DNA Quantification
-- E.Z.N.A. Mollusc Kit
-- gDNA
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
+  - DNA Isolation
+  - DNA Quantification
+  - E.Z.N.A. Mollusc Kit
+  - gDNA
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Continued [the extractions that Steven began yesterday](http://onsnetwork.org/halfshell/2015/09/15/upon-improving-extractions/) and [this morning](http://onsnetwork.org/halfshell/2015/09/16/running-the-numbers/) using the E.Z.N.A. Mollusc DNA Kit (Omega Bio-Tek) after the RNase treatment @ 70C.

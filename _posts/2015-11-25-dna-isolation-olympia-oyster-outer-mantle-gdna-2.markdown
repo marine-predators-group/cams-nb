@@ -8,21 +8,21 @@ slug: dna-isolation-olympia-oyster-outer-mantle-gdna-2
 title: DNA Isolation - Olympia Oyster Outer Mantle gDNA
 wordpress_id: 1834
 author:
-- kubu4
+  - kubu4
 categories:
-- Olympia Oyster Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- chloroform
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- gDNA
-- mantle
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- Qubit 3.0
-- Qubit dsDNA BR
+  - chloroform
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - gDNA
+  - mantle
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - Qubit 3.0
+  - Qubit dsDNA BR
 ---
 
 Isolated additional gDNA for the genome sequencing. To try to improve the quality (260/280 & 260/230 ratios) of the gDNA, I added a chloroform step after the initial tissue homogenization.

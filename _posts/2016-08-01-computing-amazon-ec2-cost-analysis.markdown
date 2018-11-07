@@ -8,13 +8,13 @@ slug: computing-amazon-ec2-cost-analysis
 title: Computing - Amazon EC2 Cost "Analysis"
 wordpress_id: 2244
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- computing
-- EC2
-- Xserve
+  - computing
+  - EC2
+  - Xserve
 ---
 
 I recently moved some computing jobs over to Amazon's Elastic Cloud Computing (EC2) in attempt to avoid some odd computing issues/errors I kept encountering on our lab computers (Apple Xserve 3,1).

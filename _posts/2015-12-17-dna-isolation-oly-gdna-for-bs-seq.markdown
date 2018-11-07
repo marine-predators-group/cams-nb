@@ -8,39 +8,39 @@ slug: dna-isolation-oly-gdna-for-bs-seq
 title: DNA Isolation - Oly gDNA for BS-seq
 wordpress_id: 1867
 author:
-- kubu4
+  - kubu4
 categories:
-- BS-seq Libraries for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - BS-seq Libraries for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 1NF11
-- 1NF12
-- 1NF13
-- 1NF14
-- 1NF15
-- 1NF16
-- 1NF17
-- 1NF18
-- 2NF1
-- 2NF2
-- 2NF3
-- 2NF4
-- 2NF5
-- 2NF6
-- 2NF7
-- 2NF8
-- BS-seq
-- chloroform
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- Fidalgo Bay
-- olympia oyster
-- Ostrea lurida
-- Oyster Bay
-- Qubit 3.0
-- Qubit dsDNA BR
-- RNAse A
+  - 1NF11
+  - 1NF12
+  - 1NF13
+  - 1NF14
+  - 1NF15
+  - 1NF16
+  - 1NF17
+  - 1NF18
+  - 2NF1
+  - 2NF2
+  - 2NF3
+  - 2NF4
+  - 2NF5
+  - 2NF6
+  - 2NF7
+  - 2NF8
+  - BS-seq
+  - chloroform
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - Fidalgo Bay
+  - olympia oyster
+  - Ostrea lurida
+  - Oyster Bay
+  - Qubit 3.0
+  - Qubit dsDNA BR
+  - RNAse A
 ---
 
 Need DNA to prep our own libraries for bisulfite-treated high-throughput sequencing (BS-seq).

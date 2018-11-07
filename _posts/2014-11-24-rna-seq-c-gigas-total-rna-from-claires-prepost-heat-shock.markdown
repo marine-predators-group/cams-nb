@@ -8,20 +8,20 @@ slug: rna-seq-c-gigas-total-rna-from-claires-prepost-heat-shock
 title: RNA Seq - C.gigas Total RNA from Claire's Pre/Post Heat Shock
 wordpress_id: 79
 author:
-- kubu4
+  - kubu4
 categories:
-- Samples Submitted
+  - Samples Submitted
 tags:
-- 2M
-- 2M-HS
-- 4M
-- 4M-HS
-- 6M
-- 6M-HS
-- Crassostrea gigas
-- heat shock
-- RNA
-- RNA-seq
+  - 2M
+  - 2M-HS
+  - 4M
+  - 4M-HS
+  - 6M
+  - 6M-HS
+  - Crassostrea gigas
+  - heat shock
+  - RNA
+  - RNA-seq
 ---
 
 Shipped (dry ice) ~15ug of total RNA from each of the following samples to Genewiz, Inc for high throughput transcriptomic sequencing (Illumina HiSeq2500, 100bp, single end).

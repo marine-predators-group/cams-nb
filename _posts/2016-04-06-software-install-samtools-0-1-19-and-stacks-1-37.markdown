@@ -8,15 +8,15 @@ slug: software-install-samtools-0-1-19-and-stacks-1-37
 title: Software Install - samtools-0.1.19 and stacks-1.37
 wordpress_id: 2070
 author:
-- kubu4
+  - kubu4
 categories:
-- Computer Servicing
+  - Computer Servicing
 tags:
-- ipython notebook
-- jupyter notebook
-- samtools
-- software install
-- stacks
+  - ipython notebook
+  - jupyter notebook
+  - samtools
+  - software install
+  - stacks
 ---
 
 Getting ready to analyze our _Ostrea lurida_ genotype-by-sequencing data and wanted to use the Stacks software.

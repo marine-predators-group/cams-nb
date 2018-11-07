@@ -8,16 +8,16 @@ slug: transcriptome-assembly-geoduck-rnaseq-data
 title: Transcriptome Assembly - Geoduck RNAseq data
 wordpress_id: 3533
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- geoduck
-- mox
-- Panopea generosa
-- RNAseq
-- Trimmomatic
-- trinity
+  - geoduck
+  - mox
+  - Panopea generosa
+  - RNAseq
+  - Trimmomatic
+  - trinity
 ---
 
 Used all of our current geoduck RNAseq data to assemble a transcriptome using Trinity.

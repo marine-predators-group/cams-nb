@@ -8,20 +8,20 @@ slug: adaptor-ligation-oly-alfi-digested-gdna-for-rad-seq-2
 title: Adaptor Ligation – Oly AlfI-Digested gDNA for RAD-seq
 wordpress_id: 1719
 author:
-- kubu4
+  - kubu4
 categories:
-- 2bRAD Library Tests for Sequencing at Genewiz
-- Olympia oyster reciprocal transplant
+  - 2bRAD Library Tests for Sequencing at Genewiz
+  - Olympia oyster reciprocal transplant
 tags:
-- 3ILL-NR
-- 5ILL-NR
-- anti-ILL
-- ligation
-- olympia oyster
-- Ostrea lurida
-- PTC-200
-- RAD-seq
-- T4 DNA Ligase
+  - 3ILL-NR
+  - 5ILL-NR
+  - anti-ILL
+  - ligation
+  - olympia oyster
+  - Ostrea lurida
+  - PTC-200
+  - RAD-seq
+  - T4 DNA Ligase
 ---
 
 Continued to follow the [2bRAD protocol (PDF) developed by Eli Meyer’s lab](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).

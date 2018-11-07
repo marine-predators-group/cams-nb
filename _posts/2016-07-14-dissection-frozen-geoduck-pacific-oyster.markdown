@@ -8,16 +8,16 @@ slug: dissection-frozen-geoduck-pacific-oyster
 title: Dissection - Frozen Geoduck & Pacific Oyster
 wordpress_id: 2204
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Crassostrea gigas
-- dissection
-- DNR
-- geoduck
-- Pacific oyster
-- Panopea generosa
+  - Crassostrea gigas
+  - dissection
+  - DNR
+  - geoduck
+  - Pacific oyster
+  - Panopea generosa
 ---
 
 We're working on a project with Washington Department of Natural Resources' (DNR) Micah Horwith to identify potential proteomic biomarkers in geoduck (_Panopea generosa_) and  Pacific oyster (_Crassostrea gigas_). One aspect of the project is how to best conduct sampling of juvenile geoduck (Panopea generosa) and Pacific oyster (Crassostrea gigas) to minimize changes in the proteome of ctenidia tissue during sampling. Generally, live animals are shucked, tissue dissected, and then the tissue is "snap" frozen. However, Micah's crew will be collecting animals from wild sites around Puget Sound and, because of the remote locations and the means of collection, will have limited tools and time to perform this type of sampling. Time is a significant component that will have great impact on proteomic status in each individual.

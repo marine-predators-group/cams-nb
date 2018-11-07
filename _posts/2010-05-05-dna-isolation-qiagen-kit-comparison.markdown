@@ -8,15 +8,15 @@ slug: dna-isolation-qiagen-kit-comparison
 title: DNA Isolation - Qiagen Kit Comparison
 wordpress_id: 655
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- DNeasy
-- gDNA
-- gel
-- Hyperladder I
-- troubleshooting
+  - DNeasy
+  - gDNA
+  - gel
+  - Hyperladder I
+  - troubleshooting
 ---
 
 Note: This information was added 20140407. Yes, you read that correctly.

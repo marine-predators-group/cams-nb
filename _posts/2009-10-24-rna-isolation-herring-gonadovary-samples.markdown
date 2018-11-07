@@ -8,17 +8,17 @@ slug: rna-isolation-herring-gonadovary-samples
 title: RNA Isolation - Herring Gonad/Ovary Samples
 wordpress_id: 810
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gonad
-- NanoDrop1000
-- ovary
-- Pacific herring
-- RNA isolation
-- RNA quantification
-- TriReagent
+  - gonad
+  - NanoDrop1000
+  - ovary
+  - Pacific herring
+  - RNA isolation
+  - RNA quantification
+  - TriReagent
 ---
 
 RNA was isolated according to protocol. Pellets were resuspended in 50uL of 0.1%DEPC-H2O, heated @ 55C for 5 mins, spec'd and stored @ -80C in the "Herring RNA Box #1".

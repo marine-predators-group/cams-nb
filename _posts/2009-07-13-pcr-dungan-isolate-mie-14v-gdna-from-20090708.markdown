@@ -8,16 +8,16 @@ slug: pcr-dungan-isolate-mie-14v-gdna-from-20090708
 title: PCR - Dungan isolate (MIE-14v) gDNA from 20090708
 wordpress_id: 955
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Dungan
-- Euk
-- gel
-- LABY
-- MIE-14v
-- PCR
+  - Dungan
+  - Euk
+  - gel
+  - LABY
+  - MIE-14v
+  - PCR
 ---
 
 PCR of MIE-14v just to make sure that we can't get a product from this sample, despite NanoDrop readings suggesting that there's no DNA. Used both LABY and Euk primer sets. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090713-02.jpg). Anneal temp 50C.

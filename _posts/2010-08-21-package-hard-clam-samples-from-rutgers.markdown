@@ -8,17 +8,17 @@ slug: package-hard-clam-samples-from-rutgers
 title: Package - Hard Clam Samples from Rutgers
 wordpress_id: 605
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- CA
-- Hard clam
-- hemolymph
-- MA
-- MAX
-- Mercenaria mercenaria
-- Rutgers
+  - CA
+  - Hard clam
+  - hemolymph
+  - MA
+  - MAX
+  - Mercenaria mercenaria
+  - Rutgers
 ---
 
 Rec'd package of hard clam samples from Emily @ Rutgers on wet ice. Package contained numerous 1.5mL snap cap tubes separated in to groups in zip lock bags. Stored temporarily @ 4C. Will catalog and then store @ -80C.

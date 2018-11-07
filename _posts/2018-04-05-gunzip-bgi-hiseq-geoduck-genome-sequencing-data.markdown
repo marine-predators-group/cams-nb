@@ -8,15 +8,15 @@ slug: gunzip-bgi-hiseq-geoduck-genome-sequencing-data
 title: 'Gunzip - BGI HiSeq Geoduck Genome Sequencing Data '
 wordpress_id: 3210
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- BGI
-- geoduck
-- gunzip
-- mox
-- Panopea generosa
+  - BGI
+  - geoduck
+  - gunzip
+  - mox
+  - Panopea generosa
 ---
 
 In preparation to run SpareAssembler, I needed to gunzip the [BGI gzipped FASTQ files from 20180327](http://onsnetwork.org/kubu4/2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data/).

@@ -8,21 +8,21 @@ slug: restriction-digests-various-gigas-gdnas-of-macs
 title: Restriction Digests - Various gigas gDNAs of Mac's
 wordpress_id: 617
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 5-azacitidine
-- Crassostrea gigas
-- DNA Quantification
-- EtOH precipitation
-- gDNA
-- HpaII
-- larvae
-- MspI
-- NanoDrop1000
-- Pacific oyster
-- restriction digestion
+  - 5-azacitidine
+  - Crassostrea gigas
+  - DNA Quantification
+  - EtOH precipitation
+  - gDNA
+  - HpaII
+  - larvae
+  - MspI
+  - NanoDrop1000
+  - Pacific oyster
+  - restriction digestion
 ---
 
 Performed restriction digests. Made dilutions of all DNAs involved of 25ng/uL. Made enough for a total of 9 digests could be performed on each DNA. This allowed using 10uL of each DNA for each rxn, more mileage out of the lowest concentration sample (R37-01), and allowed for the use of master mixes when preparing the digests. [All calculations/dilutions/master mixes can be seen here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdGdTZUJBQW8yT0ZjMkF3QzZ4U2dMNEE&hl=en&authkey=CN7umpIO). Each DNA was digested individually with HpaII, MspI and undigested. Incubated the digests 4hrs @ 37C. After digestion, performed an EtOH precipitation. Added 0.1 vols of 3M NaOAc (pH=5.2), then 2.5 vols of 100% EtOH. Mixed by inversion and incubated 30mins @ -20C. Pelleted DNA 16,000g, 30mins @ 4C. Discarded supe. Washed pellets with 1mL 70% EtOH. Pelleted DNA 16,000g, 15mins, 4C. Discarded supe. Resuspended DNA in 10uL PCR H2O and spec'd.

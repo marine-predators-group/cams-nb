@@ -8,19 +8,19 @@ slug: dna-quantification-quality-assessment-geoduck-oly-gdna
 title: DNA Quantification & Quality Assessment - Geoduck & Oly gDNA
 wordpress_id: 1759
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
-- Olympia Oyster Genome Sequencing
+  - Geoduck Genome Sequencing
+  - Olympia Oyster Genome Sequencing
 tags:
-- bioanalyzer
-- DNA Quantification
-- gDNA
-- geoduck
-- NanoDrop1000
-- olympia oyster
-- Ostrea lurida
-- Panopea generosa
+  - bioanalyzer
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - olympia oyster
+  - Ostrea lurida
+  - Panopea generosa
 ---
 
 Quantified the following samples with the Roberts Lab NanoDrop1000 (ThermoFisher) and assessed DNA integrity on the Seeb Lab Bioanalyzer 2100 (Agilent) using the DNA 12000 chip assay:

@@ -8,27 +8,27 @@ slug: solid-library-prep-mrna-perch-lake-trout-herring-from-20100318-fragmentati
 title: SOLiD Library Prep - mRNA (perch, lake trout, herring from 20100318) Fragmentation
 wordpress_id: 692
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- 1 G/O HPWS09
-- CT
-- lake trout
-- Lean
-- library prep
-- mRNA
-- Pacific herring
-- PQ
-- Ribominus Concentration Module Kit
-- RNA fragmentation
-- Sisco
-- siscowet
-- SOLiD
-- SOLiD libraries
-- WB
-- Whole Transcriptome Analysis Kit
-- yellow perch
+  - 1 G/O HPWS09
+  - CT
+  - lake trout
+  - Lean
+  - library prep
+  - mRNA
+  - Pacific herring
+  - PQ
+  - Ribominus Concentration Module Kit
+  - RNA fragmentation
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - Whole Transcriptome Analysis Kit
+  - yellow perch
 ---
 
 Fragmented mRNA according to Ambion's Whole Transcriptome Sequencing Kit. Cleaned up sample using Ribominus Concentration Module (Invitrogen) according to Ambion's WTS Analysis Kit. Samples were eluted w/20uL of H2O and stored @ -80C. Will Bioanalyze and speedvac at a later date.

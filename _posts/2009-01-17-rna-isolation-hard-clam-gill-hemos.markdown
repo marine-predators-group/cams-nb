@@ -8,17 +8,17 @@ slug: rna-isolation-hard-clam-gill-hemos
 title: RNA Isolation - Hard clam gill, hemos
 wordpress_id: 1209
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- gill
-- Hard clam
-- hemocyte
-- Mercenaria mercenaria
-- NanoDrop1000
-- RNA isolation
-- RNA quantification
+  - gill
+  - Hard clam
+  - hemocyte
+  - Mercenaria mercenaria
+  - NanoDrop1000
+  - RNA isolation
+  - RNA quantification
 ---
 
 RNA was isolated from hard clam gill (0.08g; from [20090109](/Sam%27s+Notebook#sjw20090109)) and from hard clam hemos (from [20090114](/Sam%27s+Notebook#sjw20090114)). One "unknown" sample (from 20090114) was also processed. Pellets were resuspended in 50uL of 0.1%DEPC-H2O. Hemo samples were pooled. Samples were spec'd.

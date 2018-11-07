@@ -8,15 +8,15 @@ slug: rna-isolation-herring-liver-samples-lhpws09-1-6
 title: RNA Isolation - Herring Liver Samples (LHPWS09 1-6)
 wordpress_id: 818
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- liver
-- Pacific herring
-- RNA
-- RNA isolation
-- TriReagent
+  - liver
+  - Pacific herring
+  - RNA
+  - RNA isolation
+  - TriReagent
 ---
 
 From Seeb Lab. Homogenized entire liver samples in 5mL of TriReagent with the Tissue Tearers. In essence, based on the manufacturer's recommendation, this means the ratio of tissue:TriReagent was ~2x. Transferred 0.5mL of homogenized liver sample to 1.5mL snap cap tubes and added an additional 0.5mL of TriReagent, to adjust the ratio of tissue: TriReagent to ~1x. Samples were then stored @ -80C. These will be further processed once all remaining liver samples have been homogenized inTriReagent.

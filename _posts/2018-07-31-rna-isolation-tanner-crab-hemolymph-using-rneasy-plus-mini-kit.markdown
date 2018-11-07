@@ -8,19 +8,19 @@ slug: rna-isolation-tanner-crab-hemolymph-using-rneasy-plus-mini-kit
 title: RNA Isolation - Tanner Crab Hemolymph Using RNeasy Plus Mini Kit
 wordpress_id: 3465
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- Chionoecetes bairdi
-- hemolymph
-- NanoDrop1000
-- Qubit 3.0
-- Qubit RNA HS
-- RNA
-- RNA isolation
-- RNeasy Plus Mini
-- tanner crab
+  - Chionoecetes bairdi
+  - hemolymph
+  - NanoDrop1000
+  - Qubit 3.0
+  - Qubit RNA HS
+  - RNA
+  - RNA isolation
+  - RNeasy Plus Mini
+  - tanner crab
 ---
 
 Tanner crab RNA has proved [a bit troublesome](http://onsnetwork.org/kubu4/2018/07/19/rna-cleanup-tanner-crab-rna-pools/). As such, [Steven asked me to try isolating some RNA using the RNeasy Plus Mini Kit (Qiagen)](https://github.com/RobertsLab/resources/issues/327) to see how things would turn out.

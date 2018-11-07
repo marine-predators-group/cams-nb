@@ -8,16 +8,16 @@ slug: trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued
 title: TrimGalore!/FastQC/MultiQC - Illumina HiSeq Genome Sequencing Data Continued
 wordpress_id: 3179
 author:
-- kubu4
+  - kubu4
 categories:
-- Geoduck Genome Sequencing
+  - Geoduck Genome Sequencing
 tags:
-- FASTQC
-- geoduck
-- mox
-- multiqc
-- Panopea generosa
-- TrimGalore!
+  - FASTQC
+  - geoduck
+  - mox
+  - multiqc
+  - Panopea generosa
+  - TrimGalore!
 ---
 
 The [previous attempt at this](http://onsnetwork.org/kubu4/2018/03/28/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data/) was interrupted by a random glitch with our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).

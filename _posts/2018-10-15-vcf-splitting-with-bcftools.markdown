@@ -8,14 +8,14 @@ slug: vcf-splitting-with-bcftools
 title: VCF Splitting with bcftools
 wordpress_id: 3624
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- .vcf
-- bcftools
-- htslib
-- tabix
+  - .vcf
+  - bcftools
+  - htslib
+  - tabix
 ---
 
 [Steven asked for some help trying to split a VCF in to individual VCF files](https://github.com/RobertsLab/resources/issues/421).

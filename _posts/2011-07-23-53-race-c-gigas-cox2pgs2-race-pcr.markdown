@@ -8,21 +8,21 @@ slug: 53-race-c-gigas-cox2pgs2-race-pcr
 title: 5'/3' RACE - C.gigas COX2/PGS2 RACE PCR
 wordpress_id: 327
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- COX
-- COX2
-- Crassostrea gigas
-- cyclooxygenase
-- gel
-- Pacific oyster
-- PGS
-- PGS2
-- prostaglandin synthase
-- RACE PCR
-- SMART RACE
+  - COX
+  - COX2
+  - Crassostrea gigas
+  - cyclooxygenase
+  - gel
+  - Pacific oyster
+  - PGS
+  - PGS2
+  - prostaglandin synthase
+  - RACE PCR
+  - SMART RACE
 ---
 
 Additional RACE using gene specific primers (SR IDs: 1347 & 1348) for C.gigas COX2/PGS2 according to Clontech's SMARTer cDNA RACE Kit protocol. 3'/5' RACE cDNA libraries are from 20080619. [Master mix calcs and set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110722-01.jpg). Cycling params followed "Program 2" of the Clontech protocol and are as follows:

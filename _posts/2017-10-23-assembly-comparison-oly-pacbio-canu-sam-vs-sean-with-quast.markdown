@@ -8,9 +8,9 @@ slug: assembly-comparison-oly-pacbio-canu-sam-vs-sean-with-quast
 title: 'Assembly Comparison - Oly PacBio Canu: Sam vs. Sean with Quast'
 wordpress_id: 2817
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 ---
 
 [I recently finished an assembly of our Olympia oyster PacBio data using Canu](http://onsnetwork.org/kubu4/2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6/) and thought it would be interesting to compare to [Sean's Canu assembly](https://genefish.wordpress.com/2017/06/19/seans-notebook-canu-run-finished/).

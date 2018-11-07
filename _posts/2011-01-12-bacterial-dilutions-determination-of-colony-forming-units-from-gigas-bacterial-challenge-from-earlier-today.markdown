@@ -9,16 +9,16 @@ title: Bacterial Dilutions - Determination of Colony Forming Units from Gigas Ba
   challenge (from earlier today)
 wordpress_id: 502
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bacterial challenge
-- CFU
-- colony forming units
-- Crassostrea gigas
-- Pacific oyster
-- Vibrio vulnificus
+  - bacterial challenge
+  - CFU
+  - colony forming units
+  - Crassostrea gigas
+  - Pacific oyster
+  - Vibrio vulnificus
 ---
 
 All dilutions were performed with 1x LB+ 1%NaCl. 100uL were plated of all dilutions (see below) on 1xLB+1%NaCL plates. Plates were incubated O/N @ 37C. Colonies will be counted tomorrow to determine CFU for each sample.

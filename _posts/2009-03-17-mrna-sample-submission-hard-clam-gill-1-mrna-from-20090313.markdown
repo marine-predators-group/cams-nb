@@ -8,21 +8,21 @@ slug: mrna-sample-submission-hard-clam-gill-1-mrna-from-20090313
 title: 'mRNA Sample Submission Hard clam gill #1 mRNA from 20090313'
 wordpress_id: 1165
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- bioanalyzer
-- gill
-- graph
-- Hard clam
-- Mercenaria mercenaria
-- mRNA
-- RNA quantification
-- SR01
-- SR02
-- SR03
-- SR04
+  - bioanalyzer
+  - gill
+  - graph
+  - Hard clam
+  - Mercenaria mercenaria
+  - mRNA
+  - RNA quantification
+  - SR01
+  - SR02
+  - SR03
+  - SR04
 ---
 
 Submitted four samples (4uL of each) for Agilent Bioanlyzer:

@@ -8,16 +8,16 @@ slug: dna-isolation-c-gigas-larvae-from-emma-oa-experiments
 title: DNA Isolation - C.gigas Larvae from Emma OA Experiments
 wordpress_id: 81
 author:
-- kubu4
+  - kubu4
 categories:
-- Crassostrea gigas larvae OA (2011) bisulfite sequencing
+  - Crassostrea gigas larvae OA (2011) bisulfite sequencing
 tags:
-- Crassostrea gigas
-- DNA Isolation
-- DNA Quantification
-- DNazol
-- larvae
-- OA
+  - Crassostrea gigas
+  - DNA Isolation
+  - DNA Quantification
+  - DNazol
+  - larvae
+  - OA
 ---
 
 Isolated gDNA using DNazol from the following larval samples for potential MBD selection and bisulfite sequencing:

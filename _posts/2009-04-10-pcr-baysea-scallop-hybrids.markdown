@@ -8,18 +8,18 @@ slug: pcr-baysea-scallop-hybrids
 title: PCR - Bay/Sea scallop hybrids
 wordpress_id: 1133
 author:
-- kubu4
+  - kubu4
 categories:
-- Miscellaneous
+  - Miscellaneous
 tags:
-- actin
-- Argopecten irradians
-- bay scallop
-- gDNA
-- gel
-- PCR
-- Placopecten magellanicus
-- sea scallop
+  - actin
+  - Argopecten irradians
+  - bay scallop
+  - gDNA
+  - gel
+  - PCR
+  - Placopecten magellanicus
+  - sea scallop
 ---
 
 Because Rony's results from her PCR did not match her previous results for the positive controls, I ran the PCRs myself on the controls and the hybrids. Anneal temp 50C. [PCR set up, samples, etc. are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090410-01.jpg).

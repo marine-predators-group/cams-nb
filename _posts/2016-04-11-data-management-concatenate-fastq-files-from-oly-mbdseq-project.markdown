@@ -8,16 +8,16 @@ slug: data-management-concatenate-fastq-files-from-oly-mbdseq-project
 title: Data Management - Concatenate FASTQ files from Oly MBDseq Project
 wordpress_id: 2078
 author:
-- kubu4
+  - kubu4
 categories:
-- MBD Enrichment for Sequencing at ZymoResearch
-- Olympia oyster reciprocal transplant
+  - MBD Enrichment for Sequencing at ZymoResearch
+  - Olympia oyster reciprocal transplant
 tags:
-- ipython notebook
-- jupyter notebook
-- MBD-Seq
-- olympia oyster
-- Ostrea lurida
+  - ipython notebook
+  - jupyter notebook
+  - MBD-Seq
+  - olympia oyster
+  - Ostrea lurida
 ---
 
 Steven requested I concatenate [the MBDseq files we received for this project](http://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq/):
