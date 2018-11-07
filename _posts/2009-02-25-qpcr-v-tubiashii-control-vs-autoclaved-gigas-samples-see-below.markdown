@@ -12,7 +12,7 @@ author:
 categories:
   - Miscellaneous
 tags:
-  - 16s
+  - '16s'
   - cDNA
   - DNased RNA
   - OmpW

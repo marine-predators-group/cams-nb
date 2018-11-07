@@ -12,7 +12,7 @@ author:
 categories:
   - Miscellaneous
 tags:
-  - 16s
+  - '16s'
   - DNased RNA
   - Opticon2
   - qPCR

@@ -13,7 +13,7 @@ author:
 categories:
   - Miscellaneous
 tags:
-  - 16s
+  - '16s'
   - Opticon2
   - qPCR
   - SensiMix

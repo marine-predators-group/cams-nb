@@ -12,8 +12,8 @@ author:
 categories:
   - Miscellaneous
 tags:
-  - 2-1
-  - 2-2
+  - '2-1'
+  - '2-2'
   - mass spec
   - protein
   - Vibrio tubiashii
