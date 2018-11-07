@@ -24,7 +24,7 @@ See the [GitHub Wiki dedicated to this for an overview of this UW PacBio sequenc
 
 I downloaded the data to [http://owl.fish.washington.edu/nightingales/O_lurida/20170323_pacbio/](http://owl.fish.washington.edu/nightingales/O_lurida/20170323_pacbio/) using the required browser plugin, Aspera Connect. Technically, saving the data to a subfolder within a given species' data folder goes against our [data management plan (DMP) for high-throughput sequencing data](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan), but the sequencing data output is far different than what we normally receive from an Illumina sequencing run. Instead of a just FASTQ files, we received the following from each PacBio SMRT cell we had run (we had 10 SMRT cells run):
 
-[code lang=text]
+```
 ├── Analysis_Results
 │   ├── m170211_224036_42134_c101073082550000001823236402101737_s1_X0.1.bax.h5
 │   ├── m170211_224036_42134_c101073082550000001823236402101737_s1_X0.2.bax.h5
@@ -172,7 +172,7 @@ I downloaded the data to [http://owl.fish.washington.edu/nightingales/O_lurida/2
 ├── filtered_subreads.fastq.gz
 ├── m170211_224036_42134_c101073082550000001823236402101737_s1_X0.metadata.xml
 └── nocontrol_filtered_subreads.fasta.gz
-[/code]
+```
 
 That's 20 directories and 127 files - for a single SMRT cell!
 
