@@ -1,0 +1,42 @@
+---
+author: kubu4
+comments: true
+date: 2015-10-05 23:32:15+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2015/10/05/dna-quantification-pooled-geoduck-gdna/
+slug: dna-quantification-pooled-geoduck-gdna
+title: DNA Quantification - Pooled geoduck gDNA
+wordpress_id: 1706
+author:
+  - kubu4
+categories:
+  - Geoduck Genome Sequencing
+tags:
+  - DNA Quantification
+  - gDNA
+  - geoduck
+  - NanoDrop1000
+  - Panopea generosa
+---
+
+Pooled the gDNA samples [from earlier today](http://onsnetwork.org/kubu4/2015/10/05/gdna-isolation-geoduck-adductor-muscle/) & [from 20151002](http://onsnetwork.org/kubu4/2015/10/02/dna-isolation-geoduck-olympia-oyster/).
+
+The pooled volume = 260μL
+
+Quantified on the Roberts Lab NanoDrop1000.
+
+Results:
+
+[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)
+
+[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)
+
+
+
+Besides the weird peak at 240nm, everything looks great - perfect 260/280 & 260/230 ratios.
+
+Yield = 75.92μg
+
+This gDNA has been RNase treated, so the concentration should be semi-accurate. Regardless, even if there's a discrepancy of 50%, this should provide enough additional DNA for BGI to work with.
+
+Will run on gel to evaluate integrity and then send to BGI.

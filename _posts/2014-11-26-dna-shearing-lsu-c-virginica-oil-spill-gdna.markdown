@@ -1,0 +1,35 @@
+---
+author: kubu4
+comments: true
+date: 2014-11-26 06:28:18+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2014/11/25/dna-shearing-lsu-c-virginica-oil-spill-gdna/
+slug: dna-shearing-lsu-c-virginica-oil-spill-gdna
+title: DNA Shearing - LSU C.virginica Oil Spill gDNA
+wordpress_id: 77
+author:
+  - kubu4
+categories:
+  - LSU C.virginica Oil Spill MBD BS Sequencing
+tags:
+  - Crassostrea virginica
+  - DNA Shearing
+  - Eastern oyster
+  - MBD-Seq
+---
+
+Used the remainder of the "sheared" samples (see today's earlier entry; ~2750ng). Brought the volumes up to 80uL and transferred to 0.5mL snap cap tubes. The volume of 80uL was selected because it's above the minimum volume required for shearing in 0.5mL tubes (10uL according to the Biorupter 300 manual) and the MethylMiner Kit (Invitrogen) requires the input DNA volume to be <= 80uL.
+
+DNA was sheared with the following parameters:
+
+Low power
+
+30 cycles of:
+
+30s on
+
+30s off
+
+Target average fragment size is ~350bp.
+
+See tomorrow (20141126) for the gel.

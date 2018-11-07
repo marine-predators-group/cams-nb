@@ -1,0 +1,21 @@
+---
+author: kubu4
+comments: true
+date: 2012-02-09 01:49:54+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2012/02/08/reverse-transcription-c-gigas-larvae-dnased-rna-from-20120125/
+slug: reverse-transcription-c-gigas-larvae-dnased-rna-from-20120125
+title: Reverse Transcription - C.gigas larvae DNased RNA (from 20120125)
+wordpress_id: 275
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - DNased RNA
+  - M-MLV
+  - reverse transcription
+  - Vibrio tubiashii
+---
+
+Performed reverse transcription on Dnased RNA from 20120125 using 175ng RNA from each sample. Also used random primers (instead of the usual Oligo dT primers) since these samples will also be used to analyze gene expression in Vibrio tubiashii. [cDNA calcs are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdGRzRHRNV3RrQ3BDM2ViRXZ0ZDZGR1E&hl=en_US#gid=0).

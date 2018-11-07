@@ -1,0 +1,57 @@
+---
+author: kubu4
+comments: true
+date: 2009-12-30 23:28:28+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/12/30/qpcrs-bb-dh-cdna-from-20091223/
+slug: qpcrs-bb-dh-cdna-from-20091223
+title: qPCRs - BB & DH cDNA (from 20091223)
+wordpress_id: 726
+author:
+  - kubu4
+categories:
+  - PROPS
+tags:
+  - BB
+  - Crassostrea gigas
+  - DEF1
+  - DH
+  - Opticon2
+  - Pacific oyster
+  - qPCR
+  - RETST
+  - SEMSA
+  - TIMP3
+---
+
+qPCR was set up on these cDNAs using the following primers:
+
+AJ582629.p.cg.6 ("DEF1", "Defensin 1") - This was upregulated in BB SOLiD data.
+
+CB617519.p.cg.6 ("RETST", "All-trans retinol") - This was upregulated in BB SOLiD data.
+
+[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-01.jpg).
+
+Results:
+
+qPCR Data File (Opticon): [20091230_173747.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_173747.tad)
+
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+
+
+
+
+
+qPCR was set up on these cDNAs using the following primers:
+
+CU684779.p.cg.6 ("SEMSA", "Semaphorin-SA") - This was upregulated in BB SOLiD data.
+
+FP004879.p.cg.6 ("TIMP3", "Metalloproteinase inhibitor 3") - This was upregulated in BB SOLiD data.
+
+[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-02.jpg).
+
+Results:
+
+qPCR Data File (Opticon): [20091230_143643.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_143643.tad)
+
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)

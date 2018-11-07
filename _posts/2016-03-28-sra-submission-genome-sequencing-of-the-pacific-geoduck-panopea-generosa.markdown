@@ -1,0 +1,48 @@
+---
+author: kubu4
+comments: true
+date: 2016-03-28 20:48:14+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2016/03/28/sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa/
+slug: sra-submission-genome-sequencing-of-the-pacific-geoduck-panopea-generosa
+title: SRA Submission – Genome sequencing of the Pacific geoduck (Panopea generosa)
+wordpress_id: 2062
+author:
+  - kubu4
+categories:
+  - Geoduck Genome Sequencing
+  - SRA Submissions
+tags:
+  - geoduck
+  - NCBI
+  - Panopea generosa
+  - SRA
+  - SRP072453
+---
+
+Adding our geoduck genome sequencing (sequencing done by BGI) to the NCBI Sequence Read Archive (SRS). The current status can be seen in the screen cap below. Release date is set for a year from now, but will likely bump it up. Need Steven to review the details of the submission (BioProject, Experiment descriptions, etc.) before I initiate the public release. Will update this post with the SRA number once we receive it.
+
+Here’s the list of files uploaded to the SRA:
+
+151114_I191_FCH3Y35BCXX_L1_wHAIPI023989-79_1.fq.gz
+151114_I191_FCH3Y35BCXX_L1_wHAIPI023989-79_2.fq.gz
+151122_I136_FCH3L2FBBXX_L7_wHAXPI023990-97_1.fq.gz
+151122_I136_FCH3L2FBBXX_L7_wHAXPI023990-97_2.fq.gz
+160103_I137_FCH3V5YBBXX_L3_WHPANwalDDAADWAAPEI-101_1.fq.gz
+160103_I137_FCH3V5YBBXX_L3_WHPANwalDDAADWAAPEI-101_2.fq.gz
+160103_I137_FCH3V5YBBXX_L4_WHPANwalDDAADWAAPEI-101_1.fq.gz
+160103_I137_FCH3V5YBBXX_L4_WHPANwalDDAADWAAPEI-101_2.fq.gz
+160103_I137_FCH3V5YBBXX_L5_WHPANwalDDABDLAAPEI-100_1.fq.gz
+160103_I137_FCH3V5YBBXX_L5_WHPANwalDDABDLAAPEI-100_2.fq.gz
+160103_I137_FCH3V5YBBXX_L5_WHPANwalDDACDTAAPEI-102_1.fq.gz
+160103_I137_FCH3V5YBBXX_L5_WHPANwalDDACDTAAPEI-102_2.fq.gz
+160103_I137_FCH3V5YBBXX_L6_WHPANwalDDABDLAAPEI-100_1.fq.gz
+160103_I137_FCH3V5YBBXX_L6_WHPANwalDDABDLAAPEI-100_2.fq.gz
+151114_I191_FCH3Y35BCXX_L2_wHAMPI023988-81_1.fq.gz
+151114_I191_FCH3Y35BCXX_L2_wHAMPI023988-81_2.fq.gz
+160103_I137_FCH3V5YBBXX_L6_WHPANwalDDACDTAAPEI-102_1.fq.gz
+160103_I137_FCH3V5YBBXX_L6_WHPANwalDDACDTAAPEI-102_2.fq.gz
+
+Mate pair sequencing files were uploaded together within a single “Run”.
+
+[![](http://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)

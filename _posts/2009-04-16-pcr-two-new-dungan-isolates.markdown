@@ -1,0 +1,31 @@
+---
+author: kubu4
+comments: true
+date: 2009-04-16 19:02:43+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/04/16/pcr-two-new-dungan-isolates/
+slug: pcr-two-new-dungan-isolates
+title: PCR - Two new Dungan isolates
+wordpress_id: 1117
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - AmpliTaq
+  - Dungan isolates
+  - gel
+  - PCR
+---
+
+Repeat of yesterday's PCR, but with AmpliTaq, less gDNA and 50uL rxn volume. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090416-01.jpg).
+
+![](http://eagle.fish.washington.edu/Arabidopsis/20090416-02.JPG)
+
+Gel loaded and run by Steven. Not entirely sure of the loading order. However, it doesn't really matter...
+
+Results: Still absolutely nothing.
+
+
+
+**UPDATE**: Noticed on 20090713 that the reactions didn't have dNTPs. Probably explains why it didn't work!

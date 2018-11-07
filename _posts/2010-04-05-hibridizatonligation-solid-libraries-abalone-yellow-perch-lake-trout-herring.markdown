@@ -1,0 +1,39 @@
+---
+author: kubu4
+comments: true
+date: 2010-04-05 17:30:24+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2010/04/05/hibridizatonligation-solid-libraries-abalone-yellow-perch-lake-trout-herring/
+slug: hibridizatonligation-solid-libraries-abalone-yellow-perch-lake-trout-herring
+title: Hibridizaton/Ligation SOLiD Libraries - Abalone, Yellow Perch, Lake Trout,
+  Herring
+wordpress_id: 680
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - 1 G/O HPWS09
+  - black abalone
+  - Carmel
+  - CC
+  - CE
+  - CT
+  - Haliotis cracherodii
+  - hybridization
+  - lake trout
+  - Lean
+  - library prep
+  - ligation
+  - Pacific herring
+  - PQ
+  - Sisco
+  - siscowet
+  - SOLiD
+  - SOLiD libraries
+  - WB
+  - Whole Transcriptome Analysis Kit
+  - yellow perch
+---
+
+All 8 samples were hybridized/ligated according to Ambion's Whole Transcriptome Analysis Kit using Adaptor A.

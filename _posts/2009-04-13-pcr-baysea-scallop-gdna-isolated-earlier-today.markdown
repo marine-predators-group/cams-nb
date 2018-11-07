@@ -1,0 +1,50 @@
+---
+author: kubu4
+comments: true
+date: 2009-04-13 23:04:34+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/04/13/pcr-baysea-scallop-gdna-isolated-earlier-today/
+slug: pcr-baysea-scallop-gdna-isolated-earlier-today
+title: PCR - Bay/Sea scallop gDNA isolated earlier today
+wordpress_id: 1131
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - actin
+  - Argopecten irradians
+  - bay scallop
+  - gel
+  - PCR
+  - Placopecten magellanicus
+  - sea scallop
+---
+
+Used 3 sets of reverse primers:
+
+Bay_Actin_Rv0
+
+Bay_Actin_Rv2
+
+Sea_Actin_Rv2
+
+Primers were slected based on information from Steven's notebook (#8, 12/30/2007-1/3/2008). Anneal temp 53C.
+
+[PCR set up here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090413-01.jpg) . [Plate layout here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090413-02.jpg) .
+
+Samples were run out by Steven the following day.
+
+Gel 1 of 3
+
+![](http://eagle.fish.washington.edu/Arabidopsis/20090413-02.JPG)
+
+Gel 2 of 3
+
+![](http://eagle.fish.washington.edu/Arabidopsis/20090413-03.JPG)
+
+Gel 3 of 3
+
+![](http://eagle.fish.washington.edu/Arabidopsis/20090413-04.JPG)
+
+Results:

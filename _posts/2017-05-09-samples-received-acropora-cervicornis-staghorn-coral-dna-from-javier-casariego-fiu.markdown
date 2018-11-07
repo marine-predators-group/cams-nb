@@ -1,0 +1,28 @@
+---
+author: kubu4
+comments: true
+date: 2017-05-09 13:55:09+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2017/05/09/samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/
+slug: samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu
+title: Samples Received - Acropora cervicornis (Staghorn coral) DNA from Javier Casariego
+  (FIU)
+wordpress_id: 2566
+author:
+  - kubu4
+categories:
+  - Samples Received
+tags:
+  - Acropora cervicornis
+  - DNA
+  - FIU
+  - Staghorn coral
+---
+
+Received 62 coral (_Acropora cervicornis_) DNA samples from Javier Casariego at FIU.
+
+Spreadsheet of samples and NanoDrop concentrations provided by Javier (converted to Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+
+Samples were temporarily stored at 4c (in FTR 213) until I can perform global methylation assessment on them tomorrow.
+
+[![](http://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)

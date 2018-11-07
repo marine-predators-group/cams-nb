@@ -1,0 +1,27 @@
+---
+author: kubu4
+comments: true
+date: 2009-04-10 23:07:51+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/04/10/pcr-old-dungan-isolates-1-35-weukab-primers/
+slug: pcr-old-dungan-isolates-1-35-weukab-primers
+title: 'PCR - Old Dungan isolates #1-35 w/EukA/B primers'
+wordpress_id: 1135
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - Dungan isolates
+  - Euk
+  - gel
+  - PCR
+---
+
+Steven had me re-PCR the old Dungan isolates with the new EukA/B primers. Anneal temp 50C. [PCR set up here (bottom half of sheet)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090410-01.jpg) .
+
+NOTE: Sample #30 was not in the rack of tubes that Steven gave to me.
+
+![](http://eagle.fish.washington.edu/Arabidopsis/20090410-01.jpg)
+
+Results:
