@@ -1,0 +1,23 @@
+---
+author: kubu4
+comments: true
+date: 2009-02-25 02:05:48+00:00
+layout: post
+link: http://onsnetwork.org/kubu4/2009/02/24/reverse-transcription-v-tubiashii-dnased-rna-from-yesterday/
+slug: reverse-transcription-v-tubiashii-dnased-rna-from-yesterday
+title: Reverse Transcription - V.tubiashii DNAsed RNA (from yesterday)
+wordpress_id: 1181
+author:
+  - kubu4
+categories:
+  - Miscellaneous
+tags:
+  - cDNA
+  - DNased RNA
+  - M-MLV
+  - random primers
+  - reverse transcription
+  - Vibrio tubiashii
+---
+
+Set up the MMLV RT rxns with random primers using ~833ng DNAsed RNA (prepared yesterday) according to the [Promega MMLV Product Insert](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Product%20Information%20Sheets/Promega%20-%20MMLV%20RT.pdf). This procedure is slightly different than what is in our lab protocol for RT rxns. [Here is the workup for the rxns](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090224-1.jpg). cDNA was stored @ -20C in the "Vibrio" box.
