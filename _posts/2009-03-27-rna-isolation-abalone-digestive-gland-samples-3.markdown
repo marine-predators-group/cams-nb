@@ -12,7 +12,7 @@ author:
 categories:
   - Miscellaneous
 tags:
-  - 08:3
+  - '08:3'
   - black abalone
   - Dg
   - digestive gland
