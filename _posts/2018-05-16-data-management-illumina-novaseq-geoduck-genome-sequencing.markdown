@@ -78,7 +78,7 @@ Will add info to:
 
 List of files received:
 
-[code lang=text]
+```
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L001_R1_001.fastq.gz
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L001_R2_001.fastq.gz
 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10_L002_R1_001.fastq.gz
@@ -151,4 +151,5 @@ Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L001_R1_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L001_R2_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L002_R1_001.fastq.gz
 Trueseq-stranded-mRNA-libraries-GeoRNA8-H1-NR021_S5_L002_R2_001.fastq.gz
-[/code]
+```
+
