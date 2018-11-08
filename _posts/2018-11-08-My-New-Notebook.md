@@ -30,7 +30,7 @@ Getting things up and running just to begin posting wasn't terribly difficult. I
 
 However, trying to get all my posts moved over from [my onsnetwork notebook](onsnetwork.org/kubu4) was a bit more challenging. I exported my notebook (which is Wordpress) to an XML file and used the [Exitwp](https://github.com/thomasf/exitwp) program to convert to Jekyll (the backend software that runs on GitHub Pages to generate the site) markdown files. The conversion hit some snags that I still haven't resolved:
 
-![](../images/screencaps/20181107_001.png)
+![](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20181107_001.png)
 
 I'll have to manually transfer the content of those two posts.
 
