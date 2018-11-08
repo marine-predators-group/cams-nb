@@ -27,7 +27,7 @@ Have moved on to trying PyRAD in the meantime.
 
 Need to get the [GBS from BGI data analyzed.](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015)
 
-[Installed Stacks (and its dependencies on Hummingbird earlier today)](http://onsnetwork.org/kubu4/2016/04/06/software-install-samtools-0-1-19-and-stacks-1-37/).
+[Installed Stacks (and its dependencies on Hummingbird earlier today)](2016/04/06/software-install-samtools-0-1-19-and-stacks-1-37.html).
 
 Below is the Jupyter (iPython) notebook I ran to perform this analysis.
 

@@ -21,7 +21,7 @@ tags:
   - RNA quantification
 ---
 
-[DNased RNA from 07272015](http://onsnetwork.org/kubu4/2015/07/27/dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna/) was quantified using the Roberts Lab NanoDrop1000.
+[DNased RNA from 07272015](2015/07/27/dnase-treatment-o-lurida-ctenidia-1hr-post-mechanical-stress-rna.html) was quantified using the Roberts Lab NanoDrop1000.
 
 
 

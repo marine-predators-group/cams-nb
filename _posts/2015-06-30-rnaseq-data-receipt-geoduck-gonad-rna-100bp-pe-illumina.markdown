@@ -20,7 +20,7 @@ tags:
   - RNA-seq
 ---
 
-Received notification that the [samples sent on 20150601 for RNAseq](http://onsnetwork.org/kubu4/2015/06/01/sample-submission-geoduck-gonad-for-rna-seq/) were completed.
+Received notification that the [samples sent on 20150601 for RNAseq](2015/06/01/sample-submission-geoduck-gonad-for-rna-seq.html) were completed.
 
 Downloaded the following files from the GENEWIZ servers using FileZilla FTP and stored them on our server ([owl/web/nightingales/P_generosa](http://owl.fish.washington.edu/nightingales/P_generosa/)):
 

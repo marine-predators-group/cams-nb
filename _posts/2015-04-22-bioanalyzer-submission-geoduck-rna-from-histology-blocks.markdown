@@ -19,7 +19,7 @@ tags:
   - RNA
 ---
 
-Submitted 3μL (~75ng) of RNA from each of [the two gonad samples isolated from foot tissue embedded in paraffin histology blocks 20150408](http://onsnetwork.org/kubu4/2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks/) (to assess quality of RNA) to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](http://depts.washington.edu/ceeh/members/core-services.html):
+Submitted 3μL (~75ng) of RNA from each of [the two gonad samples isolated from foot tissue embedded in paraffin histology blocks 20150408](2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks.html) (to assess quality of RNA) to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](http://depts.washington.edu/ceeh/members/core-services.html):
 
 
 

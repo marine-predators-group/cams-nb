@@ -21,7 +21,7 @@ tags:
   - Qubit dsDNA BR
 ---
 
-I isolated DNA from [the _Crassotrea virginica_ gonad samples sent by Katie Lotterhos](http://onsnetwork.org/kubu4/2017/10/03/samples-received-c-virginica-gonad-tissue-from-katie-lotterhos/) using the E.Z.N.A. Mollusc Kit with the following modifications:
+I isolated DNA from [the _Crassotrea virginica_ gonad samples sent by Katie Lotterhos](2017/10/03/samples-received-c-virginica-gonad-tissue-from-katie-lotterhos.html) using the E.Z.N.A. Mollusc Kit with the following modifications:
 
 
 

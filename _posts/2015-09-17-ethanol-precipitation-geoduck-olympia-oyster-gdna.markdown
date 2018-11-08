@@ -21,7 +21,7 @@ tags:
   - Panopea generosa
 ---
 
-Pooled all of the geoduck gDNA from all the previous geoduck isolations for the [Geoduck Genome Sequencing Project](http://onsnetwork.org/kubu4/category/geoduck-genome-sequencing/) and pooled all of the _Ostrea lurida_ gDNA from previous Ostrea lurida isolations for the [Olympia Oyster Genome Sequencing Project](http://onsnetwork.org/kubu4/category/olympia-oyster-genome-sequencing/).
+Pooled all of the geoduck gDNA from all the previous geoduck isolations for the [Geoduck Genome Sequencing Project](category/geoduck-genome-sequencing.html) and pooled all of the _Ostrea lurida_ gDNA from previous Ostrea lurida isolations for the [Olympia Oyster Genome Sequencing Project](category/olympia-oyster-genome-sequencing.html).
 
 Both sets of gDNA were ethanol (EtOH) precipitated. This was done for two reasons - to concentrate the samples to the minimum necessary concentration required by BGI (>119ng/μL) and to try to improve the poor 260/230 ratios (which are likely due to high salt carryover).
 

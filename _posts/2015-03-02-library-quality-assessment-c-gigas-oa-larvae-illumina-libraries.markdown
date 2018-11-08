@@ -24,7 +24,7 @@ tags:
   - University of Oregon
 ---
 
-Ran the [400ppm library](http://onsnetwork.org/kubu4/2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification/) and the [1000ppm library](http://onsnetwork.org/kubu4/2015/02/27/bs-seq-library-prep-c-gigas-larvae-oa-1000ppm/) preps on a DNA1000 Assay Chip (Agilent) on the Agilent 2100 Bioanalyzer.
+Ran the [400ppm library](2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification.html) and the [1000ppm library](2015/02/27/bs-seq-library-prep-c-gigas-larvae-oa-1000ppm.html) preps on a DNA1000 Assay Chip (Agilent) on the Agilent 2100 Bioanalyzer.
 
 
 

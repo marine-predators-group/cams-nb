@@ -18,7 +18,7 @@ tags:
   - MethylMiner Methylated DNA Enrichment Kit
 ---
 
-Continued MBD enrichment for _C.virginica_ and Qiagen project [from yesterday](http://onsnetwork.org/kubu4/2018/01/08/mbd-enrichment…ared-dna-day-1/).
+Continued MBD enrichment for _C.virginica_ and Qiagen project [from yesterday](2018/01/08/mbd-enrichment…ared-dna-day-1.html).
 
 Followed the MethylMiner Methylated DNA Enrichment Kit (Invitrogen) manufacturer's protocol for input DNA amounts of 1 -10ug (I am using 8ug in each of two samples).
 

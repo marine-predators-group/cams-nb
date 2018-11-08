@@ -18,4 +18,4 @@ tags:
   - Panopea generosa
 ---
 
-Sent 10μg of [the geoduck gDNA I isolated earlier today](http://onsnetwork.org/kubu4/2017/01/05/dna-isolation-geoduck-gdna-for-illumina-initiated-sequencing-project/) to Illumina on dry ice via FedEx Standard Overnight service.
+Sent 10μg of [the geoduck gDNA I isolated earlier today](2017/01/05/dna-isolation-geoduck-gdna-for-illumina-initiated-sequencing-project.html) to Illumina on dry ice via FedEx Standard Overnight service.

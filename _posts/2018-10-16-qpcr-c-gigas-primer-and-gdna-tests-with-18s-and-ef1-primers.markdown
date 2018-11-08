@@ -49,7 +49,7 @@ I tracked down some different primers for testing:
 
 
 
-In addition to [BB15 from 20090519](http://onsnetwork.org/kubu4/2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples/), I decided to test out [BB16 from 20090519](http://onsnetwork.org/kubu4/2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples/) as a positive control.
+In addition to [BB15 from 20090519](2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples.html), I decided to test out [BB16 from 20090519](2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples.html) as a positive control.
 
 Samples were run on Roberts Lab CFX Connect (BioRad). All samples were run in duplicate. See qPCR Report (Results section) for plate layout, cycling params, etc.
 

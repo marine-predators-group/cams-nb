@@ -21,9 +21,9 @@ tags:
   - RNA quantification
 ---
 
-UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](http://onsnetwork.org/kubu4/2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment/).
+UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment.html).
 
-[Last week's RNA isolation](http://onsnetwork.org/kubu4/2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks/) failed for more than half of the samples I processed. I will re-isolate RNA from the following samples:
+[Last week's RNA isolation](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) failed for more than half of the samples I processed. I will re-isolate RNA from the following samples:
 
 
 
@@ -73,7 +73,7 @@ IMPORTANT:
   * I prepared fresh Buffer TR1 + β-mercaptoethanol (β-ME).
 
     
-  * I used [aliquots of DNase prepared on 20150408](http://onsnetwork.org/kubu4/2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks/).
+  * I used [aliquots of DNase prepared on 20150408](2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks.html).
 
 
 
@@ -110,7 +110,7 @@ Results:
 
 
 
-Well, these results are very consistent with the [data from the last isolation](http://onsnetwork.org/kubu4/2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks/) performed on these samples. This fact suggests that the problem lies with the tissue samples and not the isolation (since the isolation has been performed two separate times on these same samples and the results have come out virtually identical both times).
+Well, these results are very consistent with the [data from the last isolation](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) performed on these samples. This fact suggests that the problem lies with the tissue samples and not the isolation (since the isolation has been performed two separate times on these same samples and the results have come out virtually identical both times).
 
 All samples with concentrations < 5ng/μL were discarded. The remaining samples were stored @ -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing):
 

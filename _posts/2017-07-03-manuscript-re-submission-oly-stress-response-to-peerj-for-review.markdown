@@ -17,7 +17,7 @@ tags:
   - PeerJ
 ---
 
-[Last August, we made our initial submission of this paper](http://onsnetwork.org/kubu4/2016/08/18/manuscript-submission-oly-stress-response-to-peerj-for-review/) to [PeeJ](https://peerj.com/).
+[Last August, we made our initial submission of this paper](2016/08/18/manuscript-submission-oly-stress-response-to-peerj-for-review.html) to [PeeJ](https://peerj.com/).
 
 Today, we re-submitted the revised manuscript.
 

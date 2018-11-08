@@ -26,8 +26,8 @@ All intermediate files generated from this pipeline are here:
 
 I'll put together a TL;DR post that provides an overview of the pipeline and an assessment of the final assembly.
 
-Previously ran [minimap](http://onsnetwork.org/kubu4/2017/09/07/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon/)
- and then [miniasm](http://onsnetwork.org/kubu4/2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-2/).
+Previously ran [minimap](2017/09/07/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon.html)
+ and then [miniasm](2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-2.html).
 
 Jupyter Notebook (GitHub): [20170918_docker_pacbio_oly_racon0.5.0.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20170918_docker_pacbio_oly_racon0.5.0.ipynb)
 

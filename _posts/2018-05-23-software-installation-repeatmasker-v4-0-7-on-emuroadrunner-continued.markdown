@@ -19,7 +19,7 @@ tags:
   - transposable elements
 ---
 
-[After yesterday's difficulties getting RMblast to compile](http://onsnetwork.org/kubu4/2018/05/22/software-installation-repeatmasker-v4-0-7-on-emuroadrunner/), I deleted the folder and went through the build process again.
+[After yesterday's difficulties getting RMblast to compile](2018/05/22/software-installation-repeatmasker-v4-0-7-on-emuroadrunner.html), I deleted the folder and went through the build process again.
 
 This time it worked, but it did _not_ put rmblastn in the specified location (`/home/shared/rmblast`).
 

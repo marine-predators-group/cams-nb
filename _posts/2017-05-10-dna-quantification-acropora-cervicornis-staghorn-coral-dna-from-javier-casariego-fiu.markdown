@@ -81,7 +81,7 @@ tags:
   - Staghorn coral
 ---
 
-[DNA samples received yesterday](http://onsnetwork.org/kubu4/2017/05/09/samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/) were quantified using the Roberts Lab Qubit 3.0 to improve quantification accuracy (samples provided by Javier were quantified via NanoDrop, which generally overestimates DNA concentration) prior to performing methylation assessment.
+[DNA samples received yesterday](2017/05/09/samples-received-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu.html) were quantified using the Roberts Lab Qubit 3.0 to improve quantification accuracy (samples provided by Javier were quantified via NanoDrop, which generally overestimates DNA concentration) prior to performing methylation assessment.
 
 Quantification was performed using the dsDNA Broad Range Kit.
 

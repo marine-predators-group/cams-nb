@@ -28,11 +28,11 @@ Made Illumina libraries with goeduck metagenome water filter DNA I previously is
 
 
 
-  * [20180411](http://onsnetwork.org/kubu4/2018/04/11/dna-isolation-quantification-metagenomics-water-filters/)
+  * [20180411](2018/04/11/dna-isolation-quantification-metagenomics-water-filters.html)
 
 
 
-  * [20180426](http://onsnetwork.org/kubu4/2018/04/26/dna-isolation-quantification-metagenomics-water-filters-2/)
+  * [20180426](2018/04/26/dna-isolation-quantification-metagenomics-water-filters-2.html)
 
 
 

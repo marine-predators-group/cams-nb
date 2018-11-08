@@ -67,7 +67,7 @@ Results:
 
 
 
-It should be noted that the paired reads for each of the BGI mate-pair Illumina data did not assemble, [just like last time I used them](http://onsnetwork.org/kubu4/2017/10/05/genome-assembly-olympia-oyster-redundans-with-illumina-pacbio/):
+It should be noted that the paired reads for each of the BGI mate-pair Illumina data did not assemble, [just like last time I used them](2017/10/05/genome-assembly-olympia-oyster-redundans-with-illumina-pacbio.html):
 
 
 

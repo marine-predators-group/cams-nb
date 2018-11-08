@@ -29,13 +29,13 @@ GEODUCK
 
 
     
-  * [Phenol-chloroform cleanup from 20151124](http://onsnetwork.org/kubu4/2015/11/24/phenol-chloroform-dna-cleanup-geoduck-gdna/)
+  * [Phenol-chloroform cleanup from 20151124](2015/11/24/phenol-chloroform-dna-cleanup-geoduck-gdna.html)
 
     
-  * [Mollusc kit extraction from 20151124](http://onsnetwork.org/kubu4/2015/11/24/dna-isolation-geoduck-adductor-muscle-gdna/)
+  * [Mollusc kit extraction from 20151124](2015/11/24/dna-isolation-geoduck-adductor-muscle-gdna.html)
 
     
-  * [DNAzol isolation from earlier today](http://onsnetwork.org/kubu4/2015/11/25/dna-isolation-geoduck-ctenidia-gdna/)
+  * [DNAzol isolation from earlier today](2015/11/25/dna-isolation-geoduck-ctenidia-gdna.html)
 
 
 
@@ -45,13 +45,13 @@ OLYMPIA OYSTER
 
 
     
-  * [Phenol-chloroform cleanup from 20151124](http://onsnetwork.org/kubu4/2015/11/24/phenol-chloroform-dna-cleanup-olympia-oyster-gdna/)
+  * [Phenol-chloroform cleanup from 20151124](2015/11/24/phenol-chloroform-dna-cleanup-olympia-oyster-gdna.html)
 
     
-  * [Mollusc kit extraction from 20151124](http://onsnetwork.org/kubu4/2015/11/24/dna-isolation-olympia-oyster-outer-mantle-gdna/)
+  * [Mollusc kit extraction from 20151124](2015/11/24/dna-isolation-olympia-oyster-outer-mantle-gdna.html)
 
     
-  * [DNAzol isolation from earlier today](http://onsnetwork.org/kubu4/2015/11/25/dna-isolation-olympia-oyster-outer-mantle-gdna-2/)
+  * [DNAzol isolation from earlier today](2015/11/25/dna-isolation-olympia-oyster-outer-mantle-gdna-2.html)
 
 
 
@@ -83,7 +83,7 @@ None of them are particularly great. Just like the geoduck set, the worst of the
 
 Also, just like the geoduck set, there are two bands present in the DNAzol sample. These bands are likely ribosomal RNA because I neglected to perform a RNase treatment during the extraction. Doh!
 
-The phenol-chloroform clean up sample is either jacked up or severely overloaded, based on the crazy streaking that's present. However, [this sample looked similar after the initial extraction on 20151113](http://onsnetwork.org/kubu4/2015/11/13/dna-quality-assessment-geoduck-oly-oly-2sn/).
+The phenol-chloroform clean up sample is either jacked up or severely overloaded, based on the crazy streaking that's present. However, [this sample looked similar after the initial extraction on 20151113](2015/11/13/dna-quality-assessment-geoduck-oly-oly-2sn.html).
 
 
 

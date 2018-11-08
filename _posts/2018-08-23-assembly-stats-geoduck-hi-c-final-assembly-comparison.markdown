@@ -37,7 +37,7 @@ There are additional assembly files that provide some additional assembly data. 
 
 
 
-Actual sequencing data and two previous assemblies were [previously received on 20180421](http://onsnetwork.org/kubu4/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data/).
+Actual sequencing data and two previous assemblies were [previously received on 20180421](2018/04/21/data-management-geoduck-phase-genomics-hi-c-data.html).
 
 All assembly data (both old and new) from Phase Genomics was downloaded in full from the Google Drive link provided by them and stored here on Owl:
 

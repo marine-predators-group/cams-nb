@@ -18,7 +18,7 @@ tags:
   - Panopea generosa
 ---
 
-Pooled the gDNA samples [from earlier today](http://onsnetwork.org/kubu4/2015/10/05/gdna-isolation-geoduck-adductor-muscle/) & [from 20151002](http://onsnetwork.org/kubu4/2015/10/02/dna-isolation-geoduck-olympia-oyster/).
+Pooled the gDNA samples [from earlier today](2015/10/05/gdna-isolation-geoduck-adductor-muscle.html) & [from 20151002](2015/10/02/dna-isolation-geoduck-olympia-oyster.html).
 
 The pooled volume = 260μL
 

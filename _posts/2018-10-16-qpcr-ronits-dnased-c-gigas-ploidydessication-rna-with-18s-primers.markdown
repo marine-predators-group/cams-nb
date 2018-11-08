@@ -27,7 +27,7 @@ tags:
   - triploid
 ---
 
-After [DNasing Ronit's RNA earlier today](http://onsnetwork.org/kubu4/2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna/), I needed to check for any residual gDNA.
+After [DNasing Ronit's RNA earlier today](2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html), I needed to check for any residual gDNA.
 
 Identified some old, old C.gigas 18s primers that _should_ amplify gDNA:
 
@@ -42,7 +42,7 @@ Identified some old, old C.gigas 18s primers that _should_ amplify gDNA:
 
 
 
-Used some old _C.gigas_ gDNA ([BB15 from 20090519](http://onsnetwork.org/kubu4/2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples/)) as a positive control.
+Used some old _C.gigas_ gDNA ([BB15 from 20090519](2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples.html)) as a positive control.
 
 Samples were run on Roberts Lab CFX Connect (BioRad). All samples were run in duplicate. See qPCR Report (Results section) for plate layout, cycling params, etc.
 

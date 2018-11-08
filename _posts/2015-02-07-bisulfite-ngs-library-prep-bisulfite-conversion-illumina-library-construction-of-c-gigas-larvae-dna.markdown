@@ -27,7 +27,7 @@ tags:
 
 
 
-The previous attempt at constructing a library for [the 1000ppm larvae samples failed](http://onsnetwork.org/kubu4/2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification/). I had previously [sheared, quantified](http://onsnetwork.org/kubu4/2015/01/09/dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment/), and [concentrated](http://onsnetwork.org/kubu4/2015/01/12/speedvac-c-gigas-larvae-oa-dna/) the DNA from this sample. As I had done previously, I combined 50ng from each of the two 1000ppm samples for a total of 100ng, and brought the sample volume up to 24μL with NanoPure H2O.
+The previous attempt at constructing a library for [the 1000ppm larvae samples failed](2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa-bisulfite-library-quantification.html). I had previously [sheared, quantified](2015/01/09/dna-isolation-c-gigas-larvae-from-2011-noaa-oa-experiment.html), and [concentrated](2015/01/12/speedvac-c-gigas-larvae-oa-dna.html) the DNA from this sample. As I had done previously, I combined 50ng from each of the two 1000ppm samples for a total of 100ng, and brought the sample volume up to 24μL with NanoPure H2O.
 
 Bisulfite conversion was performed with the Methylamp DNA Modification Kit (Epigentek) according to the manufacturer's protocol.
 

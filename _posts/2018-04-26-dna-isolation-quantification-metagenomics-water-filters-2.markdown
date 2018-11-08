@@ -21,7 +21,7 @@ tags:
   - Qubit 3.0
 ---
 
-After discussing [the preliminary DNA isolation attemp](http://onsnetwork.org/kubu4/2018/04/11/dna-isolation-quantification-metagenomics-water-filters/) with Steven & Emma, we decided to proceed with DNA isolations on the remaining 0.22μm filters.
+After discussing [the preliminary DNA isolation attemp](2018/04/11/dna-isolation-quantification-metagenomics-water-filters.html) with Steven & Emma, we decided to proceed with DNA isolations on the remaining 0.22μm filters.
 
 Isolated DNA from the following five filters:
 

@@ -18,7 +18,7 @@ tags:
   - Xserve
 ---
 
-We received the new 48GB RAM set we ordered from Other World Computing for [the Apple Xserve (roadrunner) that I installed El Capitan (OS X 10.11.5) on two weeks ago](http://onsnetwork.org/kubu4/2016/05/31/computer-setup-cluster-node003-conversion/).
+We received the new 48GB RAM set we ordered from Other World Computing for [the Apple Xserve (roadrunner) that I installed El Capitan (OS X 10.11.5) on two weeks ago](2016/05/31/computer-setup-cluster-node003-conversion.html).
 
 I installed it and this computer (which was plenty quick before) is extremely responsive now!
 

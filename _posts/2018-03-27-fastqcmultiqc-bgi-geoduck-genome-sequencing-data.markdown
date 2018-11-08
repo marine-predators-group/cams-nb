@@ -19,7 +19,7 @@ tags:
   - Panopea generosa
 ---
 
-Since running [SparseAssembler seems to be working](http://onsnetwork.org/kubu4/2018/03/27/assembly-geoduck-novaseq-using-sparseassembler-kmer-101/) and actually able to produce assemblies, I've decided I'll try to beef up the geoduck genome assembly with the rest of our existing genomic sequencing data.
+Since running [SparseAssembler seems to be working](2018/03/27/assembly-geoduck-novaseq-using-sparseassembler-kmer-101.html) and actually able to produce assemblies, I've decided I'll try to beef up the geoduck genome assembly with the rest of our existing genomic sequencing data.
 
 I transferred our [BGI geoduck FASTQ files](http://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20161201/cdts-hk.genomics.cn/Panopea_generosa/clean_data/) to our Mox node (/gscratch/scrubbed/samwhite/bgi_geoduck/).
 

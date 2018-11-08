@@ -40,7 +40,7 @@ tags:
   - ZymoResearch
 ---
 
-Received the Olympia oyster, MBD-enriched BS-seq sequencing files (50bp, single read) from ZymoResearch ([submitted 20151208](http://onsnetwork.org/kubu4/2015/12/08/sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch/)). Here's the sample list:
+Received the Olympia oyster, MBD-enriched BS-seq sequencing files (50bp, single read) from ZymoResearch ([submitted 20151208](2015/12/08/sample-submission-olympia-oyster-mbd-enriched-dna-to-zymoresearch.html)). Here's the sample list:
 
 
 

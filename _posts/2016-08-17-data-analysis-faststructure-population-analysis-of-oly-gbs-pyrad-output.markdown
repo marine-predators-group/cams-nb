@@ -18,7 +18,7 @@ tags:
   - Structure
 ---
 
-After some basal readings about what Fst is (see notebook below for a definition and reference), I decided to try to use [fastStructure](http://rajanil.github.io/fastStructure/) to analyze the PyRAD output from [20160727](http://onsnetwork.org/kubu4/2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data/).
+After some basal readings about what Fst is (see notebook below for a definition and reference), I decided to try to use [fastStructure](http://rajanil.github.io/fastStructure/) to analyze the PyRAD output from [20160727](2016/07/27/data-analysis-pyrad-analysis-of-olympia-oyster-gbs-data.html).
 
 The quick, TL;DR: after spending a bunch of time installing the program, it doesn't handle the default Structure file (.str); requires some companion file types that PyRAD doesn't output.
 

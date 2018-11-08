@@ -21,9 +21,9 @@ tags:
   - RNA quantification
 ---
 
-UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](http://onsnetwork.org/kubu4/2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment/).
+UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment.html).
 
-[Last week’s RNA isolation](http://onsnetwork.org/kubu4/2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2/) (a second attempt at obtaining RNA from the samples) performed poorly. I will re-isolate RNA from the following samples:
+[Last week’s RNA isolation](2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html) (a second attempt at obtaining RNA from the samples) performed poorly. I will re-isolate RNA from the following samples:
 
 
 
@@ -72,10 +72,10 @@ IMPORTANT:
 
 
     
-  * Used Buffer TR1 + β-mercaptoethanol (β-ME) prepared [20150427](http://onsnetwork.org/kubu4/2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2/) as well as fresh Buffer TR1 + β-ME prepared today.
+  * Used Buffer TR1 + β-mercaptoethanol (β-ME) prepared [20150427](2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html) as well as fresh Buffer TR1 + β-ME prepared today.
 
     
-  * I used [aliquots of DNase prepared on 20150408](http://onsnetwork.org/kubu4/2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks/).
+  * I used [aliquots of DNase prepared on 20150408](2015/04/08/rna-isolation-geoduck-foot-in-paraffin-histology-blocks.html).
 
 
 

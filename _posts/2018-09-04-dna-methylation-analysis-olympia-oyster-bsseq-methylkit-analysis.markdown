@@ -41,7 +41,7 @@ An overview of the experiment can be viewed here:
 
 
 
-I [previously ran all of Olympia oyster DNA methylation sequencing data through the Bismark pipeline](http://onsnetwork.org/kubu4/2018/08/16/dna-methylation-analysis-bismark-pipeline-on-all-olympia-oyster-bsseq-datasets/), and then processed them using the MethylKit R library.
+I [previously ran all of Olympia oyster DNA methylation sequencing data through the Bismark pipeline](2018/08/16/dna-methylation-analysis-bismark-pipeline-on-all-olympia-oyster-bsseq-datasets.html), and then processed them using the MethylKit R library.
 
 First mistake (Bismark):
 

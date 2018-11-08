@@ -76,4 +76,4 @@ Quast output folder: [results_2018_05_14_06_26_26/](http://owl.fish.washington.e
 
 Quast report (HTML): [results_2018_05_14_06_26_26/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_14_06_26_26/report.html)
 
-Everything looks good. The main thing I wanted to confirm by running Quast was that the largest contig in each subset was the same as the [original PGA assembly (95,480,635bp](http://onsnetwork.org/kubu4/2018/04/30/assembly-stats-geoduck-hi-c-assembly-comparison/).
+Everything looks good. The main thing I wanted to confirm by running Quast was that the largest contig in each subset was the same as the [original PGA assembly (95,480,635bp](2018/04/30/assembly-stats-geoduck-hi-c-assembly-comparison.html).

@@ -27,7 +27,7 @@ I previously ran two variations on the Bismark analysis for our Olympia oyster w
 
 
 
-  * [20180913 Bismark tweaks](http://onsnetwork.org/kubu4/2018/09/13/dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison/)
+  * [20180913 Bismark tweaks](2018/09/13/dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison.html)
 
 
 

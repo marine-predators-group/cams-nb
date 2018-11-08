@@ -23,9 +23,9 @@ tags:
 
 Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.
 
-[Transcriptome assembly with Trinity completed 20180919](http://onsnetwork.org/kubu4/2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity/).
+[Transcriptome assembly with Trinity completed 20180919](2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
 
-Then, [aligned the assembled transcriptome to our genome using Bowtie2](http://onsnetwork.org/kubu4/2018/09/19/transcriptome-alignment-olympia-oyster-trinity-transcriptome-aligned-to-genome-with-bowtie2/).
+Then, [aligned the assembled transcriptome to our genome using Bowtie2](2018/09/19/transcriptome-alignment-olympia-oyster-trinity-transcriptome-aligned-to-genome-with-bowtie2.html).
 
 Finally, I used BEDTools to convert the BAM to BED to bedgraph.
 

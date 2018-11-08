@@ -21,7 +21,7 @@ tags:
   - RNA Pico
 ---
 
-I received the Bioanalyzer data back for the [geoduck foot RNA samples I submitted 20150422](http://onsnetwork.org/kubu4/2015/04/22/bioanalyzer-submission-geoduck-rna-from-histology-blocks/). The two samples were run on the RNA Pico chip assay.
+I received the Bioanalyzer data back for the [geoduck foot RNA samples I submitted 20150422](2015/04/22/bioanalyzer-submission-geoduck-rna-from-histology-blocks.html). The two samples were run on the RNA Pico chip assay.
 
 
 

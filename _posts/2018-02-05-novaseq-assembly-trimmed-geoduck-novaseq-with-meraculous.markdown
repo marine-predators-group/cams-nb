@@ -22,7 +22,7 @@ tags:
   - roadrunner
 ---
 
-Attempted to use [Meraculous](https://jgi.doe.gov/data-and-tools/meraculous/) to assemble the [trimmed geoduck NovaSeq data](http://onsnetwork.org/kubu4/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data/).
+Attempted to use [Meraculous](https://jgi.doe.gov/data-and-tools/meraculous/) to assemble the [trimmed geoduck NovaSeq data](2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
 
 Here's the [Meraculous manual (PDF)](http://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf).
 

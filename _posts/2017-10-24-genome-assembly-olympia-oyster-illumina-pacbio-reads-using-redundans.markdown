@@ -25,7 +25,7 @@ Had problems with Docker and Jupyter Notebook inexplicably dying and deleting al
 
 So, I ran this on my computer, but didn't have Jupyter installed (yet).
 
-This utilized [the Canu contigs file (FASTA)](http://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/20171018_oly_pacbio.contigs.fasta) that [I generated on 20171018.](http://onsnetwork.org/kubu4/2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6/)
+This utilized [the Canu contigs file (FASTA)](http://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/20171018_oly_pacbio.contigs.fasta) that [I generated on 20171018.](2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6.html)
 
 Here's the input command:
 

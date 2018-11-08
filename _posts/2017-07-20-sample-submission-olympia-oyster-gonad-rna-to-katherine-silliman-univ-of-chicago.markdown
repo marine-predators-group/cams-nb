@@ -29,7 +29,7 @@ tags:
   - SN-10-31
 ---
 
-Sent the following RNA to Katherine Silliman at the Univ. of Chicago for RNAseq. All RNA was [isolated on 20170719](http://onsnetwork.org/kubu4/2017/07/19/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks-2/), except SN-10-16, which was [isolated on 20170710](http://onsnetwork.org/kubu4/2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks/).
+Sent the following RNA to Katherine Silliman at the Univ. of Chicago for RNAseq. All RNA was [isolated on 20170719](2017/07/19/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks-2.html), except SN-10-16, which was [isolated on 20170710](2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks.html).
 
 NF-10-22
 NF-10-23

@@ -20,7 +20,7 @@ tags:
   - Ostrea lurida
 ---
 
-**UPDATE 20170104 - [These two corrupt files have been replaced with non-corrupt files](http://onsnetwork.org/kubu4/2017/01/04/data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files/).**
+**UPDATE 20170104 - [These two corrupt files have been replaced with non-corrupt files](2017/01/04/data-management-replacement-of-corrupt-bgi-oly-genome-fastq-files.html).**
 
 
 
@@ -49,7 +49,7 @@ The two files in question are:
 
 This post is an attempt to document where things went wrong, but having glanced through this data a bit already, it won't provide any answers.
 
-[I originally downloaded the data on 20160127](http://onsnetwork.org/kubu4/2016/01/27/data-received-ostrea-lurida-genome-sequencing-files-from-bgi/) to my home folder on Owl (this is detailed in the Jupyter notebook in that post) and generated/compared MD5 checksum values. The values matched at that time.
+[I originally downloaded the data on 20160127](2016/01/27/data-received-ostrea-lurida-genome-sequencing-files-from-bgi.html) to my home folder on Owl (this is detailed in the Jupyter notebook in that post) and generated/compared MD5 checksum values. The values matched at that time.
 
 So, let's investigate a bit further...
 

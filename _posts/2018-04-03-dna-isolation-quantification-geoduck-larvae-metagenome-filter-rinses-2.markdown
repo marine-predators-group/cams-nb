@@ -21,9 +21,9 @@ tags:
   - Qubit dsDNA HS
 ---
 
-This is another attempt to isolate DNA from two more of the [geoduck hatchery metagenome samples Emma delivered on 20180313](http://onsnetwork.org/kubu4/2018/03/13/samples-received-geoduck-larvae-metagenome-filter-rinses/).
+This is another attempt to isolate DNA from two more of the [geoduck hatchery metagenome samples Emma delivered on 20180313](2018/03/13/samples-received-geoduck-larvae-metagenome-filter-rinses.html).
 
-[The previous attempt, using DNAzol, did not yield any DNA](http://onsnetwork.org/kubu4/2018/03/20/dna-isolation-quantification-geoduck-larvae-metagenome-filter-rinses/).
+[The previous attempt, using DNAzol, did not yield any DNA](2018/03/20/dna-isolation-quantification-geoduck-larvae-metagenome-filter-rinses.html).
 
 I isolated DNA from the following two samples:
 

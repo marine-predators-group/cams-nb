@@ -18,7 +18,7 @@ tags:
   - Panopea generosa
 ---
 
-In preparation to run SpareAssembler, I needed to gunzip the [BGI gzipped FASTQ files from 20180327](http://onsnetwork.org/kubu4/2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data/).
+In preparation to run SpareAssembler, I needed to gunzip the [BGI gzipped FASTQ files from 20180327](2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data.html).
 
 Ran the following slurm script on our Mox node:
 

@@ -20,7 +20,7 @@ tags:
   - RRBS
 ---
 
-[Earlier today I finished trimming](http://onsnetwork.org/kubu4/2018/05/16/trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data/) Hollie's RRBS BS-seq FastQ data.
+[Earlier today I finished trimming](2018/05/16/trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data.html) Hollie's RRBS BS-seq FastQ data.
 
 However, the original files were never analyzed with FastQC, so I ran it on the original files.
 

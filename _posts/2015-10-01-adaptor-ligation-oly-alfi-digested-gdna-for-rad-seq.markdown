@@ -29,11 +29,11 @@ tags:
   - T4 DNA Ligase
 ---
 
-[Yesterday's AlfI over night restriction digest](http://onsnetwork.org/kubu4/2015/09/30/restriction-digest-oly-gdna-for-rad-seq-walfi/) was heat inactivated by heating @ 65C for 10mins. Samples were stored on ice.
+[Yesterday's AlfI over night restriction digest](2015/09/30/restriction-digest-oly-gdna-for-rad-seq-walfi.html) was heat inactivated by heating @ 65C for 10mins. Samples were stored on ice.
 
 Continued to follow  the [2bRAD protocol (PDF) developed by Eli Meyer’s lab](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
-Digested DNA was _not_ run out on a gel due to the fact that the input gDNA was degraded and a shift in the high molecular weight band (indicating the digestion was successful) would not exist because [a high molecular weight band is absent in these samples](http://onsnetwork.org/kubu4/2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check/).
+Digested DNA was _not_ run out on a gel due to the fact that the input gDNA was degraded and a shift in the high molecular weight band (indicating the digestion was successful) would not exist because [a high molecular weight band is absent in these samples](2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check.html).
 
 The following oligos were reconstituted in TE buffer (pH = 8.0) to 100μM:
 

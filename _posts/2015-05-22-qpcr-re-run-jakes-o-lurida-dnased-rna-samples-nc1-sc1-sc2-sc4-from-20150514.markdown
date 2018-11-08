@@ -23,7 +23,7 @@ tags:
   - SsoFast EvaGreen Supermix
 ---
 
-The following DNased RNA samples [showed inconsistencies between qPCR reps (one rep showed amplification, the other rep did not) on 20150514](http://onsnetwork.org/kubu4/2015/05/14/qpcr-jakes-o-lurida-ctenidia-dnased-rna-control-samples/):
+The following DNased RNA samples [showed inconsistencies between qPCR reps (one rep showed amplification, the other rep did not) on 20150514](2015/05/14/qpcr-jakes-o-lurida-ctenidia-dnased-rna-control-samples.html):
 
 
 

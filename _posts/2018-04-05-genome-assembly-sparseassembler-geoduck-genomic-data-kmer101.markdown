@@ -64,15 +64,15 @@ OK, here we go! Initiatied an assembly run using  [SparseAssembler](https://gith
 
 
 
-  * [BGI HiSeq Data](http://onsnetwork.org/kubu4/2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data/)
+  * [BGI HiSeq Data](2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data.html)
 
 
 
-  * [Illumina Mate Pair HiSeq Data](http://onsnetwork.org/kubu4/2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued/)
+  * [Illumina Mate Pair HiSeq Data](2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued.html)
 
 
 
-  * [Illumina NovaSeq Data](http://onsnetwork.org/kubu4/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data/)
+  * [Illumina NovaSeq Data](2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html)
 
 
 

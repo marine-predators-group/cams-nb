@@ -21,7 +21,7 @@ tags:
   - Panopea generosa
 ---
 
-Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA (from 20150828)](http://onsnetwork.org/kubu4/2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot/) and [Olympia oyster gDNA (from 20150901)](http://onsnetwork.org/kubu4/2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle/).
+Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA (from 20150828)](2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot.html) and [Olympia oyster gDNA (from 20150901)](2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle.html).
 
 Ran 500ng of each sample:
 

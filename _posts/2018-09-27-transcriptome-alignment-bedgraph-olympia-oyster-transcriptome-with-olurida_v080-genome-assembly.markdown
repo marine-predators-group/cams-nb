@@ -23,9 +23,9 @@ tags:
   - samtools
 ---
 
-[Yesterday, I produced a bedgraph file of our Olympia oyster RNAseq data coverage using our Olurida_v081 genome.](http://onsnetwork.org/kubu4/2018/09/26/bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly/)
+[Yesterday, I produced a bedgraph file of our Olympia oyster RNAseq data coverage using our Olurida_v081 genome.](2018/09/26/bedgraph-olympia-oyster-transcriptome-with-olurida_v081-genome-assembly.html)
 
-I decided that I wanted to use the Olurida_v080 version instead (or, in addtion to?), as the Olurida_v080 version has not been size restricted (the Olurida v081 version is only contigs >1000bp). I feel like we could miss some important regions, so wanted to run this analysis using all of the genome data we currently have available. Additionally, this will be consistent with [my previous Bismark (DNA methylation analysis)](http://onsnetwork.org/kubu4/2018/09/13/dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison/).
+I decided that I wanted to use the Olurida_v080 version instead (or, in addtion to?), as the Olurida_v080 version has not been size restricted (the Olurida v081 version is only contigs >1000bp). I feel like we could miss some important regions, so wanted to run this analysis using all of the genome data we currently have available. Additionally, this will be consistent with [my previous Bismark (DNA methylation analysis)](2018/09/13/dna-methylation-analysis-olympia-oyster-whole-genome-bsseq-bismark-pipeline-comparison.html).
 
 Used HISAT2 on our HPC Mox node to align our RNAseq reads to our Olurida_v080 genome assembly:
 

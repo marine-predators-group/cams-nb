@@ -19,7 +19,7 @@ tags:
   - Ostrea lurida
 ---
 
-Ah, the joys of bioinformatics. I just received an email from Mox indicating that [the Masurca assembly I started 11 DAYS AGO (!!)](http://onsnetwork.org/kubu4/2017/10/19/genome-assembly-olympia-oyster-illumina-pacbio-reads-using-masurca/) crashed.
+Ah, the joys of bioinformatics. I just received an email from Mox indicating that [the Masurca assembly I started 11 DAYS AGO (!!)](2017/10/19/genome-assembly-olympia-oyster-illumina-pacbio-reads-using-masurca.html) crashed.
 
 [![](http://owl.fish.washington.edu/Athaliana/20171031_masurca_failed.png)](http://owl.fish.washington.edu/Athaliana/20171031_masurca_failed.png)
 

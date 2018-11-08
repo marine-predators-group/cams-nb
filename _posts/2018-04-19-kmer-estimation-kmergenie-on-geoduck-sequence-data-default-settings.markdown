@@ -18,7 +18,7 @@ tags:
   - Panopea generosa
 ---
 
-After the [last SparseAssembler assembly completed](http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/), I wanted to do another run with a different kmer size (last time was arbitrarily set at 101). However, I didn't really know how to decide, particularly since this assembly consisted of mixed read lenghts (50bp and 100bp). So, I ran [kmergenie](http://kmergenie.bx.psu.edu/README) on all of our geoduck (_Panopea generosa_) sequencing data in hopes of getting a kmer determination to apply to my next assembly.
+After the [last SparseAssembler assembly completed](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html), I wanted to do another run with a different kmer size (last time was arbitrarily set at 101). However, I didn't really know how to decide, particularly since this assembly consisted of mixed read lenghts (50bp and 100bp). So, I ran [kmergenie](http://kmergenie.bx.psu.edu/README) on all of our geoduck (_Panopea generosa_) sequencing data in hopes of getting a kmer determination to apply to my next assembly.
 
 The job was run on our Mox HPC node.
 

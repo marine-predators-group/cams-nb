@@ -17,7 +17,7 @@ tags:
   - Panopea generosa
 ---
 
-In preparation to run SpareAssembler, I needed to gunzip the [trimmed gzipped FASTQ files from 20140401](http://onsnetwork.org/kubu4/2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued/).
+In preparation to run SpareAssembler, I needed to gunzip the [trimmed gzipped FASTQ files from 20140401](2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued.html).
 
 Ran the following slurm script on our Mox node:
 

@@ -19,7 +19,7 @@ tags:
   - TrimGalore!
 ---
 
-[Yesterday, I ran FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](http://onsnetwork.org/kubu4/2018/04/09/fastqcmultiqc-c-virginica-mbd-bs-seq-data/). Steven wanted to trim it and see how things turned out.
+[Yesterday, I ran FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](2018/04/09/fastqcmultiqc-c-virginica-mbd-bs-seq-data.html). Steven wanted to trim it and see how things turned out.
 
 I ran TrimGalore (using the built-in FastQC option) and followed up with MultiQC for a summary of the FastQC reports.
 

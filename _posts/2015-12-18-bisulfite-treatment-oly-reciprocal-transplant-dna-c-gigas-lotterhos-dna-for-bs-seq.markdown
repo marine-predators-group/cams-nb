@@ -38,7 +38,7 @@ tags:
   - PTC-200
 ---
 
-After confirming that the [DNA available for this project looked good](http://onsnetwork.org/kubu4/2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries-take-two/), I performed bisulfite treatment on the following gDNA samples:
+After confirming that the [DNA available for this project looked good](2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries-take-two.html), I performed bisulfite treatment on the following gDNA samples:
 
 
 
@@ -97,7 +97,7 @@ Same as above, but:
 
 2 = Oyster Bay outplants
 
-NF2_# (Oysters grown in Oyster Bay; [DNA provided by Katherine Silliman](http://onsnetwork.org/kubu4/2015/11/25/samples-received-oly-tissue-dna-from-katherine-silliman/))
+NF2_# (Oysters grown in Oyster Bay; [DNA provided by Katherine Silliman](2015/11/25/samples-received-oly-tissue-dna-from-katherine-silliman.html))
 
 
 NF2 = Fidalgo Bay broodstock origination, family #2

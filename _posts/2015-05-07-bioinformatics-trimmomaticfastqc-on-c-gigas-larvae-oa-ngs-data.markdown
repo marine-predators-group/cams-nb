@@ -23,7 +23,7 @@ tags:
   - troubleshooting
 ---
 
-In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](http://onsnetwork.org/kubu4/2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data/), the first 39 bases still showed inconsistent quality:
+In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data.html), the first 39 bases still showed inconsistent quality:
 
 [![](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 

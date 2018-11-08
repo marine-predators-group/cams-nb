@@ -21,7 +21,7 @@ tags:
   - Staghorn coral
 ---
 
-[Three samples (of the 62 total) that were quantified earlier today](http://onsnetwork.org/kubu4/2017/05/10/dna-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu/), had concentrations too low for use in the methylation assay:
+[Three samples (of the 62 total) that were quantified earlier today](2017/05/10/dna-quantification-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu.html), had concentrations too low for use in the methylation assay:
 
 
 

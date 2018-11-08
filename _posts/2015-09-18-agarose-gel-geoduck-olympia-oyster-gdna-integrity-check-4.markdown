@@ -21,7 +21,7 @@ tags:
   - Panopea generosa
 ---
 
-Ran a 0.8% agarose, 1x modified TAE gel (w/EtBr) with [geoduck and Olympia oyster gDNA that was precipitated earlier today](http://onsnetwork.org/kubu4/2015/09/17/ethanol-precipitation-geoduck-olympia-oyster-gdna/). Used 5μL of each sample (~500ng).
+Ran a 0.8% agarose, 1x modified TAE gel (w/EtBr) with [geoduck and Olympia oyster gDNA that was precipitated earlier today](2015/09/17/ethanol-precipitation-geoduck-olympia-oyster-gdna.html). Used 5μL of each sample (~500ng).
 
 Results:
 

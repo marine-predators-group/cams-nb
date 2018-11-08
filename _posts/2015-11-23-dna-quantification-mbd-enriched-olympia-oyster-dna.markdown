@@ -22,7 +22,7 @@ tags:
   - Victor 1420 plate reader
 ---
 
-Quantified the MBD enriched samples prepped over the last two days: [MBD enrichment](http://onsnetwork.org/kubu4/2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna/), [EtOH precipiation](http://onsnetwork.org/kubu4/2015/11/22/ethanol-precipitation-olympia-oyster-mbd/).
+Quantified the MBD enriched samples prepped over the last two days: [MBD enrichment](2015/11/21/mbd-enrichment-sonicated-olympia-oyster-gdna.html), [EtOH precipiation](2015/11/22/ethanol-precipitation-olympia-oyster-mbd.html).
 
 Samples were quantified using the QuantIT dsDNA BR Kit (Invitrogen) according to the manufacturer's protocol.
 

@@ -16,7 +16,7 @@ tags:
   - QUAST
 ---
 
-[The geoduck genome assembly started 20180405](http://onsnetwork.org/kubu4/2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101/) completed this weekend.
+[The geoduck genome assembly started 20180405](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html) completed this weekend.
 
 This assembly utilized the BGI data and all of the Illumina project data (NMP and NovaSeq) with a kmer 101 setting.
 

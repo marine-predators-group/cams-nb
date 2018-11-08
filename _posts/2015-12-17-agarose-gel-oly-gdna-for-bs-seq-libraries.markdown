@@ -35,7 +35,7 @@ tags:
   - Ostrea lurida
 ---
 
-Ran 1μL of each sample from [yesterday's DNA isolation](http://onsnetwork.org/kubu4/2015/12/16/dna-isolation-oly-gdna-for-bs-seq/) on a 0.8% agarose, low-TAE gel, stained with ethidium bromide.
+Ran 1μL of each sample from [yesterday's DNA isolation](2015/12/16/dna-isolation-oly-gdna-for-bs-seq.html) on a 0.8% agarose, low-TAE gel, stained with ethidium bromide.
 
 
 

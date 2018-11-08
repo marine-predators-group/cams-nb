@@ -16,7 +16,7 @@ tags:
   - Panopea generosa
 ---
 
-We previously sent some geoduck samples to Illumina, [as part of a pilot project for them to test out a new sequencing platform](http://onsnetwork.org/kubu4/2017/01/05/sample-submission-geoduck-gdna-for-illumina-pilot-sequencing-project/). The data has finally arrived!
+We previously sent some geoduck samples to Illumina, [as part of a pilot project for them to test out a new sequencing platform](2017/01/05/sample-submission-geoduck-gdna-for-illumina-pilot-sequencing-project.html). The data has finally arrived!
 
 It was sent on a 4TB Seagate external hard drive.
 

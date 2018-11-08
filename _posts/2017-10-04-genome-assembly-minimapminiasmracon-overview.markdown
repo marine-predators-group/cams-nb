@@ -23,13 +23,13 @@ Previously, I used the following three tools to do quick assembly of our Olympia
 
 
 
-  * [minimap](http://onsnetwork.org/kubu4/2017/09/07/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon/)
+  * [minimap](2017/09/07/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon.html)
 
 
-  * [miniasm](http://onsnetwork.org/kubu4/2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-2/)
+  * [miniasm](2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-2.html)
 
 
-  * [racon](http://onsnetwork.org/kubu4/2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-3/)
+  * [racon](2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-3.html)
 
 
 

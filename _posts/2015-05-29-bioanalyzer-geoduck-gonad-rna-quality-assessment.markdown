@@ -23,7 +23,7 @@ tags:
 
 Before proceeding with transcriptomics for this project, we need to assess the integrity of the RNA via Bioanalyzer.
 
-RNA that was previously isolated on [20150508](http://onsnetwork.org/kubu4/2015/05/08/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-4/), [20150505](http://onsnetwork.org/kubu4/2015/05/05/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-3/), [20150427](http://onsnetwork.org/kubu4/2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2/), and [20150424](http://onsnetwork.org/kubu4/2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks/) (those notebook entries have been updated to report this consolidation and have a link to this notebook entry) were consolidated into single samples (if there had been multiple isolations of the same sample) and spec'd on the Roberts Lab NanoDrop1000:
+RNA that was previously isolated on [20150508](2015/05/08/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-4.html), [20150505](2015/05/05/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-3.html), [20150427](2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html), and [20150424](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) (those notebook entries have been updated to report this consolidation and have a link to this notebook entry) were consolidated into single samples (if there had been multiple isolations of the same sample) and spec'd on the Roberts Lab NanoDrop1000:
 
 [![](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)
 

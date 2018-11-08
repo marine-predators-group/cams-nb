@@ -26,7 +26,7 @@ tags:
   - TruSeq
 ---
 
-Initial analysis, [comparing barcode identification methods](http://onsnetwork.org/kubu4/2015/03/14/truseq-adaptor-identification-method-comparison-lsu-c-virginica-oil-spill-sequences/), revealed the following info about demultiplexing on untrimmed sequences:
+Initial analysis, [comparing barcode identification methods](2015/03/14/truseq-adaptor-identification-method-comparison-lsu-c-virginica-oil-spill-sequences.html), revealed the following info about demultiplexing on untrimmed sequences:
 
 
 

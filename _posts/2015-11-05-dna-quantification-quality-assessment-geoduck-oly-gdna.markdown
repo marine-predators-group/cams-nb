@@ -28,10 +28,10 @@ Quantified the following samples with the Roberts Lab NanoDrop1000 (ThermoFisher
 
 
     
-  * [geoduck gDNA for genome sequencing](http://onsnetwork.org/kubu4/2015/10/29/dna-isolation-geoduck-olympia-oyster-2/)
+  * [geoduck gDNA for genome sequencing](2015/10/29/dna-isolation-geoduck-olympia-oyster-2.html)
 
     
-  * [Olympia oyster gDNA for genome sequencing](http://onsnetwork.org/kubu4/2015/10/29/dna-isolation-geoduck-olympia-oyster-2/)
+  * [Olympia oyster gDNA for genome sequencing](2015/10/29/dna-isolation-geoduck-olympia-oyster-2.html)
 
 
 

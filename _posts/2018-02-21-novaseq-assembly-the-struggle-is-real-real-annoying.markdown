@@ -36,10 +36,10 @@ Here are some of the struggles so far:
 
 
 
-    * [Ran out of hard drive space](http://onsnetwork.org/kubu4/2018/02/05/novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous/) - due to hardware limitations of our Apple Xserve
+    * [Ran out of hard drive space](2018/02/05/novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous.html) - due to hardware limitations of our Apple Xserve
 
 
-    * [Fixed HDD space issue, but Roadrunner locks up and has to be restarted](http://onsnetwork.org/kubu4/2018/02/05/novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous/); no error message(s) in log files to help troubleshoot
+    * [Fixed HDD space issue, but Roadrunner locks up and has to be restarted](2018/02/05/novaseq-assembly-trimmed-geoduck-novaseq-with-meraculous.html); no error message(s) in log files to help troubleshoot
 
 
 
@@ -60,7 +60,7 @@ Here are some of the struggles so far:
 
 
 
-  * Our [Mox node can't handle the memory requirements](http://onsnetwork.org/kubu4/2018/02/19/assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail/) needed for assembly.
+  * Our [Mox node can't handle the memory requirements](2018/02/19/assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail.html) needed for assembly.
 
 
 

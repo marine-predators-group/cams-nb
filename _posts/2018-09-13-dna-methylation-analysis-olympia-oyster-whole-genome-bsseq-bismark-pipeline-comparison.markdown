@@ -44,7 +44,7 @@ Input data was previously trimmed per Bismark's recommendation for Illumina TruS
 
 
 
-  * [Sam's Notebook 20180830](http://onsnetwork.org/kubu4/2018/08/30/fastqcmultiqctrimgaloremultiqcfastqcmultiqc-o-lurida-wgbsseq-for-methylation-analysis/)
+  * [Sam's Notebook 20180830](2018/08/30/fastqcmultiqctrimgaloremultiqcfastqcmultiqc-o-lurida-wgbsseq-for-methylation-analysis.html)
 
 
 
