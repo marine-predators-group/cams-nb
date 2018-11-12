@@ -17,8 +17,8 @@ lang: en-US
 title: Sam's Notebook
 email: samwhite@uw.edu
 description: University of Washington - Fishery Sciences - Roberts Lab
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://robertslab.github.io/sams-notebook/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: /sams-notebook # the optional subpath of your site, e.g. "/blog"
+url: https://robertslab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Sam White
   twitter: kubu4
