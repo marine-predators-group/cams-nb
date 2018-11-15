@@ -27,7 +27,7 @@ tags:
   - triploid
 ---
 
-After [DNasing Ronit's RNA earlier today](2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html), I needed to check for any residual gDNA.
+After [DNasing Ronit's RNA earlier today](2018-10-16-dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html), I needed to check for any residual gDNA.
 
 Identified some old, old C.gigas 18s primers that _should_ amplify gDNA:
 
