@@ -25,7 +25,7 @@ tags:
   - triploid
 ---
 
-Proceeded with reverse transcription of [Ronit's DNased ctenidia RNA (from 20181016)](2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html).
+Proceeded with reverse transcription of [Ronit's DNased ctenidia RNA (from 20181016)](2018-10-16-dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html).
 
 Reverse transcription was performed using 100ng of each sample with M-MMLV Reverse Transcriptase from Promega.
 
