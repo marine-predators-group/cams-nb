@@ -28,7 +28,7 @@ tags:
   - SsoFast EvaGreen Supermix
 ---
 
-The [qPCR I ran earlier today to check for residual gDNA in Ronit's DNased RNA] turned out terribly, due to a combination of bad primers and, possibly, bad gDNA.
+The [qPCR I ran earlier today to check for residual gDNA in Ronit's DNased RNA](2018-10-16-qpcr-ronits-dnased-c-gigas-ploidydessication-rna-with-18s-primers.html) turned out terribly, due to a combination of bad primers and, possibly, bad gDNA.
 
 I tracked down some different primers for testing:
 
