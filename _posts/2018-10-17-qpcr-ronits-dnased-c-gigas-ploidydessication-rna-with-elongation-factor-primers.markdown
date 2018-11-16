@@ -28,7 +28,7 @@ tags:
   - triploid
 ---
 
-[After I figured out the appropriate DNA and primers to use to detect gDNA in _Crassostrea gigas_ samples](2018/10/16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers.html), I checked Ronit's [DNased ctenidia RNA (from 20181016)](2018/10/16/dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html) for residual gDNA.
+[After I figured out the appropriate DNA and primers to use to detect gDNA in _Crassostrea gigas_ samples](2018-10-16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers.html), I checked Ronit's [DNased ctenidia RNA (from 20181016)](2018-10-16-dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html) for residual gDNA.
 
 Elongation factor primers:
 
@@ -43,7 +43,7 @@ Elongation factor primers:
 
 
 
-[BB16 from 20090519](2009/05/15/gdna-isolation-macs-bb-and-dh-site-samples.html) was used as a positive control.
+[BB16 from 20090519](2009-05-15-gdna-isolation-macs-bb-and-dh-site-samples.html) was used as a positive control.
 
 Samples were run on Roberts Lab CFX Connect (BioRad). All samples were run in duplicate. See qPCR Report (Results section) for plate layout, cycling params, etc.
 
