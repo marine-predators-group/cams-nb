@@ -39,7 +39,7 @@ Everything looks great! Nice, clean, gDNA-free RNA! Will proceed with reverse tr
 
 qPCR Report (PDF):
 
-  * [sam_2018-11-15 2013-17-42_BR006896.pdf]()
+  * [sam_2018-11-15 2013-17-42_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-11-15%2013-17-42_BR006896.pdf)
 
 qPCR File (PCRD):
 
@@ -47,7 +47,7 @@ qPCR File (PCRD):
 
 qPCR Data (CSV):
 
-  * []()
+  * [sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv)
 
 
 In the plots below, green is the positive control, blue are the samples, and red is the no template control (NTC).
