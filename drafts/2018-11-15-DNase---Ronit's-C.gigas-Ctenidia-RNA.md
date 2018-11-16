@@ -20,7 +20,7 @@ Ronit finished his RNA isolations for his ctenidia samples on [20181025](https:/
 
 - [20181114_qubit_RNA_ronit_ctenidia_1-10_dilution](https://docs.google.com/spreadsheets/d/1guXLs2mq0uV8bXmEET2HAlxrT_isBa5UL1Y3yy0KgR8/edit?usp=sharing)
 
-So, in preparation for reverse transcription, I DNased his samples using the Turbo DNA-free Kit (Ambion) according to the manufacturer's standard protocol.
+In preparation for reverse transcription, I DNased his samples using the Turbo DNA-free Kit (Ambion) according to the manufacturer's standard protocol.
 
 Used 500ng of each sample.
 
@@ -33,3 +33,5 @@ Calculations are here (Google Sheet):
 Ronit's master sheet (Google Sheet) is here:
 
 - [Exposure 8/29-8/30 C.Gigas](https://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
+
+Will check these via qPCR to verify whether or not they have any detectable gDNA.
