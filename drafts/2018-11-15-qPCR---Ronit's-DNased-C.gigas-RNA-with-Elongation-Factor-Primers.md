@@ -16,3 +16,52 @@ tags:
 categories:
   - Miscellaneous
 ---
+After [DNasing Ronit's RNA earlier today](https://robertslab.github.io/sams-notebook/2018/11/15/DNase-Ronit's-C.gigas-Ctenidia-RNA.html), I needed to verify the RNA was free of any contaminating gDNA.
+
+Used elongation factor primers:
+
+  * EF1_qPCR_5' (SRID 309)
+
+
+  * EF1_qPCR_3' (SRID 310)
+
+  [BB16 from 20090519](2009-05-15-gdna-isolation-macs-bb-and-dh-site-samples.html) was used as a positive control.
+
+  Samples were run on Roberts Lab CFX Connect (BioRad). All samples were run in duplicate. See qPCR Report (Results section) for plate layout, cycling params, etc.
+
+  qPCR master mix calcs (Google Sheet):
+
+* [20181115_qPCR_Ronit_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1OYVf7XhUydsK7SrhT3plEL0ykcRIrxzy1Wf7f9OOe68/edit?usp=sharing)
+
+#### Results
+
+Everything looks great! Nice, clean, gDNA-free RNA! Will proceed with reverse transcription.
+
+qPCR Report (PDF):
+
+  * [sam_2018-11-15 2013-17-42_BR006896.pdf]()
+
+qPCR File (PCRD):
+
+  * [sam_2018-11-15 2013-17-42_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-11-15%2013-17-42_BR006896.pcrd)
+
+qPCR Data (CSV):
+
+  * []()
+
+
+In the plots below, green is the positive control, blue are the samples, and red is the no template control (NTC).
+
+---
+
+##### Amplification Plots
+
+![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_amp_plots.png)
+
+
+
+* * *
+
+##### Melt Curves
+
+![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_melt_plots.png)
