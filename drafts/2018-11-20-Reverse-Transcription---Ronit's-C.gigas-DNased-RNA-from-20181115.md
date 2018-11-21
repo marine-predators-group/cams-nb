@@ -20,8 +20,14 @@ RNA and oligo dTs were incubated at 70<sup>o</sup>C for 10mins in a PTC-200 ther
 
 A master mix of buffer, dNTPs, and M-MLV was distributed to each sample (10uL to each sample), mixed, and incubated at 42<sup>o</sup>C for 1hr, 3min at 95<sup>o</sup>C, and then held overnight at 4<sup>o</sup>C in the PTC-200 thermal cycler.
 
-A 1:5 working dilution of each cDNA (5uL cDNA + 20uL PCR H<sub>2</sub>O was made and will be used for all subsequent qPCRs. 
+A 1:5 working dilution of each cDNA (5uL cDNA + 20uL PCR H<sub>2</sub>O was made and will be used for all subsequent qPCRs.
+
+All samples were stored in Ronit's -20<sup>o</sup>C box.
 
 Reverse transcription calcs (Google Sheet):
 
 - [201811120_Cgigas_ploidy_cDNA_calcs](https://docs.google.com/spreadsheets/d/1PtFerDO6iTCrimMAoaYlEUtb7d9PbGQxtIJoRQK2CnM/edit?usp=sharing)
+
+Info was added to Ronit's master sheet (Google Sheet):
+
+- [Exposure 8/29-8/30 C.Gigas](https://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
