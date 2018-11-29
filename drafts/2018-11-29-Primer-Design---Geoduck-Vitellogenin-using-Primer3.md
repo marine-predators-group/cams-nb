@@ -37,3 +37,39 @@ Although everything is explained pretty well in the Jupyter Notebook, here's the
 4. Design primers on best vitellogenin match (based on TransDecoder score and BLASTp e-values) using Primer3.
 
 5. Confirm primer specificity using [EMBOSS](http://emboss.sourceforge.net/download/)(v6.6.0) [primersearch tool](http://emboss.sourceforge.net/apps/cvs/emboss/apps/primersearch.html) to check all individual sequence files for possible matches.
+
+---
+
+#### RESULTS
+All files were transferred to Gannet using ```rsync```.
+
+Output direoctory:
+
+- [20181129_geoduck_vtg_primers/](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/)
+
+
+Primer3 human-readable output:
+- [20181129_primer3_primers.txt](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_primers.txt)
+
+Here's the info on the Primer3 top primer pair (scroll to the right to see primer sequences):
+
+---
+
+```
+PRIMER PICKING RESULTS FOR TRINITY_DN51983_c0_g1_i8.p1.cds
+
+No mispriming library specified
+Using 0-based sequence positions
+OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq
+LEFT PRIMER       1347   18   59.89   55.56    9.11   0.13   42.06 TTACGCCACGGCAACTGT
+RIGHT PRIMER      1471   18   60.05   61.11   10.11   0.00    0.00 CGCAGTGCCAACAAGCTG
+SEQUENCE SIZE: 14484
+INCLUDED REGION SIZE: 14484
+
+PRODUCT SIZE: 125, PAIR ANY_TH COMPL: 10.66, PAIR 3'_TH COMPL: 0.00
+```
+---
+
+Primer3 Primer Design Parameters:
+
+- [20181129_geoduck_vtg_primers/20181129_primer3_params.txt](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_params.txt)
