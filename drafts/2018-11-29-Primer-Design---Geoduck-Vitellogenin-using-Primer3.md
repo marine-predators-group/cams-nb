@@ -73,3 +73,15 @@ PRODUCT SIZE: 125, PAIR ANY_TH COMPL: 10.66, PAIR 3'_TH COMPL: 0.00
 Primer3 Primer Design Parameters:
 
 - [20181129_geoduck_vtg_primers/20181129_primer3_params.txt](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_params.txt)
+
+The EMBOSS ```primersearch``` tool produced only two matches:
+
+- [trinity_dn51983_c0_g1_i4.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i4.primersearch)
+
+- [trinity_dn51983_c0_g1_i8.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i8.primersearch)
+
+The second file is the original FastA file from which the primers were generated, so that's expected.
+
+The first file is the a different isoform of the same gene.
+
+In any case, I'll go ahead and order this primer set.
