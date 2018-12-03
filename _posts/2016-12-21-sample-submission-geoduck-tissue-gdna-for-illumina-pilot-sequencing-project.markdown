@@ -68,4 +68,4 @@ Other tissue was from a single, adult geoduck, collected by [Brent & Steven on 2
 
 
 
-In addition to the above 12 samples, ~1.5μg of geoduck gDNA ([isolated this morning](2016/12/21/dna-isolation-geoduck-gdna-for-potential-illumina-initiated-sequencing-project.html)) was sent.
+In addition to the above 12 samples, ~1.5μg of geoduck gDNA ([isolated this morning](2016-12-21-dna-isolation-geoduck-gdna-for-potential-illumina-initiated-sequencing-project.html)) was sent.
