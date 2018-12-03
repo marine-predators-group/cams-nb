@@ -67,7 +67,7 @@ Mox SBATCH submission script has all details on how the analyses were conducted:
 
 
 
-  * [20180830_oly_WGBSseq_trimming.sh](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_oly_WGBSseq_trimming.sh)
+  * [20180830_oly_WGBSseq_trimming.sh](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_oly_WGBSseq_trimming.sh)
 
 
 
@@ -89,7 +89,7 @@ Output folder:
 
 
 
-  * [20180830_oly_WGBSseq_trimming/](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/)
+  * [20180830_oly_WGBSseq_trimming/](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/)
 
 
 
@@ -97,7 +97,7 @@ Raw sequence FastQC output folder:
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_fastqc/](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_fastqc/)
+  * [20180830_oly_WGBSseq_trimming/20180830_fastqc/](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_fastqc/)
 
 
 
@@ -105,7 +105,7 @@ Raw sequence MultiQC report (HTML):
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_fastqc/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_fastqc/multiqc_report.html)
+  * [20180830_oly_WGBSseq_trimming/20180830_fastqc/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_fastqc/multiqc_report.html)
 
 
 
@@ -113,7 +113,7 @@ TrimGalore! output folder (trimmed FastQ files are here):
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_trimgalore/](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimgalore/)
+  * [20180830_oly_WGBSseq_trimming/20180830_trimgalore/](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimgalore/)
 
 
 
@@ -121,7 +121,7 @@ Trimming MultiQC report (HTML):
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_trimgalore/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimgalore/multiqc_report.html)
+  * [20180830_oly_WGBSseq_trimming/20180830_trimgalore/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimgalore/multiqc_report.html)
 
 
 
@@ -129,7 +129,7 @@ Trimmed FastQC output folder:
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/)
+  * [20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/)
 
 
 
@@ -137,6 +137,6 @@ Trimmed MultiQC report (HTML):
 
 
 
-  * [20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/multiqc_report.html)
+  * [20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180830_oly_WGBSseq_trimming/20180830_trimmed_fastqc/multiqc_report.html)
 
 

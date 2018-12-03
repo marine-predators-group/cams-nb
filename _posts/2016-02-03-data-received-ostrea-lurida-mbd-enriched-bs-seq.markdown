@@ -107,9 +107,9 @@ The 18 samples listed above had previously been MBD-enriched and then sent to Zy
 
 ZymoResearch data portal does not allow bulk download of files. However, I ended up using Chrono Download Manager extension for Google Chrome to allow for automated downloading of each file (per ZymoResearch recommendation).
 
-After download, the files were moved to their permanent storage location on Owl: http://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq
+After download, the files were moved to their permanent storage location on Owl: https://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq
 
-The [readme.md](http://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq/readme.md) file was updated to include project/file information.
+The [readme.md](https://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq/readme.md) file was updated to include project/file information.
 
 The file manipulations were performed in a Jupyter notebook (see below).
 
@@ -119,8 +119,8 @@ Total reads generated for this project: **1,481,836,875**
 
 
 
-Jupyter Notebook file: [20160203_Olurida_Zymo_Data_Handling.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb)
+Jupyter Notebook file: [20160203_Olurida_Zymo_Data_Handling.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb)
 
-Notebook Viewer: [20160203_Olurida_Zymo_Data_Handling.ipynb](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb)
+Notebook Viewer: [20160203_Olurida_Zymo_Data_Handling.ipynb](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb)
 
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160203_Olurida_Zymo_Data_Handling.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

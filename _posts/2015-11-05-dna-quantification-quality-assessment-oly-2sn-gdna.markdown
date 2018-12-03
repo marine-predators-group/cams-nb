@@ -38,14 +38,14 @@ Comparison of three different approaches to using the E.Z.N.A. Mollusc Kit:
 
 Results:
 
-Bioanalyzer Data File (XAD file): [2100 expert_DNA 12000_DE72902486_2015-11-04_15-06-32.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%2012000_DE72902486_2015-11-04_15-06-32.xad)
+Bioanalyzer Data File (XAD file): [2100 expert_DNA 12000_DE72902486_2015-11-04_15-06-32.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%2012000_DE72902486_2015-11-04_15-06-32.xad)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151104_gDNA_oly_2SN_plots.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_electropherograms.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_electropherograms.jpg)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_gels.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_gels.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_gels.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151104_bioanalyzer_gels.jpg)
 
 There's a LOT going on here. Will update this entry tomorrow with more info.

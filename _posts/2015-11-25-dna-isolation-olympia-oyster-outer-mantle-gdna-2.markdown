@@ -26,7 +26,7 @@ tags:
 
 Isolated additional gDNA for the genome sequencing. To try to improve the quality (260/280 & 260/230 ratios) of the gDNA, I added a chloroform step after the initial tissue homogenization.
 
-Used 123mg of Ostrea lurida outer mantle collected by [Brent & Steven on 20150812](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/).
+Used 123mg of Ostrea lurida outer mantle collected by [Brent & Steven on 20150812](https://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/).
 
 
 
@@ -81,7 +81,7 @@ For the Qubit, the samples were quantified using the Qubit dsDNA BR reagents (In
 
 Results:
 
-Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](https://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
+Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](httpss://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
 
 <table >
 <tbody >
@@ -135,8 +135,8 @@ NanoDrop Absorbance Values & Plots
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)
 
 

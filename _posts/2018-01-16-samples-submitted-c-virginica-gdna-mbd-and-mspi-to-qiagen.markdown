@@ -21,7 +21,7 @@ tags:
 
 Sent _Crassostrea virginica_ samples to Qiagen, as part of the collaboration we have with them for testing their new bisulfite conversion kit on various reduced representation DNA.
 
-Samples were sent on dry ice via FedEx International Priority: [771231112481](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=771231112481&clienttype=ivother)
+Samples were sent on dry ice via FedEx International Priority: [771231112481](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=771231112481&clienttype=ivother)
 
 Here are the samples I sent:
 
@@ -39,7 +39,7 @@ MspI digestions were performed using MspI (NEB) and were subjected to a phenol:c
 
 No tests have been performed on the samples to evaluate the presence/absence of non-oyster DNA.
 
-Reference genome is available here: [https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/](https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/)
+Reference genome is available here: [httpss://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/](https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/)
 
 Notebook entries:
 
@@ -49,7 +49,7 @@ Notebook entries:
 
 
 
-[http://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)
+[https://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)
 
 
 
@@ -57,11 +57,11 @@ Notebook entries:
 
 
 
-DNA Shearing and Bioanalyzer assessments: [http://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/](2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip.html)
-Day 1: [http://onsnetwork.org/kubu4/2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1/](2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1.html)
-Day 2: [http://onsnetwork.org/kubu4/2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2/](2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2.html)
-Day 3: [http://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3/](2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3.html)
-Quants: [http://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna/](2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna.html)
+DNA Shearing and Bioanalyzer assessments: [https://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/](2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip.html)
+Day 1: [https://onsnetwork.org/kubu4/2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1/](2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1.html)
+Day 2: [https://onsnetwork.org/kubu4/2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2/](2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2.html)
+Day 3: [https://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3/](2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3.html)
+Quants: [https://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna/](2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna.html)
 
 
 
@@ -69,6 +69,6 @@ Quants: [http://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-m
 
 
 
-Digestion: [http://onsnetwork.org/kubu4/2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna/](2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna.html)
-Phenol:Chloroform cleanup: [http://onsnetwork.org/kubu4/2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today/](2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today.html)
-Quants: [http://onsnetwork.org/kubu4/2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna/](2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna.html)
+Digestion: [https://onsnetwork.org/kubu4/2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna/](2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna.html)
+Phenol:Chloroform cleanup: [https://onsnetwork.org/kubu4/2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today/](2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today.html)
+Quants: [https://onsnetwork.org/kubu4/2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna/](2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna.html)

@@ -30,7 +30,7 @@ The job was run on our Mox HPC node.
 
 
 
-  * Slurm script: [20180421_kmergenie_k301_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/20180421_kmergenie_k301_geoduck_slurm.sh)
+  * Slurm script: [20180421_kmergenie_k301_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/20180421_kmergenie_k301_geoduck_slurm.sh)
 
 
 
@@ -46,7 +46,7 @@ Output folder:
 
 
 
-  * [20180421_kmergenie_k301_geoduck/](http://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/)
+  * [20180421_kmergenie_k301_geoduck/](https://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/)
 
 
 
@@ -54,7 +54,7 @@ Slurm output file:
 
 
 
-  * [20180421_kmergenie_k301_geoduck/slurm-163019.out](http://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/slurm-163019.out)
+  * [20180421_kmergenie_k301_geoduck/slurm-163019.out](https://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/slurm-163019.out)
 
 
 
@@ -62,10 +62,10 @@ Kmer histogram (HTML) reports:
 
 
 
-  * [20180421_kmergenie_k301_geoduck/histograms_report.html](http://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/histograms_report.html)
+  * [20180421_kmergenie_k301_geoduck/histograms_report.html](https://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/histograms_report.html)
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/20180421_kmergenie_k301_geoduck.png)
+![](https://owl.fish.washington.edu/Athaliana/20180421_kmergenie_k301_geoduck/20180421_kmergenie_k301_geoduck.png)
 
 Well, the graph is closer to what we'd expect, in that it appears to reach a zenith, but after that plateau, we see a sharp dropoff, as opposed to a gradual dropoff that mirrors the left half. Not entirely sure what the implications for this are, but I'll go ahead an run SparseAssembler using a kmer size of 131 and see how it goes.

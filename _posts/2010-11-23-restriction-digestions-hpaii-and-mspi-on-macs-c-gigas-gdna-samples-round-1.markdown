@@ -22,4 +22,4 @@ tags:
   - restriction digestion
 ---
 
-Set up restriction digests for subsequent analysis by methylation specific PCR (MSP). This will be the first of two rounds of digestion with the same enzyme on each sample. [Samples and master mixes are here](https://spreadsheets.google.com/ccc?key=to7CQ1otBUzv34826s53JiA&hl=en&authkey=CKqciPYM#gid=0). Samples were incubated 3hr. @ 37C. All samples were heat inactivated at 80C for 30mins and then stored @ -20C.
+Set up restriction digests for subsequent analysis by methylation specific PCR (MSP). This will be the first of two rounds of digestion with the same enzyme on each sample. [Samples and master mixes are here](httpss://spreadsheets.google.com/ccc?key=to7CQ1otBUzv34826s53JiA&hl=en&authkey=CKqciPYM#gid=0). Samples were incubated 3hr. @ 37C. All samples were heat inactivated at 80C for 30mins and then stored @ -20C.

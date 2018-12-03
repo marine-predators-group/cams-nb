@@ -24,7 +24,7 @@ RNA was isolated using 500uL of TriReagent for all samples. Samples were resuspe
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090930%20RNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090930%20RNA%20SJW.jpg)
 
 AC# = Air Control Sample
 

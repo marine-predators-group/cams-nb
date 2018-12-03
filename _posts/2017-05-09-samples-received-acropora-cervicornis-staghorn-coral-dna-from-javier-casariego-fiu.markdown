@@ -20,8 +20,8 @@ tags:
 
 Received 62 coral (_Acropora cervicornis_) DNA samples from Javier Casariego at FIU.
 
-Spreadsheet of samples and NanoDrop concentrations provided by Javier (converted to Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+Spreadsheet of samples and NanoDrop concentrations provided by Javier (converted to Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](httpss://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
 
 Samples were temporarily stored at 4c (in FTR 213) until I can perform global methylation assessment on them tomorrow.
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170509_javier_DNA_samples.jpg)

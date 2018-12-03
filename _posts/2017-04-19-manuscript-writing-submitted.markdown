@@ -24,14 +24,14 @@ tags:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170419_Overleaf_sci_data_oly_gbs_submission.png)](http://eagle.fish.washington.edu/Arabidopsis/20170419_Overleaf_sci_data_oly_gbs_submission.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170419_Overleaf_sci_data_oly_gbs_submission.png)](http://eagle.fish.washington.edu/Arabidopsis/20170419_Overleaf_sci_data_oly_gbs_submission.png)
 
 
 
 Here are some useful links:
 
-data records repo-URL: [https://osf.io/j8rc2/](https://osf.io/j8rc2/)
-draft repo-URL: [https://github.com/kubu4/paper_oly_gbs](https://github.com/kubu4/paper_oly_gbs)
-draft: [https://www.authorea.com/users/4974/articles/149442](https://www.authorea.com/users/4974/articles/149442)
-preprint (Overleaf): [https://www.overleaf.com/read/mqbbvmwxhncg](https://www.overleaf.com/read/mqbbvmwxhncg)
-preprint (PDF): [https://osf.io/cdj7m/](https://osf.io/cdj7m)
+data records repo-URL: [httpss://osf.io/j8rc2/](https://osf.io/j8rc2/)
+draft repo-URL: [httpss://github.com/kubu4/paper_oly_gbs](https://github.com/kubu4/paper_oly_gbs)
+draft: [httpss://www.authorea.com/users/4974/articles/149442](https://www.authorea.com/users/4974/articles/149442)
+preprint (Overleaf): [httpss://www.overleaf.com/read/mqbbvmwxhncg](https://www.overleaf.com/read/mqbbvmwxhncg)
+preprint (PDF): [httpss://osf.io/cdj7m/](https://osf.io/cdj7m)

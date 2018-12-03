@@ -21,7 +21,7 @@ tags:
 
 Ran the [coral DNA I quantified on 20160630](2016/06/30/dna-quantification-coral-dna-from-jose-m-eirin-lopez-florida-international-university.html) through the MethylFlash Methylated DNA Quantification Kit [Colorimetric] (Epigentek) kit to quantify global methylation.
 
-Used 100ng of DNA per 8uL per replicate (x2 replicates = total 200ng in 16uL). Calcs are here (Google Sheet): [20160705_coral_DNA_methylation_calcs](https://docs.google.com/spreadsheets/d/1683h5LXHM7f92xT7BgPqYJGBbQq9XBSlXDzjgRXDHug/edit?usp=sharing)
+Used 100ng of DNA per 8uL per replicate (x2 replicates = total 200ng in 16uL). Calcs are here (Google Sheet): [20160705_coral_DNA_methylation_calcs](httpss://docs.google.com/spreadsheets/d/1683h5LXHM7f92xT7BgPqYJGBbQq9XBSlXDzjgRXDHug/edit?usp=sharing)
 
 Manufacturer's protocol was followed.
 
@@ -37,7 +37,7 @@ Samples were quantified on the Seeb's plate reader @ 450nm  (Wallac 1420 Victor
 
 Results:
 
-Google Sheet: [20160707_coral_DNA_methylflash](https://docs.google.com/spreadsheets/d/1g8rLlWWkBIdTXfBDfyNcrsbLlxR6F-evprDec-prrpA/edit?usp=sharing)
+Google Sheet: [20160707_coral_DNA_methylflash](httpss://docs.google.com/spreadsheets/d/1g8rLlWWkBIdTXfBDfyNcrsbLlxR6F-evprDec-prrpA/edit?usp=sharing)
 
 <table cellpadding="0" cellspacing="0" border="1" dir="ltr" > 
 <tbody >

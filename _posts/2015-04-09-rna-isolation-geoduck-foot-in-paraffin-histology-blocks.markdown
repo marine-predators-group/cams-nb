@@ -24,7 +24,7 @@ tags:
   - RNA quantification
 ---
 
-Isolated RNA from geoduck gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Grace's notebook for full details on samples and preservation](http://genefish.wikispaces.com/Grace%27s+Notebook).
+Isolated RNA from geoduck gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Grace's notebook for full details on samples and preservation](https://genefish.wikispaces.com/Grace%27s+Notebook).
 
 
 
@@ -71,17 +71,17 @@ Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following
 
 
 
-Samples were stored at -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored at -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
 NOTE: The spreadsheet linked indicates other samples exist in the slots that I placed these two samples. Will need to update the spreadsheet to be accurate.
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)
 
 
 

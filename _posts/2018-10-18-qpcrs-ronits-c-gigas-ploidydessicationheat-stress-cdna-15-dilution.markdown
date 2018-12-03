@@ -45,7 +45,7 @@ tags:
   - SsoFast EvaGreen Supermix
 ---
 
-IMPORTANT: The cDNA used for the qPCRs described below was a 1:5 dilution of [Ronit's cDNA made 20181017](2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna.html) with the following [primers](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)! Diluted cDNA was stored in his -20<sup>o</sup>C box with his original cDNA.
+IMPORTANT: The cDNA used for the qPCRs described below was a 1:5 dilution of [Ronit's cDNA made 20181017](2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna.html) with the following [primers](httpss://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)! Diluted cDNA was stored in his -20<sup>o</sup>C box with his original cDNA.
 
 The following primers were used:
 
@@ -159,7 +159,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181018_qPCR_Cgigas_ploidy_cDNA](https://docs.google.com/spreadsheets/d/1B6_yzSxigiw1Ra_sflRSxHJRtecaQvXo-_gDVp_TUyM/edit?usp=sharing)
+  * [20181018_qPCR_Cgigas_ploidy_cDNA](httpss://docs.google.com/spreadsheets/d/1B6_yzSxigiw1Ra_sflRSxHJRtecaQvXo-_gDVp_TUyM/edit?usp=sharing)
 
 
 
@@ -191,7 +191,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-18 2011-28-40_BR006896_18s.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2011-28-40_BR006896_18s.pdf)
+  * [sam_2018-10-18 2011-28-40_BR006896_18s.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2011-28-40_BR006896_18s.pdf)
 
 
 
@@ -199,7 +199,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-18 2011-28-40_BR006896_18s.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2011-28-40_BR006896_18s.pcrd)
+  * [sam_2018-10-18 2011-28-40_BR006896_18s.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2011-28-40_BR006896_18s.pcrd)
 
 
 
@@ -207,7 +207,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18_11-28-40_BR006896_-__Quantification_Cq_Results_18s.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_11-28-40_BR006896_-__Quantification_Cq_Results_18s.csv)
+  * [sam_2018-10-18_11-28-40_BR006896_-__Quantification_Cq_Results_18s.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_11-28-40_BR006896_-__Quantification_Cq_Results_18s.csv)
 
 
 
@@ -217,7 +217,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_amp_plots_18s.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_amp_plots_18s.png)
 
 
 
@@ -225,7 +225,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_melt_plots_18s.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_melt_plots_18s.png)
 
 
 
@@ -245,7 +245,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2010-03-33_BR006896_DNMT1.pdf)
+  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2010-03-33_BR006896_DNMT1.pdf)
 
 
 
@@ -253,7 +253,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2010-03-33_BR006896_DNMT1.pcrd)
+  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2010-03-33_BR006896_DNMT1.pcrd)
 
 
 
@@ -261,7 +261,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pcrd](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_DNMT1.csv)
+  * [sam_2018-10-18 2010-03-33_BR006896_DNMT1.pcrd](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_DNMT1.csv)
 
 
 
@@ -271,7 +271,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_amp_plots_DNMT1.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_amp_plots_DNMT1.png)
 
 
 
@@ -279,7 +279,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_melt_plots_DNMT1.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_melt_plots_DNMT1.png)
 
 
 
@@ -299,7 +299,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-18 2008-20-51_BR006896_EF1.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2008-20-51_BR006896_EF1.pdf)
+  * [sam_2018-10-18 2008-20-51_BR006896_EF1.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2008-20-51_BR006896_EF1.pdf)
 
 
 
@@ -307,7 +307,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-18 2008-20-51_BR006896_EF1.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2008-20-51_BR006896_EF1.pcrd)
+  * [sam_2018-10-18 2008-20-51_BR006896_EF1.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2008-20-51_BR006896_EF1.pcrd)
 
 
 
@@ -315,7 +315,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_EF1.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_EF1.csv)
+  * [sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_EF1.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_EF1.csv)
 
 
 
@@ -325,7 +325,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_manual_threshold_linear_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_manual_threshold_linear_amp_plots.png)
 
 
 
@@ -333,7 +333,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_manual_threshold_log_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_manual_threshold_log_amp_plots.png)
 
 
 
@@ -341,7 +341,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_og_threshold_linear_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_og_threshold_linear_amp_plots.png)
 
 
 
@@ -349,7 +349,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_og_threshold_log_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_EF1_og_threshold_log_amp_plots.png)
 
 
 
@@ -357,7 +357,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_melt_plots_EF1.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_melt_plots_EF1.png)
 
 
 
@@ -377,7 +377,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-18 2011-28-40_BR006896_HSC70.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2011-28-40_BR006896_HSC70.pdf)
+  * [sam_2018-10-18 2011-28-40_BR006896_HSC70.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2011-28-40_BR006896_HSC70.pdf)
 
 
 
@@ -385,7 +385,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-18 2011-28-40_BR006896_HSC70.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2011-28-40_BR006896_HSC70.pcrd)
+  * [sam_2018-10-18 2011-28-40_BR006896_HSC70.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2011-28-40_BR006896_HSC70.pcrd)
 
 
 
@@ -393,7 +393,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18_11-28-40_BR006896_18s_-__Quantification_Cq_Results_HSC70.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_11-28-40_BR006896_18s_-__Quantification_Cq_Results_HSC70.csv)
+  * [sam_2018-10-18_11-28-40_BR006896_18s_-__Quantification_Cq_Results_HSC70.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_11-28-40_BR006896_18s_-__Quantification_Cq_Results_HSC70.csv)
 
 
 
@@ -403,7 +403,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_amp_plots_HSC70.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_amp_plots_HSC70.png)
 
 
 
@@ -411,7 +411,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_melt_plots_HSC70.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2011-28-40_melt_plots_HSC70.png)
 
 
 
@@ -431,7 +431,7 @@ qPCR Report (PDF):
 
 
 
-  * [cfx_connect_data/sam_2018-10-18 2008-20-51_BR006896_HSP90.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2008-20-51_BR006896_HSP90.pdf)
+  * [cfx_connect_data/sam_2018-10-18 2008-20-51_BR006896_HSP90.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2008-20-51_BR006896_HSP90.pdf)
 
 
 
@@ -439,7 +439,7 @@ qPCR File (PCRD):
 
 
 
-  * [cfx_connect_data/sam_2018-10-18 2008-20-51_BR006896_HSP90.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2008-20-51_BR006896_HSP90.pcrd)
+  * [cfx_connect_data/sam_2018-10-18 2008-20-51_BR006896_HSP90.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2008-20-51_BR006896_HSP90.pcrd)
 
 
 
@@ -447,7 +447,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_HSP90.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_HSP90.csv)
+  * [sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_HSP90.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_08-20-51_BR006896_-__Quantification_Cq_Results_HSP90.csv)
 
 
 
@@ -457,7 +457,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_HSP90_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_HSP90_amp_plots.png)
 
 
 
@@ -465,7 +465,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_HSP90_melt_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2008-20-51_HSP90_melt_plots.png)
 
 
 
@@ -485,7 +485,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-18 2010-03-33_BR006896_Prx6.pcrd](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2010-03-33_BR006896_Prx6.pdf)
+  * [sam_2018-10-18 2010-03-33_BR006896_Prx6.pcrd](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-18%2010-03-33_BR006896_Prx6.pdf)
 
 
 
@@ -493,7 +493,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-18 2010-03-33_BR006896_Prx6.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2010-03-33_BR006896_Prx6.pcrd)
+  * [sam_2018-10-18 2010-03-33_BR006896_Prx6.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-18%2010-03-33_BR006896_Prx6.pcrd)
 
 
 
@@ -501,7 +501,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_Prx6.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_Prx6.csv)
+  * [sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_Prx6.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18_10-03-33_BR006896_-__Quantification_Cq_Results_Prx6.csv)
 
 
 
@@ -511,7 +511,7 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_amp_plots_Prx6.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_amp_plots_Prx6.png)
 
 
 
@@ -519,4 +519,4 @@ qPCR Data (CSV):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_melt_plots_Prx6.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-18%2010-03-33_melt_plots_Prx6.png)

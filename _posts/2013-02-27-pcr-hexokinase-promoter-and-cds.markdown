@@ -25,7 +25,7 @@ Master mix calcs and cycling params are here.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20130228%20-%20HK%20gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20130228%20-%20HK%20gel.jpg)
 
 Ladder: Hyperladder II (Bioline)
 

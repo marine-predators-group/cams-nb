@@ -34,9 +34,9 @@ Master mix calcs are here. Cycling params can be found in the qPCR Data File (se
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.tad)(Opticon 2) http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.tad
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.tad)(Opticon 2) http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.tad
 
-[qPCR Raw Dat and PCR Miner Analysis](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.xlsx)(Excel) http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.xlsx
+[qPCR Raw Dat and PCR Miner Analysis](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.xlsx)(Excel) http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121108_172259.xlsx
 
 Reps look pretty good, although the 4C2 8.5.11 sample has consistently bad reps across all of today's runs. Data will be shared with Steven for comparison to Dave's Illumina data.
 

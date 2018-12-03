@@ -35,4 +35,4 @@ tags:
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20100329%20Bioanalyzer%20gel%20mRNA%20fragmented.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20100329%20Bioanalyzer%20gel%20mRNA%20fragmented.jpg)

@@ -36,4 +36,4 @@ SR04 = PolyA Tract kit
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20090320_Hclam_RNAs/20090319_Hclam_gel_LABELED.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20090320_Hclam_RNAs/20090319_Hclam_gel_LABELED.jpg)

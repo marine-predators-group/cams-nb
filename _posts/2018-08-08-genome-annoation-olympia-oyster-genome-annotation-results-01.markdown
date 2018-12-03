@@ -37,7 +37,7 @@ See that link for run setup and configuration.
 
 Before proceeding further, it should be noted that I neglected to provide Maker with a transposable elements FastA file for RepeatMasker to use.
 
-The following line in the [`maker_opts.ctl`](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/maker_opts.ctl) file was originally populated with an absolute path to data I didn't recognize, so I removed it:
+The following line in the [`maker_opts.ctl`](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/maker_opts.ctl) file was originally populated with an absolute path to data I didn't recognize, so I removed it:
 
 
     
@@ -59,7 +59,7 @@ Output folder:
 
 
 
-  * [20180807_wqmaker_run_oly_01](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/)
+  * [20180807_wqmaker_run_oly_01](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/)
 
 
 
@@ -67,7 +67,7 @@ Annotated genome file (GFF):
 
 
 
-  * [20180807_wqmaker_run_oly_01/Olurida_v081.all.gff (1GB)](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/Olurida_v081.all.gff)
+  * [20180807_wqmaker_run_oly_01/Olurida_v081.all.gff (1GB)](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/Olurida_v081.all.gff)
 
 
 

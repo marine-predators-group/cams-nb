@@ -25,7 +25,7 @@ tags:
 
 Recently, we've been bumping into our storage limit on Eagle (our Synology DS413):
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20160114_eagle_storage.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160114_eagle_storage.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20160114_eagle_storage.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160114_eagle_storage.jpg)
 
 
 
@@ -39,19 +39,19 @@ Here are the two output files from the fslint analysis:
 
 
     
-  * [20160104_duplicate_files_eagle_web.txt](http://eagle.fish.washington.edu/Arabidopsis/20160104_duplicate_files_eagle_web.txt)
+  * [20160104_duplicate_files_eagle_web.txt](https://eagle.fish.washington.edu/Arabidopsis/20160104_duplicate_files_eagle_web.txt)
 
     
-  * [20151229_duplicate_files_eagle_archive.txt](http://eagle.fish.washington.edu/Arabidopsis/20151229_duplicate_files_eagle_archive.txt)
+  * [20151229_duplicate_files_eagle_archive.txt](https://eagle.fish.washington.edu/Arabidopsis/20151229_duplicate_files_eagle_archive.txt)
 
 
 
 
 
 To get a summary of the fslint output, I tallied the total amount of duplicates files that were >100MB in size. This was performed in a Jupyter notebook (see below):
-Notebook Viewer: [20160114_wasted_space_synologies.ipynb](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb)
-Jupyter (IPython) Notebook File: [20160114_wasted_space_synologies.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb)
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+Notebook Viewer: [20160114_wasted_space_synologies.ipynb](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb)
+Jupyter (IPython) Notebook File: [20160114_wasted_space_synologies.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb)
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160114_wasted_space_synologies.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 
 Here are the cleaned output files from the fslint analysis:
@@ -60,10 +60,10 @@ Here are the cleaned output files from the fslint analysis:
 
 
     
-  * [20151229_duplicate_files_eagle_archive_cleaned.txt](http://eagle.fish.washington.edu/Arabidopsis/20151229_duplicate_files_eagle_archive_cleaned.txt)
+  * [20151229_duplicate_files_eagle_archive_cleaned.txt](https://eagle.fish.washington.edu/Arabidopsis/20151229_duplicate_files_eagle_archive_cleaned.txt)
 
     
-  * [20151229_duplicate_files_eagle_web_cleaned.txt](http://eagle.fish.washington.edu/Arabidopsis/20160104_duplicate_files_eagle_web_cleaned.txt)
+  * [20151229_duplicate_files_eagle_web_cleaned.txt](https://eagle.fish.washington.edu/Arabidopsis/20160104_duplicate_files_eagle_web_cleaned.txt)
 
 
 

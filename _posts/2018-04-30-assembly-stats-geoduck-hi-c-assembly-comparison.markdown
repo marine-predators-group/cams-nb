@@ -35,10 +35,10 @@ Ran the following Quast command to compare [the two geoduck assemblies provided 
 
 
 
-Quast Output folder: [results_2018_04_30_11_16_04/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/)
+Quast Output folder: [results_2018_04_30_11_16_04/](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/)
 
-Quast report (HTML): [results_2018_04_30_11_16_04/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/report.html)
+Quast report (HTML): [results_2018_04_30_11_16_04/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_11_16_04/report.html)
 
-![](http://owl.fish.washington.edu/Athaliana/20180430_quast_pga_assemblies.png)
+![](https://owl.fish.washington.edu/Athaliana/20180430_quast_pga_assemblies.png)
 
 The two assemblies are _nearly_ identical. Interesting...

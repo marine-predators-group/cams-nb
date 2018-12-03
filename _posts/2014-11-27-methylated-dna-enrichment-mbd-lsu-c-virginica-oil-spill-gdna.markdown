@@ -22,7 +22,7 @@ Ran ~250ng of sheared C.virginica gDNA from yesterday's shearing.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141126_-_Sheared_Oil_Spill_gDNA.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141126_-_Sheared_Oil_Spill_gDNA.png)
 
 Ladder used: O'GeneRuler 100bp Ladder (ThermoFisher)
 

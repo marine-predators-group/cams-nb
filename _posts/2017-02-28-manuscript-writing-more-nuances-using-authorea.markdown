@@ -18,11 +18,11 @@ tags:
 
 As a collaborative writing platform, it also has issues.
 
-I recently received email notifications about comments made on the manuscript. However, [when visiting my manuscript on Authorea](https://www.authorea.com/users/4974/articles/149442-genotoype-by-sequencing-of-three-geographically-distinct-populations-of-the-olympia-oyster-ostrea-lurida), there are no indications that any comments have been made...
+I recently received email notifications about comments made on the manuscript. However, [when visiting my manuscript on Authorea](httpss://www.authorea.com/users/4974/articles/149442-genotoype-by-sequencing-of-three-geographically-distinct-populations-of-the-olympia-oyster-ostrea-lurida), there are no indications that any comments have been made...
 
 As it turns out, comments are currently only viewable when using Private Browsing/Incognito modes on your browser!!!
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)
 
 
 
@@ -34,7 +34,7 @@ I found this out by using the chat feature that's built into Authorea. This feat
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)
 
 
 

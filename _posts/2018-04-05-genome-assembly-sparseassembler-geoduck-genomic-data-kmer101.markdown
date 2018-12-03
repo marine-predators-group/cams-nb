@@ -58,7 +58,7 @@ Will restart tonight once Mox is back online.
 
 
 
-OK, here we go! Initiatied an assembly run using  [SparseAssembler](https://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
+OK, here we go! Initiatied an assembly run using  [SparseAssembler](httpss://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
 
 
 
@@ -83,7 +83,7 @@ Kmer size set to 101.
 
 This is 118 files of sequencing data!! Fingers crossed...
 
-Slurm script: [20180405_sparse_assembler_kmer101_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/20180405_sparse_assembler_kmer101_geoduck_slurm.sh)
+Slurm script: [20180405_sparse_assembler_kmer101_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/20180405_sparse_assembler_kmer101_geoduck_slurm.sh)
 
 
     
@@ -243,7 +243,7 @@ Slurm script: [20180405_sparse_assembler_kmer101_geoduck_slurm.sh](http://owl.fi
 
 
 
-Output folder: [20180405_sparseassembler_kmer101_geoduck/](http://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/)
+Output folder: [20180405_sparseassembler_kmer101_geoduck/](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/)
 
 Slurm output files:
 
@@ -251,13 +251,13 @@ Slurm output files:
 
 
 
-  * [20180405_sparseassembler_kmer101_geoduck/slurm-156637.out](http://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/slurm-156637.out)
+  * [20180405_sparseassembler_kmer101_geoduck/slurm-156637.out](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/slurm-156637.out)
 
 
-  * [20180405_sparseassembler_kmer101_geoduck/slurm-158691.out](http://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/slurm-158691.out)
+  * [20180405_sparseassembler_kmer101_geoduck/slurm-158691.out](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/slurm-158691.out)
 
 
 
-SparseAssembler Assembly (FASTA): [Contigs.txt](http://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/Contigs.txt)
+SparseAssembler Assembly (FASTA): [Contigs.txt](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/Contigs.txt)
 
-Added this to the [GitHub wiki for our geoduck genome assemblies.](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
+Added this to the [GitHub wiki for our geoduck genome assemblies.](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)

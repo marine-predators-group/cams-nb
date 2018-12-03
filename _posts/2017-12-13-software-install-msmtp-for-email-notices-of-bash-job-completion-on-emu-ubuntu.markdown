@@ -22,7 +22,7 @@ tags:
 
 [After I finally resolved the installation of PB Jelly on Emu](2017/11/30/troubleshooting-pb-jelly-install-on-emu-continued.html) (running Ubuntu 16.04), I've had a PB Jelly assembly running for the past two weeks! I've gotten tired of checking on its status (i.e. is it still running?) every day, so I dove in and figured out how to set up Emu to email me when the job is complete!
 
-To get this going, I mainly followed this [msmtp ArchWiki guide.](https://wiki.archlinux.org/index.php/Msmtp), but here are the specifics of how I set it up.
+To get this going, I mainly followed this [msmtp ArchWiki guide.](httpss://wiki.archlinux.org/index.php/Msmtp), but here are the specifics of how I set it up.
 
 
 
@@ -110,7 +110,7 @@ This is a configuration to allow emails to get sent via the Univ. of Washington 
 
 
 
-#### Step 5. Assigned `sendmail` to use `msmtp` with the `set` command (this sets the following command as a [positional parameter](https://www.gnu.org/software/bash/manual/html_node/Positional-Parameters.html) by adding to the `/etc/mail.rc` file:
+#### Step 5. Assigned `sendmail` to use `msmtp` with the `set` command (this sets the following command as a [positional parameter](httpss://www.gnu.org/software/bash/manual/html_node/Positional-Parameters.html) by adding to the `/etc/mail.rc` file:
 
 
 
@@ -170,7 +170,7 @@ Anyway, not bad! However, we want to make this a bit nicer and more secure.
 
 
 
-Follow the instructions under the [Creating an Encryption Key section at this link.](https://kb.iu.edu/d/awio)
+Follow the instructions under the [Creating an Encryption Key section at this link.](httpss://kb.iu.edu/d/awio)
 
 DO NOT CREATE A PASSWORD! JUST HIT ENTER WHEN AT THAT STEP.
 

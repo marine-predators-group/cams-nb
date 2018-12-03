@@ -31,7 +31,7 @@ SBATCH script:
 
 
 
-  * [20180827_oly_trinity.sh](http://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/20180827_oly_trinity.sh)
+  * [20180827_oly_trinity.sh](https://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/20180827_oly_trinity.sh)
 
 
 
@@ -63,7 +63,7 @@ Output folder:
 
 
 
-  * [20180827_trinity_oly_RNAseq/](http://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/)
+  * [20180827_trinity_oly_RNAseq/](https://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/)
 
 
 
@@ -71,8 +71,8 @@ Trinity assembly (FastA):
 
 
 
-  * [20180827_trinity_oly_RNAseq/Trinity.fasta](http://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/Trinity.fasta)
+  * [20180827_trinity_oly_RNAseq/Trinity.fasta](https://owl.fish.washington.edu/Athaliana/20180827_trinity_oly_RNAseq/Trinity.fasta)
 
 
 
-Next up, I'll [follow up on this GitHub issue](https://github.com/RobertsLab/resources/issues/356) and get some bedgraphs generated.
+Next up, I'll [follow up on this GitHub issue](httpss://github.com/RobertsLab/resources/issues/356) and get some bedgraphs generated.

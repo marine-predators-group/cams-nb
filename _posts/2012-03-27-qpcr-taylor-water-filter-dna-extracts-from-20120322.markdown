@@ -21,13 +21,13 @@ tags:
 
 Ran qPCR on the Taylor water filter DNA extracts from [20120322](/Sam%27s+Working+Notebook+January+-+March+2012#sjw20120322) using V.tubiashii VtpA primers (provide by Elene; no SR ID?) instead of 16s primers, which failed to produce acceptable results in the melt curves (see [20120323](/Sam%27s+Working+Notebook+January+-+March+2012#sjw20120323)). Additionally, Elene has a standard curve for V. tubiashii (from 1/12/2011) based off of CFUs/mL, which will allow us to quantify theoretical number of V.tubiashii CFUs present in each sample.
 
-[Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120326-01.jpg). Plate layout, cycling params, etc. can be found in the qPCR Report (see Results).
+[Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120326-01.jpg). Plate layout, cycling params, etc. can be found in the qPCR Report (see Results).
 
 Results:
 
-[qPCR Date File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-26%2012-54-03_CC009827.pcrd) (CFX96)
+[qPCR Date File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-26%2012-54-03_CC009827.pcrd) (CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-26%2012-54-03_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-26%2012-54-03_CC009827.pdf) (PDF)
 
 Overall, the run looks excellent. Both negative controls and no template controls are clean. Since I was able to use a standard curve, I determined CFUs of V.tubiashii in each sample, as follows:
 

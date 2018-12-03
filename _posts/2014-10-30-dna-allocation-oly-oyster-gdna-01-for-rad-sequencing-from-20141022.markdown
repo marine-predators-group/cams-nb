@@ -14,4 +14,4 @@ categories:
 
 Transferred 500ng of gDNA from each sample to a 96-well, low-profile, non-skirted PCR plate (sample layout matches that of the layout of the source gDNA plate) and air-dried the samples over night.
 
-Calculations for volumes is here: [20141022-OlyRADdnaConcentrations](https://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
+Calculations for volumes is here: [20141022-OlyRADdnaConcentrations](httpss://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)

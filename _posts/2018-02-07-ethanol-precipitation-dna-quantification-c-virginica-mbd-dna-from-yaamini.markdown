@@ -21,7 +21,7 @@ tags:
   - ZymoResearch
 ---
 
-Finished the ethanol precipitation as described in the [MethylMiner (Invitrogen) manual](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Invitrogen_MethylMiner_Manual.pdf) which Yaamini had previously initiated: [https://yaaminiv.github.io/Virginica-MBDSeq-Day4/](https://yaaminiv.github.io/Virginica-MBDSeq-Day4/)
+Finished the ethanol precipitation as described in the [MethylMiner (Invitrogen) manual](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Invitrogen_MethylMiner_Manual.pdf) which Yaamini had previously initiated: [https://yaaminiv.github.io/Virginica-MBDSeq-Day4/](https://yaaminiv.github.io/Virginica-MBDSeq-Day4/)
 
 Samples were resuspended in 25μL of Buffer EB (Qiagen) and transferred to 0.5mL snap cap tubes. All tubes were labeled as: MBD CV #
 
@@ -31,7 +31,7 @@ Used 1uL of template DNA.
 
 Results:
 
-Quantification Spreadsheet (Google Sheet):[20180207_qubit_DNA_HS_MBD_virginica](https://docs.google.com/spreadsheets/d/1p13VsqTMrynvWIfokPVAwqaL78_GA6QtTZ0NAgLVfSI/edit?usp=sharing)
+Quantification Spreadsheet (Google Sheet):[20180207_qubit_DNA_HS_MBD_virginica](httpss://docs.google.com/spreadsheets/d/1p13VsqTMrynvWIfokPVAwqaL78_GA6QtTZ0NAgLVfSI/edit?usp=sharing)
 
 One sample (MBD CV 106) may not be usable due to low yield. However, the remainder should work fine.
 

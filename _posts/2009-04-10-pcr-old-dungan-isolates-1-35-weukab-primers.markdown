@@ -17,10 +17,10 @@ tags:
   - PCR
 ---
 
-Steven had me re-PCR the old Dungan isolates with the new EukA/B primers. Anneal temp 50C. [PCR set up here (bottom half of sheet)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090410-01.jpg) .
+Steven had me re-PCR the old Dungan isolates with the new EukA/B primers. Anneal temp 50C. [PCR set up here (bottom half of sheet)](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090410-01.jpg) .
 
 NOTE: Sample #30 was not in the rack of tubes that Steven gave to me.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090410-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090410-01.jpg)
 
 Results:

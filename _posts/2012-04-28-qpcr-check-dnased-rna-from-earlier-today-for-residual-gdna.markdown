@@ -25,8 +25,8 @@ Ran qPCR using V.tubiashii VtpA primers (from Elene; no SR ID). Used 0.5uL of ea
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-04-27%2013-31-42_CC009827.pcrd) (CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-04-27%2013-31-42_CC009827.pcrd) (CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-04-27%2013-31-42_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-04-27%2013-31-42_CC009827.pdf) (PDF)
 
 All samples showed up negative, except for the positive control. Will proceed with making cDNA on Monday.

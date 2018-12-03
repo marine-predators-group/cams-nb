@@ -23,7 +23,7 @@ tags:
 
 Ran a PCR to obtain luciferase DNA for sequencing.
 
-Used sea pen [gDNA extracted by Jonathan on 20150527](http://jda26.blogspot.com/2015/05/05272015-started-dna-extraction-on.html).
+Used sea pen [gDNA extracted by Jonathan on 20150527](https://jda26.blogspot.com/2015/05/05272015-started-dna-extraction-on.html).
 
 Primers:
 
@@ -90,7 +90,7 @@ Results:
 
 
 
-[![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OGeneRuler100bpDNA_ladder.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OGeneRuler100bpDNA_ladder.jpg?raw=true)[![](http://eagle.fish.washington.edu/Arabidopsis/20150702_seapen_PCR_gel.jpeg)](http://eagle.fish.washington.edu/Arabidopsis/20150702_seapen_PCR_gel.jpeg)
+[![](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OGeneRuler100bpDNA_ladder.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OGeneRuler100bpDNA_ladder.jpg?raw=true)[![](http://eagle.fish.washington.edu/Arabidopsis/20150702_seapen_PCR_gel.jpeg)](http://eagle.fish.washington.edu/Arabidopsis/20150702_seapen_PCR_gel.jpeg)
 
 Loading:
 

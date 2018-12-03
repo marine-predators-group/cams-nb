@@ -20,7 +20,7 @@ tags:
 
 [I had previously submitted the two non-demultiplexed genotype-by-sequencing (GBS) files provided by BGI to the NCBI short read archive (SRA)](2017/02/08/data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files.html).
 
-Recently, [Jay responded to an issue I had posted on the GitHub repo](https://github.com/kubu4/paper_oly_gbs/issues/2) for the manuscript we're writing about this data.
+Recently, [Jay responded to an issue I had posted on the GitHub repo](httpss://github.com/kubu4/paper_oly_gbs/issues/2) for the manuscript we're writing about this data.
 
 He noticed that the SRA no longer wants "raw data dumps" (i.e. the type of submission I made before). So, that means I had to prepare the demultiplexed files provided by BGI to actually submit to the SRA.
 
@@ -32,7 +32,7 @@ Today, I created a batch BioSample submission:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)
 
 
 
@@ -42,7 +42,7 @@ Initiated the submission process (Ummm, this looks like it's going to take awhil
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)
 
 
 
@@ -50,7 +50,7 @@ Initiated the submission process (Ummm, this looks like it's going to take awhil
 
 Aaaaaand, it failed:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)
 
 
 
@@ -58,4 +58,4 @@ Aaaaaand, it failed:
 
 It seems like the FTP failed at some point, as there's nothing about those seven files that would separate them from the remaining 185 files. Additional support for FTP failure is that the 1SN_1A_1.fq.gz error message makes it sound like only part of the file got transferred.
 
-I'll retrieve those files from our [UW Google Drive](https://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk) ([since their original home on Owl is still down](2017/03/18/troubleshooting-synology-nas-owl-down-after-update.html)) and get them trasnferred to the SRA.
+I'll retrieve those files from our [UW Google Drive](httpss://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk) ([since their original home on Owl is still down](2017/03/18/troubleshooting-synology-nas-owl-down-after-update.html)) and get them trasnferred to the SRA.

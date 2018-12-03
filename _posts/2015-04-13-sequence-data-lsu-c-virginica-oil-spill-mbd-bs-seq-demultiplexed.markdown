@@ -20,9 +20,9 @@ tags:
   - oil
 ---
 
-I had previously contacted Doug Turnbull at the [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) for help demultiplexing this data, as it was initially returned to us as a single data set with "no index" (i.e. barcode) set for any of [the libraries that were sequenced](2015/02/09/sequencing-data-lsu-c-virginica-mbd-bs-seq.html). As it turns out, when multiplexed libraries are sequenced using the Illumina platform, an index read step needs to be "enabled" on the machine for sequencing. Otherwise, the machine does not perform the index read step (since it wouldn't be necessary for a single library). Surprisingly, the sample submission form for the [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/)  doesn't request any information regarding whether or not a submitted sample has been multiplexed. However, by default, they enable the index read step on all sequencing runs. I provided them with the barcodes and they demultiplexed them after the fact.
+I had previously contacted Doug Turnbull at the [Univ. of Oregon Genomics Core Facility](https://gcf.uoregon.edu:8080/) for help demultiplexing this data, as it was initially returned to us as a single data set with "no index" (i.e. barcode) set for any of [the libraries that were sequenced](2015/02/09/sequencing-data-lsu-c-virginica-mbd-bs-seq.html). As it turns out, when multiplexed libraries are sequenced using the Illumina platform, an index read step needs to be "enabled" on the machine for sequencing. Otherwise, the machine does not perform the index read step (since it wouldn't be necessary for a single library). Surprisingly, the sample submission form for the [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/)  doesn't request any information regarding whether or not a submitted sample has been multiplexed. However, by default, they enable the index read step on all sequencing runs. I provided them with the barcodes and they demultiplexed them after the fact.
 
-I downloaded the new, demultiplexed files to [Owl/nightingales/C_virginica](http://owl.fish.washington.edu/nightingales/C_virginica/):
+I downloaded the new, demultiplexed files to [Owl/nightingales/C_virginica](https://owl.fish.washington.edu/nightingales/C_virginica/):
 
 lane1_ACAGTG_L001_R1_001.fastq.gz
 lane1_ACAGTG_L001_R1_002.fastq.gz
@@ -60,10 +60,10 @@ New file names:
 2112_lane1_TTAGGC_L001_R1_001.fastq.gz
 2112_lane1_TTAGGC_L001_R1_002.fastq.gz
 
-Updated the [checksums.md5](http://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5) file to include the new files (the command is written to exclude the previously downloaded files that are named "2112_lane1_NoIndex_"; the [^N] regex excludes any files that have a capital 'N' at that position in the file name):
+Updated the [checksums.md5](https://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5) file to include the new files (the command is written to exclude the previously downloaded files that are named "2112_lane1_NoIndex_"; the [^N] regex excludes any files that have a capital 'N' at that position in the file name):
 
 `$for file in 2112_lane1_[^N]*; do md5 "$file" >> checksums.md5; done`
 
-Updated the [readme.md](http://owl.fish.washington.edu/nightingales/C_virginica/readme.md) file to reflect the addition of these new files.
+Updated the [readme.md](https://owl.fish.washington.edu/nightingales/C_virginica/readme.md) file to reflect the addition of these new files.
 
 

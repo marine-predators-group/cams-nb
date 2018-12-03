@@ -24,7 +24,7 @@ tags:
 
 Since we still don't have sufficient gDNA for the full scope of the Olympia oyster genome sequencing, I isolated more gDNA.
 
-Isolated gDNA from 118mg [outer mantle tissue collected by Steven & Brent on 20150812](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/).
+Isolated gDNA from 118mg [outer mantle tissue collected by Steven & Brent on 20150812](https://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/).
 
 Tissue was thoroughly minced with a clean razor blade and then processed with the E.Z.N.A. Mollusc Kit (Omega BioTek) with the following changes:
 
@@ -118,14 +118,14 @@ Regardless, this is a solid yield and, when combined with the other _Ostrea luri
 
 Will evaluate gDNA quality on a gel.
 
-Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](https://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
+Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](httpss://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
 
 
 
 NanoDrop1000 Measurements and Plots
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)
 
 

@@ -23,7 +23,7 @@ tags:
 
 Pooled "low quality" samples and pooled "high quality" samples separately (in 1.5mL snap cap tubes) prior to shearing to improve chances of getting similar DNA size ranges.
 
-Samples were selected based on the gels run by Steven on Oct. 17, 2014: http://sr320.tumblr.com/
+Samples were selected based on the gels run by Steven on Oct. 17, 2014: https://sr320.tumblr.com/
 
 Low quality samples (5uL from each):
 
@@ -68,7 +68,7 @@ Sheared each samples with the following cycling protocols on the Biorupter Plus 
 
 Ran a subset of sheared gDNA (5uL from each pool) on gel to verify final size range:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADp1Sheared.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADp1Sheared.png)
 
 Gel loading:
 
@@ -86,11 +86,11 @@ After confirming satisfactory shearing, the two samples were combined and run on
 
 O'GeneRuler 100bp Ladder (ThermoFisher)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-01.JPG)
 
 O'GeneRuler 100bp Ladder (ThermoFisher)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-02.JPG)
 
 Size range of sheared DNA from 300 - 500bp was excised from gel.
 

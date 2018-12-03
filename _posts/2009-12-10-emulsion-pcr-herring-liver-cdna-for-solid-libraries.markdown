@@ -32,6 +32,6 @@ Emulsion PCR was performed with the two inner gel bands cut out earlier today ac
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20091211%20SOLiD%20cDNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20091211%20SOLiD%20cDNA%20SJW.jpg)
 
 All samples look good EXCEPT for 4L. It has a terrible 260/230 ratio and has a very low concentration, relative to the other three samples. Although not pictured here, the absorbance curve of the 4L sample was extremely poor and broad, unlike the other three samples.

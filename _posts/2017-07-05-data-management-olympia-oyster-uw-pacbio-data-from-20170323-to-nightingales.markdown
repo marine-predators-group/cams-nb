@@ -17,4 +17,4 @@ tags:
   - PacBio
 ---
 
-Added UW PacBio FASTQ files to our [nightingales Google Sheet](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) for keeping track of our high-throughput sequencing projects.
+Added UW PacBio FASTQ files to our [nightingales Google Sheet](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) for keeping track of our high-throughput sequencing projects.

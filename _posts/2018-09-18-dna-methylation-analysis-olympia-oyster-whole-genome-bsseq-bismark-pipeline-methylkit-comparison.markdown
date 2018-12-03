@@ -33,7 +33,7 @@ I previously ran two variations on the Bismark analysis for our Olympia oyster w
 
 I followed this up using the MethylKit R package to identify differentially modified loci (DML), based on differing amounts of coverage (1x, 3x, 5x, & 10x) and percent methylation differences between the two groups of oysters (25%, 50%, & 75%).
 
-[See the project wiki for experimental design info](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)).
+[See the project wiki for experimental design info](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)).
 
 Both sets of analyses were documented in R Projects:
 
@@ -47,7 +47,7 @@ Both sets of analyses were documented in R Projects:
 
 
 
-  * [20180912_oly_methylkit (GitHub)](https://github.com/RobertsLab/code/tree/master/r_projects/sam/20180912_oly_methylkit)
+  * [20180912_oly_methylkit (GitHub)](httpss://github.com/RobertsLab/code/tree/master/r_projects/sam/20180912_oly_methylkit)
 
 
 
@@ -61,7 +61,7 @@ Both sets of analyses were documented in R Projects:
 
 
 
-  * [20180913_oly_methylkit](https://github.com/RobertsLab/code/tree/master/r_projects/sam/20180913_oly_methylkit)
+  * [20180913_oly_methylkit](httpss://github.com/RobertsLab/code/tree/master/r_projects/sam/20180913_oly_methylkit)
 
 
 
@@ -89,7 +89,7 @@ BedGraphs (1x coverage, 25% diff in methylation):
 
 
 
-  * [20180912_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed](https://github.com/RobertsLab/code/blob/master/r_projects/sam/20180912_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed)
+  * [20180912_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed](httpss://github.com/RobertsLab/code/blob/master/r_projects/sam/20180912_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed)
 
 
 
@@ -103,7 +103,7 @@ BedGraphs (1x coverage, 25% diff in methylation):
 
 
 
-  * [20180913_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed](https://github.com/RobertsLab/code/blob/master/r_projects/sam/20180913_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed)
+  * [20180913_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed](httpss://github.com/RobertsLab/code/blob/master/r_projects/sam/20180913_oly_methylkit/analyses/OlyFbOb_1x_cov_25percentDiff.bed)
 
 
 

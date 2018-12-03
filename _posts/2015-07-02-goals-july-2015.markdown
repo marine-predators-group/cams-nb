@@ -40,7 +40,7 @@ Done. Data from this was received 20150629.
 
 
 
-Little progress. No response from Univ. of Oregon. However, it seems that [Mac has been having a similar issue with libraries constructed using Epigentek kits](https://github.com/sr320/LabDocs/issues/117). She has contacted Illumina and Epigentek for help.
+Little progress. No response from Univ. of Oregon. However, it seems that [Mac has been having a similar issue with libraries constructed using Epigentek kits](httpss://github.com/sr320/LabDocs/issues/117). She has contacted Illumina and Epigentek for help.
 
 
 
@@ -74,7 +74,7 @@ Goal(s):
   * Lab cleanup tasks
 
     
-  * Assist on [Jonathan’s Capstone project](http://genefish.wikispaces.com/Jonathan%27s+Notebook)
+  * Assist on [Jonathan’s Capstone project](https://genefish.wikispaces.com/Jonathan%27s+Notebook)
 
     
   * Establish go-to location for lab personnel questions
@@ -100,7 +100,7 @@ Status:
   * Lab cleanup tasks – Partial progress. Autoclaved multiple bags of old autoclave trash.
 
     
-  * Assist on [Jonathan’s Capstone project](http://genefish.wikispaces.com/Jonathan%27s+Notebook) – Improved my time management working with Jonathan, but his sequencing results are a bit odd and he needs guidance on how to manipulate, and comprehend, what the data means.
+  * Assist on [Jonathan’s Capstone project](https://genefish.wikispaces.com/Jonathan%27s+Notebook) – Improved my time management working with Jonathan, but his sequencing results are a bit odd and he needs guidance on how to manipulate, and comprehend, what the data means.
 
     
   * Successfully taught both the shell and GitHub at Software Carpentry.

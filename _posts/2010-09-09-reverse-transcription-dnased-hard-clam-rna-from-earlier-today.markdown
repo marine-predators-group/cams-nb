@@ -23,4 +23,4 @@ tags:
   - reverse transcription
 ---
 
-Prepared cDNA using 1ug of RNA from each of the 3 pools (CA, MA, MAX) and processed according to Promega's M-MLV protocol, using oligo dT primers. [Calcs and master mix set up are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdEVLYTlhWlA3M0V0Y0luNzh3bU85SVE&hl=en&authkey=CKvPlt8G). Briefly, RNA was combined with oligo dT primers, denatured @ 70C for 5mins, immediately placed on ice for 2mins, mixed with RT master mix, incubated 1hr @ 42C, 3mins @ 95C, and then stored @ -20C.
+Prepared cDNA using 1ug of RNA from each of the 3 pools (CA, MA, MAX) and processed according to Promega's M-MLV protocol, using oligo dT primers. [Calcs and master mix set up are here](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdEVLYTlhWlA3M0V0Y0luNzh3bU85SVE&hl=en&authkey=CKvPlt8G). Briefly, RNA was combined with oligo dT primers, denatured @ 70C for 5mins, immediately placed on ice for 2mins, mixed with RT master mix, incubated 1hr @ 42C, 3mins @ 95C, and then stored @ -20C.

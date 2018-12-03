@@ -21,7 +21,7 @@ tags:
   - transcriptome
 ---
 
-Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.
+Progress on generating [bedgraphs from our Olympia oyster transcriptome](httpss://github.com/RobertsLab/resources/issues/356) continues.
 
 [Transcriptome assembly with Trinity completed 20180919](2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
 
@@ -37,7 +37,7 @@ SBATCH script file:
 
 
 
-  * [20180924_oly_RNAseq_bedgraphs.sh](http://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/20180924_oly_RNAseq_bedgraphs.sh)
+  * [20180924_oly_RNAseq_bedgraphs.sh](https://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/20180924_oly_RNAseq_bedgraphs.sh)
 
 
 
@@ -125,7 +125,7 @@ Alignment was done using the following version of the Olympia oyster genome asse
 
 
 
-  * [Olurida_v081.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
+  * [Olurida_v081.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
 
 
 
@@ -147,7 +147,7 @@ Output folder:
 
 
 
-  * [20180924_oly_RNAseq_bedgraphs/](http://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/)
+  * [20180924_oly_RNAseq_bedgraphs/](https://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/)
 
 
 
@@ -155,7 +155,7 @@ Indexed and formatted genome file:
 
 
 
-  * [Olurida_v081.fa.fai.genome](http://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/Olurida_v081.fa.fai.genome)
+  * [Olurida_v081.fa.fai.genome](https://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/Olurida_v081.fa.fai.genome)
 
 
 
@@ -163,7 +163,7 @@ Bedgraph file (for IGV):
 
 
 
-  * [20180924_oly_RNAseq.bed](http://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/20180924_oly_RNAseq.bed)
+  * [20180924_oly_RNAseq.bed](https://owl.fish.washington.edu/Athaliana/20180924_oly_RNAseq_bedgraphs/20180924_oly_RNAseq.bed)
 
 
 

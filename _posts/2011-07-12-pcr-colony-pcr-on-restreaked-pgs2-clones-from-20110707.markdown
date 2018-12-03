@@ -50,7 +50,7 @@ Cycling params:
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110712-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110712-01.jpg)
 
 Lane 1: Hyperladder I
 

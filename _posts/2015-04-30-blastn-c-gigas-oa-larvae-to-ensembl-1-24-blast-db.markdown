@@ -18,15 +18,15 @@ tags:
   - Pacific oyster
 ---
 
-In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](http://owl.fish.washington.edu/halfshell/EmmaBS400.fa).
+In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](https://owl.fish.washington.edu/halfshell/EmmaBS400.fa).
 
-I also created a nucleotide BLAST database (DB) from the [Crassostrea_gigas.GCA_000297895.1.24.fa](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_ensembl_tracks/Crassostrea_gigas.GCA_000297895.1.24.fa)
+I also created a nucleotide BLAST database (DB) from the [Crassostrea_gigas.GCA_000297895.1.24.fa](https://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_ensembl_tracks/Crassostrea_gigas.GCA_000297895.1.24.fa)
 
-Jupyter (IPython) Notebook: [20150429_Gigas_larvae_OA_BLASTn.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb)
+Jupyter (IPython) Notebook: [20150429_Gigas_larvae_OA_BLASTn.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb)
 
-Notebook Viewer: [20150429_Gigas_larvae_OA_BLASTn](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb)
+Notebook Viewer: [20150429_Gigas_larvae_OA_BLASTn](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150429_Gigas_larvae_OA_BLASTn.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 
 

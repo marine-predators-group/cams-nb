@@ -22,12 +22,12 @@ tags:
   - SYTO 13
 ---
 
-GSTA and DPGN primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100115-01.jpg).
+GSTA and DPGN primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100115-01.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20100115_113154.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100115_113154.tad)
+qPCR Data File (Opticon): [20100115_113154.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100115_113154.tad)
 
 
 
-Data workup is here: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup is here: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)

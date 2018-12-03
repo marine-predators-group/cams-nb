@@ -20,13 +20,13 @@ tags:
   - Pacific oyster
 ---
 
-I previously [checked Claire's sheared DNA on the Bioanalyzer to verify the fragment size](2015/02/20/bioanalyzer-c-gigas-sheared-dna-from-20140108.html) and to quantify the samples. [Looking at her notebook](https://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee), her numbers differ greatly from the Bioanalyzer, possibly due to the fact that the DNA1000 assay chip used only measures DNA fragments up to 1000bp in size. If her shearing was incomplete, then there would be DNA fragments larger than 1000bp that wouldn't have been measured by the Bioanalyzer. So, I decided to quantify the samples on the NanoDrop1000 (ThermoFisher) again.
+I previously [checked Claire's sheared DNA on the Bioanalyzer to verify the fragment size](2015/02/20/bioanalyzer-c-gigas-sheared-dna-from-20140108.html) and to quantify the samples. [Looking at her notebook](httpss://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee), her numbers differ greatly from the Bioanalyzer, possibly due to the fact that the DNA1000 assay chip used only measures DNA fragments up to 1000bp in size. If her shearing was incomplete, then there would be DNA fragments larger than 1000bp that wouldn't have been measured by the Bioanalyzer. So, I decided to quantify the samples on the NanoDrop1000 (ThermoFisher) again.
 
 
 
 Results:
 
-Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](https://docs.google.com/spreadsheets/d/1Ao-drpl7f-5HCsDhRtMIvdQws4Gpt2ro-8nEXGZjHeE/edit?usp=sharing)
+Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](httpss://docs.google.com/spreadsheets/d/1Ao-drpl7f-5HCsDhRtMIvdQws4Gpt2ro-8nEXGZjHeE/edit?usp=sharing)
 
 
 
@@ -34,7 +34,7 @@ Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](https://docs.google.c
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)
 
 
 

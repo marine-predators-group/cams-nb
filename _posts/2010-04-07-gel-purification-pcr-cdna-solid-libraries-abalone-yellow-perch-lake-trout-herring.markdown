@@ -42,13 +42,13 @@ Three images are below. The first two are the gels before excising the 100 - 200
 
 Gel 1
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100407-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100407-01.jpg)
 
 
 
 Gel 2
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100407-02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100407-02.jpg)
 
 NOTE: The WB sample in the gell above is actually a yellow perch sample, NOT an abalone sample!
 
@@ -56,7 +56,7 @@ NOTE: The WB sample in the gell above is actually a yellow perch sample, NOT an 
 
 Gel 2 AFTER EXCISION
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100407-03.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100407-03.jpg)
 
 NOTE: The WB sample in the gell above is actually a yellow perch sample, NOT an abalone sample!
 

@@ -36,9 +36,9 @@ Positive controls for both primers set were also run. The positive control templ
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20111013-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20111013-01.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20111013-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20111013-02.JPG)
 
 Ladder is Hyperladder II (Bioline). Samples are loaded, left to right, as PGS1 and PGS2 on each colony (e.g. on the bottom gel image, under the "Colony 40" label is the PGS1 rxn on the left and the PGS2 rxn on the right).
 

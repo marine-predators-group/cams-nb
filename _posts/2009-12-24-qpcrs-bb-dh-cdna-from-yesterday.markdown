@@ -30,7 +30,7 @@ EW778094 ("Ficolin 3") -
 
 AJ422120.p.cg.6 ("MDR49", "Multidrug resistance protein homolog 49") - This was upregulated in DH SOLiD data.
 
-[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091224-02.jpg).
+[qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091224-02.jpg).
 
 
 
@@ -40,9 +40,9 @@ AJ422120.p.cg.6 ("MDR49", "Multidrug resistance protein homolog 49") - This was 
 
 Results:
 
-qPCR Data File (Opticon): [20091224_092959.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_092959.tad)
+qPCR Data File (Opticon): [20091224_092959.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_092959.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 Preliminary results show that the EW778094 primer set looks bad; bad fluorescence profile and poor melt curves. Primers may require optimization.
 
@@ -56,12 +56,12 @@ AM855874.p.cg.6 ("CP17A", "Steroid 17-alpha-hydroxylase/17") - This was upregula
 
 AM857078.p.cg.6 ("C1QT4", Complement C1q tumor necrosis factor-related protein 4") - This was upregulated in DH SOLiD data.
 
-[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091224-03.jpg).
+[qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091224-03.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20091224_125230.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_125230.tad)
+qPCR Data File (Opticon): [20091224_125230.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_125230.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 

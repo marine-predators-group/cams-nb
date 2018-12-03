@@ -30,7 +30,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180529_roadrunner_virginica_TEs_repeatmasker.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180529_roadrunner_virginica_TEs_repeatmasker.ipynb)
+  * [20180529_roadrunner_virginica_TEs_repeatmasker.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180529_roadrunner_virginica_TEs_repeatmasker.ipynb)
 
 
 
@@ -52,7 +52,7 @@ Output folder:
 
 
 
-  * [20180529_virginica_repeatmasker](http://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/)
+  * [20180529_virginica_repeatmasker](https://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/)
 
 
 
@@ -60,7 +60,7 @@ Output table (GFF):
 
 
 
-  * [GCF_002022765.2_C_virginica-3.0_genomic.fasta.out.gff](http://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/GCF_002022765.2_C_virginica-3.0_genomic.fasta.out.gff)
+  * [GCF_002022765.2_C_virginica-3.0_genomic.fasta.out.gff](https://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/GCF_002022765.2_C_virginica-3.0_genomic.fasta.out.gff)
 
 
 
@@ -68,7 +68,7 @@ Summary table (text):
 
 
 
-  * [GCF_002022765.2_C_virginica-3.0_genomic.fasta.tbl](http://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/GCF_002022765.2_C_virginica-3.0_genomic.fasta.tbl)
+  * [GCF_002022765.2_C_virginica-3.0_genomic.fasta.tbl](https://owl.fish.washington.edu/Athaliana/20180529_virginica_repeatmasker/GCF_002022765.2_C_virginica-3.0_genomic.fasta.tbl)
 
 
 

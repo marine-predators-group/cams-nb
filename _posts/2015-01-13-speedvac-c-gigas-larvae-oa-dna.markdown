@@ -181,7 +181,7 @@ Sample list:
 
 Updated the quantification spreadsheet with a column labeled "[New](ug/uL)" that calculates the new concentrations of the above samples in the 24μL volume.
 
-[https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
+[httpss://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
 
 ``
 

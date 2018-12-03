@@ -40,6 +40,6 @@ Total RNA was isolated from the following abalone digestive gland samples using 
 
 08:3-24
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090331%20RNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090331%20RNA%20SJW.jpg)
 
 Results: RNA looks great. Stored @ -80C in box where samples came from.

@@ -31,8 +31,8 @@ The 260/280 ratios don't look great, but that is most likely due to the DNase tr
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_02.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_Jake_oly_mech_stress_DNasedRNA_plots_02.JPG)

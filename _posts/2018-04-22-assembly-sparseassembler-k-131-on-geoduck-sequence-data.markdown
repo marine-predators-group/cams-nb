@@ -25,7 +25,7 @@ The job was run on our Mox HPC node.
 
 
 
-  * Slurm script: [20180422_sparse_assembler_kmer131_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/20180422_sparse_assembler_kmer131_geoduck_slurm.sh)
+  * Slurm script: [20180422_sparse_assembler_kmer131_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/20180422_sparse_assembler_kmer131_geoduck_slurm.sh)
 
 
 
@@ -41,7 +41,7 @@ Output folder:
 
 
 
-  * [20180422_sparseassembler_kmer131_geoduck/](http://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/)
+  * [20180422_sparseassembler_kmer131_geoduck/](https://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/)
 
 
 
@@ -49,7 +49,7 @@ Slurm output file:
 
 
 
-  * [20180422_sparseassembler_kmer131_geoduck/slurm-163406.out](http://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/slurm-163406.out)
+  * [20180422_sparseassembler_kmer131_geoduck/slurm-163406.out](https://owl.fish.washington.edu/Athaliana/20180422_sparseassembler_kmer131_geoduck/slurm-163406.out)
 
 
 

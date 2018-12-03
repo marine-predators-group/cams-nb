@@ -27,13 +27,13 @@ Trying this sample again(!!), but will now use TE for pellet resuspension to pre
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140425%20-%20Claire%20Cgigas%20gonad%20gDNA%20OD.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140425%20-%20Claire%20Cgigas%20gonad%20gDNA%20OD.JPG)
 
 Yield is good. 260/280 value is good. 260/230 value is poor. Will run on gel to evaluate integrity.
 
 Loaded 10uL (~830ng) on 1.0% agarose 1x modified TAE gel stained with EtBr.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140429%20-%20Gel%20Claire%27s%20C.gigas%20gonad%20gDNA.jpg)![](http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Product%20Information%20Sheets/Bioline%20HyperLadderI.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140429%20-%20Gel%20Claire%27s%20C.gigas%20gonad%20gDNA.jpg)![](http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Product%20Information%20Sheets/Bioline%20HyperLadderI.jpg)
 
 Gel Loading Guide:
 

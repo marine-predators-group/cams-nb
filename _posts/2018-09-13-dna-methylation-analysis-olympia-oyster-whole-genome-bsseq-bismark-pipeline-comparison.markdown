@@ -52,11 +52,11 @@ List of input files and Bismark configurations can be seen in the SLURM scripts:
 
 
 
-  * [20180912_oly_WGBSseq_bismark.sh (default settings)](http://owl.fish.washington.edu/Athaliana/20180912_oly_WGBSseq_bismark/20180912_oly_WGBSseq_bismark.sh)
+  * [20180912_oly_WGBSseq_bismark.sh (default settings)](https://owl.fish.washington.edu/Athaliana/20180912_oly_WGBSseq_bismark/20180912_oly_WGBSseq_bismark.sh)
 
 
 
-  * [20180913_oly_WGBSseq_bismark.sh (relaxed settings)](http://owl.fish.washington.edu/Athaliana/20180913_oly_WGBSseq_bismark/20180913_oly_WGBSseq_bismark.sh)
+  * [20180913_oly_WGBSseq_bismark.sh (relaxed settings)](https://owl.fish.washington.edu/Athaliana/20180913_oly_WGBSseq_bismark/20180913_oly_WGBSseq_bismark.sh)
 
 
 
@@ -81,11 +81,11 @@ Output folders:
 
 
 
-  * [20180912_oly_WGBSseq_bismark/ (default settings)](http://owl.fish.washington.edu/Athaliana/20180912_oly_WGBSseq_bismark/)
+  * [20180912_oly_WGBSseq_bismark/ (default settings)](https://owl.fish.washington.edu/Athaliana/20180912_oly_WGBSseq_bismark/)
 
 
 
-  * [20180913_oly_WGBSseq_bismark/ (relaxed settings)](http://owl.fish.washington.edu/Athaliana/20180913_oly_WGBSseq_bismark/)
+  * [20180913_oly_WGBSseq_bismark/ (relaxed settings)](https://owl.fish.washington.edu/Athaliana/20180913_oly_WGBSseq_bismark/)
 
 
 

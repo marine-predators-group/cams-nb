@@ -22,23 +22,23 @@ List of software that needed installing to run ALPACA:
 
 
 
-  * [ALPACA](https://github.com/VicugnaPacos/ALPACA)
+  * [ALPACA](httpss://github.com/VicugnaPacos/ALPACA)
 
 
 
-  * [Celera Assembler](https://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/)
+  * [Celera Assembler](httpss://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/)
 
 
 
-  * [samtools](http://www.htslib.org/download/)
+  * [samtools](https://www.htslib.org/download/)
 
 
 
-  * [bowtie2](https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.3.1/)
+  * [bowtie2](httpss://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.3.1/)
 
 
 
-  * [ECtools](https://github.com/jgurtowski/ectools/releases)
+  * [ECtools](httpss://github.com/jgurtowski/ectools/releases)
 
 
 
@@ -57,7 +57,7 @@ Had to change permissions on `/home/shared/`. Used the following to change permi
 
 
 
-Compiled Celera Assembler from source ([per the ALPACA requirements](https://github.com/VicugnaPacos/ALPACA#install-celera-assembler)). This is the source file that I used: [https://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/wgs-8.3rc2.tar.bz2/download](https://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/wgs-8.3rc2.tar.bz2)
+Compiled Celera Assembler from source ([per the ALPACA requirements](httpss://github.com/VicugnaPacos/ALPACA#install-celera-assembler)). This is the source file that I used: [https://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/wgs-8.3rc2.tar.bz2/download](https://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/wgs-8.3rc2.tar.bz2)
 
 Added all software to my system PATH by adding the following to my `~./bashrc` file:
 
@@ -83,7 +83,7 @@ After adding that info to the bottom of my `~./bashrc` file, I re-loaded the fil
 
 
 
-Followed the [ALPACA test instructions](https://github.com/VicugnaPacos/ALPACA#test) to confirm proper installation. More specific test instructions are actually located at the top of this file: `/home/shared/alpaca/scripts/run_example.sh`
+Followed the [ALPACA test instructions](httpss://github.com/VicugnaPacos/ALPACA#test) to confirm proper installation. More specific test instructions are actually located at the top of this file: `/home/shared/alpaca/scripts/run_example.sh`
 
 Changed Celera Assembler directory name:
 
@@ -141,7 +141,7 @@ Realized the script file didn't have execute perimssions so I added execute perm
 
 
 
-##### Step 4. Continued with [ALPACA Tests 2 & 3.](https://github.com/VicugnaPacos/ALPACA#test)
+##### Step 4. Continued with [ALPACA Tests 2 & 3.](httpss://github.com/VicugnaPacos/ALPACA#test)
 
 
 

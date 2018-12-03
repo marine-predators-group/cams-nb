@@ -108,9 +108,9 @@ M2/M3 = C.gigas from Katie Lotterhos
 
 
 
-Followed the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
+Followed the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
 
-Used the [EZ DNA Methylation-Gold Kit (ZymoResearch)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ZymoResearch_EZ_DNA_Methylation-Gold_Kit_d5005i.pdf) according to the manufacturer's protocol with the following changes/notes:
+Used the [EZ DNA Methylation-Gold Kit (ZymoResearch)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ZymoResearch_EZ_DNA_Methylation-Gold_Kit_d5005i.pdf) according to the manufacturer's protocol with the following changes/notes:
 
 
 
@@ -129,6 +129,6 @@ Used the [EZ DNA Methylation-Gold Kit (ZymoResearch)](https://github.com/sr320/L
 
 
 
-DNA quantity calculations are here (Google Sheet): [20151218_oly_bisulfite_calcs](https://docs.google.com/spreadsheets/d/1BA2REjyCBLv_ekstyND1nl9aXal29Z4jRRLyasRSyZM/edit?usp=sharing)
+DNA quantity calculations are here (Google Sheet): [20151218_oly_bisulfite_calcs](httpss://docs.google.com/spreadsheets/d/1BA2REjyCBLv_ekstyND1nl9aXal29Z4jRRLyasRSyZM/edit?usp=sharing)
 
 Samples were stored @ -20C. Will check samples via Bioanalyzer before proceeding to library construction.

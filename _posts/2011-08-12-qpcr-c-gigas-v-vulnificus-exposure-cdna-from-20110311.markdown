@@ -22,12 +22,12 @@ tags:
   - Vibrio vulnificus
 ---
 
-Ran a qPCR using 3hr Vibrio vulnificus exposure cDNA from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311). Original experiment conducted on [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111) with defensin primers (SR IDs: 1109 & 1070) and GAPDH (SR IDs: 1172 & 1173). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110811-01.jpg). Cycling params, plate layout, etc can be seen in the qPCR Report (see Results). This was performed to help Herschel.
+Ran a qPCR using 3hr Vibrio vulnificus exposure cDNA from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311). Original experiment conducted on [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111) with defensin primers (SR IDs: 1109 & 1070) and GAPDH (SR IDs: 1172 & 1173). [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110811-01.jpg). Cycling params, plate layout, etc can be seen in the qPCR Report (see Results). This was performed to help Herschel.
 
 Results:
 
-[qPCR Report](http://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Roberts%20Lab_2011-08-11%2009-47-09_CC009827.pdf) (PDF)
+[qPCR Report](https://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Roberts%20Lab_2011-08-11%2009-47-09_CC009827.pdf) (PDF)
 
-[qPCR Data File](http://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Roberts%20Lab_2011-08-11%2009-47-09_CC009827.pcrd) (CFX96)
+[qPCR Data File](https://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Roberts%20Lab_2011-08-11%2009-47-09_CC009827.pcrd) (CFX96)
 
 Initial glance at data looks good. GAPDH exhibits highly consistent Cq values across all samples, controls and exposed. Although, there is slight amplification of something in the two water samples for GAPDH, the melt curve shows that this product has a different melting temperature than our intended target. As such, I believe the GAPDH data to be useable, since no other samples exhibit this smaller product. Defensin shows clean water sample and clean melt curves with a single peak. However, it seems like we may not see an effect on defensin expression in response to the Vibrio vulnificus exposure...

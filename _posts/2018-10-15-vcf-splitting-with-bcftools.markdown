@@ -17,9 +17,9 @@ tags:
   - tabix
 ---
 
-[Steven asked for some help trying to split a VCF in to individual VCF files](https://github.com/RobertsLab/resources/issues/421).
+[Steven asked for some help trying to split a VCF in to individual VCF files](httpss://github.com/RobertsLab/resources/issues/421).
 
-VCF file (15GB): [SNP.TRSdp5g95FnDNAmaf05.vcf.gz](http://gannet.fish.washington.edu/seashell/eog/files/VCF_files/SNP.TRSdp5g95FnDNAmaf05.vcf.gz)
+VCF file (15GB): [SNP.TRSdp5g95FnDNAmaf05.vcf.gz](https://gannet.fish.washington.edu/seashell/eog/files/VCF_files/SNP.TRSdp5g95FnDNAmaf05.vcf.gz)
 
 Skip to the Results section if you don't want to read through the tials and tribulations of getting this to work.
 
@@ -29,11 +29,11 @@ Here's an overview of how I managed to get this to work and what didn't work.
 
 
 
-  * Installed [bcftools, htslib, and set up the bcftools plugins](https://samtools.github.io/bcftools/)
+  * Installed [bcftools, htslib, and set up the bcftools plugins](httpss://samtools.github.io/bcftools/)
 
 
 
-Figured out the VCF file needed to be sorted, bgzipped (part of htslib), and indexed with [tabix](http://www.htslib.org/doc/tabix.html), due to the following error when initially trying to process with VCF file using bcftools:
+Figured out the VCF file needed to be sorted, bgzipped (part of htslib), and indexed with [tabix](https://www.htslib.org/doc/tabix.html), due to the following error when initially trying to process with VCF file using bcftools:
 
 `[W::vcf_parse] contig '' is not defined in the header. (Quick workaround: index the file with tabix.)
 Undefined tags in the header, cannot proceed in the sample subset mode.`
@@ -82,7 +82,7 @@ This produced a separate file:
 
 It seems as though this file must exist in the same directory as the source VCF for it to be utilized, although no commands work directly with this index file.
 
-Then, tried [biostars solution](https://www.biostars.org/p/130456/#243638), but produces an error
+Then, tried [biostars solution](httpss://www.biostars.org/p/130456/#243638), but produces an error
 
 
     
@@ -235,4 +235,4 @@ That worked! Or, at least it is producing non-empty, split VCF files! I'll let S
 
 BTW, running with 18 threads on my computer, this took ~30mins to split each sample into its own VCF file. However, checking performance via `htop`, it certainly does not appear to be using 18 threads...
 
-Output folder: [20181015_vcf_split](http://gannet.fish.washington.edu/Atumefaciens/20181015_vcf_split/)
+Output folder: [20181015_vcf_split](https://gannet.fish.washington.edu/Atumefaciens/20181015_vcf_split/)

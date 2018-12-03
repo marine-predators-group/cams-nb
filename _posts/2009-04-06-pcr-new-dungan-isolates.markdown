@@ -25,9 +25,9 @@ tags:
   - PCR
 ---
 
-Repeat of PCR from [20090403](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090403), but using AmpliTaq and 50C annealing temp. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090406-01.jpg).
+Repeat of PCR from [20090403](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090403), but using AmpliTaq and 50C annealing temp. [PCR set up is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090406-01.jpg).
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090407.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090407.JPG)
 
 Lane 1 - Hyperladder
 

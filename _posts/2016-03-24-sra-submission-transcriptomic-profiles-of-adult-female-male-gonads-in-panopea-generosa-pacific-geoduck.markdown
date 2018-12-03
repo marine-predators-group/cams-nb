@@ -19,7 +19,7 @@ tags:
   - SRP072283
 ---
 
-[RNAseq experiment](category/protein-expression-profiles-during-sexual-maturation-in-geoduck.html), which is part of a larger project that involves characterizing geoduck gonad development across multiple stages: histologically, proteomically, and transcriptomically. [Initial sample collection performed by Grace Crandall](http://genefish.wikispaces.com/Grace's+Notebook).
+[RNAseq experiment](category/protein-expression-profiles-during-sexual-maturation-in-geoduck.html), which is part of a larger project that involves characterizing geoduck gonad development across multiple stages: histologically, proteomically, and transcriptomically. [Initial sample collection performed by Grace Crandall](https://genefish.wikispaces.com/Grace's+Notebook).
 
 The current status can be seen in the screen cap below. Current release date is set for a year from now, but will likely bump it up. Need Steven to review the details of the submission (BioProject, Experiment descriptions, etc.) before I initiate the public release. Will update this post with the SRA number once we receive it.
 
@@ -32,4 +32,4 @@ Geo_Pool_M_CTTGTA_L006_R2_001.fastq.gz
 
 Mate pair sequencing files were uploaded together within a single "Run".
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20160324_Submission_SRA394896.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160324_Submission_SRA394896.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20160324_Submission_SRA394896.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160324_Submission_SRA394896.jpg)

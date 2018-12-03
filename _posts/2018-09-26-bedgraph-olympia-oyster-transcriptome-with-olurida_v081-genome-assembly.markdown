@@ -31,7 +31,7 @@ SBATCH script file:
 
 
 
-  * [20180926_oly_RNAseq_bedgraphs.sh](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq_bedgraphs.sh)
+  * [20180926_oly_RNAseq_bedgraphs.sh](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq_bedgraphs.sh)
 
 
 
@@ -111,7 +111,7 @@ Output folder:
 
 
 
-  * [20180926_oly_RNAseq_bedgraphs/](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/)
+  * [20180926_oly_RNAseq_bedgraphs/](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/)
 
 
 
@@ -119,10 +119,10 @@ Bedgraph file (1.2GB):
 
 
 
-  * [20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq.bedgraph](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq.bedgraph)
+  * [20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq.bedgraph](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_bedgraphs/20180926_oly_RNAseq.bedgraph)
 
 
 
 Loaded in to IGV to verify things looked OK:
 
-![](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_IGV.png)
+![](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_IGV.png)

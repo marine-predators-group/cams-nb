@@ -14,4 +14,4 @@ tags:
   - woodpecker
 ---
 
-Installed an additional 1TB SSD and a USB 3.0 PCI card in [woodpecker](https://docs.google.com/spreadsheets/d/1mtIITcjqZVEQtynYZFdOdx51uXTiXP7Jvvzv_SnWCDY/edit?usp=sharing) to make it usable for MinION sequencing. An SSD and USB 3.0 ports are just a couple of the hardware requirements for using the sequencer. Woodpecker already satisfied other hardware requirements (processor, RAM, hard drive space).
+Installed an additional 1TB SSD and a USB 3.0 PCI card in [woodpecker](httpss://docs.google.com/spreadsheets/d/1mtIITcjqZVEQtynYZFdOdx51uXTiXP7Jvvzv_SnWCDY/edit?usp=sharing) to make it usable for MinION sequencing. An SSD and USB 3.0 ports are just a couple of the hardware requirements for using the sequencer. Woodpecker already satisfied other hardware requirements (processor, RAM, hard drive space).

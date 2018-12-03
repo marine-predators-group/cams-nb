@@ -21,6 +21,6 @@ tags:
 
 Continuing Illumina's generous efforts to use our geoduck samples to test out the robustness of their emerging sequencing technologies, they have requested we send them some geoduck tissue so that they can try to complete the genome sequencing efforts using the 10x genomics sequencing platform.
 
-I sent two frozen pieces (~28mg each) of geoduck ctendia tissue on dry ice. [Tissue was collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
+I sent two frozen pieces (~28mg each) of geoduck ctendia tissue on dry ice. [Tissue was collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
-FedEx tracking: [770129114978](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770129114978&clienttype=ivshpalrt)
+FedEx tracking: [770129114978](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770129114978&clienttype=ivshpalrt)

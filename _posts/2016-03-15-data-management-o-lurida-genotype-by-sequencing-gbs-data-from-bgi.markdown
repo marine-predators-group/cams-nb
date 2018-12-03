@@ -38,18 +38,18 @@ Briefly, three sets (i.e. populations) of [Olympia oyster tissue was collected f
 
 
 
-An overview of this project can be viewed on our [GitHub Olympia oyster wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015).
+An overview of this project can be viewed on our [GitHub Olympia oyster wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015).
 
-Data was copied from the HDD to the following location on Owl (our server): [http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/)
+Data was copied from the HDD to the following location on Owl (our server): [https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/)
 
 The data was generated from paired-end Illumina sequencing, so there are two FASTQ files for each individual.
 
-The files were analyzed to create a MD5 checksum, perform read counts, and create a [readme (markdown format) file](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/readme.md). This was performed in a Jupyter/iPython notebook (see below).
+The files were analyzed to create a MD5 checksum, perform read counts, and create a [readme (markdown format) file](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/readme.md). This was performed in a Jupyter/iPython notebook (see below).
 
 IMPORTANT NOTE: The directory where this data is housed was renamed AFTER the Jupyter notebook was run. As such, the directory listed above will not be seen in the Jupyter notebook.
 
-Jupyter notebook file: [20160314_Olurida_GBS_data_management.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb)
+Jupyter notebook file: [20160314_Olurida_GBS_data_management.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb)
 
-Notebook Viewer: [20160314_Olurida_GBS_data_management.ipynb](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb)
+Notebook Viewer: [20160314_Olurida_GBS_data_management.ipynb](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb)
 
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160314_Olurida_GBS_data_management.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

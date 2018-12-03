@@ -22,11 +22,11 @@ tags:
   - tanner crab
 ---
 
-Tanner crab RNA has proved [a bit troublesome](2018/07/19/rna-cleanup-tanner-crab-rna-pools.html). As such, [Steven asked me to try isolating some RNA using the RNeasy Plus Mini Kit (Qiagen)](https://github.com/RobertsLab/resources/issues/327) to see how things would turn out.
+Tanner crab RNA has proved [a bit troublesome](2018/07/19/rna-cleanup-tanner-crab-rna-pools.html). As such, [Steven asked me to try isolating some RNA using the RNeasy Plus Mini Kit (Qiagen)](httpss://github.com/RobertsLab/resources/issues/327) to see how things would turn out.
 
 Grace provided me with the following samples:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_03.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_03.jpg)
 
 
 
@@ -36,7 +36,7 @@ Grace provided me with the following samples:
 
 Crab hemolymph had been collected (100uL?) and preserved with 1mL (?) of RNAlater. Grace pelleted the samples, removed the supernatant, and stored the pelleted material at -80C. Here's what that looked like:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_01.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_01.jpg)
 
 
 
@@ -44,11 +44,11 @@ Crab hemolymph had been collected (100uL?) and preserved with 1mL (?) of RNAlate
 
 
 
-RNA was isolated according to the [manufacturer's protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-Plus-Mini-Handbook.pdf) - following guideline for samples with < 1 x 106 cells.
+RNA was isolated according to the [manufacturer's protocol](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-Plus-Mini-Handbook.pdf) - following guideline for samples with < 1 x 106 cells.
 
 One interesting thing that happened is a precipitate formed after adding the initial buffer to the sample:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_02.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_iso_02.jpg)
 
 A solid precipitate formed in each of the tubes that could not be dispersed - it actually looked like a small piece of paper was now present in each tube.
 
@@ -75,7 +75,7 @@ RNA was given to Grace for storage at -80C.
 
 
 Qubit measurements (Google Sheet): 
-- [20180731_qubit_RNA_crab_isos](https://docs.google.com/spreadsheets/d/1z6Krmc75DmzoNSd43r7Z3EbqKj5QoWe0O8tVLUQmJ1Y/edit?usp=sharing)
+- [20180731_qubit_RNA_crab_isos](httpss://docs.google.com/spreadsheets/d/1z6Krmc75DmzoNSd43r7Z3EbqKj5QoWe0O8tVLUQmJ1Y/edit?usp=sharing)
 
 
 
@@ -85,7 +85,7 @@ Qubit measurements (Google Sheet):
 
 NanoDrop Spec Curves:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_plots_crab_RNeasy_iso.png)
+![](https://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_plots_crab_RNeasy_iso.png)
 
 
 
@@ -95,7 +95,7 @@ NanoDrop Spec Curves:
 
 NanoDrop Table:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_table_crab_RNeasy_iso.png)
+![](https://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_table_crab_RNeasy_iso.png)
 
 
 

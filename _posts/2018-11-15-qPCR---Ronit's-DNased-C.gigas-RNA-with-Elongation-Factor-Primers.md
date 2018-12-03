@@ -16,7 +16,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-After [DNasing Ronit's RNA earlier today](https://robertslab.github.io/sams-notebook/2018/11/15/DNase-Ronit's-C.gigas-Ctenidia-RNA.html), I needed to verify the RNA was free of any contaminating gDNA.
+After [DNasing Ronit's RNA earlier today](httpss://robertslab.github.io/sams-notebook/2018/11/15/DNase-Ronit's-C.gigas-Ctenidia-RNA.html), I needed to verify the RNA was free of any contaminating gDNA.
 
 Used elongation factor primers:
 
@@ -31,7 +31,7 @@ Used elongation factor primers:
 
   qPCR master mix calcs (Google Sheet):
 
-* [20181115_qPCR_Ronit_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1OYVf7XhUydsK7SrhT3plEL0ykcRIrxzy1Wf7f9OOe68/edit?usp=sharing)
+* [20181115_qPCR_Ronit_Cgigas_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1OYVf7XhUydsK7SrhT3plEL0ykcRIrxzy1Wf7f9OOe68/edit?usp=sharing)
 
 #### Results
 
@@ -39,15 +39,15 @@ Everything looks great! Nice, clean, gDNA-free RNA! Will proceed with reverse tr
 
 qPCR Report (PDF):
 
-  * [sam_2018-11-15 2013-17-42_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-11-15%2013-17-42_BR006896.pdf)
+  * [sam_2018-11-15 2013-17-42_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-11-15%2013-17-42_BR006896.pdf)
 
 qPCR File (PCRD):
 
-  * [sam_2018-11-15 2013-17-42_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-11-15%2013-17-42_BR006896.pcrd)
+  * [sam_2018-11-15 2013-17-42_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-11-15%2013-17-42_BR006896.pcrd)
 
 qPCR Data (CSV):
 
-  * [sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv)
+  * [sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_13-17-42_BR006896_-__Quantification_Cq_Results.csv)
 
 
 In the plots below, green is the positive control, blue are the samples, and red is the no template control (NTC).
@@ -56,7 +56,7 @@ In the plots below, green is the positive control, blue are the samples, and red
 
 ##### Amplification Plots
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_amp_plots.png)
 
 
 
@@ -64,4 +64,4 @@ In the plots below, green is the positive control, blue are the samples, and red
 
 ##### Melt Curves
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_melt_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-11-15_2013-17-42_melt_plots.png)

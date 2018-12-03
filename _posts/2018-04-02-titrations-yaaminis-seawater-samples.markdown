@@ -26,7 +26,7 @@ All data is deposited in the following GitHub repo:
 
 
 
-  * [RobertsLab/titrator](https://github.com/RobertsLab/titrator)
+  * [RobertsLab/titrator](httpss://github.com/RobertsLab/titrator)
 
 
 
@@ -36,11 +36,11 @@ LabX Methods:
 
 
 
-  * [TA_titration.pdf](https://github.com/RobertsLab/titrator/blob/master/LabX_method_files/TA_titration.pdf)
+  * [TA_titration.pdf](httpss://github.com/RobertsLab/titrator/blob/master/LabX_method_files/TA_titration.pdf)
 
 
 
-  * [pH_TA_titration.pdf](https://github.com/RobertsLab/titrator/blob/master/LabX_method_files/pH_TA_titration.pdf)
+  * [pH_TA_titration.pdf](httpss://github.com/RobertsLab/titrator/blob/master/LabX_method_files/pH_TA_titration.pdf)
 
 
 
@@ -53,7 +53,7 @@ Daily pH calibration data file:
 
 
 
-  * [2018-04-02T09_50_21_pH_calibration_7_4_10_T344.csv](https://github.com/RobertsLab/titrator/raw/master/data/cal_data/2018-04-02T09_50_21_pH_calibration_7_4_10_T344.csv)
+  * [2018-04-02T09_50_21_pH_calibration_7_4_10_T344.csv](httpss://github.com/RobertsLab/titrator/raw/master/data/cal_data/2018-04-02T09_50_21_pH_calibration_7_4_10_T344.csv)
 
 
 
@@ -61,7 +61,7 @@ Daily pH log file:
 
 
 
-  * [daily_calibration_log.csv](https://github.com/RobertsLab/titrator/blob/master/data/cal_data/daily_calibration_log.csv)
+  * [daily_calibration_log.csv](httpss://github.com/RobertsLab/titrator/blob/master/data/cal_data/daily_calibration_log.csv)
 
 
 
@@ -69,7 +69,7 @@ Titrant batch:
 
 
 
-  * [A10](https://github.com/RobertsLab/titrator/blob/master/data/acid_certifications/Batch_A10_CoA.pdf)
+  * [A10](httpss://github.com/RobertsLab/titrator/blob/master/data/acid_certifications/Batch_A10_CoA.pdf)
 
 
 
@@ -77,7 +77,7 @@ CRM Batch:
 
 
 
-  * [168](https://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf)
+  * [168](httpss://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf)
 
 
 
@@ -85,7 +85,7 @@ Daily CRM data file:
 
 
 
-  * [2018-04-02T10_26_11_CRM_TA_titration_T346.csv](https://github.com/RobertsLab/titrator/raw/master/data/titration_data/crm_data/2018-04-02T10_26_11_CRM_TA_titration_T346.csv)
+  * [2018-04-02T10_26_11_CRM_TA_titration_T346.csv](httpss://github.com/RobertsLab/titrator/raw/master/data/titration_data/crm_data/2018-04-02T10_26_11_CRM_TA_titration_T346.csv)
 
 
 
@@ -94,11 +94,11 @@ Sample data file(s):
 
 
   * [2018-04-02T12_34_51_TA_titration_T347.csv
-](https://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-02T12_34_51_TA_titration_T347.csv) - NOTE: This data set did _not_ collect initial pH values prior to titration - used first LabX Method listed.
+](httpss://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-02T12_34_51_TA_titration_T347.csv) - NOTE: This data set did _not_ collect initial pH values prior to titration - used first LabX Method listed.
 
 
 
-  * [2018-04-02T15_51_41_pH_TA_titration_T349.csv](https://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-02T15_51_41_pH_TA_titration_T349.csv)- NOTE: This data set did collect initial pH values prior to titration - used second LabX Method listed.
+  * [2018-04-02T15_51_41_pH_TA_titration_T349.csv](httpss://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-02T15_51_41_pH_TA_titration_T349.csv)- NOTE: This data set did collect initial pH values prior to titration - used second LabX Method listed.
 
 
 
@@ -111,6 +111,6 @@ See metadata file for sample info (including links to master samples sheets):
 
 
 
-  * [file_metadata.csv](https://github.com/RobertsLab/titrator/blob/master/data/titration_data/sample_data/file_metadata.csv)
+  * [file_metadata.csv](httpss://github.com/RobertsLab/titrator/blob/master/data/titration_data/sample_data/file_metadata.csv)
 
 

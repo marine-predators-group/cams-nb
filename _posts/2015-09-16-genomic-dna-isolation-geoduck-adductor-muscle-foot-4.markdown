@@ -22,7 +22,7 @@ tags:
 
 Just need a tad bit more gDNA for the geoduck genome sequencing project with BGI. Currently have ~69 and need a minimum of 73μg.
 
-Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the DNAzol (Molecular Research Center) according to the manufacturer’s protocol, with the following adjustments:
+Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the DNAzol (Molecular Research Center) according to the manufacturer’s protocol, with the following adjustments:
 
 
 
@@ -58,9 +58,9 @@ Results:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_geoduck_plots.JPG)
 
 
 

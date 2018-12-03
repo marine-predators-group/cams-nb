@@ -35,7 +35,7 @@ Gels were transferred to nitrocellulose membrane (equilibrated in tris-glycine t
 
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-01.JPG)
 
 Lane #1 - Ladder
 
@@ -69,7 +69,7 @@ Lane #12 - Elution fraction #8
 
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-02.JPG)
 
 Lane #1 - Binding solution
 
@@ -103,7 +103,7 @@ Lane #12 - Elution fraction #8
 
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-03.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-03.JPG)
 
 Lane #1 - Ladder
 
@@ -137,7 +137,7 @@ Lane #12 - Wash
 
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-04.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/SDS-PAGE/20081114-04.JPG)
 
 Lane #1 - Binding solution
 

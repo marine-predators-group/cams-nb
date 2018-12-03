@@ -20,9 +20,9 @@ tags:
 
 Downloaded data from the BGI project portal to our server, Owl, using the Synology Download Station. Although the BGI portal is aesthetically nice, it's set up poorly for bulk downloads and took a few tries to download all of the files.
 
-Data integrity was assessed and read counts for each file were generated. The files were moved to their permanent storage location on Owl: http://owl.fish.washington.edu/nightingales/P_generosa/
+Data integrity was assessed and read counts for each file were generated. The files were moved to their permanent storage location on Owl: https://owl.fish.washington.edu/nightingales/P_generosa/
 
-The [readme.md](http://owl.fish.washington.edu/nightingales/P_generosa/readme.md) file was updated to include project/file information.
+The [readme.md](https://owl.fish.washington.edu/nightingales/P_generosa/readme.md) file was updated to include project/file information.
 
 The file manipulations were performed in a Jupyter notebook (see below).
 
@@ -34,8 +34,8 @@ BGI provided us with the raw data files for us to play around with, but they are
 
 
 
-Jupyter Notebook file: [20160126_Olurida_BGI_data_handling.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb)
+Jupyter Notebook file: [20160126_Olurida_BGI_data_handling.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb)
 
-Notebook Viewer: [20160126_Olurida_BGI_data_handling.ipynb](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb)
+Notebook Viewer: [20160126_Olurida_BGI_data_handling.ipynb](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb)
 
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160126_Pgenerosa_BGI_data_handling.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

@@ -21,7 +21,7 @@ tags:
   - transposable elements
 ---
 
-Per this [GitHub issue](https://github.com/RobertsLab/resources/issues/352), I'm IDing transposable elements (TEs) in the _Crassostrea virginica_ genome.
+Per this [GitHub issue](httpss://github.com/RobertsLab/resources/issues/352), I'm IDing transposable elements (TEs) in the _Crassostrea virginica_ genome.
 
 Genome used:
 
@@ -29,7 +29,7 @@ Genome used:
 
 
 
-  * [Cvirginica_v300.fa](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
+  * [Cvirginica_v300.fa](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
 
 
 
@@ -66,7 +66,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180822_roadrunner_virginica_TEs_repeatmasker.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180822_roadrunner_virginica_TEs_repeatmasker.ipynb)
+  * [20180822_roadrunner_virginica_TEs_repeatmasker.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180822_roadrunner_virginica_TEs_repeatmasker.ipynb)
 
 
 
@@ -96,7 +96,7 @@ Output folder:
 
 
 
-  * [20180822_virginica_repeatmasker_all](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all)
+  * [20180822_virginica_repeatmasker_all](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all)
 
 
 
@@ -104,7 +104,7 @@ Summary table (text):
 
 
 
-  * [Cvirginica_v300.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all/Cvirginica_v300.fa.tbl)
+  * [Cvirginica_v300.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all/Cvirginica_v300.fa.tbl)
 
 
 
@@ -112,7 +112,7 @@ Output table (GFF):
 
 
 
-  * [Cvirginica_v300.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all/Cvirginica_v300.fa.out.gff)
+  * [Cvirginica_v300.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_all/Cvirginica_v300.fa.out.gff)
 
 
 
@@ -207,7 +207,7 @@ Output folder:
 
 
 
-  * [20180822_virginica_repeatmasker_Cgigas](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas)
+  * [20180822_virginica_repeatmasker_Cgigas](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas)
 
 
 
@@ -215,7 +215,7 @@ Summary table (text):
 
 
 
-  * [Cvirginica_v300.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas/Cvirginica_v300.fa.tbl)
+  * [Cvirginica_v300.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas/Cvirginica_v300.fa.tbl)
 
 
 
@@ -223,7 +223,7 @@ Output table (GFF):
 
 
 
-  * [Cvirginica_v300.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas/Cvirginica_v300.fa.out.gff)
+  * [Cvirginica_v300.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cgigas/Cvirginica_v300.fa.out.gff)
 
 
 
@@ -316,7 +316,7 @@ Output folder:
 
 
 
-  * [20180822_virginica_repeatmasker_Cvirginica](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica)
+  * [20180822_virginica_repeatmasker_Cvirginica](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica)
 
 
 
@@ -324,7 +324,7 @@ Summary table (text):
 
 
 
-  * [Cvirginica_v300.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica/Cvirginica_v300.fa.tbl)
+  * [Cvirginica_v300.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica/Cvirginica_v300.fa.tbl)
 
 
 
@@ -332,7 +332,7 @@ Output table (GFF):
 
 
 
-  * [Cvirginica_v300.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica/Cvirginica_v300.fa.out.gff)
+  * [Cvirginica_v300.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_Cvirginica/Cvirginica_v300.fa.out.gff)
 
 
 
@@ -426,7 +426,7 @@ Output folder:
 
 
 
-  * [20180822_virginica_repeatmasker_defaults/](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/)
+  * [20180822_virginica_repeatmasker_defaults/](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/)
 
 
 
@@ -434,7 +434,7 @@ Summary table (text):
 
 
 
-  * [Cvirginica_v300.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/Cvirginica_v300.fa.tbl)
+  * [Cvirginica_v300.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/Cvirginica_v300.fa.tbl)
 
 
 
@@ -442,7 +442,7 @@ Output table (GFF):
 
 
 
-  * [Cvirginica_v300.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/Cvirginica_v300.fa.out.gff)
+  * [Cvirginica_v300.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180822_virginica_repeatmasker_defaults/Cvirginica_v300.fa.out.gff)
 
 
 

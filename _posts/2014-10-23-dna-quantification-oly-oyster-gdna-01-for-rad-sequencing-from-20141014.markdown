@@ -37,6 +37,6 @@ Results:
 
 Raw fluorescence was collected and an equation for the standard curve was determined for each plate. Concentrations were calculated from that equation (see linked spreadsheet below).
 
-Concentrations of each sample in their corresponding locations in the Oly Oyster gDNA-01 plate are here: [20141022-OlyRADdnaConcentrations](https://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
+Concentrations of each sample in their corresponding locations in the Oly Oyster gDNA-01 plate are here: [20141022-OlyRADdnaConcentrations](httpss://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
 
 Additionally, the volumes needed for 500ng of each sample the required starting amount for the RAD sequencing protocol) are also on the spreadsheet linked above.

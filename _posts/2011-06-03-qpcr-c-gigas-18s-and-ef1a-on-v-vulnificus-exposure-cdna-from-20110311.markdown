@@ -21,13 +21,13 @@ tags:
   - Vibrio vulnificus
 ---
 
-Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](2011/01/11/gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus.html). This qPCR was to test 2 of 4 potential normalizing genes to evaluate which genes show the least amount of effect from the treatments in this experiment. Primers for 18s used were Cg_18s_1644_F (SR ID: 1168), Cg_18s_1750_R (SR ID: 1169). Primers for EF1a used were EF1_qPCR_5' (SR ID: 309), EF1_qPCR_3' (SR ID: 310)Samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg). The master mix info is the same that was used earlier today, but with the primers noted above, not those listed on the calcs page. Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).
+Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](2011/01/11/gigas-bacterial-challenge-1hr-3hr-challenges-with-vibrio-vulnificus.html). This qPCR was to test 2 of 4 potential normalizing genes to evaluate which genes show the least amount of effect from the treatments in this experiment. Primers for 18s used were Cg_18s_1644_F (SR ID: 1168), Cg_18s_1750_R (SR ID: 1169). Primers for EF1a used were EF1_qPCR_5' (SR ID: 309), EF1_qPCR_3' (SR ID: 310)Samples were run in duplicate. [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg). The master mix info is the same that was used earlier today, but with the primers noted above, not those listed on the calcs page. Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-02%2016-55-26_CC009827.pcrd) (BioRad CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-02%2016-55-26_CC009827.pcrd) (BioRad CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-02%2016-55-26_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-02%2016-55-26_CC009827.pdf) (PDF)
 
 18s: Average Cq = 22.39, Standard Deviation = 0.905
 

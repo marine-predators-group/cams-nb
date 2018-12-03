@@ -24,11 +24,11 @@ tags:
   - Trimmomatic
 ---
 
-Jupyter (IPython) Notebook: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb)
+Jupyter (IPython) Notebook: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb)
 
-NBviewer: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb)
+NBviewer: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb" width="100%" height="1000" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb" width="100%" height="1000" scrolling="yes"></iframe>
 
 
 
@@ -44,12 +44,12 @@ NBviewer: [20150414_C_gigas_Larvae_OA_Trimmomatic_FASTQC.ipynb](http://nbviewer.
 
 
 
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_001_fastqc.html)
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_002_fastqc.html)
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_003_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_003_fastqc.html)
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_004_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_004_fastqc.html)
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_005_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_005_fastqc.html)
-[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_006_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_006_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_001_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_002_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_003_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_003_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_004_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_004_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_005_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_005_fastqc.html)
+[20150414_trimmed_2212_lane2_GCCAAT_L002_R1_006_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_GCCAAT_L002_R1_006_fastqc.html)
 
 
 

@@ -23,9 +23,9 @@ Repeated exactly what was done earlier today due to apparent contamination in ne
 
 Results:
 
-[qPCR Date File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-23%2012-11-20_CC009827.pcrd) (CFX96)
+[qPCR Date File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-23%2012-11-20_CC009827.pcrd) (CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-23%2012-11-20_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-03-23%2012-11-20_CC009827.pdf) (PDF)
 
 
 

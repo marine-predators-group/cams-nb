@@ -27,9 +27,9 @@ tags:
   - Ultrafree-DA
 ---
 
-Did PCR with new Euk primers designed by Steven. Should be one step higher taxonomically. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090409-03.jpg). Aneal temp 50C.
+Did PCR with new Euk primers designed by Steven. Should be one step higher taxonomically. [PCR set up is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090409-03.jpg). Aneal temp 50C.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090409.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090409.JPG)
 
 Lane 1 - Hyperladder
 

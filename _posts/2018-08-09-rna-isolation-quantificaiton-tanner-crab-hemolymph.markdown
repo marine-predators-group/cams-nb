@@ -21,7 +21,7 @@ tags:
   - tanner crab
 ---
 
-Isolated RNA from [40 Tanner crab hemolymph samples selected by Grace](https://github.com/RobertsLab/resources/issues/336) with the RNeasy Plus Micro Kit (Qiagen) according to [the manufacturer's protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-Plus-Micro-Handbook.pdf), with the following modifications:
+Isolated RNA from [40 Tanner crab hemolymph samples selected by Grace](httpss://github.com/RobertsLab/resources/issues/336) with the RNeasy Plus Micro Kit (Qiagen) according to [the manufacturer's protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-Plus-Micro-Handbook.pdf), with the following modifications:
 
 
 
@@ -74,7 +74,7 @@ Qubit quantification (Google Sheet):
 
 
 
-  * [20180809_qubit_RNA_crab](https://docs.google.com/spreadsheets/d/1Je45_zXiaZeh478XA5kyFdVQIXiU4rvQeEELfGZTgfY/edit?usp=sharing)
+  * [20180809_qubit_RNA_crab](httpss://docs.google.com/spreadsheets/d/1Je45_zXiaZeh478XA5kyFdVQIXiU4rvQeEELfGZTgfY/edit?usp=sharing)
 
 
 

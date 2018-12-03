@@ -22,11 +22,11 @@ tags:
   - trout
 ---
 
-Submitted Rick's trout RBC samples to FHRC for bioanalysis using the PicoChip for use with the SOLiD WTK. [Submission sheet is here](http://genefish.fish.washington.edu/%7Esrlab/Bioanalyzer%20Submissions/20090929-01.jpg).
+Submitted Rick's trout RBC samples to FHRC for bioanalysis using the PicoChip for use with the SOLiD WTK. [Submission sheet is here](https://genefish.fish.washington.edu/%7Esrlab/Bioanalyzer%20Submissions/20090929-01.jpg).
 
 Results: Received 20091001.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20091001%20pico%20bioanalzyer%20gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20091001%20pico%20bioanalzyer%20gel.jpg)
 
 Lanes 1 & 2 = ribo-depleted AND polyA enriched
 

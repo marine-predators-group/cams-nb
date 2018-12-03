@@ -29,9 +29,9 @@ So, I ran 5μL of each of those samples on a 0.8% agarose 1x modified TAE gel w/
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)
 
 
 
@@ -169,7 +169,7 @@ Here's a table highlighting the differences between the Fidalgo gDNA samples:
 
 
 
-The fresh ctenidia samples were isolated by [me on 20151021](2015/10/21/dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings.html) and by [Mrunmayee on 20151023](http://onsnetwork.org/mrunmayee/2015/10/23/opening-oysters-10222015/). The frozen ctenidia samples were [isolated by me on 20151103](2015/11/03/dna-isolations-oly-fidalgo-2sn-ctenidia.html).
+The fresh ctenidia samples were isolated by [me on 20151021](2015/10/21/dna-isolations-fidalgo-2sn-reciprocal-transplants-final-samplings.html) and by [Mrunmayee on 20151023](https://onsnetwork.org/mrunmayee/2015/10/23/opening-oysters-10222015/). The frozen ctenidia samples were [isolated by me on 20151103](2015/11/03/dna-isolations-oly-fidalgo-2sn-ctenidia.html).
 
 It's interesting to note that Mrunmayee's isolations appear to exhibit the least amount of degradation. Besides her handling the samples, the primary difference is that her samples were incubated in the buffer/Pro K solution O/N @ 37C, while my fresh samples were incubated @ 60C for 3hrs and my frozen samples were incubated @ 60C for 1hr. Overall, though, the frozen samples look the worst.
 

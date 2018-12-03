@@ -19,7 +19,7 @@ tags:
   - transcriptome
 ---
 
-Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.
+Progress on generating [bedgraphs from our Olympia oyster transcriptome](httpss://github.com/RobertsLab/resources/issues/356) continues.
 
 [Transcriptome assembly with Trinity completed 20180919](2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
 
@@ -33,7 +33,7 @@ SBATCH script file:
 
 
 
-  * [20180919_oly_transcriptome_bowtie2.sh](http://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_oly_transcriptome_bowtie2.sh)
+  * [20180919_oly_transcriptome_bowtie2.sh](https://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_oly_transcriptome_bowtie2.sh)
 
 
 
@@ -41,7 +41,7 @@ Alignment was done using the following version of the Olympia oyster genome asse
 
 
 
-  * [Olurida_v081.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
+  * [Olurida_v081.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
 
 
 
@@ -63,7 +63,7 @@ Output folder:
 
 
 
-  * [20180919_oly_transcriptome_bowtie2/](http://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/)
+  * [20180919_oly_transcriptome_bowtie2/](https://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/)
 
 
 
@@ -71,7 +71,7 @@ Sorted BAM file:
 
 
 
-  * [20180919_Olurida_v081.sorted.bam](http://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_Olurida_v081.sorted.bam)
+  * [20180919_Olurida_v081.sorted.bam](https://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_Olurida_v081.sorted.bam)
 
 
 
@@ -79,7 +79,7 @@ Sorted & indexed BAM file (for IGV):
 
 
 
-  * [20180919_Olurida_v081.sorted.bam.bai](http://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_Olurida_v081.sorted.bam.bai)
+  * [20180919_Olurida_v081.sorted.bam.bai](https://owl.fish.washington.edu/Athaliana/20180919_oly_transcriptome_bowtie2/20180919_Olurida_v081.sorted.bam.bai)
 
 
 

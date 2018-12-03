@@ -22,7 +22,7 @@ tags:
 
 [Yesterday, I ran TrimGalore/FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](2018/04/09/trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data.html) with the default settings (i.e. "auto-trim"). There was still some variability in the first ~15bp of the reads and Steven wanted to see how a hard trim would change things.
 
-I ran [TrimGalore](https://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the first 14bp of each read and followed up with MultiQC for a summary of the FastQC reports.
+I ran [TrimGalore](httpss://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the first 14bp of each read and followed up with MultiQC for a summary of the FastQC reports.
 
 TrimGalore job script:
 
@@ -30,7 +30,7 @@ TrimGalore job script:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MDB.sh](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_trimgalore_trim14bp_Cvirginica_MDB.sh)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MDB.sh](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_trimgalore_trim14bp_Cvirginica_MDB.sh)
 
 
 
@@ -38,7 +38,7 @@ Standard error was redirected on the command line to this file:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/stderr.log](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/stderr.log)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/stderr.log](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/stderr.log)
 
 
 
@@ -46,7 +46,7 @@ MD5 checksums were generated on the resulting trimmed FASTQ files:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/checksums.md5](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/checksums.md5)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/checksums.md5](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/checksums.md5)
 
 
 
@@ -66,7 +66,7 @@ Output folder:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/)
 
 
 
@@ -74,7 +74,7 @@ FastQC output folder:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/)
 
 
 
@@ -82,7 +82,7 @@ MultiQC output folder:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/)
 
 
 
@@ -90,7 +90,7 @@ MultiQC HTML report:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html)
 
 
 
@@ -98,4 +98,4 @@ OK, this trimming definitely took care of the variability seen in the first ~15b
 
 However, I noticed that the last 2bp of each of the Read 1 seqs all have some wonky stuff going on. I'm guessing I should probably trim that stuff off, too...
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp_Cvirginica_MBD/20180410_fastqc_trimgalore_trim14bp_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

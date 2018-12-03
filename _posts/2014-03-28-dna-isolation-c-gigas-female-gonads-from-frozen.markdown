@@ -40,6 +40,6 @@ Isolated gDNA from Claire's "Female DNA" (from 05/16/2013) using the Qiagen Bloo
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140328%20-%20Claire%20gigas%20CgF%20gDNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140328%20-%20Claire%20gigas%20CgF%20gDNA%20ODs.JPG)
 
 Excellent yield and quality is good, although both the 260/280 and 260/230 ratios are on the high side. However, these high values could be an artifact of the high sample concentration (this is a common "issue" with the NanoDrop).

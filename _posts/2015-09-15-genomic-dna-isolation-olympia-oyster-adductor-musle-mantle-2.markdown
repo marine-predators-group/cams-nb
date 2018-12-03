@@ -23,7 +23,7 @@ tags:
 
 [Previously isolated gDNA from these tissues on 20150901](2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle.html). However, found out after the isolations that BGI needs &gt;73μg of gDNA for the genome sequencing project, which is significantly more than I obtained previously.
 
-Isolated gDNA from _Ostrea lurida_ (Olympia oyster) [adductor muscle & mantle samples collected by Brent & Steven on 20150812](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/) using DNAzol (Molecular Research Center) according to the manufacturer’s protocol, with the following adjustments:
+Isolated gDNA from _Ostrea lurida_ (Olympia oyster) [adductor muscle & mantle samples collected by Brent & Steven on 20150812](https://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/) using DNAzol (Molecular Research Center) according to the manufacturer’s protocol, with the following adjustments:
 
 
 
@@ -60,9 +60,9 @@ Spec’d on Roberts Lab NanoDrop1000 (ThermoFisher) and stored temporarily at 4C
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150914_gDNA_Oly_plots.JPG)
 
 
 

@@ -20,7 +20,7 @@ tags:
   - Panopea generosa
 ---
 
-Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the DNAzol (Molecular Research Center) according to the manufacturer's protocol, with the following adjustments:
+Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the DNAzol (Molecular Research Center) according to the manufacturer's protocol, with the following adjustments:
 
 
 
@@ -63,11 +63,11 @@ Spec'd on Roberts Lab NanoDrop1000 (ThermoFisher) and stored temporarily at 4C t
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_ODs.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150915_gDNA_geoduck_plots.JPG)
 
 
 

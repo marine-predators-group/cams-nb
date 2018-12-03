@@ -35,9 +35,9 @@ NOTE: Mac's sample seemed to get "chunky"/cloudy during the precipitation portio
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Mac%20Claire%20gigas%20gDNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Mac%20Claire%20gigas%20gDNA%20ODs.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Mac%20Claire%20gigas%20gDNA%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Mac%20Claire%20gigas%20gDNA%20plots.JPG)
 
 Suprisingly high yields from Mac's sample.
 
@@ -45,7 +45,7 @@ Both samples exhibit poor 260/230 ratios and high absorbance at 230nm is evident
 
 Ran ~600ng of each sample on a 0.8% 1x modified TAE agarose gel to visually assess sample quality.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20gDNA%20gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20gDNA%20gel.jpg)
 
 
 

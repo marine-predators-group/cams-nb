@@ -27,19 +27,19 @@ Gzipped FASTQ files were:
 
 
 
-  1. downloaded to [Owl/nightingales/C_virginica](http://owl.fish.washington.edu/nightingales/C_virginica)
+  1. downloaded to [Owl/nightingales/C_virginica](https://owl.fish.washington.edu/nightingales/C_virginica)
 
 
   2. MD5 checksums verified
 
 
-  3. MD5 checksums appended to the [checksums.md5 file](http://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5)
+  3. MD5 checksums appended to the [checksums.md5 file](https://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5)
 
 
-  4. [readme.md file updated](http://owl.fish.washington.edu/nightingales/C_virginica/readme.md)
+  4. [readme.md file updated](https://owl.fish.washington.edu/nightingales/C_virginica/readme.md)
 
 
-  5. Updated [nightingales Google Sheet](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  5. Updated [nightingales Google Sheet](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 
 
@@ -78,16 +78,16 @@ Here's the sample processing history:
   * [DNA isolation](2017/11/14/dna-isolation-quantification-c-virginica-gonad-gdna.html)
 
 
-  * [Yaamini MBD Day 1](https://yaaminiv.github.io/Virginica-MBDSeq/)
+  * [Yaamini MBD Day 1](httpss://yaaminiv.github.io/Virginica-MBDSeq/)
 
 
-  * [Yaamini MBD Day 2](https://yaaminiv.github.io/Virginica-MBDSeq-Day2/)
+  * [Yaamini MBD Day 2](httpss://yaaminiv.github.io/Virginica-MBDSeq-Day2/)
 
 
-  * [Yaamini MBD Day 3](https://yaaminiv.github.io/Virginica-MBDSeq-Day3/)
+  * [Yaamini MBD Day 3](httpss://yaaminiv.github.io/Virginica-MBDSeq-Day3/)
 
 
-  * [Yaamini MBD Day 4](https://yaaminiv.github.io/Virginica-MBDSeq-Day4/)
+  * [Yaamini MBD Day 4](httpss://yaaminiv.github.io/Virginica-MBDSeq-Day4/)
 
 
   * [EtOH precip, quantification, shipped](2018/02/07/ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini.html)

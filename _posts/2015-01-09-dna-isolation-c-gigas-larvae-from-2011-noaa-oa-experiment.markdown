@@ -163,7 +163,7 @@ See pic:
 
 
 
-[caption id="" align="alignnone" width="676"]![](http://eagle.fish.washington.edu/Arabidopsis/20150109%20-%20Gigas_Larvae_OA_tubes.JPG) Sample tubes after brief spin, prior to DNA isolation.[/caption]
+[caption id="" align="alignnone" width="676"]![](https://eagle.fish.washington.edu/Arabidopsis/20150109%20-%20Gigas_Larvae_OA_tubes.JPG) Sample tubes after brief spin, prior to DNA isolation.[/caption]
 
 Prior to isolation, samples were briefly spun (12,000g, 15s @ RT). Supernatants were discarded.
 
@@ -199,11 +199,11 @@ Mean fluorescence of the standards were plotted with a best-fit line. The result
 #### Results:
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20150109%20-%20CgigasOAquantsEquation.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150109%20-%20CgigasOAquantsEquation.jpg)
 
 Calcs and resulting quantities are here:
 
-[https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
+[httpss://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
 
 ``
 
@@ -231,7 +231,7 @@ Samples were sonicated/sheared in the Bioruptor (Diagenode) with the following c
 
 30s off
 
-Cycling params were adjusted from [the last time I performed this](http://genefish.wikispaces.com/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141126), since I felt the final sheared size was a bit on the small size.
+Cycling params were adjusted from [the last time I performed this](https://genefish.wikispaces.com/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141126), since I felt the final sheared size was a bit on the small size.
 
 After shearing, samples were stored @ 4C until I could SpeedVac them to reduce their volumes, as the bisulfite treatment step requires volumes < 24uL.
 

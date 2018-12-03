@@ -55,10 +55,10 @@ Samples were thawed and RNA was isolated, and DNased, using the Direct-zol RNA M
 
 Prior to isolation, sample V1 showed a clear phase separation that none of the other samples exhibited. Sample V1 had a pink, goopy layer on top of a clear, low-viscosity layer. All other samples retained the uniform pink coloration imparted by the TriReagent. Additionally, after addition of the EtOH in the procedure to sample V1, a large amount of white precipitate formed and settled to the bottom of the tube. This did not happen in any other samples.
 
-Samples were stored @ -80C in "[Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing)"
+Samples were stored @ -80C in "[Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing)"
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140528%20-%20RNA%20geoduck%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140528%20-%20RNA%20geoduck%20ODs-01.JPG)
 
 Overall, the yields are relatively low, as expected. Virtually all of the samples have poor OD260/280 values. Although not shown, there was a consistent shift in peak absorbance from 260nm towards 270nm, leading to the poor OD260/280 values.

@@ -44,11 +44,11 @@ To simplify testing, only a single sequence file was used from the data set.
 
 All analysis was done in a Jupyter (IPython) notebook.
 
-[FASTQC HTML](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_2112_lane1_NoIndex_L001_R1_001_fastqc.html) file for easier viewing of FASTQC output.
+[FASTQC HTML](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_2112_lane1_NoIndex_L001_R1_001_fastqc.html) file for easier viewing of FASTQC output.
 
-[NBViewer version of embedded notebook below](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_LSU_Oil_Spill_IndexID_Comparisons.ipynb).
+[NBViewer version of embedded notebook below](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_LSU_Oil_Spill_IndexID_Comparisons.ipynb).
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_LSU_Oil_Spill_IndexID_Comparisons.ipynb" width="100%" height="1000" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150313_LSU_Oil_Spill_IndexID_Comparisons.ipynb" width="100%" height="1000" scrolling="yes"></iframe>
 
 
 

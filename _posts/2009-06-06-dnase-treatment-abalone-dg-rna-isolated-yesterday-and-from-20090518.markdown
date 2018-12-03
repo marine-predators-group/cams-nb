@@ -23,4 +23,4 @@ tags:
 
 RNA from yesterday was treated according to Ambion Turbo DNA-free protocol to remove gDNA contamination. Work up is here.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090605%20DNased%20RNA%20SJW-02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090605%20DNased%20RNA%20SJW-02.jpg)

@@ -23,8 +23,8 @@ tags:
 
 Isolated gDNA according to Molecular Research Center TriReagent protocol from BB#1-20 and DH#1-20. Resuspended DNA in 600uL of 8mM NaOH. Spec.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090512%20gDNA%20plots%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090512%20gDNA%20plots%20SJW.jpg)
 
-Results: HORRIBLE! This is some of the worst "DNA" I've ever seen. Peaks everywhere EXCEPT at 260nm. [Here's a link to the actual numbers](http://eagle.fish.washington.edu/Arabidopsis/20090512%20gDNA%20SJW.txt). It's a text file and is comma separated, so you should open with Excel for it to be readable.
+Results: HORRIBLE! This is some of the worst "DNA" I've ever seen. Peaks everywhere EXCEPT at 260nm. [Here's a link to the actual numbers](https://eagle.fish.washington.edu/Arabidopsis/20090512%20gDNA%20SJW.txt). It's a text file and is comma separated, so you should open with Excel for it to be readable.
 
 Spoke with Steven. Will pursue RNA instead of continuing down this path for now.

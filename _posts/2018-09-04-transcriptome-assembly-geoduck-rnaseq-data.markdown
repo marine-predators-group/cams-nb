@@ -31,7 +31,7 @@ SBATCH script:
 
 
 
-  * [20180827_geo_trinity.sh](http://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/20180827_geo_trinity.sh)
+  * [20180827_geo_trinity.sh](https://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/20180827_geo_trinity.sh)
 
 
 
@@ -111,7 +111,7 @@ Output folder:
 
 
 
-  * [20180827_trinity_geoduck_RNAseq/](http://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/)
+  * [20180827_trinity_geoduck_RNAseq/](https://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/)
 
 
 
@@ -119,7 +119,7 @@ Trinity assembly (FastA):
 
 
 
-  * [20180827_trinity_geoduck_RNAseq/Trinity.fasta](http://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta)
+  * [20180827_trinity_geoduck_RNAseq/Trinity.fasta](https://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta)
 
 
 

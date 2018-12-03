@@ -152,7 +152,7 @@ Regardless, the yield isn't all that great (using yield from Quant-IT), which ha
 
 Will evaluate gDNA quality on a gel.
 
-Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](https://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
+Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](httpss://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
 
 
 
@@ -160,6 +160,6 @@ NanoDrop1000 Measurements and Plots
 
 The clean up procedure didn't really seem to help with the geoduck sample, as we're still seeing a significant amount of absorbance from 230 - 250nm.
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)

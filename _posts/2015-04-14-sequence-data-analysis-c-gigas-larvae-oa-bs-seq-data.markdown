@@ -77,15 +77,15 @@ $for file in 2212_lane2_[GC]*; do mv "$file" "20150413_$file"; done
 
 The FASTQC results are linked below:
 [
-20150413_2212_lane2_CTTGTA_L002_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_001_fastqc.html)
-[20150413_2212_lane2_CTTGTA_L002_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_002_fastqc.html)
-[20150413_2212_lane2_CTTGTA_L002_R1_003_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_003_fastqc.html)
-[20150413_2212_lane2_CTTGTA_L002_R1_004_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_004_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_001_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_002_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_003_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_003_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_004_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_004_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_005_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_005_fastqc.html)
-[20150413_2212_lane2_GCCAAT_L002_R1_006_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_006_fastqc.html)
+20150413_2212_lane2_CTTGTA_L002_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_001_fastqc.html)
+[20150413_2212_lane2_CTTGTA_L002_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_002_fastqc.html)
+[20150413_2212_lane2_CTTGTA_L002_R1_003_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_003_fastqc.html)
+[20150413_2212_lane2_CTTGTA_L002_R1_004_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_CTTGTA_L002_R1_004_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_001_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_002_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_003_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_003_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_004_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_004_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_005_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_005_fastqc.html)
+[20150413_2212_lane2_GCCAAT_L002_R1_006_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2212_lane2_GCCAAT_L002_R1_006_fastqc.html)
 
 

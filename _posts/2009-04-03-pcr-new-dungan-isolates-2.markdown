@@ -28,9 +28,9 @@ tags:
   - Ultrafree-DA
 ---
 
-Ran PCR with GoTaq on the new Dungan isolate gDNA from yesterday. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-02.pdf). 53C annealing temp.
+Ran PCR with GoTaq on the new Dungan isolate gDNA from yesterday. [PCR set up is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-02.pdf). 53C annealing temp.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090403.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090403.JPG)
 
 Lane 1 - Hyperladder
 

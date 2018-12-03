@@ -24,4 +24,4 @@ Now, we'll have to decide where we want to keep the tarball. I guess this'll be 
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170706_uw_pacbio_tarball.png)](http://eagle.fish.washington.edu/Arabidopsis/20170706_uw_pacbio_tarball.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170706_uw_pacbio_tarball.png)](http://eagle.fish.washington.edu/Arabidopsis/20170706_uw_pacbio_tarball.png)

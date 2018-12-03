@@ -18,9 +18,9 @@ tags:
   - RAD-seq
 ---
 
-We received notice that [Jay's coral (Porites spp) epiRADseq](http://onsnetwork.org/jdimond/2016/08/02/rad-sequencing-days-12/) data was available from the Genomic Sequencing Laboratory at UC-Berkeley.
+We received notice that [Jay's coral (Porites spp) epiRADseq](https://onsnetwork.org/jdimond/2016/08/02/rad-sequencing-days-12/) data was available from the Genomic Sequencing Laboratory at UC-Berkeley.
 
-Downloaded the FASTQ files from the project directory to [Owl/nightingales/Porites_spp](http://owl.fish.washington.edu/nightingales/Porites_spp/):
+Downloaded the FASTQ files from the project directory to [Owl/nightingales/Porites_spp](https://owl.fish.washington.edu/nightingales/Porites_spp/):
 
 
     
@@ -56,7 +56,7 @@ Total reads: 573,378,864
 
 
 
-Calculate read counts for each file and write the data to the [readme.md](http://owl.fish.washington.edu/nightingales/Porites_spp/readme.md) file in the Owl/web/nightingales/Porites_spp directory:
+Calculate read counts for each file and write the data to the [readme.md](https://owl.fish.washington.edu/nightingales/Porites_spp/readme.md) file in the Owl/web/nightingales/Porites_spp directory:
 
 
     
@@ -66,8 +66,8 @@ Calculate read counts for each file and write the data to the [readme.md](http:/
 
 
 
-See this [Jupyter notebook](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20160314_Olurida_GBS_data_management.ipynb) for code explanations.
+See this [Jupyter notebook](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20160314_Olurida_GBS_data_management.ipynb) for code explanations.
 
 
 
-Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).
+Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).

@@ -20,4 +20,4 @@ Ran qPCR to test uniformity of Opticon 2, after it was serviced on 20120926.
 
 Results:
 
-qPCR Data File (Opticon 2): [Sam_20121010_115249.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121010_115249.tad)
+qPCR Data File (Opticon 2): [Sam_20121010_115249.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20121010_115249.tad)

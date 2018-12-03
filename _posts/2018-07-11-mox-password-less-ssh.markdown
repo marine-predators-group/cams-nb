@@ -32,7 +32,7 @@ In the end, I came across a bash script that does this perfectly. Steps to imple
 
 
 
-  2. Create following script (taken from this [StackExchange solution](https://unix.stackexchange.com/questions/31071/shell-script-for-logging-into-a-ssh-server)):
+  2. Create following script (taken from this [StackExchange solution](httpss://unix.stackexchange.com/questions/31071/shell-script-for-logging-into-a-ssh-server)):
 
 
     

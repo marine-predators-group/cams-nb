@@ -19,9 +19,9 @@ tags:
   - Vibrio tubiashii
 ---
 
-Added 10mL TriReagent to 2 x 50mL pellets (5.63 x 10^11 total bacteria; see calcs on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the control samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Added 10mL TriReagent to 1 x 50mL pellet (1.835 x 10^12 total bacteria; see calcs on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the V.tubi + oyster samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Scaled rest of RNA protocol to match. Resuspended pellets in 100uL 0.1%DEPC-H2O. Samples were NanoDropped.
+Added 10mL TriReagent to 2 x 50mL pellets (5.63 x 10^11 total bacteria; see calcs on [20081219](https://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the control samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Added 10mL TriReagent to 1 x 50mL pellet (1.835 x 10^12 total bacteria; see calcs on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219)) from the V.tubi + oyster samples collected on [20081219](http://genefish.wikispaces.com/Sam%27s+Notebook#sjw20081219). Scaled rest of RNA protocol to match. Resuspended pellets in 100uL 0.1%DEPC-H2O. Samples were NanoDropped.
 
-![external image 20081222%20RNA%20SJW.PNG](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20081222%20RNA%20SJW.PNG)
+![external image 20081222%20RNA%20SJW.PNG](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20081222%20RNA%20SJW.PNG)
 
 The V. tubi + gigas sample was eventually diluted to contain 400uL (see final reading for that sample above).
 

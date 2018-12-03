@@ -24,7 +24,7 @@ tags:
   - RNAzol RT
 ---
 
-Isolated RNA from [Jake's Olympia oyster ctenidia, 1hr heat shock, collected on 20150422](http://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.
+Isolated RNA from [Jake's Olympia oyster ctenidia, 1hr heat shock, collected on 20150422](https://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.
 
 The following sample tubes (heat-shocked oyster ctenidia) were removed from -80C and thawed at RT:
 
@@ -114,7 +114,7 @@ NOTE: 0.1% DEPC-H2O used throughout this procedure was prepared on 7/15/2010 by 
 
 According to Jake's notebook entry, the samples should have been previously homogenized in RNAzol RT. However, none of the samples showed evidence of being homogenized:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Oly_tissue_RNAzol.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Oly_tissue_RNAzol.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Oly_tissue_RNAzol.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Oly_tissue_RNAzol.JPG)
 
 
 
@@ -144,21 +144,21 @@ Removed EtOH and resuspended in  100μL of 0.1% DEPC-H2O. Most samples required
 
 Sample tubes were transferred to ice, quantified on the Roberts Lab NanoDrop1000, and stored @ -80C in their original box, pictured:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Jake_Oly_RNA_box.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Jake_Oly_RNA_box.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Jake_Oly_RNA_box.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150506_Jake_Oly_RNA_box.JPG)
 
 
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-02.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150506_Jake_Oly_1h_HS_RNA_plots-02.JPG)
 
 
 
-Google Spreadsheet with absorbance data: [20150506_Jake_Oly_1h_HS_RNA_ODs](https://docs.google.com/spreadsheets/d/1CKiWYWQjlAFirI2pyLZEhCx3UJIV_hAuUDM8FSi1cA4/edit?usp=sharing)
+Google Spreadsheet with absorbance data: [20150506_Jake_Oly_1h_HS_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1CKiWYWQjlAFirI2pyLZEhCx3UJIV_hAuUDM8FSi1cA4/edit?usp=sharing)
 
 Overall, the samples have excellent yields. The exceptions being the two samples that had less than 1mL of RNAzol RT in them to start (their yields are actually fine, but relative to all the other samples, they aren't great). Should I have left them that way instead of adding additional RNAzol RT? Was there something wrong with these samples in the first place and that's why they didn't have a full 1mL of RNAzol RT in the tube already?
 

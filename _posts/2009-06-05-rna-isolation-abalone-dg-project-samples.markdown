@@ -23,6 +23,6 @@ tags:
 
 RNA was isolated from the following samples using the MoBio RNA PowerSoil Kit according to protocol:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090604%20RNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090604%20RNA%20SJW.jpg)
 
 Results: RNA looks fabulous (as always from the PowerSoil kit). Will DNase treat the samples tomorrow.

@@ -25,7 +25,7 @@ tags:
 
 Finished EtOH precipitation of MeDIP gDNA. Samples were pelleted 16,000g, 4C, 30mins. Supe was discarded. Washed with 1mL 70% EtOH, pelleted 16,000g, 4C, 15mins. Supe discarded. MeDIP DNA was resuspended in 100uL of TE (pH = 8.5). Wash samples, containing unmethylated DNA, were resuspended/combined in a total of 100uL TE (pH = 8.5). Samples were spec'd:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100708%20MeDIP%20DNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100708%20MeDIP%20DNA%20ODs.JPG)
 
 Results:
 

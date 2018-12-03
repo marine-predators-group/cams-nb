@@ -26,9 +26,9 @@ Quantified on the Roberts Lab NanoDrop1000.
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_pool_plots.JPG)
 
 
 

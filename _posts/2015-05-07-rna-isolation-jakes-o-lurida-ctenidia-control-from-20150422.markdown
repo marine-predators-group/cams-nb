@@ -23,7 +23,7 @@ tags:
   - RNAzol RT
 ---
 
-Isolated RNA from [Jake’s Olympia oyster ctenidia, controls, collected on 20150422](http://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.
+Isolated RNA from [Jake’s Olympia oyster ctenidia, controls, collected on 20150422](https://heareresearch.blogspot.com/2015/04/4-22-2015-heatmechanical-shock.html). Samples had been homogenized and stored @ -80C.
 
 The following sample tubes (heat-shocked oyster ctenidia) were removed from -80C and thawed at RT:
 
@@ -114,7 +114,7 @@ According to Jake’s notebook entry, the samples should have been previously ho
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_tissue_RNAzol.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_tissue_RNAzol.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_tissue_RNAzol.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_tissue_RNAzol.JPG)
 
 
 
@@ -144,7 +144,7 @@ Sample tubes were transferred to ice, quantified on the Roberts Lab NanoDrop1000
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_RNA_box.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_RNA_box.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_RNA_box.JPG)](http://eagle.fish.washington.edu/Arabidopsis/Pics/20150507_Jake_Oly_RNA_box.JPG)
 
 
 
@@ -154,13 +154,13 @@ Sample tubes were transferred to ice, quantified on the Roberts Lab NanoDrop1000
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)
 
-Google Spreadsheet with absorbance data: [20150507_Jake_Oly_control_RNA_ODs](https://docs.google.com/spreadsheets/d/1dfcRjzEGzDo8ADTWVwXGSkn195JXKxWuBrRK5zv4-pY/edit?usp=sharing)
+Google Spreadsheet with absorbance data: [20150507_Jake_Oly_control_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1dfcRjzEGzDo8ADTWVwXGSkn195JXKxWuBrRK5zv4-pY/edit?usp=sharing)
 
 
 

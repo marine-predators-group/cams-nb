@@ -24,7 +24,7 @@ tags:
   - Pacific oyster
 ---
 
-Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) (order number 2212).
+Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](https://gcf.uoregon.edu:8080/) (order number 2212).
 
 Samples sequenced/pooled for this run:
 
@@ -73,22 +73,22 @@ All code listed below was run on OS X 10.9.5
 Ran a bash script called "download.sh" to download all the files. The script contents were:
 
 `#!/bin/bash
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_001.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_002.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_003.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_004.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_005.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_006.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_007.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_008.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_009.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_010.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_011.fastq.gz
-curl -O http://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_012.fastq.gz`
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_001.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_002.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_003.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_004.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_005.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_006.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_007.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_008.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_009.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_010.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_011.fastq.gz
+curl -O https://gcf.uoregon.edu:8080/job/download/2212?fileName=lane2_NoIndex_L002_R1_012.fastq.gz`
 
 
 
-Downloaded all 12 fastq.gz files to [Owl/web/nightingales/C_gigas](http://owl.fish.washington.edu/nightingales/C_gigas/)
+Downloaded all 12 fastq.gz files to [Owl/web/nightingales/C_gigas](https://owl.fish.washington.edu/nightingales/C_gigas/)
 
 Renamed all files by removing the beginning of each file name (2112?fileName=) and replacing that with 2212_:
 
@@ -96,7 +96,7 @@ Renamed all files by removing the beginning of each file name (2112?fileName=) a
 
 
 
-Created a directory readme.md (markdown) file to list & describe directory contents: [readme.md](http://owl.fish.washington.edu/nightingales/C_gigas/readme.md)
+Created a directory readme.md (markdown) file to list & describe directory contents: [readme.md](https://owl.fish.washington.edu/nightingales/C_gigas/readme.md)
 
 `$ls *.gz >> readme.md`
 
@@ -104,6 +104,6 @@ Note: In order for the readme file to appear in the web directory listing, the f
 
 
 
-Create MD5 checksums for each the files: [checkums.md5](http://owl.fish.washington.edu/nightingales/C_gigas/checksums.md5)
+Create MD5 checksums for each the files: [checkums.md5](https://owl.fish.washington.edu/nightingales/C_gigas/checksums.md5)
 
 `$md5 2212* >> checksums.md5`

@@ -21,4 +21,4 @@ tags:
   - restriction digestion
 ---
 
-1st of 2 rounds of digests were performed. [Calculations are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdG41RWphcDVFSFRQWlFmSkdSRHRvQVE&hl=en&authkey=CODVuf8D#gid=0). Samples were incubated 37C for 3hrs, heat inactivated @ 80C for 30mins and then stored @ -20C.
+1st of 2 rounds of digests were performed. [Calculations are here](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdG41RWphcDVFSFRQWlFmSkdSRHRvQVE&hl=en&authkey=CODVuf8D#gid=0). Samples were incubated 37C for 3hrs, heat inactivated @ 80C for 30mins and then stored @ -20C.

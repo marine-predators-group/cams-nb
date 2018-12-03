@@ -82,7 +82,7 @@ tags:
   - Victor 1420 plate reader
 ---
 
-Used the [MethylFlash Methylated DNA Quantification Kit (Colorimetric) from Epigentek](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf) to quantify methylation in these coral DNA samples.
+Used the [MethylFlash Methylated DNA Quantification Kit (Colorimetric) from Epigentek](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf) to quantify methylation in these coral DNA samples.
 
 All samples were run in duplicate <em>except</em> 2h Block 1 due to insufficient DNA.
 
@@ -133,7 +133,7 @@ The following samples were used in their entirety:
 
 
 
-Calculations were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+Calculations were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](httpss://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
 
 The spreadsheet became overly complicated because I initially forgot to account for the need to run each sample in duplicate.
 
@@ -172,11 +172,11 @@ Plates were read at 450nm on the Seeb Lab Victor 1420 Plate Reader (Perkin Elmer
 
 Results:
 
-Individual sample methylation quantification (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+Individual sample methylation quantification (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](httpss://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
 
-Plate Reader Output File Plate #1 (Google Sheet): [20170511_coral_DNA_methylation_plate01.xls](https://docs.google.com/spreadsheets/d/1nutJjVm9RvjBqAnVEs-9POFVtEkXbV6RsS1jRPsmw2k/edit?usp=sharing)
+Plate Reader Output File Plate #1 (Google Sheet): [20170511_coral_DNA_methylation_plate01.xls](httpss://docs.google.com/spreadsheets/d/1nutJjVm9RvjBqAnVEs-9POFVtEkXbV6RsS1jRPsmw2k/edit?usp=sharing)
 
-Plate Reader Output File Plate #2 (Google Sheet): [20170511_coral_DNA_methylation_plate02.xls](https://docs.google.com/spreadsheets/d/1SV_qCBc5MSmS-jMthBQiT1azAOBMLaVgxrLTN2u0b4c/edit?usp=sharing)
+Plate Reader Output File Plate #2 (Google Sheet): [20170511_coral_DNA_methylation_plate02.xls](httpss://docs.google.com/spreadsheets/d/1SV_qCBc5MSmS-jMthBQiT1azAOBMLaVgxrLTN2u0b4c/edit?usp=sharing)
 
 
 
@@ -194,11 +194,11 @@ I'm not familiar with the experimental design, so I'm not going to spend time ha
 
 
 
-  3. Per the [manufacturer's recommendations](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf), the four points (including the zero point) that yielded the best linear fit (i.e. best R^2 value) were used and the slope of best fit line for those four points was determined.
+  3. Per the [manufacturer's recommendations](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf), the four points (including the zero point) that yielded the best linear fit (i.e. best R^2 value) were used and the slope of best fit line for those four points was determined.
 
 
 
-  4. This slope was then utilized in the equation provided by the manufacturer ([see pg. 8 of the MethylFlash Kit manual](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf)).
+  4. This slope was then utilized in the equation provided by the manufacturer ([see pg. 8 of the MethylFlash Kit manual](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_MethylFlash_Methylated_DNA_Quantification_Kit_(Colormietric)_20170515.pdf)).
 
 
 

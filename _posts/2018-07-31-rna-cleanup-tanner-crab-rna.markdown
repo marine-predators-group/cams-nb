@@ -20,13 +20,13 @@ tags:
   - tanner crab
 ---
 
-In a continued attempt to figure out what we can do about the tanner crab RNA, [Steven tasked me with using an RNeasy Kit to cleanup some existing RNA](https://github.com/RobertsLab/resources/issues/330).
+In a continued attempt to figure out what we can do about the tanner crab RNA, [Steven tasked me with using an RNeasy Kit to cleanup some existing RNA](httpss://github.com/RobertsLab/resources/issues/330).
 
 Here're the samples grace provided:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_01.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_01.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_03.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_03.jpg)
 
 
 
@@ -36,7 +36,7 @@ Here're the samples grace provided:
 
 All of the RNA had some sort of undissolved/insoluble material present. Here's an example (this is the worts of the bunch - others did not have such large/dense pellets):
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_02.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180731_crab_RNA_cleanup_02.jpg)
 
 
 
@@ -69,7 +69,7 @@ RNA was given to Grace for storage at -80C.
 
 
 Qubit measurements (Google Sheet): 
-- [20180731_qubit_RNA_crab_cleanup](https://docs.google.com/spreadsheets/d/1UEMehKIy1GmYFk3eP2stvF3cAIEQ6KFUVbS7QCXUzQk/edit?usp=sharing)
+- [20180731_qubit_RNA_crab_cleanup](httpss://docs.google.com/spreadsheets/d/1UEMehKIy1GmYFk3eP2stvF3cAIEQ6KFUVbS7QCXUzQk/edit?usp=sharing)
 
 
 
@@ -79,7 +79,7 @@ Qubit measurements (Google Sheet):
 
 NanoDrop Table:
 
-![](http://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_table_crab_RNeasy_cleanup.png)
+![](https://owl.fish.washington.edu/Athaliana/20180731_RNA_nanodrop_table_crab_RNeasy_cleanup.png)
 
 
 

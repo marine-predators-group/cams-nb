@@ -20,7 +20,7 @@ tags:
   - Ostrea lurida
 ---
 
-In getting things prepared for [the manuscript we're writing about the Olympia oyster genotype-by-sequencing data from BGI](https://www.authorea.com/users/4974/articles/149442), I felt we needed to provide a [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) analysis of the raw data (since these two files are what [we submitted to the NCBI short read archive](http://onsnetwork.org/kubu4/wp-admin/post.php?post=2474&action=edit)) to provide support for the [Technical Validation section](https://github.com/kubu4/paper_oly_gbs/blob/master/technical_validation.md) of the manuscript.
+In getting things prepared for [the manuscript we're writing about the Olympia oyster genotype-by-sequencing data from BGI](httpss://www.authorea.com/users/4974/articles/149442), I felt we needed to provide a [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) analysis of the raw data (since these two files are what [we submitted to the NCBI short read archive](http://onsnetwork.org/kubu4/wp-admin/post.php?post=2474&action=edit)) to provide support for the [Technical Validation section](https://github.com/kubu4/paper_oly_gbs/blob/master/technical_validation.md) of the manuscript.
 
 Below, is the Jupyter notebook I used to run the FastQC analysis on the two files. I've embedded for quick viewing, but it might be easier to view the notebook via the GitHub link.
 
@@ -34,5 +34,5 @@ However, I'll need to discuss with Steven about whether or not providing the Fas
 
 
 
-Jupyter notebook (GitHub): [20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb)
-[iframe src="https://render.githubusercontent.com/view/ipynb?commit=dbea27dfef626a1da60c6b26b6102332b4ffc3e6&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f646265613237646665663632366131646136306336623236623631303233333262346666633365362f6a7570797465725f6e62732f73616d2f32303137303330315f646f636b65725f6661737471635f6e6f6e64656d756c7469706c657865645f6267695f6f6c795f6762732e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb&repository;_id=13746500#47abd8fd-05f3-4142-941a-082b11afb242" width="100%" same_height_as="window" scrolling="yes"]
+Jupyter notebook (GitHub): [20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb)
+<iframe src="httpss://render.githubusercontent.com/view/ipynb?commit=dbea27dfef626a1da60c6b26b6102332b4ffc3e6&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f646265613237646665663632366131646136306336623236623631303233333262346666633365362f6a7570797465725f6e62732f73616d2f32303137303330315f646f636b65725f6661737471635f6e6f6e64656d756c7469706c657865645f6267695f6f6c795f6762732e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20170301_docker_fastqc_nondemultiplexed_bgi_oly_gbs.ipynb&repository;_id=13746500#47abd8fd-05f3-4142-941a-082b11afb242" width="100%" same_height_as="window" scrolling="yes"></iframe>

@@ -34,7 +34,7 @@ Gigas Mantle
 
 Gigas Muscle
 
-[qPCR Master Mix calcs are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdE1Eb3lBQkQ2RFFRZnBKYUI5VFBENUE&hl=en&authkey=COjq-m8#gid=0). Plate layout, cycling parameters, etc can be found in the qPCR Report (see Results).
+[qPCR Master Mix calcs are here](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdE1Eb3lBQkQ2RFFRZnBKYUI5VFBENUE&hl=en&authkey=COjq-m8#gid=0). Plate layout, cycling parameters, etc can be found in the qPCR Report (see Results).
 
 Results:
 

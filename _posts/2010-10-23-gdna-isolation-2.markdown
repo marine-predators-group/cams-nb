@@ -26,6 +26,6 @@ Isolated gDNA from crab (unknown species), starfish exposed to RoundUp (unknown 
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20101025-01%20gDNA.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20101025-01%20gDNA.JPG)
 
 Gray whale sample has virtually no DNA. Will try to precipitate the whale gDNA in order to obtain a more concentrated sample. The other two samples look good, with good yields and good OD260/280 ratios.

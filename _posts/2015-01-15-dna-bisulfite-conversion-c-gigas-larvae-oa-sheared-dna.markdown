@@ -18,7 +18,7 @@ tags:
 After discussing with Steven, decided to use only samples from 20110513, due to high algae amounts present in the 20110519 samples.
 
 Pooled the DNA of the 400ppm samples (6B2 & 6B5) and pooled the DNA of the 1000ppm samples(1B1 & 1B2) , for a total of two samples. 50ng of each sample was used to make the pools, for a toal of 100ng of DNA in each pool. Calculations are below:
-[https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
+[httpss://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
 
 ``
 

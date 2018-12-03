@@ -24,7 +24,7 @@ Data analysis was performed in the following R Project:
 
 
 
-  * [20180424_yaamini_TA](http://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/)
+  * [20180424_yaamini_TA](https://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/)
 
 
 
@@ -32,7 +32,7 @@ The R Project above was initially copied from the R Project for our titrator on 
 
 
 
-  * [https://github.com/RobertsLab/titrator](https://github.com/RobertsLab/titrator)
+  * [httpss://github.com/RobertsLab/titrator](https://github.com/RobertsLab/titrator)
 
 
 
@@ -42,15 +42,15 @@ Three separate, data-file-specific versions of the `TA_calculations.R` script we
 
 
 
-  * [20180402_TA_calculation-01.R](http://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180402_TA_calculation-01.R)
+  * [20180402_TA_calculation-01.R](https://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180402_TA_calculation-01.R)
 
 
 
-  * [20180402_TA_calculation-02.R](http://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180402_TA_calculation-02.R)
+  * [20180402_TA_calculation-02.R](https://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180402_TA_calculation-02.R)
 
 
 
-  * [20180403_TA_calculation.R](http://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180403_TA_calculation.R)
+  * [20180403_TA_calculation.R](https://owl.fish.washington.edu/Athaliana/20180424_yaamini_TA/scripts/20180403_TA_calculation.R)
 
 
 
@@ -63,7 +63,7 @@ Salinity values (PSU) were collected from the following spreadsheet (Google Shee
 
 
 
-  * [Manchester Water Chemistry Data](https://docs.google.com/spreadsheets/d/1NimY1gQFM8eR_wdkM5__nEw3JwEhihmIBHiOqXnBYJ4/edit#gid=84274380)
+  * [Manchester Water Chemistry Data](httpss://docs.google.com/spreadsheets/d/1NimY1gQFM8eR_wdkM5__nEw3JwEhihmIBHiOqXnBYJ4/edit#gid=84274380)
 
 
 

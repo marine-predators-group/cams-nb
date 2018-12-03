@@ -23,11 +23,11 @@ tags:
   - Quant-iT DNA BR Kit
 ---
 
-The completed BS Illumina [library made on Friday](2015/02/06/bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna.html) (1000ppm) was quantified via fluorescence using the Quant-iT DNA BR Kit (Life Technologies/Invitrogen).  Also quantified [Jake's libraries](http://heareresearch.blogspot.com/2015/02/2-6-2015-library-creation-for-bs-samples.html). Used 1μL of  each sample and the standards.  All standards were run in duplicate.  Due to limited sample, the libraries were only processed singularly, without replication.  Fluorescence was measured on a FLx800 plate reader (BioTek), using the Gen5 (BioTek) software for all calculations.
+The completed BS Illumina [library made on Friday](2015/02/06/bisulfite-ngs-library-prep-bisulfite-conversion-illumina-library-construction-of-c-gigas-larvae-dna.html) (1000ppm) was quantified via fluorescence using the Quant-iT DNA BR Kit (Life Technologies/Invitrogen).  Also quantified [Jake's libraries](https://heareresearch.blogspot.com/2015/02/2-6-2015-library-creation-for-bs-samples.html). Used 1μL of  each sample and the standards.  All standards were run in duplicate.  Due to limited sample, the libraries were only processed singularly, without replication.  Fluorescence was measured on a FLx800 plate reader (BioTek), using the Gen5 (BioTek) software for all calculations.
 
 Results:
 
-[20150209_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](https://docs.google.com/spreadsheets/d/1HhnEA6Wwj3Kci-Lsh0wE2OTCxEc56KCVC3PF8bHzvJM/edit?usp=sharing)
+[20150209_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](httpss://docs.google.com/spreadsheets/d/1HhnEA6Wwj3Kci-Lsh0wE2OTCxEc56KCVC3PF8bHzvJM/edit?usp=sharing)
 
 The good news is that the standard curve looked fine, with an R²=0.998.
 

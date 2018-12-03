@@ -109,18 +109,18 @@ The unzip output retained the old naming scheme, so I renamed the unzipped folde
 
 The FASTQC results are linked below:
 
-[20150413_2112_lane1_ACAGTG_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ACAGTG_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_ACAGTG_L001_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ACAGTG_L001_R1_002_fastqc.html)
-[20150413_2112_lane1_ATCACG_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_ATCACG_L001_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_002_fastqc.html)
-[20150413_2112_lane1_ATCACG_L001_R1_003_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_003_fastqc.html)
-[20150413_2112_lane1_CAGATC_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_CAGATC_L001_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_002_fastqc.html)
-[20150413_2112_lane1_CAGATC_L001_R1_003_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_003_fastqc.html)
-[20150413_2112_lane1_GCCAAT_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_GCCAAT_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_GCCAAT_L001_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_GCCAAT_L001_R1_002_fastqc.html)
-[20150413_2112_lane1_TGACCA_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TGACCA_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_TTAGGC_L001_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TTAGGC_L001_R1_001_fastqc.html)
-[20150413_2112_lane1_TTAGGC_L001_R1_002_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TTAGGC_L001_R1_002_fastqc.html)
+[20150413_2112_lane1_ACAGTG_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ACAGTG_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_ACAGTG_L001_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ACAGTG_L001_R1_002_fastqc.html)
+[20150413_2112_lane1_ATCACG_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_ATCACG_L001_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_002_fastqc.html)
+[20150413_2112_lane1_ATCACG_L001_R1_003_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_ATCACG_L001_R1_003_fastqc.html)
+[20150413_2112_lane1_CAGATC_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_CAGATC_L001_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_002_fastqc.html)
+[20150413_2112_lane1_CAGATC_L001_R1_003_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_CAGATC_L001_R1_003_fastqc.html)
+[20150413_2112_lane1_GCCAAT_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_GCCAAT_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_GCCAAT_L001_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_GCCAAT_L001_R1_002_fastqc.html)
+[20150413_2112_lane1_TGACCA_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TGACCA_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_TTAGGC_L001_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TTAGGC_L001_R1_001_fastqc.html)
+[20150413_2112_lane1_TTAGGC_L001_R1_002_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150413_2112_lane1_TTAGGC_L001_R1_002_fastqc.html)
 
 

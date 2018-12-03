@@ -25,7 +25,7 @@ tags:
   - RNAlater
 ---
 
-Continued with gDNA isolation from yesterday's samples. Additionally, isolated gDNA from R51 01, but homogenized the tissue (using disposable 1.5mL mortar/pestle) in 0.5mL of DNAzol and topped off to 1.0mL. All 3 samples were gently pipetted up and down to further dissolve the tissue. For those samples that were subjected to Proteinase K digestion, I transferred 100uL of the solution to a new tube containing 1mL of DNAzol, [as described in the DNAzol protocol (see "Notes, #5" part of protocol)](http://www.mrcgene.com/dnazol.htm). Tubes were incubated 10mins @ RT.
+Continued with gDNA isolation from yesterday's samples. Additionally, isolated gDNA from R51 01, but homogenized the tissue (using disposable 1.5mL mortar/pestle) in 0.5mL of DNAzol and topped off to 1.0mL. All 3 samples were gently pipetted up and down to further dissolve the tissue. For those samples that were subjected to Proteinase K digestion, I transferred 100uL of the solution to a new tube containing 1mL of DNAzol, [as described in the DNAzol protocol (see "Notes, #5" part of protocol)](https://www.mrcgene.com/dnazol.htm). Tubes were incubated 10mins @ RT.
 
 Pelleted residual tissue 10mins @ 10,000g @ 4C. Transferred supe to new tubes. Precipitated DNA with 0.5mL 100% EtOH. Incubated 3mins @ RT. DNA was pelleted 5mins @ 5000g @ 4C. Supe was removed, pellets were washed with 1mL 75% EtOH (x2). Supe was fully removed and the pellets were resuspended in 8mM NaOH (made by Amanda Davis 5/20/10). See below for volumes:
 
@@ -35,13 +35,13 @@ R51 01 - 100uL
 
 R51 01 homogenized - 200uL
 
-1M HEPES (provided with DNAzol) was added at a 1:100 dilution to achieve a pH = 8.0. This was based on the [DNAzol protocol calculations](http://www.mrcgene.com/dnazol.htm) (For 1mL of 8mM NaOH, use 101uL of 0.1M HEPES).
+1M HEPES (provided with DNAzol) was added at a 1:100 dilution to achieve a pH = 8.0. This was based on the [DNAzol protocol calculations](https://www.mrcgene.com/dnazol.htm) (For 1mL of 8mM NaOH, use 101uL of 0.1M HEPES).
 
 Samples were spec'd on NanoDrop 1000. Used a sample with 8mM NaOH and 1M HEPES to match the pH = 8.0 of the samples.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100528%20gDNA-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100528%20gDNA-01.JPG)
 
 The 260/280 ratios for all samples are great. Yields are significantly lower than I was expecting. However, for R51 11 and R51 01, only 100uL (1/5th) of the digestion was used as described in the protocol. I may recover the remainder of the R51 11 gDNA since remaining tissue could be a limiting factor. The homogenized sample had the highest yield (9.35ug), suggesting this may be a more efficient approach to obtaining gDNA (faster procedure and higher yields).
 
@@ -53,11 +53,11 @@ Isolated the remainder of the gDNA from R51 11 and R51 01. Added an additional 0
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100528%20gDNA-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100528%20gDNA-02.JPG)
 
 Both samples have great yields and excellent 260/280 ratios. Digestion, combined with gentle pipetting to disrupt undigested tissue, appears to lead to higher yields. However, the process is more time consuming than just basic, physical homogenization of tissue.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100601-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100601-01.jpg)
 
 Gel Loading (0.5ug of each DNA was loaded in a volume of 25uL)
 

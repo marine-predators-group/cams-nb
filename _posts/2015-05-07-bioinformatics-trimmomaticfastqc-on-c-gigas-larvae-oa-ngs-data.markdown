@@ -25,25 +25,25 @@ tags:
 
 In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data.html), the first 39 bases still showed inconsistent quality:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 
 
 
-Ran Trimmomatic on just a single data set to try things out: [2212_lane2_CTTGTA_L002_R1_001.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
+Ran Trimmomatic on just a single data set to try things out: [2212_lane2_CTTGTA_L002_R1_001.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
 
-Notebook Viewer: [20150506_Cgigas_larvae_OA_trimmomatic_FASTQC](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb)
+Notebook Viewer: [20150506_Cgigas_larvae_OA_trimmomatic_FASTQC](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb)
 
-Jupyter (IPython) notebook: [20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb)
+Jupyter (IPython) notebook: [20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150506_Cgigas_larvae_OA_trimmomatic_FASTQC.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 Results:
 
-Trimmed FASTQ: [20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001.fastq.gz](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
+Trimmed FASTQ: [20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001.fastq.gz](https://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
 
-FASTQC Report: [20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc.html)
+FASTQC Report: [20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc.html)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 
 You can see how flat the newly trimmed data is (which is what one would expect).
 

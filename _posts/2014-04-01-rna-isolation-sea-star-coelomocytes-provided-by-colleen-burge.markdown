@@ -35,9 +35,9 @@ Both samples had very small tissue/cell pellets. Tubes were spun @ 5000g for 10m
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140401%20-%20Sea%20star%20RNA%20abs%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140401%20-%20Sea%20star%20RNA%20abs%20plots.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140401%20-%20Sea%20star%20RNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140401%20-%20Sea%20star%20RNA%20ODs.JPG)
 
 
 

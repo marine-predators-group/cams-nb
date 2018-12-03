@@ -25,9 +25,9 @@ This time it worked, but it did _not_ put rmblastn in the specified location (`/
 
 This fact took me a fair amount of time to figure out. Finally, after a couple of different re-builds, I ran `find` to see if rmblastn existed somewhere I wasn't looking:
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_01.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_01.png)
 
-Additionally, I couldn't find the location of the various BLAST executables. Some internet sleuthing led me to the [NCBI page on installing BLAST+ from source](https://www.ncbi.nlm.nih.gov/books/NBK279671/), which indicates that the executables are stored in:
+Additionally, I couldn't find the location of the various BLAST executables. Some internet sleuthing led me to the [NCBI page on installing BLAST+ from source](httpss://www.ncbi.nlm.nih.gov/books/NBK279671/), which indicates that the executables are stored in:
 
 
     
@@ -45,7 +45,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_02.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_02.png)
 
 
 
@@ -65,7 +65,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_03.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_03.png)
 
 
 
@@ -79,7 +79,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_04.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_04.png)
 
 
 
@@ -93,7 +93,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_05.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_05.png)
 
 
 
@@ -107,7 +107,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_06.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_06.png)
 
 
 
@@ -121,7 +121,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_07.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_07.png)
 
 
 
@@ -135,7 +135,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_08.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_08.png)
 
 
 
@@ -149,7 +149,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_09.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_09.png)
 
 
 
@@ -163,7 +163,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_10.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_10.png)
 
 
 
@@ -177,7 +177,7 @@ In order to improve readability and usability of the `/home/shared/` directory, 
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_12.png)
+![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_12.png)
 
 
 

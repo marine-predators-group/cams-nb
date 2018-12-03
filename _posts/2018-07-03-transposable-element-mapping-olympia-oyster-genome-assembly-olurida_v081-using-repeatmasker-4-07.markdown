@@ -21,9 +21,9 @@ tags:
   - transposable elements
 ---
 
-[I previously performed this analysis](2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07.html) using a different version of our _Ostrea lurida_ genome assembly. [Steven asked that I repeat the analysis with a modified version of the genome assembly (Olurida_v081)](https://github.com/RobertsLab/resources/issues/265#issuecomment-401055771) - only has contigs >1000bp in length.
+[I previously performed this analysis](2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07.html) using a different version of our _Ostrea lurida_ genome assembly. [Steven asked that I repeat the analysis with a modified version of the genome assembly (Olurida_v081)](httpss://github.com/RobertsLab/resources/issues/265#issuecomment-401055771) - only has contigs >1000bp in length.
 
-Genome used: [Olurida_v081](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
+Genome used: [Olurida_v081](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
 
 I ran RepeatMasker (v4.07) with RepBase-20170127 and RMBlast 2.6.0 four times:
 
@@ -89,7 +89,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180702_roadrunner_oly_TEs_repeatmasker.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180702_roadrunner_oly_TEs_repeatmasker.ipynb)
+  * [20180702_roadrunner_oly_TEs_repeatmasker.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180702_roadrunner_oly_TEs_repeatmasker.ipynb)
 
 
 
@@ -119,7 +119,7 @@ Output folder:
 
 
 
-  * [20180702_oly_repeatmasker_defaults](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults)
+  * [20180702_oly_repeatmasker_defaults](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults)
 
 
 
@@ -127,7 +127,7 @@ Summary table (text):
 
 
 
-  * [Olurida_v081.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults/Olurida_v081.fa.tbl)
+  * [Olurida_v081.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults/Olurida_v081.fa.tbl)
 
 
 
@@ -135,7 +135,7 @@ Output table (GFF):
 
 
 
-  * [Olurida_v081.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults/Olurida_v081.fa.out.gff)
+  * [Olurida_v081.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_defaults/Olurida_v081.fa.out.gff)
 
 
 
@@ -220,7 +220,7 @@ Output folder:
 
 
 
-  * [20180702_oly_repeatmasker_Cgigas](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas)
+  * [20180702_oly_repeatmasker_Cgigas](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas)
 
 
 
@@ -228,7 +228,7 @@ Summary table (text):
 
 
 
-  * [Olurida_v081.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas/Olurida_v081.fa.tbl)
+  * [Olurida_v081.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas/Olurida_v081.fa.tbl)
 
 
 
@@ -236,7 +236,7 @@ Output table (GFF):
 
 
 
-  * [Olurida_v081.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas/Olurida_v081.fa.out.gff)
+  * [Olurida_v081.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cgigas/Olurida_v081.fa.out.gff)
 
 
 
@@ -329,7 +329,7 @@ Output folder:
 
 
 
-  * [20180702_oly_repeatmasker_Cvirginica](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica)
+  * [20180702_oly_repeatmasker_Cvirginica](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica)
 
 
 
@@ -337,7 +337,7 @@ Summary table (text):
 
 
 
-  * [Olurida_v081.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica/Olurida_v081.fa.tbl)
+  * [Olurida_v081.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica/Olurida_v081.fa.tbl)
 
 
 
@@ -345,7 +345,7 @@ Output table (GFF):
 
 
 
-  * [Olurida_v081.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica/Olurida_v081.fa.out.gff)
+  * [Olurida_v081.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Cvirginica/Olurida_v081.fa.out.gff)
 
 
 
@@ -438,7 +438,7 @@ Output folder:
 
 
 
-  * [20180702_oly_repeatmasker_Olurida/](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/)
+  * [20180702_oly_repeatmasker_Olurida/](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/)
 
 
 
@@ -446,7 +446,7 @@ Summary table (text):
 
 
 
-  * [Olurida_v081.fa.tbl](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/Olurida_v081.fa.tbl)
+  * [Olurida_v081.fa.tbl](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/Olurida_v081.fa.tbl)
 
 
 
@@ -454,7 +454,7 @@ Output table (GFF):
 
 
 
-  * [Olurida_v081.fa.out.gff](http://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/Olurida_v081.fa.out.gff)
+  * [Olurida_v081.fa.out.gff](https://owl.fish.washington.edu/Athaliana/20180702_oly_repeatmasker_Olurida/Olurida_v081.fa.out.gff)
 
 
 

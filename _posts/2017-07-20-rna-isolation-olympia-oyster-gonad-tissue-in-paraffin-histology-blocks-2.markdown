@@ -33,15 +33,15 @@ tags:
   - SN-10-31
 ---
 
-My [previous go at this](2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks.html) was a little premature - I didn't wait for Laura to fully annotate her slides/blocks. Little did I know, the tissue was mostly visceral mass and, as such, I didn't hit much in the way of actual gonad tissue. So, I'm redoing this, now that [Grace has gone through and annotated the blocks to point out gonad tissue](https://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/). [SN-10-16 was sent to Katherine Silliman on 20170720]().
+My [previous go at this](2017/07/10/rna-isolation-olympia-oyster-gonad-tissue-in-paraffin-histology-blocks.html) was a little premature - I didn't wait for Laura to fully annotate her slides/blocks. Little did I know, the tissue was mostly visceral mass and, as such, I didn't hit much in the way of actual gonad tissue. So, I'm redoing this, now that [Grace has gone through and annotated the blocks to point out gonad tissue](httpss://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/). [SN-10-16 was sent to Katherine Silliman on 20170720]().
 
-Isolated RNA from Olympia oyster gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Laura's notebook for full details on samples and preservation.](https://laurahspencer.github.io/LabNotebook/Prepping-Histology-Samples/)
+Isolated RNA from Olympia oyster gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Laura's notebook for full details on samples and preservation.](httpss://laurahspencer.github.io/LabNotebook/Prepping-Histology-Samples/)
 
 
 
 RNA was isolated from the following samples using the PAXgene Tissue RNA Kit (Qiagen). Gouged samples from the blocks weighing ~10mg from each of the tissues and processed according the protocol for isolating RNA from blocks of paraffin-embedded tissues.
 
-Background on all of this is in this [GitHub Issue](https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
+Background on all of this is in this [GitHub Issue](httpss://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
 
 NF-10-22
 NF-10-23
@@ -83,7 +83,7 @@ Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170719_histo_blocks_laura_oly_gonad.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170719_histo_blocks_laura_oly_gonad.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170719_histo_blocks_laura_oly_gonad.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170719_histo_blocks_laura_oly_gonad.jpg)
 
 
 

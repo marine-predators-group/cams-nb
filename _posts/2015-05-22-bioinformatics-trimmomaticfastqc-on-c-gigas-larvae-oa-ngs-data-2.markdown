@@ -25,7 +25,7 @@ tags:
 
 [Previously trimmed the first 39 bases of sequence from reads from the BS-Seq data](2015/05/06/bioinformatics-trimmomaticfastqc-on-c-gigas-larvae-oa-ngs-data.html) in an attempt to improve our ability to map the reads back to the _C.gigas_ genome. However, Mac (and Steven) noticed that the last ~10 bases of all the reads showed a steady increase in the %G, suggesting some sort of bias (maybe adaptor??):
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 
 Although I didn't mention this previously, the figure above also shows an odd "waves" pattern that repeats in all bases except for G. Not sure what to think of that...
 
@@ -49,44 +49,44 @@ Raw sequencing files:
 
 
     
-  * [2212_lane2_CTTGTA_L002_R1_001.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
+  * [2212_lane2_CTTGTA_L002_R1_001.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_001.fastq.gz)
 
     
-  * [2212_lane2_CTTGTA_L002_R1_002.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_002.fastq.gz)
+  * [2212_lane2_CTTGTA_L002_R1_002.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_002.fastq.gz)
 
     
-  * [2212_lane2_CTTGTA_L002_R1_003.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_003.fastq.gz)
+  * [2212_lane2_CTTGTA_L002_R1_003.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_003.fastq.gz)
 
     
-  * [2212_lane2_CTTGTA_L002_R1_004.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_004.fastq.gz)
+  * [2212_lane2_CTTGTA_L002_R1_004.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_CTTGTA_L002_R1_004.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_001.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_001.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_001.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_001.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_002.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_002.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_002.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_002.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_003.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_003.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_003.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_003.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_004.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_004.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_004.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_004.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_005.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_005.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_005.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_005.fastq.gz)
 
     
-  * [2212_lane2_GCCAAT_L002_R1_006.fastq.gz](http://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_006.fastq.gz)
+  * [2212_lane2_GCCAAT_L002_R1_006.fastq.gz](https://owl.fish.washington.edu/nightingales/C_gigas/2212_lane2_GCCAAT_L002_R1_006.fastq.gz)
 
 
 
-Notebook Viewer: [20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb)
+Notebook Viewer: [20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb)
 
-Jupyter (IPython) notebook: [20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb)
+Jupyter (IPython) notebook: [20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb)
 
 
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 
 
@@ -97,23 +97,23 @@ Jupyter (IPython) notebook: [20150521_Cgigas_larvae_OA_Trimmomatic_FASTQC.ipynb]
 
 
 Trimmed, concatenated FASTQ files
-[20150521_trimmed_2212_lane2_400ppm_GCCAAT.fastq.gz](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT.fastq.gz)
-[20150521_trimmed_2212_lane2_1000ppm_CTTGTA.fastq.gz](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA.fastq.gz)
+[20150521_trimmed_2212_lane2_400ppm_GCCAAT.fastq.gz](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT.fastq.gz)
+[20150521_trimmed_2212_lane2_1000ppm_CTTGTA.fastq.gz](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA.fastq.gz)
 
 
 
 FASTQC files
-[20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.html)
-[20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.zip](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.zip)
+[20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.html)
+[20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.zip](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc.zip)
 
-[20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.html](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.html)
-[20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.zip](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.zip)
+[20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.html](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.html)
+[20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.zip](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_1000ppm_CTTGTA_fastqc.zip)
 
 
 
 Example of FASTQC analysis pre-trim:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 
 
 
@@ -121,7 +121,7 @@ Example of FASTQC analysis pre-trim:
 
 Example FASTQC post-trim (from 400ppm data):
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc/Images/per_base_sequence_content.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc/Images/per_base_sequence_content.png)](http://eagle.fish.washington.edu/Arabidopsis/20150521_trimmed_2212_lane2_400ppm_GCCAAT_fastqc/Images/per_base_sequence_content.png)
 
 
 

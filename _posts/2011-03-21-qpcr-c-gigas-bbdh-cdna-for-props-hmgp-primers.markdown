@@ -20,10 +20,10 @@ tags:
   - qPCR
 ---
 
-Performed qPCR using cDNA from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311). This was performed for 2 reps with HMGP (SR IDs:359 & 360). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110321-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results).
+Performed qPCR using cDNA from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311). This was performed for 2 reps with HMGP (SR IDs:359 & 360). [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110321-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results).
 
 Results:
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-21%2011-15-44_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-21%2011-15-44_CC009827.pdf) (PDF)
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-21%2011-15-44_CC009827.pcrd) (CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-21%2011-15-44_CC009827.pcrd) (CFX96)

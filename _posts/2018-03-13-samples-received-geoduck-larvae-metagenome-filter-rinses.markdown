@@ -27,7 +27,7 @@ Here's the sample prep history, per Emma's email:
   Hi!
   Here are the relevant details from my lab notebook:
   
-  Filters with bacteria to be extracted for proteomics: https://sr320.github.io/Geoduck-larvae-filters/
+  Filters with bacteria to be extracted for proteomics: httpss://sr320.github.io/Geoduck-larvae-filters/
   
   Each filter was rinsed and cells sonicated:
   
@@ -54,4 +54,4 @@ Here's the sample prep history, per Emma's email:
 
 Box of samples (containing ~38uL of liquid) were stored in FTR209 -20C (top shelf).
 
-![](http://owl.fish.washington.edu/Athaliana/20180313_metagenome_samples_emma.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180313_metagenome_samples_emma.jpg)

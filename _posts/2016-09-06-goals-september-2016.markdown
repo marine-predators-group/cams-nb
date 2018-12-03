@@ -14,4 +14,4 @@ categories:
 
 Whoops! It's already September 6th! The 1st of the month came and went without me noticing.
 
-One goal for this month: Write up and submit [Olympia oyster genotype-by-sequencing (GBS) data](category/olympia-oyster-reciprocal-transplant/genotype-by-sequencing-at-bgi.html) to [Scientific Data](http://www.nature.com/sdata/about) for publication.
+One goal for this month: Write up and submit [Olympia oyster genotype-by-sequencing (GBS) data](category/olympia-oyster-reciprocal-transplant/genotype-by-sequencing-at-bgi.html) to [Scientific Data](https://www.nature.com/sdata/about) for publication.

@@ -20,7 +20,7 @@ tags:
   - Ostrea lurida
 ---
 
-Isolated gDNA from _Ostrea lurida_ (Olympia oyster) [adductor muscle & mantle samples collected by Brent & Steven on 20150812](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer’s protocol, with the following adjustments:
+Isolated gDNA from _Ostrea lurida_ (Olympia oyster) [adductor muscle & mantle samples collected by Brent & Steven on 20150812](https://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer’s protocol, with the following adjustments:
 
 
 
@@ -56,11 +56,11 @@ Results:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)
 
 
 

@@ -31,14 +31,14 @@ Used HISAT2 on our HPC Mox node to align our RNAseq reads to our Olurida_v081 ge
 
 
 
-  * [Olurida_v081.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
+  * [Olurida_v081.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081.fa)
 
 
 
 SBATCH script files:
 
 PERFORM GENOME INDEXING & ALIGNMENT
-- [20180925_oly_RNAseq_genome_hisat2.sh](http://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_oly_RNAseq_genome_hisat2.sh)
+- [20180925_oly_RNAseq_genome_hisat2.sh](https://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_oly_RNAseq_genome_hisat2.sh)
 
 SORT & INDEX ALIGNMENT OUTPUT
 - [20180925_oly_RNAseq_genome_sort_bam.sh](20180925_oly_RNAseq_genome_hisat2.sh)
@@ -61,7 +61,7 @@ Output folder:
 
 
 
-  * [20180925_oly_RNAseq_genome_hisat2/](http://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/)
+  * [20180925_oly_RNAseq_genome_hisat2/](https://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/)
 
 
 
@@ -69,7 +69,7 @@ Sorted BAM file (58GB):
 
 
 
-  * [20180925_Olurida_v081.sorted.bam](http://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_Olurida_v081.sorted.bam)
+  * [20180925_Olurida_v081.sorted.bam](https://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_Olurida_v081.sorted.bam)
 
 
 

@@ -34,7 +34,7 @@ tags:
   - RAD-seq
 ---
 
-Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
 [After determining the minimum number of PCR cycles to run to generate a visible, 166bp band on a gel yesterday](2015/10/12/pcr-oly-rad-seq-test-scale-pcr-3.html), ran a full library "prep scale" PCR.
 
@@ -411,9 +411,9 @@ Due to limitations in available comb sizes and inability to combine combs to mak
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)
 
 
 

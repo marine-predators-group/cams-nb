@@ -40,9 +40,9 @@ Samples were spun 5000g, 20mins @ RT. Supe was removed, being sure to leave behi
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Sea%20Star%20RNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Sea%20Star%20RNA%20ODs.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Sea%20Star%20RNA%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140411%20-%20Sea%20Star%20RNA%20plots.JPG)
 
 RNA quality looks very good, as do the yields. I'm very surprised I got anything close to 1ug out of either sample!
 

@@ -26,14 +26,14 @@ DNA was eluted once with 200uL of Buffer AE and stored @ 4C.
 
 Plate is called: Oly Oyster gDNA-01
 
-Plate layout can be found here: [20141022-OlyRADdnaConcentrations](https://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
+Plate layout can be found here: [20141022-OlyRADdnaConcentrations](httpss://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
 
 _UPDATE 20141017_
 
 Steven ran the samples out on a gel for quality assessment. His notebook entry can be seen here:
 
-Gel layout info and image of gel 1 of 2: [http://sr320.tumblr.com/post/100245499294](http://sr320.tumblr.com/post/100245499294)
+Gel layout info and image of gel 1 of 2: [https://sr320.tumblr.com/post/100245499294](http://sr320.tumblr.com/post/100245499294)
 
-Images of gel 2 of 2: [http://sr320.tumblr.com/post/100231194034](http://sr320.tumblr.com/post/100231194034)
+Images of gel 2 of 2: [https://sr320.tumblr.com/post/100231194034](http://sr320.tumblr.com/post/100231194034)
 
 The samples are all heavily smeared, suggesting heavy degradation. Will compare Qiagen kit with DNazol on some of the samples from 8/29/2013, as well as samples more recently collected/frozen.

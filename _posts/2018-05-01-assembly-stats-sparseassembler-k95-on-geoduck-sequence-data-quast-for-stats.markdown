@@ -21,7 +21,7 @@ tags:
 
 [Had a successful assembly with SparseAssembler k101](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html), but figured I'd just tweak the kmer setting and throw it in the queue and see how it compares; minimal effort/time needed.
 
-Initiatied an assembly run using  [SparseAssembler](https://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
+Initiatied an assembly run using  [SparseAssembler](httpss://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
 
 
 
@@ -44,7 +44,7 @@ Initiatied an assembly run using  [SparseAssembler](https://github.com/yechengxi
 
 Kmer size set to 95.
 
-Slurm script: [20180423_sparse_assembler_kmer95_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/20180423_sparse_assembler_kmer95_geoduck_slurm.sh)
+Slurm script: [20180423_sparse_assembler_kmer95_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/20180423_sparse_assembler_kmer95_geoduck_slurm.sh)
 
 After the run finished, I copied the files to our server (Owl) and then ran Quast on my computer to gather some assembly stats, using the following command:
 
@@ -71,13 +71,13 @@ After the run finished, I copied the files to our server (Owl) and then ran Quas
 
 
 
-SparseAssembler output folder: [20180423_sparseassembler_kmer95_geoduck/](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/)
+SparseAssembler output folder: [20180423_sparseassembler_kmer95_geoduck/](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/)
 
-SparseAsembler assembley (FastA; 15GB): [20180423_sparseassembler_kmer95_geoduck/Contigs.txt](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/Contigs.txt)
+SparseAsembler assembley (FastA; 15GB): [20180423_sparseassembler_kmer95_geoduck/Contigs.txt](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer95_geoduck/Contigs.txt)
 
-Quast output folder: [quast_results/results_2018_05_10_15_04_07](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/)
+Quast output folder: [quast_results/results_2018_05_10_15_04_07](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/)
 
-Quast report (HTML): [quast_results/results_2018_05_10_15_04_07/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html)
+Quast report (HTML): [quast_results/results_2018_05_10_15_04_07/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html)
 
 I've embedded the Quast HTML report below, but it may be easier to view by using the link above.
 
@@ -87,4 +87,4 @@ This assembly doesn't have a single contig >50,000bp, while the previous one has
 
 Definitely shows what a large impact the kmer setting in assembly software can have on the final assembly!
 
-<iframe src="https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="httpss://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

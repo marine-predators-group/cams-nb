@@ -15,7 +15,7 @@ tags:
   - Katie Lotterhos
 ---
 
-Received and stored [@-80C in rack 8, row 5, column 5](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).
+Received and stored [@-80C in rack 8, row 5, column 5](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).
 
 The following information was sent with the samples:
 

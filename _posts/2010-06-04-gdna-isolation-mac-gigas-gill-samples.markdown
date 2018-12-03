@@ -27,4 +27,4 @@ R51 01 - 20 (sample #11 was processed yesterday)
 
 R37 01 - 03, 06 - 13, 15, 16
 
-Samples were thawed from -80C. Tissue was removed from RNA Later ([RNA Later gDNA isolation protocol; this protocol doesn't indicate that anything needs to be done to the sample prior to gDNA isolation](http://www.ambion.com/techlib/misc/genomicDNA_rnalater.html)) and ~25mg was cut from each and placed in 0.5mL of DNAzol. 2.7uL of Proteinase K (Fermentas; 18.5mg/mL) was added to each tube to reach a final concentration of 100ug/mL. The digests were incubated @ RT O/N.
+Samples were thawed from -80C. Tissue was removed from RNA Later ([RNA Later gDNA isolation protocol; this protocol doesn't indicate that anything needs to be done to the sample prior to gDNA isolation](https://www.ambion.com/techlib/misc/genomicDNA_rnalater.html)) and ~25mg was cut from each and placed in 0.5mL of DNAzol. 2.7uL of Proteinase K (Fermentas; 18.5mg/mL) was added to each tube to reach a final concentration of 100ug/mL. The digests were incubated @ RT O/N.

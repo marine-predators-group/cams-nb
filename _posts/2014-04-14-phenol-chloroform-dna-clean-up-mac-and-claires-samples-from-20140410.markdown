@@ -117,9 +117,9 @@ NOTE: Mac's sample exhibited the same chunky/cloudiness upon addition of 100% Et
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140414%20-%20Claire%20and%20Mac%20cleaned%20gDNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140414%20-%20Claire%20and%20Mac%20cleaned%20gDNA%20ODs.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140414%20-%20Claire%20and%20Mac%20cleaned%20gDNA%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140414%20-%20Claire%20and%20Mac%20cleaned%20gDNA%20plots.JPG)
 
 So, the clean up seemed to work wonders on the 260/230 values. Not surprisingly, Mac's sample didn't clean up nearly as nicely as Claire's, based on my observations of the odd behavior during EtOH precipitation.
 
@@ -127,7 +127,7 @@ And, despite the nice, clean looking peaks, the 260/280 ratios are actually WORS
 
 Loaded 5uL of each sample (~600ng) on a 1.0% agarose, 1x modified TAE gel stained with ethidium bromide.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140415%20-%20Gel%20Claire%20and%20Mac%20gigas%20gDNA.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140415%20-%20Gel%20Claire%20and%20Mac%20gigas%20gDNA.jpg)
 
 Gel Layout:
 

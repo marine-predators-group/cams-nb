@@ -24,4 +24,4 @@ Whoa! [Genome annotation using Jetstream/WQ-MAKER that I started this morning](2
 
 More detailed entry coming once I move files off of Jetstream and have a chance to look at things.
 
-![](http://owl.fish.washington.edu/Athaliana/20180807_wq-maker_05.png)
+![](https://owl.fish.washington.edu/Athaliana/20180807_wq-maker_05.png)

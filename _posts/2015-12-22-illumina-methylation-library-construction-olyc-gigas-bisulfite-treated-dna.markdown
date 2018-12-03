@@ -39,7 +39,7 @@ tags:
   - TruSeq DNA Methylation Library
 ---
 
-Took the [bisulfite-treated DNA from 20151218](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) and made Illumina libraries using the [TruSeq DNA Methylation Library Kit (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
+Took the [bisulfite-treated DNA from 20151218](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) and made Illumina libraries using the [TruSeq DNA Methylation Library Kit (Illumina)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
 
 Quantified the completed libraries using the Qubit 3.0 dsDNA BR Kit (ThermoFisher).
 
@@ -197,7 +197,7 @@ Evaluated the DNA with the Bioanalyzer 2100 (Agilent) using the DNA 12000 assay.
 
 Results:
 
-Library Quantification (Google Sheet): [20151221_quantification_illumina_methylation_libraries](https://docs.google.com/spreadsheets/d/1XGu_J4gJ3ddhjTvEvwoFLUCNe5DQhdvRf1tVxqud--Q/edit?usp=sharing)
+Library Quantification (Google Sheet): [20151221_quantification_illumina_methylation_libraries](httpss://docs.google.com/spreadsheets/d/1XGu_J4gJ3ddhjTvEvwoFLUCNe5DQhdvRf1tVxqud--Q/edit?usp=sharing)
 
 <table cellpadding="0" cellspacing="0" border="0" dir="ltr" > 
 <tbody >
@@ -317,10 +317,10 @@ I used the Qubit's BR (broad range) kit because I wasn't sure what concentration
 
 
 
-Bioanalyzer Data File (Bioanalyzer 2100): [2100_20expert_DNA_2012000_DE72902486_2015-12-21_16-58-43.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%2012000_DE72902486_2015-12-21_16-58-43.xad)
+Bioanalyzer Data File (Bioanalyzer 2100): [2100_20expert_DNA_2012000_DE72902486_2015-12-21_16-58-43.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%2012000_DE72902486_2015-12-21_16-58-43.xad)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)
 
 Ha! Well, looks like you definitely need to use the DNA High Sensitivty assay for the Bioanalyzer to pick up anything. Although, I guess you can see a slight hump in most of the samples at the appropriate sizes (~300bp); you just have to squint. ;)

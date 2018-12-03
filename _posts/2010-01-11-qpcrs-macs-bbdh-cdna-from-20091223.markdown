@@ -27,32 +27,32 @@ tags:
   - SYTO 13
 ---
 
-GNRR2 and CALL primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-03.jpg).
+GNRR2 and CALL primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-03.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20100111_180230.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_180230.tad)
+qPCR Data File (Opticon): [20100111_180230.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_180230.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
-
-
-
-SPI and CP17A primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-02.jpg).
-
-Results:
-
-qPCR Data File (Opticon): [20100111_141711.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_141711.tad)
-
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 
 
-EF1 primers in duplicate, since I had not done these primers yet. [qPCR set up and plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-01.jpg).
+SPI and CP17A primer sets used. These are duplicates based on initial differences seen between BB and DH expression. [qPCR set up and plate layout is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-02.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20100111_102001.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_102001.tad)
+qPCR Data File (Opticon): [20100111_141711.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_141711.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+
+
+
+EF1 primers in duplicate, since I had not done these primers yet. [qPCR set up and plate layout is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100111-01.jpg).
+
+Results:
+
+qPCR Data File (Opticon): [20100111_102001.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_102001.tad)
+
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 

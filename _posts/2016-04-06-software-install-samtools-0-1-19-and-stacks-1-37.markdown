@@ -28,7 +28,7 @@ I tracked all of this in the Jupyter (iPython) notebook below.
 
 Due to permissions issues during installation, I frequently had to leave the Jupyter notebook to run "sudo" in bash. As such, the notebook is messy, but does outline the necessary steps to get these two programs installed.
 
-Jupyter notebook: [20160406_STACKS_install.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb)
+Jupyter notebook: [20160406_STACKS_install.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb)
 
-NBviewer: [20160406_STACKS_install.ipynb](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb)
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+NBviewer: [20160406_STACKS_install.ipynb](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb)
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_STACKS_install.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

@@ -18,4 +18,4 @@ Data, data, data! That is the theme for this month.
 
 **Geoduck data** - [We just got back an insane amount of RNAseq and genome sequencing data from an Illumina pilot project](2017/07/31/data-received-geoduck-genome-sequencing-by-illumina.html). This data needs to be properly documented and catalogued.
 
-**Hackweek 2017** - Although this is only a brief period during this month, it's designed to tackle some lower priority tasks that will help streamline lab operations. Check out [the GtiHub repo issues](https://github.com/RobertsLab/2017-hackweek/issues) for Hackweek 2017 to get an idea of some of the projects.
+**Hackweek 2017** - Although this is only a brief period during this month, it's designed to tackle some lower priority tasks that will help streamline lab operations. Check out [the GtiHub repo issues](httpss://github.com/RobertsLab/2017-hackweek/issues) for Hackweek 2017 to get an idea of some of the projects.

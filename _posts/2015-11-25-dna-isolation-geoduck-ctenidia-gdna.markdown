@@ -26,7 +26,7 @@ tags:
 
 Isolated additional gDNA for the genome sequencing. In an attempt to obtain better yields, I used ctenidia (instead of adductor muscle). Additionally, to try to improve the quality (260/280 & 260/230 ratios) of the gDNA, I added a chloroform step after the initial tissue homogenization.
 
-Used 190mg of Panopea generosa ctenidia collected by [Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
+Used 190mg of Panopea generosa ctenidia collected by [Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
 
 
@@ -81,7 +81,7 @@ For the Qubit, the samples were quantified using the Qubit dsDNA BR reagents (In
 
 Results:
 
-Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](https://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
+Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](httpss://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
 
 <table >
 <tbody >
@@ -135,6 +135,6 @@ NanoDrop Absorbance Values & Plots
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)

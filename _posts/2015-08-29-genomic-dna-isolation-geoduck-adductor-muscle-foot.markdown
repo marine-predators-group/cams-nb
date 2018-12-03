@@ -22,7 +22,7 @@ tags:
   - Panopea generosa
 ---
 
-Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer's protocol, with the following adjustments:
+Isolated gDNA from _Panopea generosa_ (geoduck) [adductor muscle & foot samples collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) using the E.Z.N.A Mollusc DNA Kit (Omega Bio-Tek) according to the manufacturer's protocol, with the following adjustments:
 
 
 
@@ -58,11 +58,11 @@ Results:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)
 
 
 

@@ -19,7 +19,7 @@ tags:
   - RNAzol RT
 ---
 
-Isolated RNA from a subset of Ronit's _Crassostrea gigas_ ctenidia samples (see [Ronit's notebook for experiment deets](https://genefish.wordpress.com/author/voicesonsocialissues/)):
+Isolated RNA from a subset of Ronit's _Crassostrea gigas_ ctenidia samples (see [Ronit's notebook for experiment deets](httpss://genefish.wordpress.com/author/voicesonsocialissues/)):
 
 
 

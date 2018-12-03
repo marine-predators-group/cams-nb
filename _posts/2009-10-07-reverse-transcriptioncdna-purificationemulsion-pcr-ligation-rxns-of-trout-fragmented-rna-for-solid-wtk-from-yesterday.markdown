@@ -36,8 +36,8 @@ Results: All four samples appear to have cDNA. Interestingly, the "Amped cDNA tr
 
 1.5uL of each sample was transferred to a 0.5mL snap cap tube and stored @ -80C in the "Samples for Bioanalyzer" box for submission on the DNA 1000 Chip.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20091006%20LT%20RBC%20amped%20cDNA%20SJW-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20091006%20LT%20RBC%20amped%20cDNA%20SJW-01.jpg)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20091006%20LT%20RBC%20amped%20cDNA%20SJW-02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20091006%20LT%20RBC%20amped%20cDNA%20SJW-02.jpg)
 
 The Yellow/Brown plot above is the "Amped cDNA trout RBC poly I:C ribo(-) & polyA" sample and exhibits a strange profile at the 220-230nm range that differs than the three other samples.

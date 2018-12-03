@@ -40,11 +40,11 @@ tags:
   - TLR
 ---
 
-Performed qPCR on Friedman Lab machine targeting immune-related genes in hard clam. [Rough plate layout/master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100709-01.jpg). [qPCR report from Friedman Lab machine is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100909-01%20qPCR%20Report.pdf) (PDF) and shows cycling params, plate layout and Cts.
+Performed qPCR on Friedman Lab machine targeting immune-related genes in hard clam. [Rough plate layout/master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100709-01.jpg). [qPCR report from Friedman Lab machine is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100909-01%20qPCR%20Report.pdf) (PDF) and shows cycling params, plate layout and Cts.
 
 Results:
 
-[CFX96 Data file is here](http://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Sam_2010-09-09%2009-22-55_CC009827.pcrd).
+[CFX96 Data file is here](https://purplepelican.fish.washington.edu/~srlab/qpcr/Sam/CFX96/Sam_2010-09-09%2009-22-55_CC009827.pcrd).
 
 The following primer sets failed to produce an amplicon:
 
@@ -58,9 +58,9 @@ STI
 
 CytP450-like
 
-Raw fluorescence data was extracted (No baseline subtraction) and processed with PCR Miner. [Data workup/analysis is here](https://spreadsheets.google.com/ccc?key=toOwWKJGN1aUHuSTaHbiEnQ&authkey=COnVirEI&hl=en#gid=1). Here is a graph of those primer sets producing an amplicon. All were normalized to actin, which exhibited the smallest amount of deviation across all three samples of the normalizing/housekeeping genes analyzed.
+Raw fluorescence data was extracted (No baseline subtraction) and processed with PCR Miner. [Data workup/analysis is here](httpss://spreadsheets.google.com/ccc?key=toOwWKJGN1aUHuSTaHbiEnQ&authkey=COnVirEI&hl=en#gid=1). Here is a graph of those primer sets producing an amplicon. All were normalized to actin, which exhibited the smallest amount of deviation across all three samples of the normalizing/housekeeping genes analyzed.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100909%20qPCR%20graphs.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20100909%20qPCR%20graphs.jpg)
 
 
 

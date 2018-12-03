@@ -24,7 +24,7 @@ tags:
   - Vibrio vulnificus
 ---
 
-Ran a qPCR on all cDNA samples. Created a standard curve to possibly allow for use of the BioRad software for gene expression analysis. Standard curve was created from pooled cDNA (1uL from each individual sample). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg).
+Ran a qPCR on all cDNA samples. Created a standard curve to possibly allow for use of the BioRad software for gene expression analysis. Standard curve was created from pooled cDNA (1uL from each individual sample). [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110602-01.jpg).
 
 
 
@@ -34,8 +34,8 @@ Ran a qPCR on all cDNA samples. Created a standard curve to possibly allow for u
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-03%2014-06-39_CC009827.pcrd) (BioRad CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-03%2014-06-39_CC009827.pcrd) (BioRad CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-03%2014-06-39_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-03%2014-06-39_CC009827.pdf) (PDF)
 
 Standard curves aren't that good. Will not use them. Will analyze data using PCR Miner.

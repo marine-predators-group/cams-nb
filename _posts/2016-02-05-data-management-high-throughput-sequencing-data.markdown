@@ -22,7 +22,7 @@ I updated our Google Sheet (Nightingales) with the data from [geoduck genome seq
 
 I also fixed the :FileLocation" column by replacing the "HYPERLINK" function with "CONCATENATE".
 
-Google Sheet: [Nightingales](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/pubhtml)
+Google Sheet: [Nightingales](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/pubhtml)
 
 
 
@@ -43,7 +43,7 @@ To update the Fusion Table, you have to do the following:
 
 
 
-Fusion Table: [Nightingales](https://www.google.com/fusiontables/embedviz?viz=GVIZ&t=TABLE&q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4%2C+col5%2C+col6%2C+col7%2C+col8%2C+col9%2C+col10%2C+col11%2C+col12+from+13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN+order+by+col1+desc&containerId=googft-gviz-canvas)
+Fusion Table: [Nightingales](httpss://www.google.com/fusiontables/embedviz?viz=GVIZ&t=TABLE&q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4%2C+col5%2C+col6%2C+col7%2C+col8%2C+col9%2C+col10%2C+col11%2C+col12+from+13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN+order+by+col1+desc&containerId=googft-gviz-canvas)
 
 
 
@@ -51,11 +51,11 @@ At initial glance, the Fusion Table appears the same as the Google Sheet. Howeve
 
 
 
-After that I decided to deal with the fact that many of the directories on Owl (http://owl.fish.washington.edu/nightingales/) lack readme files and subsequent information about the sequencing files in those folders.
+After that I decided to deal with the fact that many of the directories on Owl (https://owl.fish.washington.edu/nightingales/) lack readme files and subsequent information about the sequencing files in those folders.
 
 So, I took an inordinate amount of time to write a script that would automate as much of the process as I could think of.
 
-The script is here (GitHub): https://github.com/kubu4/Scripts/blob/master/bash/ngs_automator.sh
+The script is here (GitHub): httpss://github.com/kubu4/Scripts/blob/master/bash/ngs_automator.sh
 
 The goal of the script is to perform the following:
 

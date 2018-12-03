@@ -41,7 +41,7 @@ Re-quantified [the libraries that were completed yesterday](2015/12/21/illumina-
 
 Results:
 
-Qubit Quants and Library Normalization Calcs: [20151222_qubit_illumina_methylation_libraries](https://docs.google.com/spreadsheets/d/1bfIDqNPOxnShlP3Esl0D0pDOSXc5Yn6Ar4RQVS3RJLo/edit?usp=sharing)
+Qubit Quants and Library Normalization Calcs: [20151222_qubit_illumina_methylation_libraries](httpss://docs.google.com/spreadsheets/d/1bfIDqNPOxnShlP3Esl0D0pDOSXc5Yn6Ar4RQVS3RJLo/edit?usp=sharing)
 
 <table cellpadding="0" cellspacing="0" border="0" dir="ltr" > 
 <tbody >
@@ -154,4 +154,4 @@ Qubit Quants and Library Normalization Calcs: [20151222_qubit_illumina_methylati
 
 
 
-Things look pretty good. The [TruSeq DNA Methylation Library Kit (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf) suggests that the libraries produced should end up with concentrations >3ng/μL, but we have plenty of DNA here to make a pool for running on the HiSeq2500.
+Things look pretty good. The [TruSeq DNA Methylation Library Kit (Illumina)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf) suggests that the libraries produced should end up with concentrations >3ng/μL, but we have plenty of DNA here to make a pool for running on the HiSeq2500.

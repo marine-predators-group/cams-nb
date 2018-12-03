@@ -24,7 +24,7 @@ tags:
   - oil
 ---
 
-Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](http://gcf.uoregon.edu:8080/) (order number 2112).
+Our sequencing data (Illumina HiSeq2500, 100SE) for this project has completed by [Univ. of Oregon Genomics Core Facility](https://gcf.uoregon.edu:8080/) (order number 2112).
 
 Samples sequenced/pooled for this run:
 
@@ -112,23 +112,23 @@ Samples sequenced/pooled for this run:
 
 All code listed below was run on OS X 10.9.5
 
-Downloaded all 15 fastq.gz files to [Owl/web/nightingales/C_virginica](http://owl.fish.washington.edu/nightingales/C_virginica/):
+Downloaded all 15 fastq.gz files to [Owl/web/nightingales/C_virginica](https://owl.fish.washington.edu/nightingales/C_virginica/):
 
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_001.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_002.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_003.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_004.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_005.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_006.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_007.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_008.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_009.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_010.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_011.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_012.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_013.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_014.fastq.gz`
-`$curl -O http://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_015.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_001.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_002.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_003.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_004.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_005.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_006.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_007.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_008.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_009.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_010.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_011.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_012.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_013.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_014.fastq.gz`
+`$curl -O https://gcf.uoregon.edu:8080/job/download/2112?fileName=lane1_NoIndex_L001_R1_015.fastq.gz`
 
 
 
@@ -138,7 +138,7 @@ Renamed all files by removing the beginning of each file name (2112?fileName=) a
 
 
 
-Created a directory readme.md (markdown) file to list & describe directory contents: [readme.md](http://owl.fish.washington.edu/nightingales/C_virginica/readme.md)
+Created a directory readme.md (markdown) file to list & describe directory contents: [readme.md](https://owl.fish.washington.edu/nightingales/C_virginica/readme.md)
 
 `$ls *.gz >> readme.md`
 
@@ -146,6 +146,6 @@ Note: In order for the readme file to appear in the web directory listing, the f
 
 
 
-Created MD5 checksums for each fastq.gz file: [checksums.md5](http://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5)
+Created MD5 checksums for each fastq.gz file: [checksums.md5](https://owl.fish.washington.edu/nightingales/C_virginica/checksums.md5)
 
 `$md5 *.gz >> checksums.md5`

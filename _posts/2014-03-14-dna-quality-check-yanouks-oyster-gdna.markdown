@@ -26,7 +26,7 @@ See [Sam's Notebook 20131004](/Sam%27s+Working+Notebook+July+-+December+2013#sjw
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140314%20-%20Yanouk%20gDNA%20gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140314%20-%20Yanouk%20gDNA%20gel.jpg)
 
 First lane is Hyperladder II (Bioline). Highest molecular weight of the ladder is 2kb.
 

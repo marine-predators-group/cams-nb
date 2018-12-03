@@ -35,10 +35,10 @@ Repeated wash and spin.
 
 Removed supe, resuspended RNA in 50uL of 0.1%DEPC-treated H2O and spec'd on NanoDrop1000.
 
-Samples were stored in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140425%20-%20sea%20star%20RNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140425%20-%20sea%20star%20RNA%20ODs-01.JPG)
 
 Well, overall, the RNA looks immensely better than yesterday. However, as expected, there has been some slight loss with all the additional manipulations. As such, yields are low (although, they were initially low, too). However, I think most of the samples will be usable, albeit bordering on the minimum amount of total RNA needed (200ng) at the Cornell sequencing facility...

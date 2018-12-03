@@ -32,7 +32,7 @@ Pooled 200ng each of the sheared 1B1 (4μL) & 1B2 (used the entire sample, 20μL
 
 Quantified the pooled DNA using the NanoDrop1000 (ThermoFisher) prior to initiating bisulfite conversion.
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_preBS_plot.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_preBS_plot.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_preBS_plot.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_preBS_plot.JPG)
 
 Clearly, the NanoDrop measurements differ from the expected concentration. NanoDrop suggests the total amount of input DNA is ~1400ng (58ng/μL x 24μL = 1392ng). This is most likely due to RNA carryover, as [DNA quantification using a fluorescence-based, double-stranded DNA assay performed previously shows a drastically lower concentration](2015/01/12/speedvac-c-gigas-larvae-oa-dna.html).
 
@@ -69,7 +69,7 @@ Proceeded with bisulfite conversion using the Methylamp DNA Modification Kit (Ep
 
 Quantified post-bisulfite-treated sample on NanoDrop1000:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_postBS_plot.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_postBS_plot.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_postBS_plot.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150227_Emma_1000ppm_pool_postBS_plot.JPG)
 
 Definitely a low yield (~108ng) relative to the input (~400ng). Will proceed with Illumina library prep.
 
@@ -81,7 +81,7 @@ Definitely a low yield (~108ng) relative to the input (~400ng). Will proceed wit
 
 
 
-Illumina library prep was performed with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer’s protocol:
+Illumina library prep was performed with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer’s protocol:
 
 
 

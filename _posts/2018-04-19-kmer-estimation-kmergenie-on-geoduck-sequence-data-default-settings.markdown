@@ -18,13 +18,13 @@ tags:
   - Panopea generosa
 ---
 
-After the [last SparseAssembler assembly completed](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html), I wanted to do another run with a different kmer size (last time was arbitrarily set at 101). However, I didn't really know how to decide, particularly since this assembly consisted of mixed read lenghts (50bp and 100bp). So, I ran [kmergenie](http://kmergenie.bx.psu.edu/README) on all of our geoduck (_Panopea generosa_) sequencing data in hopes of getting a kmer determination to apply to my next assembly.
+After the [last SparseAssembler assembly completed](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html), I wanted to do another run with a different kmer size (last time was arbitrarily set at 101). However, I didn't really know how to decide, particularly since this assembly consisted of mixed read lenghts (50bp and 100bp). So, I ran [kmergenie](https://kmergenie.bx.psu.edu/README) on all of our geoduck (_Panopea generosa_) sequencing data in hopes of getting a kmer determination to apply to my next assembly.
 
 The job was run on our Mox HPC node.
 
-Slurm script: [20180419_kmergenie_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmergenie_geoduck_slurm.sh)
+Slurm script: [20180419_kmergenie_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmergenie_geoduck_slurm.sh)
 
-Input files list (needed for kmergenie command - see Slurm script linked above): [geoduck_fastq_list.txt](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/geoduck_fastq_list.txt)
+Input files list (needed for kmergenie command - see Slurm script linked above): [geoduck_fastq_list.txt](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/geoduck_fastq_list.txt)
 
 
 
@@ -32,18 +32,18 @@ Input files list (needed for kmergenie command - see Slurm script linked above):
 
 
 
-Output folder: [20180419_kmergenie_geoduck/](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/)
+Output folder: [20180419_kmergenie_geoduck/](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/)
 
-Slurm output file: [20180419_kmergenie_geoduck/slurm-161551.out](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/slurm-161551.out)
+Slurm output file: [20180419_kmergenie_geoduck/slurm-161551.out](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/slurm-161551.out)
 
-Kmer histograms (HTML): [20180419_kmergenie_geoduck/histograms_report.html](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html)
+Kmer histograms (HTML): [20180419_kmergenie_geoduck/histograms_report.html](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html)
 
 Screen cap from Kmer report:
 
-![](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmer_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/20180419_kmer_plot.png)
 
 This data estimates the best kmer size for this data to be 121.
 
-However, based on the [kmergenie documentation](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html#advhelp), this is likely to be inaccurate. This inaccuracy is based on the fact that our kmer graph should be concave. Our graph, instead, is only partial - we haven't reached a kmer size where the number of kmers is decreasing.
+However, based on the [kmergenie documentation](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_geoduck/histograms_report.html#advhelp), this is likely to be inaccurate. This inaccuracy is based on the fact that our kmer graph should be concave. Our graph, instead, is only partial - we haven't reached a kmer size where the number of kmers is decreasing.
 
 As such, I'll try re-running with a different maximum kmer settting (default max is 121).

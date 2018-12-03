@@ -29,6 +29,6 @@ CY42, CY36 - These tested positive for virginica gDNA (18s qPCR by Rony on DATE)
 
 Used Qiagen DNeasy Kit. Digested samples for 3 hrs. at 55C in Proteinase K according to protocol.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090515%20gDNA%20Dermo%20SJW-01.bmp)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090515%20gDNA%20Dermo%20SJW-01.bmp)
 
 Results: Horrible. Virtually no DNA in any of these samples. Additionally, the quality of the DNA is atrocious. Not sure what to do now.

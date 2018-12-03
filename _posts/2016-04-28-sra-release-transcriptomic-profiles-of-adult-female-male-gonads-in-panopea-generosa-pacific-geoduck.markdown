@@ -24,15 +24,15 @@ tags:
 
 The RNAseq data that [I previously submitted to NCBI short read archive (SRA)](2016/03/24/sra-submission-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck.html) has been released to the public today. Here are the various links for the project:
 
-Study: [SRP072283](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283) - [http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283)
+Study: [SRP072283](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283) - [http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283)
 
 
 
-BioProject: [PRJNA316216](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA316216) - [http://www.ncbi.nlm.nih.gov/bioproject/PRJNA31621](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA31621)6
+BioProject: [PRJNA316216](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316216) - [http://www.ncbi.nlm.nih.gov/bioproject/PRJNA31621](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA31621)6
 
-Study: [SRP072283](http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283) - [http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283
-](http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283)
+Study: [SRP072283](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283) - [http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283
+](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072283)
 
-Female Pool Experiment: [SRX1659865](http://www.ncbi.nlm.nih.gov/sra/SRX1659865) - [http://www.ncbi.nlm.nih.gov/sra/SRX1659865
-](http://www.ncbi.nlm.nih.gov/sra/SRX1659865)
-Male Pool Experiment: [SRX1659865](http://www.ncbi.nlm.nih.gov/sra/SRX1659866) - [http://www.ncbi.nlm.nih.gov/sra/SRX1659866](http://www.ncbi.nlm.nih.gov/sra/SRX1659866)
+Female Pool Experiment: [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659865) - [http://www.ncbi.nlm.nih.gov/sra/SRX1659865
+](https://www.ncbi.nlm.nih.gov/sra/SRX1659865)
+Male Pool Experiment: [SRX1659865](https://www.ncbi.nlm.nih.gov/sra/SRX1659866) - [http://www.ncbi.nlm.nih.gov/sra/SRX1659866](http://www.ncbi.nlm.nih.gov/sra/SRX1659866)

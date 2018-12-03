@@ -41,7 +41,7 @@ NOTE: Sample 034 did not process properly (no phase separation after 24:1 chlorf
 
 Quantified the DNA using the Qubit dsDNA BR Kit (Invitrogen). Used 2μL of DNA sample.
 
-Samples were stored in the same box the tissue was delivered in and stored in the same location in our -80C: [rack 8, row 5, column 4](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).
+Samples were stored in the same box the tissue was delivered in and stored in the same location in our -80C: [rack 8, row 5, column 4](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).
 
 
 
@@ -49,7 +49,7 @@ Samples were stored in the same box the tissue was delivered in and stored in th
 
 
 
-Qubit (Google Sheet): [20171114_qubit_Cvirginica_gDNA](https://docs.google.com/spreadsheets/d/1T5CzZH8p73UCDXNUhDK685FtfsNE4R9lRQa5ZZMuqW8/edit?usp=sharing)
+Qubit (Google Sheet): [20171114_qubit_Cvirginica_gDNA](httpss://docs.google.com/spreadsheets/d/1T5CzZH8p73UCDXNUhDK685FtfsNE4R9lRQa5ZZMuqW8/edit?usp=sharing)
 
 Ample DNA in all samples for MBDseq. (Refer to "Original Sample Conc." column in spreadsheet.)
 

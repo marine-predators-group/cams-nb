@@ -50,7 +50,7 @@ After shearing, ran 250ng of each pool on a 2% TAE agarose gel for fragmentation
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100618%20sonicated%20DNA%20gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100618%20sonicated%20DNA%20gel.jpg)
 
 Lane 1 - Hyperladder I
 

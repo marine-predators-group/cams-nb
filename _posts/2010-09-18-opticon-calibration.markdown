@@ -30,10 +30,10 @@ Results:
 
 Empty Plate:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100917%20Opticon%20Cal%20Empty.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100917%20Opticon%20Cal%20Empty.JPG)
 
 Plate with dye (presumably calibrated):
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100922%20Opticon%20Cal%20Dye.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100922%20Opticon%20Cal%20Dye.JPG)
 
 After running the calibration protocol with the dye, all the wells should show consistent fluorescence levels. Clearly, they do not. Oddly enough, there appears to be a cyclical pattern across the wells of low -> high -> low fluorescence. The calibration protocol advises that if the wells do not exhibit consistent fluorescence across wells, then the plate should be read again. The graph above is the 2nd reading, which appears to be the same as the 1st. Conclusion is that the Opticon 2 is not working correctly and will contact BioRad for price quotes on repairs.

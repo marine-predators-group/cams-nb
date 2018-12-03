@@ -25,6 +25,6 @@ Isolated RNA from Manila Clam gill samples provided by Dave according to protoco
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120301%20-%20Vp%20gill%20RNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120301%20-%20Vp%20gill%20RNA%20ODs-01.JPG)
 
 Overall, RNA quality is very good, as well as yields.

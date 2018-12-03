@@ -20,9 +20,9 @@ tags:
   - Vibrio tubiashii
 ---
 
-rRNA removal was continued from O/N precipitation. Processed the samples according to the [Ambion MICROBExpress Kit protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MICROBexpress%20bacterial%20mRNA%20kit.pdf) and resuspended final pellets in 25uL of The RNA Storage Solution. Samples were spec'd on the NanoDrop.
+rRNA removal was continued from O/N precipitation. Processed the samples according to the [Ambion MICROBExpress Kit protocol](https://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MICROBexpress%20bacterial%20mRNA%20kit.pdf) and resuspended final pellets in 25uL of The RNA Storage Solution. Samples were spec'd on the NanoDrop.
 
-![external image 20081224%20RNA%20SJW.PNG](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20081224%20RNA%20SJW.PNG)
+![external image 20081224%20RNA%20SJW.PNG](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20081224%20RNA%20SJW.PNG)
 
 
 

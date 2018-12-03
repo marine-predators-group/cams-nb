@@ -26,6 +26,6 @@ Was given ~0.5ug of each of these two RNA samples and processed them with Ambion
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090923%20trout%20ribo-%20polyA%20RNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090923%20trout%20ribo-%20polyA%20RNA%20SJW.jpg)
 
 Yield of ~320ng for RBC Control sample and ~360ng for RBC poly1:C sample. Will proceed to Whole Transctiptome Kit fragmentation step.

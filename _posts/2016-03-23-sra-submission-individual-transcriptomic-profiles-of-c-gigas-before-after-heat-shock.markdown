@@ -25,7 +25,7 @@ tags:
   - SRP072251
 ---
 
-RNA-seq experiment conducted by [Claire in 2013](http://claireeolson.blogspot.com/).
+RNA-seq experiment conducted by [Claire in 2013](https://claireeolson.blogspot.com/).
 
 She sampled mantle tissue from three adult oysters, allowed them to recover from the sampling (one week?) and then subjected those same oysters to a 1hr heat shock at 40C and collected mantle tissue from them again.
 
@@ -46,4 +46,4 @@ Here's the list of files uploaded to the SRA:
 
 SRA Accession: SRP072251
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_submission.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_submission.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_submission.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_submission.jpg)

@@ -46,7 +46,7 @@ M3: 13.15 uL of 380 ug/mL (solution looked cloudy)</blockquote>
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151210_katie_lotterhos_samples.jpeg)](http://eagle.fish.washington.edu/Arabidopsis/20151210_katie_lotterhos_samples.jpeg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151210_katie_lotterhos_samples.jpeg)](http://eagle.fish.washington.edu/Arabidopsis/20151210_katie_lotterhos_samples.jpeg)
 
 
 

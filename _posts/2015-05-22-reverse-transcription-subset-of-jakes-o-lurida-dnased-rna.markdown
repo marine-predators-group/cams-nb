@@ -51,7 +51,7 @@ Used the following DNased RNA:
 
 
 
-Reverse Transcription Calcs: [20150522_Jake_Oly_cDNA_Calcs](https://docs.google.com/spreadsheets/d/1fEZVOaSdIAv07df-BjSbeMc36--1mMfmbpIyAnHAxS8/edit?usp=sharing)
+Reverse Transcription Calcs: [20150522_Jake_Oly_cDNA_Calcs](httpss://docs.google.com/spreadsheets/d/1fEZVOaSdIAv07df-BjSbeMc36--1mMfmbpIyAnHAxS8/edit?usp=sharing)
 
 Briefly:
 

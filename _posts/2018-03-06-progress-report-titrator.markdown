@@ -63,7 +63,7 @@ With that out of the way, here's a fairly lengthy overview of what has been done
 
 
 
-Anyway, I've spent a lot of time getting our titrator, [protocols](https://github.com/RobertsLab/titrator/tree/master/protocols), and [scripts](https://github.com/RobertsLab/titrator/tree/master/scripts) to a point where we can not only begin collecting real data, but also actually analyze the data in a semi-automated way.
+Anyway, I've spent a lot of time getting our titrator, [protocols](httpss://github.com/RobertsLab/titrator/tree/master/protocols), and [scripts](https://github.com/RobertsLab/titrator/tree/master/scripts) to a point where we can not only begin collecting real data, but also actually analyze the data in a semi-automated way.
 
 More recently, I've finally started taking some measurements to assess the consistency of the actual titrator and stumbled across an interesting observation that may (may not) have an impact on how we proceed with sample/data handling.
 
@@ -79,7 +79,7 @@ More recently, I've finally started taking some measurements to assess the consi
 
 
 
-[Titrator SOP](https://github.com/RobertsLab/titrator/blob/master/protocols/titrator_SOP.md) is the primary protocol that encompasses setting up/shutting down the titrator, use of the LabX software needed for recording/exporting data from the titrator, and how to implement the necessary scripts to handle the exported data is still in early stages.
+[Titrator SOP](httpss://github.com/RobertsLab/titrator/blob/master/protocols/titrator_SOP.md) is the primary protocol that encompasses setting up/shutting down the titrator, use of the LabX software needed for recording/exporting data from the titrator, and how to implement the necessary scripts to handle the exported data is still in early stages.
 
 In theory, the SOP should be rather straightforward, but due to the sensitivity involved with these measurements, the SOP needs to carefully address how to set things up properly, provide a means for documenting startup/shutdown procedures, and provide troubleshooting assistance (e.g. how to empty/remove burette if/when air bubbles develop).
 
@@ -99,7 +99,7 @@ Once I get to that point and am able to begin running samples, I'll be able to d
 
 
 
-[parsing_TA_output.R](https://github.com/RobertsLab/titrator/blob/master/scripts/parsing_TA_output.R) is the script that has consumed the majority of my titrator-related time in the last couple of weeks. It is fully functional (it only requires manual entry of the exported LabX data file location). However, I'm hoping to eventually automate this as well - i.e. when new LabX export file appears, this script will execute. I won't be spending much time on this aspect of the script until I
+[parsing_TA_output.R](httpss://github.com/RobertsLab/titrator/blob/master/scripts/parsing_TA_output.R) is the script that has consumed the majority of my titrator-related time in the last couple of weeks. It is fully functional (it only requires manual entry of the exported LabX data file location). However, I'm hoping to eventually automate this as well - i.e. when new LabX export file appears, this script will execute. I won't be spending much time on this aspect of the script until I
 
 This has been my highest priority. Without having this script in a usable state, it has been a MAJOR slog to manually retrieve the appropriate data necessary to use in TA determination.
 
@@ -142,11 +142,11 @@ This also has been my biggest challenge with the titrator process. Here are just
 
 Despite all of this, I also feel like it's one of my biggest accomplishments! It's super satisfying to have this script functioning with virtually no user input required!
 
-[pH_calibration_check.R](https://github.com/RobertsLab/titrator/blob/master/scripts/pH_calibration_check.R) is still a work in progess, but is easily usable. Currently, it still has some hard-coded values (row numbers) in it for parsing data, but that should be easy to fix after what I went through with the TA parsing script!
+[pH_calibration_check.R](httpss://github.com/RobertsLab/titrator/blob/master/scripts/pH_calibration_check.R) is still a work in progess, but is easily usable. Currently, it still has some hard-coded values (row numbers) in it for parsing data, but that should be easy to fix after what I went through with the TA parsing script!
 
 Eventually, these two scripts will work in tandem, with the `pH_calibration_check` script exporting data to a daily "log" file, which the `parsing_TA_output` script will use to read-in the necessary pH data.
 
-[TA_calculation.R](https://github.com/RobertsLab/titrator/blob/master/scripts/TA_calculation.R) will calculate the TA values, but currently requires fully manual data entry. It desperately needs attention and will likely be my primary focus in the immediate future, due to the need to have TA values for actual samples, as well as daily quality control checks (e.g. verify CRM measurements look OK before measuring actual samples).
+[TA_calculation.R](httpss://github.com/RobertsLab/titrator/blob/master/scripts/TA_calculation.R) will calculate the TA values, but currently requires fully manual data entry. It desperately needs attention and will likely be my primary focus in the immediate future, due to the need to have TA values for actual samples, as well as daily quality control checks (e.g. verify CRM measurements look OK before measuring actual samples).
 
 
 
@@ -180,13 +180,13 @@ Here's the R Studio Project folder with all the data/scripts used to gather the 
 
 
 
-  * [20180301_titrator_instant_ocean_tests](http://owl.fish.washington.edu/Athaliana/20180301_titrator_instant_ocean_tests/)
+  * [20180301_titrator_instant_ocean_tests](https://owl.fish.washington.edu/Athaliana/20180301_titrator_instant_ocean_tests/)
 
 
 
 TA values were determined using the `seacarb` R package. I used a salinity of 35 (`seacarb` default value?), but this has not been determined for this batch of Instant Ocean.
 
-![](http://owl.fish.washington.edu/Athaliana/20180301_titrator_instant_ocean_tests/20180301_titrator_instant_ocean_volumes_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180301_titrator_instant_ocean_tests/20180301_titrator_instant_ocean_volumes_plot.png)
 
 <table >
 
@@ -240,7 +240,7 @@ So, I decided to explore this a bit further, using the CRMs that we have. I felt
 
 
 
-I ran five replicates of [CRM Batch 168 (PDF)](https://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf) at three different sample weights/volume (50g, 75g, 100g) to make sure the titrator was producing consistent results and evaulate how accurate our measurements are.
+I ran five replicates of [CRM Batch 168 (PDF)](httpss://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf) at three different sample weights/volume (50g, 75g, 100g) to make sure the titrator was producing consistent results and evaulate how accurate our measurements are.
 
 Here's the R Studio Project folder with all the data/scripts used to gather the data and produce the plots:
 
@@ -248,19 +248,19 @@ Here's the R Studio Project folder with all the data/scripts used to gather the 
 
 
 
-  * [20180305_titrator_crm_tests](http://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/)
+  * [20180305_titrator_crm_tests](https://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/)
 
 
 
 Here's a bunch of graphs to consider:
 
-![](http://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_50mLvs75mLvs100mL_TA_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_50mLvs75mLvs100mL_TA_plot.png)
 
-![](http://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_50mL_weight_vs_TA_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_50mL_weight_vs_TA_plot.png)
 
-![](http://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_75mL_weight_vs_TA_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_75mL_weight_vs_TA_plot.png)
 
-![](http://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_100mL_weight_vs_TA_plot.png)
+![](https://owl.fish.washington.edu/Athaliana/20180305_titrator_crm_tests/20180305_titrator_crm_100mL_weight_vs_TA_plot.png)
 
 <table >
 
@@ -355,4 +355,4 @@ Finally, although it isn't explicitly addressed, there is a time element in play
 
 Whew! We made it! I'll wait to get some feedback from lab members and Hollie before cranking through all of Hollie's samples, but I feel pretty good about proceeding with a 50mL sample volume. If we decide to calculate an offset later on, it should only be a relatively minor tweak to our script.
 
-Next up, figure out a way to pull out all of [Hollie's salinity data for the samples I'm going to measure](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/RAnalysis/Data/SW_Chem_Juvenile_Geoduck.csv) and incorporate that into the [TA_calculation.R](https://github.com/RobertsLab/titrator/blob/master/scripts/TA_calculation.R) script.
+Next up, figure out a way to pull out all of [Hollie's salinity data for the samples I'm going to measure](httpss://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/RAnalysis/Data/SW_Chem_Juvenile_Geoduck.csv) and incorporate that into the [TA_calculation.R](https://github.com/RobertsLab/titrator/blob/master/scripts/TA_calculation.R) script.

@@ -18,7 +18,7 @@ tags:
   - QUAST
 ---
 
-[Steven requested a comparison of geoduck genome assemblies](https://github.com/RobertsLab/resources/issues/235).
+[Steven requested a comparison of geoduck genome assemblies](httpss://github.com/RobertsLab/resources/issues/235).
 
 Ran the following Quast command:
 
@@ -39,11 +39,11 @@ Ran the following Quast command:
 
 
 
-Quast output folder: [results_2018_04_30_08_00_42/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_08_00_42/)
+Quast output folder: [results_2018_04_30_08_00_42/](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_08_00_42/)
 
-Quast report (HTML): [results_2018_04_30_08_00_42/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_08_00_42/report.html)
+Quast report (HTML): [results_2018_04_30_08_00_42/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_30_08_00_42/report.html)
 
-![](http://owl.fish.washington.edu/Athaliana/20180430_quast_sparse_sn_pga_comparison.png)
+![](https://owl.fish.washington.edu/Athaliana/20180430_quast_sparse_sn_pga_comparison.png)
 
 The data's pretty interesting and cool!
 

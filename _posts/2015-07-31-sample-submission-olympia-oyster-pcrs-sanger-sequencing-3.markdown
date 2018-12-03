@@ -12,8 +12,8 @@ categories:
   - Olympia oyster reciprocal transplant
 ---
 
-Submitted a plate of purified PCR products (PCR products prepared by Jake on [20150625](http://heareresearch.blogspot.com/2015/06/6-25-2015-flanking-pcr-pt-4.html)) that Jake set up 20150625, to the [UW High-Throughput Genomics Center](http://www.htseq.org/) for Sanger sequencing.
+Submitted a plate of purified PCR products (PCR products prepared by Jake on [20150625](https://heareresearch.blogspot.com/2015/06/6-25-2015-flanking-pcr-pt-4.html)) that Jake set up 20150625, to the [UW High-Throughput Genomics Center](http://www.htseq.org/) for Sanger sequencing.
 
-Plate layout is here (Google Sheet): [sequence_log](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)
+Plate layout is here (Google Sheet): [sequence_log](httpss://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)
 
 Order #:112582

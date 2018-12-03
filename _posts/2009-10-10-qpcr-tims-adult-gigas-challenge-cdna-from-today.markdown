@@ -23,11 +23,11 @@ tags:
   - Vibrio tubiashii
 ---
 
-Set up qPCR with EF1 primers and IL17 Internal primers. [Plate layout/setup is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091009-03.jpg). Note: gDNA sample used as a "positive" control will NOT amplify with the EF1 primers.
+Set up qPCR with EF1 primers and IL17 Internal primers. [Plate layout/setup is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091009-03.jpg). Note: gDNA sample used as a "positive" control will NOT amplify with the EF1 primers.
 
 Results: Processed with PCR Miner. Normalized to EF1. Standard Error bars. Here is spreadsheet with workup.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20091009%20IL17%20Internal%20graph.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20091009%20IL17%20Internal%20graph.jpg)
 
 **IL17** **Internal**:
 

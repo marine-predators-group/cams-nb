@@ -21,7 +21,7 @@ tags:
   - ZymoResearch
 ---
 
-Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](https://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) Since this is the next step in our pipeline, we figured we should probably just follow their recommendations!
+Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](httpss://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) Since this is the next step in our pipeline, we figured we should probably just follow their recommendations!
 
 TrimGalore job script:
 
@@ -29,7 +29,7 @@ TrimGalore job script:
 
 
 
-  * [20180410_trimgalore_trim14bp_Cvirginica_MDB.sh](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_trimgalore_trim_10bp_Cvirginica_MBD.sh)
+  * [20180410_trimgalore_trim14bp_Cvirginica_MDB.sh](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_trimgalore_trim_10bp_Cvirginica_MBD.sh)
 
 
 
@@ -37,7 +37,7 @@ Standard error was redirected on the command line to this file:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD/stderr.log](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/stderr.log)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD/stderr.log](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/stderr.log)
 
 
 
@@ -45,7 +45,7 @@ MD5 checksums were generated on the resulting trimmed FASTQ files:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD/checksums.md5](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/checksums.md5)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD/checksums.md5](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/checksums.md5)
 
 
 
@@ -65,7 +65,7 @@ Output folder:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/)
 
 
 
@@ -73,7 +73,7 @@ FastQC output folder:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/)
 
 
 
@@ -81,7 +81,7 @@ MultiQC output folder:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/)
 
 
 
@@ -89,10 +89,10 @@ MultiQC HTML report:
 
 
 
-  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html)
+  * [20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html)
 
 
 
 Hey! Look at that! Everything is much better! Thanks for the excellent documentation and suggestions, Bismarck!
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/20180411_trimgalore_10bp_Cvirginica_MBD/20180411_fastqc_trim_10bp_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

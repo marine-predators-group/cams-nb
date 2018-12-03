@@ -20,10 +20,10 @@ tags:
   - Turbo DNA-free
 ---
 
-5ug of each RNA was DNased using Ambion's Turbo DNA-free Kit, according to the rigorous protocol and spec'd on Roberts Lab NanoDrop 1000. [RNA volume calcs are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdEJBaExkeTVQb1BoWFkyaHNLQnN0T0E#gid=0).
+5ug of each RNA was DNased using Ambion's Turbo DNA-free Kit, according to the rigorous protocol and spec'd on Roberts Lab NanoDrop 1000. [RNA volume calcs are here](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdEJBaExkeTVQb1BoWFkyaHNLQnN0T0E#gid=0).
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120125%20-%20DNased%20RNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120125%20-%20DNased%20RNA%20ODs-01.JPG)
 
 DNased RNA looks fine. Low OD260/280 ratios, but this is often seen after DNase treatment and particularly with low [RNA]. Will perform qPCR to assess gDNA removal.

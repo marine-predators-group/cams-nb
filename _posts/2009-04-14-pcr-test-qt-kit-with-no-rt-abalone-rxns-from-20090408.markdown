@@ -22,9 +22,9 @@ tags:
   - Quantitect Kit
 ---
 
-Anneal 55C. [PCR set up is here (bottom half of sheet)](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090414-01.jpg).
+Anneal 55C. [PCR set up is here (bottom half of sheet)](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090414-01.jpg).
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090415.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090415.JPG)
 
 Lane 1 - Hyperladder
 

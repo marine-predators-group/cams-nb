@@ -116,9 +116,9 @@ Here's the current list of software that will be installed:
 </tbody>
 </table>
 
-In order to set this up, you need to install [Docker](https://www.docker.com/) and download the Dockerfile ([Dockerfile.bio](https://github.com/sr320/LabDocs/tree/master/code/dockerfiles)) I've created.
+In order to set this up, you need to install [Docker](httpss://www.docker.com/) and download the Dockerfile ([Dockerfile.bio](https://github.com/sr320/LabDocs/tree/master/code/dockerfiles)) I've created.
 
-I've written a bit of a user guide (specific to this Dockerfile) here to get people started: [docker.md](https://github.com/sr320/LabDocs/blob/master/code/docker.md)
+I've written a bit of a user guide (specific to this Dockerfile) here to get people started: [docker.md](httpss://github.com/sr320/LabDocs/blob/master/code/docker.md)
 
 The user guide explains a bit how all of this works and tries to progress from a "basic" this-is-how-to-get-started-with-Docker to an "advanced" description of how to map ports, mount local volumes in your containers, and how to start/attach previously used containers.
 

@@ -28,4 +28,4 @@ Samples were spun 10mins, 3,000g, at 4C (in bucket rotor).
 
 Will continue processing tomorrow.
 
-Data spreadsheet is here: [20131125 - Oyster Glycogen Assay](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHVBZGtENzFkZTNMM3BCTVNZQm1Cd2c&usp=sharing)
+Data spreadsheet is here: [20131125 - Oyster Glycogen Assay](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHVBZGtENzFkZTNMM3BCTVNZQm1Cd2c&usp=sharing)

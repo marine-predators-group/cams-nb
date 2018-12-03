@@ -32,7 +32,7 @@ Data was saved here:
 
 
 
-  * [nightingales/P_generosa/](http://owl.fish.washington.edu/nightingales/P_generosa/)
+  * [nightingales/P_generosa/](https://owl.fish.washington.edu/nightingales/P_generosa/)
 
 
 
@@ -42,7 +42,7 @@ Generated MD5 checksums (using `md5sum` on Ubuntu) and appended to the checksums
 
 
 
-  * [nightingales/P_generosa/checksums.md5](http://owl.fish.washington.edu/nightingales/P_generosa/checksums.md5)
+  * [nightingales/P_generosa/checksums.md5](https://owl.fish.washington.edu/nightingales/P_generosa/checksums.md5)
 
 
 
@@ -52,7 +52,7 @@ Illumina sample info is here:
 
 
 
-  * [20180403GeoDuckSamples.csv (GitHub)](https://github.com/RobertsLab/project-geoduck-genome/blob/master/docs/20180403GeoDuckSamples.csv)
+  * [20180403GeoDuckSamples.csv (GitHub)](httpss://github.com/RobertsLab/project-geoduck-genome/blob/master/docs/20180403GeoDuckSamples.csv)
 
 
 
@@ -60,15 +60,15 @@ Will add info to:
 
 
 
-  * [Geoduck Genome Wiki (GitHub)](https://github.com/RobertsLab/project-geoduck-genome/wiki/Illumina-Effort)
+  * [Geoduck Genome Wiki (GitHub)](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Illumina-Effort)
 
 
 
-  * [nightingales/P_generosa/readme.md](http://owl.fish.washington.edu/nightingales/P_generosa/readme.md)
+  * [nightingales/P_generosa/readme.md](https://owl.fish.washington.edu/nightingales/P_generosa/readme.md)
 
 
 
-  * [Nightingales spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales spreadsheet (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 
 

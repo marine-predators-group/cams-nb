@@ -26,6 +26,6 @@ Samples were run in duplicate.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20130419-01%20Cg%20HK%20CDS%20Gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20130419-01%20Cg%20HK%20CDS%20Gel.jpg)
 
 No amplification of any kind. Time for some troubleshooting...

@@ -20,7 +20,7 @@ tags:
   - NanoDrop1000
 ---
 
-Followed [JGI "Bacterial genomic DNA isolation using CTAB" protocol](http://my.jgi.doe.gov/general/protocols/DNA_Isolation_Bacterial_CTAB_Protocol.doc)(Word doc) with the following notes/changes.
+Followed [JGI "Bacterial genomic DNA isolation using CTAB" protocol](https://my.jgi.doe.gov/general/protocols/DNA_Isolation_Bacterial_CTAB_Protocol.doc)(Word doc) with the following notes/changes.
 
 Two, 1L cultures were transferred to 4 total jars (~500mL in each jar) for centrifugation. Jars had been briefly washed with 95% EtOH prior to use.
 
@@ -40,6 +40,6 @@ However...
 
 I recovered the aqueous phase anyway, as it was still contained in the tube and had no contact with the rotor surface(s). Due to a subsequent phenol:chloroform:IAA step, I split the aqueous phase into 24 x 1.5mL snap cap tubes and proceeded according to protocol. The final DNA pellet, prior to resuspension were combined from all the tubes into a single 1.5mL snap cap tube in a final volume of 400uL of TE.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090528%20gDNA%20SJW.bmp)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090528%20gDNA%20SJW.bmp)
 
 Results: DNA from today looks good with excellent yield. DNA from [20090513](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090513) doesn't look as nice AND the concentration doesn't jive with the QC gel that was run on [20090513](/Sam%27s+Working+Notebook+Jan-May+2009#sjw20090513). Will run out on gel according to JGI protocol to evaluate quality further.

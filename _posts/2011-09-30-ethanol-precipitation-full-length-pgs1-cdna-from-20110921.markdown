@@ -26,7 +26,7 @@ Performed an EtOH on gel-purified PCR products from 20110921. Briefly, added 0.1
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110930%20DNA-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110930%20DNA-01.JPG)
 
 Now have sufficient DNA for sequencing.
 

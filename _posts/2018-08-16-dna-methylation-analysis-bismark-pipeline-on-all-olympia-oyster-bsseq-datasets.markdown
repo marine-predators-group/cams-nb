@@ -28,7 +28,7 @@ All operations are documented in a Jupyter notebook (GitHub):
 
 
 
-  * [20180709_emu_oly_methylation_mapping.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180709_emu_oly_methylation_mapping.ipynb)
+  * [20180709_emu_oly_methylation_mapping.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180709_emu_oly_methylation_mapping.ipynb)
 
 
 
@@ -36,7 +36,7 @@ Genome used:
 
 
 
-  * [Olurida_v080.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v080.fa) ( run was initiated prior to creation of v081; see [Genomic Resources wiki for more info ](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida))
+  * [Olurida_v080.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v080.fa) ( run was initiated prior to creation of v081; see [Genomic Resources wiki for more info ](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida))
 
 
 
@@ -46,7 +46,7 @@ Genome used:
 
 
 
-Input files ( see [Olympia oyster Genomic GitHub wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki) for more info ):
+Input files ( see [Olympia oyster Genomic GitHub wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki) for more info ):
 
 
 
@@ -197,7 +197,7 @@ Output folder:
 
 
 
-  * [owl/Athaliana/20180709_oly_methylseq](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/)
+  * [owl/Athaliana/20180709_oly_methylseq](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/)
 
 
 
@@ -205,7 +205,7 @@ Bismark Summary Report:
 
 
 
-  * [20180709_oly_methylseq/bismark_summary_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/bismark_summary_report.html)
+  * [20180709_oly_methylseq/bismark_summary_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/bismark_summary_report.html)
 
 
 
@@ -213,107 +213,107 @@ Individual Sample Reports:
 
 
 
-  * [1_ATCACG_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/1_ATCACG_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [1_ATCACG_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/1_ATCACG_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [2_CGATGT_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/2_CGATGT_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [2_CGATGT_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/2_CGATGT_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [3_TTAGGC_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/3_TTAGGC_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [3_TTAGGC_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/3_TTAGGC_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [4_TGACCA_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/4_TGACCA_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [4_TGACCA_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/4_TGACCA_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [5_ACAGTG_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/5_ACAGTG_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [5_ACAGTG_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/5_ACAGTG_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [6_GCCAAT_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/6_GCCAAT_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [6_GCCAAT_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/6_GCCAAT_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [7_CAGATC_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/7_CAGATC_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [7_CAGATC_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/7_CAGATC_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [8_ACTTGA_L001_R1_001_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/8_ACTTGA_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
+  * [8_ACTTGA_L001_R1_001_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/8_ACTTGA_L001_R1_001_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_10_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_10_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_10_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_10_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_11_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_11_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_11_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_11_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_12_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_12_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_12_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_12_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_13_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_13_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_13_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_13_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_14_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_14_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_14_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_14_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_15_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_15_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_15_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_15_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_16_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_16_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_16_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_16_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_17_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_17_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_17_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_17_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_18_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_18_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_18_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_18_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_1_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_1_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_1_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_1_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_2_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_2_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_2_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_2_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_3_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_3_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_3_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_3_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_4_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_4_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_4_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_4_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_5_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_5_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_5_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_5_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_6_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_6_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_6_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_6_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_7_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_7_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_7_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_7_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_8_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_8_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_8_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_8_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 
-  * [zr1394_9_s456_trimmed_bismark_bt2_SE_report.html](http://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_9_s456_trimmed_bismark_bt2_SE_report.html)
+  * [zr1394_9_s456_trimmed_bismark_bt2_SE_report.html](https://owl.fish.washington.edu/Athaliana/20180709_oly_methylseq/zr1394_9_s456_trimmed_bismark_bt2_SE_report.html)
 
 
 

@@ -29,9 +29,9 @@ Used 1μL from all templates.
 
 All samples were run in duplicate.
 
-Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](http://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
+Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](https://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
 
-Master mix calcs are here: [20150512_qPCR_Oly_RNA](https://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
+Master mix calcs are here: [20150512_qPCR_Oly_RNA](httpss://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
 
 Cycling params:
 
@@ -58,7 +58,7 @@ Melt curve
 
 
 
-Plate layout: [20150512_qPCR_plate_Jake_Oly_Control_RNA](https://docs.google.com/spreadsheets/d/1Ev85A7KgH3jrN6UnZd2b3gXySaX0rQqGt8_poKPcIks/edit?usp=sharing)
+Plate layout: [20150512_qPCR_plate_Jake_Oly_Control_RNA](httpss://docs.google.com/spreadsheets/d/1Ev85A7KgH3jrN6UnZd2b3gXySaX0rQqGt8_poKPcIks/edit?usp=sharing)
 
 
 
@@ -66,9 +66,9 @@ Plate layout: [20150512_qPCR_plate_Jake_Oly_Control_RNA](https://docs.google.com
 
 Results:
 
-qPCR Data File (Opticon2): [Sam_20150512_105811.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150512_105811.tad)
+qPCR Data File (Opticon2): [Sam_20150512_105811.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150512_105811.tad)
 
-qPCR Report (Google Spreadsheet): [20150512_qPCR_Report_Jake_Oly_Control_RNA](https://docs.google.com/spreadsheets/d/1F8_DalqoKNCebg54zy1Fg6OFmuwkQg90QOvi89YBJbk/edit?usp=sharing)
+qPCR Report (Google Spreadsheet): [20150512_qPCR_Report_Jake_Oly_Control_RNA](httpss://docs.google.com/spreadsheets/d/1F8_DalqoKNCebg54zy1Fg6OFmuwkQg90QOvi89YBJbk/edit?usp=sharing)
 
 Excluding the no template controls (NTC), all samples produced amplification. Will require DNasing before making cDNA.
 
@@ -82,7 +82,7 @@ In the amplification plots below, the positive control reps are the two red line
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_Control_RNA.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_Control_RNA.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_Control_RNA.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_Control_RNA.JPG)
 
 
 
@@ -94,7 +94,7 @@ In the amplification plots below, the positive control reps are the two red line
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_Control_RNA.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_Control_RNA.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_Control_RNA.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_Control_RNA.JPG)
 
 
 

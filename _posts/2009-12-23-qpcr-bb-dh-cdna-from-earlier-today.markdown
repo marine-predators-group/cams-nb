@@ -24,10 +24,10 @@ tags:
   - SYTO 13
 ---
 
-qPCR was set up on these cDNAs using HMGP_5'/3' and SPI_5'/3' primers. [qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091223-02.jpg).
+qPCR was set up on these cDNAs using HMGP_5'/3' and SPI_5'/3' primers. [qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091223-02.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20091223_144042.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091223_144042.tad)
+qPCR Data File (Opticon): [20091223_144042.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091223_144042.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)

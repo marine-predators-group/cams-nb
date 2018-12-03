@@ -22,13 +22,13 @@ tags:
   - TriReagent
 ---
 
-RNA was isolated in 1mL TriReagent, according to protocol. Samples were resuspended in 50uL 0.1% DEPC-H2O and spec'd. RNA was stored @ -80C in "[Shellfish RNA Box #4](https://spreadsheets0.google.com/ccc?hl=en&key=pwrSWt05L-jZMgZvrRwC8QA&hl=en#gid=3)
+RNA was isolated in 1mL TriReagent, according to protocol. Samples were resuspended in 50uL 0.1% DEPC-H2O and spec'd. RNA was stored @ -80C in "[Shellfish RNA Box #4](httpss://spreadsheets0.google.com/ccc?hl=en&key=pwrSWt05L-jZMgZvrRwC8QA&hl=en#gid=3)
 
 Results:
 
 
 
-# ![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20110124%20RNA.JPG)
+# ![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20110124%20RNA.JPG)
 
 
 

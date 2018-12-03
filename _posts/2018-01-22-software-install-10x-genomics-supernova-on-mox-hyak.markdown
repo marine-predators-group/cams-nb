@@ -18,12 +18,12 @@ tags:
   - supernova
 ---
 
-[Steven asked me to install Supernova (by 10x Genomics on our Mox node](https://github.com/RobertsLab/resources/issues/159).
+[Steven asked me to install Supernova (by 10x Genomics on our Mox node](httpss://github.com/RobertsLab/resources/issues/159).
 
-First, need to install a dependency: [bcl2fastq2](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
-Followed [Illumina bcl2fastq2 manual (PDF)](https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
+First, need to install a dependency: [bcl2fastq2](httpss://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
+Followed [Illumina bcl2fastq2 manual (PDF)](httpss://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
 
-Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node):
+Logged into Mox and initiated a [Build node](httpss://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node):
 
 
     
@@ -37,7 +37,7 @@ Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_
 
 
 
-[Illumina bcl2fastq2 manual (PDF)](https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
+[Illumina bcl2fastq2 manual (PDF)](httpss://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
 
 
     
@@ -141,7 +141,7 @@ Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_
 
 
 
-[Supernova install directions](https://support.10xgenomics.com/de-novo-assembly/software/pipelines/latest/installation)
+[Supernova install directions](httpss://support.10xgenomics.com/de-novo-assembly/software/pipelines/latest/installation)
 
 
     
@@ -151,7 +151,7 @@ Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_
 
 
     
-    <code>wget -O supernova-2.0.0.tar.gz "http://cf.10xgenomics.com/releases/assembly/supernova-2.0.0.tar.gz?Expires=1516707075&Policy;=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2NmLjEweGdlbm9taWNzLmNvbS9yZWxlYXNlcy9hc3NlbWJseS9zdXBlcm5vdmEtMi4wLjAudGFyLmd6IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTE2NzA3MDc1fX19XX0_&Signature;=XJR7c9UlSkueydP304nKJrqomLXBH9~DWsenwlvBrplFMojbO-DPMghO09Sk6Wi5ApZSPwKB3sl1Wrnjy3qBLwr7dCoT~9oStyBpqlF~Xl2nBY6odnTzUaq3IpLyu8icIkt7DJM0GMXQTTp6rYu1PlLG31hMM5b5HZI3Tjzrhk8URbSrsG~7mm6m5-28afYHX00kT2Xfor7xr-ZSjjLe2jr99SEIARfzZjt6kUEnDMbl~3FXCHsSxXzKrkYXobGmfQhYBrey0iRyCAc9yNF7eSuBHAsqRGsP2yURVcYf3BB5nB1ZuEUo0qLgc5GlZJDQdsqDNC69HkyLCJamkJSnVg__&Key-Pair-Id;=APKAI7S6A5RYOXBWRPDA"</code>
+    <code>wget -O supernova-2.0.0.tar.gz "https://cf.10xgenomics.com/releases/assembly/supernova-2.0.0.tar.gz?Expires=1516707075&Policy;=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2NmLjEweGdlbm9taWNzLmNvbS9yZWxlYXNlcy9hc3NlbWJseS9zdXBlcm5vdmEtMi4wLjAudGFyLmd6IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTE2NzA3MDc1fX19XX0_&Signature;=XJR7c9UlSkueydP304nKJrqomLXBH9~DWsenwlvBrplFMojbO-DPMghO09Sk6Wi5ApZSPwKB3sl1Wrnjy3qBLwr7dCoT~9oStyBpqlF~Xl2nBY6odnTzUaq3IpLyu8icIkt7DJM0GMXQTTp6rYu1PlLG31hMM5b5HZI3Tjzrhk8URbSrsG~7mm6m5-28afYHX00kT2Xfor7xr-ZSjjLe2jr99SEIARfzZjt6kUEnDMbl~3FXCHsSxXzKrkYXobGmfQhYBrey0iRyCAc9yNF7eSuBHAsqRGsP2yURVcYf3BB5nB1ZuEUo0qLgc5GlZJDQdsqDNC69HkyLCJamkJSnVg__&Key-Pair-Id;=APKAI7S6A5RYOXBWRPDA"</code>
 
 
 
@@ -197,6 +197,6 @@ Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180122_mox_supernova_install.png)
+![](https://owl.fish.washington.edu/Athaliana/20180122_mox_supernova_install.png)
 
 OK, looks like the test run finished successfully.

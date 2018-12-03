@@ -35,7 +35,7 @@ tags:
   - Vibrio vulnificus
 ---
 
-Performed qPCR using pooled cDNA from 20110311. Pooled 2uL from each of the following samples groups: Dg 3hr C, Gill 1hr C, Gill 1hr E, Mantle 3hr C, and Muscle 3hr C. [ Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110315-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). Primers sets run were:
+Performed qPCR using pooled cDNA from 20110311. Pooled 2uL from each of the following samples groups: Dg 3hr C, Gill 1hr C, Gill 1hr E, Mantle 3hr C, and Muscle 3hr C. [ Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110315-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). Primers sets run were:
 
 EF1_qPCR_5',3' (SR IDs: 309, 310)
 
@@ -45,11 +45,11 @@ Cg_COX1/2_qPCR_F (SR ID: 1192) + Cg_COX2_454align1_R (SR ID: 1190) - Target = CO
 
 Results:
 
-[qPCR Report (PDF)](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pdf)
+[qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pdf)
 
-[qPCR Data File (CFX96)](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pcrd)
+[qPCR Data File (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pcrd)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110315%20-%20COX%20Tissue%20Distribution%20Gene%20Exp%20Graphs.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110315%20-%20COX%20Tissue%20Distribution%20Gene%20Exp%20Graphs.jpg)
 
 Graphs were generated using the BioRad CFX Manager v2.0 software. Expression was normalized to EF1. Also to note, gene efficiency was assumed as 100% by the software since no standard curve was run on the plate. As such, analysis of this data may not be exact.
 

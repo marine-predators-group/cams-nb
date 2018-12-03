@@ -41,7 +41,7 @@ tags:
 
 Amplified cDNA was cleaned up using the Invitrogen PureLink Micro Kit, but was done so according to Ambion's Whole Transcriptome Analysis Kit protocol and then spec'd.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100408%20SOLiD%20Libraries%20cDNA%20spec.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100408%20SOLiD%20Libraries%20cDNA%20spec.jpg)
 
 Results:
 

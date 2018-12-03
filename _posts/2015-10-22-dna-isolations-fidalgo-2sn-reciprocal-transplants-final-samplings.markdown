@@ -54,11 +54,11 @@ Sampling scheme is as follows:
 
 
 [
-Mrunmayee photographed & initiated dissections of oysters #3 - 8](http://onsnetwork.org/mrunmayee/2015/10/21/opening-oysters/). I took over for oyster #9 -14.
+Mrunmayee photographed & initiated dissections of oysters #3 - 8](https://onsnetwork.org/mrunmayee/2015/10/21/opening-oysters/). I took over for oyster #9 -14.
 
-All oyster data is here (Google Sheet): [Oly reciprocal final sampling](https://docs.google.com/spreadsheets/d/1KjsfrNdUuXegcPx6UjoGfR7vM---LwpaNi6Nra3HMkI/edit?usp=sharing)
+All oyster data is here (Google Sheet): [Oly reciprocal final sampling](httpss://docs.google.com/spreadsheets/d/1KjsfrNdUuXegcPx6UjoGfR7vM---LwpaNi6Nra3HMkI/edit?usp=sharing)
 
-DNA was isolated using the E.Z.N.A. Mollusc Kit (Omega Biotek) according to [the manufacturer's protocol](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Omega_Mollusc-DNA-Kit-Combo-May-2013-D3373.pdf) with the following changes:
+DNA was isolated using the E.Z.N.A. Mollusc Kit (Omega Biotek) according to [the manufacturer's protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Omega_Mollusc-DNA-Kit-Combo-May-2013-D3373.pdf) with the following changes:
 
 
 

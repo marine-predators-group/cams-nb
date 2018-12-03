@@ -41,7 +41,7 @@ Samples were eluted with 10uL of elution buffer and spec'd on a NanoDrop1000 (Th
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140922%20-%20Gigas%20gDNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140922%20-%20Gigas%20gDNA%20ODs-01.JPG)
 
 Not surprisingly, the samples from Katie Latterhos yielded, essentially, no gDNA. Will discuss with Steven.
 
@@ -49,4 +49,4 @@ Not surprisingly, the samples from Katie Latterhos yielded, essentially, no gDNA
 
 Steven sent me this screen cap of Emma's notebook so we could track where the samples originated from
 
-![](https://www.evernote.com/shard/s10/sh/5e19089d-0c31-426b-844a-e46249fac4e4/907d17586bd2b4eb0603686c9560f0dd/deep/0/genefish---Emma%27s-Notebook.png)
+![](httpss://www.evernote.com/shard/s10/sh/5e19089d-0c31-426b-844a-e46249fac4e4/907d17586bd2b4eb0603686c9560f0dd/deep/0/genefish---Emma%27s-Notebook.png)

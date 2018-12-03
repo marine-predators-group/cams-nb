@@ -23,7 +23,7 @@ tags:
 
 Since we still don't have sufficient gDNA for the full scope of the genome sequencing, I isolated more gDNA.
 
-Isolated gDNA from 257mg [adductor muscle tissue collected by Steven & Brent on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
+Isolated gDNA from 257mg [adductor muscle tissue collected by Steven & Brent on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
 Tissue was thoroughly minced with a clean razor blade and then processed with the E.Z.N.A. Mollusc Kit (Omega BioTek) with the following changes:
 
@@ -117,12 +117,12 @@ Regardless, the yield isn't all that great, which has generally been the case fo
 
 Will evaluate gDNA quality on a gel.
 
-Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](https://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
+Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](httpss://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
 
 
 
 NanoDrop1000 Measurements and Plots
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151124_gDNA_geoduck_oly_plots.JPG)

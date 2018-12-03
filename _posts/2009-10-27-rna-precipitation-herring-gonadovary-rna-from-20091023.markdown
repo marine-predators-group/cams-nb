@@ -18,4 +18,4 @@ tags:
   - RNA
 ---
 
-A subset (3 samples from each group) of samples were pooled (see [spreadsheet](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdE9lOE1YaWdwVm9RN0lPTG11S2E2V2c&hl=en), green-highlighted samples), each providing ~7.5ug of RNA, yielding 112.17uL. 0.1 vols of 3M NaOAC, pH = 5.2 were added to the tube (11.22uL). 2 vols of EtOH (246.8uL) was added to the tube. Tube was vortexed to mix and incubated @ -20C O/N.
+A subset (3 samples from each group) of samples were pooled (see [spreadsheet](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdE9lOE1YaWdwVm9RN0lPTG11S2E2V2c&hl=en), green-highlighted samples), each providing ~7.5ug of RNA, yielding 112.17uL. 0.1 vols of 3M NaOAC, pH = 5.2 were added to the tube (11.22uL). 2 vols of EtOH (246.8uL) was added to the tube. Tube was vortexed to mix and incubated @ -20C O/N.

@@ -27,13 +27,13 @@ tags:
 
 We'll see how it goes this time...
 
-Re-ran this using the [BGI Illumina scaffolds FASTA](http://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20161201/cdts-hk.genomics.cn/Ostrea_lurida/Ostrea_lurida.fa).
+Re-ran this using the [BGI Illumina scaffolds FASTA](https://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20161201/cdts-hk.genomics.cn/Ostrea_lurida/Ostrea_lurida.fa).
 
 
 
 
 
-  * [PB Jelly Documentation](https://sourceforge.net/p/pb-jelly/wiki/Home/)
+  * [PB Jelly Documentation](httpss://sourceforge.net/p/pb-jelly/wiki/Home/)
 
 
 
@@ -44,13 +44,13 @@ Here's a brief rundown of how this was run:
   * Default PB Jelly settings (including default settings for blasr).
 
 
-  * Illumina reference FASTA: [BGI Illumina scaffolds FASTA](http://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20161201/cdts-hk.genomics.cn/Ostrea_lurida/Ostrea_lurida.fa)
+  * Illumina reference FASTA: [BGI Illumina scaffolds FASTA](https://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20161201/cdts-hk.genomics.cn/Ostrea_lurida/Ostrea_lurida.fa)
 
 
   * PacBio reads for mapping
 
 
-  * [Protocol.xml file needed for PB Jelly to run](http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/Protocol.xml)
+  * [Protocol.xml file needed for PB Jelly to run](https://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/Protocol.xml)
 
 
 
@@ -62,9 +62,9 @@ See the Jupyter Notebook for full details of run (see Results section below).
 
 
 
-Output folder: [http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/](http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/)
+Output folder: [https://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/](http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/)
 
-Output FASTA file: [http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/jelly.out.fasta](http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/jelly.out.fasta)
+Output FASTA file: [https://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/jelly.out.fasta](http://owl.fish.washington.edu/Athaliana/20171130_oly_pbjelly/jelly.out.fasta)
 
 Quast assessment of output FASTA:
 
@@ -247,10 +247,10 @@ Quast assessment of output FASTA:
 </tbody>
 </table>
 
-Have added this assembly to our [Olympia oyster genome assemblies table](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies).
+Have added this assembly to our [Olympia oyster genome assemblies table](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies).
 
 This took an insanely long time to complete (nearly six weeks)!!! After some internet searching, I've found a pontential solution to this and have initiated another PB Jelly run to see if it will run faster. Regardless, it'll be interesting to see how the results compare from two independent runs of PB Jelly.
 
-Jupyter Notebook (GitHub): [20171130_emu_pbjelly.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171130_emu_pbjelly.ipynb)
+Jupyter Notebook (GitHub): [20171130_emu_pbjelly.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171130_emu_pbjelly.ipynb)
 
-[iframe src="https://render.githubusercontent.com/view/ipynb?commit=87d65add8efa1d529de364017472839a7f2236c3&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f383764363561646438656661316435323964653336343031373437323833396137663232333663332f6a7570797465725f6e62732f73616d2f32303137313133305f656d755f70626a656c6c792e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20171130_emu_pbjelly.ipynb&repository;_id=13746500&repository;_type=Repository#656df5c8-43b5-49d3-8f01-ce6dba13ae6d" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="httpss://render.githubusercontent.com/view/ipynb?commit=87d65add8efa1d529de364017472839a7f2236c3&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f383764363561646438656661316435323964653336343031373437323833396137663232333663332f6a7570797465725f6e62732f73616d2f32303137313133305f656d755f70626a656c6c792e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20171130_emu_pbjelly.ipynb&repository;_id=13746500&repository;_type=Repository#656df5c8-43b5-49d3-8f01-ce6dba13ae6d" width="100%" same_height_as="window" scrolling="yes"></iframe>

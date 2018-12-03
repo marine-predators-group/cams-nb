@@ -60,13 +60,13 @@ Bioanalyzer data file (XAD):
 
 
 
-  * [Eukaryote Total RNA Pico_2018-08-01_11-45-07.xad](http://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/Eukaryote%20Total%20RNA%20Pico_2018-08-01_11-45-07.xad)
+  * [Eukaryote Total RNA Pico_2018-08-01_11-45-07.xad](https://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/Eukaryote%20Total%20RNA%20Pico_2018-08-01_11-45-07.xad)
 
 
 
 ELECTROPHEROGRAMS:
 
-![](http://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/20180801_bioanalyzer_crab_electropherogram.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/20180801_bioanalyzer_crab_electropherogram.jpg)
 
 
 
@@ -75,7 +75,7 @@ ELECTROPHEROGRAMS:
 
 
 GEL REPRESENATATIONS
-![](http://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/20180801_bioanalyzer_crab_gel.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180801_bioanalyzer_crab_RNA/20180801_bioanalyzer_crab_gel.jpg)
 
 
 

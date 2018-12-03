@@ -23,7 +23,7 @@ tags:
   - SRR5809355
 ---
 
-Submitted the FASTQ files from the [UW PacBio Data from 20170323](2017/03/23/data-management-olympia-oyster-pacbio-data-received.html) to the [NCBI sequence read archive (SRA)](https://www.ncbi.nlm.nih.gov/sra).
+Submitted the FASTQ files from the [UW PacBio Data from 20170323](2017/03/23/data-management-olympia-oyster-pacbio-data-received.html) to the [NCBI sequence read archive (SRA)](httpss://www.ncbi.nlm.nih.gov/sra).
 
 FTP'd the data to NCBI's servers, following their instructions. Briefly,
 
@@ -47,5 +47,5 @@ SRA deets are below (assigned FASTQ files to existing BioProject and created a n
 
 SRA: SRS2339870
 Study: SRR5809355
-BioProject: [PRJNA316624](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316624)
-BioSample: [SAMN07326085](https://www.ncbi.nlm.nih.gov/biosample/SAMN07326085/)
+BioProject: [PRJNA316624](httpss://www.ncbi.nlm.nih.gov/bioproject/PRJNA316624)
+BioSample: [SAMN07326085](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN07326085/)

@@ -23,7 +23,7 @@ tags:
 
 Decided to compare the Redundans using Canu as reference and Redundans using Racon as reference. Both reference assemblies were just our PacBio data.
 
-Jupyter notebook (GitHub): [20171005_docker_oly_redundans.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb)
+Jupyter notebook (GitHub): [20171005_docker_oly_redundans.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb)
 
 Notebook is also embedded at the end of this post.
 
@@ -31,11 +31,11 @@ Notebook is also embedded at the end of this post.
 
 
 
-  * Redundans/Canu assembly (scaffolded assembly; FASTA): [http://owl.fish.washington.edu/Athaliana/20171004_redundans/scaffolds.reduced.fa](http://owl.fish.washington.edu/Athaliana/20171004_redundans/scaffolds.reduced.fa)
+  * Redundans/Canu assembly (scaffolded assembly; FASTA): [https://owl.fish.washington.edu/Athaliana/20171004_redundans/scaffolds.reduced.fa](http://owl.fish.washington.edu/Athaliana/20171004_redundans/scaffolds.reduced.fa)
 
 
 
-  * Racon PacBio assembly (contigs: FASTA): [http://owl.fish.washington.edu/Athaliana/201709_oly_pacbio_assembly_minimap_asm_racon/20170918_oly_pacbio_racon1_consensus.fasta](http://owl.fish.washington.edu/Athaliana/201709_oly_pacbio_assembly_minimap_asm_racon/20170918_oly_pacbio_racon1_consensus.fasta)
+  * Racon PacBio assembly (contigs: FASTA): [https://owl.fish.washington.edu/Athaliana/201709_oly_pacbio_assembly_minimap_asm_racon/20170918_oly_pacbio_racon1_consensus.fasta](http://owl.fish.washington.edu/Athaliana/201709_oly_pacbio_assembly_minimap_asm_racon/20170918_oly_pacbio_racon1_consensus.fasta)
 
 
 
@@ -48,19 +48,19 @@ Results:
 
 
 
-  * Redundans/Racon Output folder: [http://owl.fish.washington.edu/Athaliana/20171005_redundans/](http://owl.fish.washington.edu/Athaliana/20171005_redundans/)
+  * Redundans/Racon Output folder: [https://owl.fish.washington.edu/Athaliana/20171005_redundans/](http://owl.fish.washington.edu/Athaliana/20171005_redundans/)
 
 
 
-  * Redundans/Racon assembly (scaffolded assembly; FASTA): [http://owl.fish.washington.edu/Athaliana/20171005_redundans/scaffolds.reduced.fa](http://owl.fish.washington.edu/Athaliana/20171005_redundans/scaffolds.reduced.fa)
+  * Redundans/Racon assembly (scaffolded assembly; FASTA): [https://owl.fish.washington.edu/Athaliana/20171005_redundans/scaffolds.reduced.fa](http://owl.fish.washington.edu/Athaliana/20171005_redundans/scaffolds.reduced.fa)
 
 
 
-  * QUAST output folder (default settings): [http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/)
+  * QUAST output folder (default settings): [https://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/)
 
 
 
-  * QUAST output folder (--scaffolds setting): [http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/)
+  * QUAST output folder (--scaffolds setting): [https://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/)
 
 
 
@@ -96,14 +96,14 @@ Redundans with Canu is better, suggesting that the Canu assembly is the better o
 
 QUAST comparison using default settings:
 
-Interactive link:[http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/report.html)
+Interactive link:[https://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_21_06/report.html)
 
-[![](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_01.png)](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_01.png)
+[![](https://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_01.png)](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_01.png)
 
 QUAST comparison using --scaffolds setting:
 
-Interactive link: [http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/report.html)
+Interactive link: [https://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_10_06_22_27_26/report.html)
 
-[![](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)
+[![](https://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)
 
-[iframe src="https://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="httpss://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

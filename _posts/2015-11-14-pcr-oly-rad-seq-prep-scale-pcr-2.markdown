@@ -34,7 +34,7 @@ tags:
   - RAD-seq
 ---
 
-Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 [After determining the minimum number of PCR cycles to run to generate a visible, 166bp band on a gel yesterday](2015/11/12/pcr-oly-rad-seq-test-scale-pcr-4.html), ran a full library “prep scale” PCR.
 
 
@@ -405,15 +405,15 @@ Loaded 10μL of ladder on each of the two gels.
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)
 
 
 

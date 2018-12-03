@@ -22,7 +22,7 @@ tags:
 
 I transferred 8ug (136uL) of _Crassotrea virginica_ gDNA ([isolated earlier today](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)) to two separate 1.7mL snap cap tubes for sonication/shearing.
 
-I performed shearing at the [NOAA Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/about/facilities/montlake.cfm), using the Qsonica Q800R. Mackenzie Gavery assisted me.
+I performed shearing at the [NOAA Northwest Fisheries Science Center](httpss://www.nwfsc.noaa.gov/about/facilities/montlake.cfm), using the Qsonica Q800R. Mackenzie Gavery assisted me.
 
 Target fragment size was ~500bp.
 
@@ -42,24 +42,24 @@ Samples were run at the same time with the following settings:
 
 
 
-[![](http://owl.fish.washington.edu/Athaliana/20171211_qsonica_settings.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_qsonica_settings.jpg)
+[![](https://owl.fish.washington.edu/Athaliana/20171211_qsonica_settings.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_qsonica_settings.jpg)
 
 After sonication, fragmentation was assessed using the Seeb Lab's Bioanlyzer 2100 (Agilent) and the DNA 12000 Chip Kit (Agilent). NOTE: All of the reagents and the chips were past their expiration dates (most in June 2016).
 
-[![](http://owl.fish.washington.edu/Athaliana/20171211_bioanalyzer_DNA12000_chip.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_bioanalyzer_DNA12000_chip.jpg)
+[![](https://owl.fish.washington.edu/Athaliana/20171211_bioanalyzer_DNA12000_chip.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_bioanalyzer_DNA12000_chip.jpg)
 
 Results:
 
-Agilent 2100 Bioanalyzer Expert file (XAD): [2100 expert_DNA 12000_DE72902486_2017-12-11_13-45-31.xad](http://owl.fish.washington.edu/Athaliana/2100%20expert_DNA%2012000_DE72902486_2017-12-11_13-45-31.xad)
+Agilent 2100 Bioanalyzer Expert file (XAD): [2100 expert_DNA 12000_DE72902486_2017-12-11_13-45-31.xad](https://owl.fish.washington.edu/Athaliana/2100%20expert_DNA%2012000_DE72902486_2017-12-11_13-45-31.xad)
 
 Fragmentation was successful, and pretty consistent.
 
 Both samples appear to have an average fragment size of ~420bp. Will proceed with MeDIP, once reagents are received.
 
-[![](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_01.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_01.jpg)
+[![](https://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_01.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_01.jpg)
 
-[![](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_02.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_02.jpg)
+[![](https://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_02.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_sheared_virginica_02.jpg)
 
 Unsheared gDNA:
 
-[![](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_virginica_gDNA.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_virginica_gDNA.jpg)
+[![](https://owl.fish.washington.edu/Athaliana/20171211_electropherogram_virginica_gDNA.jpg)](http://owl.fish.washington.edu/Athaliana/20171211_electropherogram_virginica_gDNA.jpg)

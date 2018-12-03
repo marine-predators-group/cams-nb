@@ -28,9 +28,9 @@ tags:
   - SN49A
 ---
 
-Amazingly, we need more gDNA for the two genome sequencing projects (geoduck and Olympia oyster). Used geoduck "foot 1" sample from Box 1 of the [foot samples collected by Brent & Steven on 20150811.](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) Used Olympia oyster adductor muscle from Box 1 of [adductor muscle sample collected by Brent & Steven on 20150812.](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/)
+Amazingly, we need more gDNA for the two genome sequencing projects (geoduck and Olympia oyster). Used geoduck "foot 1" sample from Box 1 of the [foot samples collected by Brent & Steven on 20150811.](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/) Used Olympia oyster adductor muscle from Box 1 of [adductor muscle sample collected by Brent & Steven on 20150812.](http://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/)
 
-Also need to evaluate DNA quality of initial broodstock samples from Jake's Olympia oyster reciprocal transplant experiment. Used mantle samples stored in EtOH collected by Hannah ([see her notebook entries on July 25 & Sept 5, 2013](https://genefish.wikispaces.com/Hannah's+notebook))
+Also need to evaluate DNA quality of initial broodstock samples from Jake's Olympia oyster reciprocal transplant experiment. Used mantle samples stored in EtOH collected by Hannah ([see her notebook entries on July 25 & Sept 5, 2013](httpss://genefish.wikispaces.com/Hannah's+notebook))
 
 Tissue weights:
 
@@ -88,9 +88,9 @@ Spec'd on Roberts Lab NanoDrop1000.
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)
 
 
 

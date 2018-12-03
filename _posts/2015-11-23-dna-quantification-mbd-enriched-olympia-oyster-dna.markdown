@@ -34,12 +34,12 @@ Fluorescence was measured on the Seeb Lab's Victor 1420 plate reader (Perkin Elm
 
 Results:
 
-Google Sheet: [20151123_MBD_libraries_quantification](https://docs.google.com/spreadsheets/d/1sGU8S_nGMEdRpB3nSye3lDyUUoZFmS2qHgeVSvqWS38/edit?usp=sharing)
+Google Sheet: [20151123_MBD_libraries_quantification](httpss://docs.google.com/spreadsheets/d/1sGU8S_nGMEdRpB3nSye3lDyUUoZFmS2qHgeVSvqWS38/edit?usp=sharing)
 
 Standard curve looked good - R² = 0.999
 
 MBD recovery ranged from ~250 - 600ng.
 
-MBD percent recoveries ranged from ~2 - 20%. Input DNA quantities were taken from Katherine's numbers (Google Sheet): [Silliman-DNA-Samples](https://docs.google.com/spreadsheets/d/1anTR7QLB1p_Oyh_hUIWKKHy21sSvVjwTZmdqqxwcpWM/edit?usp=sharing)
+MBD percent recoveries ranged from ~2 - 20%. Input DNA quantities were taken from Katherine's numbers (Google Sheet): [Silliman-DNA-Samples](httpss://docs.google.com/spreadsheets/d/1anTR7QLB1p_Oyh_hUIWKKHy21sSvVjwTZmdqqxwcpWM/edit?usp=sharing)
 
 Will contact services about getting bisulfite Illumina sequencing performed.

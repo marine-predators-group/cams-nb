@@ -29,7 +29,7 @@ Plate was read on a Perkin Elmer plate reader using the Wallac software. The pla
 
 Results:
 
-Spreadsheet: [20150303_gigasHSshearedDNApico](https://docs.google.com/spreadsheets/d/16kRwiOanld9XuC-wfpbiTpcNgnFX_kTgVSoZiy-9ySg/edit?usp=sharing)
+Spreadsheet: [20150303_gigasHSshearedDNApico](httpss://docs.google.com/spreadsheets/d/16kRwiOanld9XuC-wfpbiTpcNgnFX_kTgVSoZiy-9ySg/edit?usp=sharing)
 
 
 
@@ -150,4 +150,4 @@ Regardless, will use the most conservative measurements (fluorescence) for decis
 
 With our yields, we have insufficient DNA to conduct MeDIP and then subsequent bisulfite conversion and library prep on our own. The recovery from the MeDIP will result in too little input DNA for bisulfite conversion and, in turn, library prep.
 
-However, we do have sufficient quantities of starting DNA (>200ng) for [Epigentek's MeDIP Methyl-seq](http://www.epigentek.com/services/sample-submission-instructions/). I have contacted Epigentek to see if their procedure includes bisulfite conversion after MeDIP (which the website workflow suggests that it does _not_).
+However, we do have sufficient quantities of starting DNA (>200ng) for [Epigentek's MeDIP Methyl-seq](https://www.epigentek.com/services/sample-submission-instructions/). I have contacted Epigentek to see if their procedure includes bisulfite conversion after MeDIP (which the website workflow suggests that it does _not_).

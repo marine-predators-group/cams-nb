@@ -43,6 +43,6 @@ Spec'd on NanoDrop1000.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140402%20-%20Macs_EV29.g0_OD.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140402%20-%20Macs_EV29.g0_OD.JPG)
 
 DNA looks good, both 260/280 ratio and yield. The 260/230 ratio isn't perfect, but it's much better than what Mac was seeing. After showing her this, she's decided to have me isolate DNA from the rest of her samples.

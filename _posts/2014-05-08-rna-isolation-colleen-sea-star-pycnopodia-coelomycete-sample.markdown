@@ -29,7 +29,7 @@ Samples were stored in Shellfish RNA Box #5.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140508%20-%20RNA%20DNased%20Sea%20star%20CF26%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140508%20-%20RNA%20DNased%20Sea%20star%20CF26%20ODs.JPG)
 
 Yield and quality look great. Will pass info on to Steven and Colleen for decision on which samples to sequence.
 

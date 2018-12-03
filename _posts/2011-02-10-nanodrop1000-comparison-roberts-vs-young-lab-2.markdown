@@ -21,7 +21,7 @@ Due to an apparent reduction in assay sensitivity for the Hematodidium qPCR assa
 
 Results:
 
-[Spreadsheet containing absorbance data and calculations of average concentration and standard deviation for both DNA samples on both machines is here](https://spreadsheets.google.com/ccc?hl=en&key=tdVXYq6kndQafj_JUX9_ymw&authkey=CPe7wowL&hl=en#gid=0).
+[Spreadsheet containing absorbance data and calculations of average concentration and standard deviation for both DNA samples on both machines is here](httpss://spreadsheets.google.com/ccc?hl=en&key=tdVXYq6kndQafj_JUX9_ymw&authkey=CPe7wowL&hl=en#gid=0).
 
 A quick table of the results:
 

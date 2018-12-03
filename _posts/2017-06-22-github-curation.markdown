@@ -26,7 +26,7 @@ Updated a couple of GitHub Wikis:
 
 
 
-Created a new repo in the [RobertsLab Organization GitHub account](https://github.com/RobertsLab) with a wiki to provide [an overview of how to use of Hyak (mox) computing node.](https://github.com/RobertsLab/hyak_mox/wiki) This was lightly modified from what [Sean already had in his personal repo.](https://github.com/seanb80/seanb80.github.io/wiki)
+Created a new repo in the [RobertsLab Organization GitHub account](httpss://github.com/RobertsLab) with a wiki to provide [an overview of how to use of Hyak (mox) computing node.](https://github.com/RobertsLab/hyak_mox/wiki) This was lightly modified from what [Sean already had in his personal repo.](https://github.com/seanb80/seanb80.github.io/wiki)
 
 
 
@@ -38,7 +38,7 @@ Created a new repo in the [RobertsLab Organization GitHub account](https://githu
 
 
 
-As a quick test, I updated all the md files in  the [sr320/LabDocs/code](https://github.com/sr320/LabDocs/tree/master/code) md files to format headers for GitHub's newest interpretation of headers. The headers (represented by a series of '#') require a space between them and the subsequent text.  I used the following command in bash:
+As a quick test, I updated all the md files in  the [sr320/LabDocs/code](httpss://github.com/sr320/LabDocs/tree/master/code) md files to format headers for GitHub's newest interpretation of headers. The headers (represented by a series of '#') require a space between them and the subsequent text.  I used the following command in bash:
 
 
     
@@ -79,7 +79,7 @@ Since this worked, I'll probably run this through all of the md files in all of 
 
 
 
-Working on updating the [Genome-sequencing-December-2016-(UW-PacBio) wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)), but need to work out the kinks on any easy, documentable way to rename and move some files around in order to make files/organization compliant with our [data management plan (DMP)](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan).
+Working on updating the [Genome-sequencing-December-2016-(UW-PacBio) wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)), but need to work out the kinks on any easy, documentable way to rename and move some files around in order to make files/organization compliant with our [data management plan (DMP)](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan).
 
 
 

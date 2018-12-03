@@ -26,6 +26,6 @@ All of the RNA (50uL) was DNase treated with Ambion's Turbo DNA-free kit accordi
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090507%20RNA%20SJW-01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090507%20RNA%20SJW-01.jpg)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090507%20RNA%20SJW-02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090507%20RNA%20SJW-02.jpg)

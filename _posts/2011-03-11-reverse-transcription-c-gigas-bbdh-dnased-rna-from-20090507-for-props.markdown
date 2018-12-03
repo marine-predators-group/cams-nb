@@ -21,4 +21,4 @@ tags:
   - reverse transcription
 ---
 
-Performed RT on DNased RNA using Promega MMLV RT and Oligo dT according to manufacturer's protocol, using 1ug of DNased RNA, but in a 50uL reaction. Due to large number of samples, cDNA was made in PCR plate. [Plate layout and calcs are here](https://spreadsheets3.google.com/ccc?key=tnCFOYm03SNc053JcCp75EQ&authkey=CKbw8YYG#gid=0).
+Performed RT on DNased RNA using Promega MMLV RT and Oligo dT according to manufacturer's protocol, using 1ug of DNased RNA, but in a 50uL reaction. Due to large number of samples, cDNA was made in PCR plate. [Plate layout and calcs are here](httpss://spreadsheets3.google.com/ccc?key=tnCFOYm03SNc053JcCp75EQ&authkey=CKbw8YYG#gid=0).

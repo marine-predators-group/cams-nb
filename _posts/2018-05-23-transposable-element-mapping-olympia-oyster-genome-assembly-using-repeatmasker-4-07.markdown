@@ -21,11 +21,11 @@ tags:
   - transposable elements
 ---
 
-[Steven wanted transposable elements (TEs) in the Olympia oyster genome identified.](https://github.com/RobertsLab/resources/issues/265)
+[Steven wanted transposable elements (TEs) in the Olympia oyster genome identified.](httpss://github.com/RobertsLab/resources/issues/265)
 
-After some minor struggles, I [was able to get RepeatMasker installed on](2018/05/23/software-installation-repeatmasker-v4-0-7-on-emuroadrunner-continued.html) on both of our Apple Xserves ([emu](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-emu) & [roadrunner](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-roadrunner); running Ubuntu 16.04LTS).
+After some minor struggles, I [was able to get RepeatMasker installed on](2018/05/23/software-installation-repeatmasker-v4-0-7-on-emuroadrunner-continued.html) on both of our Apple Xserves ([emu](httpss://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-emu) & [roadrunner](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-roadrunner); running Ubuntu 16.04LTS).
 
-Genome used: [pbjelly_sjw_01](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
+Genome used: [pbjelly_sjw_01](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
 
 I ran RepeatMasker (v4.07) with RepBase-20170127 and RMBlast 2.6.0 four times:
 
@@ -91,7 +91,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180523_roadrunner_oly_TEs_repeatmasker.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180523_roadrunner_oly_TEs_repeatmasker.ipynb)
+  * [20180523_roadrunner_oly_TEs_repeatmasker.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180523_roadrunner_oly_TEs_repeatmasker.ipynb)
 
 
 
@@ -121,7 +121,7 @@ Output folder:
 
 
 
-  * [20180523_oly_repeatmasker_pbjelly_sjw_01-01](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput)
+  * [20180523_oly_repeatmasker_pbjelly_sjw_01-01](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput)
 
 
 
@@ -129,7 +129,7 @@ Summary table (text):
 
 
 
-  * [jelly.out.fasta.tbl](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput/jelly.out.fasta.tbl)
+  * [jelly.out.fasta.tbl](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput/jelly.out.fasta.tbl)
 
 
 
@@ -137,7 +137,7 @@ Output table (GFF):
 
 
 
-  * [jelly.out.fasta.out.gff](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput/jelly.out.fasta.out.gff)
+  * [jelly.out.fasta.out.gff](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-01/jelly.out.fasta.preThuMay240214172018.RMoutput/jelly.out.fasta.out.gff)
 
 
 
@@ -222,7 +222,7 @@ Output folder:
 
 
 
-  * [20180523_oly_repeatmasker_pbjelly_sjw_01-02](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput)
+  * [20180523_oly_repeatmasker_pbjelly_sjw_01-02](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput)
 
 
 
@@ -230,7 +230,7 @@ Summary table (text):
 
 
 
-  * [jelly.out.fasta.tbl](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput/jelly.out.fasta.tbl)
+  * [jelly.out.fasta.tbl](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput/jelly.out.fasta.tbl)
 
 
 
@@ -238,7 +238,7 @@ Output table (GFF):
 
 
 
-  * [jelly.out.fasta.out.gff](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput/jelly.out.fasta.out.gff)
+  * [jelly.out.fasta.out.gff](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-02/jelly.out.fasta.preThuMay240845562018.RMoutput/jelly.out.fasta.out.gff)
 
 
 
@@ -332,7 +332,7 @@ Output folder:
 
 
 
-  * [20180523_oly_repeatmasker_pbjelly_sjw_01-03](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/)
+  * [20180523_oly_repeatmasker_pbjelly_sjw_01-03](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/)
 
 
 
@@ -340,7 +340,7 @@ Summary table (text):
 
 
 
-  * [jelly.out.fasta.tbl](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/jelly.out.fasta.preThuMay241347382018.RMoutput/jelly.out.fasta.tbl)
+  * [jelly.out.fasta.tbl](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/jelly.out.fasta.preThuMay241347382018.RMoutput/jelly.out.fasta.tbl)
 
 
 
@@ -348,7 +348,7 @@ Output table (GFF):
 
 
 
-  * [jelly.out.fasta.out.gff](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/jelly.out.fasta.preThuMay241347382018.RMoutput/jelly.out.fasta.out.gff)
+  * [jelly.out.fasta.out.gff](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-03/jelly.out.fasta.preThuMay241347382018.RMoutput/jelly.out.fasta.out.gff)
 
 
 
@@ -442,7 +442,7 @@ Output folder:
 
 
 
-  * [20180523_oly_repeatmasker_pbjelly_sjw_01-04](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/)
+  * [20180523_oly_repeatmasker_pbjelly_sjw_01-04](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/)
 
 
 
@@ -450,7 +450,7 @@ Summary table (text):
 
 
 
-  * [jelly.out.fasta.tbl](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/jelly.out.fasta.preThuMay241644392018.RMoutput/jelly.out.fasta.tbl)
+  * [jelly.out.fasta.tbl](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/jelly.out.fasta.preThuMay241644392018.RMoutput/jelly.out.fasta.tbl)
 
 
 
@@ -458,7 +458,7 @@ Output table (GFF):
 
 
 
-  * [jelly.out.fasta.out.gff](http://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/jelly.out.fasta.preThuMay241644392018.RMoutput/jelly.out.fasta.out.gff)
+  * [jelly.out.fasta.out.gff](https://owl.fish.washington.edu/Athaliana/20180523_oly_repeatmasker_pbjelly_sjw_01-04/jelly.out.fasta.preThuMay241644392018.RMoutput/jelly.out.fasta.out.gff)
 
 
 

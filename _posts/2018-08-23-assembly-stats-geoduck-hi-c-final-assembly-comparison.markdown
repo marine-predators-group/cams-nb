@@ -25,7 +25,7 @@ We received the final geoduck genome assembly data from Phase Genomics, in which
 
 
 
-  * [geoduck_manual_scaffolds.fasta](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/geoduck_manual_scaffolds.fasta)
+  * [geoduck_manual_scaffolds.fasta](https://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/geoduck_manual_scaffolds.fasta)
 
 
 
@@ -33,7 +33,7 @@ There are additional assembly files that provide some additional assembly data. 
 
 
 
-  * [20180822_phase_genomics_geoduck_Results/geoduck_manual/](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/)
+  * [20180822_phase_genomics_geoduck_Results/geoduck_manual/](https://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/geoduck_manual/)
 
 
 
@@ -45,7 +45,7 @@ All assembly data (both old and new) from Phase Genomics was downloaded in full 
 
 
 
-  * [20180822_phase_genomics_geoduck_Results/](http://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/)
+  * [20180822_phase_genomics_geoduck_Results/](https://owl.fish.washington.edu/Athaliana/20180822_phase_genomics_geoduck_Results/)
 
 
 
@@ -74,8 +74,8 @@ Ran Quast to compare all three assemblies provided (command run on Swoose):
 
 
 
-Quast output folder: [results_2018_08_23_07_38_28/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/)
+Quast output folder: [results_2018_08_23_07_38_28/](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/)
 
-Quast report (HTML): [results_2018_08_23_07_38_28/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/report.html)
+Quast report (HTML): [results_2018_08_23_07_38_28/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/report.html)
 
-![](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/20180823_quast_geoduck_pga.png)
+![](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_08_23_07_38_28/20180823_quast_geoduck_pga.png)

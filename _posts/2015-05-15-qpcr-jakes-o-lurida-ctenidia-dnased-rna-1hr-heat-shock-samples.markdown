@@ -31,7 +31,7 @@ Used 1μL from all templates.
 
 All samples were run in duplicate.
 
-Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](http://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
+Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](https://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
 
 Cycling params:
 
@@ -58,17 +58,17 @@ Cycling params:
 
 
 
-Master mix calcs are here (used same calcs from the other day): [20150512_qPCR_Oly_RNA](https://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
+Master mix calcs are here (used same calcs from the other day): [20150512_qPCR_Oly_RNA](httpss://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
 
-Plate layout: [20150514_qPCR_plate_Jake_Oly_1hr_HS_DNased_RNA](https://docs.google.com/spreadsheets/d/1A4x_0wd2EhMo84msvb-dsLluARUU8ily0h6IQL_5V_k/edit?usp=sharing)
+Plate layout: [20150514_qPCR_plate_Jake_Oly_1hr_HS_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1A4x_0wd2EhMo84msvb-dsLluARUU8ily0h6IQL_5V_k/edit?usp=sharing)
 
 
 
 Results:
 
-qPCR Data File (Opticon): [Sam_20150514_170332.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150514_170332.tad)
+qPCR Data File (Opticon): [Sam_20150514_170332.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150514_170332.tad)
 
-qPCR Report (Google Spreadsheeet): [20150514_qPCR_Report_Jake_Oly_DNased_1hr_HS_RNA](https://docs.google.com/spreadsheets/d/1DY3eA1Wh01TrcZ8DFX5Ij-EEDhPimYmWfUvsYGaxEc4/edit?usp=sharing)
+qPCR Report (Google Spreadsheeet): [20150514_qPCR_Report_Jake_Oly_DNased_1hr_HS_RNA](httpss://docs.google.com/spreadsheets/d/1DY3eA1Wh01TrcZ8DFX5Ij-EEDhPimYmWfUvsYGaxEc4/edit?usp=sharing)
 
 
 
@@ -82,7 +82,7 @@ Positive control samples are the only samples that produced amplification (cycle
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)
 
 
 
@@ -92,4 +92,4 @@ Positive control samples are the only samples that produced amplification (cycle
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)

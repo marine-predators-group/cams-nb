@@ -20,9 +20,9 @@ tags:
   - ZymoResearch
 ---
 
-Per [Steven's GitHub Issues request](https://github.com/RobertsLab/resources/issues/217), I ran FastQC on the Eastern oyster MBD bisulfite sequencing data [we recently got back from ZymoResearch.](2018/03/29/data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch.html)
+Per [Steven's GitHub Issues request](httpss://github.com/RobertsLab/resources/issues/217), I ran FastQC on the Eastern oyster MBD bisulfite sequencing data [we recently got back from ZymoResearch.](2018/03/29/data-recived-crassostrea-virginica-mbd-bs-seq-from-zymoresearch.html)
 
-Ran FastQC locally with the following script: [20180409_fastqc_Cvirginica_MBD.sh](http://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/20180409_fastqc_Cvirginica_MBD.sh)
+Ran FastQC locally with the following script: [20180409_fastqc_Cvirginica_MBD.sh](https://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/20180409_fastqc_Cvirginica_MBD.sh)
 
 
     
@@ -65,11 +65,11 @@ All files were moved to Owl after the jobs completed.
 
 
 
-FastQC Output folder: [20180409_fastqc_Cvirginica_MBD/](http://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/)
+FastQC Output folder: [20180409_fastqc_Cvirginica_MBD/](https://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/)
 
-MultiQC Output folder: [20180409_fastqc_Cvirginica_MBD/multiqc_data/](http://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/)
+MultiQC Output folder: [20180409_fastqc_Cvirginica_MBD/multiqc_data/](https://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/)
 
-MultiQC report (HTML): [20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html)
+MultiQC report (HTML): [20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html)
 
 Everything looks good to me.
 
@@ -77,4 +77,4 @@ Steven's interested in seeing what the trimmed output would look like (and, how 
 
 See the GitHub issue linked above for the full discussion.
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/20180409_fastqc_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

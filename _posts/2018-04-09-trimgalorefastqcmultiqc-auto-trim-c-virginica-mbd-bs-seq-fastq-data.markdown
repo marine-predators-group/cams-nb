@@ -29,7 +29,7 @@ TrimGalore job script:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD.sh](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_trimgalore_autotrim_Cvirginica_MBD.sh)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD.sh](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_trimgalore_autotrim_Cvirginica_MBD.sh)
 
 
 
@@ -37,7 +37,7 @@ Standard error was redirected on the command line to this file:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/stderr.log](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/stderr.log)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/stderr.log](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/stderr.log)
 
 
 
@@ -45,7 +45,7 @@ MD5 checksums were generated on the resulting trimmed FASTQ files:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/checksums.md5](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/checksums.md5)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/checksums.md5](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/checksums.md5)
 
 
 
@@ -65,7 +65,7 @@ Output folder:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/)
 
 
 
@@ -73,7 +73,7 @@ FastQC output folder:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/)
 
 
 
@@ -81,7 +81,7 @@ MultiQC output folder:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/)
 
 
 
@@ -89,10 +89,10 @@ MultiQC HTML report:
 
 
 
-  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html)
+  * [20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html)
 
 
 
-Overall, the auto-trim didn't alter things too much. Specifically, Steven is concerned about the variability in the first 15bp ([seen in the Per Base Sequence Content section of the MultiQC output](http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html#fastqc_per_base_sequence_content)). It was reduced, but not greatly. Will perform an independent run of TrimGalore and employ a hard trim of the first 14bp of each read and see how that looks.
+Overall, the auto-trim didn't alter things too much. Specifically, Steven is concerned about the variability in the first 15bp ([seen in the Per Base Sequence Content section of the MultiQC output](https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html#fastqc_per_base_sequence_content)). It was reduced, but not greatly. Will perform an independent run of TrimGalore and employ a hard trim of the first 14bp of each read and see how that looks.
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/20180409_trimgalore_autotrim_Cvirginica_MBD/20180409_fastqc_trimgalore_autotrim_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

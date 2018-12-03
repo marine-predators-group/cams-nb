@@ -21,7 +21,7 @@ tags:
   - tanner crab
 ---
 
-We received [Grace's 100bp PE NovaSeq (Illumian) RNAseq data](https://grace-ac.github.io/Pooled-sample-handed-toNWGC/) from the Northwest Genomics Center today.
+We received [Grace's 100bp PE NovaSeq (Illumian) RNAseq data](httpss://grace-ac.github.io/Pooled-sample-handed-toNWGC/) from the Northwest Genomics Center today.
 
 Data was downloaded via their Aspera browser plugin and rsynced to:
 
@@ -29,7 +29,7 @@ Data was downloaded via their Aspera browser plugin and rsynced to:
 
 
 
-  * [Owl/nightingales/C_bairdi](http://owl.fish.washington.edu/nightingales/C_bairdi/)
+  * [Owl/nightingales/C_bairdi](https://owl.fish.washington.edu/nightingales/C_bairdi/)
 
 
 
@@ -37,7 +37,7 @@ MD5 checksums were generated (md5sum on Ubuntu):
 
 
 
-  * [checksums.md5](http://owl.fish.washington.edu/nightingales/C_bairdi/checksums.md5)
+  * [checksums.md5](https://owl.fish.washington.edu/nightingales/C_bairdi/checksums.md5)
 
 
 
@@ -54,13 +54,13 @@ MD5 checksums were generated (md5sum on Ubuntu):
 
 FastQC analysis was run, followed by MultiQC.
 
-Output folder ([gannet/Atumefaciens](http://gannet.fish.washington.edu/Atumefaciens)):
+Output folder ([gannet/Atumefaciens](https://gannet.fish.washington.edu/Atumefaciens)):
 
 
 
 
 
-  * [20181015_Cbairdi_fastqc/](http://gannet.fish.washington.edu/Atumefaciens/20181015_Cbairdi_fastqc/)
+  * [20181015_Cbairdi_fastqc/](https://gannet.fish.washington.edu/Atumefaciens/20181015_Cbairdi_fastqc/)
 
 
 
@@ -68,7 +68,7 @@ MultiQC Report (HTML):
 
 
 
-  * [20181015_Cbairdi_fastqc/multiqc_report.html](http://gannet.fish.washington.edu/Atumefaciens/20181015_Cbairdi_fastqc/multiqc_report.html)
+  * [20181015_Cbairdi_fastqc/multiqc_report.html](https://gannet.fish.washington.edu/Atumefaciens/20181015_Cbairdi_fastqc/multiqc_report.html)
 
 
 
@@ -76,6 +76,6 @@ Nightingales spreadsheet was updated with file info and FastQC info:
 
 
 
-  * [Nightingales (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 

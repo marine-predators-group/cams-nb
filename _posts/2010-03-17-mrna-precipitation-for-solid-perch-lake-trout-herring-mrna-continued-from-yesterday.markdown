@@ -36,6 +36,6 @@ mRNA was pelleted and washed according to Ambion's MicroPolyA Purist Kit. Pellet
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20100317%20mRNA.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20100317%20mRNA.jpg)
 
 Overall, this mRNA doesn't look that great. However, I did notice that all samples had (to varying degrees) particulate matter that wouldn't dissolve. Prior to spec'ing, the particulate matter was pelleted so as to not interfere. All samples will continue to be prepped for SOLiD analysis despite poor 260/280 ratios and low yields.

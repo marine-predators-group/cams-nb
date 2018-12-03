@@ -22,7 +22,7 @@ tags:
 
 Received notification that the [samples sent on 20150601 for RNAseq](2015/06/01/sample-submission-geoduck-gonad-for-rna-seq.html) were completed.
 
-Downloaded the following files from the GENEWIZ servers using FileZilla FTP and stored them on our server ([owl/web/nightingales/P_generosa](http://owl.fish.washington.edu/nightingales/P_generosa/)):
+Downloaded the following files from the GENEWIZ servers using FileZilla FTP and stored them on our server ([owl/web/nightingales/P_generosa](https://owl.fish.washington.edu/nightingales/P_generosa/)):
 
 Geo_Pool_F_GGCTAC_L006_R1_001.fastq.gz
 Geo_Pool_F_GGCTAC_L006_R2_001.fastq.gz

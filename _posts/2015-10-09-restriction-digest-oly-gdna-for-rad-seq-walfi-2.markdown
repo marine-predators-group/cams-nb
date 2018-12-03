@@ -20,15 +20,15 @@ tags:
   - restriction digestion
 ---
 
-Previously initiated the RAD-seq procedure for the sample set described below. However, [the test scale PCR yielded poor results](2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2.html). Katherine Silliman [suggested that the poor performance of the test scale PCR was likely due to low numbers of adaptor-ligated fragments](http://onsnetwork.org/kubu4/2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2/#comments). Since [the input DNA is so degraded](2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check.html), I've repeated this using 9μg of input DNA (instead of the recommended 1.2μg). This should increase the number of available cleavage sites for AlfI, thus improving the number of available ligation sites for the adaptors.
+Previously initiated the RAD-seq procedure for the sample set described below. However, [the test scale PCR yielded poor results](2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2.html). Katherine Silliman [suggested that the poor performance of the test scale PCR was likely due to low numbers of adaptor-ligated fragments](https://onsnetwork.org/kubu4/2015/10/02/pcr-oly-rad-seq-test-scale-pcr-2/#comments). Since [the input DNA is so degraded](2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check.html), I've repeated this using 9μg of input DNA (instead of the recommended 1.2μg). This should increase the number of available cleavage sites for AlfI, thus improving the number of available ligation sites for the adaptors.
 
 Used a subset (10 samples) from [the _Ostrea lurida_ gDNA isolated 20150916](2015/09/16/dna-isolation-olympia-oyster-whole-body.html) to prepare RAD libraries.
 
-Followed the [2bRAD protocol (PDF) developed by Eli Meyer’s lab](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+Followed the [2bRAD protocol (PDF) developed by Eli Meyer’s lab](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
 Prepared 9.0μg of each of the following samples in a volume of 10μL:
 
-Google Sheet: [20151009_RADseq_DNA_calcs](https://docs.google.com/spreadsheets/d/1jAA9lAhKaG1ZMYczH2rGc1mK4ovltWgbTGzrMN8ZNKQ/edit?usp=sharing)
+Google Sheet: [20151009_RADseq_DNA_calcs](httpss://docs.google.com/spreadsheets/d/1jAA9lAhKaG1ZMYczH2rGc1mK4ovltWgbTGzrMN8ZNKQ/edit?usp=sharing)
 
 
 

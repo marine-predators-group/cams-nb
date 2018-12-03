@@ -27,7 +27,7 @@ tags:
   - Vibrio vulnificus
 ---
 
-Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111). Primers used were Cg_COX1/2_qPCR_F (SR ID: 1192) & Cg_COX1_qPCR_R (SR ID: 1191). Samples were run in duplicate. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110601-01.jpg). Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).
+Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [20110111](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110111). Primers used were Cg_COX1/2_qPCR_F (SR ID: 1192) & Cg_COX1_qPCR_R (SR ID: 1191). Samples were run in duplicate. [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110601-01.jpg). Plate layout, cycling params, etc., can be seen in the qPCR Report (see Results).
 
 
 
@@ -37,8 +37,8 @@ Ran a qPCR on all cDNA samples from the V.vulnificus exposure experiment from [2
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-01%2016-05-45_CC009827.pcrd) (BioRad CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-01%2016-05-45_CC009827.pcrd) (BioRad CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-01%2016-05-45_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2011-06-01%2016-05-45_CC009827.pdf) (PDF)
 
 Data looks good (e.g. the replicates are all very close, with the largest Cq Std. Deviation = 0.534), nothing in the NTCs, & the melt curves look good. Will eventually normalize the data and then perform a complete analysis.

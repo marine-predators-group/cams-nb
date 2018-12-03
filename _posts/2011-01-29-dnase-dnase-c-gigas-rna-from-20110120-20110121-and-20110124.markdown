@@ -21,11 +21,11 @@ tags:
   - NanoDrop1000
 ---
 
-5ug of RNA was DNased using Ambion's Turbo DNA-free kit, following the rigorous protocol (0.5uL of DNase for 30 mins then additional 0.5uL of DNase for 30mins). [Calcs for DNase reactions are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdEYzZEFjSXlGRUgzVUZBekpzZTMybmc&hl=en&authkey=CJ6rp5cM). RNA was stored @ -80C in Shellfish RNA Boxes [4](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&hl=en#gid=3) and [5](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&hl=en#gid=4). Samples will be spec'd on Monday.
+5ug of RNA was DNased using Ambion's Turbo DNA-free kit, following the rigorous protocol (0.5uL of DNase for 30 mins then additional 0.5uL of DNase for 30mins). [Calcs for DNase reactions are here](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdEYzZEFjSXlGRUgzVUZBekpzZTMybmc&hl=en&authkey=CJ6rp5cM). RNA was stored @ -80C in Shellfish RNA Boxes [4](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&hl=en#gid=3) and [5](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&hl=en#gid=4). Samples will be spec'd on Monday.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20110131%20DNased%20RNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20110131%20DNased%20RNA%20ODs.JPG)
 
 Overall, the RNA looks really good (based on OD 260/280 numbers). Not surprisingly, the OD 260/230 values for all samples dropped, likely due to the addition of the buffer (salts) used in the DNase reaction. Emma says she will check these samples for residual DNA.
 

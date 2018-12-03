@@ -22,7 +22,7 @@ tags:
   - spreadsheet
 ---
 
-To complement MBD ChiP-seq data and RNA-seq data that we have from this experiment, we want to generate, at a minimum, some BS-seq data from the same _C.gigas_ individuals used for the other aspects of this experiment.  [Claire had previously isolated DNA and sheared the DNA on 20140108](https://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee). If possible, we'd like to perform MBD enrichment, but the current quantities of DNA may prevent us from this.
+To complement MBD ChiP-seq data and RNA-seq data that we have from this experiment, we want to generate, at a minimum, some BS-seq data from the same _C.gigas_ individuals used for the other aspects of this experiment.  [Claire had previously isolated DNA and sheared the DNA on 20140108](httpss://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee). If possible, we'd like to perform MBD enrichment, but the current quantities of DNA may prevent us from this.
 
 To quantify the DNA and evaluate the shearing profile, I ran 1μL of each of the following mantle pre-/post-heat shock samples on a DNA 1000 chip (Agilent) on the Agilent 2100 Bioanalyzer. in the Seeb Lab:
 
@@ -60,17 +60,17 @@ Bioanalyzer Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-02-19_11-32-3
 
 Electropherograms
 
-[caption id="" align="alignnone" width="1032"][![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg) 2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA.[/caption]
+[caption id="" align="alignnone" width="1032"][![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg) 2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA.[/caption]
 
 
 
-Spreadsheet: [2100 expert_DNA 1000_DE72902486_2015-02-19_11-32-35_Results_001](https://docs.google.com/spreadsheets/d/1WQTZcRZ9vLjgKus3SK1Wu1JkeJN7-oPFyK-H8HiY-aU/edit?usp=sharing)
+Spreadsheet: [2100 expert_DNA 1000_DE72902486_2015-02-19_11-32-35_Results_001](httpss://docs.google.com/spreadsheets/d/1WQTZcRZ9vLjgKus3SK1Wu1JkeJN7-oPFyK-H8HiY-aU/edit?usp=sharing)
 
 ``
 
 
 
-[Claire's notebook entry](https://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee) doesn't ever specify what her target shear size was, but the Bioanalyzer analysis suggests an average size of ~500bp.
+[Claire's notebook entry](httpss://www.evernote.com/pub/che625/che625snotebook#st=p&n=b0e96db7-e001-411d-9870-873dad00afee) doesn't ever specify what her target shear size was, but the Bioanalyzer analysis suggests an average size of ~500bp.
 
 Also interesting to note is that Claire's sample concentrations (as measured on the NanoDrop1000) are significantly greater than what is calculated by the Bioanalyzer. Since the Bioanalyzer chip used (DNA1000) only goes to 1000bp, is it possible the differences in concentrations is due to incomplete shearing of the samples (e.g. a significant portion of the DNA is >1000bp in size and thus not factored in to the Bioanlyzer concentrations calculations)?
 

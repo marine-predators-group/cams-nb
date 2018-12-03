@@ -29,13 +29,13 @@ AJ582629.p.cg.6 ("DEF1", "Defensin 1") - This was upregulated in BB SOLiD data.
 
 CB617519.p.cg.6 ("RETST", "All-trans retinol") - This was upregulated in BB SOLiD data.
 
-[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-01.jpg).
+[qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-01.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20091230_173747.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_173747.tad)
+qPCR Data File (Opticon): [20091230_173747.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_173747.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 
 
@@ -47,10 +47,10 @@ CU684779.p.cg.6 ("SEMSA", "Semaphorin-SA") - This was upregulated in BB SOLiD da
 
 FP004879.p.cg.6 ("TIMP3", "Metalloproteinase inhibitor 3") - This was upregulated in BB SOLiD data.
 
-[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-02.jpg).
+[qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091230-02.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20091230_143643.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_143643.tad)
+qPCR Data File (Opticon): [20091230_143643.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091230_143643.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)

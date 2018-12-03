@@ -26,7 +26,7 @@ tags:
   - RAD-seq
 ---
 
-Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+Continuing with the RAD-seq library prep. [Following the Meyer Lab 2bRAD protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
 Prior to generating full-blown libraries, we needed to run a “test-scale” PCR to identify the minimum number of cycles needed to produce the intended product size (166bp).
 
@@ -256,13 +256,13 @@ These samples were run on a 1x modified TAE 2% agarose gel (w/EtBr).
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 
 
 
 
-[caption id="" align="alignnone" width="698"][![](http://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg) Test-scale PCR gel. Green arrow indicates desired band. The numbers below the headings indicate the sample number.[/caption]
+[caption id="" align="alignnone" width="698"][![](https://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg) Test-scale PCR gel. Green arrow indicates desired band. The numbers below the headings indicate the sample number.[/caption]
 
 
 

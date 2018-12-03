@@ -21,7 +21,7 @@ tags:
 
 
 
-Per this [GitHub Issue](https://github.com/RobertsLab/resources/issues/324), Steven has cleared out files.
+Per this [GitHub Issue](httpss://github.com/RobertsLab/resources/issues/324), Steven has cleared out files.
 
 Additionally, it appears that my job has just continued from where it was stuck. Very nice!
 
@@ -35,7 +35,7 @@ ORIGINAL POST IS BELOW
 
 Well, this is an issue. Checked in on job progress and noticed that we've exceeded our storage quota on Mox:
 
-![](http://owl.fish.washington.edu/Athaliana/20180730_mox_maker_quota.png)
+![](https://owl.fish.washington.edu/Athaliana/20180730_mox_maker_quota.png)
 
 
 
@@ -43,7 +43,7 @@ Well, this is an issue. Checked in on job progress and noticed that we've exceed
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180730_mox_maker_quota_01.png)
+![](https://owl.fish.washington.edu/Athaliana/20180730_mox_maker_quota_01.png)
 
 
 

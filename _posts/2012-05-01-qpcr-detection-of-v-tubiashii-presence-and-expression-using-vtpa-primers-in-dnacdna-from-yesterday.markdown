@@ -27,11 +27,11 @@ All samples were run in duplicate.
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-05-01%2008-04-41_cc009827.pcrd) (CFX96)
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-05-01%2008-04-41_CC009827.pdf) (PDF)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-05-01%2008-04-41_cc009827.pcrd) (CFX96)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qpcr/CFX96/Roberts%20Lab_2012-05-01%2008-04-41_CC009827.pdf) (PDF)
 
 No detectable levels of expression (or, no expression at all) in any of the cDNA samples.
 
 Below I've put together a very rough comparison of larvae levels, based off of the the standard curve. I have NOT done the full back calculations!! This is data straight out of the qPCR machine, using the standard curve. Due to the large range, I've graphed the data on a logarithmic scale so all the data is visible on the graph.
 
-![](https://img.skitch.com/20120502-r83eaackyu4iasgxta3uicb7kp.jpg)
+![](httpss://img.skitch.com/20120502-r83eaackyu4iasgxta3uicb7kp.jpg)

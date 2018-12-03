@@ -53,7 +53,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181017_qPCR_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1Q038zsxrqSUfMNTC88jXC6Fu--jfFZZvMaff-BRMUuY/edit?usp=sharing)
+  * [20181017_qPCR_Cgigas_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1Q038zsxrqSUfMNTC88jXC6Fu--jfFZZvMaff-BRMUuY/edit?usp=sharing)
 
 
 
@@ -75,7 +75,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-17 2007-21-05_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-17%2007-21-05_BR006896.pdf)
+  * [sam_2018-10-17 2007-21-05_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-17%2007-21-05_BR006896.pdf)
 
 
 
@@ -83,7 +83,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-17 2007-21-05_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-17%2007-21-05_BR006896.pcrd)
+  * [sam_2018-10-17 2007-21-05_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-17%2007-21-05_BR006896.pcrd)
 
 
 
@@ -91,7 +91,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-17_07-21-05_BR006896_-__Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17_07-21-05_BR006896_-__Quantification_Cq_Results.csv)
+  * [sam_2018-10-17_07-21-05_BR006896_-__Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17_07-21-05_BR006896_-__Quantification_Cq_Results.csv)
 
 
 
@@ -111,7 +111,7 @@ Everything looks great! Nice, clean, gDNA-free RNA! Will proceed with reverse tr
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17%2007-21-05_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17%2007-21-05_amp_plots.png)
 
 
 
@@ -125,4 +125,4 @@ Everything looks great! Nice, clean, gDNA-free RNA! Will proceed with reverse tr
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17%2007-21-05_melt_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-17%2007-21-05_melt_plots.png)

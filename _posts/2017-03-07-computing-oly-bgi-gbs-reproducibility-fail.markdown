@@ -25,9 +25,9 @@ The key word in the above sentence is "attempted." Ugh, what a massive waste of 
 
 In the meantime, here's a brief (actually, not as brief as I'd like) rundown of my struggles.
 
-The demultiplexing software that BGI used is something called "iTools" which is bundled in this GitHub repo: [Resqtools](https://github.com/BGI-shenzhen/Reseqtools)
+The demultiplexing software that BGI used is something called "iTools" which is bundled in this GitHub repo: [Resqtools](httpss://github.com/BGI-shenzhen/Reseqtools)
 
-To demutliplex, they ran a script called: [split.sh](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/split.sh)
+To demutliplex, they ran a script called: [split.sh](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/split.sh)
 
 The script seems fairly straightforward. Here is what it contains:
 
@@ -44,7 +44,7 @@ The script seems fairly straightforward. Here is what it contains:
 
 
 
-It tells the iTools program to use the Fqtools tool "splitpool" to operate on a pair of gzipped FASTQ files. It also utilizes an index file ([index.lst](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/index.lst)) which contains all the barcodes needed to identify, and separate, the individual samples that were combined prior to sequencing.
+It tells the iTools program to use the Fqtools tool "splitpool" to operate on a pair of gzipped FASTQ files. It also utilizes an index file ([index.lst](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/index.lst)) which contains all the barcodes needed to identify, and separate, the individual samples that were combined prior to sequencing.
 
 The first bump in the road is the `-Flag enzyme.txt` portion of the code. BGI did not provide me with this file. I recently requested them to send me it (or its contents, since I suspected it was only a single line text file). They sent me the contents of the file:
 
@@ -59,11 +59,11 @@ The next problem is neither of those two sequences are the recognition site for 
 
 Regardless, I decided to see if I could reproduce the demultiplexing using the info they'd provided me.
 
-I cloned the [Resqtools](https://github.com/BGI-shenzhen/Reseqtools) repo, changed into the Reseqtools/iTools directory and typed `make`.
+I cloned the [Resqtools](httpss://github.com/BGI-shenzhen/Reseqtools) repo, changed into the Reseqtools/iTools directory and typed `make`.
 
 This resulted in an error informing me that it could not find `boost/spirit/core.hpp`
 
-I tracked down the [Boost](http://www.boost.org/) library junk, downloaded the newest version and untarred it in /usr/local/bin.
+I tracked down the [Boost](https://www.boost.org/) library junk, downloaded the newest version and untarred it in /usr/local/bin.
 
 Tried to run `make` in the Reseqtools/iTools directory and got the same error. Realized iTools might not be searching the system `$PATH` (this turned out to be correct), so I moved the contents of the Boost folder to the iTools, ran `make` and got the same error. Turns out, the newest version of Boost doesn't have that `core.hpp` file any more. Looking at the iTools documentation, iTools was built around Boost 1.44. OMG...
 
@@ -77,7 +77,7 @@ But, of course, led to another error. The error:
 
 
 
-That was related to something with newer versions of the GCC compiler (this is, essentially, built into the computer; it's not worth trying to install/use old versions of GCC) trying to work with old versions of Boost. Found a patch for a config file here: [libstdcpp3.hpp.patch](https://svn.boost.org/trac/boost/attachment/ticket/6165/libstdcpp3.hpp.patch)
+That was related to something with newer versions of the GCC compiler (this is, essentially, built into the computer; it's not worth trying to install/use old versions of GCC) trying to work with old versions of Boost. Found a patch for a config file here: [libstdcpp3.hpp.patch](httpss://svn.boost.org/trac/boost/attachment/ticket/6165/libstdcpp3.hpp.patch)
 
 I made the appropriate edits to the file as shown in that link and ran `make` and it almost worked!
 

@@ -17,7 +17,7 @@ tags:
   - JGI
 ---
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090601%20C%20pugetti%20gDNA%20JGI%20QC.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090601%20C%20pugetti%20gDNA%20JGI%20QC.jpg)
 
 Lane 1 - 15ng standard (5uL)
 

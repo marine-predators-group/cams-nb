@@ -23,7 +23,7 @@ Well, [I tackled the storage space issue by expanding the EC2 Instance to have a
 
 I'm running the EC2 c4.2xlarge (Ubuntu 14.04 LTS, 8 vCPUs, 16 GiB RAM) instance.
 
-I'm trying to run two programs simultaneously: [PyRad](http://dereneaton.com/software/pyrad/) and [Stacks](http://catchenlab.life.illinois.edu/stacks/) (specifically, the ustacks "sub" program).
+I'm trying to run two programs simultaneously: [PyRad](https://dereneaton.com/software/pyrad/) and [Stacks](http://catchenlab.life.illinois.edu/stacks/) (specifically, the ustacks "sub" program).
 
 PyRad keeps crashing with some memory error stuff (see embedded Jupyter Notebook at the end of this post).
 
@@ -49,11 +49,11 @@ I see why PyRad is dying. Here are two screen captures that show what resources 
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_cpus.png)](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_cpus.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_cpus.png)](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_cpus.png)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_mem.png)](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_mem.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_mem.png)](http://eagle.fish.washington.edu/Arabidopsis/20160718_ec2_ustacks_mem.png)
 
 
 
@@ -88,5 +88,5 @@ Here's the Jupyter Notebook with the PyRad errors (see "Step 3: Clustering" sect
 
 
     
-    <code>[iframe src="https://render.githubusercontent.com/view/ipynb?commit=f9a4627317620dc69e7c7502aec1894f10ac3254&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f663961343632373331373632306463363965376337353032616563313839346631306163333235342f6a7570797465725f6e62732f73616d2f32303136303731355f6563325f6f6c795f6762735f70797261642e6970796e62&nwo=sr320%2FLabDocs&path=jupyter_nbs%2Fsam%2F20160715_ec2_oly_gbs_pyrad.ipynb&repository_id=13746500#a22d1ce9-8f2d-419d-a0a5-446aba32da60" width="100%" same_height_as="window" scrolling="yes"]
+    <code><iframe src="httpss://render.githubusercontent.com/view/ipynb?commit=f9a4627317620dc69e7c7502aec1894f10ac3254&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f663961343632373331373632306463363965376337353032616563313839346631306163333235342f6a7570797465725f6e62732f73616d2f32303136303731355f6563325f6f6c795f6762735f70797261642e6970796e62&nwo=sr320%2FLabDocs&path=jupyter_nbs%2Fsam%2F20160715_ec2_oly_gbs_pyrad.ipynb&repository_id=13746500#a22d1ce9-8f2d-419d-a0a5-446aba32da60" width="100%" same_height_as="window" scrolling="yes"></iframe>
     </code>

@@ -28,7 +28,7 @@ tags:
 
 [Yesterday's test scale PCR failed to produce any bands](2015/10/01/pcr-oly-rad-seq-test-scale-pcr.html) in any samples (expected size of ~166bp). This is not particularly surprising, due to [the level of degradation in these samples](2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check.html). As such, repeated the test scale PCR, but increased the number of cycles.
 
-[Following the Meyer Lab 2bRAD protocol](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+[Following the Meyer Lab 2bRAD protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
 I ran PCR reactions on a the same subset of samples as yesterday (Sample #: 4, 7, 14, & 30).
 
@@ -254,7 +254,7 @@ These samples were run on a 1x modified TAE 2% agarose gel (w/EtBr).
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)
+[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)
 
 
 
@@ -284,9 +284,9 @@ The green arrow on the image identifies what I believe to be the proper size ban
 
 The two lower molecular weight bands are very likely primer dimers. The Meyer Lab Protocol indicates that primer dimers will likely be present at ~70bp, ~90bp, & ~133bp.
 
-Since we've been following along with [Katherine Silliman's 2bRAD progress](http://marinegenes.com/2015/09/23/tuesday-92215/), here's an image of her test scale PCR to compare to ours:
+Since we've been following along with [Katherine Silliman's 2bRAD progress](https://marinegenes.com/2015/09/23/tuesday-92215/), here's an image of her test scale PCR to compare to ours:
 
-[caption id="" align="alignnone" width="571"][![](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg)](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg) Katherine's test scale PCR. Notice how much more prominent her bands are in all cycle groups, compared to my gel above.[/caption]
+[caption id="" align="alignnone" width="571"][![](httpss://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg)](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg) Katherine's test scale PCR. Notice how much more prominent her bands are in all cycle groups, compared to my gel above.[/caption]
 
 
 

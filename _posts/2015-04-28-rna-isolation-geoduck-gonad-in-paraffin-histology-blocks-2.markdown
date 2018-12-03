@@ -102,9 +102,9 @@ Results:
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)
 
 
 
@@ -112,7 +112,7 @@ Results:
 
 Well, these results are very consistent with the [data from the last isolation](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) performed on these samples. This fact suggests that the problem lies with the tissue samples and not the isolation (since the isolation has been performed two separate times on these same samples and the results have come out virtually identical both times).
 
-All samples with concentrations < 5ng/μL were discarded. The remaining samples were stored @ -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing):
+All samples with concentrations < 5ng/μL were discarded. The remaining samples were stored @ -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing):
 
 
 
@@ -131,7 +131,7 @@ All samples with concentrations < 5ng/μL were discarded. The remaining samples 
 
 
 
-Will discuss with Steven, look at [Grace's notebook](http://genefish.wikispaces.com/Grace%27s+Notebook) to review the preservation process for these samples, and review the PAXgene Tissue RNA Kit to see if it will accommodate a greater number of microtome sections to use for isolation.
+Will discuss with Steven, look at [Grace's notebook](https://genefish.wikispaces.com/Grace%27s+Notebook) to review the preservation process for these samples, and review the PAXgene Tissue RNA Kit to see if it will accommodate a greater number of microtome sections to use for isolation.
 
 
 

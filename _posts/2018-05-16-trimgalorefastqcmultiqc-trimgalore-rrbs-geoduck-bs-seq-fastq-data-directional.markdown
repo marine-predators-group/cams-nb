@@ -24,7 +24,7 @@ tags:
 
 [Earlier this week, I ran TrimGalore!, but set the trimming, incorrectly - due to a copy/paste mistake, as `--non-directional`](2018/05/16/trimgalorefastqcmultiqc-trimgalore-rrbs-geoduck-bs-seq-fastq-data.html), so I re-ran with the correct settings.
 
-[Steven requested that I trim the Geoduck RRBS libraries](https://github.com/RobertsLab/resources/issues/260) that we have, in preparation to run them through Bismark.
+[Steven requested that I trim the Geoduck RRBS libraries](httpss://github.com/RobertsLab/resources/issues/260) that we have, in preparation to run them through Bismark.
 
 These libraries were originally created by Hollie Putnam using the TruSeq DNA Methylation Kit (Illumina):
 
@@ -32,7 +32,7 @@ These libraries were originally created by Hollie Putnam using the TruSeq DNA Me
 
 
 
-  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)](https://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
+  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)](httpss://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
 
 
 
@@ -67,7 +67,7 @@ Jupyter Notebook:
 
 
 
-  * [20180516_roadrunner_geoduck_RRBS_trimming.ipynb (GitHub)](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_RRBS_trimming.ipynb)
+  * [20180516_roadrunner_geoduck_RRBS_trimming.ipynb (GitHub)](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_RRBS_trimming.ipynb)
 
 
 
@@ -93,7 +93,7 @@ Jupyter Notebook:
 
 
 
-  * [20180516_geoduck_trimgalore_rrbs](http://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/)
+  * [20180516_geoduck_trimgalore_rrbs](https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/)
 
 
 
@@ -107,7 +107,7 @@ Jupyter Notebook:
 
 
 
-  * [20180516_geoduck_trimgalore_rrbs/20180514_geoduck_trimmed_fastqc/](http://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc)
+  * [20180516_geoduck_trimgalore_rrbs/20180514_geoduck_trimmed_fastqc/](https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc)
 
 
 
@@ -121,7 +121,7 @@ Jupyter Notebook:
 
 
 
-  * [20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data](http://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data)
+  * [20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data](https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data)
 
 
 
@@ -135,6 +135,6 @@ Jupyter Notebook:
 
 
 
-  * [multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data/multiqc_report.html)
+  * [multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data/multiqc_report.html)
 
 

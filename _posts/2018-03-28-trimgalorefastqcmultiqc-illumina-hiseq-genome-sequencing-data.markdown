@@ -21,11 +21,11 @@ tags:
 
 [Previous FastQC/MultiQC analysis](2018/03/28/fastqcmultiqc-illumina-hiseq-genome-sequencing-data.html) of the geoduck Illumina HiSeq data (_NMP_.fastq.gz files) revealed a high level of overrepresented sequences, high levels of Per Base N Content, failure of Per Sequence GC Content, and a few other bad things.
 
-Ran these through [TrimGalore!](https://github.com/FelixKrueger/TrimGalore) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).
+Ran these through [TrimGalore!](httpss://github.com/FelixKrueger/TrimGalore) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).
 
 Added an option in TrimGalore! to automatically run FastQC on the trimmed output files.
 
-TrimGalore! slurm script: [20180328_trim_galore_illumina_geoduck_hiseq_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180328_trim_galore_illumina_hiseq_geoduck/20180328_trim_galore_illumina_geoduck_hiseq_slurm.sh)
+TrimGalore! slurm script: [20180328_trim_galore_illumina_geoduck_hiseq_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180328_trim_galore_illumina_hiseq_geoduck/20180328_trim_galore_illumina_geoduck_hiseq_slurm.sh)
 
 
 
@@ -33,7 +33,7 @@ TrimGalore! slurm script: [20180328_trim_galore_illumina_geoduck_hiseq_slurm.sh]
 
 
 
-Slurm output file: [slurm-153098.out](http://owl.fish.washington.edu/Athaliana/20180328_trim_galore_illumina_hiseq_geoduck/slurm-153098.out)
+Slurm output file: [slurm-153098.out](https://owl.fish.washington.edu/Athaliana/20180328_trim_galore_illumina_hiseq_geoduck/slurm-153098.out)
 
 I received a job status email on 20180330:
 

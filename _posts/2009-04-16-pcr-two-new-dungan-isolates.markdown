@@ -17,9 +17,9 @@ tags:
   - PCR
 ---
 
-Repeat of yesterday's PCR, but with AmpliTaq, less gDNA and 50uL rxn volume. [PCR set up is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090416-01.jpg).
+Repeat of yesterday's PCR, but with AmpliTaq, less gDNA and 50uL rxn volume. [PCR set up is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090416-01.jpg).
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090416-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090416-02.JPG)
 
 Gel loaded and run by Steven. Not entirely sure of the loading order. However, it doesn't really matter...
 

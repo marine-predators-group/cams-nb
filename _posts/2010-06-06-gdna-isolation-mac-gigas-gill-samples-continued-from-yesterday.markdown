@@ -27,19 +27,19 @@ tags:
 
 Continued with gDNA isolation from yesterday's samples. Samples were gently pipetted up and down to further dissolve remaining tissue, although tissue did not dissolve entirely. Pelleted residual tissue 10mins @ 10,000g @ RT. Transferred supe to new tubes. Precipitated DNA with 0.25mL 100% EtOH. Incubated 3mins @ RT. DNA was pelleted 5mins @ 5000g @ RT. Supe was removed, pellets were washed with 1mL 75% EtOH (x2). Supe was fully removed and the pellets were resuspended in 200uL 8mM NaOH (made by Amanda Davis 5/20/10).
 
-1M HEPES (provided with DNAzol) was added at a 1:100 dilution to achieve a pH = 8.0. This was based on the [DNAzol protocol calculations](http://www.mrcgene.com/dnazol.htm) (For 1mL of 8mM NaOH, use 101uL of 0.1M HEPES = pH 8.0).
+1M HEPES (provided with DNAzol) was added at a 1:100 dilution to achieve a pH = 8.0. This was based on the [DNAzol protocol calculations](https://www.mrcgene.com/dnazol.htm) (For 1mL of 8mM NaOH, use 101uL of 0.1M HEPES = pH 8.0).
 
 Samples were spec'd on NanoDrop 1000 on 20100607. Used a sample with 8mM NaOH and 1M HEPES to match the pH = 8.0 of the samples.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100607%20gDNA-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100607%20gDNA-01.JPG)
 
 Overall DNA quality looks good (based on 260/280 ratios). Yields seem satisfactory. Will run samples on gel to verify gDNA integrity (see below).
 
 250ng of each sample was run on a 1.2% TAE agarose gel. Gel was run on 20100607.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100607.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100607.jpg)
 
 The results are pretty interesting.
 

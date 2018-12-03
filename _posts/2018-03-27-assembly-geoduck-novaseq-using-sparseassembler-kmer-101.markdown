@@ -26,7 +26,7 @@ The job was run on our Mox node.
 
 Here's the batch script to initiate the job:
 
-[20180322_SparseAssembler_novaseq_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/20180322_SparseAssembler_novaseq_geoduck_slurm.sh)
+[20180322_SparseAssembler_novaseq_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/20180322_SparseAssembler_novaseq_geoduck_slurm.sh)
 
 
     
@@ -102,7 +102,7 @@ Here's the batch script to initiate the job:
 
 
 
-Output folder: [20180322_SparseAssembler_novaseq_geoduck/](http://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/)
+Output folder: [20180322_SparseAssembler_novaseq_geoduck/](https://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/)
 
 This completed much more quickly than the previous run (kmer = 61). The previous assembly took ~10 days, while this assembly completed in ~4 days!
 
@@ -112,25 +112,25 @@ The primary output file of interest is this FASTA file:
 
 
 
-  * [Contigs.txt (12GB)](http://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/Contigs.txt)
+  * [Contigs.txt (12GB)](https://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/Contigs.txt)
 
 
 
-In order to get a rough idea of how this assembly looks, I ran it through [Quast Version: 4.5, 15ca3b9](http://quast.sourceforge.net/quast.html):
+In order to get a rough idea of how this assembly looks, I ran it through [Quast Version: 4.5, 15ca3b9](https://quast.sourceforge.net/quast.html):
 
 `python software/quast-4.5/quast.py \
 -t 16 
 /mnt/owl/Athaliana/20180322_SparseAssembler_novaseq_geoduck/Contigs.txt`
 
-Quast output folder: [results_2018_03_27_08_25_52/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/)
+Quast output folder: [results_2018_03_27_08_25_52/](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/)
 
 Here're the stats on the assembly:
 
-Quast output (text): [results_2018_03_27_08_25_52/report.txt](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.txt)
+Quast output (text): [results_2018_03_27_08_25_52/report.txt](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.txt)
 
-Quast output (HTML):[results_2018_03_27_08_25_52/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.html)
+Quast output (HTML):[results_2018_03_27_08_25_52/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.html)
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_27_08_25_52/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 This is definitely a better assembly than [the kmer = 61 assembly](2018/03/22/assembly-geoduck-novaseq-using-sparseassembler-tldr-it-worked.html).
 

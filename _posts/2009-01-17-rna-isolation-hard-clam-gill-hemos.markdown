@@ -22,6 +22,6 @@ tags:
 
 RNA was isolated from hard clam gill (0.08g; from [20090109](/Sam%27s+Notebook#sjw20090109)) and from hard clam hemos (from [20090114](/Sam%27s+Notebook#sjw20090114)). One "unknown" sample (from 20090114) was also processed. Pellets were resuspended in 50uL of 0.1%DEPC-H2O. Hemo samples were pooled. Samples were spec'd.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090116%20RNA%20SJW.PNG)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090116%20RNA%20SJW.PNG)
 
-Results: 260/280 looks OK for hemos. The gill sample has excellent 260/280 and pretty good 260/230. Samples will be reprecipitated over the weekend @ -20C according to [Ambion PolyA Purist protocol](http://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MicroPoly%28A%29Purist%20Kit.pdf) in preparation for mRNA isolation.
+Results: 260/280 looks OK for hemos. The gill sample has excellent 260/280 and pretty good 260/230. Samples will be reprecipitated over the weekend @ -20C according to [Ambion PolyA Purist protocol](https://aquacul4.fish.washington.edu/Protocols:Information%20Sheets/Commercial%20Protocols:Manuals/Ambion%20-%20MicroPoly%28A%29Purist%20Kit.pdf) in preparation for mRNA isolation.

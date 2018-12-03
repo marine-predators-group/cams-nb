@@ -30,7 +30,7 @@ Ran the [400ppm library](2015/01/28/bisuflite-ngs-library-prep-c-gigas-larvae-oa
 
 Results:
 
-Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-03-02_09-18-02.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%201000_DE72902486_2015-03-02_09-18-02.xad)
+Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-03-02_09-18-02.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%201000_DE72902486_2015-03-02_09-18-02.xad)
 
 Electropherogram overlay of both samples:
 
@@ -38,7 +38,7 @@ Red = 400ppm
 
 Blue = 1000ppm
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150302_BioanalyzerGigasLarvaeOA400_1000ppm.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150302_BioanalyzerGigasLarvaeOA400_1000ppm.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150302_BioanalyzerGigasLarvaeOA400_1000ppm.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150302_BioanalyzerGigasLarvaeOA400_1000ppm.jpg)
 
 
 
@@ -129,4 +129,4 @@ Pooled equal quantities of each library, based off the concentration values abov
 
 
 
-The pooled libraries will be submitted tomorrow to the [Genomics Core Facility at the Univ. of Oregon](http://gcf.uoregon.edu/) for high-throughput sequencing (100bp, SE) on the HiSeq2500 (Illumina). Sample order #2212.
+The pooled libraries will be submitted tomorrow to the [Genomics Core Facility at the Univ. of Oregon](https://gcf.uoregon.edu/) for high-throughput sequencing (100bp, SE) on the HiSeq2500 (Illumina). Sample order #2212.

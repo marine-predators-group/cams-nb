@@ -47,7 +47,7 @@ Clean RNA from earlier today was processed according to the Ambion Micro PolyA P
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20091202%20mRNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20091202%20mRNA%20SJW.jpg)
 
 Yields:
 

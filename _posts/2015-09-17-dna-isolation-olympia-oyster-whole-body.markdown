@@ -21,7 +21,7 @@ tags:
   - Ostrea lurida
 ---
 
-Continued [the extractions that Steven began yesterday](http://onsnetwork.org/halfshell/2015/09/15/upon-improving-extractions/) and [this morning](http://onsnetwork.org/halfshell/2015/09/16/running-the-numbers/) using the E.Z.N.A. Mollusc DNA Kit (Omega Bio-Tek) after the RNase treatment @ 70C.
+Continued [the extractions that Steven began yesterday](https://onsnetwork.org/halfshell/2015/09/15/upon-improving-extractions/) and [this morning](http://onsnetwork.org/halfshell/2015/09/16/running-the-numbers/) using the E.Z.N.A. Mollusc DNA Kit (Omega Bio-Tek) after the RNase treatment @ 70C.
 
 
 
@@ -47,15 +47,15 @@ Continued [the extractions that Steven began yesterday](http://onsnetwork.org/ha
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)
 
 
 
@@ -65,4 +65,4 @@ DNA looks absolutely pristine and has amazing yields.
 
 Will check gDNA integrity via agarose gel tomorrow.
 
-Data has been entered into the master spreadsheet for this project: [Ostrea lurida Project Master Tissue Sample List](https://docs.google.com/spreadsheets/d/1tPvult9e0vqd5sPOTlcQqLXTfIv987rivsQVZj8DGgE/edit?usp=sharing)
+Data has been entered into the master spreadsheet for this project: [Ostrea lurida Project Master Tissue Sample List](httpss://docs.google.com/spreadsheets/d/1tPvult9e0vqd5sPOTlcQqLXTfIv987rivsQVZj8DGgE/edit?usp=sharing)

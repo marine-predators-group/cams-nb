@@ -33,7 +33,7 @@ Used HISAT2 on our HPC Mox node to align our RNAseq reads to our Olurida_v080 ge
 
 
 
-  * [Olurida_v080.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v080.fa)
+  * [Olurida_v080.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v080.fa)
 
 
 
@@ -41,7 +41,7 @@ SBATCH script file:
 
 
 
-  * [20180926_oly_RNAseq_bedgraphs.sh](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph.sh)
+  * [20180926_oly_RNAseq_bedgraphs.sh](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph.sh)
 
 
 
@@ -189,7 +189,7 @@ Output folder:
 
 
 
-  * [20180926_oly_RNAseq_genome_hisat2_bedgraph/](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph)
+  * [20180926_oly_RNAseq_genome_hisat2_bedgraph/](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph)
 
 
 
@@ -197,10 +197,10 @@ Bedgraph file (1.9GB):
 
 
 
-  * [20180926_oly_RNAseq_genome_hisat2_bedgraph/20180926_oly_RNAseq.bedgraph](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph/20180926_oly_RNAseq.bedgraph)
+  * [20180926_oly_RNAseq_genome_hisat2_bedgraph/20180926_oly_RNAseq.bedgraph](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_genome_hisat2_bedgraph/20180926_oly_RNAseq.bedgraph)
 
 
 
 Loaded in to IGV to verify things looked OK:
 
-![](http://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_Oluridav080_IGV.png)
+![](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_Oluridav080_IGV.png)

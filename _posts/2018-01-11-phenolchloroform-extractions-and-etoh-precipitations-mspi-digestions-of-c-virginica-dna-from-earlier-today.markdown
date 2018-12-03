@@ -61,7 +61,7 @@ Phenol:chloroform clean up procedure:
 
 
 
-Performed ethanol precipitation on both samples [according to lab protocol.](https://github.com/RobertsLab/resources/blob/master/protocols/ethanol_precipitation_DNA.md)
+Performed ethanol precipitation on both samples [according to lab protocol.](httpss://github.com/RobertsLab/resources/blob/master/protocols/ethanol_precipitation_DNA.md)
 
 Resuspended precipitated DNA in 25μL Buffer EB (Qiagen).
 

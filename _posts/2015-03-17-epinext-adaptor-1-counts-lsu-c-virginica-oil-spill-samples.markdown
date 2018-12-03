@@ -27,9 +27,9 @@ tags:
 
 Before contacting the Univ. of Oregon facility for help with this sequence demultiplexing dilemma, I contacted Epigentek to find out what the other adaptor sequence that is used in the EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina). I used grep and fastx_barcode_splitter to determine how many reads (if any) contained this adaptor sequence. All analysis was performed in the embedded Jupyter (IPython) notebook embedded below.
 
-NBviewer: [20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb)
+NBviewer: [20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb" width="100%" height="1000" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150317_LSU_OilSpill_EpinextAdaptor1_ID.ipynb" width="100%" height="1000" scrolling="yes"></iframe>
 
 
 

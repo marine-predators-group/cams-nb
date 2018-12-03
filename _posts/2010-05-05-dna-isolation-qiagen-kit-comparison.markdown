@@ -22,10 +22,10 @@ Note: This information was added 20140407. Yes, you read that correctly.
 
 Someone had noticed that gDNA isolated using a Qiagen DNeasy Blood & Tissue Kit we rec'd in April 2010 seemed to be yielding degraded DNA.
 
-The two samples used for the comparison were a single tail (split in two equal weight pieces) from a juvenile salmon that was snap frozen, without preservatives, at the time of its collection. The samples were prepped. 0.5ug of eluted DNA was then run on a 1.2% agarose-TAE gel containing 0.1ug/mL of ethidium bromide. 5uL of [Bioline's Hyperladder I](http://www.bioline.com/h_prod_detail.asp?itemid=153) was loaded for size assessment (see link for marker layout).
+The two samples used for the comparison were a single tail (split in two equal weight pieces) from a juvenile salmon that was snap frozen, without preservatives, at the time of its collection. The samples were prepped. 0.5ug of eluted DNA was then run on a 1.2% agarose-TAE gel containing 0.1ug/mL of ethidium bromide. 5uL of [Bioline's Hyperladder I](https://www.bioline.com/h_prod_detail.asp?itemid=153) was loaded for size assessment (see link for marker layout).
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20100505%20Qiagen%20Kit%20compare%20swhite.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20100505%20Qiagen%20Kit%20compare%20swhite.jpg)
 
 Clearly, there's significant quality difference! A free replacement kit was sent by Qiagen.

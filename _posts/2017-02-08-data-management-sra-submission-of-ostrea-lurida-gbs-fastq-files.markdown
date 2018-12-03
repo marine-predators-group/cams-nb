@@ -22,7 +22,7 @@ tags:
   - SRX2545968
 ---
 
-Prepared a short read archive (SRA) submission for archiving our Olympia oyster genotype-by-sequencing (GBS) data in NCBI. This is in preparation for submission of the [mansucript we're putting together](https://www.authorea.com/users/4974/articles/149442).
+Prepared a short read archive (SRA) submission for archiving our Olympia oyster genotype-by-sequencing (GBS) data in NCBI. This is in preparation for submission of the [mansucript we're putting together](httpss://www.authorea.com/users/4974/articles/149442).
 
 I f[ollowed my outline/guideline for navigating the SRA submission process](2016/03/23/data-management-sra-submission-overview.html), as it's a bit of a pain in the neck. Glad my notes were actually useful!
 
@@ -32,11 +32,11 @@ The following two files are currently being uploaded via FTP; the process will t
 
 
 
-  * [160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_1.fq.gz](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_1.fq.gz)
+  * [160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_1.fq.gz](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_1.fq.gz)
 
 
 
-  * [160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_2.fq.gz](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_2.fq.gz)
+  * [160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_2.fq.gz](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/160123_I132_FCH3YHMBBXX_L4_OYSzenG1AAD96FAAPEI-109_2.fq.gz)
 
 
 
@@ -47,4 +47,4 @@ The following two files are currently being uploaded via FTP; the process will t
 
 They are being submitted under the following accession numbers (note: a final accession number will be provided once this is publicly available; I will update this post when that happens):
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170208_SRA_submission_oly_gbs.png)](http://eagle.fish.washington.edu/Arabidopsis/20170208_SRA_submission_oly_gbs.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170208_SRA_submission_oly_gbs.png)](http://eagle.fish.washington.edu/Arabidopsis/20170208_SRA_submission_oly_gbs.png)

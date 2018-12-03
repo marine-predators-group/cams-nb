@@ -12,9 +12,9 @@ categories:
   - Miscellaneous
 ---
 
-Received the data from [the geoduck metagenome libraries that I prepared](http://onsnetwork.org/kubu4/wp-admin/post.php?post=3400&action=edit) and were sequenced at the Northwest Genomics Center at UW on the HiSeqX (Illumina) - PE 151bp.
+Received the data from [the geoduck metagenome libraries that I prepared](https://onsnetwork.org/kubu4/wp-admin/post.php?post=3400&action=edit) and were sequenced at the Northwest Genomics Center at UW on the HiSeqX (Illumina) - PE 151bp.
 
-FastQ files are being transferred to [owl/nightingales/P_generosa](http://owl.fish.washington.edu/nightingales/P_generosa/).
+FastQ files are being transferred to [owl/nightingales/P_generosa](https://owl.fish.washington.edu/nightingales/P_generosa/).
 
 These aren't geoduck sequences, but they are part of a geoduck project. Maybe I should establish a metagenomics directory under `nightingales`?
 

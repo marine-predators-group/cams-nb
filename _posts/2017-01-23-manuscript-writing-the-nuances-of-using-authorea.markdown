@@ -21,7 +21,7 @@ tags:
   - troubleshooting
 ---
 
-I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_gbs) covering our [genotype-by-sequencing data for the Olympia oyster](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015) using the [Authorea.com platform](https://www.authorea.com/users/4974/articles/149442) and am encountering some issues that are a bit frustrating. Here's what's happening (and the ways I've managed to get around the problems).
+I'm currently trying to [write a manuscript](httpss://github.com/kubu4/paper_oly_gbs) covering our [genotype-by-sequencing data for the Olympia oyster](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015) using the [Authorea.com platform](https://www.authorea.com/users/4974/articles/149442) and am encountering some issues that are a bit frustrating. Here's what's happening (and the ways I've managed to get around the problems).
 
 
 
@@ -37,11 +37,11 @@ I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)
 
 
 
-**SOLUTION**: Edit documents in Git/GitHub. I have [my Authorea manuscript](https://www.authorea.com/users/4974/articles/149442) linked to a [GitHub repo](https://github.com/kubu4/paper_oly_gbs), which allows me to write without using Authorea.com. This is how I'll be doing my writing the majority of the time anyway, but I would like to use Authorea.com to insert and manage citations...
+**SOLUTION**: Edit documents in Git/GitHub. I have [my Authorea manuscript](httpss://www.authorea.com/users/4974/articles/149442) linked to a [GitHub repo](https://github.com/kubu4/paper_oly_gbs), which allows me to write without using Authorea.com. This is how I'll be doing my writing the majority of the time anyway, but I would like to use Authorea.com to insert and manage citations...
 
 
 
@@ -55,7 +55,7 @@ I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_
 
 **PROBLEM**: Authorea remains in a perpetual "saving..." state after inserting a citation. It also renders the page strangely, with HTML <br></br> tags (see the "Methods" section in the screen cap below).
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)
 
 
 
@@ -85,7 +85,7 @@ This is a problem because this reference has multiple authors and should be writ
 
 Other citation formatting options can be found here (including multiple citations within one set of parentheses, and referring in-text author name with only publication year in parentheses):
 
-[How to add and manage citations and references in Authorea](https://www.authorea.com/users/9932/articles/12628/_show_article)
+[How to add and manage citations and references in Authorea](httpss://www.authorea.com/users/9932/articles/12628/_show_article)
 
 
 
@@ -103,7 +103,7 @@ Other citation formatting options can be found here (including multiple citation
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)
 
 
 
@@ -117,7 +117,7 @@ Other citation formatting options can be found here (including multiple citation
 
 **PROBLEM**: Cannot click-and-drag some references from Mendeley (haven't tested other reference managers) without getting an error. To my knowledge, the BibTeX is valid, as it appears to be the same formatting as other references that can be inserted via the click-and-drag method. There are some references it won't work for...
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)
 
 
 

@@ -25,7 +25,7 @@ The job was run on our Mox HPC node.
 
 
 
-  * Slurm script: [20180423_sparse_assembler_kmer111_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/20180423_sparse_assembler_kmer111_geoduck_slurm.sh)
+  * Slurm script: [20180423_sparse_assembler_kmer111_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/20180423_sparse_assembler_kmer111_geoduck_slurm.sh)
 
 
 
@@ -41,7 +41,7 @@ Output folder:
 
 
 
-  * [20180423_sparseassembler_kmer111_geoduck/](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/)
+  * [20180423_sparseassembler_kmer111_geoduck/](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/)
 
 
 
@@ -49,7 +49,7 @@ Slurm output file:
 
 
 
-  * [20180423_sparseassembler_kmer111_geoduck/slurm-164530.out](http://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/slurm-164530.out)
+  * [20180423_sparseassembler_kmer111_geoduck/slurm-164530.out](https://owl.fish.washington.edu/Athaliana/20180423_sparseassembler_kmer111_geoduck/slurm-164530.out)
 
 
 
@@ -59,4 +59,4 @@ This failed with the following error message:
 
 Well, this is disappointing. Not entirely sure why this is the case, as it's below the max kmer setting for SparseAssembler. However, I'm not terribly surprised, as [this happened previously (only using NovaSeq data) with a kmer setting of 117](2018/03/08/assembly-geoduck-novaseq-using-sparseassembler-failed.html).
 
-I've posted [an issue on the kmergenie GitHub page](https://github.com/yechengxi/SparseAssembler/issues/4#issuecomment-383749554); we'll see what happens.
+I've posted [an issue on the kmergenie GitHub page](httpss://github.com/yechengxi/SparseAssembler/issues/4#issuecomment-383749554); we'll see what happens.

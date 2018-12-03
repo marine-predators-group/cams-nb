@@ -98,7 +98,7 @@ i2 /gscratch/scrubbed/samwhite/20180129_trimmed_again/NR021_S8_L002_R2_001_val_2
 
 
 
-Output folder: [20180312_SparseAssembler_novaseq_geoduck](http://owl.fish.washington.edu/Athaliana/20180312_SparseAssembler_novaseq_geoduck/)
+Output folder: [20180312_SparseAssembler_novaseq_geoduck](https://owl.fish.washington.edu/Athaliana/20180312_SparseAssembler_novaseq_geoduck/)
 
 IT WORKED!!! At last; we have an assembly of the geoduck NovaSeq data!! It took ~10days to complete.
 
@@ -108,25 +108,25 @@ The primary output file of interest is this FASTA file:
 
 
 
-  * [Contigs.txt (11GB)](http://owl.fish.washington.edu/Athaliana/20180312_SparseAssembler_novaseq_geoduck/Contigs.txt)
+  * [Contigs.txt (11GB)](https://owl.fish.washington.edu/Athaliana/20180312_SparseAssembler_novaseq_geoduck/Contigs.txt)
 
 
 
-In order to get a rough idea of how this assembly looks, I ran it through [Quast Version: 4.5, 15ca3b9](http://quast.sourceforge.net/quast.html):
+In order to get a rough idea of how this assembly looks, I ran it through [Quast Version: 4.5, 15ca3b9](https://quast.sourceforge.net/quast.html):
 
 `python software/quast-4.5/quast.py \
 -t 16 
 /mnt/owl/Athaliana/20180312_SparseAssembler_novaseq_geoduck/Contigs.txt`
 
-Quast output folder: [results_2018_03_22_08_12_12](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/)
+Quast output folder: [results_2018_03_22_08_12_12](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/)
 
 Here're the stats on the assembly:
 
-Quast output (text): [results_2018_03_22_08_12_12/report.txt](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.txt)
+Quast output (text): [results_2018_03_22_08_12_12/report.txt](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.txt)
 
-Quast output (HTML):[results_2018_03_22_08_12_12/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.html)
+Quast output (HTML):[results_2018_03_22_08_12_12/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.html)
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_03_22_08_12_12/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 Overall, the assembly doesn't look great. The N50 = 645 is really, really low. One would hope for a much large number for a quality assembly. As it stands, this assembly is comprised of many small contigs.
 

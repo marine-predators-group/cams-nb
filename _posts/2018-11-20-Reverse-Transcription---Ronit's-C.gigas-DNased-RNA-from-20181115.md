@@ -14,7 +14,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-Quantified Ronit's DNased RNA [earlier today](https://robertslab.github.io/sams-notebook/2018/11/20/RNA-Quantification-Ronit's-C.gigas-DNased-RNA-from-20181115.html) and proceeded with reverse transcription using 500ng of DNased RNA with oligo dT primers (Promega) and M-MLV reverse transcriptase (Promega) according to the manufacturer's protocol.
+Quantified Ronit's DNased RNA [earlier today](httpss://robertslab.github.io/sams-notebook/2018/11/20/RNA-Quantification-Ronit's-C.gigas-DNased-RNA-from-20181115.html) and proceeded with reverse transcription using 500ng of DNased RNA with oligo dT primers (Promega) and M-MLV reverse transcriptase (Promega) according to the manufacturer's protocol.
 
 RNA and oligo dTs were incubated at 70<sup>o</sup>C for 10mins in a PTC-200 thermal cycler (MJ Research) without a heated lid and immediately placed on ice.
 
@@ -26,8 +26,8 @@ All samples were stored in Ronit's -20<sup>o</sup>C box.
 
 Reverse transcription calcs (Google Sheet):
 
-- [201811120_Cgigas_ploidy_cDNA_calcs](https://docs.google.com/spreadsheets/d/1PtFerDO6iTCrimMAoaYlEUtb7d9PbGQxtIJoRQK2CnM/edit?usp=sharing)
+- [201811120_Cgigas_ploidy_cDNA_calcs](httpss://docs.google.com/spreadsheets/d/1PtFerDO6iTCrimMAoaYlEUtb7d9PbGQxtIJoRQK2CnM/edit?usp=sharing)
 
 Info was added to Ronit's master sheet (Google Sheet):
 
-- [Exposure 8/29-8/30 C.Gigas](https://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
+- [Exposure 8/29-8/30 C.Gigas](httpss://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)

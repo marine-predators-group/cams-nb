@@ -29,6 +29,6 @@ VNTc-1.2-C1/G10
 
 Samples were spun @ 16,000g @ RT for 2mins. No visible pellets in either sample. EtOH was removed. "Pellets" were washed in 1x PBS (pH=7.6) two times and then the Qiagen DNEasy Kit protocol was followed. Samples were incubated @ 55C with Proteinase K for ~2hrs.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090415%20gDNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090415%20gDNA%20SJW.jpg)
 
 Results: Both samples show really, really low quantities of gDNA.

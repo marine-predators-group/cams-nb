@@ -23,6 +23,6 @@ All of the RNA samples were re-combined with their respective counterparts and s
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120124%20Gigas%20Larvae%20RNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/20120124%20Gigas%20Larvae%20RNA%20ODs-01.JPG)
 
 Yields for the 4/12/2011 samples were all lower than the yields for the 7/5/2011 samples. However, the RNA quality (based on OD260/280 ratios) looks pretty good for both groups of RNA. RNA will be treated with DNase before reverse transcription.

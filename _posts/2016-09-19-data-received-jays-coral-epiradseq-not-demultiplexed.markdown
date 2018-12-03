@@ -20,7 +20,7 @@ tags:
 
 Previously downloaded Jay's epiRADseq data that was provided by the Genomic Sequencing Laboratory at UC-Berkeley. It was provided already demultiplexed (which is very nice of them!). To be completionists on our end, we requested the non-demultiplexed data set.
 
-Downloaded the FASTQ files from the project directory to [Owl/nightingales/Porites_spp](http://owl.fish.washington.edu/nightingales/Porites_spp/):
+Downloaded the FASTQ files from the project directory to [Owl/nightingales/Porites_spp](https://owl.fish.washington.edu/nightingales/Porites_spp/):
 
 
     
@@ -106,7 +106,7 @@ Total reads: 662,868,166 (this isn't entirely accurate, as it is counting all th
 
 
 
-Calculate read counts for each file and write the data to the [readme.md](http://owl.fish.washington.edu/nightingales/Porites_spp/readme.md) file in the Owl/web/nightingales/Porites_spp directory:
+Calculate read counts for each file and write the data to the [readme.md](https://owl.fish.washington.edu/nightingales/Porites_spp/readme.md) file in the Owl/web/nightingales/Porites_spp directory:
 
 
     
@@ -116,8 +116,8 @@ Calculate read counts for each file and write the data to the [readme.md](http:/
 
 
 
-See this [Jupyter notebook](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20160314_Olurida_GBS_data_management.ipynb) for code explanations.
+See this [Jupyter notebook](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20160314_Olurida_GBS_data_management.ipynb) for code explanations.
 
 
 
-Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).
+Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).

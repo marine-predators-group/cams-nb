@@ -52,6 +52,6 @@ Ctenidia samples were stored -80C in the buffer/pro k solution for DNA isolation
 
 RNAlater samples will be stored over the weekend at 4C and then transferred to -20C for long term storage.
 
-All oyster data is here (Google Sheet): [Oly reciprocal final sampling](https://docs.google.com/spreadsheets/d/1CTJOWWHjm-S8CaB1fBHTg4yBGRjcsU6EHGotcjhUJoA/edit?usp=sharing)
+All oyster data is here (Google Sheet): [Oly reciprocal final sampling](httpss://docs.google.com/spreadsheets/d/1CTJOWWHjm-S8CaB1fBHTg4yBGRjcsU6EHGotcjhUJoA/edit?usp=sharing)
 
-All photos from today's sampling are here: [Oyster Measurement Photos](http://eagle.fish.washington.edu/photo/?t=Albums/album_4f6c795f4d6561737572656d656e74735f3230313531303330#Albums/album_4f6c795f4d6561737572656d656e74735f3230313531303330)
+All photos from today's sampling are here: [Oyster Measurement Photos](https://eagle.fish.washington.edu/photo/?t=Albums/album_4f6c795f4d6561737572656d656e74735f3230313531303330#Albums/album_4f6c795f4d6561737572656d656e74735f3230313531303330)

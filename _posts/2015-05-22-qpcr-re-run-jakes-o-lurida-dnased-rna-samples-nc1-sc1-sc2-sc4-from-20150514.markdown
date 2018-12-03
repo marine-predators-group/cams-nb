@@ -50,7 +50,7 @@ Used 1μL from all templates.
 
 All samples were run in duplicate.
 
-Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](http://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
+Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](https://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
 
 Cycling params:
 
@@ -77,16 +77,16 @@ Cycling params:
 
 
 
-Master mix calcs: [20150521_qPCR_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1AVf-RgRTnR65N62REZ8RWKKucuh6IAlZpuaiUbs5uOY/edit?usp=sharing)
+Master mix calcs: [20150521_qPCR_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1AVf-RgRTnR65N62REZ8RWKKucuh6IAlZpuaiUbs5uOY/edit?usp=sharing)
 
-Plate layout: [20150521_qPCR_plate_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1yijvNDdUAPcy-HhrkHjr1R3LwdFCQTj5ci02CraQa2k/edit?usp=sharing)
+Plate layout: [20150521_qPCR_plate_Jake_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1yijvNDdUAPcy-HhrkHjr1R3LwdFCQTj5ci02CraQa2k/edit?usp=sharing)
 
 
 
 Results:
 
-qPCR Data File (Opticon): [Sam_20150521_145749.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150521_145749.tad)
-qPCR Report (Google Sheet): [20150521_qPCR_Report_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1ey-Cih6uJxoUpskVAGJS_DfO3Zc3SJzvpcPTno6qNQA/edit?usp=sharing)
+qPCR Data File (Opticon): [Sam_20150521_145749.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150521_145749.tad)
+qPCR Report (Google Sheet): [20150521_qPCR_Report_Jake_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1ey-Cih6uJxoUpskVAGJS_DfO3Zc3SJzvpcPTno6qNQA/edit?usp=sharing)
 
 
 
@@ -100,7 +100,7 @@ No amplification in any of the RNA samples, nor the NTCs. Will make cDNA.
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)
 
 
 
@@ -112,4 +112,4 @@ No amplification in any of the RNA samples, nor the NTCs. Will make cDNA.
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)

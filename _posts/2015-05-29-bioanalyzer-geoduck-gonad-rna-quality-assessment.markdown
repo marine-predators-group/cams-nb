@@ -25,24 +25,24 @@ Before proceeding with transcriptomics for this project, we need to assess the i
 
 RNA that was previously isolated on [20150508](2015/05/08/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-4.html), [20150505](2015/05/05/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-3.html), [20150427](2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html), and [20150424](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) (those notebook entries have been updated to report this consolidation and have a link to this notebook entry) were consolidated into single samples (if there had been multiple isolations of the same sample) and spec'd on the Roberts Lab NanoDrop1000:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)
 
-Google Sheet: [20150528_geoduck_histo_RNA_ODs](https://docs.google.com/spreadsheets/d/1WPAQy7KPpQY1zPGscseHwnXeL0EWwsrb7AwatHVQpS0/edit?usp=sharing)
+Google Sheet: [20150528_geoduck_histo_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1WPAQy7KPpQY1zPGscseHwnXeL0EWwsrb7AwatHVQpS0/edit?usp=sharing)
 
 NOTE: Screwed up consolidation of Geoduck Block 03 sample (added one of the 04 dupes to the tube, so discarded 03).
 
-RNA was stored in [Shellfish RNA Box #5](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing).
+RNA was stored in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing).
 
-RNA was submitted to to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](http://depts.washington.edu/ceeh/members/core-services.html) for running on the Agilent Bioanalyzer 2100, using either the RNA Pico or RNA Nano chips, depending on RNA concentration (Pico for lower concentrations and Nano for higher concentrations - left decision up to Jesse).
+RNA was submitted to to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](https://depts.washington.edu/ceeh/members/core-services.html) for running on the Agilent Bioanalyzer 2100, using either the RNA Pico or RNA Nano chips, depending on RNA concentration (Pico for lower concentrations and Nano for higher concentrations - left decision up to Jesse).
 
 
 
 Results:
 
-Bioanalzyer 2100 Pico Data File (XAD): [SamWhite_Eukaryote Total RNA Pico_2015-05-28_12-50-00.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Pico_2015-05-28_12-50-00.xad)
-Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-05-28_13-22-53.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Nano_2015-05-28_13-22-53.xad)
+Bioanalzyer 2100 Pico Data File (XAD): [SamWhite_Eukaryote Total RNA Pico_2015-05-28_12-50-00.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Pico_2015-05-28_12-50-00.xad)
+Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-05-28_13-22-53.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Nano_2015-05-28_13-22-53.xad)
 
 
 
@@ -52,7 +52,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)
 
 
 
@@ -62,7 +62,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)
 
 
 
@@ -72,7 +72,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)
 
 
 
@@ -82,7 +82,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)
 
 
 
@@ -105,7 +105,7 @@ Bad Samples:
 
 All other samples look solid. Will discuss with Steven and Brent on how they want to proceed.
 
-Full list of samples for this project (including the Block 03 sample not included in this analysis; see above). [Grace's notebook](http://genefish.wikispaces.com/Grace%27s+Notebook) will have details on what the numbering indicates (e.g. developmental stage).
+Full list of samples for this project (including the Block 03 sample not included in this analysis; see above). [Grace's notebook](https://genefish.wikispaces.com/Grace%27s+Notebook) will have details on what the numbering indicates (e.g. developmental stage).
 
 
 

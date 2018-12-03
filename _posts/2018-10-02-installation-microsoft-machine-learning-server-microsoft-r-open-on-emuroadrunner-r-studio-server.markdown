@@ -20,7 +20,7 @@ tags:
   - roadrunner
 ---
 
-Steven recently saw an announcement that Microsoft R Open now handles multi-threaded processing (default R does not), so we were interested in trying it out. I installed MLR/MRO on Emu/Roadrunner (Apple Xserve; Ubuntu 16.04). [Followed the Microsoft installation directions for Ubuntu](https://docs.microsoft.com/en-us/machine-learning-server/install/machine-learning-server-linux-install). In retrospect, I think I could've just installed MRO, but this gets the job done as well and won't hurt anything.
+Steven recently saw an announcement that Microsoft R Open now handles multi-threaded processing (default R does not), so we were interested in trying it out. I installed MLR/MRO on Emu/Roadrunner (Apple Xserve; Ubuntu 16.04). [Followed the Microsoft installation directions for Ubuntu](httpss://docs.microsoft.com/en-us/machine-learning-server/install/machine-learning-server-linux-install). In retrospect, I think I could've just installed MRO, but this gets the job done as well and won't hurt anything.
 
 I've set both Emu & Roadrunner R Studio Server to use this installation of R by changing the `/etc/restudio/rserver.conf` file to the following:
 

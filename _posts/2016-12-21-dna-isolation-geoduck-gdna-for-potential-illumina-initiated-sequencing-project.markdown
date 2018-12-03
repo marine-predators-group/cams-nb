@@ -23,7 +23,7 @@ tags:
 
 We were approached by Cindy Lawley (Illumina Market Development) yesterday to see if we'd be able to participate in some product development. We agreed and need some geoduck DNA to send them, in case she's able to get our species greenlighted for use.
 
-Isolated DNA from ctenidia tissue from the same Panopea generosa individual used for the BGI sequencing efforts. [Tissue was collected by Brent & Steven on 20150811](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
+Isolated DNA from ctenidia tissue from the same Panopea generosa individual used for the BGI sequencing efforts. [Tissue was collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
 Used the E.Z.N.A. Mollusc Kit (Omega) to isolate DNA from two separate 50mg pieces of ctenidia tissue according to the manufacturer’s protocol, with the following changes:
 
@@ -49,7 +49,7 @@ Used the E.Z.N.A. Mollusc Kit (Omega) to isolate DNA from two separate 50mg piec
 
 Quantified the DNA using the Qubit dsDNA BR Kit (Invitrogen). Used 1μL of DNA sample.
 
-Concentration = 19.4ng/μL (Quant data is here [Google Sheet]: [20161221_gDNA_qubit_quant](https://docs.google.com/spreadsheets/d/1DUiC0GsbBX1wsxAsAWh2_WV5wh8EwKNeELmqljlumCw/edit?usp=sharing)
+Concentration = 19.4ng/μL (Quant data is here [Google Sheet]: [20161221_gDNA_qubit_quant](httpss://docs.google.com/spreadsheets/d/1DUiC0GsbBX1wsxAsAWh2_WV5wh8EwKNeELmqljlumCw/edit?usp=sharing)
 
 Yield is low (~1.8μg), but have enough to satisfy the minimum of 1μg requested by Cindy Lawley.
 
@@ -63,11 +63,11 @@ Results:
 
 
 
-[![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+[![](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)
 
 
 

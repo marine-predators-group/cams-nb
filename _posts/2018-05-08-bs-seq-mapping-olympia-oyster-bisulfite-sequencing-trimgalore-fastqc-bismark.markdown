@@ -24,19 +24,19 @@ tags:
   - trimming
 ---
 
-[Steven asked me to evaluate our methylation sequencing data sets for Olympia oyster](https://github.com/RobertsLab/resources/issues/225).
+[Steven asked me to evaluate our methylation sequencing data sets for Olympia oyster](httpss://github.com/RobertsLab/resources/issues/225).
 
-According to our [Olympia oyster genome wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki), we have the following two sets of BS-seq data:
-
-
+According to our [Olympia oyster genome wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki), we have the following two sets of BS-seq data:
 
 
 
-  * [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+
+
+  * [Whole genome BS-seq (2015)](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
-  * [MBD BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
+  * [MBD BS-seq (2015)](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
 
 
 
@@ -45,7 +45,7 @@ According to our [Olympia oyster genome wiki](https://github.com/RobertsLab/proj
 
 All computing was conducted on our Apple Xserve: `emu`.
 
-All steps were documented in this Jupyter Notebook (GitHub): [20180503_emu_oly_methylation_mapping.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180503_emu_oly_methylation_mapping.ipynb)
+All steps were documented in this Jupyter Notebook (GitHub): [20180503_emu_oly_methylation_mapping.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180503_emu_oly_methylation_mapping.ipynb)
 
 NOTE: The Jupyter Notebook linked above is very large in size. As such it will _not_ render on GitHub. It will need to be downloaded to a computer that can run Jupyter Notebooks and viewed that way.
 
@@ -53,7 +53,7 @@ Here's a brief overview of what was done.
 
 Samples were trimmed with TrimGalore and then evaluated with FastQC. MultiQC was used to generate a nice visual summary report of all samples.
 
-The Olympia oyster genome assembly, [pbjelly_sjw_01](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies), was used as the reference genome and was prepared for use in Bismark:
+The Olympia oyster genome assembly, [pbjelly_sjw_01](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies), was used as the reference genome and was prepared for use in Bismark:
 
 
     
@@ -120,7 +120,7 @@ TrimGalore output folder:
 
 
 
-  * [20180503_oly_methylseq_trimgalore](http://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/)
+  * [20180503_oly_methylseq_trimgalore](https://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/)
 
 
 
@@ -128,7 +128,7 @@ FastQC output folder:
 
 
 
-  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/](http://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/)
+  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/](https://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/)
 
 
 
@@ -136,7 +136,7 @@ MultiQC output folder:
 
 
 
-  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/](http://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/)
+  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/](https://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/)
 
 
 
@@ -144,11 +144,11 @@ MultiQC Report (HTML):
 
 
 
-  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/multiqc_report.html](http://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/multiqc_report.html)
+  * [20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180503_oly_methylseq_trimgalore/20180503_trim_fastqc/multiqc_data/multiqc_report.html)
 
 
 
-Bismark genome folder: [20180503_oly_genome_pbjelly_sjw_01_bismark/](http://owl.fish.washington.edu/Athaliana/20180503_oly_genome_pbjelly_sjw_01_bismark/)
+Bismark genome folder: [20180503_oly_genome_pbjelly_sjw_01_bismark/](https://owl.fish.washington.edu/Athaliana/20180503_oly_genome_pbjelly_sjw_01_bismark/)
 
 Bismark output folder:
 
@@ -156,7 +156,7 @@ Bismark output folder:
 
 
 
-  * [20180507_oly_methylseq_bismark](http://owl.fish.washington.edu/Athaliana/20180507_oly_methylseq_bismark/)
+  * [20180507_oly_methylseq_bismark](https://owl.fish.washington.edu/Athaliana/20180507_oly_methylseq_bismark/)
 
 
 
@@ -168,7 +168,7 @@ Bismark output folder:
 
 
 
-#### [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+#### [Whole genome BS-seq (2015)](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
@@ -272,7 +272,7 @@ Bismark output folder:
 
 
 
-#### [MBD BS-seq (2015) ](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
+#### [MBD BS-seq (2015) ](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
 
 
 

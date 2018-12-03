@@ -21,7 +21,7 @@ tags:
   - Panopea generosa
 ---
 
-My isolation on Friday didn't yield a sufficient quantity of gDNA for the additional DNA needed for the geoduck genome sequencing project. Used two [adductor muscles (Box 1) samples collected by Brent & Steven on 20150811.](http://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/)
+My isolation on Friday didn't yield a sufficient quantity of gDNA for the additional DNA needed for the geoduck genome sequencing project. Used two [adductor muscles (Box 1) samples collected by Brent & Steven on 20150811.](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/)
 
 Tissue weights:
 
@@ -81,9 +81,9 @@ Spec’d on Roberts Lab NanoDrop1000.
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_ODs_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_ODs_01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_ODs_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_ODs_01.JPG)
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_plots_01.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_geoduck_plots_01.JPG)
 
 
 

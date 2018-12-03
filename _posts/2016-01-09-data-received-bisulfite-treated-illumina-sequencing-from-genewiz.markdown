@@ -33,9 +33,9 @@ Download the FASTQ files from Genewiz project directory:
 
 Since two species were sequenced (_C.gigas_ & _O.lurida_), the corresponding files are in the following locations:
 
-[http://owl.fish.washington.edu/nightingales/O_lurida/](http://owl.fish.washington.edu/nightingales/O_lurida/)
+[https://owl.fish.washington.edu/nightingales/O_lurida/](http://owl.fish.washington.edu/nightingales/O_lurida/)
 
-[http://owl.fish.washington.edu/nightingales/C_gigas/](http://owl.fish.washington.edu/nightingales/C_gigas/)
+[https://owl.fish.washington.edu/nightingales/C_gigas/](http://owl.fish.washington.edu/nightingales/C_gigas/)
 
 
 

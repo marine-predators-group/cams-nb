@@ -23,21 +23,21 @@ tags:
   - Pacific oyster
 ---
 
-In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](http://owl.fish.washington.edu/halfshell/EmmaBS400.fa).
+In an attempt to figure out what's going on with the Illumina data we recently received for these samples, I BLASTed the 400ppm data set that had previously been _de-novo_ assembled by Steven: [EmmaBS400.fa](https://owl.fish.washington.edu/halfshell/EmmaBS400.fa).
 
-Jupyter (IPython) Notebook : [20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb)
+Jupyter (IPython) Notebook : [20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb)
 
-Notebook Viewer : [20150501_Cgigas_larvae_OA_BLASTn_nt](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb)
+Notebook Viewer : [20150501_Cgigas_larvae_OA_BLASTn_nt](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150501_Cgigas_larvae_OA_BLASTn_nt.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
 
 Results:
 
-BLASTn Output File: [20150501_nt_blastn.tab](http://eagle.fish.washington.edu/Arabidopsis/20150501_nt_blastn.tab)
+BLASTn Output File: [20150501_nt_blastn.tab](https://eagle.fish.washington.edu/Arabidopsis/20150501_nt_blastn.tab)
 
-BLAST e-vals <= 0.001: [20150501_Cgigas_larvae_OA_blastn_evals_0.001.txt](http://eagle.fish.washington.edu/Arabidopsis/20150501_Cgigas_larvae_OA_blastn_evals_0.001.txt)
+BLAST e-vals <= 0.001: [20150501_Cgigas_larvae_OA_blastn_evals_0.001.txt](https://eagle.fish.washington.edu/Arabidopsis/20150501_Cgigas_larvae_OA_blastn_evals_0.001.txt)
 
-Unique BLAST Species: [20150501_Cgigas_larvae_OA_unique_blastn_evals.txt](http://eagle.fish.washington.edu/Arabidopsis/20150501_Cgigas_larvae_OA_unique_blastn_evals.txt)
+Unique BLAST Species: [20150501_Cgigas_larvae_OA_unique_blastn_evals.txt](https://eagle.fish.washington.edu/Arabidopsis/20150501_Cgigas_larvae_OA_unique_blastn_evals.txt)
 
 
 
@@ -47,7 +47,7 @@ However, the BLAST matches for this are terrible.
 
 Only 0.65% of the BLAST matches (e-value <0.001) are to _Crassostrea gigas_. Yep, you read that correctly: 0.65%.
 
-It's nearly 40-fold less than the top species: _[Dictyostelium discoideum](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDictyostelium_discoideum&ei=WQBIVbGUBYy7ogTFnYCwDA&usg=AFQjCNFUalm3Sy5RAsI8xZSmAB3P8RHxTw&sig2=Yma6kVnm1PJflwBRfsMiCg&bvm=bv.92291466,d.cGU)_ (a slime mold)
+It's nearly 40-fold less than the top species: _[Dictyostelium discoideum](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB8QFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDictyostelium_discoideum&ei=WQBIVbGUBYy7ogTFnYCwDA&usg=AFQjCNFUalm3Sy5RAsI8xZSmAB3P8RHxTw&sig2=Yma6kVnm1PJflwBRfsMiCg&bvm=bv.92291466,d.cGU)_ (a slime mold)
 
 It's 30-fold less than the next species: _Danio rerio_ (zebra fish)
 

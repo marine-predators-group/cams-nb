@@ -26,7 +26,7 @@ Well, I continue to struggle to makek progress on assembling the geoduck Illumin
 
 Here are some of the struggles so far:
 
-**[Meraculous](http://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf)**:
+**[Meraculous](https://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf)**:
 
 
 
@@ -48,13 +48,13 @@ Here are some of the struggles so far:
 
 
 
-    * Can't figure out how to install [needed dependencies](http://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf) that don't already exist on Mox. More specifically, friggin' Boost libraries! Trying to install these properly has been an issue in the past for non-Mox computers, too. I remember a few times discussing the pain of installing Boost with Sean Bennett.
+    * Can't figure out how to install [needed dependencies](https://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf) that don't already exist on Mox. More specifically, friggin' Boost libraries! Trying to install these properly has been an issue in the past for non-Mox computers, too. I remember a few times discussing the pain of installing Boost with Sean Bennett.
 
 
 
 
 
-**[SOAPdenovo2](http://soap.genomics.org.cn/soapdenovo.html)**
+**[SOAPdenovo2](https://soap.genomics.org.cn/soapdenovo.html)**
 
 
 
@@ -64,13 +64,13 @@ Here are some of the struggles so far:
 
 
 
-**[JR-Assembler](http://jr-assembler.iis.sinica.edu.tw/index.htm)**
+**[JR-Assembler](https://jr-assembler.iis.sinica.edu.tw/index.htm)**
 
 
 
 
 
-  * Can't install one of the dependencies ([SOAP error correction](https://sourceforge.net/projects/soapdenovo2/files/ErrorCorrection/))
+  * Can't install one of the dependencies ([SOAP error correction](httpss://sourceforge.net/projects/soapdenovo2/files/ErrorCorrection/))
 
 
   * Actually, I need to try the binary version of this, instead of the source version (the source version fails at the `make` step)
@@ -81,7 +81,7 @@ So, next up will trying the following two assemblers:
 
 
 
-  * [JR-Assembler](http://jr-assembler.iis.sinica.edu.tw/index.htm): Will see if SOAPec binary will work, and then run an assembly.
+  * [JR-Assembler](https://jr-assembler.iis.sinica.edu.tw/index.htm): Will see if SOAPec binary will work, and then run an assembly.
 
 
   * [AllPaths-LG](ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/AllPaths-LG_Manual.pdf): I was able to install this successfully on Mox.

@@ -57,7 +57,7 @@ Spun samples 5000g, 20mins @ RT to pellet any cells. Discarded supe. Resuspended
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots.JPG)
 
 
 
@@ -65,18 +65,18 @@ Results:
 
 
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20ODs.JPG)
 
 So, this is disheartening. Overall, the RNA looks pretty crappy; poor 260/280 ratios and a general shift in absorbance to 270nm. Plus, the yields aren't that great. Maybe RNA left on the column and/or some sort of contaminant pushing these readings out of whack?
 
 I will perform another elution on the columns with 50uL of nuclease-free H2O and spec that elution set:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots-02.JPG)
 
 There's still a shift in the peak absorbance in most samples to 270nm... I'm going to combine the two sets of elutions and spec:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots-03.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20plots-03.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20ODs-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140416%20-%20Sea%20star%20RNA%20DNased%20ODs-02.JPG)
 
 Although the 260/280 values are significantly better, there's still this persistent shift of peak absorbance to 270nm. I contacted technical support for the kit and they say the absorbance shift is indicative of phenol contamination. They have advised that I add a volume of TriReagent to the RNA and re-run it through a new set of columns, following the entire RNA isolation protocol.

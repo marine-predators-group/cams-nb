@@ -30,8 +30,8 @@ Data was uploaded via the web browser interface, as the FTP method was not funct
 
 SRA deets are below (assigned FASTQ files to new BioProject and created new BioSamples).
 
-SRA Study: [SRP139854](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP139854)
-BioProject: [PRJNA449904](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA449904)
+SRA Study: [SRP139854](httpss://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP139854)
+BioProject: [PRJNA449904](httpss://www.ncbi.nlm.nih.gov/bioproject/PRJNA449904)
 
 BioSamples Table
 
@@ -52,7 +52,7 @@ BioSamples Table
 <td >oil 25,000ppm
 </td>
   
-<td >[SAMN08919868](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919868)
+<td >[SAMN08919868](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919868)
 </td>
 </tr>
 <tr >
@@ -63,7 +63,7 @@ BioSamples Table
 <td >oil 25,000ppm
 </td>
   
-<td >[SAMN08919921](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919921)
+<td >[SAMN08919921](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919921)
 </td>
 </tr>
 <tr >
@@ -74,7 +74,7 @@ BioSamples Table
 <td >oil 25,000ppm
 </td>
   
-<td >[SAMN08919953](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919953)
+<td >[SAMN08919953](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919953)
 </td>
 </tr>
 <tr >
@@ -85,7 +85,7 @@ BioSamples Table
 <td >unexposed
 </td>
   
-<td >[SAMN08919461](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919461)
+<td >[SAMN08919461](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919461)
 </td>
 </tr>
 <tr >
@@ -96,7 +96,7 @@ BioSamples Table
 <td >unexposed
 </td>
   
-<td >[SAMN08919577](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919577)
+<td >[SAMN08919577](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919577)
 </td>
 </tr>
 <tr >
@@ -107,7 +107,7 @@ BioSamples Table
 <td >unexposed
 </td>
   
-<td >[SAMN08919772](https://www.ncbi.nlm.nih.gov/biosample/SAMN08919772)
+<td >[SAMN08919772](httpss://www.ncbi.nlm.nih.gov/biosample/SAMN08919772)
 </td>
 </tr>
 </tbody>

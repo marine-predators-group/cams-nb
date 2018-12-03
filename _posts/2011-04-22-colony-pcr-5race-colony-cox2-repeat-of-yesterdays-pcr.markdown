@@ -28,7 +28,7 @@ Repeated yesterday's PCR on the re-streaked colony in order to run the product o
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110425-01%20Gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110425-01%20Gel.jpg)
 
 Lane 1: Hyperladder I
 

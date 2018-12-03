@@ -20,15 +20,15 @@ tags:
   - Overleaf
 ---
 
-For [Pub-a-thon 2017](https://github.com/sr320/LabDocs/wiki/Pub-a-thon-2017), Steven has asked us to put together a 14 day plan for our manuscripts.
+For [Pub-a-thon 2017](httpss://github.com/sr320/LabDocs/wiki/Pub-a-thon-2017), Steven has asked us to put together a 14 day plan for our manuscripts.
 
 My manuscript is accessible in three locations:
 
-Current: [Overleaf](https://www.overleaf.com/read/mqbbvmwxhncg) for final editing/formatting before submission [Scientific Data](https://www.nature.com/sdata/).
-Archival: [Authorea](https://www.authorea.com/users/4974/articles/149442) for initial writing/comments.
-Archival: [GitHub](https://github.com/kubu4/paper_oly_gbs) for initial writing/issues.
+Current: [Overleaf](httpss://www.overleaf.com/read/mqbbvmwxhncg) for final editing/formatting before submission [Scientific Data](https://www.nature.com/sdata/).
+Archival: [Authorea](httpss://www.authorea.com/users/4974/articles/149442) for initial writing/comments.
+Archival: [GitHub](httpss://github.com/kubu4/paper_oly_gbs) for initial writing/issues.
 
-Additionally, I have established a data repository with a Digital Object Identifier (DOI) at [Open Science Framework](https://osf.io/j8rc2/)
+Additionally, I have established a data repository with a Digital Object Identifier (DOI) at [Open Science Framework](httpss://osf.io/j8rc2/)
 
 Here's what I have going on:
 

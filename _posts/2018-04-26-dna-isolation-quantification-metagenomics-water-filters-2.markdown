@@ -25,7 +25,7 @@ After discussing [the preliminary DNA isolation attemp](2018/04/11/dna-isolation
 
 Isolated DNA from the following five filters:
 
-![](http://owl.fish.washington.edu/Athaliana/20180425_metagenome_filters.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180425_metagenome_filters.jpg)
 
 DNA was isolated with the DNeasy Blood & Tissue Kit (Qiagen), following a modified version of the Gram-Positive Bacteria protocol:
 
@@ -65,7 +65,7 @@ Used 5μL of each sample for measurement (see Results for update).
 
 
 
-Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](https://docs.google.com/spreadsheets/d/1v8H6ruVeF-zQCBOo8fWYj08yChqxwcfWhV1KZZXUo04/edit?usp=sharing)
+Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](httpss://docs.google.com/spreadsheets/d/1v8H6ruVeF-zQCBOo8fWYj08yChqxwcfWhV1KZZXUo04/edit?usp=sharing)
 
 <table >
 
@@ -150,4 +150,4 @@ Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](https://docs.goog
 </tbody>
 </table>
 
-Samples were stored [Sam gDNA Box #2, positions G8 - H3.](https://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer))
+Samples were stored [Sam gDNA Box #2, positions G8 - H3.](httpss://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer))

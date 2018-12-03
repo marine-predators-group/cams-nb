@@ -24,7 +24,7 @@ All data is deposited in the following GitHub repo:
 
 
 
-  * [RobertsLab/titrator](https://github.com/RobertsLab/titrator)
+  * [RobertsLab/titrator](httpss://github.com/RobertsLab/titrator)
 
 
 
@@ -34,7 +34,7 @@ LabX Method:
 
 
 
-  * [pH_TA_titration.pdf](https://github.com/RobertsLab/titrator/blob/master/LabX_method_files/pH_TA_titration.pdf)
+  * [pH_TA_titration.pdf](httpss://github.com/RobertsLab/titrator/blob/master/LabX_method_files/pH_TA_titration.pdf)
 
 
 
@@ -43,7 +43,7 @@ Daily pH calibration data file:
 
 
   * [2018-04-03T07_17_55_pH_calibration_7_4_10_T350.csv
-](https://github.com/RobertsLab/titrator/raw/master/data/cal_data/2018-04-03T07_17_55_pH_calibration_7_4_10_T350.csv)
+](httpss://github.com/RobertsLab/titrator/raw/master/data/cal_data/2018-04-03T07_17_55_pH_calibration_7_4_10_T350.csv)
 
 
 
@@ -51,7 +51,7 @@ Daily pH log file:
 
 
 
-  * [daily_calibration_log.csv](https://github.com/RobertsLab/titrator/blob/master/data/cal_data/daily_calibration_log.csv)
+  * [daily_calibration_log.csv](httpss://github.com/RobertsLab/titrator/blob/master/data/cal_data/daily_calibration_log.csv)
 
 
 
@@ -59,7 +59,7 @@ Titrant batch:
 
 
 
-  * [A10](https://github.com/RobertsLab/titrator/blob/master/data/acid_certifications/Batch_A10_CoA.pdf)
+  * [A10](httpss://github.com/RobertsLab/titrator/blob/master/data/acid_certifications/Batch_A10_CoA.pdf)
 
 
 
@@ -67,7 +67,7 @@ CRM Batch:
 
 
 
-  * [168](https://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf)
+  * [168](httpss://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf)
 
 
 
@@ -76,7 +76,7 @@ Daily CRM data file:
 
 
   * [2018-04-03T07_49_32_CRM_TA_titration_T351.csv
-](https://github.com/RobertsLab/titrator/raw/master/data/titration_data/crm_data/2018-04-03T07_49_32_CRM_TA_titration_T351.csv)
+](httpss://github.com/RobertsLab/titrator/raw/master/data/titration_data/crm_data/2018-04-03T07_49_32_CRM_TA_titration_T351.csv)
 
 
 
@@ -85,7 +85,7 @@ Sample data file(s):
 
 
   * [2018-04-03T09_12_45_pH_TA_titration_T363.csv
-](https://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-03T09_12_45_pH_TA_titration_T363.csv)
+](httpss://github.com/RobertsLab/titrator/raw/master/data/titration_data/sample_data/2018-04-03T09_12_45_pH_TA_titration_T363.csv)
 
 
 
@@ -93,6 +93,6 @@ See metadata file for sample info (including links to master samples sheets):
 
 
 
-  * [file_metadata.csv](https://github.com/RobertsLab/titrator/blob/master/data/titration_data/sample_data/file_metadata.csv)
+  * [file_metadata.csv](httpss://github.com/RobertsLab/titrator/blob/master/data/titration_data/sample_data/file_metadata.csv)
 
 

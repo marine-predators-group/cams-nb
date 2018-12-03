@@ -36,15 +36,15 @@ tags:
   - SN-10-31
 ---
 
-UPDATE 20170712: The RNA I isolated below is from incorrect regions of tissue. I misunderstood exactly what this tissue was, and admittedly, jumped the gun. The tissue is actually collected from the visceral mass - which contains gonad (a small amount) and digestive gland (a large amount). The RNA isolated below will be stored in one of the [Shellfish RNA boxes](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing) and I will isolate RNA from the correct regions [indicated by Grace](https://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/)
+UPDATE 20170712: The RNA I isolated below is from incorrect regions of tissue. I misunderstood exactly what this tissue was, and admittedly, jumped the gun. The tissue is actually collected from the visceral mass - which contains gonad (a small amount) and digestive gland (a large amount). The RNA isolated below will be stored in one of the [Shellfish RNA boxes](httpss://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing) and I will isolate RNA from the correct regions [indicated by Grace](https://genefish.wordpress.com/2017/07/12/graces-notebook-july-12-2017/)
 
-Isolated RNA from Olympia oyster gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Laura's notebook for full details on samples and preservation.](https://laurahspencer.github.io/LabNotebook/Prepping-Histology-Samples/)
+Isolated RNA from Olympia oyster gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Laura's notebook for full details on samples and preservation.](httpss://laurahspencer.github.io/LabNotebook/Prepping-Histology-Samples/)
 
 
 
 RNA was isolated from the following samples using the PAXgene Tissue RNA Kit (Qiagen). Gouged samples from the blocks weighing ~10mg from each of the tissues and processed according the protocol for isolating RNA from blocks of paraffin-embedded tissues.
 
-Tissue identification is available in this [GitHub Issue](https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
+Tissue identification is available in this [GitHub Issue](httpss://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
 
 NF-10-22
 NF-10-23
@@ -89,11 +89,11 @@ Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20170710_oly_histo_blocks.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170710_oly_histo_blocks.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20170710_oly_histo_blocks.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170710_oly_histo_blocks.jpg)
 
 Results:
 
-Concentrations (Google Sheet): [20170710_RNA_qubit_oly_histo_blocks](https://docs.google.com/spreadsheets/d/1CSNMKhP_MPNmrfEX6IZdSAzYF2KPaECtsVFV8qKQK5s/edit?usp=sharing)
+Concentrations (Google Sheet): [20170710_RNA_qubit_oly_histo_blocks](httpss://docs.google.com/spreadsheets/d/1CSNMKhP_MPNmrfEX6IZdSAzYF2KPaECtsVFV8qKQK5s/edit?usp=sharing)
 
 Well, the good news is that there's RNA from all the samples and it seems to be in relatively high concentrations!
 

@@ -34,10 +34,10 @@ I ran Quast to gather some assembly stats, using the following command:
 
 
 
-Quast output folder: [results_2018_04_15_13_45_03/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/)
+Quast output folder: [results_2018_04_15_13_45_03/](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/)
 
-Quast report (HTML): [results_2018_04_15_13_45_03/report.html](http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/report.html)
+Quast report (HTML): [results_2018_04_15_13_45_03/report.html](https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/report.html)
 
 I've embedded the Quast HTML report below, but it may be easier to view by using the link above.
 
-[iframe src="http://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/report.html" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_04_15_13_45_03/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

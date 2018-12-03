@@ -24,7 +24,7 @@ Ran out 2uL of Clair'es C.gigas female gonad gDNA (from 20140328) and Mac's C.gi
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140404_Claire_Mac_Cgigas_gDNA.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140404_Claire_Mac_Cgigas_gDNA.JPG)
 
 Loading:
 

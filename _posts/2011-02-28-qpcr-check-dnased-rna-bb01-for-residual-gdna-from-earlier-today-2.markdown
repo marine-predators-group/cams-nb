@@ -20,12 +20,12 @@ tags:
   - qPCR
 ---
 
-Ran qPCR on DNased RNA from earlier today to verify removal of contaminating gDNA. Used C.gigas 18s primers (SR IDs: 156, 157). 0.75uL (~50ng) of DNased RNA was used for testing. This corresponds, roughly, to the amount of sample that would be carried through to qPCR analysis of cDNA, assuming 1ug of RNA was used to make the cDNA (cDNA = 1000ng RNA/25uL = 40ng/uL, 1uL of cDNA in 25uL qPCR reaction). Positive control sample was ~25ng BB16 gDNA (from [20090519](/Sam%27s+Working+Notebook+May-June+2010#sjw20090519)). [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110228-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). RNA was stored @ -80C in "Sam's -80C Box".
+Ran qPCR on DNased RNA from earlier today to verify removal of contaminating gDNA. Used C.gigas 18s primers (SR IDs: 156, 157). 0.75uL (~50ng) of DNased RNA was used for testing. This corresponds, roughly, to the amount of sample that would be carried through to qPCR analysis of cDNA, assuming 1ug of RNA was used to make the cDNA (cDNA = 1000ng RNA/25uL = 40ng/uL, 1uL of cDNA in 25uL qPCR reaction). Positive control sample was ~25ng BB16 gDNA (from [20090519](/Sam%27s+Working+Notebook+May-June+2010#sjw20090519)). [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20110228-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). RNA was stored @ -80C in "Sam's -80C Box".
 
 Results:
 
-[ qPCR Report (PDF)](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pdf)
+[ qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pdf)
 
-[ qPCR Data File (CFX96)](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pcrd)
+[ qPCR Data File (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pcrd)
 
 Well, this sucks. Still gDNA contamination. Will just start with original RNA again and discard this "DNased" sample.

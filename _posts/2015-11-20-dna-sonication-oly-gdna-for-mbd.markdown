@@ -47,7 +47,7 @@ Genomic DNA samples were isolated and provided to us by Katherine Silliman at UI
 
 Used the Seeb Lab's Bioruptor 300 (Diagenode) sonicator.
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20151119_bioruptor_settings.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151119_bioruptor_settings.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20151119_bioruptor_settings.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151119_bioruptor_settings.JPG)
 
 After sonication, samples were run on a the Seeb Lab's 2100 Bioanalyzer (Agilent) on DNA 12000 chips.
 
@@ -55,12 +55,12 @@ Results:
 
 HOOD CANAL SAMPLES
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_hood_canal_all_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_hood_canal_all_electropherograms.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_hood_canal_all_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_hood_canal_all_electropherograms.jpg)
 
 
 
 OYSTER BAY SAMPLES
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_oyster_bay_all_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_oyster_bay_all_electropherograms.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_oyster_bay_all_electropherograms.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20151119_bioanalyzer_oly_oyster_bay_all_electropherograms.jpg)
 
 More detailed analysis (including average fragment size for each samples) will be coming soon...

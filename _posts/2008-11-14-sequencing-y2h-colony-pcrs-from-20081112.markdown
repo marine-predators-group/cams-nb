@@ -20,4 +20,4 @@ tags:
   - yeast two-hybrid
 ---
 
-Purified bands were delivered for sequencing. See [sequencing log](https://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en) for plate layout/primers.
+Purified bands were delivered for sequencing. See [sequencing log](httpss://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en) for plate layout/primers.

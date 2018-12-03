@@ -59,7 +59,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181016_qPCR_Cgigas_gDNA_primer_test](https://docs.google.com/spreadsheets/d/12ZJDMeY8BIX_SYGAXHPqI7dmlznegiMc0xPYu6rgPiI/edit?usp=sharing)
+  * [20181016_qPCR_Cgigas_gDNA_primer_test](httpss://docs.google.com/spreadsheets/d/12ZJDMeY8BIX_SYGAXHPqI7dmlznegiMc0xPYu6rgPiI/edit?usp=sharing)
 
 
 
@@ -81,7 +81,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-16 2013-42-43_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-16%2013-42-43_BR006896.pdf)
+  * [sam_2018-10-16 2013-42-43_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-16%2013-42-43_BR006896.pdf)
 
 
 
@@ -89,7 +89,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-16 2013-42-43_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-16%2013-42-43_BR006896.pcrd)
+  * [sam_2018-10-16 2013-42-43_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-16%2013-42-43_BR006896.pcrd)
 
 
 
@@ -97,7 +97,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-16_13-42-43_BR006896_-_Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16_13-42-43_BR006896_-_Quantification_Cq_Results.csv)
+  * [sam_2018-10-16_13-42-43_BR006896_-_Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16_13-42-43_BR006896_-_Quantification_Cq_Results.csv)
 
 
 
@@ -119,7 +119,7 @@ The amplification plots show that the EF1 primers do _not_ amplify with BB15, bu
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16%2013-42-43_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16%2013-42-43_amp_plots.png)
 
 
 
@@ -133,4 +133,4 @@ The amplification plots show that the EF1 primers do _not_ amplify with BB15, bu
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16%2013-42-43_melt_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16%2013-42-43_melt_plots.png)

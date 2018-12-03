@@ -17,4 +17,4 @@ tags:
   - Yanouk
 ---
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20131004%20-%20Yanouk%20gigas%20gDNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20131004%20-%20Yanouk%20gigas%20gDNA%20ODs.JPG)

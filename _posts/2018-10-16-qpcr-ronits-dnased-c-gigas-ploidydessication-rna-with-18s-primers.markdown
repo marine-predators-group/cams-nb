@@ -52,7 +52,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181016_qPCR_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1YcL-h1g0ee8XOlO49H7WmSalqT0BCtreVR4WaxV8dxA/edit?usp=sharing)
+  * [20181016_qPCR_Cgigas_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1YcL-h1g0ee8XOlO49H7WmSalqT0BCtreVR4WaxV8dxA/edit?usp=sharing)
 
 
 
@@ -74,7 +74,7 @@ qPCR Report (PDF):
 
 
 
-  * [sam_2018-10-16 2011-13-55_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-16%2011-13-55_BR006896.pdf)
+  * [sam_2018-10-16 2011-13-55_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-10-16%2011-13-55_BR006896.pdf)
 
 
 
@@ -82,7 +82,7 @@ qPCR File (PCRD):
 
 
 
-  * [sam_2018-10-16 2011-13-55_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-16%2011-13-55_BR006896.pcrd)
+  * [sam_2018-10-16 2011-13-55_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-10-16%2011-13-55_BR006896.pcrd)
 
 
 
@@ -90,7 +90,7 @@ qPCR Data (CSV):
 
 
 
-  * [sam_2018-10-16_11-13-55_BR006896-Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16_11-13-55_BR006896-Quantification_Cq_Results.csv)
+  * [sam_2018-10-16_11-13-55_BR006896-Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-10-16_11-13-55_BR006896-Quantification_Cq_Results.csv)
 
 
 
@@ -114,7 +114,7 @@ Will have to identify different primers and/or positive control DNA.
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_20181016_111355_amp_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_20181016_111355_amp_plots.png)
 
 
 
@@ -128,4 +128,4 @@ Will have to identify different primers and/or positive control DNA.
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_20181016_111355_melt_plots.png)
+![](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_20181016_111355_melt_plots.png)

@@ -37,7 +37,7 @@ An overview of the experiment can be viewed here:
 
 
 
-  * [GitHub Wiki: Whole-genome-BSseq-December-2015](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+  * [GitHub Wiki: Whole-genome-BSseq-December-2015](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
@@ -53,7 +53,7 @@ First mistake (Bismark):
 
 
 
-[Bismark provides an excellent user guide and provides a handy table on how to decide on trimming parameters](https://github.com/FelixKrueger/Bismark/tree/master/Docs), but I mistakenly trimmed these according to the recommendations for a different library preparation technique. I trimmed based on the Zymo Pico-Methyl Kit (which _was_ used for the other group of data that I processed simultaneously), instead of the TruSeq library prep.
+[Bismark provides an excellent user guide and provides a handy table on how to decide on trimming parameters](httpss://github.com/FelixKrueger/Bismark/tree/master/Docs), but I mistakenly trimmed these according to the recommendations for a different library preparation technique. I trimmed based on the Zymo Pico-Methyl Kit (which _was_ used for the other group of data that I processed simultaneously), instead of the TruSeq library prep.
 
 So, "incorrectly" isn't necessarily the proper term here. The analysis can still be used, however, it's likely that the excessive trimming results in reducing sequencing coverage, and, in turn, making the downstream analysis result in a highly conservative output. Thus, the data isn't wrong or bad, it is just very limited.
 
@@ -104,7 +104,7 @@ Methylkit analysis (R project; GitHub):
 
 
 
-  * [20180827_oly_methylkit](https://github.com/RobertsLab/code/tree/master/r_projects/sam/20180827_oly_methylkit)
+  * [20180827_oly_methylkit](httpss://github.com/RobertsLab/code/tree/master/r_projects/sam/20180827_oly_methylkit)
 
 
 
@@ -112,7 +112,7 @@ BedGraph file (BED):
 
 
 
-  * [OlyFbOb_3xCov_25percentDiff.bed](https://github.com/RobertsLab/code/raw/master/r_projects/sam/20180827_oly_methylkit/analyses/OlyFbOb_3xCov_25percentDiff.bed)
+  * [OlyFbOb_3xCov_25percentDiff.bed](httpss://github.com/RobertsLab/code/raw/master/r_projects/sam/20180827_oly_methylkit/analyses/OlyFbOb_3xCov_25percentDiff.bed)
 
 
 
@@ -128,7 +128,7 @@ Regardless here're some plots to add some visual flair to this notebook entry (t
 
 
 
-![](https://raw.githubusercontent.com/RobertsLab/code/master/r_projects/sam/20180827_oly_methylkit/analyses/clustering_dendrogram.png)
+![](httpss://raw.githubusercontent.com/RobertsLab/code/master/r_projects/sam/20180827_oly_methylkit/analyses/clustering_dendrogram.png)
 
 
 
@@ -142,4 +142,4 @@ Regardless here're some plots to add some visual flair to this notebook entry (t
 
 
 
-![](https://raw.githubusercontent.com/RobertsLab/code/master/r_projects/sam/20180827_oly_methylkit/analyses/pca.png)
+![](httpss://raw.githubusercontent.com/RobertsLab/code/master/r_projects/sam/20180827_oly_methylkit/analyses/pca.png)

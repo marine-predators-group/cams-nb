@@ -21,12 +21,12 @@ Results:
 
 Quick assessment is that Graham's NanoDrop1000 is more accurate than ours.
 
-[Here is a spreadsheet with averages, standard deviations and experimental error (%)](https://spreadsheets4.google.com/ccc?hl=en&key=tSqYT6UZDXFLvxIq0XmCzFw&authkey=CICJ1-wC&hl=en#gid=0). Below are the raw measurements from both machines.
+[Here is a spreadsheet with averages, standard deviations and experimental error (%)](httpss://spreadsheets4.google.com/ccc?hl=en&key=tSqYT6UZDXFLvxIq0XmCzFw&authkey=CICJ1-wC&hl=en#gid=0). Below are the raw measurements from both machines.
 
 Roberts Lab ND100:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110301%20Roberts%20Lab%20Quant-iT%20Standards.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110301%20Roberts%20Lab%20Quant-iT%20Standards.jpg)
 
 Young Lab ND1000:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110301%20Young%20Lab%20Quant-iT%20Standards.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110301%20Young%20Lab%20Quant-iT%20Standards.JPG)

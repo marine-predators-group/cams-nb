@@ -19,4 +19,4 @@ tags:
 
 This is a second submission of 12 individuals from 8 primer sets. The previous sequencing run was botched because I used the combined primer plate instead of a single (forward or reverse) primer for submission.
 
-[Sequence log](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)
+[Sequence log](httpss://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)

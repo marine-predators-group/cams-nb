@@ -23,7 +23,7 @@ tags:
 
 The entire 20uL of RNA were treated with Ambion's Turbo DNA-free kit according to protocol and spec'd.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090611%20DNased%20RNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20090611%20DNased%20RNA%20SJW.jpg)
 
 Mac performed qPCR on the DNase-treated RNAs to verify removal of residual gDNA.
 

@@ -13,30 +13,30 @@ tags:
 categories:
   - Miscellaneous
 ---
-In preparation for designing primers for [developing a geoduck vitellogenin qPCR assay](https://github.com/RobertsLab/resources/issues/491), I [annotated a _de novo_ geoduck transcriptome assembly](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html) last week. Next up, identify vitellogenin genes, design primers, confirm their specificity, and order them!
+In preparation for designing primers for [developing a geoduck vitellogenin qPCR assay](httpss://github.com/RobertsLab/resources/issues/491), I [annotated a _de novo_ geoduck transcriptome assembly](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html) last week. Next up, identify vitellogenin genes, design primers, confirm their specificity, and order them!
 
 All of this was done in a Jupyter Notebook on my computer (Swoose).
 
 
 Jupyter notebook (GitHub):
 
-- [20181128_swoose_geoduck_vitellogenin_analysis.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181128_swoose_geoduck_vitellogenin_analysis.ipynb)
+- [20181128_swoose_geoduck_vitellogenin_analysis.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20181128_swoose_geoduck_vitellogenin_analysis.ipynb)
 
 Annoated transcriptome FastA (271MB):
 
-- [20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.cds](http://gannet.fish.washington.edu/Atumefaciens/20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.cds)
+- [20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.cds](https://gannet.fish.washington.edu/Atumefaciens/20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.cds)
 
 Although everything is explained pretty well in the Jupyter Notebook, here's the brief rundown of the process:
 
 1. Download FastA file.
 
-2. Split into individual FastA files for each sequence (used [pyfaidx v0.5.5.2](https://github.com/mdshw5/pyfaidx))
+2. Split into individual FastA files for each sequence (used [pyfaidx v0.5.5.2](httpss://github.com/mdshw5/pyfaidx))
 
 3. Identify sequences (in original FastA file, not individual files) annotated as vitellogenin.
 
 4. Design primers on best vitellogenin match (based on TransDecoder score and BLASTp e-values) using Primer3.
 
-5. Confirm primer specificity using [EMBOSS](http://emboss.sourceforge.net/download/)(v6.6.0) [primersearch tool](http://emboss.sourceforge.net/apps/cvs/emboss/apps/primersearch.html) to check all individual sequence files for possible matches.
+5. Confirm primer specificity using [EMBOSS](https://emboss.sourceforge.net/download/)(v6.6.0) [primersearch tool](http://emboss.sourceforge.net/apps/cvs/emboss/apps/primersearch.html) to check all individual sequence files for possible matches.
 
 ---
 
@@ -45,11 +45,11 @@ All files were transferred to Gannet using ```rsync```.
 
 Output direoctory:
 
-- [20181129_geoduck_vtg_primers/](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/)
+- [20181129_geoduck_vtg_primers/](https://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/)
 
 
 Primer3 human-readable output:
-- [20181129_primer3_primers.txt](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_primers.txt)
+- [20181129_primer3_primers.txt](https://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_primers.txt)
 
 Here's the info on the Primer3 top primer pair (scroll to the right to see primer sequences):
 
@@ -72,13 +72,13 @@ PRODUCT SIZE: 125, PAIR ANY_TH COMPL: 10.66, PAIR 3'_TH COMPL: 0.00
 
 Primer3 Primer Design Parameters:
 
-- [20181129_geoduck_vtg_primers/20181129_primer3_params.txt](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_params.txt)
+- [20181129_geoduck_vtg_primers/20181129_primer3_params.txt](https://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/20181129_primer3_params.txt)
 
 The EMBOSS ```primersearch``` tool produced only two matches:
 
-- [trinity_dn51983_c0_g1_i4.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i4.primersearch)
+- [trinity_dn51983_c0_g1_i4.primersearch](https://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i4.primersearch)
 
-- [trinity_dn51983_c0_g1_i8.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i8.primersearch)
+- [trinity_dn51983_c0_g1_i8.primersearch](https://gannet.fish.washington.edu/Atumefaciens/20181129_geoduck_vtg_primers/trinity_dn51983_c0_g1_i8.primersearch)
 
 The second file is the original FastA file from which the primers were generated, so that's expected.
 

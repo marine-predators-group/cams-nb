@@ -24,6 +24,6 @@ Pellets were apparent in all 8 samples, whereas they had not been noticeable bef
 
 Also, 3 clams were found with cracked shells, but alive, including the one pictured below that is split open entirely.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090112%20M.mercenaria%20cracked-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090112%20M.mercenaria%20cracked-01.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20090112%20M.mercenaria%20cracked-02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20090112%20M.mercenaria%20cracked-02.JPG)

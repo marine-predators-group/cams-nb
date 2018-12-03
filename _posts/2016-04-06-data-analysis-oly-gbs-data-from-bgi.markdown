@@ -25,13 +25,13 @@ UPDATE (20160418) : I'm posting this more for posterity, as Stacks continually l
 
 Have moved on to trying PyRAD in the meantime.
 
-Need to get the [GBS from BGI data analyzed.](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015)
+Need to get the [GBS from BGI data analyzed.](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015)
 
 [Installed Stacks (and its dependencies on Hummingbird earlier today)](2016/04/06/software-install-samtools-0-1-19-and-stacks-1-37.html).
 
 Below is the Jupyter (iPython) notebook I ran to perform this analysis.
 
-Jupyter (iPython) Notebook: [20160406_Oly_GBS_STACKS.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb)
+Jupyter (iPython) Notebook: [20160406_Oly_GBS_STACKS.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb)
 
-Jupyter Notebook Viewer: [20160406_Oly_GBS_STACKS](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb)
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+Jupyter Notebook Viewer: [20160406_Oly_GBS_STACKS](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb)
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160406_Oly_GBS_STACKS.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

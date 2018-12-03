@@ -24,9 +24,9 @@ tags:
 
 The data was made available to use on 20151224 and took two days to download.
 
-The full list of samples (and the individual samples/libraries/indexes) submitted to Genewiz for this project by Katherine Silliman & me can be seen here (Google Sheet): [White_BS1511196_R2_barcodes](https://docs.google.com/spreadsheets/d/1DJP4zpF3OcISOAQ-MM8bW85WcJqdB5EvcExs2wGvzcg/edit?usp=sharing)
+The full list of samples (and the individual samples/libraries/indexes) submitted to Genewiz for this project by Katherine Silliman & me can be seen here (Google Sheet): [White_BS1511196_R2_barcodes](httpss://docs.google.com/spreadsheets/d/1DJP4zpF3OcISOAQ-MM8bW85WcJqdB5EvcExs2wGvzcg/edit?usp=sharing)
 
-The data supplied were all of the Illumina output files (currently not entirely sure where/how we want to store all of this, but we'll probably want to use them for attempting our own demultiplexing since there were a significant amount of reads that Genewiz was unable to demultiplex), in addition to demultiplexed FASTQ files. The FASTQ files were buried in inconvenient locations, and there are over 300 of them, so I used the power of the command line to find them and copy them to a single location: http://owl.fish.washington.edu/nightingales/O_lurida/2bRAD_Dec2015/
+The data supplied were all of the Illumina output files (currently not entirely sure where/how we want to store all of this, but we'll probably want to use them for attempting our own demultiplexing since there were a significant amount of reads that Genewiz was unable to demultiplex), in addition to demultiplexed FASTQ files. The FASTQ files were buried in inconvenient locations, and there are over 300 of them, so I used the power of the command line to find them and copy them to a single location: https://owl.fish.washington.edu/nightingales/O_lurida/2bRAD_Dec2015/
 
 Find and copy all FASTQ files:
 
@@ -108,7 +108,7 @@ Code explanation:
 
 
 
-I created a readme file in the directory directory with these files: [readme.md](http://owl.fish.washington.edu/nightingales/O_lurida/2bRAD_Dec2015/readme.md)
+I created a readme file in the directory directory with these files: [readme.md](https://owl.fish.washington.edu/nightingales/O_lurida/2bRAD_Dec2015/readme.md)
 
 I wanted to add some information about the project to the readme file, like total number of sequencing reads generated and the number of reads in each FASTQ file.
 

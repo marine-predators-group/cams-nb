@@ -18,7 +18,7 @@ tags:
   - SparseAssembler
 ---
 
-Steven came across a [2012 paper in BMC Bioinformatics ("Exploiting sparseness in _de novo_ genome assembly")](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1) that utilized an assembly program we hadn't previously encountered: [SparseAssembler](https://sourceforge.net/projects/sparseassembler/)
+Steven came across a [2012 paper in BMC Bioinformatics ("Exploiting sparseness in _de novo_ genome assembly")](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1) that utilized an assembly program we hadn't previously encountered: [SparseAssembler](https://sourceforge.net/projects/sparseassembler/)
 
 This software is intended to greatly reduce the required amount of RAM necessary to process very large assembly data sets. [As I previously learned, RAM is a limiting factor for assembly programs](2018/02/19/assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail.html), and the install (if you can even call it that) was simply upacking a zip file ([program installations on Mox are not trivial](2018/02/21/novaseq-assembly-the-struggle-is-real-real-annoying.html)so this seems like it has promise!
 
@@ -26,7 +26,7 @@ The job was run on our Mox node.
 
 Here's the batch script to initiate the job:
 
-[20180308_soap_novaseq_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/20180308_soap_novaseq_geoduck_slurm.sh)
+[20180308_soap_novaseq_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/20180308_soap_novaseq_geoduck_slurm.sh)
 
 [code lang=text]
 #!/bin/bash
@@ -100,7 +100,7 @@ i2 /gscratch/scrubbed/samwhite/20180129_trimmed_again/NR021_S8_L002_R2_001_val_2
 
 
 
-Output folder: [20180308_SparseAssembler_novaseq_geoduck/](http://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/)
+Output folder: [20180308_SparseAssembler_novaseq_geoduck/](https://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/)
 
 Well, this failed, but not because of memory issues (which is a good start)!
 
@@ -112,7 +112,7 @@ See the slurm output log file:
 
 
 
-  * [slurm-142382.out](http://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/slurm-142382.out)
+  * [slurm-142382.out](https://owl.fish.washington.edu/Athaliana/20180308_SparseAssembler_novaseq_geoduck/slurm-142382.out)
 
 
 

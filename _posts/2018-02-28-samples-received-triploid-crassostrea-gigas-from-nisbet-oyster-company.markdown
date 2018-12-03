@@ -40,20 +40,20 @@ Four oysters were shucked and the following tissues were collected from each:
 
 Utensils were cleaned and sterilized in a 10% bleach solution between oysters.
 
-Tissues were stored briefly on wet ice and then stored at -80C in [Rack 2, Column 3, Row 1](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
+Tissues were stored briefly on wet ice and then stored at -80C in [Rack 2, Column 3, Row 1](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_01.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_01.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_02.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_02.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_03.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_03.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_04.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_04.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_05.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_05.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_06.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_06.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_07.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_07.jpg)
 
-![](http://owl.fish.washington.edu/Athaliana/20180228_08.jpg)
+![](https://owl.fish.washington.edu/Athaliana/20180228_08.jpg)

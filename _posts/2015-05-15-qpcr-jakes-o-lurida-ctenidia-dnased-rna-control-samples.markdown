@@ -29,7 +29,7 @@ Used 1μL from all templates.
 
 All samples were run in duplicate.
 
-Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](http://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
+Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](https://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
 
 Cycling params:
 
@@ -56,17 +56,17 @@ Cycling params:
 
 
 
-Master mix calcs are here: [20150514_qPCR_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1aIPp2edvn4cDHWUWgHC3b5I_1Oef73EP1nSKok0WbN8/edit?usp=sharing)
+Master mix calcs are here: [20150514_qPCR_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1aIPp2edvn4cDHWUWgHC3b5I_1Oef73EP1nSKok0WbN8/edit?usp=sharing)
 
-qPCR Plate Layout: [20150514_qPCR_plate_Jake_Oly_Control_RNA](https://docs.google.com/spreadsheets/d/1o6jFPQe15r7DZ_Z_AVfJIdvf1njM3uhwq8fsvZWu4Uw/edit?usp=sharing)
+qPCR Plate Layout: [20150514_qPCR_plate_Jake_Oly_Control_RNA](httpss://docs.google.com/spreadsheets/d/1o6jFPQe15r7DZ_Z_AVfJIdvf1njM3uhwq8fsvZWu4Uw/edit?usp=sharing)
 
 
 
 Results:
 
-qPCR Data File (Opticon): [Sam_20150514_153529.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150514_153529.tad)
+qPCR Data File (Opticon): [Sam_20150514_153529.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150514_153529.tad)
 
-qPCR Report (Google Spreadsheet): [20150514_qPCR_Report_Jake_Oly_DNased_Control_RNA](https://docs.google.com/spreadsheets/d/1f3K75ZRuXDN5W5-nP18Y8OVMqyZVCbmE6j75_PZr1os/edit?usp=sharing)
+qPCR Report (Google Spreadsheet): [20150514_qPCR_Report_Jake_Oly_DNased_Control_RNA](httpss://docs.google.com/spreadsheets/d/1f3K75ZRuXDN5W5-nP18Y8OVMqyZVCbmE6j75_PZr1os/edit?usp=sharing)
 
 Positive control comes up around cycle ~21.
 
@@ -82,7 +82,7 @@ Four wells of the DNased RNA samples exhibit amplification (B5, C10, C12, D3), h
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)
 
 
 
@@ -92,6 +92,6 @@ Four wells of the DNased RNA samples exhibit amplification (B5, C10, C12, D3), h
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)
 
 

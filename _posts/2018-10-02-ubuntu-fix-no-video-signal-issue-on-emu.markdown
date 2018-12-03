@@ -17,7 +17,7 @@ tags:
   - Xserve
 ---
 
-[An issue with Emu](https://github.com/RobertsLab/resources/issues/376) cropped up a few weeks ago that was seemingly caused by upgrading from Ubuntu 16.04 to 18.04.
+[An issue with Emu](httpss://github.com/RobertsLab/resources/issues/376) cropped up a few weeks ago that was seemingly caused by upgrading from Ubuntu 16.04 to 18.04.
 
 However, the problems only seemed related to using Emu via the GUI; users could still use Emu as a headless computer via SSH.
 
@@ -35,9 +35,9 @@ Today, I was upgrading some packages and noticed two things:
     sam@swoose:~$ ssh emu
     Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-57-generic x86_64)
     
-    * Documentation:  https://help.ubuntu.com
-    * Management:     https://landscape.canonical.com
-    * Support:        https://ubuntu.com/advantage
+    * Documentation:  httpss://help.ubuntu.com
+    * Management:     httpss://landscape.canonical.com
+    * Support:        httpss://ubuntu.com/advantage
     
     0 packages can be updated.
     0 updates are security updates.

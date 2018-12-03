@@ -27,7 +27,7 @@ I received the Bioanalyzer data back for the [geoduck foot RNA samples I submitt
 
 Results:
 
-Bioanalzyer 2100 Data File (XAD): [SamWhite_Eukaryote Total RNA Pico_2015-04-23_13-04-16.xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Pico_2015-04-23_13-04-16.xad)
+Bioanalzyer 2100 Data File (XAD): [SamWhite_Eukaryote Total RNA Pico_2015-04-23_13-04-16.xad](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/SamWhite_Eukaryote%20Total%20RNA%20Pico_2015-04-23_13-04-16.xad)
 
 Data file requires 2100_Expert_B0208_SI648_SR2 version of the software (Windows).
 
@@ -37,7 +37,7 @@ Data file requires 2100_Expert_B0208_SI648_SR2 version of the software (Windows)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)
 
 
 
@@ -47,7 +47,7 @@ Data file requires 2100_Expert_B0208_SI648_SR2 version of the software (Windows)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)
+[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)
 
 
 

@@ -21,6 +21,6 @@ tags:
   - SYTO13
 ---
 
-Abalone RNA isolated from this week was qPCR's with 16s primers to determine if gDNA contamination was present. [PCR/plate layout is here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-01.pdf).
+Abalone RNA isolated from this week was qPCR's with 16s primers to determine if gDNA contamination was present. [PCR/plate layout is here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20090403-01.pdf).
 
 Results: All samples appear to have gDNA contamination. Will use Qiagen QT Kit for cDNA.

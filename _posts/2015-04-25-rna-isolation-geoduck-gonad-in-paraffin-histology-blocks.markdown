@@ -24,7 +24,7 @@ tags:
 
 UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](2015/05/28/bioanalyzer-geoduck-gonad-rna-quality-assessment.html).
 
-Isolated RNA from geoduck gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Grace’s notebook for full details on samples and preservation](http://genefish.wikispaces.com/Grace%27s+Notebook).
+Isolated RNA from geoduck gonad previously preserved with the PAXgene Tissue Fixative and Stabilizer and then embedded in paraffin blocks. [See Grace’s notebook for full details on samples and preservation](https://genefish.wikispaces.com/Grace%27s+Notebook).
 
 RNA was isolated from the following samples using the PAXgene Tissue RNA Kit (Qiagen) from the following geoduck sample blocks:
 
@@ -115,11 +115,11 @@ Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following
 
 Results:
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs.JPG)
 
 
 
-[![](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs_plots.JPG)
+[![](https://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150424_Geoduck_block_RNA_ODs_plots.JPG)
 
 
 
@@ -131,4 +131,4 @@ The second set of eight samples I processed range from amazing to poor (#68 was 
 
 I'll review the protocol, but at the moment I'm at a loss to explain why the first set of eight samples came up empty. Will perform another on these blocks on Monday. Grrrrr.
 
-Samples were stored at -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored at -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).

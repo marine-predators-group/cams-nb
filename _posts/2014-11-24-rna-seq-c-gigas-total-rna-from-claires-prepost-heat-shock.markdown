@@ -50,4 +50,4 @@ Shipped (dry ice) ~15ug of total RNA from each of the following samples to Genew
 
 Here's Claire's notebook entry on their isolation and quantification:
 
-http://claireeolson.blogspot.com/2014/10/rna-extractions.html
+https://claireeolson.blogspot.com/2014/10/rna-extractions.html

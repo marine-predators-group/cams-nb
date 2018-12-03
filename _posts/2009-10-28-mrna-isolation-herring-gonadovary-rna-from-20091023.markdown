@@ -40,6 +40,6 @@ Isolated mRNA using Ambion's MicroPolyA Purist Kit according to protocol. Perfor
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20091027%20mRNA%20SJW.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20091027%20mRNA%20SJW.jpg)
 
 Started with ~90ug of total RNA. Yield of mRNA = 3.26ug. That is a ~3.6% recovery of mRNA.

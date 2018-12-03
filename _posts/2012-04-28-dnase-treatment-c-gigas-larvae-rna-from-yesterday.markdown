@@ -24,6 +24,6 @@ Treated 5ug of total RNA (in a 50uL rxn) using Turbo DNA-free (Ambion) according
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20120427%20DNAsed%20RNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/RNA%20Spec%20Readings/20120427%20DNAsed%20RNA%20ODs-01.JPG)
 
 All samples look good, both quality and quantity-wise. Will check for residual gDNA in these samples via qPCR.

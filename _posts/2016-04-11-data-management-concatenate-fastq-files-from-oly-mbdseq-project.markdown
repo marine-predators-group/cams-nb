@@ -19,7 +19,7 @@ tags:
   - Ostrea lurida
 ---
 
-Steven requested I concatenate [the MBDseq files we received for this project](http://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq/):
+Steven requested I concatenate [the MBDseq files we received for this project](https://owl.fish.washington.edu/nightingales/O_lurida/20160203_mbdseq/):
 
 
 
@@ -38,8 +38,8 @@ Steven requested I concatenate [the MBDseq files we received for this project](h
 
 Ran the concatenations in the Jupyter (iPython) notebook below. All files were saved to Owl/nightingales/O_lurida/2016
 
-Jupyter Notebook: [20160411_Concatenate_Oly_MBDseq.ipynb](http://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb)
+Jupyter Notebook: [20160411_Concatenate_Oly_MBDseq.ipynb](https://eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb)
 
-NBviewer: [20160411_Concatenate_Oly_MBDseq](http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb)
+NBviewer: [20160411_Concatenate_Oly_MBDseq](https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb)
 
-[iframe src="http://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+<iframe src="https://nbviewer.jupyter.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20160411_Concatenate_Oly_MBDseq.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

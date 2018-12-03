@@ -35,7 +35,7 @@ The results from that run can be seen here:
 
 In that previous run, I neglected to provide a transposable elements FastA file for use with RepeatMasker.
 
-I remedied that and re-ran it. I modified [`maker_opts.ctl`](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/maker_opts.ctl) to include the following:
+I remedied that and re-ran it. I modified [`maker_opts.ctl`](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/maker_opts.ctl) to include the following:
 
 
     
@@ -63,7 +63,7 @@ Output folder:
 
 
 
-  * [20180807_wqmaker_run_oly_02](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/)
+  * [20180807_wqmaker_run_oly_02](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/)
 
 
 
@@ -71,7 +71,7 @@ Annotated genome file (GFF):
 
 
 
-  * [20180807_wqmaker_run_oly_02/Olurida_v081.all.gff (1GB)](http://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/Olurida_v081.all.gff)
+  * [20180807_wqmaker_run_oly_02/Olurida_v081.all.gff (1GB)](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/Olurida_v081.all.gff)
 
 
 
@@ -81,7 +81,7 @@ Annotated genome file (GFF):
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180807_wq-maker_06.png)
+![](https://owl.fish.washington.edu/Athaliana/20180807_wq-maker_06.png)
 
 
 

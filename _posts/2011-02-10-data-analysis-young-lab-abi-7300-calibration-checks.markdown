@@ -36,16 +36,16 @@ Avg. Std. Deviation of Cts Across Plates - 0.352
 
 Based off of the graphs below (particularly the Ct vs Well Position plot), my conclusion is that the machine reads plates inaccurately in Rows A, B, C, F, G, & H. Rows D & E exhibit the most consistent well-to-well readings and, potentially, could be used for qPCR.
 
-The [entire work up (which includes a breakdown of each well position relative to each other) is here](http://eagle.fish.washington.edu/Arabidopsis/Young%20Lab%20ABI%207300%20Analysis.xlsx) (Excel Workbook .xlsx). Below are screen captures of one of the three plates (as an example, since all looked the same) that were used for analysis of the amplification plots, melt curves and Ct vs Well Position and a quick description/assessment of what I have observed.
+The [entire work up (which includes a breakdown of each well position relative to each other) is here](https://eagle.fish.washington.edu/Arabidopsis/Young%20Lab%20ABI%207300%20Analysis.xlsx) (Excel Workbook .xlsx). Below are screen captures of one of the three plates (as an example, since all looked the same) that were used for analysis of the amplification plots, melt curves and Ct vs Well Position and a quick description/assessment of what I have observed.
 
 The amplification plot (below) clearly shows the type of spread in Cts across an entire plate that was observed in each run, as well as a large range in fluorescence detected (Rn) in each well.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Amp%20Plot.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Amp%20Plot.JPG)
 
 The melt curve (below) reflects the large range of detected fluorescence seen in the amplification plot. Additionally, some wells exhibit small "bumps" between 75C and 80C. This provides more evidence for a problem with well-to-well consistency.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Melt%20Curves.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Melt%20Curves.JPG)
 
 A graph of Ct vs. Well Position (below) reveals some enlightening information. From looking at this plot, it's clear that the machine reads from A1 to A12, then B1 to B12 (reads by row, not column) and so on. This plot reveals that most of the variation seen in Ct values occurs in the two rows closest to the edge of the plate, and within those rows, the middle wells' Cts are more similar to the Cts observed throughout the rest of the plate.
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Ct%20vs%20Well%20Position.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20110209%20ABI%207300%20Calibration%20Check%20Ct%20vs%20Well%20Position.JPG)

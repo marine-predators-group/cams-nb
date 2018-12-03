@@ -26,7 +26,7 @@ Used 1uL of template DNA.
 
 Results:
 
-Quantification Spreadsheet (Google Sheet): [20180110_qubit_dsDNA_BR_MBD_virginica](https://docs.google.com/spreadsheets/d/1HVwlkcCn2AmhJQAHbP4GYSD-V4-ZnahiD55kc9PdjYs/edit?usp=sharing)
+Quantification Spreadsheet (Google Sheet): [20180110_qubit_dsDNA_BR_MBD_virginica](httpss://docs.google.com/spreadsheets/d/1HVwlkcCn2AmhJQAHbP4GYSD-V4-ZnahiD55kc9PdjYs/edit?usp=sharing)
 
 Both samples had decent yields and have usable quantities for Qiagen (they wanted ~300ng from each sample):
 

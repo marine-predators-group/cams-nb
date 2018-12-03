@@ -30,12 +30,12 @@ FP001672.p.cg.6 ("PGSC1", "Peptidoglycan-recognition protein SC1a/b") - This was
 
 Included three primer sets of Emma's (matrillin, beta tub and chaperonin). These were set up with no template and done in duplicate.
 
-[qPCR set up and plate layout can be found here](http://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091229-01.jpg).
+[qPCR set up and plate layout can be found here](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20091229-01.jpg).
 
 Results:
 
-qPCR Data File (Opticon): [20091229_133148.tad](http://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091229_133148.tad)
+qPCR Data File (Opticon): [20091229_133148.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091229_133148.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 Emma's "beta tub" primers show some weird fluorescence, however none of the primer sets show any thing in the melting curve analysis.

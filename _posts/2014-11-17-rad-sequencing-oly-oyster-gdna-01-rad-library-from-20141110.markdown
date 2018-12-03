@@ -20,7 +20,7 @@ tags:
 
 Prepared 10nM of the library in total volume of 20uL of Buffer EB (Qiagen) + 0.1% Tween-20, according the University of Oregon's Genomic's Core:
 
-http://gcf.uoregon.edu/home/services
+https://gcf.uoregon.edu/home/services
 
 Based on a calculator provided by their site, 10nM was equivalent to 2.93ng/uL. Diluted 3.13uL of the library (18.7ng/uL) in 16.87uL of Buffer EB + Tween 20.
 

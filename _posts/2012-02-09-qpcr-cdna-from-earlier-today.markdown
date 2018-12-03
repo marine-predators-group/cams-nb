@@ -22,13 +22,13 @@ tags:
   - Vibrio tubiashii
 ---
 
-Performed qPCR on all 12 samples. Used Cg_EF1aF/R2 (SR IDs: 1410 & 1412) for one set of qPCRs and Vtub_16s_F/R (SR IDs: 455 & 456) for the other set of qPCRs. Used pooled C.gigas cDNA (from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311)) and RE22 DNA (provided by Elene) as positive controls for C.gigas and V.tubiashii, respectively. C.gigas gDNA (7ng of BB16 from [20110201](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110201)) was used as a negative control for EF1a. [Master mix calcs are here](http://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120208-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). All samples were run in duplicate.
+Performed qPCR on all 12 samples. Used Cg_EF1aF/R2 (SR IDs: 1410 & 1412) for one set of qPCRs and Vtub_16s_F/R (SR IDs: 455 & 456) for the other set of qPCRs. Used pooled C.gigas cDNA (from [20110311](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110311)) and RE22 DNA (provided by Elene) as positive controls for C.gigas and V.tubiashii, respectively. C.gigas gDNA (7ng of BB16 from [20110201](/Sam%27s+Working+Notebook+Jan+2011+-+March+2011#sjw20110201)) was used as a negative control for EF1a. [Master mix calcs are here](https://eagle.fish.washington.edu/Arabidopsis//Notebook%20Workup%20Files/20120208-01.jpg). Plate layout, cycling params, etc can be found in the qPCR Report (see Results). All samples were run in duplicate.
 
 Results:
 
-[qPCR Data File](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-02-08%2014-53-07_CC009827.pcrd) (CFX96)
+[qPCR Data File](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-02-08%2014-53-07_CC009827.pcrd) (CFX96)
 
-[qPCR Report](http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-02-08%2014-53-07_CC009827.pdf) (PDF)
+[qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-02-08%2014-53-07_CC009827.pdf) (PDF)
 
 C.gigas EF1a - Positive control amplified. Negative control and no template control were all clean (i.e. no amplification detected). The majority of samples had amplification, however two samples had no amplification at all (samples 132 & 136).
 

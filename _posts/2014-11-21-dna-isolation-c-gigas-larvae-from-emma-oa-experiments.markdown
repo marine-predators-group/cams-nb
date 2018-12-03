@@ -21,7 +21,7 @@ tags:
 
 Isolated gDNA using DNazol from the following larval samples for potential MBD selection and bisulfite sequencing:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20tubes.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20tubes.jpg)
 
 - Added 500uL of DNAzol to each tube, transferred to 1.5mL tube and homogenized with disposable pestles
 
@@ -65,6 +65,6 @@ Isolated gDNA using DNazol from the following larval samples for potential MBD s
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20gDNA%20ODs-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20gDNA%20ODs-01.JPG)
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20gDNA%20ODs%20Plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20141121%20-%20Gigas%20larvae%20OA%20gDNA%20ODs%20Plots.JPG)

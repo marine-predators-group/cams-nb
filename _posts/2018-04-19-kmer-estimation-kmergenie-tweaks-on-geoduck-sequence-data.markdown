@@ -38,7 +38,7 @@ All jobs were run on our Mox HPC node.
 
 
 
-  * Slurm script: [20180419_kmergenie_diploid_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/20180419_kmergenie_diploid_geoduck_slurm.sh)
+  * Slurm script: [20180419_kmergenie_diploid_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/20180419_kmergenie_diploid_geoduck_slurm.sh)
 
 
 
@@ -60,7 +60,7 @@ All jobs were run on our Mox HPC node.
 
 
 
-  * Slurm script: [20180419_kmergenie_diploid_k301_geoduck_slurm.sh](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/20180419_kmergenie_diploid_k301_geoduck_slurm.sh)
+  * Slurm script: [20180419_kmergenie_diploid_k301_geoduck_slurm.sh](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/20180419_kmergenie_diploid_k301_geoduck_slurm.sh)
 
 
 
@@ -79,11 +79,11 @@ Output folders:
 
 
 
-  * [20180419_kmergenie_diploid_geoduck/](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/)
+  * [20180419_kmergenie_diploid_geoduck/](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/)
 
 
 
-  * [20180419_kmergenie_diploid_k301_geoduck/](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/)
+  * [20180419_kmergenie_diploid_k301_geoduck/](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/)
 
 
 
@@ -96,11 +96,11 @@ Slurm output files:
 
 
 
-  * [20180419_kmergenie_diploid_geoduck/slurm-162003.out](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/slurm-162003.out)
+  * [20180419_kmergenie_diploid_geoduck/slurm-162003.out](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/slurm-162003.out)
 
 
 
-  * [20180419_kmergenie_diploid_k301_geoduck/slurm-162004.out](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/slurm-162004.out)
+  * [20180419_kmergenie_diploid_k301_geoduck/slurm-162004.out](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/slurm-162004.out)
 
 
 
@@ -113,11 +113,11 @@ Kmer histogram (HTML) reports:
 
 
 
-  * [20180419_kmergenie_diploid_geoduck/histograms_report.html](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/histograms_report.html)
+  * [20180419_kmergenie_diploid_geoduck/histograms_report.html](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/histograms_report.html)
 
 
 
-  * [20180419_kmergenie_diploid_k301_geoduck/histograms_report.html](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/histograms_report.html)
+  * [20180419_kmergenie_diploid_k301_geoduck/histograms_report.html](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/histograms_report.html)
 
 
 
@@ -130,7 +130,7 @@ Kmer histogram (HTML) reports:
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/20180419_kmergenie_diploid_geoduck.png)
+![](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_geoduck/20180419_kmergenie_diploid_geoduck.png)
 
   
 
@@ -143,7 +143,7 @@ Kmer histogram (HTML) reports:
 
 
 
-![](http://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/20180419_kmergenie_diploid_k301_geoduck.png)
+![](https://owl.fish.washington.edu/Athaliana/20180419_kmergenie_diploid_k301_geoduck/20180419_kmergenie_diploid_k301_geoduck.png)
 
 Okay, well, these graphs clearly show that the diploid setting is no good.
 

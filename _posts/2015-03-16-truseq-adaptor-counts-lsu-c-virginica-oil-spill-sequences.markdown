@@ -62,9 +62,9 @@ This was done to see if the numbers increased without the barcode index (i.e. se
 
 The analysis was performed in a Jupyter (IPython) notebook and the notebook is linked, and embedded, below.
 
-NBViewer: [20150316_LSU_OilSpill_Adapter_ID.ipynb](http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150316_LSU_OilSpill_Adapter_ID.ipynb)
+NBViewer: [20150316_LSU_OilSpill_Adapter_ID.ipynb](https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150316_LSU_OilSpill_Adapter_ID.ipynb)
 
-[iframe src="http://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150316_LSU_OilSpill_Adapter_ID.ipynb" width="100%" height="1000" scrolling="yes"]
+<iframe src="https://nbviewer.ipython.org/url/eagle.fish.washington.edu/Arabidopsis/iPythonNotebooks/20150316_LSU_OilSpill_Adapter_ID.ipynb" width="100%" height="1000" scrolling="yes"></iframe>
 
 
 

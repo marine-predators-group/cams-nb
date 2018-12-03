@@ -27,6 +27,6 @@ Note: Initial specs were too low for Axa's requirements (50uL, >= 500ng/uL). Spe
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20140219%20-%20gDNA%20geoduck%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20140219%20-%20gDNA%20geoduck%20ODs.JPG)
 
 Samples look good. Will send Axa 50uL of all samples, excluding GD01 since that sample is below his desired concentration AND I believe he probably doesn't want to wait for this DNA any longer.

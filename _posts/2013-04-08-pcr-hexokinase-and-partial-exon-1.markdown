@@ -30,7 +30,7 @@ Samples were run in duplicate.
 
 Results:
 
-![](http://eagle.fish.washington.edu/Arabidopsis/20130409-01%20Gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20130409-01%20Gel.jpg)
 
 Lane 1: Hyperladder II (Bioline)
 
