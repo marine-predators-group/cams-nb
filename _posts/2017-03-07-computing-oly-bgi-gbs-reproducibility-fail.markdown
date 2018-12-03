@@ -25,7 +25,7 @@ The key word in the above sentence is "attempted." Ugh, what a massive waste of 
 
 In the meantime, here's a brief (actually, not as brief as I'd like) rundown of my struggles.
 
-The demultiplexing software that BGI used is something called "iTools" which is bundled in this GitHub repo: [Resqtools](httpss://github.com/BGI-shenzhen/Reseqtools)
+The demultiplexing software that BGI used is something called "iTools" which is bundled in this GitHub repo: [Resqtools](https://github.com/BGI-shenzhen/Reseqtools)
 
 To demutliplex, they ran a script called: [split.sh](https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/split.sh)
 
@@ -59,7 +59,7 @@ The next problem is neither of those two sequences are the recognition site for 
 
 Regardless, I decided to see if I could reproduce the demultiplexing using the info they'd provided me.
 
-I cloned the [Resqtools](httpss://github.com/BGI-shenzhen/Reseqtools) repo, changed into the Reseqtools/iTools directory and typed `make`.
+I cloned the [Resqtools](https://github.com/BGI-shenzhen/Reseqtools) repo, changed into the Reseqtools/iTools directory and typed `make`.
 
 This resulted in an error informing me that it could not find `boost/spirit/core.hpp`
 
@@ -77,7 +77,7 @@ But, of course, led to another error. The error:
 
 
 
-That was related to something with newer versions of the GCC compiler (this is, essentially, built into the computer; it's not worth trying to install/use old versions of GCC) trying to work with old versions of Boost. Found a patch for a config file here: [libstdcpp3.hpp.patch](httpss://svn.boost.org/trac/boost/attachment/ticket/6165/libstdcpp3.hpp.patch)
+That was related to something with newer versions of the GCC compiler (this is, essentially, built into the computer; it's not worth trying to install/use old versions of GCC) trying to work with old versions of Boost. Found a patch for a config file here: [libstdcpp3.hpp.patch](https://svn.boost.org/trac/boost/attachment/ticket/6165/libstdcpp3.hpp.patch)
 
 I made the appropriate edits to the file as shown in that link and ran `make` and it almost worked!
 

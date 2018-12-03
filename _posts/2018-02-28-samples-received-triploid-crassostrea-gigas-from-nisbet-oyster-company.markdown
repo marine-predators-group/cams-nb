@@ -40,7 +40,7 @@ Four oysters were shucked and the following tissues were collected from each:
 
 Utensils were cleaned and sterilized in a 10% bleach solution between oysters.
 
-Tissues were stored briefly on wet ice and then stored at -80C in [Rack 2, Column 3, Row 1](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
+Tissues were stored briefly on wet ice and then stored at -80C in [Rack 2, Column 3, Row 1](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
 
 ![](https://owl.fish.washington.edu/Athaliana/20180228_01.jpg)
 

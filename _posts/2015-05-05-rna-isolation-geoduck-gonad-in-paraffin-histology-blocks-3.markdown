@@ -114,4 +114,4 @@ Well, despite the low numbers, all of the samples (excluding 46 - 68) are double
 
 The kit has enough columns for six sample preps. I think I'll attempt this strategy again (gouging/shaving directly from tissue in histo cassette), but really take a fair amount of tissue this time and see if I can get more.
 
-All samples were stored @ -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+All samples were stored @ -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).

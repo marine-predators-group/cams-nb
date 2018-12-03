@@ -21,7 +21,7 @@ tags:
   - transcriptome
 ---
 
-Progress on generating [bedgraphs from our Olympia oyster transcriptome](httpss://github.com/RobertsLab/resources/issues/356) continues.
+Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.
 
 [Transcriptome assembly with Trinity completed 20180919](2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
 

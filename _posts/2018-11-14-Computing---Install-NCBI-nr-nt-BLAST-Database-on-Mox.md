@@ -8,7 +8,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-[Per this issue on GitHub](httpss://github.com/RobertsLab/resources/issues/485), I installed the pre-formatted NCBI non-redudant (nr) nucleotide (nt) database on Mox.
+[Per this issue on GitHub](https://github.com/RobertsLab/resources/issues/485), I installed the pre-formatted NCBI non-redudant (nr) nucleotide (nt) database on Mox.
 
 Database was downloaded from here:
 

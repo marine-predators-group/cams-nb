@@ -57,9 +57,9 @@ Briefly:
 
 
 
-Samples were stored @ -80C in [Shellfish RNA Box #5 and Box #6](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored @ -80C in [Shellfish RNA Box #5 and Box #6](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
-DNase reaction calcs: [20150514_Jake_Oly_control_DNase_calcs](httpss://docs.google.com/spreadsheets/d/1KS3tJand0vKSs6ZJk9t-hChZYmM0--RhcXiR8gDOlYo/edit?usp=sharing)
+DNase reaction calcs: [20150514_Jake_Oly_control_DNase_calcs](https://docs.google.com/spreadsheets/d/1KS3tJand0vKSs6ZJk9t-hChZYmM0--RhcXiR8gDOlYo/edit?usp=sharing)
 
 
 
@@ -71,7 +71,7 @@ Results:
 
 
 
-Google Spreadsheet: [20150514_DNased_RNA_Jake_Oly_controls_ODs](httpss://docs.google.com/spreadsheets/d/1vblT6zrN89k0RNi5XM1e6uaZvso1ZFCSvyIsnhhlU9E/edit?usp=sharing)
+Google Spreadsheet: [20150514_DNased_RNA_Jake_Oly_controls_ODs](https://docs.google.com/spreadsheets/d/1vblT6zrN89k0RNi5XM1e6uaZvso1ZFCSvyIsnhhlU9E/edit?usp=sharing)
 
 
 

@@ -42,7 +42,7 @@ Results:
 
 qPCR Data File (Opticon): [20091224_092959.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_092959.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 Preliminary results show that the EW778094 primer set looks bad; bad fluorescence profile and poor melt curves. Primers may require optimization.
 
@@ -62,6 +62,6 @@ Results:
 
 qPCR Data File (Opticon): [20091224_125230.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091224_125230.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 

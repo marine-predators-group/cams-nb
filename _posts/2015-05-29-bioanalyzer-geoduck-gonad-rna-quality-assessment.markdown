@@ -29,11 +29,11 @@ RNA that was previously isolated on [20150508](2015/05/08/rna-isolation-geoduck-
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)
 
-Google Sheet: [20150528_geoduck_histo_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1WPAQy7KPpQY1zPGscseHwnXeL0EWwsrb7AwatHVQpS0/edit?usp=sharing)
+Google Sheet: [20150528_geoduck_histo_RNA_ODs](https://docs.google.com/spreadsheets/d/1WPAQy7KPpQY1zPGscseHwnXeL0EWwsrb7AwatHVQpS0/edit?usp=sharing)
 
 NOTE: Screwed up consolidation of Geoduck Block 03 sample (added one of the 04 dupes to the tube, so discarded 03).
 
-RNA was stored in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing).
+RNA was stored in [Shellfish RNA Box #5](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing).
 
 RNA was submitted to to Jesse Tsai at [University of Washington Department of Environmental and Occupational Health Science Functional Genomics Laboratory](https://depts.washington.edu/ceeh/members/core-services.html) for running on the Agilent Bioanalyzer 2100, using either the RNA Pico or RNA Nano chips, depending on RNA concentration (Pico for lower concentrations and Nano for higher concentrations - left decision up to Jesse).
 

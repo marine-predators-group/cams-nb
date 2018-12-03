@@ -22,7 +22,7 @@ tags:
   - RNA quantification
 ---
 
-mRNA was isolated for SOLiD sequencing by HTGU. Made two pools of San Nick RNA (Control and Exposed) using equal amounts (5ug) of each individual sample. [Individual samples used can be found here](httpss://spreadsheets0.google.com/ccc?hl=en&key=t4HghspMlGPpaauScCdruFg&hl=en#gid=0). mRNA was isolated using Ambion's Micro PolyAPurist Kit according to protocol. Procedure was performed two times on each pool and then EtOH precipitated. Samples were resuspended in 10uL of The RNA Storage Solution provided in the kit and spec'd on the Roberts Lab ND1000. Samples were stored @ -80C in the "Next Gen Sequencing Libraries" box.
+mRNA was isolated for SOLiD sequencing by HTGU. Made two pools of San Nick RNA (Control and Exposed) using equal amounts (5ug) of each individual sample. [Individual samples used can be found here](https://spreadsheets0.google.com/ccc?hl=en&key=t4HghspMlGPpaauScCdruFg&hl=en#gid=0). mRNA was isolated using Ambion's Micro PolyAPurist Kit according to protocol. Procedure was performed two times on each pool and then EtOH precipitated. Samples were resuspended in 10uL of The RNA Storage Solution provided in the kit and spec'd on the Roberts Lab ND1000. Samples were stored @ -80C in the "Next Gen Sequencing Libraries" box.
 
 Results:
 

@@ -21,7 +21,7 @@ tags:
   - RAD-seq
 ---
 
-[An astute observation by Katherine Silliman ](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/issues/13)revealed that the FASTQ files I had moved to our high-throughput sequencing archive on our server Owl, only had two FASTQ files labeled as "undetermined". Based on the number of lanes we had sequenced, we should have had many more. Turns out that the undetermined FASTQ files that were present in different sub-folders of the Genewiz project data were not uniquely named. Thus, when I moved them over (via a bash script), the undetermined files were continually overwritten, until we were left with only two FASTQ files labeled as undetermined.
+[An astute observation by Katherine Silliman ](https://github.com/RobertsLab/project-olympia.oyster-genomic/issues/13)revealed that the FASTQ files I had moved to our high-throughput sequencing archive on our server Owl, only had two FASTQ files labeled as "undetermined". Based on the number of lanes we had sequenced, we should have had many more. Turns out that the undetermined FASTQ files that were present in different sub-folders of the Genewiz project data were not uniquely named. Thus, when I moved them over (via a bash script), the undetermined files were continually overwritten, until we were left with only two FASTQ files labeled as undetermined.
 
 So, I re-downloaded the entire project folder from Genewiz servers and renamed the FASTQ files labeled as undetermined and then copied them over to the archive on Owl:
 

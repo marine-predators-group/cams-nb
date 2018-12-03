@@ -17,7 +17,7 @@ tags:
   - pbjelly
 ---
 
-I followed along with what [Sean previously did when installing on Emu](httpss://genefish.wordpress.com/2017/04/06/pbjelly-pt-2/), but it appears he didn't install it in the shared location to make it accessible to all users. So, I'm installing it in the `/home/shared/` directory.
+I followed along with what [Sean previously did when installing on Emu](https://genefish.wordpress.com/2017/04/06/pbjelly-pt-2/), but it appears he didn't install it in the shared location to make it accessible to all users. So, I'm installing it in the `/home/shared/` directory.
 
 
 
@@ -29,7 +29,7 @@ Installed in
 
     
     <code>cd /home/shared
-    git clone httpss://github.com/PacificBiosciences/pitchfork.git
+    git clone https://github.com/PacificBiosciences/pitchfork.git
     cd pitchfork
     git checkout legacy_blasr
     make init PREFIX=/home/shared
@@ -44,8 +44,8 @@ Ran into this error:
     <code>make[1]: Leaving directory '/home/shared/pitchfork/ports/thirdparty/zlib'
     make -C ports/thirdparty/hdf5 do-install
     make[1]: Entering directory '/home/shared/pitchfork/ports/thirdparty/hdf5'
-    /home/shared/pitchfork/bin/pitchfork fetch --url httpss://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz
-    fetching httpss://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz
+    /home/shared/pitchfork/bin/pitchfork fetch --url https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz
+    fetching https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz
     tar zxf hdf5-1.8.16.tar.gz -C /home/shared/pitchfork/workspace
     
     gzip: stdin: not in gzip format
@@ -59,9 +59,9 @@ Ran into this error:
 
 
 
-Luckily, I came across [this GitHub Issue that addresses this exact problem.](httpss://github.com/PacificBiosciences/pitchfork/issues/289)
+Luckily, I came across [this GitHub Issue that addresses this exact problem.](https://github.com/PacificBiosciences/pitchfork/issues/289)
 
-I found the functional URL and downloaded the [hdf5-1.8.16.tar.gz file](httpss://hdfgroup.org/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz) to `pitchfork/ports/thirdparty/hdf5`. Re-ran `make blasr  PREFIX=/home/shared` and things proceeded without issue. As [Sean noted, this part takes a long time.](https://genefish.wordpress.com/2017/04/06/pbjelly-pt-2/)
+I found the functional URL and downloaded the [hdf5-1.8.16.tar.gz file](https://hdfgroup.org/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.16/src/hdf5-1.8.16.tar.gz) to `pitchfork/ports/thirdparty/hdf5`. Re-ran `make blasr  PREFIX=/home/shared` and things proceeded without issue. As [Sean noted, this part takes a long time.](https://genefish.wordpress.com/2017/04/06/pbjelly-pt-2/)
 
 Load the setup-env.sh (this is located here: `/home/shared/pitchfork/setup-env.sh`
 
@@ -75,7 +75,7 @@ Blasr install is complete!
 
 
 
-### Then, install networkx v1.1, [per the PB Jelly documentation](httpss://sourceforge.net/p/pb-jelly/wiki/Home/):
+### Then, install networkx v1.1, [per the PB Jelly documentation](https://sourceforge.net/p/pb-jelly/wiki/Home/):
 
 
 

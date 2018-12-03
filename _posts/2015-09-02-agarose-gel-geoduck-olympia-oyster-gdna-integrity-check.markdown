@@ -35,7 +35,7 @@ Oly mantle: 2.51μL
 
 Results:
 
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)
 
 
 

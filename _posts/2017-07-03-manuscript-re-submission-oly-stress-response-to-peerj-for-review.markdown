@@ -17,12 +17,12 @@ tags:
   - PeerJ
 ---
 
-[Last August, we made our initial submission of this paper](2016/08/18/manuscript-submission-oly-stress-response-to-peerj-for-review.html) to [PeeJ](httpss://peerj.com/).
+[Last August, we made our initial submission of this paper](2016/08/18/manuscript-submission-oly-stress-response-to-peerj-for-review.html) to [PeeJ](https://peerj.com/).
 
 Today, we re-submitted the revised manuscript.
 
-The [repo for this paper is here.](httpss://github.com/RobertsLab/paper-Olurida-gene)
+The [repo for this paper is here.](https://github.com/RobertsLab/paper-Olurida-gene)
 
 I've also submitted an updated pre-print. I will update this post when it is publicly accessible (it has to be approved by PeerJ staff before it becomes public).
 
-UPDATE 20170703 - Updated pre-print is now available: [httpss://peerj.com/preprints/1595/](https://peerj.com/preprints/1595/)
+UPDATE 20170703 - Updated pre-print is now available: [https://peerj.com/preprints/1595/](https://peerj.com/preprints/1595/)

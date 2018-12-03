@@ -33,7 +33,7 @@ To fix this, I added the following line to the `/etc/bash.bashrc` file:
 
 The line uses a fancy bash test to determine if the $LD_LIBRARY_PATH variable already exists. This is to prevent the $LD_LIBRARY_PATH from having a leading ":".
 
-As usual, the solution to that problem was found courtesy of [StackExchange (#162891)](httpss://unix.stackexchange.com/questions/162891/append-to-path-like-variable-without-creating-leading-colon-if-unset).
+As usual, the solution to that problem was found courtesy of [StackExchange (#162891)](https://unix.stackexchange.com/questions/162891/append-to-path-like-variable-without-creating-leading-colon-if-unset).
 
 Also, by putting this line in the `/etc/bash.bashrc` file, it makes the variable available for all users.
 

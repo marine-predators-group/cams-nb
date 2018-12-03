@@ -32,7 +32,7 @@ All samples were run in duplicate.
 
 Positive control was [HL1 _O.lurida_ DNA isolated by Jake on 20150323](https://heareresearch.blogspot.com/2015/03/3-23-2015-ezna-dna-isolation-with-seed.html).
 
-Master mix calcs are here: [20150512_qPCR_Oly_RNA](httpss://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
+Master mix calcs are here: [20150512_qPCR_Oly_RNA](https://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
 
 Cycling params:
 
@@ -61,7 +61,7 @@ Cycling params:
 
 
 
-Plate layout: [20150512_qPCR_plate_Jake_Oly_HS_RNA](httpss://docs.google.com/spreadsheets/d/1y-UxIdNQp_27qVvgZztf8pmxg_NBADD6SgPMkEKtMSI/edit?usp=sharing)
+Plate layout: [20150512_qPCR_plate_Jake_Oly_HS_RNA](https://docs.google.com/spreadsheets/d/1y-UxIdNQp_27qVvgZztf8pmxg_NBADD6SgPMkEKtMSI/edit?usp=sharing)
 
 
 
@@ -69,7 +69,7 @@ Results:
 
 qPCR Data File (Opticon2): [Sam_20150512_123246.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150512_123246.tad)
 
-qPCR Report (Google Spreadsheet):[20150512_qPCR_Report_Jake_Oly_HS_RNA](httpss://docs.google.com/spreadsheets/d/1CqfXuDfGfDf4N-T9ILctApAna-T6262TPUc1pA8KVtE/edit?usp=sharing)
+qPCR Report (Google Spreadsheet):[20150512_qPCR_Report_Jake_Oly_HS_RNA](https://docs.google.com/spreadsheets/d/1CqfXuDfGfDf4N-T9ILctApAna-T6262TPUc1pA8KVtE/edit?usp=sharing)
 
 Excluding the no template controls (NTC), all samples produced amplification. Will require DNasing before making cDNA.
 

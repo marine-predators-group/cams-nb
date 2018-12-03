@@ -21,7 +21,7 @@ tags:
   - transposable elements
 ---
 
-Per this [GitHub issue](httpss://github.com/RobertsLab/resources/issues/352), I'm IDing transposable elements (TEs) in the _Crassostrea virginica_ genome.
+Per this [GitHub issue](https://github.com/RobertsLab/resources/issues/352), I'm IDing transposable elements (TEs) in the _Crassostrea virginica_ genome.
 
 Genome used:
 
@@ -29,7 +29,7 @@ Genome used:
 
 
 
-  * [Cvirginica_v300.fa](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
+  * [Cvirginica_v300.fa](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
 
 
 
@@ -66,7 +66,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180822_roadrunner_virginica_TEs_repeatmasker.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180822_roadrunner_virginica_TEs_repeatmasker.ipynb)
+  * [20180822_roadrunner_virginica_TEs_repeatmasker.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180822_roadrunner_virginica_TEs_repeatmasker.ipynb)
 
 
 

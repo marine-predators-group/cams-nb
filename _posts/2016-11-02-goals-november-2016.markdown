@@ -20,22 +20,22 @@ Additionally, I feel like I need to better document what I spend (waste?) my tim
 
 
     
-  * [Install Multiqc and Trinity new version? ](httpss://github.com/sr320/LabDocs/issues/302)
+  * [Install Multiqc and Trinity new version? ](https://github.com/sr320/LabDocs/issues/302)
 
     
-  * [can't view jupyter notebook in docker ](httpss://github.com/sr320/LabDocs/issues/297)
+  * [can't view jupyter notebook in docker ](https://github.com/sr320/LabDocs/issues/297)
 
     
-  * [Docker Use on Roadrunner ](httpss://github.com/sr320/LabDocs/issues/293)
+  * [Docker Use on Roadrunner ](https://github.com/sr320/LabDocs/issues/293)
 
     
-  * [ssh connection issues ](httpss://github.com/sr320/LabDocs/issues/291)
+  * [ssh connection issues ](https://github.com/sr320/LabDocs/issues/291)
 
     
-  * [Roadrunner Connection? ](httpss://github.com/sr320/LabDocs/issues/315)
+  * [Roadrunner Connection? ](https://github.com/sr320/LabDocs/issues/315)
 
     
-  * [Docker and Jupyter Crash ](httpss://github.com/sr320/LabDocs/issues/318)
+  * [Docker and Jupyter Crash ](https://github.com/sr320/LabDocs/issues/318)
 
 
 

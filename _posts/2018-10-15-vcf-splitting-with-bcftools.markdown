@@ -17,7 +17,7 @@ tags:
   - tabix
 ---
 
-[Steven asked for some help trying to split a VCF in to individual VCF files](httpss://github.com/RobertsLab/resources/issues/421).
+[Steven asked for some help trying to split a VCF in to individual VCF files](https://github.com/RobertsLab/resources/issues/421).
 
 VCF file (15GB): [SNP.TRSdp5g95FnDNAmaf05.vcf.gz](https://gannet.fish.washington.edu/seashell/eog/files/VCF_files/SNP.TRSdp5g95FnDNAmaf05.vcf.gz)
 
@@ -29,7 +29,7 @@ Here's an overview of how I managed to get this to work and what didn't work.
 
 
 
-  * Installed [bcftools, htslib, and set up the bcftools plugins](httpss://samtools.github.io/bcftools/)
+  * Installed [bcftools, htslib, and set up the bcftools plugins](https://samtools.github.io/bcftools/)
 
 
 
@@ -82,7 +82,7 @@ This produced a separate file:
 
 It seems as though this file must exist in the same directory as the source VCF for it to be utilized, although no commands work directly with this index file.
 
-Then, tried [biostars solution](httpss://www.biostars.org/p/130456/#243638), but produces an error
+Then, tried [biostars solution](https://www.biostars.org/p/130456/#243638), but produces an error
 
 
     

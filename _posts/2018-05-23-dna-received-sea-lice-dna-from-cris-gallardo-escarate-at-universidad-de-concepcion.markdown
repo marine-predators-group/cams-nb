@@ -36,6 +36,6 @@ Received _Caligus tape_ DNA - two samples:
 
 Stored in slots H4 and H5 in "Sam's gDNA Box #2" in the FTR 213 -20oC freezer.
 
-Google Sheet: [Sam's gDNA Box #2](httpss://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing)
+Google Sheet: [Sam's gDNA Box #2](https://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing)
 
 ![](https://owl.fish.washington.edu/Athaliana/20180523_sea_lice_dna.jpg)

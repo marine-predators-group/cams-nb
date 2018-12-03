@@ -24,7 +24,7 @@ This all takes a surprisingly long time to set up.
 
 Setup AWS Identity and Access Management (IAM): [https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html?icmpid=docs_iam_console](http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html?icmpid=docs_iam_console)
 
-Install AWS command line interface: [httpss://aws.amazon.com/cli/](https://aws.amazon.com/cli/)
+Install AWS command line interface: [https://aws.amazon.com/cli/](https://aws.amazon.com/cli/)
 
 Copy files to S3 bucket:
 
@@ -103,7 +103,7 @@ Install Docker for Ubuntu 14.04 and copy our bioinformatics Dockerfile to the /h
 
 **Access data stored in Amazon S3 bucket(s)**
 
-Mounting S3 storage as volume in EC2 instance requires [httpss://github.com/s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
+Mounting S3 storage as volume in EC2 instance requires [https://github.com/s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
 
 
 

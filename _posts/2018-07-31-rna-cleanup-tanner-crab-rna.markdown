@@ -20,7 +20,7 @@ tags:
   - tanner crab
 ---
 
-In a continued attempt to figure out what we can do about the tanner crab RNA, [Steven tasked me with using an RNeasy Kit to cleanup some existing RNA](httpss://github.com/RobertsLab/resources/issues/330).
+In a continued attempt to figure out what we can do about the tanner crab RNA, [Steven tasked me with using an RNeasy Kit to cleanup some existing RNA](https://github.com/RobertsLab/resources/issues/330).
 
 Here're the samples grace provided:
 
@@ -69,7 +69,7 @@ RNA was given to Grace for storage at -80C.
 
 
 Qubit measurements (Google Sheet): 
-- [20180731_qubit_RNA_crab_cleanup](httpss://docs.google.com/spreadsheets/d/1UEMehKIy1GmYFk3eP2stvF3cAIEQ6KFUVbS7QCXUzQk/edit?usp=sharing)
+- [20180731_qubit_RNA_crab_cleanup](https://docs.google.com/spreadsheets/d/1UEMehKIy1GmYFk3eP2stvF3cAIEQ6KFUVbS7QCXUzQk/edit?usp=sharing)
 
 
 

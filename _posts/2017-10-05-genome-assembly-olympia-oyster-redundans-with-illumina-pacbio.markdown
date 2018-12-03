@@ -28,24 +28,24 @@ Sean had previously performed this - twice actually:
 
 
 
-  * [Redundans 1](httpss://genefish.wordpress.com/2017/05/24/oly-genome-redundans-run-finished/)
+  * [Redundans 1](https://genefish.wordpress.com/2017/05/24/oly-genome-redundans-run-finished/)
 
 
 
-  * [Redundans 2](httpss://genefish.wordpress.com/2017/06/08/seans-notebook-oly-genome-re-assembly-try-2/)
+  * [Redundans 2](https://genefish.wordpress.com/2017/06/08/seans-notebook-oly-genome-re-assembly-try-2/)
 
 
 
 
 
 
-It wasn't entirely clear how he had run Redundans the first time and the second time he used his [Platinus contig FASTA file](httpss://genefish.wordpress.com/2017/06/02/oly-assembly-try-2-its-yuuuuuuge/) as the necessary reference assembly when running Redundans.
+It wasn't entirely clear how he had run Redundans the first time and the second time he used his [Platinus contig FASTA file](https://genefish.wordpress.com/2017/06/02/oly-assembly-try-2-its-yuuuuuuge/) as the necessary reference assembly when running Redundans.
 
 Since he had produced [a good looking assembly from PacBio data using Canu](2017/10/03/assembly-comparisons-olympia-oyster-genome-assemblies.html), I decided to give Redundans a rip using that assembly.
 
 I then compared all three Redundans runs using QUAST.
 
-Jupyter notebook (GitHub): [20171004_docker_oly_redundans.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171004_docker_oly_redundans.ipynb)
+Jupyter notebook (GitHub): [20171004_docker_oly_redundans.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171004_docker_oly_redundans.ipynb)
 
 Notebook is also embedded at the bottom of this notebook entry (but, it should be easier to view at the link provided above).
 
@@ -120,4 +120,4 @@ Interactive link: [https://owl.fish.washington.edu/Athaliana/quast_results/resul
 
 The scaffolds with the "Ns" removed from them are appended with "_broken" - meaning the scaffolds were broken apart into contigs. Things are certainly cleaner when using the `--scaffolds` option, however, as far as I can tell, QUAST doesn't actually generate a FASTA file with the "_broken" scaffolds!
 
-<iframe src="httpss://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171004_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171004_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

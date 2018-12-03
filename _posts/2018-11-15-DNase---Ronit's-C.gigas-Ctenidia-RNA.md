@@ -14,11 +14,11 @@ tags:
 categories:
   - Miscellaneous
 ---
-Ronit finished his RNA isolations for his ctenidia samples on [20181025](httpss://genefish.wordpress.com/2018/10/25/ronits-notebook-rna-extraction-for-c-gigas-desiccation-elevated-temperature-samples-round-2/) & [20181101](https://genefish.wordpress.com/2018/10/25/ronits-notebook-rna-extraction-for-c-gigas-desiccation-elevated-temperature-samples-round-2/), as well as quntification (he has no notebook entry for this, at this time). However, his Qubit data can be found in these two Google Sheets:
+Ronit finished his RNA isolations for his ctenidia samples on [20181025](https://genefish.wordpress.com/2018/10/25/ronits-notebook-rna-extraction-for-c-gigas-desiccation-elevated-temperature-samples-round-2/) & [20181101](https://genefish.wordpress.com/2018/10/25/ronits-notebook-rna-extraction-for-c-gigas-desiccation-elevated-temperature-samples-round-2/), as well as quntification (he has no notebook entry for this, at this time). However, his Qubit data can be found in these two Google Sheets:
 
-- [20181108_qubit_RNA_ronit_ctenidia](httpss://docs.google.com/spreadsheets/d/1fb3nVN85sMEAO5wM8O6li8Z9vDQXVXIAenzmig2WHUc/edit?usp=sharing)
+- [20181108_qubit_RNA_ronit_ctenidia](https://docs.google.com/spreadsheets/d/1fb3nVN85sMEAO5wM8O6li8Z9vDQXVXIAenzmig2WHUc/edit?usp=sharing)
 
-- [20181114_qubit_RNA_ronit_ctenidia_1-10_dilution](httpss://docs.google.com/spreadsheets/d/1guXLs2mq0uV8bXmEET2HAlxrT_isBa5UL1Y3yy0KgR8/edit?usp=sharing)
+- [20181114_qubit_RNA_ronit_ctenidia_1-10_dilution](https://docs.google.com/spreadsheets/d/1guXLs2mq0uV8bXmEET2HAlxrT_isBa5UL1Y3yy0KgR8/edit?usp=sharing)
 
 In preparation for reverse transcription, I DNased his samples using the Turbo DNA-free Kit (Ambion) according to the manufacturer's standard protocol.
 
@@ -28,10 +28,10 @@ NOTE: Sample T06 was very dilute, so performed a 60uL reaction instead of the st
 
 Calculations are here (Google Sheet):
 
-- [20181115_DNase_ronit_RNA_calcs](httpss://docs.google.com/spreadsheets/d/13GLxHpUqUpeHkAG_mozxHRveNY61DDz5Tau2HcniRgY/edit?usp=sharing)
+- [20181115_DNase_ronit_RNA_calcs](https://docs.google.com/spreadsheets/d/13GLxHpUqUpeHkAG_mozxHRveNY61DDz5Tau2HcniRgY/edit?usp=sharing)
 
 Ronit's master sheet (Google Sheet) is here:
 
-- [Exposure 8/29-8/30 C.Gigas](httpss://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
+- [Exposure 8/29-8/30 C.Gigas](https://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
 
 Will check these via qPCR to verify whether or not they have any detectable gDNA.

@@ -131,4 +131,4 @@ The second set of eight samples I processed range from amazing to poor (#68 was 
 
 I'll review the protocol, but at the moment I'm at a loss to explain why the first set of eight samples came up empty. Will perform another on these blocks on Monday. Grrrrr.
 
-Samples were stored at -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored at -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).

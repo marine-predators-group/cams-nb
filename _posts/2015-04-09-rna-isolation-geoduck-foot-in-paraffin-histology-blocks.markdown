@@ -71,7 +71,7 @@ Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following
 
 
 
-Samples were stored at -80C in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored at -80C in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
 NOTE: The spreadsheet linked indicates other samples exist in the slots that I placed these two samples. Will need to update the spreadsheet to be accurate.
 

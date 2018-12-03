@@ -82,7 +82,7 @@ Library Calcs (Google Sheet):
 
 
 
-  * [20180606_nextera_library_geoduck_metagenome_calcs](httpss://docs.google.com/spreadsheets/d/131Z45uaUycJhyZJRxbEVlOviyoGqV44GehUxaaOWcGo/edit?usp=sharing)
+  * [20180606_nextera_library_geoduck_metagenome_calcs](https://docs.google.com/spreadsheets/d/131Z45uaUycJhyZJRxbEVlOviyoGqV44GehUxaaOWcGo/edit?usp=sharing)
 
 
 
@@ -90,11 +90,11 @@ Links to the Illumina manuals are below:
 
 
 
-  * [Nextera DNA Flex Kit Manual (PDF)](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_nextera-dna-flex-library-prep-reference-guide-1000000025416-01_20180523.pdf)
+  * [Nextera DNA Flex Kit Manual (PDF)](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_nextera-dna-flex-library-prep-reference-guide-1000000025416-01_20180523.pdf)
 
 
 
-  * [Illumina Index Adapters Pooling Guide (PDF)](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_index-adapters-pooling-guide-1000000041074-02_20180523.pdf)
+  * [Illumina Index Adapters Pooling Guide (PDF)](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_index-adapters-pooling-guide-1000000041074-02_20180523.pdf)
 
 
 
@@ -113,7 +113,7 @@ Libraries were stored in the small -20C in FTR213:
 
 
 
-  * [Sam's gDNA Box #2](httpss://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing)
+  * [Sam's gDNA Box #2](https://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing)
 
 
 
@@ -142,7 +142,7 @@ Qubit Raw Data (Google Sheet):
 
 
 
-  * [20180606_qubit_geoduck_metagenome_libraries](httpss://docs.google.com/spreadsheets/d/1UzLYw0LIyN9SF9qs51Kk3Keozeqzor1RIjFKRPuzLwM/edit?usp=sharing)
+  * [20180606_qubit_geoduck_metagenome_libraries](https://docs.google.com/spreadsheets/d/1UzLYw0LIyN9SF9qs51Kk3Keozeqzor1RIjFKRPuzLwM/edit?usp=sharing)
 
 
 
@@ -180,7 +180,7 @@ This pooled sample was stored in the same -20C box as above, in position I4.
 
 UPDATE 20180808
 
-After some confusion with the sequencing facility, I contacted Illumina regarding adapter sequences. I used the sequences provided for the Nextera DNA 24 CD Indexes (which was the index kit we used) on p.18 of the [Illumina Index Adapter Pooling Guide](httpss://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/experiment-design/index-adapters-pooling-guide-1000000041074-02.pdf).
+After some confusion with the sequencing facility, I contacted Illumina regarding adapter sequences. I used the sequences provided for the Nextera DNA 24 CD Indexes (which was the index kit we used) on p.18 of the [Illumina Index Adapter Pooling Guide](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/experiment-design/index-adapters-pooling-guide-1000000041074-02.pdf).
 
 As it turns out, these sequences are incorrect. The correct sequences are on p.12 of that document (the Nextera DNA 96 CD Indexes).
 
@@ -217,7 +217,7 @@ Email from Illumina is below. Even though he specifically references the H705 ad
   
   Monday through Friday
   
-  Technical Bulletins: httpss://support.illumina.com/bulletins.html
+  Technical Bulletins: https://support.illumina.com/bulletins.html
   
   Trainings: https://support.illumina.com/traidexes
 </blockquote>

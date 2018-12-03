@@ -21,7 +21,7 @@ tags:
   - tanner crab
 ---
 
-We received [Grace's 100bp PE NovaSeq (Illumian) RNAseq data](httpss://grace-ac.github.io/Pooled-sample-handed-toNWGC/) from the Northwest Genomics Center today.
+We received [Grace's 100bp PE NovaSeq (Illumian) RNAseq data](https://grace-ac.github.io/Pooled-sample-handed-toNWGC/) from the Northwest Genomics Center today.
 
 Data was downloaded via their Aspera browser plugin and rsynced to:
 
@@ -76,6 +76,6 @@ Nightingales spreadsheet was updated with file info and FastQC info:
 
 
 
-  * [Nightingales (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 

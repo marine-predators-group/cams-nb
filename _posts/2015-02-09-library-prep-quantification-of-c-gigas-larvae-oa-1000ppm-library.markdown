@@ -27,7 +27,7 @@ The completed BS Illumina [library made on Friday](2015/02/06/bisulfite-ngs-libr
 
 Results:
 
-[20150209_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](httpss://docs.google.com/spreadsheets/d/1HhnEA6Wwj3Kci-Lsh0wE2OTCxEc56KCVC3PF8bHzvJM/edit?usp=sharing)
+[20150209_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](https://docs.google.com/spreadsheets/d/1HhnEA6Wwj3Kci-Lsh0wE2OTCxEc56KCVC3PF8bHzvJM/edit?usp=sharing)
 
 The good news is that the standard curve looked fine, with an R²=0.998.
 

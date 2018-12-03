@@ -20,10 +20,10 @@ tags:
   - Pacific oyster
 ---
 
-Samples were EtOH precipitated, [according to protocol](httpss://github.com/RobertsLab/resources/blob/master/protocols/ethanol_precipitation_DNA.md). Samples were resuspended in 20uL of Qiagen's EB and spec'd.
+Samples were EtOH precipitated, [according to protocol](https://github.com/RobertsLab/resources/blob/master/protocols/ethanol_precipitation_DNA.md). Samples were resuspended in 20uL of Qiagen's EB and spec'd.
 
 Samples are labeled as Parent (P), #, tissue, enzyme (MspI = M, HpaII = H, Undigested = U)
 
 Results:
 
-[Spreadsheet of spec values is here](httpss://spreadsheets0.google.com/ccc?key=tmPDf_Bcx7UJrLJ_TAdcy6g&hl=en#gid=0). Overall, poor recoveries from all of the digested samples, but decent recoveries from the undigested samples. The samples were passed to Mac who performed qPCR using two different primer sets. Please see her notebook for the results of the qPCR.
+[Spreadsheet of spec values is here](https://spreadsheets0.google.com/ccc?key=tmPDf_Bcx7UJrLJ_TAdcy6g&hl=en#gid=0). Overall, poor recoveries from all of the digested samples, but decent recoveries from the undigested samples. The samples were passed to Mac who performed qPCR using two different primer sets. Please see her notebook for the results of the qPCR.

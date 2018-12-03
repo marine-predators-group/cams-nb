@@ -46,11 +46,11 @@ Here's the best way to proceed:
 
 
 
-  1. Create a [BioProject](httpss://submit.ncbi.nlm.nih.gov/subs/bioproject/). This will sit at the top of the hierarchy in the SRA submission and will be displayed as the STUDY associated with the SRA.
+  1. Create a [BioProject](https://submit.ncbi.nlm.nih.gov/subs/bioproject/). This will sit at the top of the hierarchy in the SRA submission and will be displayed as the STUDY associated with the SRA.
 
 
 
-  2. Create [BioSample(s)](httpss://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
+  2. Create [BioSample(s)](https://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
 
 
 

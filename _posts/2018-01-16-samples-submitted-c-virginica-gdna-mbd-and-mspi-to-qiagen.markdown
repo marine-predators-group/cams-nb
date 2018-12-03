@@ -21,7 +21,7 @@ tags:
 
 Sent _Crassostrea virginica_ samples to Qiagen, as part of the collaboration we have with them for testing their new bisulfite conversion kit on various reduced representation DNA.
 
-Samples were sent on dry ice via FedEx International Priority: [771231112481](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=771231112481&clienttype=ivother)
+Samples were sent on dry ice via FedEx International Priority: [771231112481](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=771231112481&clienttype=ivother)
 
 Here are the samples I sent:
 
@@ -39,7 +39,7 @@ MspI digestions were performed using MspI (NEB) and were subjected to a phenol:c
 
 No tests have been performed on the samples to evaluate the presence/absence of non-oyster DNA.
 
-Reference genome is available here: [httpss://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/](https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/)
+Reference genome is available here: [https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/](https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2/)
 
 Notebook entries:
 

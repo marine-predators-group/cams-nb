@@ -52,7 +52,7 @@ DNA needed to be diluted. Diluted according to this sheet provided by Mac:
 
 NOTE: EV2.28 didn't have sufficient DNA left to prepare the dilution according to Mac's sheet. Instead, the remaining volume ofEv2.28 bisulfite DNA (0.5uL) was diluted in a total volume of 2.5uL to maintain the same dilution ratio.
 
-Master mix calcs are here: [20140828 - PCR Mac Bisulfite Samples](httpss://docs.google.com/spreadsheets/d/1X6no-kLxJw15cuo84dJc_JmHO_0445nJmSqvya6DiGE/edit?usp=sharing)
+Master mix calcs are here: [20140828 - PCR Mac Bisulfite Samples](https://docs.google.com/spreadsheets/d/1X6no-kLxJw15cuo84dJc_JmHO_0445nJmSqvya6DiGE/edit?usp=sharing)
 
 Primers used were:
 

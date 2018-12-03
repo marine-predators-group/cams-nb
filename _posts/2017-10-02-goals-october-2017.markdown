@@ -26,17 +26,17 @@ We took on the following tasks:
 
 
 
-  * "Decommission" the [LabDocs GitHub repo](httpss://github.com/sr320/LabDocs). This had been the canonical location for all of our online lab resources and had served as the starting point. However, it was not organized particularly well for what we were using it for, and was out of date in a number of places. Additionally, this is a personal GitHub repository of Steven's and it didn't make logical sense to use it as a dedicated lab repo.
+  * "Decommission" the [LabDocs GitHub repo](https://github.com/sr320/LabDocs). This had been the canonical location for all of our online lab resources and had served as the starting point. However, it was not organized particularly well for what we were using it for, and was out of date in a number of places. Additionally, this is a personal GitHub repository of Steven's and it didn't make logical sense to use it as a dedicated lab repo.
 
 
 
-As part of the decommission, we migrated all of the open issues (we used this great little web-based tool: [Issue Mover for GitHub](httpss://github-issue-mover.appspot.com/) to our organization's GitHub repository: [Roberts Lab @ SAFS](https://github.com/RobertsLab/)
+As part of the decommission, we migrated all of the open issues (we used this great little web-based tool: [Issue Mover for GitHub](https://github-issue-mover.appspot.com/) to our organization's GitHub repository: [Roberts Lab @ SAFS](https://github.com/RobertsLab/)
 
 
 
 
 
-  * A massive reorganization, updating, and cleansing of files. We now have separate repositories for our [onboarding practices](httpss://github.com/RobertsLab/onboarding)(including an official Lab Code of Conduct), [laboratory resources](https://github.com/RobertsLab/resources), and [code language="snippets"][/code](https://github.com/RobertsLab/code). Wiki pages have been created for each of these repos, and readme files have been created/updated to improve instructions on how to locate needed information. Overall, we feel it simplifies the ability for lab members to find the information they need.
+  * A massive reorganization, updating, and cleansing of files. We now have separate repositories for our [onboarding practices](https://github.com/RobertsLab/onboarding)(including an official Lab Code of Conduct), [laboratory resources](https://github.com/RobertsLab/resources), and [code language="snippets"][/code](https://github.com/RobertsLab/code). Wiki pages have been created for each of these repos, and readme files have been created/updated to improve instructions on how to locate needed information. Overall, we feel it simplifies the ability for lab members to find the information they need.
 
 
 
@@ -48,6 +48,6 @@ Anyway, on to the current stuff.
 
 Primary goal will be to perform a comparison of Olympia oyster genome assemblies.
 
-Next will be to continue generating a joint assembly of Illumina and PacBio sequencing data for the Olympia oyster genome. This will take over from [where Sean Bennett left off](httpss://genefish.wordpress.com/2017/06/27/seans-notebook-mummernucmer-error/).
+Next will be to continue generating a joint assembly of Illumina and PacBio sequencing data for the Olympia oyster genome. This will take over from [where Sean Bennett left off](https://genefish.wordpress.com/2017/06/27/seans-notebook-mummernucmer-error/).
 
 After that, writing my November 2017 goals...

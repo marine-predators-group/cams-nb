@@ -60,7 +60,7 @@ Used 10μL of each sample for measurement (see Results for update).
 
 
 
-Raw data (Google Sheet): [20180411_qubit_metagenomics_filters](httpss://docs.google.com/spreadsheets/d/1XhDeaiuDhYwRASOfXpE_7hf6CbAtZ2xv4eAJrJjasTU/edit?usp=sharing)
+Raw data (Google Sheet): [20180411_qubit_metagenomics_filters](https://docs.google.com/spreadsheets/d/1XhDeaiuDhYwRASOfXpE_7hf6CbAtZ2xv4eAJrJjasTU/edit?usp=sharing)
 
 <table >
 
@@ -109,4 +109,4 @@ Both samples have yielded DNA. This is, obviously, an improvement over the [prev
 
 Will discuss with Steven and get an idea of which filters to isolate additional DNA from.
 
-Samples were stored [Sam gDNA Box #2, positions G6 & G7.](httpss://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer)
+Samples were stored [Sam gDNA Box #2, positions G6 & G7.](https://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer)

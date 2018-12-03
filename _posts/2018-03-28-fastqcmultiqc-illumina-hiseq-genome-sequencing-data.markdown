@@ -45,6 +45,6 @@ MultiQC HTML report: [20180328_illumina_hiseq_geoduck_fastqc/multiqc_data/multiq
 
 Well, lots of fails. I high level of "Per Base N Content" (these are only warnings, but we also haven't received data with these warnings before). Also, they all fail in the "Overrepresented sequences" analysis.
 
-I'll run these through [TrimGalore!](httpss://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) (probably twice), and see how things change.
+I'll run these through [TrimGalore!](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) (probably twice), and see how things change.
 
 <iframe src="https://owl.fish.washington.edu/Athaliana/20180328_illumina_hiseq_geoduck_fastqc/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

@@ -20,7 +20,7 @@ tags:
   - Qubit dsDNA BR
 ---
 
-DNA was isolated from a single adult Eastern oyster (_Crassostrea virginica_) for a pilot project with Qiagen to test their new DNA bisulfite conversion kit. The oyster was obtained yesterday afternoon (20171210) from the [Taylo rShellfish Pioneer Square location](httpss://www.taylorshellfishfarms.com/location/pioneer-square). The oyster was stored @ 4C O/N.
+DNA was isolated from a single adult Eastern oyster (_Crassostrea virginica_) for a pilot project with Qiagen to test their new DNA bisulfite conversion kit. The oyster was obtained yesterday afternoon (20171210) from the [Taylo rShellfish Pioneer Square location](https://www.taylorshellfishfarms.com/location/pioneer-square). The oyster was stored @ 4C O/N.
 
 The oyster was shucked and four pieces of upper mantle tissue (~35mg each) were snap frozen in liquid nitrogen (LN2). Tissues were pulverized under LN2 and then DNA was isolated separately from each sample using the E.Z.N.A. Mollusc DNA Kit (Omega) according to the manufcaturer's protocol.
 
@@ -30,7 +30,7 @@ The gDNA was quantified using the Qubit 3.0 (Invitrogen) and Qubit dsDNA Broad R
 
 Results:
 
-Qubit (Google Sheet): [20171211_qubit_virginica_DNA](httpss://docs.google.com/spreadsheets/d/1C35zyjc10GNtBt-7z_BBr0Z_ArCZx91H5-Mc05C4evg/edit?usp=sharing)
+Qubit (Google Sheet): [20171211_qubit_virginica_DNA](https://docs.google.com/spreadsheets/d/1C35zyjc10GNtBt-7z_BBr0Z_ArCZx91H5-Mc05C4evg/edit?usp=sharing)
 
 Concentration is 58.4ng/uL.
 

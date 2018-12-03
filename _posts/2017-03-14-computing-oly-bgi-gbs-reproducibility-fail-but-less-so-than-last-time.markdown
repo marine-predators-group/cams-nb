@@ -56,4 +56,4 @@ I've contacted them for more info.
 
 See the Jupyter notebook linked below to see what I tried.
 
-Jupyter notebook (GitHub): [20170314_docker_Oly_BGI_GBS_demultiplexing_reproducibility.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20170314_docker_Oly_BGI_GBS_demultiplexing_reproducibility.ipynb)
+Jupyter notebook (GitHub): [20170314_docker_Oly_BGI_GBS_demultiplexing_reproducibility.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20170314_docker_Oly_BGI_GBS_demultiplexing_reproducibility.ipynb)

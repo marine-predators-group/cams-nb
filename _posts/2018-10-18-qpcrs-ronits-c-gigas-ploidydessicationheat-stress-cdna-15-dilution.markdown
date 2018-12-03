@@ -45,7 +45,7 @@ tags:
   - SsoFast EvaGreen Supermix
 ---
 
-IMPORTANT: The cDNA used for the qPCRs described below was a 1:5 dilution of [Ronit's cDNA made 20181017](2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna.html) with the following [primers](httpss://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)! Diluted cDNA was stored in his -20<sup>o</sup>C box with his original cDNA.
+IMPORTANT: The cDNA used for the qPCRs described below was a 1:5 dilution of [Ronit's cDNA made 20181017](2018/10/17/reverse-transcription-ronits-c-gigas-dnased-ctenidia-rna.html) with the following [primers](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)! Diluted cDNA was stored in his -20<sup>o</sup>C box with his original cDNA.
 
 The following primers were used:
 
@@ -159,7 +159,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181018_qPCR_Cgigas_ploidy_cDNA](httpss://docs.google.com/spreadsheets/d/1B6_yzSxigiw1Ra_sflRSxHJRtecaQvXo-_gDVp_TUyM/edit?usp=sharing)
+  * [20181018_qPCR_Cgigas_ploidy_cDNA](https://docs.google.com/spreadsheets/d/1B6_yzSxigiw1Ra_sflRSxHJRtecaQvXo-_gDVp_TUyM/edit?usp=sharing)
 
 
 

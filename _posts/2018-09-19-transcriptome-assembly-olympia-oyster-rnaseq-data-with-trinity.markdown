@@ -75,4 +75,4 @@ Trinity assembly (FastA):
 
 
 
-Next up, I'll [follow up on this GitHub issue](httpss://github.com/RobertsLab/resources/issues/356) and get some bedgraphs generated.
+Next up, I'll [follow up on this GitHub issue](https://github.com/RobertsLab/resources/issues/356) and get some bedgraphs generated.

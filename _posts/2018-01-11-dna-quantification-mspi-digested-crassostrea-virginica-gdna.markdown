@@ -25,7 +25,7 @@ Used 1μL of DNA from each sample (including [undigested gDNA from initial isola
 
 Results:
 
-Quantification (Google Sheet): [20180111_qubit_DNA_MspI_virginica](httpss://docs.google.com/spreadsheets/d/1SxPvPQLx2sXNSOSeT4bwEkqqSafSPaupKmy48OlJyow/edit?usp=sharing)
+Quantification (Google Sheet): [20180111_qubit_DNA_MspI_virginica](https://docs.google.com/spreadsheets/d/1SxPvPQLx2sXNSOSeT4bwEkqqSafSPaupKmy48OlJyow/edit?usp=sharing)
 
 Yields are good and are sufficient for submission to Qiagen:
 

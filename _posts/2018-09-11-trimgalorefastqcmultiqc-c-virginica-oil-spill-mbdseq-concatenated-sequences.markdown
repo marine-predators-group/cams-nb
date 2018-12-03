@@ -22,7 +22,7 @@ tags:
 
 [Previously concatenated and analyzed our _Crassostrea virginica_ oil spill MBDseq data with FastQC](2018/09/10/sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc.html).
 
-We decided to try improving things by [running them through TrimGalore! to remove adapters and poor quality sequences](httpss://github.com/RobertsLab/resources/issues/369).
+We decided to try improving things by [running them through TrimGalore! to remove adapters and poor quality sequences](https://github.com/RobertsLab/resources/issues/369).
 
 Processed the samples on Roadrunner (Apple Xserve; Ubuntu 16.04) using default TrimGalore! settings.
 
@@ -36,7 +36,7 @@ Jupyter Notebook (GitHub):
 
 
 
-  * [20180911_roadrunner_virginica_trimgalore.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180911_roadrunner_virginica_trimgalore.ipynb)
+  * [20180911_roadrunner_virginica_trimgalore.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180911_roadrunner_virginica_trimgalore.ipynb)
 
 
 
@@ -100,7 +100,7 @@ Overall, things look a bit better, but there are still some issues. Will likely 
 
 
 
-![](httpss://user-images.githubusercontent.com/4442039/45500147-d84d6a00-b732-11e8-816d-ff8bde235aba.png)
+![](https://user-images.githubusercontent.com/4442039/45500147-d84d6a00-b732-11e8-816d-ff8bde235aba.png)
 
 
 
@@ -114,7 +114,7 @@ Overall, things look a bit better, but there are still some issues. Will likely 
 
 
 
-![](httpss://user-images.githubusercontent.com/4514104/45501383-db962500-b735-11e8-895a-2caf8bd8cff9.png)
+![](https://user-images.githubusercontent.com/4514104/45501383-db962500-b735-11e8-895a-2caf8bd8cff9.png)
 
 
 
@@ -122,4 +122,4 @@ Overall, things look a bit better, but there are still some issues. Will likely 
 
 
 
-![](httpss://user-images.githubusercontent.com/4514104/45501387-dd5fe880-b735-11e8-86a7-9b0efc162a73.png)
+![](https://user-images.githubusercontent.com/4514104/45501387-dd5fe880-b735-11e8-86a7-9b0efc162a73.png)

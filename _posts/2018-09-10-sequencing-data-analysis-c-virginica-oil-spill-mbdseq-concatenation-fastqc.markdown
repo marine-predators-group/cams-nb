@@ -18,7 +18,7 @@ tags:
   - Xserve
 ---
 
-Per [Steven's request](httpss://github.com/RobertsLab/resources/issues/366), I concatenated our _Crassostrea virginica_ LSU oil spill MBDseq sequencing data and ran FastQC on the concatenated files.
+Per [Steven's request](https://github.com/RobertsLab/resources/issues/366), I concatenated our _Crassostrea virginica_ LSU oil spill MBDseq sequencing data and ran FastQC on the concatenated files.
 
 Here's the list of input files:
 
@@ -44,7 +44,7 @@ Jupyter notebook (GitHub):
 
 
 
-  * [20180910_roadrunner_virginica_fastqc.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180910_roadrunner_virginica_fastqc.ipynb)
+  * [20180910_roadrunner_virginica_fastqc.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180910_roadrunner_virginica_fastqc.ipynb)
 
 
 

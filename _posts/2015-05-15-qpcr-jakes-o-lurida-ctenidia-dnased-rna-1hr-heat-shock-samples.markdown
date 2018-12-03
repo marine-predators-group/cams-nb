@@ -58,9 +58,9 @@ Cycling params:
 
 
 
-Master mix calcs are here (used same calcs from the other day): [20150512_qPCR_Oly_RNA](httpss://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
+Master mix calcs are here (used same calcs from the other day): [20150512_qPCR_Oly_RNA](https://docs.google.com/spreadsheets/d/1-jUGGyD56GcA_uk07TFUEh2R0Y2e6DxeEzqdByTccJE/edit?usp=sharing)
 
-Plate layout: [20150514_qPCR_plate_Jake_Oly_1hr_HS_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1A4x_0wd2EhMo84msvb-dsLluARUU8ily0h6IQL_5V_k/edit?usp=sharing)
+Plate layout: [20150514_qPCR_plate_Jake_Oly_1hr_HS_DNased_RNA](https://docs.google.com/spreadsheets/d/1A4x_0wd2EhMo84msvb-dsLluARUU8ily0h6IQL_5V_k/edit?usp=sharing)
 
 
 
@@ -68,7 +68,7 @@ Results:
 
 qPCR Data File (Opticon): [Sam_20150514_170332.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150514_170332.tad)
 
-qPCR Report (Google Spreadsheeet): [20150514_qPCR_Report_Jake_Oly_DNased_1hr_HS_RNA](httpss://docs.google.com/spreadsheets/d/1DY3eA1Wh01TrcZ8DFX5Ij-EEDhPimYmWfUvsYGaxEc4/edit?usp=sharing)
+qPCR Report (Google Spreadsheeet): [20150514_qPCR_Report_Jake_Oly_DNased_1hr_HS_RNA](https://docs.google.com/spreadsheets/d/1DY3eA1Wh01TrcZ8DFX5Ij-EEDhPimYmWfUvsYGaxEc4/edit?usp=sharing)
 
 
 

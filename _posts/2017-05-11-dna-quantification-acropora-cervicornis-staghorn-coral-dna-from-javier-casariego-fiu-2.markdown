@@ -45,8 +45,8 @@ Results:
 
 One sample (2h Block 1) is still slightly too dilute in order to use the _recommended_ total amount of DNA for the methylation assay (100ng), but still falls well within the recommended range for the assay. Will proceed with the methylation assay for all samples.
 
-Values were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](httpss://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+Values were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
 
 
 
-Qubit output file (Google Sheet): [20170511_qubit_A_cervicornis_DNA](httpss://docs.google.com/spreadsheets/d/1tFWB1lCO0bSAb7TPxcgVvtGVO5jL5vY3uhytjIgLMbw/edit?usp=sharing)
+Qubit output file (Google Sheet): [20170511_qubit_A_cervicornis_DNA](https://docs.google.com/spreadsheets/d/1tFWB1lCO0bSAb7TPxcgVvtGVO5jL5vY3uhytjIgLMbw/edit?usp=sharing)

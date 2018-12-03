@@ -33,7 +33,7 @@ Results:
 
 qPCR Data File (Opticon): [20100111_180230.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_180230.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 
 
@@ -43,7 +43,7 @@ Results:
 
 qPCR Data File (Opticon): [20100111_141711.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_141711.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 
 
@@ -53,6 +53,6 @@ Results:
 
 qPCR Data File (Opticon): [20100111_102001.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20100111_102001.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 

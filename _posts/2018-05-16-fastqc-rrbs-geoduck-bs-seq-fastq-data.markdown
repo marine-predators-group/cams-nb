@@ -30,7 +30,7 @@ These libraries were originally created by Hollie Putnam using the TruSeq DNA Me
 
 
 
-  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)](httpss://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
+  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)](https://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
 
 
 
@@ -48,7 +48,7 @@ All analysis is documented in a Jupyter Notebook; see link below.
 
 
 
-  * [20180516_roadrunner_geoduck_EPI_fastqc](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_EPI_fastqc.ipynb)
+  * [20180516_roadrunner_geoduck_EPI_fastqc](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_EPI_fastqc.ipynb)
 
 
 

@@ -40,7 +40,7 @@ Done. Data from this was received 20150629.
 
 
 
-Little progress. No response from Univ. of Oregon. However, it seems that [Mac has been having a similar issue with libraries constructed using Epigentek kits](httpss://github.com/sr320/LabDocs/issues/117). She has contacted Illumina and Epigentek for help.
+Little progress. No response from Univ. of Oregon. However, it seems that [Mac has been having a similar issue with libraries constructed using Epigentek kits](https://github.com/sr320/LabDocs/issues/117). She has contacted Illumina and Epigentek for help.
 
 
 

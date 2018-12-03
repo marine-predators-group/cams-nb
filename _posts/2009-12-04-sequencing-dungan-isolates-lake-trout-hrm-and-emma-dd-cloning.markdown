@@ -18,4 +18,4 @@ tags:
   - Sanger sequencing
 ---
 
-Submitted 1.5 plates for Sanger sequencing. Dungan isolates prepared by me, Lake Trout HRM prepared by Rony and Emma's differential display cloning samples prepared by her. All primers were prepped by me. [See the sequencing log for samples and plate layout](httpss://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing).
+Submitted 1.5 plates for Sanger sequencing. Dungan isolates prepared by me, Lake Trout HRM prepared by Rony and Emma's differential display cloning samples prepared by her. All primers were prepped by me. [See the sequencing log for samples and plate layout](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing).

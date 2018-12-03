@@ -18,7 +18,7 @@ tags:
 
 As a collaborative writing platform, it also has issues.
 
-I recently received email notifications about comments made on the manuscript. However, [when visiting my manuscript on Authorea](httpss://www.authorea.com/users/4974/articles/149442-genotoype-by-sequencing-of-three-geographically-distinct-populations-of-the-olympia-oyster-ostrea-lurida), there are no indications that any comments have been made...
+I recently received email notifications about comments made on the manuscript. However, [when visiting my manuscript on Authorea](https://www.authorea.com/users/4974/articles/149442-genotoype-by-sequencing-of-three-geographically-distinct-populations-of-the-olympia-oyster-ostrea-lurida), there are no indications that any comments have been made...
 
 As it turns out, comments are currently only viewable when using Private Browsing/Incognito modes on your browser!!!
 

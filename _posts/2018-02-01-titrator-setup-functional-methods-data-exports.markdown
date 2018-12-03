@@ -55,7 +55,7 @@ The updated method resolves the following issues we were having (see annotated s
 
 
 
-I also modified the method to bring it up to spec with [the Dickson Guide to Best Practices for Ocean CO2 Measurements- SOP3b](httpss://github.com/RobertsLab/titrator/blob/master/protocols/Dickson_Guide_to_Best_Practices_for_Ocean_CO2_Measurements_2007.pdf):
+I also modified the method to bring it up to spec with [the Dickson Guide to Best Practices for Ocean CO2 Measurements- SOP3b](https://github.com/RobertsLab/titrator/blob/master/protocols/Dickson_Guide_to_Best_Practices_for_Ocean_CO2_Measurements_2007.pdf):
 
 
 
@@ -156,9 +156,9 @@ Now, the data gets automatically exported to my desired directory as soon as a L
 
 As we are very close to beginning to actually collect data with the titrator, I realized that all this data needs to go somewhere. Additionally, people need someplace to find out how to use all of this stuff (equipment, software, etc.).
 
-I created a new GitHub repo: [RobertsLab/titrator](httpss://github.com/RobertsLab/titrator)
+I created a new GitHub repo: [RobertsLab/titrator](https://github.com/RobertsLab/titrator)
 
-Please feel free to look through it and post any ideas to the [Issues section of the repo](httpss://github.com/RobertsLab/titrator/issues).
+Please feel free to look through it and post any ideas to the [Issues section of the repo](https://github.com/RobertsLab/titrator/issues).
 
 In my mind, this will be a "master" data repository for all measurements conducted on the titrator. All daily pH calibration data should get pushed to this repo. Any sample titration data should also end up on this repo. Basically, all the raw data coming off the machine each time it is used should end up in this repo. I think this will reduce data fragmentation (e.g. I perform measurements on a subset of samples one day and put the data in my folder on Owl. Then Grace performs measurements on the remaining samples and uploads those data to her folder on Owl. Now, the complete data set for an experiment is split between two different locations, making it difficult to find.)
 
@@ -198,4 +198,4 @@ Initial testing of the titrator (even without the full physical setup in place) 
 
 Although these things are not necessary in order to start acquiring data, they will be necessary for performing TA calculations and, eventually be desired for analyzing and reporting TA calculations in near real-time (the end goal is to have this titrator setup in a wet lab where water TA calculations can be determined on the spot, as opposed to being stored and analyzed at a later time).
 
-A to-do list is outlined here: [RobertsLab/titrator/issues/1](httpss://github.com/RobertsLab/titrator/issues/1)
+A to-do list is outlined here: [RobertsLab/titrator/issues/1](https://github.com/RobertsLab/titrator/issues/1)

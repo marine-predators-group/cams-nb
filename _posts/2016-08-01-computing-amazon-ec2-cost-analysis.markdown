@@ -111,7 +111,7 @@ Of course, these times don't take into account any technical issues that we migh
 
 
 
-Another potential option is trying out [InsideDNA](httpss://insidedna.me). They offer cloud computing services that are specifically geared towards high-throughput bioinformatics analysis. They have many, many bioinformatics tools already installed and available to use on their platform. Additionally, they have nice tutorials on how to use some of these tools, which goes a long ways in getting started on any analyses using new software. Here are the various pricing tiers that they offer:
+Another potential option is trying out [InsideDNA](https://insidedna.me). They offer cloud computing services that are specifically geared towards high-throughput bioinformatics analysis. They have many, many bioinformatics tools already installed and available to use on their platform. Additionally, they have nice tutorials on how to use some of these tools, which goes a long ways in getting started on any analyses using new software. Here are the various pricing tiers that they offer:
 
 
 

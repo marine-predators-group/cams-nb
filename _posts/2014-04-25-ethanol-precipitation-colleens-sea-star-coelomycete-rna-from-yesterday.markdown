@@ -35,7 +35,7 @@ Repeated wash and spin.
 
 Removed supe, resuspended RNA in 50uL of 0.1%DEPC-treated H2O and spec'd on NanoDrop1000.
 
-Samples were stored in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
 Results:
 

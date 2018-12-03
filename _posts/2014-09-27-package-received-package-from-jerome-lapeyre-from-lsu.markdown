@@ -17,6 +17,6 @@ tags:
 
 Oyster (_C.virginica_) gill samples exposed to "no oil" and "highest level of oil." Samples were stored in Rack #2 in the -80C. Images of the box label and included paperwork below.
 
-![](httpss://lh3.googleusercontent.com/-EL-OPyn1ojg/VCXci2JblmI/AAAAAAAAg8k/wy7WsUHOfzs/w1358-h764-no/DSC_0145.JPG)
+![](https://lh3.googleusercontent.com/-EL-OPyn1ojg/VCXci2JblmI/AAAAAAAAg8k/wy7WsUHOfzs/w1358-h764-no/DSC_0145.JPG)
 
-![](httpss://lh4.googleusercontent.com/-Rkq3lOf9CyU/VCXaqEltSaI/AAAAAAAAg9g/zNNLnNvekzM/w1358-h764-no/DSC_0143.JPG)
+![](https://lh4.googleusercontent.com/-Rkq3lOf9CyU/VCXaqEltSaI/AAAAAAAAg9g/zNNLnNvekzM/w1358-h764-no/DSC_0143.JPG)

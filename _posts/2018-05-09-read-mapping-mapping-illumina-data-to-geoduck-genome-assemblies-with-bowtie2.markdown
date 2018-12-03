@@ -20,7 +20,7 @@ tags:
 
 We have an upcoming meeting with Illumina to discuss how the geoduck genome project is coming along and to decide how we want to proceed.
 
-So, we wanted to get a quick idea of how well our [geoduck assemblies](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) are by performing some quick alignments using [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml).
+So, we wanted to get a quick idea of how well our [geoduck assemblies](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) are by performing some quick alignments using [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml).
 
 Used the following assemblies as references:
 
@@ -28,15 +28,15 @@ Used the following assemblies as references:
 
 
 
-  * [sn_ph_01](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : SuperNova assembly of 10x Genomics data
+  * [sn_ph_01](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : SuperNova assembly of 10x Genomics data
 
 
 
-  * [sparse_03](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : SparseAssembler assembly of BGI and Illumina project data
+  * [sparse_03](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : SparseAssembler assembly of BGI and Illumina project data
 
 
 
-  * [pga_02](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : Hi-C assembly of Phase Genomics data
+  * [pga_02](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) : Hi-C assembly of Phase Genomics data
 
 
 
@@ -51,7 +51,7 @@ Jupyter Notebook (GitHub):
 
 
 
-  * [20180508_roadrunner_geoduck_bowtie2_genome_mapping.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180508_roadrunner_geoduck_bowtie2_genome_mapping.ipynb)
+  * [20180508_roadrunner_geoduck_bowtie2_genome_mapping.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180508_roadrunner_geoduck_bowtie2_genome_mapping.ipynb)
 
 
 
@@ -105,7 +105,7 @@ Bowtie2 Genome Indexes:
 
 
 
-Bowtie2 [sn_ph_01](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
+Bowtie2 [sn_ph_01](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
 
 
 
@@ -115,7 +115,7 @@ Bowtie2 [sn_ph_01](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/As
 
 
 
-Bowtie2 [sparse_03](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
+Bowtie2 [sparse_03](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
 
 
 
@@ -125,7 +125,7 @@ Bowtie2 [sparse_03](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/A
 
 
 
-Bowtie2 [pga_02](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
+Bowtie2 [pga_02](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) alignment folder:
 
 
 
@@ -160,7 +160,7 @@ _All mapping data was pulled from the respective *.err file in the Bowtie2 align
 <tbody >
 <tr >
   
-<td >[sn_ph_01](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
+<td >[sn_ph_01](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
 </td>
   
 <td >SuperNova (10x)
@@ -171,7 +171,7 @@ _All mapping data was pulled from the respective *.err file in the Bowtie2 align
 </tr>
 <tr >
   
-<td >[sparse_03](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
+<td >[sparse_03](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
 </td>
   
 <td >SparseAssembler
@@ -182,7 +182,7 @@ _All mapping data was pulled from the respective *.err file in the Bowtie2 align
 </tr>
 <tr >
   
-<td >[pga_02](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
+<td >[pga_02](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
 </td>
   
 <td >Hi-C (Phase Genomics)

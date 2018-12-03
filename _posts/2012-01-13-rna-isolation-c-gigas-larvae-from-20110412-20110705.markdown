@@ -57,7 +57,7 @@ RNA was isolated from C.gigas larvae collected from Taylor Shellfish hatchery on
 
 Results:
 
-[Spreadsheet of OD readings is here](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdEt1XzlQc1AtdThjVktNSEVxck12cmc&hl=en_US#gid=0).
+[Spreadsheet of OD readings is here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdEt1XzlQc1AtdThjVktNSEVxck12cmc&hl=en_US#gid=0).
 
 Since samples were split into two (clear supernatant and grey goo), they were kept separate through the remainder of the process. Sample names are appended with "-1" or "-2". "-1" samples are grey goo samples and the "-2" samples are the clear supernatant samples.
 

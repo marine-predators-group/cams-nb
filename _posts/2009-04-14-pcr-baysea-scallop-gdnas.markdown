@@ -27,4 +27,4 @@ Used higher annealing temps to improve primer specificity, compared to yesterday
 
 See the PCR/plate set up link for samples. Hyperladder is placed between every 12 samples.
 
-Results: See this [Google Spreadsheet](httpss://spreadsheets.google.com/ccc?key=pwrSWt05L-jYWIFJ9BRI9Qg&hl=en) for a summary of the 4 gels from the last two days.
+Results: See this [Google Spreadsheet](https://spreadsheets.google.com/ccc?key=pwrSWt05L-jYWIFJ9BRI9Qg&hl=en) for a summary of the 4 gels from the last two days.

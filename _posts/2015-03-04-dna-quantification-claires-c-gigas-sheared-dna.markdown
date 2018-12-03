@@ -29,7 +29,7 @@ Plate was read on a Perkin Elmer plate reader using the Wallac software. The pla
 
 Results:
 
-Spreadsheet: [20150303_gigasHSshearedDNApico](httpss://docs.google.com/spreadsheets/d/16kRwiOanld9XuC-wfpbiTpcNgnFX_kTgVSoZiy-9ySg/edit?usp=sharing)
+Spreadsheet: [20150303_gigasHSshearedDNApico](https://docs.google.com/spreadsheets/d/16kRwiOanld9XuC-wfpbiTpcNgnFX_kTgVSoZiy-9ySg/edit?usp=sharing)
 
 
 

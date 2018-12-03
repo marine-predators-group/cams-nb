@@ -27,7 +27,7 @@ Oddly, it turns out that Katherine's version of the Meyer Lab 2bRAD protocol dif
 
 The file on the left is the one I was using and the one on the right is the file Katherine is using (NOTE: The file name's aren't exact because they were saved to the same directory and the numbers in the parentheses were appended to the file name automatically)
 
-I've updated [our copy of the protocol in our GitHub account](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf). However, Katherine informed me that she's just been pulling up the Meyer Lab page to reference the protocol. So, it's possible they made a change to the file after I initially downloaded it, but the change wasn't indicated in the file name.
+I've updated [our copy of the protocol in our GitHub account](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf). However, Katherine informed me that she's just been pulling up the Meyer Lab page to reference the protocol. So, it's possible they made a change to the file after I initially downloaded it, but the change wasn't indicated in the file name.
 
 https://people.oregonstate.edu/~meyere/docs/
 

@@ -21,7 +21,7 @@ tags:
 
 [We previously received sea lice (_Caligus tape_) DNA](2018/05/23/dna-received-sea-lice-dna-from-cris-gallardo-escarate-at-universidad-de-concepcion.html) from Cris Gallardo-Escarate at Universidad de Concepción.
 
-[Steven asked that I quantify and assess the DNA quality](httpss://github.com/RobertsLab/resources/issues/373).
+[Steven asked that I quantify and assess the DNA quality](https://github.com/RobertsLab/resources/issues/373).
 
 Ran the samples on the Roberts Lab Qubit 3.0 using the dsDNA BR assay (Invitrogen) and 1uL of template DNA.
 
@@ -45,7 +45,7 @@ Qubit data (Google Sheet):
 
 
 
-  * [20180912_qubit_DNA_sea_lice](httpss://docs.google.com/spreadsheets/d/1aYYhbSLXPKb81S3fn4fdfp2ZE-RzxlsLUs9tmTJutCQ/edit?usp=sharing)
+  * [20180912_qubit_DNA_sea_lice](https://docs.google.com/spreadsheets/d/1aYYhbSLXPKb81S3fn4fdfp2ZE-RzxlsLUs9tmTJutCQ/edit?usp=sharing)
 
 
 

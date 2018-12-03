@@ -52,7 +52,7 @@ Illumina sample info is here:
 
 
 
-  * [20180403GeoDuckSamples.csv (GitHub)](httpss://github.com/RobertsLab/project-geoduck-genome/blob/master/docs/20180403GeoDuckSamples.csv)
+  * [20180403GeoDuckSamples.csv (GitHub)](https://github.com/RobertsLab/project-geoduck-genome/blob/master/docs/20180403GeoDuckSamples.csv)
 
 
 
@@ -60,7 +60,7 @@ Will add info to:
 
 
 
-  * [Geoduck Genome Wiki (GitHub)](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Illumina-Effort)
+  * [Geoduck Genome Wiki (GitHub)](https://github.com/RobertsLab/project-geoduck-genome/wiki/Illumina-Effort)
 
 
 
@@ -68,7 +68,7 @@ Will add info to:
 
 
 
-  * [Nightingales spreadsheet (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 
 

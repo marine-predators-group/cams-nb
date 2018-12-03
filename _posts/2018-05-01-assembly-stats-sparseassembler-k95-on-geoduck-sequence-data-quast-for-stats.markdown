@@ -21,7 +21,7 @@ tags:
 
 [Had a successful assembly with SparseAssembler k101](2018/04/05/genome-assembly-sparseassembler-geoduck-genomic-data-kmer101.html), but figured I'd just tweak the kmer setting and throw it in the queue and see how it compares; minimal effort/time needed.
 
-Initiatied an assembly run using  [SparseAssembler](httpss://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
+Initiatied an assembly run using  [SparseAssembler](https://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
 
 
 
@@ -87,4 +87,4 @@ This assembly doesn't have a single contig >50,000bp, while the previous one has
 
 Definitely shows what a large impact the kmer setting in assembly software can have on the final assembly!
 
-<iframe src="httpss://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://owl.fish.washington.edu/Athaliana/quast_results/results_2018_05_10_15_04_07/report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

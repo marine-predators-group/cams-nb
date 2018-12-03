@@ -34,7 +34,7 @@ Isolated DNA from two of the [geoduck hatchery metagenome samples Emma delivered
 
 As mentioned in my notebook entry upon receipt of these samples, I'm a bit skeptical will get any sort of recovery, based on sample preservation.
 
-Isolated DNA using [DNAzol (MRC, Inc.)](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/MRC_DNAzol_GENOMIC_DNA_ISOLATION_REAGENT.pdf) in the following manner:
+Isolated DNA using [DNAzol (MRC, Inc.)](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/MRC_DNAzol_GENOMIC_DNA_ISOLATION_REAGENT.pdf) in the following manner:
 
 
 

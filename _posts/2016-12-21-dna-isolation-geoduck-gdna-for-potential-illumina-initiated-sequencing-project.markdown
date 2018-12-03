@@ -49,7 +49,7 @@ Used the E.Z.N.A. Mollusc Kit (Omega) to isolate DNA from two separate 50mg piec
 
 Quantified the DNA using the Qubit dsDNA BR Kit (Invitrogen). Used 1μL of DNA sample.
 
-Concentration = 19.4ng/μL (Quant data is here [Google Sheet]: [20161221_gDNA_qubit_quant](httpss://docs.google.com/spreadsheets/d/1DUiC0GsbBX1wsxAsAWh2_WV5wh8EwKNeELmqljlumCw/edit?usp=sharing)
+Concentration = 19.4ng/μL (Quant data is here [Google Sheet]: [20161221_gDNA_qubit_quant](https://docs.google.com/spreadsheets/d/1DUiC0GsbBX1wsxAsAWh2_WV5wh8EwKNeELmqljlumCw/edit?usp=sharing)
 
 Yield is low (~1.8μg), but have enough to satisfy the minimum of 1μg requested by Cindy Lawley.
 
@@ -63,7 +63,7 @@ Results:
 
 
 
-[![](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+[![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 
 

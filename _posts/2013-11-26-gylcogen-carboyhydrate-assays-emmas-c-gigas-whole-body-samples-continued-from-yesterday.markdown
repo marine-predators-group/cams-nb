@@ -23,4 +23,4 @@ Supernatant was removed and pellets were dried (inverted tubes for 30mins).
 
 Pellets were resuspended in 200uL H2O and stored @ -20C.
 
-Data spreadsheet is here: [20131125 - Oyster Glycogen Assay](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHVBZGtENzFkZTNMM3BCTVNZQm1Cd2c&usp=sharing)
+Data spreadsheet is here: [20131125 - Oyster Glycogen Assay](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHVBZGtENzFkZTNMM3BCTVNZQm1Cd2c&usp=sharing)

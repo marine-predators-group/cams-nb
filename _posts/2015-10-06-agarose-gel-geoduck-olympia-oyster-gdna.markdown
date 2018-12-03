@@ -37,7 +37,7 @@ Used 5μL of ladder.
 
 Results:
 
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_gel_annotated.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151005_gDNA_gel_annotated.jpg)
 

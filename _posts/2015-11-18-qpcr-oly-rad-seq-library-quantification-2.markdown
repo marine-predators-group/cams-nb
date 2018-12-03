@@ -23,7 +23,7 @@ tags:
   - RAD-seq
 ---
 
-After yesterday's attempt at quantification revealed insufficient dilution of the libraries, I repeated the qPCRs using 1:100000 dilutions of each of the libraries. [Used the KAPA Illumina Quantification Kit (KAPA Biosystems) according to the manufacturer’s protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/KAPA_Biosystems_KAPA_Library_Quantification_Illumina_Manual_July2014.pdf).
+After yesterday's attempt at quantification revealed insufficient dilution of the libraries, I repeated the qPCRs using 1:100000 dilutions of each of the libraries. [Used the KAPA Illumina Quantification Kit (KAPA Biosystems) according to the manufacturer’s protocol](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/KAPA_Biosystems_KAPA_Library_Quantification_Illumina_Manual_July2014.pdf).
 
 Made 1:100000 dilutions of each library were made with NanoPure H2O.
 
@@ -37,7 +37,7 @@ Results:
 
 qPCR Data File (Opticon2): [Sam_20151117_100745.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20151117_100745.tad)
 
-qPCR Data (Google Sheet): [20151117_RAD_qPCR_data](httpss://docs.google.com/spreadsheets/d/1z7UAWm56JkQI04LKJ92dsWFhC0IFR-a9065aLP2jmso/edit?usp=sharing)
+qPCR Data (Google Sheet): [20151117_RAD_qPCR_data](https://docs.google.com/spreadsheets/d/1z7UAWm56JkQI04LKJ92dsWFhC0IFR-a9065aLP2jmso/edit?usp=sharing)
 
 Overall, the new dilutions worked well, with all the library samples coming up between Ct 9 - 15, which is well within the range of the standard curve.
 

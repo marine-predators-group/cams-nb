@@ -203,7 +203,7 @@ Mean fluorescence of the standards were plotted with a best-fit line. The result
 
 Calcs and resulting quantities are here:
 
-[httpss://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e7EF05akWeBtO7Xz0UWXhIzRlkVU5HA_rjCE3c4SPEw/edit?usp=sharing)
 
 ``
 

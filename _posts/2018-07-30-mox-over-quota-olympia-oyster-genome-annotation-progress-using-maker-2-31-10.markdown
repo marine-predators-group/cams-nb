@@ -21,7 +21,7 @@ tags:
 
 
 
-Per this [GitHub Issue](httpss://github.com/RobertsLab/resources/issues/324), Steven has cleared out files.
+Per this [GitHub Issue](https://github.com/RobertsLab/resources/issues/324), Steven has cleared out files.
 
 Additionally, it appears that my job has just continued from where it was stuck. Very nice!
 

@@ -18,7 +18,7 @@ Uh oh. There appears to be some data that's been removed from Owl. I noticed thi
 
 [![](https://owl.fish.washington.edu/Athaliana/20171023_scaphapoda_directory.png)](http://owl.fish.washington.edu/Athaliana/20171023_scaphapoda_directory.png)
 
-Luckily, things are backed up using [UW Google Drive](httpss://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk?usp=sharing):
+Luckily, things are backed up using [UW Google Drive](https://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk?usp=sharing):
 
 [![](https://owl.fish.washington.edu/Athaliana/20171023_scaphapoda_directory_drive.png)](http://owl.fish.washington.edu/Athaliana/20171023_scaphapoda_directory_drive.png)
 

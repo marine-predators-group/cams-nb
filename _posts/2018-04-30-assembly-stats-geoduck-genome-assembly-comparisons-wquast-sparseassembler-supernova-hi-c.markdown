@@ -18,7 +18,7 @@ tags:
   - QUAST
 ---
 
-[Steven requested a comparison of geoduck genome assemblies](httpss://github.com/RobertsLab/resources/issues/235).
+[Steven requested a comparison of geoduck genome assemblies](https://github.com/RobertsLab/resources/issues/235).
 
 Ran the following Quast command:
 

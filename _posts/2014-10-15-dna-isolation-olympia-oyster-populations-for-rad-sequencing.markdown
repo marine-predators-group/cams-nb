@@ -26,7 +26,7 @@ DNA was eluted once with 200uL of Buffer AE and stored @ 4C.
 
 Plate is called: Oly Oyster gDNA-01
 
-Plate layout can be found here: [20141022-OlyRADdnaConcentrations](httpss://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
+Plate layout can be found here: [20141022-OlyRADdnaConcentrations](https://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit?usp=sharing)
 
 _UPDATE 20141017_
 

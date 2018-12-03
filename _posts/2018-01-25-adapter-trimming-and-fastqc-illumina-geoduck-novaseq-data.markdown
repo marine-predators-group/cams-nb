@@ -23,7 +23,7 @@ tags:
 
 We would like to get an assembly of the geoduck NovaSeq data that Illumina provided us with.
 
-[Steven previously ran the raw data through FASTQC](httpss://sr320.github.io/Illumina-Summary/) and there was a significant amount of adapter contamination (up to 44% in some libraries) present ([see his FASTQC report here](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15b/multiqc_report.html)).
+[Steven previously ran the raw data through FASTQC](https://sr320.github.io/Illumina-Summary/) and there was a significant amount of adapter contamination (up to 44% in some libraries) present ([see his FASTQC report here](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15b/multiqc_report.html)).
 
 So, I trimmed them using TrimGalore and re-ran FASTQC on them.
 
@@ -100,6 +100,6 @@ For the astute observer, you might notice the "Per Base Sequence Content" genera
 
 
 
-Jupyter Notebook (GitHub): [20180125_roadrunner_trimming_geoduck_novaseq.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180125_roadrunner_trimming_geoduck_novaseq.ipynb)
+Jupyter Notebook (GitHub): [20180125_roadrunner_trimming_geoduck_novaseq.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180125_roadrunner_trimming_geoduck_novaseq.ipynb)
 
-<iframe src="httpss://render.githubusercontent.com/view/ipynb?commit=4776dd87980bb1e99159dff31429a5a9deac9f48&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f343737366464383739383062623165393931353964666633313432396135613964656163396634382f6a7570797465725f6e62732f73616d2f32303138303132355f726f616472756e6e65725f7472696d6d696e675f67656f6475636b5f6e6f76617365712e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20180125_roadrunner_trimming_geoduck_novaseq.ipynb&repository;_id=13746500&repository;_type=Repository#13978f4e-90d1-41ac-9320-cddebbb90252" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://render.githubusercontent.com/view/ipynb?commit=4776dd87980bb1e99159dff31429a5a9deac9f48&enc;_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f343737366464383739383062623165393931353964666633313432396135613964656163396634382f6a7570797465725f6e62732f73616d2f32303138303132355f726f616472756e6e65725f7472696d6d696e675f67656f6475636b5f6e6f76617365712e6970796e62&nwo;=sr320%2FLabDocs&path;=jupyter_nbs%2Fsam%2F20180125_roadrunner_trimming_geoduck_novaseq.ipynb&repository;_id=13746500&repository;_type=Repository#13978f4e-90d1-41ac-9320-cddebbb90252" width="100%" same_height_as="window" scrolling="yes"></iframe>

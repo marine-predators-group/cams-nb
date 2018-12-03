@@ -58,7 +58,7 @@ Will restart tonight once Mox is back online.
 
 
 
-OK, here we go! Initiatied an assembly run using  [SparseAssembler](httpss://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
+OK, here we go! Initiatied an assembly run using  [SparseAssembler](https://github.com/yechengxi/SparseAssembler) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki) on all of our geoduck genomic sequencing data:
 
 
 
@@ -260,4 +260,4 @@ Slurm output files:
 
 SparseAssembler Assembly (FASTA): [Contigs.txt](https://owl.fish.washington.edu/Athaliana/20180405_sparseassembler_kmer101_geoduck/Contigs.txt)
 
-Added this to the [GitHub wiki for our geoduck genome assemblies.](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)
+Added this to the [GitHub wiki for our geoduck genome assemblies.](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies)

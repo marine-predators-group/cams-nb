@@ -45,4 +45,4 @@ This result does NOT agree with what is entered in our Primer Database. As enter
 
 Emma has previously run a conventional PCR with these primers and ran a gel (see below). At the time, it was thought to be contamination, but in retrospect (knowing the results of the qPCRs and the BLAST results) it seems likely that what she's seeing in the negative controls was actually primer dimer, which was the same size of her PCR product (which she thought should be larger). Additionally, the gel was difficult to interpret because no ladder was run. A ladder might have revealed that her PCR product was half the size that she was expecting:
 
-![](httpss://img.skitch.com/20110429-nqk65dm89m3ceqpm9672a5q1jj.jpg)
+![](https://img.skitch.com/20110429-nqk65dm89m3ceqpm9672a5q1jj.jpg)

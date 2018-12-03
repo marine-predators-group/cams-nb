@@ -30,7 +30,7 @@ RNA has been isolated and DNased from Jake's mechanically stressed samples.
 
 
 
-Improved organization of -80C, added frequently used protocols to [the Roberts Lab GitHub Wiki](httpss://github.com/sr320/LabDocs/wiki), connected BGI rep with purchasing to get the PO situation figured out for Olympia oyster and geoduck genome sequencing, sent samples to BGI for Olympia oyster genome-by-sequencing (GBS).
+Improved organization of -80C, added frequently used protocols to [the Roberts Lab GitHub Wiki](https://github.com/sr320/LabDocs/wiki), connected BGI rep with purchasing to get the PO situation figured out for Olympia oyster and geoduck genome sequencing, sent samples to BGI for Olympia oyster genome-by-sequencing (GBS).
 
 
 

@@ -21,9 +21,9 @@ tags:
   - transposable elements
 ---
 
-[I previously performed this analysis](2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07.html) using a different version of our _Ostrea lurida_ genome assembly. [Steven asked that I repeat the analysis with a modified version of the genome assembly (Olurida_v081)](httpss://github.com/RobertsLab/resources/issues/265#issuecomment-401055771) - only has contigs >1000bp in length.
+[I previously performed this analysis](2018/05/23/transposable-element-mapping-olympia-oyster-genome-assembly-using-repeatmasker-4-07.html) using a different version of our _Ostrea lurida_ genome assembly. [Steven asked that I repeat the analysis with a modified version of the genome assembly (Olurida_v081)](https://github.com/RobertsLab/resources/issues/265#issuecomment-401055771) - only has contigs >1000bp in length.
 
-Genome used: [Olurida_v081](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
+Genome used: [Olurida_v081](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-1)
 
 I ran RepeatMasker (v4.07) with RepBase-20170127 and RMBlast 2.6.0 four times:
 
@@ -89,7 +89,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180702_roadrunner_oly_TEs_repeatmasker.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180702_roadrunner_oly_TEs_repeatmasker.ipynb)
+  * [20180702_roadrunner_oly_TEs_repeatmasker.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180702_roadrunner_oly_TEs_repeatmasker.ipynb)
 
 
 

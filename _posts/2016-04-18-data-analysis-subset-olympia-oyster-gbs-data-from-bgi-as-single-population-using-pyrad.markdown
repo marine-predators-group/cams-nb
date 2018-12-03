@@ -22,7 +22,7 @@ tags:
   - SNPs
 ---
 
-Attempting to get some sort of analysis of the _Ostrea lurida_ [GBS data from BGI](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015), particularly since [the last run at it using Stacks](2016/04/06/data-analysis-oly-gbs-data-from-bgi.html) crashed (literally) and burned (not literally).
+Attempting to get some sort of analysis of the _Ostrea lurida_ [GBS data from BGI](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015), particularly since [the last run at it using Stacks](2016/04/06/data-analysis-oly-gbs-data-from-bgi.html) crashed (literally) and burned (not literally).
 
 Katherine Silliman at UIC recommended using [PyRAD](https://dereneaton.com/software/pyrad/).
 
@@ -34,7 +34,7 @@ Overall, I don't fully understand the results. However, this seems to be the qui
 
 28 individuals, 36424 loci, 72251 snps
 
-Additionally, I did run into an issue when I tried to visualize the data (using the *.vcf file generated) in IGV (see screen cap below). [I've posted the issue to the pyrad GitHub repo](httpss://github.com/dereneaton/pyrad/issues/29) in hopes of getting it resolved.
+Additionally, I did run into an issue when I tried to visualize the data (using the *.vcf file generated) in IGV (see screen cap below). [I've posted the issue to the pyrad GitHub repo](https://github.com/dereneaton/pyrad/issues/29) in hopes of getting it resolved.
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20160419_IGV_pyrad_vcf_index_error.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160419_IGV_pyrad_vcf_index_error.jpg)
 

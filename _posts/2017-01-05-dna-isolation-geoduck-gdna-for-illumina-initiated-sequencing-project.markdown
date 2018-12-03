@@ -51,7 +51,7 @@ Used the E.Z.N.A. Mollusc Kit (Omega) to isolate DNA from five separate ~60mg pi
 
 Quantified the DNA using the Qubit dsDNA BR Kit (Invitrogen). Used 1μL of DNA sample.
 
-Concentration = 162ng/μL (Quant data is here [Google Sheet]: [20170105_gDNA_geoduck_qubit_quant](httpss://docs.google.com/spreadsheets/d/1BlTd-weYoZCDyhR99OZRdtD5n8ySe2baKjeRepmhvNM/edit?usp=sharing)
+Concentration = 162ng/μL (Quant data is here [Google Sheet]: [20170105_gDNA_geoduck_qubit_quant](https://docs.google.com/spreadsheets/d/1BlTd-weYoZCDyhR99OZRdtD5n8ySe2baKjeRepmhvNM/edit?usp=sharing)
 
 Yield is great (total = ~32μg).
 
@@ -65,7 +65,7 @@ Results:
 
 
 
-[![](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+[![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20170105_gel_geoduck_gDNA.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20170105_gel_geoduck_gDNA.jpg)
 

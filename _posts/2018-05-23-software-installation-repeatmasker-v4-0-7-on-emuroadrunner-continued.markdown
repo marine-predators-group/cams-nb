@@ -27,7 +27,7 @@ This fact took me a fair amount of time to figure out. Finally, after a couple o
 
 ![](https://owl.fish.washington.edu/Athaliana/20180523_rmblast_install_01.png)
 
-Additionally, I couldn't find the location of the various BLAST executables. Some internet sleuthing led me to the [NCBI page on installing BLAST+ from source](httpss://www.ncbi.nlm.nih.gov/books/NBK279671/), which indicates that the executables are stored in:
+Additionally, I couldn't find the location of the various BLAST executables. Some internet sleuthing led me to the [NCBI page on installing BLAST+ from source](https://www.ncbi.nlm.nih.gov/books/NBK279671/), which indicates that the executables are stored in:
 
 
     

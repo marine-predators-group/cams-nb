@@ -21,7 +21,7 @@ tags:
 
 Quantified [the DNA we received from Jose on 20160615](2016/06/15/samples-received-coral-dna-from-jose-m-eirin-lopez-florida-international-university.html) using the Qubit 3.0 Flouorometer (ThermoFisher) with the dsDNA Broad Range (BR) Kit according to the manufacturer's protocol. Used 1μL of each sample.
 
-Results are here (Google Sheet): [Coral_DNA_QubitData_2016-06-30_08-45-56.xls](httpss://docs.google.com/spreadsheets/d/1NlF2_GxkP2VReBBAMZR_COSDtG-4n9gSnzgilVSdpK0/edit?usp=sharing)
+Results are here (Google Sheet): [Coral_DNA_QubitData_2016-06-30_08-45-56.xls](https://docs.google.com/spreadsheets/d/1NlF2_GxkP2VReBBAMZR_COSDtG-4n9gSnzgilVSdpK0/edit?usp=sharing)
 
 Here is a table of sample concentrations:
 

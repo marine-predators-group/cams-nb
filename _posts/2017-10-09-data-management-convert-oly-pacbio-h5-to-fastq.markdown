@@ -19,7 +19,7 @@ tags:
 
 After working with all of this Olympia oyster genome sequencing data, I remembered that we had an old, singular PacBio SMRT cell file (from June 2013). This file didn't seem to be included in any recent assemblies of Sean's or mine. This is most likely because we have it in the PacBio H5 format and not in FASTQ.
 
-I installed [PacBio's pbh5tools](httpss://github.com/PacificBiosciences/pbh5tools) on my computer (swoose), converted the file and moved it to owl/nightingales/O_lurida
+I installed [PacBio's pbh5tools](https://github.com/PacificBiosciences/pbh5tools) on my computer (swoose), converted the file and moved it to owl/nightingales/O_lurida
 
 
     
@@ -37,6 +37,6 @@ I generated an MD5 checksum and appended to the `checksums.md5` file in /owl/nig
 
 The command above pipes the output to awk to format the output to match the existing format of the `checksums.md5` file (i.e. filename = hash).
 
-I've also updated our [Nightingales spreadsheet (Google Sheet)](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) to reflect this.
+I've also updated our [Nightingales spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) to reflect this.
 
 Will generate updated PacBio assemblies with Canu and/or Racon.

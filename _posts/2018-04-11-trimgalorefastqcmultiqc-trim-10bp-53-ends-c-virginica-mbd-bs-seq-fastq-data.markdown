@@ -21,7 +21,7 @@ tags:
   - ZymoResearch
 ---
 
-Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](httpss://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) Since this is the next step in our pipeline, we figured we should probably just follow their recommendations!
+Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](https://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) Since this is the next step in our pipeline, we figured we should probably just follow their recommendations!
 
 TrimGalore job script:
 

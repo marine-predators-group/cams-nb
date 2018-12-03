@@ -43,6 +43,6 @@ The two pools were shipped O/N on dry ice.
 
 
 
-Calculations (Google Sheet): [20150601_Geoduck_GENEWIZ_calcs](httpss://docs.google.com/spreadsheets/d/1cqVdYkTjzxc0TI2RV7EAxwO9_yqlKrvWSs4EIDC0WdY/edit?usp=sharing)
+Calculations (Google Sheet): [20150601_Geoduck_GENEWIZ_calcs](https://docs.google.com/spreadsheets/d/1cqVdYkTjzxc0TI2RV7EAxwO9_yqlKrvWSs4EIDC0WdY/edit?usp=sharing)
 
 

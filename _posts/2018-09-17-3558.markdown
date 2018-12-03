@@ -29,7 +29,7 @@ Isolated RNA from three crab hemolymph samples preserved in RNAlater (Test 1, Te
 
 Samples were provided by Grace.
 
-I believe the primary purpose for this particular test was to verify that the freeze dryer was a feasible tool, since [Grace experienced a minor mishap when she attempted the lyohpilization initially](httpss://genefish.wordpress.com/2018/09/11/graces-notebook-samples-in-lyophilizer-got-all-over-the-place/).
+I believe the primary purpose for this particular test was to verify that the freeze dryer was a feasible tool, since [Grace experienced a minor mishap when she attempted the lyohpilization initially](https://genefish.wordpress.com/2018/09/11/graces-notebook-samples-in-lyophilizer-got-all-over-the-place/).
 
 Lyophilization was successful, without any mess.
 
@@ -71,7 +71,7 @@ Qubit (Google Sheet):
 
 
 
-  * [20180912_qubit_RNA_lyophilized_crab_hemo](httpss://docs.google.com/spreadsheets/d/1eNshxAyRADiOWu1o0Z1ayVpT6PMCM2mvQGhP9_bs82w/edit?usp=sharing)
+  * [20180912_qubit_RNA_lyophilized_crab_hemo](https://docs.google.com/spreadsheets/d/1eNshxAyRADiOWu1o0Z1ayVpT6PMCM2mvQGhP9_bs82w/edit?usp=sharing)
 
 
 

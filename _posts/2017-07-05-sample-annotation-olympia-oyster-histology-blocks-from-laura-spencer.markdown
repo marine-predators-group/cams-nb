@@ -35,9 +35,9 @@ tags:
 
 I've been asked to isolate RNA from some paraffin-embedded Olympia oyster gonad tissue.
 
-Despite some excellent documentation by Laura Spencer ([images of tissue layouts in histology cassettes](httpss://github.com/laurahspencer/LabNotebook/blob/master/_posts/2017-04-20-Prepping-Histology-Samples.md) and [a corresponding cassette mapping key file](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Data/2017-April-HistoKey.pdf)), the histology facility seems to have flipped some things around and/or repositioned/split the contents of each cassette. This makes ID-ing the proper tissues tedious and, at times, difficult.
+Despite some excellent documentation by Laura Spencer ([images of tissue layouts in histology cassettes](https://github.com/laurahspencer/LabNotebook/blob/master/_posts/2017-04-20-Prepping-Histology-Samples.md) and [a corresponding cassette mapping key file](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Data/2017-April-HistoKey.pdf)), the histology facility seems to have flipped some things around and/or repositioned/split the contents of each cassette. This makes ID-ing the proper tissues tedious and, at times, difficult.
 
-The list of tissues that needs to be processed is listed in this [GitHub Issue #648](httpss://github.com/sr320/LabDocs/issues/648). I've also added the list below:
+The list of tissues that needs to be processed is listed in this [GitHub Issue #648](https://github.com/sr320/LabDocs/issues/648). I've also added the list below:
 
 NF-10 22
 NF-10-23
@@ -54,11 +54,11 @@ SN-10-31
 
 Prior to beginning RNA isolations, I have annotated images of the histology blocks and will be waiting for Laura to confirm that my annotations are correct. I will be posting a link to this notebook entry in the GitHub issue listed above for her to view and wait for her confirmation.
 
-UPDATE 201700707 - Laura has indicated that many of my annotations are incorrect. Katie has gone through and made proper identification: [httpss://github.com/sr320/LabDocs/issues/648#issuecomment-313792588](https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
+UPDATE 201700707 - Laura has indicated that many of my annotations are incorrect. Katie has gone through and made proper identification: [https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588](https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
 
 
 
-Additionally, as indicated in the GitHub Issue above, [histology block "Oly 14" does not have a corresponding tissue cassette photo](httpss://github.com/sr320/LabDocs/issues/648#issuecomment-313213160) (containing sample NF-10 26). Without the original image, I don't think I can make an accurate guess on how the tissues are oriented in the resulting two histo blocks (see below).
+Additionally, as indicated in the GitHub Issue above, [histology block "Oly 14" does not have a corresponding tissue cassette photo](https://github.com/sr320/LabDocs/issues/648#issuecomment-313213160) (containing sample NF-10 26). Without the original image, I don't think I can make an accurate guess on how the tissues are oriented in the resulting two histo blocks (see below).
 
 
 

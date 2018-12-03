@@ -23,11 +23,11 @@ tags:
 
 Used a subset (10 samples) from [the _Ostrea lurida_ gDNA isolated 20150916](2015/09/16/dna-isolation-olympia-oyster-whole-body.html) to prepare RAD libraries. This will be done to assess whether or not these samples, [which appear to be heavily degraded](2015/09/17/agarose-gel-olympia-oyster-whole-body-gdna-integrity-check.html), are viable for RAD-seq.
 
-Followed the [2bRAD protocol (PDF) developed by Eli Meyer's lab](httpss://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
+Followed the [2bRAD protocol (PDF) developed by Eli Meyer's lab](https://github.com/sr320/LabDocs/blob/master/protocols/External_Protocols/2bRAD_11Aug2015.pdf).
 
 Prepared 1.2μg of each of the following samples in a volume of 10μL:
 
-Google Sheet: [20150930_RADseq_DNA_calcs](httpss://docs.google.com/spreadsheets/d/1k8VtHUbHCHtXkKFj6296UqQK9wj3J5Q7lafTa7nRIv0/edit?usp=sharing)
+Google Sheet: [20150930_RADseq_DNA_calcs](https://docs.google.com/spreadsheets/d/1k8VtHUbHCHtXkKFj6296UqQK9wj3J5Q7lafTa7nRIv0/edit?usp=sharing)
 
 
 

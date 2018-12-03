@@ -24,7 +24,7 @@ After the discovery that there wasn't any DNA in the BS-seq Illumina library pre
 
 Results:
 
-Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](httpss://docs.google.com/spreadsheets/d/1Ao-drpl7f-5HCsDhRtMIvdQws4Gpt2ro-8nEXGZjHeE/edit?usp=sharing)
+Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](https://docs.google.com/spreadsheets/d/1Ao-drpl7f-5HCsDhRtMIvdQws4Gpt2ro-8nEXGZjHeE/edit?usp=sharing)
 
 
 

@@ -26,7 +26,7 @@ Sample sheet (Google Sheet):
 
 
 
-  * [Roberts_2017AdultExposureSampleInfo](httpss://docs.google.com/spreadsheets/d/1gEtDe5ogUpn0nYC0dn_cGdx_1l0UI2Z6kczU5UdBY4M/edit?usp=sharing)
+  * [Roberts_2017AdultExposureSampleInfo](https://docs.google.com/spreadsheets/d/1gEtDe5ogUpn0nYC0dn_cGdx_1l0UI2Z6kczU5UdBY4M/edit?usp=sharing)
 
 
 
@@ -36,6 +36,6 @@ Samples were stored in -80oC:
 
 
 
-  * [Rack 9, Column 4, Row 2](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
+  * [Rack 9, Column 4, Row 2](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
 
 

@@ -77,9 +77,9 @@ Briefly:
 
 
 
-Samples were stored @ -80C in [Shellfish RNA Box #6](httpss://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing). Will quantify at a later date.
+Samples were stored @ -80C in [Shellfish RNA Box #6](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing). Will quantify at a later date.
 
-DNase reaction calcs: [20150727_Jake_Oly_mech_stress_DNase_calcs](httpss://docs.google.com/spreadsheets/d/1o5Ri2POi4R-ZsPGQvT4AFgl6CK8lsdID74GwE7ZJjFI/edit?usp=sharing)
+DNase reaction calcs: [20150727_Jake_Oly_mech_stress_DNase_calcs](https://docs.google.com/spreadsheets/d/1o5Ri2POi4R-ZsPGQvT4AFgl6CK8lsdID74GwE7ZJjFI/edit?usp=sharing)
 
 
 

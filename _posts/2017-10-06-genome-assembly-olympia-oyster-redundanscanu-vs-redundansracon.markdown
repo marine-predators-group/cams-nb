@@ -23,7 +23,7 @@ tags:
 
 Decided to compare the Redundans using Canu as reference and Redundans using Racon as reference. Both reference assemblies were just our PacBio data.
 
-Jupyter notebook (GitHub): [20171005_docker_oly_redundans.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb)
+Jupyter notebook (GitHub): [20171005_docker_oly_redundans.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb)
 
 Notebook is also embedded at the end of this post.
 
@@ -106,4 +106,4 @@ Interactive link: [https://owl.fish.washington.edu/Athaliana/quast_results/resul
 
 [![](https://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)](http://owl.fish.washington.edu/Athaliana/20171005_%20quast_redundans_02.png)
 
-<iframe src="httpss://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171005_docker_oly_redundans.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

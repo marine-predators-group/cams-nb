@@ -19,7 +19,7 @@ tags:
   - QUAST
 ---
 
-[Steven asked me to create a couple of subsets of our Phase Genomics Hi-C geoduck genome assembly (pga_02)](httpss://github.com/RobertsLab/resources/issues/259):
+[Steven asked me to create a couple of subsets of our Phase Genomics Hi-C geoduck genome assembly (pga_02)](https://github.com/RobertsLab/resources/issues/259):
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-I used [pyfaidx](httpss://github.com/mdshw5/pyfaidx) on Roadrunner and the following commands:
+I used [pyfaidx](https://github.com/mdshw5/pyfaidx) on Roadrunner and the following commands:
 
 
     

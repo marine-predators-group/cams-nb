@@ -13,14 +13,14 @@ tags:
 categories:
   - Miscellaneous
 ---
-In preparation for designing primers for [developing a geoduck vitellogenin qPCR assay](httpss://github.com/RobertsLab/resources/issues/491), I [annotated a _de novo_ geoduck transcriptome assembly](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html) last week. Next up, identify vitellogenin genes, design primers, confirm their specificity, and order them!
+In preparation for designing primers for [developing a geoduck vitellogenin qPCR assay](https://github.com/RobertsLab/resources/issues/491), I [annotated a _de novo_ geoduck transcriptome assembly](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html) last week. Next up, identify vitellogenin genes, design primers, confirm their specificity, and order them!
 
 All of this was done in a Jupyter Notebook on my computer (Swoose).
 
 
 Jupyter notebook (GitHub):
 
-- [20181128_swoose_geoduck_vitellogenin_analysis.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20181128_swoose_geoduck_vitellogenin_analysis.ipynb)
+- [20181128_swoose_geoduck_vitellogenin_analysis.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181128_swoose_geoduck_vitellogenin_analysis.ipynb)
 
 Annoated transcriptome FastA (271MB):
 
@@ -30,7 +30,7 @@ Although everything is explained pretty well in the Jupyter Notebook, here's the
 
 1. Download FastA file.
 
-2. Split into individual FastA files for each sequence (used [pyfaidx v0.5.5.2](httpss://github.com/mdshw5/pyfaidx))
+2. Split into individual FastA files for each sequence (used [pyfaidx v0.5.5.2](https://github.com/mdshw5/pyfaidx))
 
 3. Identify sequences (in original FastA file, not individual files) annotated as vitellogenin.
 

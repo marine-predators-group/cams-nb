@@ -15,4 +15,4 @@ tags:
   - sockeye salmon
 ---
 
-Juvenile sockeye salmon were subjected to initial heat stress of 18C. 10 fish were weighed, measured and then snap frozen in LN2. Samples were transferred to a freezer box labelled "AL Sockey Family #13" and stored @ -80C. [Here is the spreadsheet with all the pertinent info](httpss://spreadsheets.google.com/ccc?key=0AgH9_nELd57JdFhHUXNBRHZ1Ym5OcmZNaUlZVlpEanc&hl=en).
+Juvenile sockeye salmon were subjected to initial heat stress of 18C. 10 fish were weighed, measured and then snap frozen in LN2. Samples were transferred to a freezer box labelled "AL Sockey Family #13" and stored @ -80C. [Here is the spreadsheet with all the pertinent info](https://spreadsheets.google.com/ccc?key=0AgH9_nELd57JdFhHUXNBRHZ1Ym5OcmZNaUlZVlpEanc&hl=en).

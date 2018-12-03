@@ -18,12 +18,12 @@ tags:
   - supernova
 ---
 
-[Steven asked me to install Supernova (by 10x Genomics on our Mox node](httpss://github.com/RobertsLab/resources/issues/159).
+[Steven asked me to install Supernova (by 10x Genomics on our Mox node](https://github.com/RobertsLab/resources/issues/159).
 
-First, need to install a dependency: [bcl2fastq2](httpss://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
-Followed [Illumina bcl2fastq2 manual (PDF)](httpss://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
+First, need to install a dependency: [bcl2fastq2](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)
+Followed [Illumina bcl2fastq2 manual (PDF)](https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
 
-Logged into Mox and initiated a [Build node](httpss://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node):
+Logged into Mox and initiated a [Build node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node):
 
 
     
@@ -37,7 +37,7 @@ Logged into Mox and initiated a [Build node](httpss://github.com/RobertsLab/hyak
 
 
 
-[Illumina bcl2fastq2 manual (PDF)](httpss://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
+[Illumina bcl2fastq2 manual (PDF)](https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2_guide_15051736_v2.pdf)
 
 
     
@@ -141,7 +141,7 @@ Logged into Mox and initiated a [Build node](httpss://github.com/RobertsLab/hyak
 
 
 
-[Supernova install directions](httpss://support.10xgenomics.com/de-novo-assembly/software/pipelines/latest/installation)
+[Supernova install directions](https://support.10xgenomics.com/de-novo-assembly/software/pipelines/latest/installation)
 
 
     

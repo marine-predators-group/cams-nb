@@ -55,7 +55,7 @@ Isolated RNA from the following samples (provided by Colleen Burge):
 
 Samples were initially flash frozen and then stored @ -80C (no preservatives used). No visible cells/tissue in all samples, except Bio 26. Samples were homogenized in 1mL TriReagent. Used the Direct-zol RNA MiniPrep Kit (ZymoResearch) according to the manufacturer's protocol (including on-column DNase I procedure) for the remainder of the isolation. Eluted with 50uL of 0.1%DEPC-treated H2O and spec'd on NanoDrop1000.
 
-Samples were stored in [Shellfish RNA Box #5](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
+Samples were stored in [Shellfish RNA Box #5](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzcHdyU1d0MDVMLWpaTWdadnJSd0M4UUE&usp=sharing).
 
 Results:
 

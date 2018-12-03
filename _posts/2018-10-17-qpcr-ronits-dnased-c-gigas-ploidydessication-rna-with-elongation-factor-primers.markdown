@@ -53,7 +53,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181017_qPCR_Cgigas_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1Q038zsxrqSUfMNTC88jXC6Fu--jfFZZvMaff-BRMUuY/edit?usp=sharing)
+  * [20181017_qPCR_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1Q038zsxrqSUfMNTC88jXC6Fu--jfFZZvMaff-BRMUuY/edit?usp=sharing)
 
 
 

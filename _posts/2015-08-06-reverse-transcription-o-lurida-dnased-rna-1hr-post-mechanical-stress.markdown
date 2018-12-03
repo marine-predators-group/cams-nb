@@ -28,4 +28,4 @@ DNased RNA was combined with NanoPure H2O and oligo dT primers in 24 wells of a 
 
 25.25μL of a master mix containing 5x M-MLV Buffer (Promega), dNTPs (10mM each; Promega), and M-MLV Reverse Transcriptase (50U/rxn; Promega) was distributed to each well and mixed via pipetting. The plate was heated @ 42C for 1hr, 95C for 3mins. The plate was spun 2000g @ RT for 2mins and then stored @ -20C.
 
-Plate layout and all calculations can be found here (Google Sheet): [20150806_Jake_oly_mech_stress_cDNA_calcs](httpss://docs.google.com/spreadsheets/d/1bjKUhOonXp4ZEq5NSiWWQJg2hzOEE1MQ3z5_hIHAn6A/edit?usp=sharing)
+Plate layout and all calculations can be found here (Google Sheet): [20150806_Jake_oly_mech_stress_cDNA_calcs](https://docs.google.com/spreadsheets/d/1bjKUhOonXp4ZEq5NSiWWQJg2hzOEE1MQ3z5_hIHAn6A/edit?usp=sharing)

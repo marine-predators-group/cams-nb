@@ -23,7 +23,7 @@ tags:
   - Xsede
 ---
 
-Yesterday, our [Xsede Startup Application (Google Doc)](httpss://docs.google.com/document/d/1v4ukb4M3ZY73KaBsYjcmF35pAE2pEGH9AevdXAxCONI/edit?usp=sharing) got approval for 100,000 Service Units (SUs) and 1TB of disk space on Xsede/Atmosphere/Jetstream (or, whatever it's actually called!). The approval happened within an hour of submitting the application!
+Yesterday, our [Xsede Startup Application (Google Doc)](https://docs.google.com/document/d/1v4ukb4M3ZY73KaBsYjcmF35pAE2pEGH9AevdXAxCONI/edit?usp=sharing) got approval for 100,000 Service Units (SUs) and 1TB of disk space on Xsede/Atmosphere/Jetstream (or, whatever it's actually called!). The approval happened within an hour of submitting the application!
 
 Here's a copy of the approval notice:
 
@@ -54,9 +54,9 @@ Here's a copy of the approval notice:
   
   If XSEDE Extended Collaborative Support (ECSS) assistance was recommended by the review panel, you will be contacted by the ECSS team within the next two weeks to begin discussing this collaboration.
   
-  For details about the decision and reviewer comments, please see below or go to the XSEDE User Portal (httpss://portal.xsede.org), login, click on the ALLOCATIONS tab, then click on Submit/Review Request. Once there you will see your recently awarded research request listed on the right under the section 'Approved'. Please select the view action to see reviewer comments along with the notes from the review meeting and any additional comments from the Allocations administrator.
+  For details about the decision and reviewer comments, please see below or go to the XSEDE User Portal (https://portal.xsede.org), login, click on the ALLOCATIONS tab, then click on Submit/Review Request. Once there you will see your recently awarded research request listed on the right under the section 'Approved'. Please select the view action to see reviewer comments along with the notes from the review meeting and any additional comments from the Allocations administrator.
   
-  By default the PI and all co-PIs will be added to the resources awarded. If this is an award on a renewal request, current users will have their account end dates modified to reflect the new end date of this award. PIs, co-PIs, or Allocation Managers can add users to or remove users from resources on this project by logging into the portal (httpss://portal.xsede.org) and using the 'Add/Remove User' form.
+  By default the PI and all co-PIs will be added to the resources awarded. If this is an award on a renewal request, current users will have their account end dates modified to reflect the new end date of this award. PIs, co-PIs, or Allocation Managers can add users to or remove users from resources on this project by logging into the portal (https://portal.xsede.org) and using the 'Add/Remove User' form.
   
   Share the impact of XSEDE! In exchange for access to the XSEDE ecosystem, we ask that all users let us know what XSEDE has helped you achieve:
   
@@ -64,13 +64,13 @@ Here's a copy of the approval notice:
 > 
 > 
   
->   * For all publications, please acknowledge use of XSEDE and allocated resources by citing the XSEDE paper (httpss://www.xsede.org/how-to-acknowledge-xsede) and also add your publications to your user profile.
+>   * For all publications, please acknowledge use of XSEDE and allocated resources by citing the XSEDE paper (https://www.xsede.org/how-to-acknowledge-xsede) and also add your publications to your user profile.
 > 
   
 >   * Tell us about your achievements (https://www.xsede.org/group/xup/science-achievements).
 > 
   
->   * Help us improve our reporting by keeping your XSEDE user profile up to date and completing the demographic fields (httpss://portal.xsede.org/group/xup/profile).
+>   * Help us improve our reporting by keeping your XSEDE user profile up to date and completing the demographic fields (https://portal.xsede.org/group/xup/profile).
 > 
   
   
@@ -96,7 +96,7 @@ Here's a copy of the approval notice:
   
   Appropriateness of Computational Research Plan:
   
-  We request that any publications stemming from work done using Jetstream cite us - httpss://jetstream-cloud.org/research/citing-jetstream.php
+  We request that any publications stemming from work done using Jetstream cite us - https://jetstream-cloud.org/research/citing-jetstream.php
   
   Efficient Use of Resources:
 </blockquote>
@@ -109,7 +109,7 @@ Here's a copy of the approval notice:
 
 
 
-We had a tremendous amount of help from [Upendra Devisetty at CyVerse](httpss://www.cyverse.org/upendra-devisetty) in getting the [Xsede](https://portal.xsede.org) Startup Application written, as well as running WQ-MAKER on Xsede/Atmosphere/Jetstream (or, whatever it's called!).
+We had a tremendous amount of help from [Upendra Devisetty at CyVerse](https://www.cyverse.org/upendra-devisetty) in getting the [Xsede](https://portal.xsede.org) Startup Application written, as well as running WQ-MAKER on Xsede/Atmosphere/Jetstream (or, whatever it's called!).
 
 
 
@@ -119,7 +119,7 @@ We had a tremendous amount of help from [Upendra Devisetty at CyVerse](httpss://
 
 Now, on to how I got the run going...
 
-I initiated the Olympia oyster genome annotation using a [WQ-MAKER instance (MAKER 2.31.9 with CCTools v3.1) on Jetstream](httpss://use.jetstream-cloud.org/application/images/492):
+I initiated the Olympia oyster genome annotation using a [WQ-MAKER instance (MAKER 2.31.9 with CCTools v3.1) on Jetstream](https://use.jetstream-cloud.org/application/images/492):
 
 ![](https://owl.fish.washington.edu/Athaliana/20180807_wq-maker_04.png)
 
@@ -135,7 +135,7 @@ I followed the excellent step-by-step directions here:
 
 
 
-  * [MAKER 2.31.9 Jetstream Tutorial](httpss://wiki.cyverse.org/wiki/display/TUT/MAKER+2.31.9+with+CCTOOLS+Jetstream+Tutorial)
+  * [MAKER 2.31.9 Jetstream Tutorial](https://wiki.cyverse.org/wiki/display/TUT/MAKER+2.31.9+with+CCTOOLS+Jetstream+Tutorial)
 
 
 
@@ -209,7 +209,7 @@ Here is the rest of the nitty gritty details:
 
 
 
-    * See our [Genomic Resources GtiHub wiki for deets](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida)
+    * See our [Genomic Resources GtiHub wiki for deets](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida)
 
 
 

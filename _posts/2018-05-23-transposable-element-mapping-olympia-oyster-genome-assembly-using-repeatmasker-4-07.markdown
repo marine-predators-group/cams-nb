@@ -21,11 +21,11 @@ tags:
   - transposable elements
 ---
 
-[Steven wanted transposable elements (TEs) in the Olympia oyster genome identified.](httpss://github.com/RobertsLab/resources/issues/265)
+[Steven wanted transposable elements (TEs) in the Olympia oyster genome identified.](https://github.com/RobertsLab/resources/issues/265)
 
-After some minor struggles, I [was able to get RepeatMasker installed on](2018/05/23/software-installation-repeatmasker-v4-0-7-on-emuroadrunner-continued.html) on both of our Apple Xserves ([emu](httpss://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-emu) & [roadrunner](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-roadrunner); running Ubuntu 16.04LTS).
+After some minor struggles, I [was able to get RepeatMasker installed on](2018/05/23/software-installation-repeatmasker-v4-0-7-on-emuroadrunner-continued.html) on both of our Apple Xserves ([emu](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-emu) & [roadrunner](https://github.com/RobertsLab/resources/wiki/Lab-Software/#computer-roadrunner); running Ubuntu 16.04LTS).
 
-Genome used: [pbjelly_sjw_01](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
+Genome used: [pbjelly_sjw_01](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
 
 I ran RepeatMasker (v4.07) with RepBase-20170127 and RMBlast 2.6.0 four times:
 
@@ -91,7 +91,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180523_roadrunner_oly_TEs_repeatmasker.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180523_roadrunner_oly_TEs_repeatmasker.ipynb)
+  * [20180523_roadrunner_oly_TEs_repeatmasker.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180523_roadrunner_oly_TEs_repeatmasker.ipynb)
 
 
 

@@ -18,4 +18,4 @@ tags:
   - vinclozolin
 ---
 
-[Reaction calculations are here](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdGl6aUswWWRvZ284R0c0cXlXcEFaZVE&hl=en&authkey=CKzfkYkB#gid=0). Samples were mixed and incubated @ 37C O/N (started at 6PM). Mac will take care of them tomorrow morning.
+[Reaction calculations are here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdGl6aUswWWRvZ284R0c0cXlXcEFaZVE&hl=en&authkey=CKzfkYkB#gid=0). Samples were mixed and incubated @ 37C O/N (started at 6PM). Mac will take care of them tomorrow morning.

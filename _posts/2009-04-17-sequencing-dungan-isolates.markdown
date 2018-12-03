@@ -17,6 +17,6 @@ tags:
 
 Submitted two plates for sequencing. Each sample two times from each direction.
 
-[Plate #1](httpss://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en)
+[Plate #1](https://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en)
 
-[Plate #2](httpss://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en)
+[Plate #2](https://spreadsheets.google.com/ccc?key=pyc8PVwzKMBpmLdvH58gBcw&hl=en)

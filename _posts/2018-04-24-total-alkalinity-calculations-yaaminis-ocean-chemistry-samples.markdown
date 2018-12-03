@@ -32,7 +32,7 @@ The R Project above was initially copied from the R Project for our titrator on 
 
 
 
-  * [httpss://github.com/RobertsLab/titrator](https://github.com/RobertsLab/titrator)
+  * [https://github.com/RobertsLab/titrator](https://github.com/RobertsLab/titrator)
 
 
 
@@ -63,7 +63,7 @@ Salinity values (PSU) were collected from the following spreadsheet (Google Shee
 
 
 
-  * [Manchester Water Chemistry Data](httpss://docs.google.com/spreadsheets/d/1NimY1gQFM8eR_wdkM5__nEw3JwEhihmIBHiOqXnBYJ4/edit#gid=84274380)
+  * [Manchester Water Chemistry Data](https://docs.google.com/spreadsheets/d/1NimY1gQFM8eR_wdkM5__nEw3JwEhihmIBHiOqXnBYJ4/edit#gid=84274380)
 
 
 

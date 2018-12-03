@@ -34,4 +34,4 @@ No detectable levels of expression (or, no expression at all) in any of the cDNA
 
 Below I've put together a very rough comparison of larvae levels, based off of the the standard curve. I have NOT done the full back calculations!! This is data straight out of the qPCR machine, using the standard curve. Due to the large range, I've graphed the data on a logarithmic scale so all the data is visible on the graph.
 
-![](httpss://img.skitch.com/20120502-r83eaackyu4iasgxta3uicb7kp.jpg)
+![](https://img.skitch.com/20120502-r83eaackyu4iasgxta3uicb7kp.jpg)

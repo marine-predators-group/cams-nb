@@ -22,7 +22,7 @@ tags:
   - SRX2545968
 ---
 
-Prepared a short read archive (SRA) submission for archiving our Olympia oyster genotype-by-sequencing (GBS) data in NCBI. This is in preparation for submission of the [mansucript we're putting together](httpss://www.authorea.com/users/4974/articles/149442).
+Prepared a short read archive (SRA) submission for archiving our Olympia oyster genotype-by-sequencing (GBS) data in NCBI. This is in preparation for submission of the [mansucript we're putting together](https://www.authorea.com/users/4974/articles/149442).
 
 I f[ollowed my outline/guideline for navigating the SRA submission process](2016/03/23/data-management-sra-submission-overview.html), as it's a bit of a pain in the neck. Glad my notes were actually useful!
 

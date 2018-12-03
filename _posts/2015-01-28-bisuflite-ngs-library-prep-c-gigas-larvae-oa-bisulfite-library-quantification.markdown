@@ -28,7 +28,7 @@ The two completed BS Illumina libraries (400ppm and 1000ppm) were quantified via
 
 Results:
 
-The standard curve, raw fluorescence, and calculated concentrations (as determined by the Gen5 (BioTek) software) can be seen here: [20150128_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](httpss://docs.google.com/spreadsheets/d/1Aw37LJaitJVHMT7E66vC_ChFqGgT2UaCM9WegK5zgtw/edit?usp=sharing)
+The standard curve, raw fluorescence, and calculated concentrations (as determined by the Gen5 (BioTek) software) can be seen here: [20150128_CgigasOA_BSlibrraryQuants_OluridaLibraryQuants](https://docs.google.com/spreadsheets/d/1Aw37LJaitJVHMT7E66vC_ChFqGgT2UaCM9WegK5zgtw/edit?usp=sharing)
 
 The standard curve was excellent, exhibiting a R² value = 0.999
 

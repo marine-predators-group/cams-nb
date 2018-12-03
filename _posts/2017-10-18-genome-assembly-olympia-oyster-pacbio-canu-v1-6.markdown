@@ -18,7 +18,7 @@ tags:
   - PacBio
 ---
 
-I decided to run Canu myself, since documentation for [Sean's Canu run](httpss://genefish.wordpress.com/2017/06/19/seans-notebook-canu-run-finished/) is a bit lacking. Additionally, it looks like he specified a genome size of 500Mbp, which is probably too small. For this assembly, I set the genome size to 1.9Gbp (based on the info in the [BGI assembly report, using 17-mers for calculating genome size](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/docs/20160512_F15FTSUSAT0327_genome_survey.pdf)), which is probably on the large size.
+I decided to run Canu myself, since documentation for [Sean's Canu run](https://genefish.wordpress.com/2017/06/19/seans-notebook-canu-run-finished/) is a bit lacking. Additionally, it looks like he specified a genome size of 500Mbp, which is probably too small. For this assembly, I set the genome size to 1.9Gbp (based on the info in the [BGI assembly report, using 17-mers for calculating genome size](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/docs/20160512_F15FTSUSAT0327_genome_survey.pdf)), which is probably on the large size.
 
 Additionally, I remembered we had [an old PacBio run that we had been forgetting about](2017/10/09/data-management-convert-oly-pacbio-h5-to-fastq.html) and thought it would be nice to have incorporated into an assembly.
 
@@ -79,6 +79,6 @@ Contigs Assembly (FASTA): [https://owl.fish.washington.edu/Athaliana/20171018_ol
 
 Complete Canu output directory: [https://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/](http://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/)
 
-Jupyter Notebook (GitHub): [20171018_docker_oly_canu.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171018_docker_oly_canu.ipynb)
+Jupyter Notebook (GitHub): [20171018_docker_oly_canu.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171018_docker_oly_canu.ipynb)
 
-<iframe src="httpss://render.githubusercontent.com/view/ipynb?commit=06f41e8c62f1bbf7d5351126f8f4d32e3384f076&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f303666343165386336326631626266376435333531313236663866346433326533333834663037362f6a7570797465725f6e62732f73616d2f32303137313031385f646f636b65725f6f6c795f63616e752e6970796e62&nwo=sr320%2FLabDocs&path=jupyter_nbs%2Fsam%2F20171018_docker_oly_canu.ipynb&repository_id=13746500&repository_type=Repository#bfb8aefd-4cf7-477a-8cb6-5cfdc0584800" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://render.githubusercontent.com/view/ipynb?commit=06f41e8c62f1bbf7d5351126f8f4d32e3384f076&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73723332302f4c6162446f63732f303666343165386336326631626266376435333531313236663866346433326533333834663037362f6a7570797465725f6e62732f73616d2f32303137313031385f646f636b65725f6f6c795f63616e752e6970796e62&nwo=sr320%2FLabDocs&path=jupyter_nbs%2Fsam%2F20171018_docker_oly_canu.ipynb&repository_id=13746500&repository_type=Repository#bfb8aefd-4cf7-477a-8cb6-5cfdc0584800" width="100%" same_height_as="window" scrolling="yes"></iframe>

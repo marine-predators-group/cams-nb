@@ -30,7 +30,7 @@ All commands were documented in a Jupyter Notebook (GitHub):
 
 
 
-  * [20180529_roadrunner_virginica_TEs_repeatmasker.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180529_roadrunner_virginica_TEs_repeatmasker.ipynb)
+  * [20180529_roadrunner_virginica_TEs_repeatmasker.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180529_roadrunner_virginica_TEs_repeatmasker.ipynb)
 
 
 

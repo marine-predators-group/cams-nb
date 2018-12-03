@@ -47,7 +47,7 @@ Nightingales sequencing inventory was updated (Google Sheet):
 
 
 
-  * [Nightingales inventory](httpss://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales inventory](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 
 
@@ -74,4 +74,4 @@ The two assemblies (and assembly stats) they provided are here:
 
 
 
-I've updated the [project-geoduck-genome GitHub wiki](httpss://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) with this info.
+I've updated the [project-geoduck-genome GitHub wiki](https://github.com/RobertsLab/project-geoduck-genome/wiki/Assemblies) with this info.

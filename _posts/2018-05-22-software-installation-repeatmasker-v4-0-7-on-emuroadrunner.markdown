@@ -18,7 +18,7 @@ tags:
   - transposable elements
 ---
 
-[Steven asked that I re-run some Olympia oyster transposable elements analysis](httpss://github.com/RobertsLab/resources/issues/265) using RepeatMasker and a newer version of our Olympia oyster genome assembly.
+[Steven asked that I re-run some Olympia oyster transposable elements analysis](https://github.com/RobertsLab/resources/issues/265) using RepeatMasker and a newer version of our Olympia oyster genome assembly.
 
 Installed the software on both of the Apple Xserves (Emu and Roadrunner) running Ubuntu 16.04.
 
@@ -87,7 +87,7 @@ While trying to troubleshoot this issue, continued with the other prerequisites:
 
 
 
-3. Downloaded [RepBase RepeatMasker Edition 20170127](httpss://www.girinst.org/server/RepBase/index.php) (NOTE: This requires registration in order to obtain a username/password to download the file).
+3. Downloaded [RepBase RepeatMasker Edition 20170127](https://www.girinst.org/server/RepBase/index.php) (NOTE: This requires registration in order to obtain a username/password to download the file).
 
 Installed RepeatMasker:
 

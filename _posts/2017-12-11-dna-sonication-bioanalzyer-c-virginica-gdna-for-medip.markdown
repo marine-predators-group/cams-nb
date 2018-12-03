@@ -22,7 +22,7 @@ tags:
 
 I transferred 8ug (136uL) of _Crassotrea virginica_ gDNA ([isolated earlier today](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)) to two separate 1.7mL snap cap tubes for sonication/shearing.
 
-I performed shearing at the [NOAA Northwest Fisheries Science Center](httpss://www.nwfsc.noaa.gov/about/facilities/montlake.cfm), using the Qsonica Q800R. Mackenzie Gavery assisted me.
+I performed shearing at the [NOAA Northwest Fisheries Science Center](https://www.nwfsc.noaa.gov/about/facilities/montlake.cfm), using the Qsonica Q800R. Mackenzie Gavery assisted me.
 
 Target fragment size was ~500bp.
 

@@ -32,9 +32,9 @@ Having run through this a bunch of times now, I realized that the analysis below
 
 I recently completed an assembly of the [UW PacBio sequencing data using Racon](2017/09/18/genome-assembly-olympia-oyster-pacbio-minimapminiasmracon-3.html) and wanted some assembly stats, as well as a way to compare this assembly to [the assemblies Sean had completed](2017/08/28/project-progress-olympia-oyster-genome-assemblies-by-sean-bennett.html).
 
-Additionally, [Steven recently performed an assembly comparison](httpss://sr320.github.io/Quast-Oly/) and I noticed he got some odd results. Specifically, of the three assemblies he compared (PacBio x 1, Illumina x 2), both of the Illumina assemblies had a large quantity of "Ns" in the assemblies. This didn't seem right and the comparison program he used ([QUAST](http://quast.sourceforge.net/quast)) spit out a message indicating that it seemed like scaffolds were used, instead of contigs. So, I thought I'd give it a shot and see if I could track down non-scaffolded assemblies produced by Sean.
+Additionally, [Steven recently performed an assembly comparison](https://sr320.github.io/Quast-Oly/) and I noticed he got some odd results. Specifically, of the three assemblies he compared (PacBio x 1, Illumina x 2), both of the Illumina assemblies had a large quantity of "Ns" in the assemblies. This didn't seem right and the comparison program he used ([QUAST](http://quast.sourceforge.net/quast)) spit out a message indicating that it seemed like scaffolds were used, instead of contigs. So, I thought I'd give it a shot and see if I could track down non-scaffolded assemblies produced by Sean.
 
-Jupyter notebook (GitHub): [20171003_docker_oly_assembly_comparisons.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb)
+Jupyter notebook (GitHub): [20171003_docker_oly_assembly_comparisons.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb)
 
 First, I compared the following six assemblies (FASTA files) using QUAST:
 
@@ -76,7 +76,7 @@ Here's the assembly comparison of all assemblies (click on image for larger view
 
 Interactive version of that graphic is here: [https://owl.fish.washington.edu/Athaliana/20171003_quast_oly_genome_assemblies/report.html](http://owl.fish.washington.edu/Athaliana/20171003_quast_oly_genome_assemblies/report.html)
 
-The first thing that jumps out to me is the fact that two of the Illumina assemblies, which used _different assemblers(!!)_ have the _EXACT_ same assembly stats. This occurrence seems extremely unlikely. I've double-checked my [Jupyter notebook](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb) to make sure that I didn't assign the same file by accident (see Input #6)
+The first thing that jumps out to me is the fact that two of the Illumina assemblies, which used _different assemblers(!!)_ have the _EXACT_ same assembly stats. This occurrence seems extremely unlikely. I've double-checked my [Jupyter notebook](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb) to make sure that I didn't assign the same file by accident (see Input #6)
 
 [![](https://owl.fish.washington.edu/Athaliana/20171003_oly_assemblies_01.png)](http://owl.fish.washington.edu/Athaliana/20171003_oly_assemblies_01.png)
 
@@ -94,4 +94,4 @@ The fact that there is such a large discrepancy in the total number of bps betwe
 
 Here's an embedded version of my Jupyter notebook:
 
-<iframe src="httpss://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>
+<iframe src="https://nbviewer.jupyter.org/github/sr320/LabDocs/blob/master/jupyter_nbs/sam/20171003_docker_oly_assembly_comparisons.ipynb" width="100%" same_height_as="window" scrolling="yes"></iframe>

@@ -25,7 +25,7 @@ tags:
 
 Performed qPCR on Dave's manila clam larvae DNased RNA from August 2012 using EF1a primers (SR IDs: 1463, 1474).
 
-[Master mix calcs are here](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHc5amwzZzdDa1d0VXQzLVU0WkFTc0E). https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHc5amwzZzdDa1d0VXQzLVU0WkFTc0E
+[Master mix calcs are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHc5amwzZzdDa1d0VXQzLVU0WkFTc0E). https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHc5amwzZzdDa1d0VXQzLVU0WkFTc0E
 
 Plate layout, cycling params, etc can be found in the qPCR Report (see Results).
 
@@ -37,9 +37,9 @@ Results:
 
 [qPCR Report](https://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-10-26%2010-48-07_CC009827.pdf)(PDF) http://eagle.fish.washington.edu/Arabidopsis/qPCR/CFX96/Roberts%20Lab_2012-10-26%2010-48-07_CC009827.pdf
 
-[Here's a quick Google Spreadsheet summary highlighting samples that came up positive/negative](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdFFHb3YwWE01UG00TnY3OWo2cWx2UVE).
+[Here's a quick Google Spreadsheet summary highlighting samples that came up positive/negative](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdFFHb3YwWE01UG00TnY3OWo2cWx2UVE).
 
-httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdFFHb3YwWE01UG00TnY3OWo2cWx2UVE
+https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdFFHb3YwWE01UG00TnY3OWo2cWx2UVE
 
 Approximately half of the samples (~27) came up positive for still having gDNA in them.
 
@@ -47,4 +47,4 @@ There are three pCO2 treatments: 1000ppm, 750ppm, and 400ppm. There are six samp
 
 There are only two dates (7/29/2011 and 8/5/2011) that have a full set of samples (i.e. 1000ppm, 750ppm and 400ppm) that exhibit DNA-free RNA. Will discuss with Steven on how to proceed.
 
-_UPDATE 20121031_ - Dave emailed and indicated the experimented started on 7/27/2011. Additionally, the two sample sets that are complete are Day 2 and Day 7. Discussing with Steven, we have decided to run a few genes and see how the expression levels compare to the NGS data analysis for these samples. If the qPCR data supports the NGS data, then that information will be relayed to the BMC Genomics reviewers in response to their critiques. A copy of the [manuscript is here](httpss://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit)(may not be publicly viewable). https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit
+_UPDATE 20121031_ - Dave emailed and indicated the experimented started on 7/27/2011. Additionally, the two sample sets that are complete are Day 2 and Day 7. Discussing with Steven, we have decided to run a few genes and see how the expression levels compare to the NGS data analysis for these samples. If the qPCR data supports the NGS data, then that information will be relayed to the BMC Genomics reviewers in response to their critiques. A copy of the [manuscript is here](https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit)(may not be publicly viewable). https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit

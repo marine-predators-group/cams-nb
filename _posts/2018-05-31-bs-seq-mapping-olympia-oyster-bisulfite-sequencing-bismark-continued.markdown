@@ -19,11 +19,11 @@ tags:
   - R Studio
 ---
 
-[Previously took the analysis just through the mapping](2018/05/08/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark.html), but didn't realize [Steven wanted me to fully process the data](httpss://github.com/RobertsLab/resources/issues/225#issuecomment-390408604).
+[Previously took the analysis just through the mapping](2018/05/08/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark.html), but didn't realize [Steven wanted me to fully process the data](https://github.com/RobertsLab/resources/issues/225#issuecomment-390408604).
 
 So, as en exercise, I followed through with deduplication and sorting of the BAM files.
 
-Then, ran a quick analysis using MethylKit in R. The analysis simply copied what [Steven had done with another data set](httpss://sr320.github.io/MethylKittens/) and I haven't examined it very thoroughly, so am not well-versed on what it's doing and/or why.
+Then, ran a quick analysis using MethylKit in R. The analysis simply copied what [Steven had done with another data set](https://sr320.github.io/MethylKittens/) and I haven't examined it very thoroughly, so am not well-versed on what it's doing and/or why.
 
 Jupyter Notebook (GitHub):
 
@@ -31,7 +31,7 @@ Jupyter Notebook (GitHub):
 
 
 
-  * [20180530_emu_oly_methylation_mapping_deduplication.ipynb](httpss://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180530_emu_oly_methylation_mapping_deduplication.ipynb)
+  * [20180530_emu_oly_methylation_mapping_deduplication.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180530_emu_oly_methylation_mapping_deduplication.ipynb)
 
 
 

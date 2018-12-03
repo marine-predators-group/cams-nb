@@ -117,7 +117,7 @@ Regardless, the yield isn't all that great, which has generally been the case fo
 
 Will evaluate gDNA quality on a gel.
 
-Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](httpss://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
+Fluorescence (Google Sheet): [20151124_geoduck_oly_gDNA_quants](https://docs.google.com/spreadsheets/d/167If9r5fDNJb6xenUo-bKy52794_O1LgN1twKAOmElw/edit?usp=sharing)
 
 
 

@@ -28,7 +28,7 @@ All operations are documented in a Jupyter notebook (GitHub):
 
 
 
-  * [20180709_emu_oly_methylation_mapping.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20180709_emu_oly_methylation_mapping.ipynb)
+  * [20180709_emu_oly_methylation_mapping.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20180709_emu_oly_methylation_mapping.ipynb)
 
 
 
@@ -46,7 +46,7 @@ Genome used:
 
 
 
-Input files ( see [Olympia oyster Genomic GitHub wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki) for more info ):
+Input files ( see [Olympia oyster Genomic GitHub wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki) for more info ):
 
 
 

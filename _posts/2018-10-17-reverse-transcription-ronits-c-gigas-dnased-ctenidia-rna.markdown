@@ -43,6 +43,6 @@ Reverse transcription calcs (Google Sheet):
 
 
 
-  * [20181017_Cgigas_ploidy_cDNA_calcs](httpss://docs.google.com/spreadsheets/d/12FNjWTYBOL44NqTkMhJXyAHbIA7dngZhoaswqF0aaAk/edit?usp=sharing)
+  * [20181017_Cgigas_ploidy_cDNA_calcs](https://docs.google.com/spreadsheets/d/12FNjWTYBOL44NqTkMhJXyAHbIA7dngZhoaswqF0aaAk/edit?usp=sharing)
 
 

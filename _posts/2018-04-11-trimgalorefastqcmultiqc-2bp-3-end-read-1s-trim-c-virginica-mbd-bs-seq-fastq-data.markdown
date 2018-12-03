@@ -23,7 +23,7 @@ tags:
 
 [Earlier today, I ran TrimGalore/FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](2018/04/10/trimgalorefastqcmultiqc-14bp-trim-c-virginica-mbd-bs-seq-fastq-data.html) and hard trimmed the first 14bp from each read. Things looked better at the 5' end, but the 3' end of each of the READ1 seqs showed a wonky 2bp blip, so decided to trim that off.
 
-I ran [TrimGalore](httpss://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the last 2bp of each first read set that had previously had the 14bp hard trim and followed up with MultiQC for a summary of the FastQC reports.
+I ran [TrimGalore](https://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the last 2bp of each first read set that had previously had the 14bp hard trim and followed up with MultiQC for a summary of the FastQC reports.
 
 TrimGalore job script:
 
@@ -97,6 +97,6 @@ MultiQC HTML report:
 
 Well, this is a bit strange, but the 2bp trimming on the read 1s looks fine, but now the read 2s are weird in the same region!
 
-Regardless, while this was running, Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](httpss://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) So, maybe this was all moot. I'll go ahead and re-run this following the Bismark recommendations.
+Regardless, while this was running, Steven found out that the [Bismarck documentation (Bismarck is the bisulfite aligner we use in our BS-seq pipeline) suggests trimming 10bp from both the 5' and 3' ends.](https://github.com/FelixKrueger/Bismark/tree/master/Docs#viii-notes-about-different-library-types-and-commercial-kits) So, maybe this was all moot. I'll go ahead and re-run this following the Bismark recommendations.
 
 <iframe src="https://owl.fish.washington.edu/Athaliana/20180410_trimgalore_trim14bp5prim_2bp3prime_Cvirginica_MBD/20180410_fastqc_trimgalore_14bp5prime_2bp3prime_Cvirginica_MBD/multiqc_data/multiqc_report.html" width="100%" same_height_as="window" scrolling="yes"></iframe>

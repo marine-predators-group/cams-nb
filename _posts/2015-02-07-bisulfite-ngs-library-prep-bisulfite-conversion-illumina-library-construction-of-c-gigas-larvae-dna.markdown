@@ -41,7 +41,7 @@ Sample was eluted with 10μL of Buffer R6 for immediate use.
 
 
 
-Bisulfite Illumina library was made with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer's protocol:
+Bisulfite Illumina library was made with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer's protocol:
 
 
 

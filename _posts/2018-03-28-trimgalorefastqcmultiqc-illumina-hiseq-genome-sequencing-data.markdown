@@ -21,7 +21,7 @@ tags:
 
 [Previous FastQC/MultiQC analysis](2018/03/28/fastqcmultiqc-illumina-hiseq-genome-sequencing-data.html) of the geoduck Illumina HiSeq data (_NMP_.fastq.gz files) revealed a high level of overrepresented sequences, high levels of Per Base N Content, failure of Per Sequence GC Content, and a few other bad things.
 
-Ran these through [TrimGalore!](httpss://github.com/FelixKrueger/TrimGalore) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).
+Ran these through [TrimGalore!](https://github.com/FelixKrueger/TrimGalore) on our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).
 
 Added an option in TrimGalore! to automatically run FastQC on the trimmed output files.
 

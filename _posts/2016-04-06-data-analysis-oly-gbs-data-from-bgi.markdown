@@ -25,7 +25,7 @@ UPDATE (20160418) : I'm posting this more for posterity, as Stacks continually l
 
 Have moved on to trying PyRAD in the meantime.
 
-Need to get the [GBS from BGI data analyzed.](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015)
+Need to get the [GBS from BGI data analyzed.](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015)
 
 [Installed Stacks (and its dependencies on Hummingbird earlier today)](2016/04/06/software-install-samtools-0-1-19-and-stacks-1-37.html).
 

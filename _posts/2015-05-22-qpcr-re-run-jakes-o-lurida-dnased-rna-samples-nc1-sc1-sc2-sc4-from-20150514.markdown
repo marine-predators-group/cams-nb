@@ -77,16 +77,16 @@ Cycling params:
 
 
 
-Master mix calcs: [20150521_qPCR_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1AVf-RgRTnR65N62REZ8RWKKucuh6IAlZpuaiUbs5uOY/edit?usp=sharing)
+Master mix calcs: [20150521_qPCR_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1AVf-RgRTnR65N62REZ8RWKKucuh6IAlZpuaiUbs5uOY/edit?usp=sharing)
 
-Plate layout: [20150521_qPCR_plate_Jake_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1yijvNDdUAPcy-HhrkHjr1R3LwdFCQTj5ci02CraQa2k/edit?usp=sharing)
+Plate layout: [20150521_qPCR_plate_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1yijvNDdUAPcy-HhrkHjr1R3LwdFCQTj5ci02CraQa2k/edit?usp=sharing)
 
 
 
 Results:
 
 qPCR Data File (Opticon): [Sam_20150521_145749.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/Sam_20150521_145749.tad)
-qPCR Report (Google Sheet): [20150521_qPCR_Report_Jake_Oly_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1ey-Cih6uJxoUpskVAGJS_DfO3Zc3SJzvpcPTno6qNQA/edit?usp=sharing)
+qPCR Report (Google Sheet): [20150521_qPCR_Report_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1ey-Cih6uJxoUpskVAGJS_DfO3Zc3SJzvpcPTno6qNQA/edit?usp=sharing)
 
 
 

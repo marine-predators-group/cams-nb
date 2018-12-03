@@ -22,6 +22,6 @@ Prepared two DNA plates and corresponding primer plates for sequencing at the UW
 
 NOTE: The H2A_ST1 samples had insufficient volume of DNA for all four sequencing reactions. Added 30μL of NanoPure water to purified DNA, mixed and distributed to the appropriate wells.
 
-Sequencing plates layouts can be seen here (Google Sheet): [sequence_log](httpss://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing).
+Sequencing plates layouts can be seen here (Google Sheet): [sequence_log](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing).
 
 Submitted the plates to the UW HTGC for Sanger sequencing.

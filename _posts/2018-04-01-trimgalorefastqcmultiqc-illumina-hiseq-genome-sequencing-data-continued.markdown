@@ -19,9 +19,9 @@ tags:
   - TrimGalore!
 ---
 
-The [previous attempt at this](2018/03/28/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data.html) was interrupted by a random glitch with our [Mox HPC node](httpss://github.com/RobertsLab/hyak_mox/wiki).
+The [previous attempt at this](2018/03/28/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data.html) was interrupted by a random glitch with our [Mox HPC node](https://github.com/RobertsLab/hyak_mox/wiki).
 
-I removed the last files processed by [TrimGalore!](httpss://github.com/FelixKrueger/TrimGalore), just in case they were incomplete. I updated the slurm script to process only the remaining files that had _not_ been processed when the Mox glitch happened (including the files I deemed "incomplete").
+I removed the last files processed by [TrimGalore!](https://github.com/FelixKrueger/TrimGalore), just in case they were incomplete. I updated the slurm script to process only the remaining files that had _not_ been processed when the Mox glitch happened (including the files I deemed "incomplete").
 
 As in the initial run, I kept the option in TrimGalore! to automatically run FastQC on the trimmed output files.
 

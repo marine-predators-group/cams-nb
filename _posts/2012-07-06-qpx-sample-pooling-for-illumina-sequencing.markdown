@@ -19,4 +19,4 @@ tags:
 
 Pooling volumes/quantities for QPX RNA/DNA-seq:
 [
-20120705 Oly larvae and QPX HiSeq Calcs](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdG83MFVDZVc3V2lIRzVjcUlxenN6VEE&usp=sharing)
+20120705 Oly larvae and QPX HiSeq Calcs](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdG83MFVDZVc3V2lIRzVjcUlxenN6VEE&usp=sharing)

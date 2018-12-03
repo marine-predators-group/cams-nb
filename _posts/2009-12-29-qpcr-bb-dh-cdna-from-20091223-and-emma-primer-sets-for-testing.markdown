@@ -36,6 +36,6 @@ Results:
 
 qPCR Data File (Opticon): [20091229_133148.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20091229_133148.tad)
 
-Data workup: [PROPS BB_DH Gene Expression Miner Workup](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
+Data workup: [PROPS BB_DH Gene Expression Miner Workup](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdHNfWS1oUHUxNFNwci1zcmhhWjhzZnc&usp=sharing)
 
 Emma's "beta tub" primers show some weird fluorescence, however none of the primer sets show any thing in the melting curve analysis.

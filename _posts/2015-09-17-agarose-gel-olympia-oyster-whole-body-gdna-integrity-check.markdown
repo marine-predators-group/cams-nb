@@ -25,7 +25,7 @@ Ran the [gDNA isolated yesterday from _Ostrea lurida_ whole body](2015/09/16/dna
 
 Results:
 
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_Oly_RAD.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_Oly_RAD.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_Oly_RAD.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_Oly_RAD.jpg)
 
 The results are not good. Every sample exhibits serious degradation (the smearing that's present in each lane). There should be a distinct, high molecular weight band with no smearing if the gDNA was high quality and intact. [These extractions also served as a comparison in slight differences in the extraction procedure (homogenization with & without mortar/pestle), as described in Steven's post](https://onsnetwork.org/halfshell/2015/09/16/running-the-numbers/). However, those differences seem to have no impact on the quality of the resulting gDNA.
 
@@ -33,7 +33,7 @@ I [isolated gDNA from _Ostrea lurida_ tissue samples two weeks ago using the E.Z
 
 [caption id="" align="alignleft" width="301"][![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg) _Ostrea lurida_ gDNA isolated from adductor muscle & mantle tissues (lanes 4 & 5). Despite low quantity loading, notice that smearing below high molecular weight bands is limited to a low molecular weight range.[/caption]
 
-[caption id="" align="alignleft" width="213"][![](httpss://marinegenes.files.wordpress.com/2015/09/gel_9_11_15.jpg?w=584)](https://marinegenes.files.wordpress.com/2015/09/gel_9_11_15.jpg?w=584) Katherine's gel of _Ostrea lurida_ gDNA isolated from larvae.[/caption]
+[caption id="" align="alignleft" width="213"][![](https://marinegenes.files.wordpress.com/2015/09/gel_9_11_15.jpg?w=584)](https://marinegenes.files.wordpress.com/2015/09/gel_9_11_15.jpg?w=584) Katherine's gel of _Ostrea lurida_ gDNA isolated from larvae.[/caption]
 
 
 

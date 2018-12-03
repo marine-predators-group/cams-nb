@@ -56,6 +56,6 @@ Paired-end sequencing files were uploaded together within a single “Run”.
 
 SRA Info:
 SRA: SRS1365663
-Study: [SRP072461](httpss://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072461)
-BioProject: [PRJNA316624](httpss://www.ncbi.nlm.nih.gov/bioproject/PRJNA316624)
-BioSample: [SAMN04588827](httpss://www.ncbi.nlm.nih.gov/biosample/4588827)
+Study: [SRP072461](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP072461)
+BioProject: [PRJNA316624](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316624)
+BioSample: [SAMN04588827](https://www.ncbi.nlm.nih.gov/biosample/4588827)

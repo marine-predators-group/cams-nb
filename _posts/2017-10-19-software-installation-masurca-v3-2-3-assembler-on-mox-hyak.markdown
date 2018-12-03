@@ -23,10 +23,10 @@ Saw this tweet this morning and thought this would be good to try out for our Ol
 <blockquote>
 
 > 
-> The latest verison of the MaSuRCA assembler supports [@nanopore](httpss://twitter.com/nanopore?ref_src=twsrc%5Etfw) reads and it is super easy to use. Check it out! [https://t.co/ByKUCpAoIf](https://t.co/ByKUCpAoIf) [pic.twitter.com/KulviJhmMh](https://t.co/KulviJhmMh)
+> The latest verison of the MaSuRCA assembler supports [@nanopore](https://twitter.com/nanopore?ref_src=twsrc%5Etfw) reads and it is super easy to use. Check it out! [https://t.co/ByKUCpAoIf](https://t.co/ByKUCpAoIf) [pic.twitter.com/KulviJhmMh](https://t.co/KulviJhmMh)
 > 
 > 
-— Darrin Schultz (@conchoecia) [October 18, 2017](httpss://twitter.com/conchoecia/status/920771453728854016?ref_src=twsrc%5Etfw)</blockquote>
+— Darrin Schultz (@conchoecia) [October 18, 2017](https://twitter.com/conchoecia/status/920771453728854016?ref_src=twsrc%5Etfw)</blockquote>
 
 
 
@@ -110,22 +110,22 @@ Although not specifically related to the MaSuRCA install, I did encounter proble
 
 
 
-#### [Build node](httpss://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node) fail (ironically, this is the specific type of node that's supposed to be used for compiling software):
+#### [Build node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#build-node) fail (ironically, this is the specific type of node that's supposed to be used for compiling software):
 
 
 
 [![](https://owl.fish.washington.edu/Athaliana/20171019_mox_build_masurca_fail.png)](http://owl.fish.washington.edu/Athaliana/20171019_mox_build_masurca_fail.png)
 
-OK, so I decided to try compiling it using the [login node](httpss://github.com/RobertsLab/hyak_mox/wiki/Node-Types#login-node) (which is not what the login node is supposed to be used for):
+OK, so I decided to try compiling it using the [login node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#login-node) (which is not what the login node is supposed to be used for):
 
 
 
-#### [Login node](httpss://github.com/RobertsLab/hyak_mox/wiki/Node-Types#login-node) fail:
+#### [Login node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#login-node) fail:
 
 
 
 [![](https://owl.fish.washington.edu/Athaliana/20171019_mox_login_masurca_fail.png)](http://owl.fish.washington.edu/Athaliana/20171019_mox_login_masurca_fail.png)
 
-I really didn't want to have to put together [an SBATCH script](httpss://github.com/RobertsLab/hyak_mox/wiki/Running-a-Job) just to compile this software (which compiled without issue, except for that initial BOOST error thingy, on my local Ubuntu 16.04 LTS system), so I just tried running an [interactive node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#interactive-node) and it worked!
+I really didn't want to have to put together [an SBATCH script](https://github.com/RobertsLab/hyak_mox/wiki/Running-a-Job) just to compile this software (which compiled without issue, except for that initial BOOST error thingy, on my local Ubuntu 16.04 LTS system), so I just tried running an [interactive node](https://github.com/RobertsLab/hyak_mox/wiki/Node-Types#interactive-node) and it worked!
 
 Now, on to trying to actually run this thing...

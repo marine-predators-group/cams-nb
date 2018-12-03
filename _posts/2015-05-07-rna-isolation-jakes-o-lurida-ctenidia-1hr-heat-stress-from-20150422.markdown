@@ -158,7 +158,7 @@ Results:
 
 
 
-Google Spreadsheet with absorbance data: [20150506_Jake_Oly_1h_HS_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1CKiWYWQjlAFirI2pyLZEhCx3UJIV_hAuUDM8FSi1cA4/edit?usp=sharing)
+Google Spreadsheet with absorbance data: [20150506_Jake_Oly_1h_HS_RNA_ODs](https://docs.google.com/spreadsheets/d/1CKiWYWQjlAFirI2pyLZEhCx3UJIV_hAuUDM8FSi1cA4/edit?usp=sharing)
 
 Overall, the samples have excellent yields. The exceptions being the two samples that had less than 1mL of RNAzol RT in them to start (their yields are actually fine, but relative to all the other samples, they aren't great). Should I have left them that way instead of adding additional RNAzol RT? Was there something wrong with these samples in the first place and that's why they didn't have a full 1mL of RNAzol RT in the tube already?
 

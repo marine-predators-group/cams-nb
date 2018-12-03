@@ -160,7 +160,7 @@ Results:
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150507_Jake_oly_control_RNA_plots-02.JPG)
 
-Google Spreadsheet with absorbance data: [20150507_Jake_Oly_control_RNA_ODs](httpss://docs.google.com/spreadsheets/d/1dfcRjzEGzDo8ADTWVwXGSkn195JXKxWuBrRK5zv4-pY/edit?usp=sharing)
+Google Spreadsheet with absorbance data: [20150507_Jake_Oly_control_RNA_ODs](https://docs.google.com/spreadsheets/d/1dfcRjzEGzDo8ADTWVwXGSkn195JXKxWuBrRK5zv4-pY/edit?usp=sharing)
 
 
 

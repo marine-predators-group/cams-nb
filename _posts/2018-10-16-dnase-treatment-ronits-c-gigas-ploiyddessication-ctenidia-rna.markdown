@@ -22,7 +22,7 @@ tags:
   - Turbo DNA-free
 ---
 
-After [quantifying Ronit's RNA earlier today](2018/10/16/rna-quantification-ronits-c-gigas-ploidydessication-rna.html), I DNased them using the Turbo DNA-free Kit (Ambion), according to the [manufacturer's standard protocol](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Ambion_Turbo_DNA_Free.pdf).
+After [quantifying Ronit's RNA earlier today](2018/10/16/rna-quantification-ronits-c-gigas-ploidydessication-rna.html), I DNased them using the Turbo DNA-free Kit (Ambion), according to the [manufacturer's standard protocol](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Ambion_Turbo_DNA_Free.pdf).
 
 Used 1000ng of RNA in a 50uL reaction in a 0.5mL thin-walled snap cap tube. Samples were mixed by finger flicking and then incubated 30mins @ 37oC in a PTC-200 thermal cylcer (MJ Research), without a heated lid.
 
@@ -36,7 +36,7 @@ DNase calculations are here:
 
 
 
-  * [20181016_DNase_calcs](httpss://docs.google.com/spreadsheets/d/1rgS3MH5QjFYIQL8PpvUf6xo-ZXI8KTX4pm16cb7if4U/edit?usp=sharing)
+  * [20181016_DNase_calcs](https://docs.google.com/spreadsheets/d/1rgS3MH5QjFYIQL8PpvUf6xo-ZXI8KTX4pm16cb7if4U/edit?usp=sharing)
 
 
 
@@ -44,6 +44,6 @@ Samples will be permanently stored here (Google Sheet):
 
 
 
-  * [Ronit's Ploidy/Dessication RNA Box #1 - Rack 15, Column 4, Row 4 in -80oC](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
+  * [Ronit's Ploidy/Dessication RNA Box #1 - Rack 15, Column 4, Row 4 in -80oC](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing)
 
 

@@ -54,7 +54,7 @@ With the remainder of the [library sample prepared earlier](2014/12/22/bisulfite
 
 After clean up, quantified the sample via fluorescence using the Quant-iT DNA BR Kit (Life Technologies/Invitrogen).  Used 1uL of the sample and the standards.  All standards were run in duplicate and read on a FLx800 plate reader (BioTek).
 
-Results are here: [20150122 - LSU_virginicaMBDlibraryCleanup](httpss://docs.google.com/spreadsheets/d/1g2frcvTw4lYq3jXhUhDYTORjOdWNyRN9s3ksDKQHiRI/edit?usp=sharing)
+Results are here: [20150122 - LSU_virginicaMBDlibraryCleanup](https://docs.google.com/spreadsheets/d/1g2frcvTw4lYq3jXhUhDYTORjOdWNyRN9s3ksDKQHiRI/edit?usp=sharing)
 
 Library concentration = 2.46ng/uL
 

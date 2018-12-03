@@ -22,7 +22,7 @@ tags:
   - Qubit dsDNA BR
 ---
 
-In an attempt to improve upon the partial genome assembly we received from BGI, we will be sending DNA to the [UW PacBio core facility](httpss://pacbio.gs.washington.edu/) for additional sequencing.
+In an attempt to improve upon the partial genome assembly we received from BGI, we will be sending DNA to the [UW PacBio core facility](https://pacbio.gs.washington.edu/) for additional sequencing.
 
 Isolated DNA from mantle tissue from the same Ostrea lurida individual used for the BGI sequencing efforts. [Tissue was collected by Brent & Steven on 20150812](https://onsnetwork.org/halfshell/2015/08/12/another-day-another-species/).
 
@@ -50,7 +50,7 @@ Used the E.Z.N.A. Mollusc Kit (Omega) to isolate DNA from two separate 50mg piec
 
 Quantified the DNA using the Qubit dsDNA BR Kit (Invitrogen). Used 1μL of DNA sample.
 
-Concentration = 326ng/μL (Quant data is here [Google Sheet]: [20161214_gDNA_Olurida_qubit_quant](httpss://docs.google.com/spreadsheets/d/1KklkRZYSbHOx6CCIG9thUC5p1e4a8w1NUXKlKzwf1NI/edit?usp=sharing)
+Concentration = 326ng/μL (Quant data is here [Google Sheet]: [20161214_gDNA_Olurida_qubit_quant](https://docs.google.com/spreadsheets/d/1KklkRZYSbHOx6CCIG9thUC5p1e4a8w1NUXKlKzwf1NI/edit?usp=sharing)
 
 Yield is good and we have more than enough (~5μg is required for sequencing) to proceed with sequencing.
 
@@ -60,7 +60,7 @@ Used 5μL of O'GeneRuler DNA Ladder Mix (ThermoFisher).
 
 Results:
 
-[![](httpss://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+[![](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 
 
@@ -70,4 +70,4 @@ Results:
 
 Overall, the gel looks OK. A fair amount of smearing, but a strong, high molecular weight band is present. The intensity of the smearing is likely due to the fact that the gel is overloaded for this particular well size. If I had used a broader comb and/or loaded less DNA, the band would be more defined and the smearing would be less prominent.
 
-Will submit sample to [the UW PacBio facility](httpss://pacbio.gs.washington.edu/) tomorrow!
+Will submit sample to [the UW PacBio facility](https://pacbio.gs.washington.edu/) tomorrow!

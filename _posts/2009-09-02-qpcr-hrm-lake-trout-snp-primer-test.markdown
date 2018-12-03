@@ -29,6 +29,6 @@ Tested out the plate of Lake Trout primers (LTP01 - forward and reverse combined
 
 72C - 25s
 
-Plate layout matches the [primer plate layout](httpss://spreadsheets.google.com/ccc?key=tg7mtIbECmdwRrBdQr3lOnA).
+Plate layout matches the [primer plate layout](https://spreadsheets.google.com/ccc?key=tg7mtIbECmdwRrBdQr3lOnA).
 
 Results: The following wells have signals and good, clean melting curves: A1, C1, H1, B2, A3, D2, G3, A4, E4, B5, A7, D7, H7, B8, C8, F10, G10, C11, H11, A12, E12. These are potential candidates for SNP analysis. Will test HRM analysis using these primers, each on a subset of Lake Trout DNA samples to see whether or not they'll be truly useful for analyzing the full plate of DNA.

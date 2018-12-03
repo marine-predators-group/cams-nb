@@ -204,7 +204,7 @@ The samples were quantified using the Qubit dsDNA BR reagents (Invitrogen) accor
 
 Results:
 
-Qubit data (Google Sheet): [20151216_Oly_gDNA_qubit_quants](httpss://docs.google.com/spreadsheets/d/17GXiTjinn8QPMY7tKXsTtUbJimi27hb0NklLS3Zfn48/edit?usp=sharing)
+Qubit data (Google Sheet): [20151216_Oly_gDNA_qubit_quants](https://docs.google.com/spreadsheets/d/17GXiTjinn8QPMY7tKXsTtUbJimi27hb0NklLS3Zfn48/edit?usp=sharing)
 
 <table cellpadding="0" cellspacing="0" border="0" dir="ltr" > 
 <tbody >

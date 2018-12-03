@@ -17,9 +17,9 @@ tags:
   - PacBio
 ---
 
-[Back in December 2016, we sent off _Ostrea lurida_ DNA to the UW PacBio sequencing facility](2016/12/19/sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing.html). This is an attempt to fill in the gaps left from the [BGI genome sequencing project](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-September-2015).
+[Back in December 2016, we sent off _Ostrea lurida_ DNA to the UW PacBio sequencing facility](2016/12/19/sample-submission-ostrea-lurida-gdna-for-pacbio-sequencing.html). This is an attempt to fill in the gaps left from the [BGI genome sequencing project](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-September-2015).
 
-See the [GitHub Wiki dedicated to this for an overview of this UW PacBio sequencing](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)).
+See the [GitHub Wiki dedicated to this for an overview of this UW PacBio sequencing](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)).
 
 I downloaded the data to [https://owl.fish.washington.edu/nightingales/O_lurida/20170323_pacbio/](http://owl.fish.washington.edu/nightingales/O_lurida/20170323_pacbio/) using the required browser plugin, Aspera Connect. Technically, saving the data to a subfolder within a given species' data folder goes against our [data management plan (DMP) for high-throughput sequencing data](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan), but the sequencing data output is far different than what we normally receive from an Illumina sequencing run. Instead of a just FASTQ files, we received the following from each PacBio SMRT cell we had run (we had 10 SMRT cells run):
 
@@ -179,4 +179,4 @@ Granted, there is the familiar FASTQ file (filtered_subreads.fastq), which is wh
 
 I'll update the [readme file](https://owl.fish.washington.edu/nightingales/O_lurida/readme.md) to reflect the addition of the top level folders (e.g. `../20170323_pacbio/170210_PCB-CC_MS_EEE_20kb_P6v2_D01_1/`).
 
-I'll also update the [GitHub Wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio))
+I'll also update the [GitHub Wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio))

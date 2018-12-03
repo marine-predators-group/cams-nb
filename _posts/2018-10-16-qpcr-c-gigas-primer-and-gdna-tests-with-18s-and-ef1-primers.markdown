@@ -59,7 +59,7 @@ qPCR master mix calcs (Google Sheet):
 
 
 
-  * [20181016_qPCR_Cgigas_gDNA_primer_test](httpss://docs.google.com/spreadsheets/d/12ZJDMeY8BIX_SYGAXHPqI7dmlznegiMc0xPYu6rgPiI/edit?usp=sharing)
+  * [20181016_qPCR_Cgigas_gDNA_primer_test](https://docs.google.com/spreadsheets/d/12ZJDMeY8BIX_SYGAXHPqI7dmlznegiMc0xPYu6rgPiI/edit?usp=sharing)
 
 
 

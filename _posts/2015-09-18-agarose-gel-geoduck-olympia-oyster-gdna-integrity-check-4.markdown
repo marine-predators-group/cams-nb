@@ -27,7 +27,7 @@ Results:
 
 [caption id="" align="alignleft" width="255"][![](https://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150917_gel_gDNA_geoduck_oly.jpg) Geoduck gDNA on left. Oly gDNA on right.[/caption]
 
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 
 

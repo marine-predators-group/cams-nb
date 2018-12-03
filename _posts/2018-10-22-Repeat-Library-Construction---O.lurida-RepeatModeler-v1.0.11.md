@@ -14,7 +14,7 @@ categories:
 
 In further attempts to improve our _Ostrea lurida_ genome annotation, I decided to generate a species-specific repeat library for use with MAKER genome annotation using [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/).
 
-Ran on both versions of our _O.lurida_ genome assemblies. Details on assemblies can be found on our [Genomic Resources wiki (GitHub)](httpss://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida).
+Ran on both versions of our _O.lurida_ genome assemblies. Details on assemblies can be found on our [Genomic Resources wiki (GitHub)](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#ostrea-lurida).
 
 - [Olurida_v080.fa](https://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v080.fa)
 
@@ -22,7 +22,7 @@ Ran on both versions of our _O.lurida_ genome assemblies. Details on assemblies 
 
 Tasks were run on Emu (Apple Xserve; Ubuntu 16.04). All operations were performed in the following Jupyter Notebook (GitHub):
 
-- [20181022_emu_oly_repeatmodeler.ipynb](httpss://github.com/RobertsLab/code/blob/master/notebooks/sam/20181022_emu_oly_repeatmodeler.ipynb)
+- [20181022_emu_oly_repeatmodeler.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181022_emu_oly_repeatmodeler.ipynb)
 
 ---
 

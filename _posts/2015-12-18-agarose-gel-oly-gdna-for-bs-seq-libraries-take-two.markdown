@@ -46,7 +46,7 @@ Additionally, this gel also [includes _C.gigas_ samples that Katie Lotterhos sen
 Ran a 0.8% agarose, low-TAE gel, stained with ethidium bromide.
 
 Results:
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20151217_gel_Oly_gDNA_02.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151217_gel_Oly_gDNA_02.jpg)
 

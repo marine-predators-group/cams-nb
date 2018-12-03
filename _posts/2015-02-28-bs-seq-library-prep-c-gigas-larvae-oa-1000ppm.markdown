@@ -81,7 +81,7 @@ Definitely a low yield (~108ng) relative to the input (~400ng). Will proceed wit
 
 
 
-Illumina library prep was performed with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer’s protocol:
+Illumina library prep was performed with [EpiNext Post-Bisulfite DNA Library Preparation Kit (Illumina) (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf).  Changes to the manufacturer’s protocol:
 
 
 

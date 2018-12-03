@@ -18,9 +18,9 @@ tags:
   - PacBio
 ---
 
-Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/seanb80/) has done with the Oly genome assembly front.
+Here's a brief overview of what [Sean](https://genefish.wordpress.com/author/seanb80/) has done with the Oly genome assembly front.
 
-[Metassembler](httpss://sourceforge.net/projects/metassembler/)
+[Metassembler](https://sourceforge.net/projects/metassembler/)
 
 
 
@@ -29,17 +29,17 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
   * Assemble his BGI assembly and Platanus assembly? Confusing terms here; not sure what he means.
 
 
-  * Failed due to 32-bit vs. 64-bit installation of MUMmer. He didn't have the chance to re-compile [MUMmer](httpss://github.com/mummer4/mummer) as 64-bit. However, a [recent MUMmer announcement](http://mummer.sourceforge.net/) suggests that MUMmer can now handle genomes of unlimited size.
+  * Failed due to 32-bit vs. 64-bit installation of MUMmer. He didn't have the chance to re-compile [MUMmer](https://github.com/mummer4/mummer) as 64-bit. However, a [recent MUMmer announcement](http://mummer.sourceforge.net/) suggests that MUMmer can now handle genomes of unlimited size.
 
 
   * I believe he was planning on using (or was using?) [GARM](https://garm-meta-assem.sourceforge.net/), which relies upon [MUMmer](https://github.com/mummer4/mummer) and may also include a version of MUMmer (outdated version that led to Sean's error message?).
 
 
-  * [Notebook entry](httpss://genefish.wordpress.com/2017/06/27/seans-notebook-mummernucmer-error/)
+  * [Notebook entry](https://genefish.wordpress.com/2017/06/27/seans-notebook-mummernucmer-error/)
 
 
 
-[Canu](httpss://github.com/marbl/canu)
+[Canu](https://github.com/marbl/canu)
 
 
 
@@ -48,14 +48,14 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
   * Assemble [UW PacBio data](https://owl.fish.washington.edu/nightingales/O_lurida/) (filenames beginning with m170211, m170315, m170308, and m170301).
 
 
-  * Files (including Mox scripts, [Pilon contig polishing](httpss://github.com/broadinstitute/pilon/wiki), & output FASTA files) are here: [http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Canu_Output/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Canu_Output/)
+  * Files (including Mox scripts, [Pilon contig polishing](https://github.com/broadinstitute/pilon/wiki), & output FASTA files) are here: [http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Canu_Output/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Canu_Output/)
 
 
-  * [Notebook entry](httpss://genefish.wordpress.com/2017/06/15/seans-notebook-falcon-out-canu-in/)
+  * [Notebook entry](https://genefish.wordpress.com/2017/06/15/seans-notebook-falcon-out-canu-in/)
 
 
 
-[Redundans](httpss://github.com/lpryszcz/redundans)
+[Redundans](https://github.com/lpryszcz/redundans)
 
 
 
@@ -74,7 +74,7 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
     * Files (does _NOT_ include Mox scripts!) are here: [https://owl.fish.washington.edu/scaphapoda/Sean/Oly_Redundans_Output/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Redundans_Output/)
 
 
-    * [Notebook entry](httpss://genefish.wordpress.com/2017/05/24/oly-genome-redundans-run-finished/)
+    * [Notebook entry](https://genefish.wordpress.com/2017/05/24/oly-genome-redundans-run-finished/)
 
 
 
@@ -86,7 +86,7 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
     * Files (including Mox scripts & output FASTA files) are here: [https://owl.fish.washington.edu/scaphapoda/Sean/Oly_Redundans_Output_Try_2/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Redundans_Output_Try_2/)
 
 
-    * [Notebook entry](httpss://genefish.wordpress.com/2017/06/08/seans-notebook-oly-genome-re-assembly-try-2/)
+    * [Notebook entry](https://genefish.wordpress.com/2017/06/08/seans-notebook-oly-genome-re-assembly-try-2/)
 
 
 
@@ -111,7 +111,7 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
     * Files (including Mox scripts & output FASTA files) are here: [https://owl.fish.washington.edu/scaphapoda/Sean/Oly_Illumina_Platanus_Assembly/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Illumina_Platanus_Assembly/)
 
 
-    * [Notebook entry](httpss://genefish.wordpress.com/2017/05/19/seans-notebook-olympia-oyster-genome/)
+    * [Notebook entry](https://genefish.wordpress.com/2017/05/19/seans-notebook-olympia-oyster-genome/)
 
 
 
@@ -123,7 +123,7 @@ Here's a brief overview of what [Sean](httpss://genefish.wordpress.com/author/se
     * Files (including Mox scripts & output FASTA files) are here: [https://owl.fish.washington.edu/scaphapoda/Sean/Oly_Platanus_Assembly_Kmer-22/](http://owl.fish.washington.edu/scaphapoda/Sean/Oly_Platanus_Assembly_Kmer-22/)
 
 
-    * [Notebook entry](httpss://genefish.wordpress.com/2017/06/02/oly-assembly-try-2-its-yuuuuuuge/)
+    * [Notebook entry](https://genefish.wordpress.com/2017/06/02/oly-assembly-try-2-its-yuuuuuuge/)
 
 
 

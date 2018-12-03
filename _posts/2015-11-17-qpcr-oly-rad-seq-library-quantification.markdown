@@ -23,7 +23,7 @@ tags:
   - RAD-seq
 ---
 
-The final step before sequencing these 2bRAD libraries is to quantify them. [Used the KAPA Illumina Quantification Kit (KAPA Biosystems) according to the manufacturer's protocol](httpss://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/KAPA_Biosystems_KAPA_Library_Quantification_Illumina_Manual_July2014.pdf).
+The final step before sequencing these 2bRAD libraries is to quantify them. [Used the KAPA Illumina Quantification Kit (KAPA Biosystems) according to the manufacturer's protocol](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/KAPA_Biosystems_KAPA_Library_Quantification_Illumina_Manual_July2014.pdf).
 
 Made 1:4 dilutions of each library to use as template.
 

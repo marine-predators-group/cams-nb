@@ -29,7 +29,7 @@ So, I ran 5μL of each of those samples on a 0.8% agarose 1x modified TAE gel w/
 
 Results:
 
-[![](httpss://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_gDNA.png)
 

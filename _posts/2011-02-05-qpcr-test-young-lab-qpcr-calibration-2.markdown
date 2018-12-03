@@ -53,6 +53,6 @@ Results:
 
 Absolutely no amplification of any kind. However, I did use one of our conventional PCR plates and not one of the ABI "prism" plates. Additionally, when I removed the plate from the machine, the plate looked as though it had been vigorously shaken:
 
-![](httpss://lh6.googleusercontent.com/_Mm7i0Up2xoE/TVAvuZUsOzI/AAAAAAAAHsQ/Woi0u7S68Ik/s400/IMAG0030.jpg)
+![](https://lh6.googleusercontent.com/_Mm7i0Up2xoE/TVAvuZUsOzI/AAAAAAAAHsQ/Woi0u7S68Ik/s400/IMAG0030.jpg)
 
 Will repeat this qPCR with a proper ABI "prism" plate.

@@ -26,4 +26,4 @@ This time, I pulverized ctenidia and foot tissues under liquid nitrogen with mor
 
 I sent pulverized tissue on dry ice. [Tissue was collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
-FedEx tracking: [770975522511](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770975522511&clienttype=ivshpalrt)
+FedEx tracking: [770975522511](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770975522511&clienttype=ivshpalrt)

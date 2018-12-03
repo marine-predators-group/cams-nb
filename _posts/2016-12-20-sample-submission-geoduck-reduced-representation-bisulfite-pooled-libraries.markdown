@@ -19,15 +19,15 @@ tags:
 
 Hollie Putnam asked me to help her get samples ready for submission for Illumina sequencing at Genewiz.
 
-She had previously prepared [reduced representation bisulfite libraries on 20161215](httpss://hputnam.github.io/Putnam_Lab_Notebook/Geoduck-RRBS-Library-Prep-part-3/).
+She had previously prepared [reduced representation bisulfite libraries on 20161215](https://hputnam.github.io/Putnam_Lab_Notebook/Geoduck-RRBS-Library-Prep-part-3/).
 
-She also prepped a [whole genome library on 20161201 - specifically sample EPI_135 WG](httpss://hputnam.github.io/Putnam_Lab_Notebook/Geoduck_RRBS_Library_Prep/).
+She also prepped a [whole genome library on 20161201 - specifically sample EPI_135 WG](https://hputnam.github.io/Putnam_Lab_Notebook/Geoduck_RRBS_Library_Prep/).
 
 She needed these samples combined in to four separate pools. However, Pool 5 was to be pooled with a total of five samples, including EPI_135 WG. She asked that the EPI_135 WG sample make up 50% of the DNA in the pool.
 
 Using her previously determined sample concentrations, I pooled the libraries in equal quantities.
 
-Calculations (Google Sheet): [20161219_hollie_library_pool_calcs](httpss://docs.google.com/spreadsheets/d/1mOf7zOJhwH_Lhe8Ud5sNuqwOpIH52omCTh9DLxR_Fsk/edit?usp=sharing)
+Calculations (Google Sheet): [20161219_hollie_library_pool_calcs](https://docs.google.com/spreadsheets/d/1mOf7zOJhwH_Lhe8Ud5sNuqwOpIH52omCTh9DLxR_Fsk/edit?usp=sharing)
 
 The pool volumes are high and, the calculated pool concentrations are low. Due to time limitations on our end, it was not feasible for me to SpeedVac these down to achieve the target concentration of 10nM. I've notified Hollie and asked her to see if Genewiz will perform that service.
 

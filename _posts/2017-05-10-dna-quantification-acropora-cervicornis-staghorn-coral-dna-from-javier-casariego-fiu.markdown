@@ -91,8 +91,8 @@ Results:
 
 Three samples are too dilute for immediate use in the MethylFlash Methylated DNA Quantification Kit (Colorimetric) - max sample volume is 8uL. Will have to concentrate them (will likely use SpeedVac to prevent sample loss).
 
-Values were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](httpss://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
+Values were added to the spreadsheet provided by Javier (Google Sheet): [A.cervicornis_DNA_Extractions(May_2017).xlsx](https://docs.google.com/spreadsheets/d/1VOZI7LkzBx6tm0RsQQicRNOCKMf83wZb4CMWcdukXgQ/edit?usp=sharing)
 
-Qubit output file (Google Sheet): [20170510_qubit_A_cervicornis_DNA](httpss://docs.google.com/spreadsheets/d/1p0S4fUjKqjbvP_GozzCEfxc_y7oah2rmYy0YqFNofxs/edit?usp=sharing)
+Qubit output file (Google Sheet): [20170510_qubit_A_cervicornis_DNA](https://docs.google.com/spreadsheets/d/1p0S4fUjKqjbvP_GozzCEfxc_y7oah2rmYy0YqFNofxs/edit?usp=sharing)
 
 

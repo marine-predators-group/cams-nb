@@ -70,7 +70,7 @@ Here are some of the struggles so far:
 
 
 
-  * Can't install one of the dependencies ([SOAP error correction](httpss://sourceforge.net/projects/soapdenovo2/files/ErrorCorrection/))
+  * Can't install one of the dependencies ([SOAP error correction](https://sourceforge.net/projects/soapdenovo2/files/ErrorCorrection/))
 
 
   * Actually, I need to try the binary version of this, instead of the source version (the source version fails at the `make` step)

@@ -44,4 +44,4 @@ SN-10-25
 SN-10-26
 SN-10-31
 
-All samples were sent on dry ice via FedEx Standard Overnight: [779698651635](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=779698651635&clienttype=ivother)
+All samples were sent on dry ice via FedEx Standard Overnight: [779698651635](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=779698651635&clienttype=ivother)

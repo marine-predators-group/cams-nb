@@ -17,4 +17,4 @@ tags:
   - LTP01
 ---
 
-The two primer plates ([LTP01F, LTP01R](httpss://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdGc3bXRJYkVDbWR3UnJCZFFyM2xPbkE&hl=en)) were received today. Primers (supplied as 10 nmoles of each) will be reconstituted with 100uL of PCR H2O to make a Cf of 100uM. Forward and reverse primers will be combined in a new plate, in equal volumes, to give a Cf of 50uM. These combined primers will be used to test them on pooled lake trout DNA to identify functional primer pairs for use in HRM.
+The two primer plates ([LTP01F, LTP01R](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdGc3bXRJYkVDbWR3UnJCZFFyM2xPbkE&hl=en)) were received today. Primers (supplied as 10 nmoles of each) will be reconstituted with 100uL of PCR H2O to make a Cf of 100uM. Forward and reverse primers will be combined in a new plate, in equal volumes, to give a Cf of 50uM. These combined primers will be used to test them on pooled lake trout DNA to identify functional primer pairs for use in HRM.

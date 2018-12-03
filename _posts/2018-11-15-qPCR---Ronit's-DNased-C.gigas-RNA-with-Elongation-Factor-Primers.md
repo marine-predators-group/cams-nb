@@ -16,7 +16,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-After [DNasing Ronit's RNA earlier today](httpss://robertslab.github.io/sams-notebook/2018/11/15/DNase-Ronit's-C.gigas-Ctenidia-RNA.html), I needed to verify the RNA was free of any contaminating gDNA.
+After [DNasing Ronit's RNA earlier today](https://robertslab.github.io/sams-notebook/2018/11/15/DNase-Ronit's-C.gigas-Ctenidia-RNA.html), I needed to verify the RNA was free of any contaminating gDNA.
 
 Used elongation factor primers:
 
@@ -31,7 +31,7 @@ Used elongation factor primers:
 
   qPCR master mix calcs (Google Sheet):
 
-* [20181115_qPCR_Ronit_Cgigas_DNased_RNA](httpss://docs.google.com/spreadsheets/d/1OYVf7XhUydsK7SrhT3plEL0ykcRIrxzy1Wf7f9OOe68/edit?usp=sharing)
+* [20181115_qPCR_Ronit_Cgigas_DNased_RNA](https://docs.google.com/spreadsheets/d/1OYVf7XhUydsK7SrhT3plEL0ykcRIrxzy1Wf7f9OOe68/edit?usp=sharing)
 
 #### Results
 

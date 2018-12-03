@@ -38,16 +38,16 @@ Other tissue was from a single, adult geoduck, collected by [Brent & Steven on 2
   3. Ctenidia
 
 
-  4. Juvenile OA exposure (super low)  ([EPI_115, EPI_116](httpss://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
+  4. Juvenile OA exposure (super low)  ([EPI_115, EPI_116](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
 
 
-  5. Juvenile ambient exposure (ambient treatment) ([EPI_123, EPI_124](httpss://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
+  5. Juvenile ambient exposure (ambient treatment) ([EPI_123, EPI_124](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
 
 
-  6. Larvae day 0 ([EPI_74, EPI_75](httpss://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
+  6. Larvae day 0 ([EPI_74, EPI_75](https://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
 
 
-  7. Larvae day 5 ([EPI_99](httpss://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
+  7. Larvae day 5 ([EPI_99](https://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
 
 
   8. Crystalline style
@@ -62,7 +62,7 @@ Other tissue was from a single, adult geoduck, collected by [Brent & Steven on 2
   11. Labial palps
 
 
-  12. Juvenile OA exposure - low treatment ([EPI_107, EPI_108](httpss://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
+  12. Juvenile OA exposure - low treatment ([EPI_107, EPI_108](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv))
 
 
 

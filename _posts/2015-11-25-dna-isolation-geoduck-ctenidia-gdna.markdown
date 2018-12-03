@@ -81,7 +81,7 @@ For the Qubit, the samples were quantified using the Qubit dsDNA BR reagents (In
 
 Results:
 
-Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](httpss://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
+Qubit Data (Google Sheet): [20151125_qubit_gDNA_geoduck_oly_quants](https://docs.google.com/spreadsheets/d/1ML7lMB_To9GGNcRwemRQzfYgsQgGrckXINwxACfgKck/edit?usp=sharing)
 
 <table >
 <tbody >

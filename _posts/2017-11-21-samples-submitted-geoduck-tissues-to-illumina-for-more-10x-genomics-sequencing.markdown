@@ -21,4 +21,4 @@ Continuing Illumina's generous efforts to use our geoduck samples to test out th
 
 I sent three frozen pieces of geoduck foot, ctenidia, & adductor muscle tissue on dry ice. [Tissue was collected by Brent & Steven on 20150811](https://onsnetwork.org/halfshell/2015/08/11/big-day-big-clam/).
 
-FedEx tracking: [770796037903](httpss://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770796037903&clienttype=ivshpalrt)
+FedEx tracking: [770796037903](https://www.fedex.com/apps/fedextrack/?action=track&tracknumbers=770796037903&clienttype=ivshpalrt)

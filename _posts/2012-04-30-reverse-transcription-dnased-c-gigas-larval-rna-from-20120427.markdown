@@ -21,4 +21,4 @@ Performed reverse transcription using random primers (Promega) diluted 1:100 (5n
 
 
 
-Created dilutions of all samples to 100ng/uL in a volume of 50uL in preparation for qPCR analysis. [Calcs are here](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdElfN0xId2dZWTNkVmk5Ql9ZVW4tcWc#gid=0).
+Created dilutions of all samples to 100ng/uL in a volume of 50uL in preparation for qPCR analysis. [Calcs are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdElfN0xId2dZWTNkVmk5Ql9ZVW4tcWc#gid=0).

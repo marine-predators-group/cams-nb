@@ -21,7 +21,7 @@ tags:
 
 TL;DR - Server didn't recover after firmware update last night. "Repair" is an option listed in the web interface, but I want to confirm with Synology what will happen if/when I click that button...
 
-The data on Owl is synced here (Google Drive): [UW Google Drive](httpss://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk)
+The data on Owl is synced here (Google Drive): [UW Google Drive](https://drive.google.com/drive/folders/0BzKkDWZ6tIK4eXV4VFB3VHN2ZUk)
 
 However, not all of Owl was fully synced at the time of this failure, so it seems like a decent amount of data is not accessible. Inaccessible data is mostly from individual user directories.
 

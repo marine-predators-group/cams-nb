@@ -38,7 +38,7 @@ Briefly, three sets (i.e. populations) of [Olympia oyster tissue was collected f
 
 
 
-An overview of this project can be viewed on our [GitHub Olympia oyster wiki](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015).
+An overview of this project can be viewed on our [GitHub Olympia oyster wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genotype-by-sequencing-November-2015).
 
 Data was copied from the HDD to the following location on Owl (our server): [https://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/](http://owl.fish.washington.edu/nightingales/O_lurida/20160223_gbs/)
 

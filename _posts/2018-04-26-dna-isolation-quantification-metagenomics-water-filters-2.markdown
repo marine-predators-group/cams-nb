@@ -65,7 +65,7 @@ Used 5μL of each sample for measurement (see Results for update).
 
 
 
-Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](httpss://docs.google.com/spreadsheets/d/1v8H6ruVeF-zQCBOo8fWYj08yChqxwcfWhV1KZZXUo04/edit?usp=sharing)
+Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](https://docs.google.com/spreadsheets/d/1v8H6ruVeF-zQCBOo8fWYj08yChqxwcfWhV1KZZXUo04/edit?usp=sharing)
 
 <table >
 
@@ -150,4 +150,4 @@ Raw data (Google Sheet): [20180426_qubit_metagenomics_filters](httpss://docs.goo
 </tbody>
 </table>
 
-Samples were stored [Sam gDNA Box #2, positions G8 - H3.](httpss://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer))
+Samples were stored [Sam gDNA Box #2, positions G8 - H3.](https://docs.google.com/spreadsheets/d/1SWzKMKh7LBOgTfvEhJamE6pZFsTpRXY7otzXUC5fZSM/edit?usp=sharing) (FTR 213, #27 (small -20oC frezer))

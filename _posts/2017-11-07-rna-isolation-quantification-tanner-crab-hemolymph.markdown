@@ -140,7 +140,7 @@ RNA was quantified using the Qubit 3.0 and the Qubit HS RNA Assay. Used 5uL of e
 
 Results:
 
-[20171107_qubit_tanner_crab_hemo](httpss://docs.google.com/spreadsheets/d/17J011Qt7SQknVTkeoqVts349n-LNvFVPeeyuNNByLuE/edit?usp=sharing) (Google Sheet)
+[20171107_qubit_tanner_crab_hemo](https://docs.google.com/spreadsheets/d/17J011Qt7SQknVTkeoqVts349n-LNvFVPeeyuNNByLuE/edit?usp=sharing) (Google Sheet)
 
 <table >
 
@@ -189,4 +189,4 @@ Results:
 
 Interestingly, both samples from the same crab had similar/decent yields.
 
-Samples were labeled and [stored at -80C](httpss://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing) in [Shellfish RNA Box #6](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing)
+Samples were labeled and [stored at -80C](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing) in [Shellfish RNA Box #6](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit?usp=sharing)

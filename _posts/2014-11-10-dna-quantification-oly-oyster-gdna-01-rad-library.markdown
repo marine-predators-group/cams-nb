@@ -27,4 +27,4 @@ Average size = ~500bp (400bp extracted from gel + 100bp of adapters)
 
 Molar concentration of the RAD library is 56.63nM.
 
-Calcs are here: [20141110 - Oly Oyster gDNA-01 RAD Library Calcs](httpss://docs.google.com/spreadsheets/d/13x43h_UrORasUZZPhPyCB0RIu0Kbjh3M1YBA_0Ee5dA/edit?usp=sharing)
+Calcs are here: [20141110 - Oly Oyster gDNA-01 RAD Library Calcs](https://docs.google.com/spreadsheets/d/13x43h_UrORasUZZPhPyCB0RIu0Kbjh3M1YBA_0Ee5dA/edit?usp=sharing)

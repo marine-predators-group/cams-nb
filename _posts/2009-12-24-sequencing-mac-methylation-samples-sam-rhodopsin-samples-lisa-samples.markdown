@@ -19,4 +19,4 @@ tags:
   - Ultrafree-DA
 ---
 
-Samples were submitted for sequencing. Mac prepped all Roberts Lab samples excluding the Opsin VMC gel slice 2 from 20091217-02. The gel slice was purified with Millipore spin columns. The sample was diluted 1:1 with H2O and submitted for sequencing, one time from each direction using the Sep_Op_Fw2/Rv2 primers. [Plate layout can be found here on sheet labeled "20091223"](httpss://spreadsheets.google.com/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&hl=en).
+Samples were submitted for sequencing. Mac prepped all Roberts Lab samples excluding the Opsin VMC gel slice 2 from 20091217-02. The gel slice was purified with Millipore spin columns. The sample was diluted 1:1 with H2O and submitted for sequencing, one time from each direction using the Sep_Op_Fw2/Rv2 primers. [Plate layout can be found here on sheet labeled "20091223"](https://spreadsheets.google.com/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&hl=en).

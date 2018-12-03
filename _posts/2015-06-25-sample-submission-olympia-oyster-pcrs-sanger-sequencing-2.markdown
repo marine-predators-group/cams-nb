@@ -20,6 +20,6 @@ tags:
 
 Submitted a plate of purified PCR products (PCR products prepared by Jake on [20150623](https://heareresearch.blogspot.com/2015/06/6-23-2015-flanking-primer-pcr-pt-3.html)) that Jake set up yesterday, to the [UW High-Throughput Genomics Center](http://www.htseq.org/) for Sanger sequencing.
 
-Plate layout is here (Google Sheet): [sequence_log](httpss://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)
+Plate layout is here (Google Sheet): [sequence_log](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAcHljOFBWd3pLTUJwbUxkdkg1OGdCY3c&usp=sharing)
 
 Order #:112442

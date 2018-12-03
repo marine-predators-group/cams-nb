@@ -27,4 +27,4 @@ Results:
 
 ![](https://eagle.fish.washington.edu/Arabidopsis//RNA%20Spec%20Readings/201200710%20Chloroformed%20QPX%20RNA%20ODs-02.JPG)
 
-As suspected, most of these samples have absolutely no RNA in them. However, the samples that do (the "Control" samples), look great! Pooled 2ug each of the RT Control a & b samples and pooled 2ug each of the 10C Control a & b samples (which are ATCC). [Calculations are here](httpss://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdG83MFVDZVc3V2lIRzVjcUlxenN6VEE). Will take them down to HTGU tomorrow to replace the bad samples that were provided yesterday.
+As suspected, most of these samples have absolutely no RNA in them. However, the samples that do (the "Control" samples), look great! Pooled 2ug each of the RT Control a & b samples and pooled 2ug each of the 10C Control a & b samples (which are ATCC). [Calculations are here](https://docs.google.com/spreadsheet/ccc?key=0AmS_90rPaQMzdG83MFVDZVc3V2lIRzVjcUlxenN6VEE). Will take them down to HTGU tomorrow to replace the bad samples that were provided yesterday.

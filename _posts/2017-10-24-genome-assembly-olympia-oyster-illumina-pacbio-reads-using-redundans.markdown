@@ -41,7 +41,7 @@ Copied output files to Owl: [https://owl.fish.washington.edu/Athaliana/20171024_
 
 Here's the desired output file (FASTA): [scaffolds.reduced.fa](https://owl.fish.washington.edu/Athaliana/20171024_docker_oly_redundans_01/scaffolds.reduced.fa)
 
-Will add to our [genome assemblies table.](httpss://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
+Will add to our [genome assemblies table.](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies)
 
 Ran Quast on 20171103 for some assembly stats.
 

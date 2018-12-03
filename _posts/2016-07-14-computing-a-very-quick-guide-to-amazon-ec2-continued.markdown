@@ -17,7 +17,7 @@ tags:
   - scp
 ---
 
-[Yesterday's post](2016/07/13/computing-the-very-quick-guide-to-amazon-web-services-cloud-computing-instances-ec2.html) ended with me trying to mount a S3 bucket to my EC2 instance using [s3fs-fuse](httpss://github.com/s3fs-fuse/s3fs-fuse).
+[Yesterday's post](2016/07/13/computing-the-very-quick-guide-to-amazon-web-services-cloud-computing-instances-ec2.html) ended with me trying to mount a S3 bucket to my EC2 instance using [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse).
 
 Waited for the 36GB of data to copy over to new bucket with proper naming (i.e. no capital letters in name). Copying took hours; left lab before copying completed.
 
@@ -35,7 +35,7 @@ Waited for the 36GB of data to copy over to new bucket with proper naming (i.e. 
 
 
 
-So, that didn't work. The reason that it doesn't work is that I uploaded the files to the S3 bucket via the Amazon AWS command line (awscli). Apparently, s3fs-fuse can't mount S3 buckets that contain data uploaded via awscli [[see this GitHub Issue for s3fs-fuse](httpss://github.com/s3fs-fuse/s3fs-fuse/issues/333)]! However, I had to upload them via awscli because the web interface kept failing!
+So, that didn't work. The reason that it doesn't work is that I uploaded the files to the S3 bucket via the Amazon AWS command line (awscli). Apparently, s3fs-fuse can't mount S3 buckets that contain data uploaded via awscli [[see this GitHub Issue for s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse/issues/333)]! However, I had to upload them via awscli because the web interface kept failing!
 
 
 

@@ -22,8 +22,8 @@ Made 25nM working stock from the 100nM stock adapter plate provided by Carita. A
 
 Created master mix of the ligation components and added 3uL to each well of SbfI-digested Oly gDNA.
 
-Master mix calcs are here: [20141105 - Oly Oyster gDNA-01 Adapter Ligation](httpss://docs.google.com/spreadsheets/d/1r0MymljpYBtIaindqV63i4ZEeYgl80TCN5ZDj2u8I3s/edit?usp=sharing)
+Master mix calcs are here: [20141105 - Oly Oyster gDNA-01 Adapter Ligation](https://docs.google.com/spreadsheets/d/1r0MymljpYBtIaindqV63i4ZEeYgl80TCN5ZDj2u8I3s/edit?usp=sharing)
 
 Incubated @20C for 60mins. Deactivated ligase @65C for 30mins. Stored @ 4C.
 
-Adapter plate layout and sequences can be found here: [96_SbfI_RAD_adapter_sequences](httpss://docs.google.com/spreadsheets/d/1RRKNb24NJr90fsnyYVYmOZZ9OCrbBu7-KmTfXYYwXpw/edit?usp=sharing)
+Adapter plate layout and sequences can be found here: [96_SbfI_RAD_adapter_sequences](https://docs.google.com/spreadsheets/d/1RRKNb24NJr90fsnyYVYmOZZ9OCrbBu7-KmTfXYYwXpw/edit?usp=sharing)

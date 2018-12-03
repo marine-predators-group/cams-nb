@@ -20,11 +20,11 @@ tags:
   - tanner crab
 ---
 
-Grace had previously pooled a set of crab RNA in preparation for RNAseq. [Yesterday, we/she concentrated the samples and then quantified them](httpss://grace-ac.github.io/Crab-pools-pt-2-Skyline/). Unfortunately, Qubit results were not good (concentrations were _far_ below the expected 20ng/uL) and the NanoDrop1000 results yielded awful looking curves.
+Grace had previously pooled a set of crab RNA in preparation for RNAseq. [Yesterday, we/she concentrated the samples and then quantified them](https://grace-ac.github.io/Crab-pools-pt-2-Skyline/). Unfortunately, Qubit results were not good (concentrations were _far_ below the expected 20ng/uL) and the NanoDrop1000 results yielded awful looking curves.
 
 In an attempt to figure out what was wrong, I decided to use the RNeasy Plus Mini Kit (Qiagen) on the three pools. I did this due to the poor spec curves seen in the NanoDrop1000 measurements. Additionally, all of the RNA pools had undissolved/insoluble bits floating around in them. My thinking was that excess contaminants/salts could be interfering with the Qubit assay. Removing these could/should enlighten us as to what the issue might be.
 
-Followed the [manufacturer's protocol for RNeasy MiniElute Cleanup Kit (as the RNeasy Plus Mini Kit uses the same reagents/columns for RNA purification) for samples with <100uL](httpss://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-MinElute-Cleanup-Handbook.pdf).
+Followed the [manufacturer's protocol for RNeasy MiniElute Cleanup Kit (as the RNeasy Plus Mini Kit uses the same reagents/columns for RNA purification) for samples with <100uL](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Qiagen_RNeasy-MinElute-Cleanup-Handbook.pdf).
 
 Samples were quantified on the RobertsLab NanoDrop1000 (ThermoFisher) and the Qubit 3.0 (ThermoFisher) using the RNA high sensitivity (HS) Kit. Used 1uL of each sample.
 
@@ -34,7 +34,7 @@ Samples were quantified on the RobertsLab NanoDrop1000 (ThermoFisher) and the Qu
 
 
 
-Qubit (Google Sheet): [20180719_qubit_RNA_crab_pools](httpss://docs.google.com/spreadsheets/d/16m72gJ_ne5ccBaUxEzzX03RRgeVUNbnqWzXQa2EAj30/edit?usp=sharing)
+Qubit (Google Sheet): [20180719_qubit_RNA_crab_pools](https://docs.google.com/spreadsheets/d/16m72gJ_ne5ccBaUxEzzX03RRgeVUNbnqWzXQa2EAj30/edit?usp=sharing)
 
 NanoDrop:
 

@@ -22,7 +22,7 @@ tags:
 
 [Yesterday, I ran TrimGalore/FastQC/MultiQC on the _Crassostrea virginica_ MBD BS-seq data from ZymoResearch](2018/04/09/trimgalorefastqcmultiqc-auto-trim-c-virginica-mbd-bs-seq-fastq-data.html) with the default settings (i.e. "auto-trim"). There was still some variability in the first ~15bp of the reads and Steven wanted to see how a hard trim would change things.
 
-I ran [TrimGalore](httpss://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the first 14bp of each read and followed up with MultiQC for a summary of the FastQC reports.
+I ran [TrimGalore](https://github.com/FelixKrueger/TrimGalore) (using the built-in FastQC option), with a hard trim of the first 14bp of each read and followed up with MultiQC for a summary of the FastQC reports.
 
 TrimGalore job script:
 

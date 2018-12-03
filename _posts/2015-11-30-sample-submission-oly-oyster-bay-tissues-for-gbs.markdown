@@ -29,6 +29,6 @@ Tissues were collected by Brent, Steven & Jake on 20151124 and were frozen @ -80
 
 36 samples from each of the three populations were collected. Only 32 samples from each population (total 96 samples) will be sequenced, but wanted to send extras from each population in case any were of poor quality.
 
-Sample submission sheet is here (Google Sheet): [20151130_BGI_GBS_tissue_submission](httpss://docs.google.com/spreadsheets/d/1K3kBfFd-__DYB4OROcDBXyj_TGPpAWLAzXpReviuMAQ/edit?usp=sharing)
+Sample submission sheet is here (Google Sheet): [20151130_BGI_GBS_tissue_submission](https://docs.google.com/spreadsheets/d/1K3kBfFd-__DYB4OROcDBXyj_TGPpAWLAzXpReviuMAQ/edit?usp=sharing)
 
 [![](https://eagle.fish.washington.edu/Arabidopsis/20151130_oly_tissue_gbs_bgi.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151130_oly_tissue_gbs_bgi.JPG)

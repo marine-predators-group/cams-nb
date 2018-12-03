@@ -65,4 +65,4 @@ DNA looks absolutely pristine and has amazing yields.
 
 Will check gDNA integrity via agarose gel tomorrow.
 
-Data has been entered into the master spreadsheet for this project: [Ostrea lurida Project Master Tissue Sample List](httpss://docs.google.com/spreadsheets/d/1tPvult9e0vqd5sPOTlcQqLXTfIv987rivsQVZj8DGgE/edit?usp=sharing)
+Data has been entered into the master spreadsheet for this project: [Ostrea lurida Project Master Tissue Sample List](https://docs.google.com/spreadsheets/d/1tPvult9e0vqd5sPOTlcQqLXTfIv987rivsQVZj8DGgE/edit?usp=sharing)

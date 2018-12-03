@@ -49,4 +49,4 @@ Not surprisingly, the samples from Katie Latterhos yielded, essentially, no gDNA
 
 Steven sent me this screen cap of Emma's notebook so we could track where the samples originated from
 
-![](httpss://www.evernote.com/shard/s10/sh/5e19089d-0c31-426b-844a-e46249fac4e4/907d17586bd2b4eb0603686c9560f0dd/deep/0/genefish---Emma%27s-Notebook.png)
+![](https://www.evernote.com/shard/s10/sh/5e19089d-0c31-426b-844a-e46249fac4e4/907d17586bd2b4eb0603686c9560f0dd/deep/0/genefish---Emma%27s-Notebook.png)
