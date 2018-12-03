@@ -76,6 +76,6 @@ Nightingales spreadsheet was updated with file info and FastQC info:
 
 
 
-  * [Nightingales (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
+  * [Nightingales (Google Sheet)(https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing)
 
 

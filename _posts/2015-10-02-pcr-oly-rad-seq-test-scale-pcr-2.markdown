@@ -254,7 +254,7 @@ These samples were run on a 1x modified TAE 2% agarose gel (w/EtBr).
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151002_oly_RAD_gel.jpg)
 
 
 
@@ -286,7 +286,7 @@ The two lower molecular weight bands are very likely primer dimers. The Meyer La
 
 Since we've been following along with [Katherine Silliman's 2bRAD progress](https://marinegenes.com/2015/09/23/tuesday-92215/), here's an image of her test scale PCR to compare to ours:
 
-[caption id="" align="alignnone" width="571"][![](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg)](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg) Katherine's test scale PCR. Notice how much more prominent her bands are in all cycle groups, compared to my gel above.[/caption]
+[caption id="" align="alignnone" width="571"]![](https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg)(https://marinegenes.files.wordpress.com/2015/09/9_22_15.jpg) Katherine's test scale PCR. Notice how much more prominent her bands are in all cycle groups, compared to my gel above.[/caption]
 
 
 

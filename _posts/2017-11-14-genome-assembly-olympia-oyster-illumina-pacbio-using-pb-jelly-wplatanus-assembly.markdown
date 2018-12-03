@@ -58,7 +58,7 @@ See the Jupyter Notebook for full details of run (see Results section below).
 
 Output folder: [https://owl.fish.washington.edu/Athaliana/20171113_oly_pbjelly/](http://owl.fish.washington.edu/Athaliana/20171113_oly_pbjelly/)
 
-This completed very quickly (like, just a couple of hours). I also didn't experience the woes of multimillion temp file production that [killed Sean's attempt at running this on Mox (Hyak)](https://genefish.wordpress.com/2017/05/04/lots-of-moving-files-and-output-stuff/).
+This completed very quickly (like, just a couple of hours). I also didn't experience the woes of multimillion temp file production that [killed Sean's attempt at running this on Mox (Hyak)(https://genefish.wordpress.com/2017/05/04/lots-of-moving-files-and-output-stuff/).
 
 However, it doesn't seem to have produced an assembly!
 

@@ -18,7 +18,7 @@ tags:
   - SparseAssembler
 ---
 
-Steven came across a [2012 paper in BMC Bioinformatics ("Exploiting sparseness in _de novo_ genome assembly")](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1) that utilized an assembly program we hadn't previously encountered: [SparseAssembler](https://sourceforge.net/projects/sparseassembler/)
+Steven came across a [2012 paper in BMC Bioinformatics ("Exploiting sparseness in _de novo_ genome assembly")(https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1) that utilized an assembly program we hadn't previously encountered: [SparseAssembler](https://sourceforge.net/projects/sparseassembler/)
 
 This software is intended to greatly reduce the required amount of RAM necessary to process very large assembly data sets. [As I previously learned, RAM is a limiting factor for assembly programs](2018/02/19/assembly-geoduck-illumina-novaseq-soapdenovo2-on-mox-fail.html), and the install (if you can even call it that) was simply upacking a zip file ([program installations on Mox are not trivial](2018/02/21/novaseq-assembly-the-struggle-is-real-real-annoying.html)so this seems like it has promise!
 

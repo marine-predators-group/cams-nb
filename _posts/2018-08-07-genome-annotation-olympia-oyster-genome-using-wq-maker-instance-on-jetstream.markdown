@@ -23,7 +23,7 @@ tags:
   - Xsede
 ---
 
-Yesterday, our [Xsede Startup Application (Google Doc)](https://docs.google.com/document/d/1v4ukb4M3ZY73KaBsYjcmF35pAE2pEGH9AevdXAxCONI/edit?usp=sharing) got approval for 100,000 Service Units (SUs) and 1TB of disk space on Xsede/Atmosphere/Jetstream (or, whatever it's actually called!). The approval happened within an hour of submitting the application!
+Yesterday, our [Xsede Startup Application (Google Doc)(https://docs.google.com/document/d/1v4ukb4M3ZY73KaBsYjcmF35pAE2pEGH9AevdXAxCONI/edit?usp=sharing) got approval for 100,000 Service Units (SUs) and 1TB of disk space on Xsede/Atmosphere/Jetstream (or, whatever it's actually called!). The approval happened within an hour of submitting the application!
 
 Here's a copy of the approval notice:
 

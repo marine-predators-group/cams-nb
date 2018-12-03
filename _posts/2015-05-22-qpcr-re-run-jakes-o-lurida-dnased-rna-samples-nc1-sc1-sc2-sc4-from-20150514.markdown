@@ -100,7 +100,7 @@ No amplification in any of the RNA samples, nor the NTCs. Will make cDNA.
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Amp_Jake_Oly_DNased%20RNA_.JPG)
 
 
 
@@ -112,4 +112,4 @@ No amplification in any of the RNA samples, nor the NTCs. Will make cDNA.
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150521_qPCR_Melt_Jake_Oly_DNased%20RNA_.JPG)

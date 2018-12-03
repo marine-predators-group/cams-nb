@@ -108,9 +108,9 @@ M2/M3 = C.gigas from Katie Lotterhos
 
 
 
-Followed the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
+Followed the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)(https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
 
-Used the [EZ DNA Methylation-Gold Kit (ZymoResearch)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ZymoResearch_EZ_DNA_Methylation-Gold_Kit_d5005i.pdf) according to the manufacturer's protocol with the following changes/notes:
+Used the [EZ DNA Methylation-Gold Kit (ZymoResearch)(https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ZymoResearch_EZ_DNA_Methylation-Gold_Kit_d5005i.pdf) according to the manufacturer's protocol with the following changes/notes:
 
 
 

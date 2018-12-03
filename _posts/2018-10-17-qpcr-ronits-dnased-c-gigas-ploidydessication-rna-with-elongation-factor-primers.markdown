@@ -28,7 +28,7 @@ tags:
   - triploid
 ---
 
-[After I figured out the appropriate DNA and primers to use to detect gDNA in _Crassostrea gigas_ samples](2018-10-16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers.html), I checked Ronit's [DNased ctenidia RNA (from 20181016)](2018-10-16-dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html) for residual gDNA.
+[After I figured out the appropriate DNA and primers to use to detect gDNA in _Crassostrea gigas_ samples](2018-10-16/qpcr-c-gigas-primer-and-gdna-tests-with-18s-and-ef1-primers.html), I checked Ronit's [DNased ctenidia RNA (from 20181016)(2018-10-16-dnase-treatment-ronits-c-gigas-ploiyddessication-ctenidia-rna.html) for residual gDNA.
 
 Elongation factor primers:
 

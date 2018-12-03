@@ -23,7 +23,7 @@ It's data assembled from the small insert libraries they created for this projec
 
 All data is stored here: [https://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20160512/](http://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20160512/)
 
-They've provided a [Genome Survey (PDF)](https://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20160512/20160512_F15FTSUSAT0328_genome_survey.pdf) that has some info about the data they've assembled. In it, is the estimated genome size:
+They've provided a [Genome Survey (PDF)(https://owl.fish.washington.edu/P_generosa_genome_assemblies_BGI/20160512/20160512_F15FTSUSAT0328_genome_survey.pdf) that has some info about the data they've assembled. In it, is the estimated genome size:
 
 Geoduck genome size: 2972.9 Mb
 

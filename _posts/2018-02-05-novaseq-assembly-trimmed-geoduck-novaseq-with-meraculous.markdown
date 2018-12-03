@@ -24,7 +24,7 @@ tags:
 
 Attempted to use [Meraculous](https://jgi.doe.gov/data-and-tools/meraculous/) to assemble the [trimmed geoduck NovaSeq data](2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
 
-Here's the [Meraculous manual (PDF)](https://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf).
+Here's the [Meraculous manual (PDF)(https://1ofdmq2n8tc36m6i46scovo2e.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/Manual.pdf).
 
 After a bunch of various issues (running out of hard drive space - multiple times, config file issues, typos), I've finally given up on running meraculous. It failed, again, saying it couldn't find a file in a directory that _meraculous created_! I've emailed the authors and if they have an easy fix, I'll implement it and see what happens.
 

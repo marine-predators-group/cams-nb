@@ -82,7 +82,7 @@ Positive control samples are the only samples that produced amplification (cycle
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_1hr_HS.JPG)
 
 
 
@@ -92,4 +92,4 @@ Positive control samples are the only samples that produced amplification (cycle
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_1hr_HS.JPG)

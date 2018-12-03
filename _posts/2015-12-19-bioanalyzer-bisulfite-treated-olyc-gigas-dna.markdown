@@ -35,7 +35,7 @@ tags:
   - RNA Pico 6000
 ---
 
-Following the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf), I ran 1μL of each sample on an RNA Pico 6000 chip on the Seeb Lab's Bioanalyzer 2100 (Agilent) to confirm that [bisulfite conversion from earlier today](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) worked.
+Following the guidelines of the [TruSeq DNA Methylation Library Prep Guide (Illumina)(https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf), I ran 1μL of each sample on an RNA Pico 6000 chip on the Seeb Lab's Bioanalyzer 2100 (Agilent) to confirm that [bisulfite conversion from earlier today](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) worked.
 
 Results:
 
@@ -45,9 +45,9 @@ Data File 1(Bioanlyzer 2100): [2100 expert_Eukaryote Total RNA Pico_DE72902486_2
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_01.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_01.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_01.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_02.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_02.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_RNApico_oly_bisulfite_02.jpg)
 
 
 
@@ -55,4 +55,4 @@ Firstly, the ladder failed to produce any peaks. Not sure why this happened. Pos
 
 Overall, the samples look as they should (see image from TruSeq DNA Methylation Kit manual below), albeit some are a bit lumpy.
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_illumina_bisulfite.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_illumina_bisulfite.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_illumina_bisulfite.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151218_bioanalyzer_illumina_bisulfite.jpg)

@@ -59,7 +59,7 @@ These libraries were originally created by Hollie Putnam using the TruSeq DNA Me
 
 
 
-  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)](https://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
+  * [project_juvenile_geoduck_OA/Sample_Processing (GitHub)(https://github.com/hputnam/project_juvenile_geoduck_OA/tree/master/Sample_Processing)
 
 
 
@@ -102,7 +102,7 @@ Jupyter Notebook:
 
 
 
-  * [20180514_roadrunner_geoduck_RRBS_trimming.ipynb (GitHub)](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180514_roadrunner_geoduck_RRBS_trimming.ipynb)
+  * [20180514_roadrunner_geoduck_RRBS_trimming.ipynb (GitHub)(https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180514_roadrunner_geoduck_RRBS_trimming.ipynb)
 
 
 

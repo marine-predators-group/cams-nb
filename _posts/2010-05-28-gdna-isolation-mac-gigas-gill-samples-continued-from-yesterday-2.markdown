@@ -25,7 +25,7 @@ tags:
   - RNAlater
 ---
 
-Continued with gDNA isolation from yesterday's samples. Additionally, isolated gDNA from R51 01, but homogenized the tissue (using disposable 1.5mL mortar/pestle) in 0.5mL of DNAzol and topped off to 1.0mL. All 3 samples were gently pipetted up and down to further dissolve the tissue. For those samples that were subjected to Proteinase K digestion, I transferred 100uL of the solution to a new tube containing 1mL of DNAzol, [as described in the DNAzol protocol (see "Notes, #5" part of protocol)](https://www.mrcgene.com/dnazol.htm). Tubes were incubated 10mins @ RT.
+Continued with gDNA isolation from yesterday's samples. Additionally, isolated gDNA from R51 01, but homogenized the tissue (using disposable 1.5mL mortar/pestle) in 0.5mL of DNAzol and topped off to 1.0mL. All 3 samples were gently pipetted up and down to further dissolve the tissue. For those samples that were subjected to Proteinase K digestion, I transferred 100uL of the solution to a new tube containing 1mL of DNAzol, [as described in the DNAzol protocol (see "Notes, #5" part of protocol)(https://www.mrcgene.com/dnazol.htm). Tubes were incubated 10mins @ RT.
 
 Pelleted residual tissue 10mins @ 10,000g @ 4C. Transferred supe to new tubes. Precipitated DNA with 0.5mL 100% EtOH. Incubated 3mins @ RT. DNA was pelleted 5mins @ 5000g @ 4C. Supe was removed, pellets were washed with 1mL 75% EtOH (x2). Supe was fully removed and the pellets were resuspended in 8mM NaOH (made by Amanda Davis 5/20/10). See below for volumes:
 

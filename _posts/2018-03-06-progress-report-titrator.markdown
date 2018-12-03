@@ -240,7 +240,7 @@ So, I decided to explore this a bit further, using the CRMs that we have. I felt
 
 
 
-I ran five replicates of [CRM Batch 168 (PDF)](https://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf) at three different sample weights/volume (50g, 75g, 100g) to make sure the titrator was producing consistent results and evaulate how accurate our measurements are.
+I ran five replicates of [CRM Batch 168 (PDF)(https://github.com/RobertsLab/titrator/blob/master/data/crm_certifications/Batch168.pdf) at three different sample weights/volume (50g, 75g, 100g) to make sure the titrator was producing consistent results and evaulate how accurate our measurements are.
 
 Here's the R Studio Project folder with all the data/scripts used to gather the data and produce the plots:
 

@@ -179,7 +179,7 @@ Here are the calculated library concentrations, based on the KAPA Biosystems for
 
 Amplification plots of standard curve samples:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_amp.png)](http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_amp.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_amp.png)(http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_amp.png)
 
 
 
@@ -187,7 +187,7 @@ Amplification plots of standard curve samples:
 
 Melt curve plots of standard curve samples. Shows expected "shoulder" to the left of the primary peak:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_melt.png)](http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_melt.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_melt.png)(http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_stds_melt.png)
 
 
 
@@ -197,7 +197,7 @@ Melt curve plots of standard curve samples. Shows expected "shoulder" to the lef
 
 Amplification plots of RAD library samples:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_amp.png)](http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_amp.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_amp.png)(http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_amp.png)
 
 
 
@@ -205,7 +205,7 @@ Amplification plots of RAD library samples:
 
 Melt curve plots of RAD library samples. Peak on the right corresponds to primer dimer. Peak heights between primer dimer and desired PCR product are nearly equivalent for each respective sample, suggesting that each product is contributing equally to the fluorescence generated in the reactions:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_01.png)](http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_01.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_01.png)(http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_01.png)
 
 
 
@@ -213,4 +213,4 @@ Melt curve plots of RAD library samples. Peak on the right corresponds to primer
 
 Melt curve plot of Oly RAD library 30. Notice there's only a single peak due to the lack of primer dimers in this sample:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_02.png)](http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_02.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_02.png)(http://eagle.fish.washington.edu/Arabidopsis/20151117_RAD_qPCR_samples_melt_02.png)

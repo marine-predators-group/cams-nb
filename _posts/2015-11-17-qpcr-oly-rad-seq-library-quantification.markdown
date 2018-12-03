@@ -60,7 +60,7 @@ See the info below for more deets on this run.
 
 Default analysis settings need to be adjusted to account for how early the standard curve comes up. Otherwise, the Opticon software sets the baseline incorrectly:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_01.png)](http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_01.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_01.png)(http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_01.png)
 
 
 
@@ -70,7 +70,7 @@ Default analysis settings need to be adjusted to account for how early the stand
 
 The KAPA Quantification Kit indicates that the baseline calculations need to be extended to cycles 1 through 3. This allows the software to set the baseline threshold correctly:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_02.png)](http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_02.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_02.png)(http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_02.png)
 
 
 
@@ -80,7 +80,7 @@ The KAPA Quantification Kit indicates that the baseline calculations need to be 
 
 Melt curve analysis of the standard curve shows the expected profile - slight hump leading into the peak:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_std_melt.png)](http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_std_melt.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_std_melt.png)(http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_std_melt.png)
 
 
 
@@ -90,7 +90,7 @@ Melt curve analysis of the standard curve shows the expected profile - slight hu
 
 Melt curve analysis of the libraries. Dual peaks indicate primer dimer contamination:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_01.png)](http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_01.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_01.png)(http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_01.png)
 
 
 
@@ -98,4 +98,4 @@ Melt curve analysis of the libraries. Dual peaks indicate primer dimer contamina
 
 Melt curve analysis of Oly RAD Library 30. Shows the desired single peak, suggesting library is free of primer dimers:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_02.png)](http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_02.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_02.png)(http://eagle.fish.washington.edu/Arabidopsis/201501116_RAD_qPCR_library_melt_02.png)

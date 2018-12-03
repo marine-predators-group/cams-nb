@@ -21,7 +21,7 @@ tags:
   - Panopea generosa
 ---
 
-Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA (from 20150828)](2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot.html) and [Olympia oyster gDNA (from 20150901)](2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle.html).
+Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA (from 20150828)(2015/08/28/genomic-dna-isolation-geoduck-adductor-muscle-foot.html) and [Olympia oyster gDNA (from 20150901)](2015/09/01/genomic-dna-isolation-olympia-oyster-adductor-musle-mantle.html).
 
 Ran 500ng of each sample:
 
@@ -35,7 +35,7 @@ Oly mantle: 2.51μL
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)[![](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_geoduck_oly.jpg)
 
 
 

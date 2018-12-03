@@ -58,11 +58,11 @@ Results:
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_ODs.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150828_geoduck_gDNA_plots.JPG)
 
 
 

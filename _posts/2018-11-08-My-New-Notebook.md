@@ -38,6 +38,6 @@ I also needed to convert URLS within posts that linked to other notebook posts t
 
 I wrote the following script to do that conversion:
 
-- [jekyll_url_converter.sh (GitHub)](https://github.com/kubu4/Scripts/blob/master/bash/jekyll_url_converter.sh)
+- [jekyll_url_converter.sh (GitHub)(https://github.com/kubu4/Scripts/blob/master/bash/jekyll_url_converter.sh)
 
 Although that script looks short and sweet, it took an inordinate amount of time to make it functional (I really got hung up on the regex in the ```grep``` command). I had to post to [Stack Overflow](https://stackoverflow.com/questions/53213379/grep-o-multiple-occurrences-of-variable-string-in-same-line) to get it figured out.

@@ -82,7 +82,7 @@ Four wells of the DNased RNA samples exhibit amplification (B5, C10, C12, D3), h
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Amp_DNased_RNA_Jake_Oly_controls.JPG)
 
 
 
@@ -92,6 +92,6 @@ Four wells of the DNased RNA samples exhibit amplification (B5, C10, C12, D3), h
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150514_qPCR_Melt_DNased_RNA_Jake_Oly_controls.JPG)
 
 

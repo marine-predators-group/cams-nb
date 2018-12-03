@@ -135,6 +135,6 @@ NanoDrop Absorbance Values & Plots
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_ODs.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20151125_gDNA_geoduck_oly_plots.JPG)

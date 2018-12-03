@@ -32,11 +32,11 @@ According to our [Olympia oyster genome wiki](https://github.com/RobertsLab/proj
 
 
 
-  * [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+  * [Whole genome BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
-  * [MBD BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
+  * [MBD BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
 
 
 
@@ -168,7 +168,7 @@ Bismark output folder:
 
 
 
-#### [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+#### [Whole genome BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 

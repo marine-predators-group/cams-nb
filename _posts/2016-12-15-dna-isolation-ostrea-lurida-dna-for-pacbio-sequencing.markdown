@@ -60,11 +60,11 @@ Used 5μL of O'GeneRuler DNA Ladder Mix (ThermoFisher).
 
 Results:
 
-[![](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+![](https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)(https://github.com/sr320/LabDocs/blob/9073dc7caf2dcf40e7739fc7ce9d922b28468dc3/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20161214_gel_Oly_gDNA.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20161214_gel_Oly_gDNA.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20161214_gel_Oly_gDNA.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20161214_gel_Oly_gDNA.jpg)
 
 
 

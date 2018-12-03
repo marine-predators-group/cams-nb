@@ -60,7 +60,7 @@ Bioanalyzer Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-02-19_11-32-3
 
 Electropherograms
 
-[caption id="" align="alignnone" width="1032"][![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg) 2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA.[/caption]
+[caption id="" align="alignnone" width="1032"]![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg) 2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA.[/caption]
 
 
 

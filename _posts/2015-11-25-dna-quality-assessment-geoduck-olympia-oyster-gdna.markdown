@@ -61,9 +61,9 @@ Ran 100ng of each sample on a 0.8% agarose 1x modified TAE gel w/EtBr.
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gel_gDNA_geoduck_oly.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151125_gel_gDNA_geoduck_oly.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151125_gel_gDNA_geoduck_oly.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151125_gel_gDNA_geoduck_oly.jpg)
 
 
 

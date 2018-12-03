@@ -50,7 +50,7 @@ Here's the best way to proceed:
 
 
 
-  2. Create [BioSample(s)](https://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
+  2. Create [BioSample(s)(https://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
 
 
 
@@ -87,86 +87,86 @@ User UN-friendly SRA Guide: [https://www.ncbi.nlm.nih.gov/books/NBK47528/?report
 
 And, here are the screen caps, roughly in chronological order of how the process presents itself. It's too time consuming to caption any of these, so I'm putting them up for a reference. Also, all of the information seen in these screen caps has been deleted (because the entire submission was totally jacked up in multiple facets), so don't look for any of the various submission IDs - they no longer exist. This is really just to visually show how many steps there are in order to get stuff submitted - it's brutal.
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)
-
-
-
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)
-
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)
+
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)
+
+
+
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)

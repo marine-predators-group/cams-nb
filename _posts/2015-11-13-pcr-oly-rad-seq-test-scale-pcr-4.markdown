@@ -256,8 +256,8 @@ These samples were run on a 1x modified TAE 1.2% agarose gel (w/EtBr).
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[caption id="" align="alignnone" width="701"][![](https://eagle.fish.washington.edu/Arabidopsis/20151112_gel_oly_RAD_test_scale_PCR.png)](http://eagle.fish.washington.edu/Arabidopsis/20151112_gel_oly_RAD_test_scale_PCR.png) Gel image denoting sample numbers within each cycle number. Green arrow indicates the expected migration of our target band size of 166bp.[/caption]
+[caption id="" align="alignnone" width="701"]![](https://eagle.fish.washington.edu/Arabidopsis/20151112_gel_oly_RAD_test_scale_PCR.png)(http://eagle.fish.washington.edu/Arabidopsis/20151112_gel_oly_RAD_test_scale_PCR.png) Gel image denoting sample numbers within each cycle number. Green arrow indicates the expected migration of our target band size of 166bp.[/caption]
 
 Looks like cycle 17 is the minimum cycle number with which we begin to see a consistent ~166bp band. Will continue on with the "prep-scale" PCR using 17 cycles.

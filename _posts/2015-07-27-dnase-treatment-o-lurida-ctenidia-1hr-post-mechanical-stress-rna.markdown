@@ -24,15 +24,15 @@ tags:
 
 Quantified the RNA I isolated from Jake's samples on [20150715](2015/07/15/rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress-2.html) and [20150710](2015/07/10/rna-isolation-o-lurida-ctenidia-1hr-post-mechanical-stress.html) using the Roberts Lab NanoDrop1000 (ThermoFisher).
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_ODs.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_01.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_01.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_02.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150727_Oly_ctenidia_RNA_mech_stress_plots_02.JPG)
 
 
 

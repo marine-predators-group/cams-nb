@@ -22,7 +22,7 @@ I recently received email notifications about comments made on the manuscript. H
 
 As it turns out, comments are currently only viewable when using Private Browsing/Incognito modes on your browser!!!
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)(http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug.png)
 
 
 
@@ -34,7 +34,7 @@ I found this out by using the chat feature that's built into Authorea. This feat
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)](http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)(http://eagle.fish.washington.edu/Arabidopsis/20170228_authorea_comments_bug_convo.png)
 
 
 

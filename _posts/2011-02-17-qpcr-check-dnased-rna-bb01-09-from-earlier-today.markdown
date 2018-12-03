@@ -24,9 +24,9 @@ Ran qPCR on DNased RNA from earlier today to verify that it was free of contamin
 
 Results:
 
-[ qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-17%2011-30-30_CC009827.pdf).
+[ qPCR Report (PDF)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-17%2011-30-30_CC009827.pdf).
 
-[ qPCR Data file (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-17%2011-30-30_CC009827.pcrd).
+[ qPCR Data file (CFX96)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-17%2011-30-30_CC009827.pcrd).
 
 There is residual gDNA in the BB01 sample. Will EtOH precipitate and treat again.
 

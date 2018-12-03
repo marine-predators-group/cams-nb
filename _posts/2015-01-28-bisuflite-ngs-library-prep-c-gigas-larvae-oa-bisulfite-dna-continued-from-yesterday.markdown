@@ -19,7 +19,7 @@ tags:
   - Pacific oyster
 ---
 
-Continued Illumina library prep of bisulfite-treated DNA samples (400ppm and 1000ppm; from [20150114)](2015/01/14/dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna.html)  with [Methylamp DNA Modification Kit (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf). Performed bead clean up immediately after End Repair.
+Continued Illumina library prep of bisulfite-treated DNA samples (400ppm and 1000ppm; from [20150114)(2015/01/14/dna-bisulfite-conversion-c-gigas-larvae-oa-sheared-dna.html)  with [Methylamp DNA Modification Kit (Epigentek)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Epigentek_PostBisulfiteIlluminaLibraryPrep_P-1055.pdf). Performed bead clean up immediately after End Repair.
 
 PCR cycles: 14
 

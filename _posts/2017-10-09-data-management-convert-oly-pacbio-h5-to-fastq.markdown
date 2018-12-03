@@ -37,6 +37,6 @@ I generated an MD5 checksum and appended to the `checksums.md5` file in /owl/nig
 
 The command above pipes the output to awk to format the output to match the existing format of the `checksums.md5` file (i.e. filename = hash).
 
-I've also updated our [Nightingales spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) to reflect this.
+I've also updated our [Nightingales spreadsheet (Google Sheet)(https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) to reflect this.
 
 Will generate updated PacBio assemblies with Canu and/or Racon.

@@ -47,15 +47,15 @@ Continued [the extractions that Steven began yesterday](https://onsnetwork.org/h
 
 Results:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_01.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_ODs_02.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_01.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150916_gDNA_Oly_RAD_plots_02.JPG)
 
 
 

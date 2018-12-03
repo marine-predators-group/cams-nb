@@ -24,8 +24,8 @@ Ran qPCR on DNased RNA from earlier today to verify removal of contaminating gDN
 
 Results:
 
-[ qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pdf)
+[ qPCR Report (PDF)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pdf)
 
-[ qPCR Data File (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pcrd)
+[ qPCR Data File (CFX96)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-02-28%2013-04-32_CC009827.pcrd)
 
 Well, this sucks. Still gDNA contamination. Will just start with original RNA again and discard this "DNased" sample.

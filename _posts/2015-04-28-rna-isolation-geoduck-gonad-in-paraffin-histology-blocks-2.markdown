@@ -102,9 +102,9 @@ Results:
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_ODs.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150427_geoduck_gonad_DNased_RNA_plots.JPG)
 
 
 

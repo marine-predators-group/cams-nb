@@ -18,7 +18,7 @@ tags:
   - SRA
 ---
 
-[I had previously submitted the two non-demultiplexed genotype-by-sequencing (GBS) files provided by BGI to the NCBI short read archive (SRA)](2017/02/08/data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files.html).
+[I had previously submitted the two non-demultiplexed genotype-by-sequencing (GBS) files provided by BGI to the NCBI short read archive (SRA)(2017/02/08/data-management-sra-submission-of-ostrea-lurida-gbs-fastq-files.html).
 
 Recently, [Jay responded to an issue I had posted on the GitHub repo](https://github.com/kubu4/paper_oly_gbs/issues/2) for the manuscript we're writing about this data.
 
@@ -32,7 +32,7 @@ Today, I created a batch BioSample submission:
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)(http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2505455.png)
 
 
 
@@ -42,7 +42,7 @@ Initiated the submission process (Ummm, this looks like it's going to take awhil
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)(http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017.png)
 
 
 
@@ -50,7 +50,7 @@ Initiated the submission process (Ummm, this looks like it's going to take awhil
 
 Aaaaaand, it failed:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)](http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)(http://eagle.fish.washington.edu/Arabidopsis/20170320_SRA_oly_gbs_demultiplex_SUB2495017_fail.png)
 
 
 

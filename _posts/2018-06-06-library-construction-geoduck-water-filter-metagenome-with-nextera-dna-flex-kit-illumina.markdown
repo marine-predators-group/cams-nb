@@ -90,11 +90,11 @@ Links to the Illumina manuals are below:
 
 
 
-  * [Nextera DNA Flex Kit Manual (PDF)](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_nextera-dna-flex-library-prep-reference-guide-1000000025416-01_20180523.pdf)
+  * [Nextera DNA Flex Kit Manual (PDF)(https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_nextera-dna-flex-library-prep-reference-guide-1000000025416-01_20180523.pdf)
 
 
 
-  * [Illumina Index Adapters Pooling Guide (PDF)](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_index-adapters-pooling-guide-1000000041074-02_20180523.pdf)
+  * [Illumina Index Adapters Pooling Guide (PDF)(https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/Illumina_index-adapters-pooling-guide-1000000041074-02_20180523.pdf)
 
 
 

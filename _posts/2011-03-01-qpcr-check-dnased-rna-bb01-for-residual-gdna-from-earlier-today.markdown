@@ -23,8 +23,8 @@ Ran qPCR on DNased RNA from earlier today to verify removal of contaminating gDN
 
 Results:
 
-[ qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-01%2013-10-22_CC009827.pdf)
+[ qPCR Report (PDF)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-01%2013-10-22_CC009827.pdf)
 
-[ qPCR Data File (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-01%2013-10-22_CC009827.pcrd)
+[ qPCR Data File (CFX96)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-01%2013-10-22_CC009827.pcrd)
 
 Residual gDNA is present in the sample. So, it's become apparent that it's virtually impossible to rid the BB01 RNA of contaminating gDNA. Will discuss with Steven and Mac if it's feasible to exclude this from the additional PROPS analysis that needs to be done and how this could potentially affect our data. Talked to Steven and, duh, we can just remove the previous BB01 data from our analysis. Will make new batch of cDNA from existing DNased RNA samples.

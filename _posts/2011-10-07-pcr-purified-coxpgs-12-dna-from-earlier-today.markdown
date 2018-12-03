@@ -29,7 +29,7 @@ Ran PCR using primers Cg_COX1/2_qPCR_F, Cg_COX1_qPCR_R, Cg_COX2_454align1_R (SR 
 
 Results:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20111007-01.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20111007-01.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20111007-01.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20111007-01.JPG)
 
 Lane 1: Hyperladder I (Bioline)
 

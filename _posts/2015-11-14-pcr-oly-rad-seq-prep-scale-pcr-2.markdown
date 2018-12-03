@@ -405,15 +405,15 @@ Loaded 10μL of ladder on each of the two gels.
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)(http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_01.png)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)(http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_02.png)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)(http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_03.png)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)](http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)(http://eagle.fish.washington.edu/Arabidopsis/20151113_gel_oly_RAD_prep_PCR_04.png)
 
 
 

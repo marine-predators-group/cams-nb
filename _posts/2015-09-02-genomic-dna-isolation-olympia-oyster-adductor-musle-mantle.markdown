@@ -56,11 +56,11 @@ Results:
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_ODs.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150901_gDNA_oly_plots.JPG)
 
 
 

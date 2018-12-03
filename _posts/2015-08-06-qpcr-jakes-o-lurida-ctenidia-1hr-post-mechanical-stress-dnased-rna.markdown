@@ -85,7 +85,7 @@ Two wells of the DNased RNA samples exhibit amplification (E3, F6), however the 
 
 Positive Controls
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)
 
 
 
@@ -103,7 +103,7 @@ Positive Controls
 
 
 
-#### [![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)
+#### ![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)
 
 
 
@@ -127,4 +127,4 @@ Positive Controls
 
 Follow the green and red lines with the vertical bars. The different colors reflect that those are two different samples. Additionally, their respective replicates do not exhibit amplification.
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)

@@ -112,7 +112,7 @@ The primary output file of interest is this FASTA file:
 
 
 
-  * [Contigs.txt (12GB)](https://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/Contigs.txt)
+  * [Contigs.txt (12GB)(https://owl.fish.washington.edu/Athaliana/20180322_SparseAssembler_novaseq_geoduck/Contigs.txt)
 
 
 

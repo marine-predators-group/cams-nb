@@ -70,4 +70,4 @@ See this [Jupyter notebook](https://github.com/sr320/LabDocs/blob/master/jupyter
 
 
 
-Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).
+Added sequencing info to [Next_Gen_Seq_Library_Database (Google Sheet)(https://docs.google.com/spreadsheets/d/1r4twxfBHpWfQoznbn2dAQhgMvmlZvQqW9I2_uVZX_aU/edit?usp=sharing) and the [Nightingales Spreadsheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit?usp=sharing) and [Nightingales Fusion Table (Google Fusion Table)](https://fusiontables.google.com/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1).

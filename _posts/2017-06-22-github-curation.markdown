@@ -79,7 +79,7 @@ Since this worked, I'll probably run this through all of the md files in all of 
 
 
 
-Working on updating the [Genome-sequencing-December-2016-(UW-PacBio) wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)), but need to work out the kinks on any easy, documentable way to rename and move some files around in order to make files/organization compliant with our [data management plan (DMP)](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan).
+Working on updating the [Genome-sequencing-December-2016-(UW-PacBio) wiki](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)), but need to work out the kinks on any easy, documentable way to rename and move some files around in order to make files/organization compliant with our [data management plan (DMP)(https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan).
 
 
 

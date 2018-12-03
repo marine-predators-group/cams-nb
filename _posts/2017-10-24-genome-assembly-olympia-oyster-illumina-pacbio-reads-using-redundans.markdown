@@ -25,7 +25,7 @@ Had problems with Docker and Jupyter Notebook inexplicably dying and deleting al
 
 So, I ran this on my computer, but didn't have Jupyter installed (yet).
 
-This utilized [the Canu contigs file (FASTA)](https://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/20171018_oly_pacbio.contigs.fasta) that [I generated on 20171018.](2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6.html)
+This utilized [the Canu contigs file (FASTA)(https://owl.fish.washington.edu/Athaliana/20171018_oly_pacbio_canu/20171018_oly_pacbio.contigs.fasta) that [I generated on 20171018.](2017/10/18/genome-assembly-olympia-oyster-pacbio-canu-v1-6.html)
 
 Here's the input command:
 
@@ -47,4 +47,4 @@ Ran Quast on 20171103 for some assembly stats.
 
 Quast output is here: [https://owl.fish.washington.edu/Athaliana/quast_results/results_2017_11_03_22_43_06/](http://owl.fish.washington.edu/Athaliana/quast_results/results_2017_11_03_22_43_06/)
 
-[![](https://owl.fish.washington.edu/Athaliana/20171103_quast_redundans_20171024.png)](http://owl.fish.washington.edu/Athaliana/20171103_quast_redundans_20171024.png)
+![](https://owl.fish.washington.edu/Athaliana/20171103_quast_redundans_20171024.png)(http://owl.fish.washington.edu/Athaliana/20171103_quast_redundans_20171024.png)

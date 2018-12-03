@@ -88,9 +88,9 @@ Spec'd on Roberts Lab NanoDrop1000.
 
 Results:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_ODs.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20151002_gDNA_plots.JPG)
 
 
 

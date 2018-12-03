@@ -23,7 +23,7 @@ Received another set of _Ostrea lurida_ genome assembly data from BGI. In this c
 
 All data is stored here: [https://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160512/](http://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160512/)
 
-They've provided a [Genome Survey (PDF)](https://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160512/20160512_F15FTSUSAT0327_genome_survey.pdf) that has some info about the data they've assembled. In it, is the estimated genome size:
+They've provided a [Genome Survey (PDF)(https://owl.fish.washington.edu/O_lurida_genome_assemblies_BGI/20160512/20160512_F15FTSUSAT0327_genome_survey.pdf) that has some info about the data they've assembled. In it, is the estimated genome size:
 
 Olympia oyster genome size: 1898.92 Mb
 

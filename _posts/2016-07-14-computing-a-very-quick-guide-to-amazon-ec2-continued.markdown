@@ -31,11 +31,11 @@ Waited for the 36GB of data to copy over to new bucket with proper naming (i.e. 
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160714_s3f2_mount_error.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160714_s3f2_mount_error.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160714_s3f2_mount_error.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160714_s3f2_mount_error.jpg)
 
 
 
-So, that didn't work. The reason that it doesn't work is that I uploaded the files to the S3 bucket via the Amazon AWS command line (awscli). Apparently, s3fs-fuse can't mount S3 buckets that contain data uploaded via awscli [[see this GitHub Issue for s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse/issues/333)]! However, I had to upload them via awscli because the web interface kept failing!
+So, that didn't work. The reason that it doesn't work is that I uploaded the files to the S3 bucket via the Amazon AWS command line (awscli). Apparently, s3fs-fuse can't mount S3 buckets that contain data uploaded via awscli [[see this GitHub Issue for s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse/issues/333)! However, I had to upload them via awscli because the web interface kept failing!
 
 
 
@@ -55,7 +55,7 @@ Attached volume to the EC2 instance at /dev/sda1 (the default setting /dev/sdf r
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_01.png)](http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_01.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_01.png)(http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_01.png)
 
 
 
@@ -63,7 +63,7 @@ Check to see if I actually have the expanded storage volume or not. It turns out
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_03.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_03.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_03.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_expanded_volume_03.jpg)
 
 
 
@@ -85,13 +85,13 @@ Time to upload (via the secure copy command) the files to my EC2 instance! The f
 
 Details on upload times and file sizes:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_upload_times.png)](http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_upload_times.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_upload_times.png)(http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_upload_times.png)
 
 
 
 Confim the files now reside in my EC2 instance:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_confirm_transfer.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_confirm_transfer.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_confirm_transfer.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160714_ec2_confirm_transfer.jpg)
 
 
 

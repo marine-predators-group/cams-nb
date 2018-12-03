@@ -256,13 +256,13 @@ These samples were run on a 1x modified TAE 2% agarose gel (w/EtBr).
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
 
 
 
 
-[caption id="" align="alignnone" width="698"][![](https://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg) Test-scale PCR gel. Green arrow indicates desired band. The numbers below the headings indicate the sample number.[/caption]
+[caption id="" align="alignnone" width="698"]![](https://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151012_RAD_test_scale_PCR.jpg) Test-scale PCR gel. Green arrow indicates desired band. The numbers below the headings indicate the sample number.[/caption]
 
 
 

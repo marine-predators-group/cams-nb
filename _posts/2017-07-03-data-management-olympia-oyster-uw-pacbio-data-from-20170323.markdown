@@ -17,7 +17,7 @@ tags:
   - PacBio
 ---
 
-Due to other priorities, getting [this PacBio data](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)) sorted and prepped for our [next gen sequencing data management plan (DMP)](https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan) was put on the back burner. I finally got around to this, but it wasn't all successful.
+Due to other priorities, getting [this PacBio data](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-sequencing-December-2016-(UW-PacBio)) sorted and prepped for our [next gen sequencing data management plan (DMP)(https://github.com/sr320/LabDocs/wiki/Data-Management#ngs-data-management-plan) was put on the back burner. I finally got around to this, but it wasn't all successful.
 
 The primary failure is the inability to get the original data file archived as a gzipped tarball. The problem lies in loss of connection to Owl during the operation. This connection issue was recently noticed by Sean in his dealings with Hyak (mox). According to Sean, the Hyak (mox) people or UW IT ran some tests of their own on this connection and their results suggested that the connection issue is related to a network problem in FTR, and is not related to Owl itself. Whatever the case is, we need to have this issue addressed sometime soon...
 

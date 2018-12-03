@@ -44,7 +44,7 @@ All of the RNA had some sort of undissolved/insoluble material present. Here's a
 
 
 
-Samples were cleaned up using the [RNeasy Plus Mini Kit (Qiagen)]. Added 350uL of Buffer RLT Plus (no beta-mercaptoethanol added) to each sample, vortexed, and then processed according to the manufacturer's protocol (skipped gDNA Eliminator spin column step).
+Samples were cleaned up using the [RNeasy Plus Mini Kit (Qiagen). Added 350uL of Buffer RLT Plus (no beta-mercaptoethanol added) to each sample, vortexed, and then processed according to the manufacturer's protocol (skipped gDNA Eliminator spin column step).
 
 Samples were eluted with 30uL of nuclease-free water.
 

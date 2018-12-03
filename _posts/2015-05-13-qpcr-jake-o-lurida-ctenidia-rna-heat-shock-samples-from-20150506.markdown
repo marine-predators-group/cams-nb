@@ -85,7 +85,7 @@ In the amplification plots below, the positive control reps are the two lines co
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_HS_RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_HS_RNA_.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_HS_RNA_.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Amp_Jake_Oly_HS_RNA_.JPG)
 
 
 
@@ -95,4 +95,4 @@ In the amplification plots below, the positive control reps are the two lines co
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_HS_RNA_.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_HS_RNA_.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_HS_RNA_.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150512_qPCR_Melt_Jake_Oly_HS_RNA_.JPG)

@@ -47,7 +47,7 @@ Both sets of analyses were documented in R Projects:
 
 
 
-  * [20180912_oly_methylkit (GitHub)](https://github.com/RobertsLab/code/tree/master/r_projects/sam/20180912_oly_methylkit)
+  * [20180912_oly_methylkit (GitHub)(https://github.com/RobertsLab/code/tree/master/r_projects/sam/20180912_oly_methylkit)
 
 
 

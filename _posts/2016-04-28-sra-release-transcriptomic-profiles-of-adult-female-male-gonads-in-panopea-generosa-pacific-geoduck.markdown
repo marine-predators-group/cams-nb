@@ -22,7 +22,7 @@ tags:
   - SRX1659866
 ---
 
-The RNAseq data that [I previously submitted to NCBI short read archive (SRA)](2016/03/24/sra-submission-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck.html) has been released to the public today. Here are the various links for the project:
+The RNAseq data that [I previously submitted to NCBI short read archive (SRA)(2016/03/24/sra-submission-transcriptomic-profiles-of-adult-female-male-gonads-in-panopea-generosa-pacific-geoduck.html) has been released to the public today. Here are the various links for the project:
 
 Study: [SRP072283](https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283) - [http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283](http://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP072283)
 

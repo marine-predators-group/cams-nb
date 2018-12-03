@@ -44,4 +44,4 @@ Here’s the list of files uploaded to the SRA:
 
 Mate pair sequencing files were uploaded together within a single “Run”.
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)

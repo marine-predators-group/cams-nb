@@ -37,7 +37,7 @@ I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)(http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_script_bug.png)
 
 
 
@@ -55,7 +55,7 @@ I'm currently trying to [write a manuscript](https://github.com/kubu4/paper_oly_
 
 **PROBLEM**: Authorea remains in a perpetual "saving..." state after inserting a citation. It also renders the page strangely, with HTML <br></br> tags (see the "Methods" section in the screen cap below).
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)(http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_saving_bug.png)
 
 
 
@@ -103,7 +103,7 @@ Other citation formatting options can be found here (including multiple citation
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)(http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bib_bug.png)
 
 
 
@@ -117,7 +117,7 @@ Other citation formatting options can be found here (including multiple citation
 
 **PROBLEM**: Cannot click-and-drag some references from Mendeley (haven't tested other reference managers) without getting an error. To my knowledge, the BibTeX is valid, as it appears to be the same formatting as other references that can be inserted via the click-and-drag method. There are some references it won't work for...
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)](http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)(http://eagle.fish.washington.edu/Arabidopsis/20170123_authorea_bibtex_bug.png)
 
 
 

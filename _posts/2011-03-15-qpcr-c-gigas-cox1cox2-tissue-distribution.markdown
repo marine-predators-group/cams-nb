@@ -45,9 +45,9 @@ Cg_COX1/2_qPCR_F (SR ID: 1192) + Cg_COX2_454align1_R (SR ID: 1190) - Target = CO
 
 Results:
 
-[qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pdf)
+[qPCR Report (PDF)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pdf)
 
-[qPCR Data File (CFX96)](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pcrd)
+[qPCR Data File (CFX96)(https://eagle.fish.washington.edu/Arabidopsis/qPCR/Roberts%20Lab_2011-03-15%2011-35-42_CC009827.pcrd)
 
 ![](https://eagle.fish.washington.edu/Arabidopsis/20110315%20-%20COX%20Tissue%20Distribution%20Gene%20Exp%20Graphs.jpg)
 

@@ -36,7 +36,7 @@ Note: Used a free sample of 2x Brilliant III Ultra Fast SYBR Green QPCR Master M
 
 Results:
 
-[ qPCR Report (PDF)](https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20101213%20qPCR%20Report-01.pdf).
+[ qPCR Report (PDF)(https://eagle.fish.washington.edu/Arabidopsis/Notebook%20Workup%20Files/20101213%20qPCR%20Report-01.pdf).
 
 [PCR Miner analysis is here](https://spreadsheets.google.com/ccc?key=0AmS_90rPaQMzdG1EdjRDeGtNeWp0cDBRUm9jY3h0OEE&hl=en&authkey=CJmZ2H0#gid=0). There appears to be an increase in COX expression in samples exposed to Vibrio sp. (see graph below), however, I have not determined if the results are significant.
 

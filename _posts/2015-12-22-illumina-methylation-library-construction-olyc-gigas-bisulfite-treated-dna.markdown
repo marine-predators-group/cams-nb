@@ -39,7 +39,7 @@ tags:
   - TruSeq DNA Methylation Library
 ---
 
-Took the [bisulfite-treated DNA from 20151218](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) and made Illumina libraries using the [TruSeq DNA Methylation Library Kit (Illumina)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
+Took the [bisulfite-treated DNA from 20151218](2015/12/18/bisulfite-treatment-oly-reciprocal-transplant-dna-c-gigas-lotterhos-dna-for-bs-seq.html) and made Illumina libraries using the [TruSeq DNA Methylation Library Kit (Illumina)(https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/Illumina_truseq-dna-methylation-library-prep-guide-15066014-a.pdf).
 
 Quantified the completed libraries using the Qubit 3.0 dsDNA BR Kit (ThermoFisher).
 
@@ -321,6 +321,6 @@ Bioanalyzer Data File (Bioanalyzer 2100): [2100_20expert_DNA_2012000_DE72902486_
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151221_bioanalyzer_illumina_methylation_libraries.jpg)
 
 Ha! Well, looks like you definitely need to use the DNA High Sensitivty assay for the Bioanalyzer to pick up anything. Although, I guess you can see a slight hump in most of the samples at the appropriate sizes (~300bp); you just have to squint. ;)

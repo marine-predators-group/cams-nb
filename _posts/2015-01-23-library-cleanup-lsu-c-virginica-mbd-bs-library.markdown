@@ -21,7 +21,7 @@ tags:
 
 I was contacted by the sequencing facility at the University of Oregon regarding a sample quality issue with our library.  As evidenced by the electropherogram below, there is a great deal of adaptor primer dimer (the peak at 128bp):
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150120_LSUoilNGSlibraryBioanalyzer.png)](http://eagle.fish.washington.edu/Arabidopsis/20150120_LSUoilNGSlibraryBioanalyzer.png)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150120_LSUoilNGSlibraryBioanalyzer.png)(http://eagle.fish.washington.edu/Arabidopsis/20150120_LSUoilNGSlibraryBioanalyzer.png)
 
 
 

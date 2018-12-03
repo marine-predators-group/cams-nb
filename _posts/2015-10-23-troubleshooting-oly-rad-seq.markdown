@@ -17,11 +17,11 @@ tags:
   - troubleshooting
 ---
 
-[After the failure of the prep-scale PCR for the RAD library construction](2015/10/13/pcr-oly-rad-seq-prep-scale-pcr.html), Katherin Silliman pointed out [a potential problem (too much dNTPs)](https://onsnetwork.org/kubu4/2015/10/13/pcr-oly-rad-seq-prep-scale-pcr/#comments). This was odd because I was following the Meyer Protocol and I used what was indicated.
+[After the failure of the prep-scale PCR for the RAD library construction](2015/10/13/pcr-oly-rad-seq-prep-scale-pcr.html), Katherin Silliman pointed out [a potential problem (too much dNTPs)(https://onsnetwork.org/kubu4/2015/10/13/pcr-oly-rad-seq-prep-scale-pcr/#comments). This was odd because I was following the Meyer Protocol and I used what was indicated.
 
 Oddly, it turns out that Katherine's version of the Meyer Lab 2bRAD protocol differed from what I had download. To add to the confusion, both protocols have the same file name. Here's what I'm talking about:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151023_2bRAD_protocol_conflict.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151023_2bRAD_protocol_conflict.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151023_2bRAD_protocol_conflict.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151023_2bRAD_protocol_conflict.jpg)
 
 
 

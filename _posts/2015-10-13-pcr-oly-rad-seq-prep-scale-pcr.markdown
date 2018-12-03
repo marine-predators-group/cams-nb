@@ -411,9 +411,9 @@ Due to limitations in available comb sizes and inability to combine combs to mak
 
 Results:
 
-[![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
+![](https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)(https://raw.githubusercontent.com/sr320/LabDocs/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20151013_gel_Oly_RAD_prep_scale_PCR.jpg)
 
 
 

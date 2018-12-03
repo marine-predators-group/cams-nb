@@ -33,7 +33,7 @@ To fix this, I added the following line to the `/etc/bash.bashrc` file:
 
 The line uses a fancy bash test to determine if the $LD_LIBRARY_PATH variable already exists. This is to prevent the $LD_LIBRARY_PATH from having a leading ":".
 
-As usual, the solution to that problem was found courtesy of [StackExchange (#162891)](https://unix.stackexchange.com/questions/162891/append-to-path-like-variable-without-creating-leading-colon-if-unset).
+As usual, the solution to that problem was found courtesy of [StackExchange (#162891)(https://unix.stackexchange.com/questions/162891/append-to-path-like-variable-without-creating-leading-colon-if-unset).
 
 Also, by putting this line in the `/etc/bash.bashrc` file, it makes the variable available for all users.
 
@@ -45,7 +45,7 @@ Below are some screen caps to document the process:
 
 
 
-[![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_no_library.png)](http://owl.fish.washington.edu/Athaliana/20171130_blasr_no_library.png)
+![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_no_library.png)(http://owl.fish.washington.edu/Athaliana/20171130_blasr_no_library.png)
 
 
 
@@ -53,7 +53,7 @@ Below are some screen caps to document the process:
 
 
 
-[![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_lib_ls.png)](http://owl.fish.washington.edu/Athaliana/20171130_blasr_lib_ls.png)
+![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_lib_ls.png)(http://owl.fish.washington.edu/Athaliana/20171130_blasr_lib_ls.png)
 
 
 
@@ -61,7 +61,7 @@ Below are some screen caps to document the process:
 
 
 
-[![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_bashrc_lib_path.png)](http://owl.fish.washington.edu/Athaliana/20171130_blasr_bashrc_lib_path.png)
+![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_bashrc_lib_path.png)(http://owl.fish.washington.edu/Athaliana/20171130_blasr_bashrc_lib_path.png)
 
 
 
@@ -69,7 +69,7 @@ Below are some screen caps to document the process:
 
 
 
-[![](https://owl.fish.washington.edu/Athaliana/20171130_LD_PATH_set.png)](http://owl.fish.washington.edu/Athaliana/20171130_LD_PATH_set.png)
+![](https://owl.fish.washington.edu/Athaliana/20171130_LD_PATH_set.png)(http://owl.fish.washington.edu/Athaliana/20171130_LD_PATH_set.png)
 
 
 
@@ -77,4 +77,4 @@ Below are some screen caps to document the process:
 
 
 
-[![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_sucess.png)](http://owl.fish.washington.edu/Athaliana/20171130_blasr_sucess.png)
+![](https://owl.fish.washington.edu/Athaliana/20171130_blasr_sucess.png)(http://owl.fish.washington.edu/Athaliana/20171130_blasr_sucess.png)

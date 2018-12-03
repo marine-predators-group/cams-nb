@@ -37,7 +37,7 @@ Data file requires 2100_Expert_B0208_SI648_SR2 version of the software (Windows)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_gel.jpg)
 
 
 
@@ -47,7 +47,7 @@ Data file requires 2100_Expert_B0208_SI648_SR2 version of the software (Windows)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150423_pico_bioanlayzer_geoduck_electropherogram.jpg)
 
 
 

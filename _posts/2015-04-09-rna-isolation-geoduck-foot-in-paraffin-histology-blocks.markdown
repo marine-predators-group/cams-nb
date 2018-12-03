@@ -77,11 +77,11 @@ NOTE: The spreadsheet linked indicates other samples exist in the slots that I p
 
 Results:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs.JPG)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150408%20-%20Geoduck%20block%20RNA%20ODs%20plots.JPG)
 
 
 

@@ -85,9 +85,9 @@ All samples were stored @ -80C in [Shellfish RNA Box #5](https://docs.google.com
 
 Results:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_ODs.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150508_geoduck_histo_RNA_plots.JPG)
 
 
 

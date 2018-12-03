@@ -23,7 +23,7 @@ Since running [SparseAssembler seems to be working](2018/03/27/assembly-geoduck-
 
 [Yesterday, I transferred our BGI geoduck data to our Mox node and ran it through FASTQC](2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data.html)
 
-I transferred our [Illumina HiSeq data sets (*NMP*.fastq.gz)](https://owl.fish.washington.edu/nightingales/P_generosa/) to our Mox node (/gscratch/scrubbed/samwhite/illumina_geoduck_hiseq). These were part of the Illumina-sponsored sequencing project.
+I transferred our [Illumina HiSeq data sets (*NMP*.fastq.gz)(https://owl.fish.washington.edu/nightingales/P_generosa/) to our Mox node (/gscratch/scrubbed/samwhite/illumina_geoduck_hiseq). These were part of the Illumina-sponsored sequencing project.
 
 I verified the MD5 checksums (not documented) and then ran FASTQC, followed by MultiQC.
 

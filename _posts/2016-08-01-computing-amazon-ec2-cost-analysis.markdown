@@ -26,7 +26,7 @@ Let's look at how things've worked out so far.
 
 First, how much did we spend and how did we spend it (click on the image to enlarge)?
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160801_AmazonEC2_costs.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160801_AmazonEC2_costs.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160801_AmazonEC2_costs.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160801_AmazonEC2_costs.jpg)
 
 
 
@@ -115,7 +115,7 @@ Another potential option is trying out [InsideDNA](https://insidedna.me). They o
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20160801_insideDNA_pricing.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20160801_insideDNA_pricing.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160801_insideDNA_pricing.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160801_insideDNA_pricing.jpg)
 
 
 

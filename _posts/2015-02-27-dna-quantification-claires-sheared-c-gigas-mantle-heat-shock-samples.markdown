@@ -34,7 +34,7 @@ Spreadsheet: [20150226_Claire_sheared_Emma_1000ppm_OD260s](https://docs.google.c
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150226_Claire_sheared_Emma_1000ppm_plots.JPG)
 
 
 

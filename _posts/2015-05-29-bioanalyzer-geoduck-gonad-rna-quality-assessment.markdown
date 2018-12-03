@@ -25,9 +25,9 @@ Before proceeding with transcriptomics for this project, we need to assess the i
 
 RNA that was previously isolated on [20150508](2015/05/08/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-4.html), [20150505](2015/05/05/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-3.html), [20150427](2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html), and [20150424](2015/04/24/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks.html) (those notebook entries have been updated to report this consolidation and have a link to this notebook entry) were consolidated into single samples (if there had been multiple isolations of the same sample) and spec'd on the Roberts Lab NanoDrop1000:
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_ODs.JPG)
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)](http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150528_geoduck_histo_RNA_plots.JPG)
 
 Google Sheet: [20150528_geoduck_histo_RNA_ODs](https://docs.google.com/spreadsheets/d/1WPAQy7KPpQY1zPGscseHwnXeL0EWwsrb7AwatHVQpS0/edit?usp=sharing)
 
@@ -52,7 +52,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_gel.jpg)
 
 
 
@@ -62,7 +62,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_pico_geoduck_electropherogram.jpg)
 
 
 
@@ -72,7 +72,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_gel.jpg)
 
 
 
@@ -82,7 +82,7 @@ Bioanalzyer 2100 Nano Data File (XAD): [SamWhite_Eukaryote Total RNA Nano_2015-0
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150528_bioanalyzer_RNA_nano_geoduck_electropherogram.jpg)
 
 
 

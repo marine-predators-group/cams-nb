@@ -71,7 +71,7 @@ Annotated genome file (GFF):
 
 
 
-  * [20180807_wqmaker_run_oly_02/Olurida_v081.all.gff (1GB)](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/Olurida_v081.all.gff)
+  * [20180807_wqmaker_run_oly_02/Olurida_v081.all.gff (1GB)(https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/Olurida_v081.all.gff)
 
 
 

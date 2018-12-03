@@ -22,7 +22,7 @@ tags:
   - tanner crab
 ---
 
-Tanner crab RNA has proved [a bit troublesome](2018/07/19/rna-cleanup-tanner-crab-rna-pools.html). As such, [Steven asked me to try isolating some RNA using the RNeasy Plus Mini Kit (Qiagen)](https://github.com/RobertsLab/resources/issues/327) to see how things would turn out.
+Tanner crab RNA has proved [a bit troublesome](2018/07/19/rna-cleanup-tanner-crab-rna-pools.html). As such, [Steven asked me to try isolating some RNA using the RNeasy Plus Mini Kit (Qiagen)(https://github.com/RobertsLab/resources/issues/327) to see how things would turn out.
 
 Grace provided me with the following samples:
 
