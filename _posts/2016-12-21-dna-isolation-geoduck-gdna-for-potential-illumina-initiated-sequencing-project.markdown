@@ -63,13 +63,11 @@ Results:
 
 
 
-[![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+![](https://github.com/sr320/LabDocs/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 
 
-[![](https://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)](http://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)
-
-
+![](https://eagle.fish.washington.edu/Arabidopsis/20161221_gel_geoduck_gDNA.jpg)
 
 
 
