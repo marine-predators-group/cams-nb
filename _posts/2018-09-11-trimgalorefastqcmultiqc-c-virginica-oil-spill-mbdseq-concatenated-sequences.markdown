@@ -20,7 +20,7 @@ tags:
   - trimming
 ---
 
-[Previously concatenated and analyzed our _Crassostrea virginica_ oil spill MBDseq data with FastQC](2018/09/10/sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc.html).
+[Previously concatenated and analyzed our _Crassostrea virginica_ oil spill MBDseq data with FastQC](https://robertslab.github.io/sams-notebook/2018-09-10-sequencing-data-analysis-c-virginica-oil-spill-mbdseq-concatenation-fastqc.html).
 
 We decided to try improving things by [running them through TrimGalore! to remove adapters and poor quality sequences](https://github.com/RobertsLab/resources/issues/369).
 

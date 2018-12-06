@@ -18,7 +18,7 @@ tags:
   - Qubit dsDNA BR
 ---
 
-Quantified _Crassostrea virginica_ MBD-enriched DNA [from earlier today](2018/01/10/mbd-enrichment…ared-dna-day-3.html) for Qiagen project.
+Quantified _Crassostrea virginica_ MBD-enriched DNA [from earlier today](https://robertslab.github.io/sams-notebook/2018-01-10-mbd-enrichment…ared-dna-day-3.html) for Qiagen project.
 
 Used the Qubit 3.0 (ThermoFisher) and the Qubit dsDNA Broad Range (BR) Kit (ThermoFisher).
 

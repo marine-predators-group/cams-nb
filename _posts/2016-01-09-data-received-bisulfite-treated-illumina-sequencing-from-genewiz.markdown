@@ -21,7 +21,7 @@ tags:
   - wget
 ---
 
-Received notice the sequencing data was ready from Genewiz for the samples submitted [20151222](2015/12/22/sample-submission-bs-seq-library-pool-to-genewiz.html).
+Received notice the sequencing data was ready from Genewiz for the samples submitted [20151222](https://robertslab.github.io/sams-notebook/2015-12-22-sample-submission-bs-seq-library-pool-to-genewiz.html).
 
 Download the FASTQ files from Genewiz project directory:
 

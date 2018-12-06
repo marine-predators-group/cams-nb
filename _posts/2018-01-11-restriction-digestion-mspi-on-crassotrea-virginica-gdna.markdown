@@ -17,7 +17,7 @@ tags:
   - restriction digestion
 ---
 
-Digested two 1.5μg aliquots of _Crassostrea virginica_ [isolated 20171211](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html), as part of the project we're doing with Qiagen.
+Digested two 1.5μg aliquots of _Crassostrea virginica_ [isolated 20171211](https://robertslab.github.io/sams-notebook/2017-12-11-dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html), as part of the project we're doing with Qiagen.
 
 Digestion reactions:
 

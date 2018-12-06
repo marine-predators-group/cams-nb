@@ -39,9 +39,9 @@ tags:
   - Pacific oyster
 ---
 
-[The gel I ran earlier today](2015/12/17/agarose-gel-oly-gdna-for-bs-seq-libraries.html) looked real rough, due to the fact that I didn't bother to equalize loading quantities of samples (I just loaded 1μL of all samples regardless of concentration). So, I'm repeating it using 100ng of DNA from all samples.
+[The gel I ran earlier today](https://robertslab.github.io/sams-notebook/2015-12-17-agarose-gel-oly-gdna-for-bs-seq-libraries.html) looked real rough, due to the fact that I didn't bother to equalize loading quantities of samples (I just loaded 1μL of all samples regardless of concentration). So, I'm repeating it using 100ng of DNA from all samples.
 
-Additionally, this gel also [includes _C.gigas_ samples that Katie Lotterhos sent to us](2015/12/10/samples-received-c-gigas-tissue-dna-from-katie-lotterhos.html) to see how they look.
+Additionally, this gel also [includes _C.gigas_ samples that Katie Lotterhos sent to us](https://robertslab.github.io/sams-notebook/2015-12-10-samples-received-c-gigas-tissue-dna-from-katie-lotterhos.html) to see how they look.
 
 Ran a 0.8% agarose, low-TAE gel, stained with ethidium bromide.
 

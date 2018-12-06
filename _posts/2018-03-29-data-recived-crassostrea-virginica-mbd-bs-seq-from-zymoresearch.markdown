@@ -19,7 +19,7 @@ tags:
   - ZymoResearch
 ---
 
-Received the sequencing data from ZymoResearch for the <em>Crassostrea virginica</em> gonad MBD DNA that was [sent to them on 20180207](2018/02/07/ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini.html) for bisulfite conversion, library construction, and sequencing.
+Received the sequencing data from ZymoResearch for the <em>Crassostrea virginica</em> gonad MBD DNA that was [sent to them on 20180207](https://robertslab.github.io/sams-notebook/2018-02-07-ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini.html) for bisulfite conversion, library construction, and sequencing.
 
 Gzipped FASTQ files were:
 
@@ -72,10 +72,10 @@ Here's the sample processing history:
 
 
 
-  * [Tissue received from K. Lotterhos](2017/10/03/samples-received-c-virginica-gonad-tissue-from-katie-lotterhos.html)
+  * [Tissue received from K. Lotterhos](https://robertslab.github.io/sams-notebook/2017-10-03-samples-received-c-virginica-gonad-tissue-from-katie-lotterhos.html)
 
 
-  * [DNA isolation](2017/11/14/dna-isolation-quantification-c-virginica-gonad-gdna.html)
+  * [DNA isolation](https://robertslab.github.io/sams-notebook/2017-11-14-dna-isolation-quantification-c-virginica-gonad-gdna.html)
 
 
   * [Yaamini MBD Day 1](https://yaaminiv.github.io/Virginica-MBDSeq/)
@@ -90,6 +90,6 @@ Here's the sample processing history:
   * [Yaamini MBD Day 4](https://yaaminiv.github.io/Virginica-MBDSeq-Day4/)
 
 
-  * [EtOH precip, quantification, shipped](2018/02/07/ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini.html)
+  * [EtOH precip, quantification, shipped](https://robertslab.github.io/sams-notebook/2018-02-07-ethanol-precipitation-dna-quantification-c-virginica-mbd-dna-from-yaamini.html)
 
 

@@ -21,7 +21,7 @@ tags:
 
 Progress on generating [bedgraphs from our Olympia oyster transcriptome](https://github.com/RobertsLab/resources/issues/356) continues.
 
-[Transcriptome assembly with Trinity completed 20180919](2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
+[Transcriptome assembly with Trinity completed 20180919](https://robertslab.github.io/sams-notebook/2018-09-19-transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html).
 
 Next up, align transcriptome to Olympia oyster genome.
 

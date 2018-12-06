@@ -14,7 +14,7 @@ tags:
   - Authorea
 ---
 
-[I previously highlighted some of the issues I was having using Authorea.com](2017/01/23/manuscript-writing-the-nuances-of-using-authorea.html) as an writing platform.
+[I previously highlighted some of the issues I was having using Authorea.com](https://robertslab.github.io/sams-notebook/2017-01-23-manuscript-writing-the-nuances-of-using-authorea.html) as an writing platform.
 
 As a collaborative writing platform, it also has issues.
 

@@ -19,7 +19,7 @@ tags:
   - SRA
 ---
 
-[An earlier attempt at submitting these files failed.](2017/03/20/data-management-sra-submission-oly-gbs-batch-submission-fail.html)
+[An earlier attempt at submitting these files failed.](https://robertslab.github.io/sams-notebook/2017-03-20-data-management-sra-submission-oly-gbs-batch-submission-fail.html)
 
 I re-uploaded the failed files (indicated in my previous notebook entry linked above) and tried again.
 

@@ -21,7 +21,7 @@ tags:
   - transcriptome
 ---
 
-I took the sorted BAM file from [yesterday's corrected RNAseq genome alignment](2018/09/25/transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with-hisat2.html) and converted it to a bedgraph using BEDTools genomeCoverageBed tool.
+I took the sorted BAM file from [yesterday's corrected RNAseq genome alignment](https://robertslab.github.io/sams-notebook/2018-09-25-transcriptome-alignment-olympia-oyster-rnaseq-reads-aligned-to-genome-with-hisat2.html) and converted it to a bedgraph using BEDTools genomeCoverageBed tool.
 
 Analysis took place on our HPC Mox node.
 

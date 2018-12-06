@@ -49,7 +49,7 @@ Notebook entries:
 
 
 
-[https://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/](2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)
+[https://onsnetwork.org/kubu4/2017/12/11/dna-isolation-quantification-crassotrea-virginica-mantle-gdna/](https://robertslab.github.io/sams-notebook/2017-12-11-dna-isolation-quantification-crassotrea-virginica-mantle-gdna.html)
 
 
 
@@ -57,11 +57,11 @@ Notebook entries:
 
 
 
-DNA Shearing and Bioanalyzer assessments: [https://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/](2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip.html)
-Day 1: [https://onsnetwork.org/kubu4/2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1/](2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1.html)
-Day 2: [https://onsnetwork.org/kubu4/2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2/](2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2.html)
-Day 3: [https://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3/](2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3.html)
-Quants: [https://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna/](2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna.html)
+DNA Shearing and Bioanalyzer assessments: [https://onsnetwork.org/kubu4/2017/12/11/dna-sonication-bioanalzyer-c-virginica-gdna-for-medip/](https://robertslab.github.io/sams-notebook/2017-12-11-dna-sonication-bioanalzyer-c-virginica-gdna-for-medip.html)
+Day 1: [https://onsnetwork.org/kubu4/2018/01/08/mbd-enrichment-crassostrea-virginica-sheared-dna-day-1/](https://robertslab.github.io/sams-notebook/2018-01-08-mbd-enrichment-crassostrea-virginica-sheared-dna-day-1.html)
+Day 2: [https://onsnetwork.org/kubu4/2018/01/09/mbd-enrichment-crassostrea-virginica-sheared-dna-day-2/](https://robertslab.github.io/sams-notebook/2018-01-09-mbd-enrichment-crassostrea-virginica-sheared-dna-day-2.html)
+Day 3: [https://onsnetwork.org/kubu4/2018/01/10/mbd-enrichment-crassostrea-virginica-sheared-dna-day-3/](https://robertslab.github.io/sams-notebook/2018-01-10-mbd-enrichment-crassostrea-virginica-sheared-dna-day-3.html)
+Quants: [https://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-mbd-enriched-dna/](https://robertslab.github.io/sams-notebook/2018-01-10-dna-quantification-c-virginica-mbd-enriched-dna.html)
 
 
 
@@ -69,6 +69,6 @@ Quants: [https://onsnetwork.org/kubu4/2018/01/10/dna-quantification-c-virginica-
 
 
 
-Digestion: [https://onsnetwork.org/kubu4/2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna/](2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna.html)
-Phenol:Chloroform cleanup: [https://onsnetwork.org/kubu4/2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today/](2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today.html)
-Quants: [https://onsnetwork.org/kubu4/2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna/](2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna.html)
+Digestion: [https://onsnetwork.org/kubu4/2018/01/11/restriction-digestion-mspi-on-crassotrea-virginica-gdna/](https://robertslab.github.io/sams-notebook/2018-01-11-restriction-digestion-mspi-on-crassotrea-virginica-gdna.html)
+Phenol:Chloroform cleanup: [https://onsnetwork.org/kubu4/2018/01/11/phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today/](https://robertslab.github.io/sams-notebook/2018-01-11-phenolchloroform-extractions-and-etoh-precipitations-mspi-digestions-of-c-virginica-dna-from-earlier-today.html)
+Quants: [https://onsnetwork.org/kubu4/2018/01/11/dna-quantification-mspi-digested-crassostrea-virginica-gdna/](https://robertslab.github.io/sams-notebook/2018-01-11-dna-quantification-mspi-digested-crassostrea-virginica-gdna.html)

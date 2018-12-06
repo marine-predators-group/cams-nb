@@ -23,7 +23,7 @@ tags:
   - QUAST
 ---
 
-[After another attempt to fix PB Jelly](2017/11/30/troubleshooting-pb-jelly-install-on-emu-continued.html), I ran it again.
+[After another attempt to fix PB Jelly](https://robertslab.github.io/sams-notebook/2017-11-30-troubleshooting-pb-jelly-install-on-emu-continued.html), I ran it again.
 
 We'll see how it goes this time...
 
