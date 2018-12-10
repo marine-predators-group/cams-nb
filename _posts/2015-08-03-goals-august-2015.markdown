@@ -12,7 +12,7 @@ categories:
   - Goals
 ---
 
-### Review of [last month's goals](https://robertslab.github.io/sams-notebook/2015-07-02-goals-july-2015.html):
+### Review of [last month's goals](https://robertslab.github.io/sams-notebook/2015/07/02/goals-july-2015.html):
 
 
 

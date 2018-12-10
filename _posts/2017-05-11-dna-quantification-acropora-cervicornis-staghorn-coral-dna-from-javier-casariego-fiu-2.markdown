@@ -21,7 +21,7 @@ tags:
   - Staghorn coral
 ---
 
-I quantified the three samples (listed below) that [I SpeedVac'd yesterday](https://robertslab.github.io/sams-notebook/2017-05-10-dna-concentration-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu.html) using the the Roberts Lab Qubit 3.0.
+I quantified the three samples (listed below) that [I SpeedVac'd yesterday](https://robertslab.github.io/sams-notebook/2017/05/10/dna-concentration-acropora-cervicornis-staghorn-coral-dna-from-javier-casariego-fiu.html) using the the Roberts Lab Qubit 3.0.
 
 
 

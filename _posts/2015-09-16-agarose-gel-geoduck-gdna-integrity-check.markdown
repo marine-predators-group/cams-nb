@@ -18,7 +18,7 @@ tags:
   - Panopea generosa
 ---
 
-Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA isolated earlier today](https://robertslab.github.io/sams-notebook/2015-09-16-genomic-dna-isolation-geoduck-adductor-muscle-foot-4.html).
+Ran 0.8% agarose 1x modified TAE gel stained with EtBr to assess the integrity of [geoduck gDNA isolated earlier today](https://robertslab.github.io/sams-notebook/2015/09/16/genomic-dna-isolation-geoduck-adductor-muscle-foot-4.html).
 
 Ran ~500ng of each sample:
 

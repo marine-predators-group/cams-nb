@@ -64,15 +64,15 @@ OK, here we go! Initiatied an assembly run using  [SparseAssembler](https://gith
 
 
 
-  * [BGI HiSeq Data](https://robertslab.github.io/sams-notebook/2018-03-27-fastqcmultiqc-bgi-geoduck-genome-sequencing-data.html)
+  * [BGI HiSeq Data](https://robertslab.github.io/sams-notebook/2018/03/27/fastqcmultiqc-bgi-geoduck-genome-sequencing-data.html)
 
 
 
-  * [Illumina Mate Pair HiSeq Data](https://robertslab.github.io/sams-notebook/2018-04-01-trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued.html)
+  * [Illumina Mate Pair HiSeq Data](https://robertslab.github.io/sams-notebook/2018/04/01/trimgalorefastqcmultiqc-illumina-hiseq-genome-sequencing-data-continued.html)
 
 
 
-  * [Illumina NovaSeq Data](https://robertslab.github.io/sams-notebook/2018-01-25-adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html)
+  * [Illumina NovaSeq Data](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html)
 
 
 

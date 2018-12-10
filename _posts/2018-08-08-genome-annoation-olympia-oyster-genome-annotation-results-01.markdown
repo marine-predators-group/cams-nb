@@ -19,7 +19,7 @@ tags:
   - wq-maker
 ---
 
-Yesterday, [I annotated our Olympia oyster genome using WQ-MAKER in just 7hrs!](https://robertslab.github.io/sams-notebook/2018-08-07-genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream.html).
+Yesterday, [I annotated our Olympia oyster genome using WQ-MAKER in just 7hrs!](https://robertslab.github.io/sams-notebook/2018/08/07/genome-annotation-olympia-oyster-genome-using-wq-maker-instance-on-jetstream.html).
 
 See that link for run setup and configuration.
 
@@ -51,7 +51,7 @@ I'm not entirely sure what the impacts will be on annotation, so I've re-run Mak
 
 
 
-  * [Genome Annoation – Olympia oyster genome annotation results #02](https://robertslab.github.io/sams-notebook/2018-08-08-genome-annoation-olympia-oyster-genome-annotation-results-02.html)
+  * [Genome Annoation – Olympia oyster genome annotation results #02](https://robertslab.github.io/sams-notebook/2018/08/08/genome-annoation-olympia-oyster-genome-annotation-results-02.html)
 
 
 

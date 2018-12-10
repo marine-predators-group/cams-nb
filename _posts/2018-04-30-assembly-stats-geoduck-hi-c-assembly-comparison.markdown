@@ -17,7 +17,7 @@ tags:
   - QUAST
 ---
 
-Ran the following Quast command to compare [the two geoduck assemblies provided to us by Phase Genomics](https://robertslab.github.io/sams-notebook/2018-04-21-data-management-geoduck-phase-genomics-hi-c-data.html):
+Ran the following Quast command to compare [the two geoduck assemblies provided to us by Phase Genomics](https://robertslab.github.io/sams-notebook/2018/04/21/data-management-geoduck-phase-genomics-hi-c-data.html):
 
 
     

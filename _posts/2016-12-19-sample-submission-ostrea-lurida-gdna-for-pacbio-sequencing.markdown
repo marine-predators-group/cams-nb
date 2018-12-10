@@ -18,6 +18,6 @@ tags:
   - PacBio
 ---
 
-Submitted 10μg (30.7μL) of the O.lurida [gDNA I isolated on 20161214](https://robertslab.github.io/sams-notebook/2016-12-14-dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing.html) to [the UW PacBio facility](https://pacbio.gs.washington.edu/) - Order #450.
+Submitted 10μg (30.7μL) of the O.lurida [gDNA I isolated on 20161214](https://robertslab.github.io/sams-notebook/2016/12/14/dna-isolation-ostrea-lurida-dna-for-pacbio-sequencing.html) to [the UW PacBio facility](https://pacbio.gs.washington.edu/) - Order #450.
 
 Sequencing will be 10 SMRT cells. Turnaround time is ~7-8 weeks for UW customers (UW customers get queue priority).
