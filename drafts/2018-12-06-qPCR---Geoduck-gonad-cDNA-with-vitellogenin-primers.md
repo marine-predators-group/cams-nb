@@ -33,12 +33,34 @@ qPCR Master Mix calcs (Google Sheet):
 
 ---
 
-### Results
+#### Results
 
 qPCR Report (PDF):
 
--
+- [sam_2018-12-06 2013-24-33_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-12-06%2013-24-33_BR006896.pdf)
 
-qPCR Data File (PCRD):
+CFX Data File (PCRD):
 
--
+- [sam_2018-12-06 2013-24-33_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-12-06%2013-24-33_BR006896.pcrd)
+
+Primers worked perfectly (although, expression comes up a bit later than I'd like)! Good amplification, single peak in melt curve, and no amplification in gDNA.
+
+This also means I can use this cDNA as a positive control for future geoduck VTG qPCRs.
+
+---
+
+Key for plots below:
+
+- Green = cDNA
+- Blue = gDNA
+- Red = No Template Controls (NTC)
+
+###### AMPLIFCATION PLOT
+
+![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-12-06_13-24-33_amp_plots.png)
+
+---
+
+###### MELT CURVE
+
+![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-12-06_13-24-33_melt_plots.png)
