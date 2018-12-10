@@ -1,7 +1,7 @@
 ---
 author: kubu4
 comments: true
-date: 2015-04-28 01:00:43+00:00
+date: 2015-04-27 01:00:43+00:00
 layout: post
 slug: rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2
 title: RNA Isolation – Geoduck Gonad in Paraffin Histology Blocks
