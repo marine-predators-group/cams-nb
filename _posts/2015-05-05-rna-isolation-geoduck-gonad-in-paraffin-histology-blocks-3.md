@@ -21,9 +21,9 @@ tags:
   - RNA quantification
 ---
 
-UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](2015-05-29-bioanalyzer-geoduck-gonad-rna-quality-assessment.md).
+UPDATE 20150528: The RNA isolated in this notebook entry may have been consolidated on [20150528](https://robertslab.github.io/sams-notebook/2015/05/29/bioanalyzer-geoduck-gonad-rna-quality-assessment.html).
 
-[Last week’s RNA isolation](https://robertslab.github.io/sams-notebook/2015-04-27-rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html) (a second attempt at obtaining RNA from the samples) performed poorly. I will re-isolate RNA from the following samples:
+[Last week’s RNA isolation](https://robertslab.github.io/sams-notebook/2015/04/27/rna-isolation-geoduck-gonad-in-paraffin-histology-blocks-2.html) (a second attempt at obtaining RNA from the samples) performed poorly. I will re-isolate RNA from the following samples:
 
 
 
