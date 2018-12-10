@@ -30,6 +30,7 @@
 
 # Set variables
 post_date=$(date '+%F %H:%M')
+filename_date=$(date '+%F')
 md_line="---"
 layout="layout: post"
 title="title: "
@@ -55,7 +56,7 @@ read -a categories_array
 formatted_title=$(echo -ne "${post_title}" | tr [:space:] '-')
 
 # save new filename using post_date and formatted_phrase variables.
-new_md_file="$(echo -n "${post_date}"-"${formatted_title}")".md
+new_md_file="$(echo -n "${filename_date}"-"${formatted_title}")".md
 
 # Creates markdown file.
 touch "${new_md_file}"
