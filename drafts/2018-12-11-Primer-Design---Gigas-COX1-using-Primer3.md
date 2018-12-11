@@ -15,7 +15,7 @@ categories:
 ---
 We're attempting a quick & dirty [comparison of relative mitochondria counts between diploid and triploid _C.gigas_](https://github.com/RobertsLab/resources/issues/510), so needed a single-copy mitochondrial gene target for qPCR. Selected cytochrome c oxidase subunit 1 (COX1), based on a quick glance at [the NCBI mt genome browser for _C.gigas_ NC_001276](https://www.ncbi.nlm.nih.gov/nuccore/NC_001276.1?report=graph).
 
-Although everything is explained pretty well in the Jupyter Notebook, here's the brief rundown of the process:
+Although everything is explained pretty well in the Jupyter Notebook linked below, here's the brief rundown of the process:
 
 1. Download FastA files for _C.gigas_ genome, _C.gigas_ mt genome, _C.gigas_ mt coding sequences (only way I could figure out how to get individual gene nucleotides).
 
@@ -25,7 +25,6 @@ Although everything is explained pretty well in the Jupyter Notebook, here's the
 
 5. Confirm primer specificity using [EMBOSS](https://emboss.sourceforge.net/download/)(v6.6.0) [primersearch tool](http://emboss.sourceforge.net/apps/cvs/emboss/apps/primersearch.html) to check all individual sequence files for possible matches.
 
-
 Jupyter Notebook (GitHub):
 
 - [20181211_swoose_gigas_mt_primer_design.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181211_swoose_gigas_mt_primer_design.ipynb)
@@ -34,7 +33,7 @@ Jupyter Notebook (GitHub):
 
 #### RESULTS
 
-All files were transferred to Gennet using ```rsync```.
+All files were transferred to Gannet using ```rsync```.
 
 Output directory:
 
@@ -59,3 +58,23 @@ INCLUDED REGION SIZE: 1518
 
 PRODUCT SIZE: 148, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
 </code></pre>
+
+---
+
+Primer3 Primer Design Parameters (TXT):
+
+- [20181211_gigas_cox1_primers/20181211_primer3_params.txt](http://gannet.fish.washington.edu/Atumefaciens/20181211_gigas_cox1_primers/20181211_primer3_params.txt)
+
+The EMBOSS ```primersearch``` tool produced two matches (TXT):
+
+- [20181211_gigas_cox1_primers/nc_001276.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181211_gigas_cox1_primers/nc_001276.primersearch)
+
+- [20181211_gigas_cox1_primers/nw_011935054.primersearch](http://gannet.fish.washington.edu/Atumefaciens/20181211_gigas_cox1_primers/nw_011935054.primersearch)
+
+The first match (nc_001276.primersearch) is a match in the full mt genome, which corresponds to the COX1 coding sequence location.
+
+The second match (nw_011935054.primersearch) is within a scaffold of the full _C.gigas_ genome. This result suggests that the full genome _includes_ mitochondrial sequences, as we would not expect mtDNA sequences to be found in the nuclear DNA.
+
+These results confirm that this primer set is specific for COX1.
+
+Will order this primer set.
