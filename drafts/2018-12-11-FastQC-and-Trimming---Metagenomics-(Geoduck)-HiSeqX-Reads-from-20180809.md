@@ -76,4 +76,4 @@ Post-trimming FastQC folder (second round, 10bp trim):
 
 MultiQC Report (HTML):
 
-- []()
+- [20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_02/20181211_metagenomics_trimmed_fastqc/multiqc_report.html](http://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_02/20181211_metagenomics_trimmed_fastqc/multiqc_report.html)
