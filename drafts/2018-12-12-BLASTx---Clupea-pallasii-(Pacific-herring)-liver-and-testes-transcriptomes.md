@@ -164,3 +164,11 @@ ${blastx} \
 Output folder:
 
 - [20181212_blastx_herring_transcriptomes/](http://gannet.fish.washington.edu/Atumefaciens/20181212_blastx_herring_transcriptomes/)
+
+Liver BLASTx output file:
+
+- [20181212_blastx_herring_transcriptomes/20181212.herring.liver.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20181212_blastx_herring_transcriptomes/20181212.herring.liver.blastx.outfmt6)
+
+Testes BLASTx output file:
+
+- [20181212_blastx_herring_transcriptomes/20181212.herring.testes.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20181212_blastx_herring_transcriptomes/20181212.herring.testes.blastx.outfmt6)
