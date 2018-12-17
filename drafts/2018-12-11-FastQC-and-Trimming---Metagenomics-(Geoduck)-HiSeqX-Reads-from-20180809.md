@@ -24,13 +24,15 @@ Jupyter Notebook (GitHub):
 
 ### RESULTS
 
-Samples required two rounds of trimming:
+Samples required three rounds of trimming:
 
 1. Initial quality/adapter trimming.
 
 2. Remove funky 5' 10bp from each read.
 
-Now that the reads are cleaned, will transfer doubly-trimmed data to Mox for assembly.
+3. Remove funky 5' 10bp from each read (again? maybe I misread the number of bases needing to be trimmed from the previous trimming?)
+
+Now that the reads are cleaned, will transfer triply-trimmed data to Mox for assembly.
 
 ---
 
@@ -77,3 +79,18 @@ Post-trimming FastQC folder (second round, 10bp trim):
 MultiQC Report (HTML):
 
 - [20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_02/20181211_metagenomics_trimmed_fastqc/multiqc_report.html](http://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_02/20181211_metagenomics_trimmed_fastqc/multiqc_report.html)
+
+
+---
+
+TrimGalore! folder (third round, 10bp trim):
+
+- [20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03](http://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03)
+
+Post-trimming FastQC folder (second round, 10bp trim):
+
+- [20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03/20181211_metagenomics_trimmed_fastqc/](http://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03/20181211_metagenomics_trimmed_fastqc/)
+
+MultiQC Report (HTML):
+
+- [20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03/20181211_metagenomics_trimmed_fastqc/multiqc_report.html](http://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03/20181211_metagenomics_trimmed_fastqc/multiqc_report.html)
