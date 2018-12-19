@@ -12,7 +12,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-Using the _C.gigas_ cytochrome c oxidase (COX1) primers [I designed the other day](https://robertslab.github.io/sams-notebook/2018/12/11/Primer-Design-Gigas-COX1-using-Primer3.html), I ran a qPCR on a subset of Ronit's diploid/triploid control/heat shocked oyster DNA that [Shelly had previously isolated and performed global DNA methylation assay](https://shellytrigg.github.io/12th-post/). The goal is to get a rough assessment of whether or not there appear to be differences in relative mitochondrial abundances between these samples.
+Using the _C.gigas_ cytochrome c oxidase (COX1) primers ([SR IDs: 1713, 1714](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK))[I designed the other day](https://robertslab.github.io/sams-notebook/2018/12/11/Primer-Design-Gigas-COX1-using-Primer3.html), I ran a qPCR on a subset of Ronit's diploid/triploid control/heat shocked oyster DNA that [Shelly had previously isolated and performed global DNA methylation assay](https://shellytrigg.github.io/12th-post/). The goal is to get a rough assessment of whether or not there appear to be differences in relative mitochondrial abundances between these samples.
 
 I used 50ng (2uL) of DNA in each qPCR reaction. The DNA had been previously [diluted to 25ng/uL by Shelly when performing her DNA methylation assay (Google Sheet)](https://docs.google.com/spreadsheets/d/1t_Z4entkvU5W_z_m6xlGimbOnNGMB_O9avqDgDWt6Xs/edit#gid=0), however I did need to prepare a dilution for sample T02 (control, triploid), as there wasn't an existing 25ng/uL dilution in her box:
 
@@ -20,6 +20,11 @@ I used 50ng (2uL) of DNA in each qPCR reaction. The DNA had been previously [dil
 
 - 0.46uL H<sub>2</sub>O
 
+qPCR master mix calcs (Google Sheet):
+
+- [20181217_qPCR_gigas_COX1_ploidy](https://docs.google.com/spreadsheets/d/1cD6X1zR-BcfZqxZBgEDgbJ8ClQ1DWPJ1BzSqgfA-_Yo/edit?usp=sharing)
+
+All samples were run in duplicate using 2x SsoFast EVAGreen Master Mix (BioRad) on the Roberts Lab CFX Connect. Plate layout, cycling params, etc can be seen in the qPCR Report (see Results below).
 
 ---
 
@@ -42,7 +47,7 @@ Firstly, as this is the first time these primers are being used, their performan
 
 Overall, the qPCRs don't look that great. Technical reps are remarkably bad, which is surprising and disappointing.
 
-The data, via a quick visual assessment of differences between the various sample groups (see table below), suggests that there could be a difference between heat stressed diploid and triploid COX1 (i.e. mitochondrial abundance) numbers, however, there is a remarkably wide spread between biological replicates, as well as technical replicates. No statistical analysis was performed to compare these groups. 
+The data, via a quick visual assessment of differences between the various sample groups (see table below), suggests that there could be a difference between heat stressed diploid and triploid COX1 (i.e. mitochondrial abundance) numbers, however, there is a remarkably wide spread between biological replicates, as well as technical replicates. No statistical analysis was performed to compare these groups.
 
 Due to potential differences between the aformentioned groups, the large differences in biological replicates, and poor performance of technical replicates, this certainly warrants further work; likely isolation of additional DNA (Shelly's T02 stock sample was essentially depleted to make working dilutions for these qPCRs) and repeat of the qPCR to improve technical replicates.
 
