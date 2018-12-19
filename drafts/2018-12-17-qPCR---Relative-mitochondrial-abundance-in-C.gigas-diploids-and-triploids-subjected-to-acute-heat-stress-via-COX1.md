@@ -29,25 +29,51 @@ qPCR Report (PDF):
 
 - [sam_2018-12-17%2011-03-40_BR006896.pdf](http://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2018-12-17%2011-03-40_BR006896.pdf)
 
-qPCR Data File (PCRD):
+qPCR Data File (PCRD - Requires CFX Maestro):
 
 - [sam_2018-12-17%2011-03-40_BR006896.pcrd](http://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2018-12-17%2011-03-40_BR006896.pcrd)
 
 qPCR Data (CSV):
 
-- []()
+- [sam_2018-12-17_11-03-40_BR006896_-__Quantification_Cq_Results.csv](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-12-17_11-03-40_BR006896_-__Quantification_Cq_Results.csv)
+
+
+Firstly, as this is the first time these primers are being used, their performance looks good, based on the melt curves (see below); nice, tight single peak.
+
+Overall, the qPCRs don't look that great. Technical reps are remarkably bad, which is surprising and disappointing.
+
+The data, via a quick visual assessment of differences between the various sample groups (see table below), suggests that there could be a difference between heat stressed diploid and triploid COX1 (i.e. mitochondrial abundance) numbers, however, there is a remarkably wide spread between biological replicates, as well as technical replicates. No statistical analysis was performed to compare these groups. 
+
+Due to potential differences between the aformentioned groups, the large differences in biological replicates, and poor performance of technical replicates, this certainly warrants further work; likely isolation of additional DNA (Shelly's T02 stock sample was essentially depleted to make working dilutions for these qPCRs) and repeat of the qPCR to improve technical replicates.
+
+---
+
+##### TABLE
+
+Summary table of means of replicate Cq values. Values have been grouped on various categories (table headers). A mean Cq value for each category is provided at the bottom of the respective column.
+
+|          | Controls | HS    | Diploid | Triploid | Control Diploid | Control Triploid | HS diploid | HS triploid |
+|----------|----------|-------|---------|----------|-----------------|------------------|------------|-------------|
+|          | 21.54    | 25.98 | 21.54   | 23.36    | 21.54           | 23.36            | 25.98      | 22.05       |
+|          | 23.94    | 17.62 | 23.94   | 22.73    | 23.94           | 22.73            | 17.62      | 27.64       |
+|          | 23.36    | 22.05 | 25.98   | 22.05    |                 |                  |            |             |
+|          | 22.73    | 27.64 | 17.62   | 27.64    |                 |                  |            |             |
+| MEAN Cqs | 22.89    | 23.32 | 22.27   | 23.95    | 22.74           | 23.04            | 21.80      | 24.85       |
 
 ---
 
 ##### AMPLIFICATION PLOTS
 
-Blue:
+Blue: heat stressed
 
-Purple:
+Purple: controls
 
-Squares:
+Red: no template controls (NTC)
 
-Triangles:
+Circles: diploids
+
+Squares: triploids
+
 
 ![](http://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2018-12-17_11-03-40_amp_plots.png)
 
