@@ -110,7 +110,7 @@ ${td_predict} \
 
 List of input files and databases used:
 
-- [20180827_trinity_geoduck.fasta (FastA 972MB)(https://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta)
+- [20180827_trinity_geoduck.fasta (FastA 972MB)](https://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta)
 
 - 20181008_uniprot_sprot.fasta: Downloaded 20181008.
 
