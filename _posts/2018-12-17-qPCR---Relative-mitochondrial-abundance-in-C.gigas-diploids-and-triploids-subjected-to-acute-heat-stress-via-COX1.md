@@ -26,6 +26,21 @@ qPCR master mix calcs (Google Sheet):
 
 All samples were run in duplicate using 2x SsoFast EVAGreen Master Mix (BioRad) on the Roberts Lab CFX Connect. Plate layout, cycling params, etc can be seen in the qPCR Report (see Results below).
 
+Ronit's master spreadsheet that describes all samples is here (Google Sheet):
+
+- [Exposure 8/29-8/30 C.Gigas](https://docs.google.com/spreadsheets/d/17mv8gMbmaldggA8Zf0RwBeNF_O4faY8dJFg31XO63K4/edit?usp=sharing)
+
+Samples used for this qPCR (samples starting with "D" are diploid and starting with "T" are triploid):
+
+- D01 (control)
+- D02 (control)
+- D19 (heat stressed)
+- D20 (heat stressed)
+- T01 (control)
+- T02 (control)
+- T19 (heat stressed)
+- T20 (heat stressed)
+
 ---
 
 #### RESULTS
