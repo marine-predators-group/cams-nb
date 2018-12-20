@@ -32,3 +32,14 @@ Samples were stored in "[Ronit's gDNA Box #1]()"  in the FTR213 -20<sup>o</sup>C
 ---
 
 #### RESULTS
+
+
+
+
+
+| sample_ID | Concentration(ng/uL) |
+|-----------|----------------------|
+| D11-C     | 181                  |
+| D12-C     | 192                  |
+| D13-C     | 288                  |
+| D14-C     | 452                  |
