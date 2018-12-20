@@ -27,13 +27,15 @@ After the O/N incubation, I processed the samples according to the E.Z.N.A. Moll
 
 Samples were eluted in 100uL of Elution Buffer and quantified with the Roberts Lab Qubit 3.0 and the Qubit dsDNA BR Assay (Invitrogen), using 2uL of each sample.
 
-Samples were stored in "[Ronit's gDNA Box #1]()"  in the FTR213 -20<sup>o</sup>C freezer.
+Samples were stored in "[Ronit's gDNA Box #1 (positions B2 - B5)](https://docs.google.com/spreadsheets/d/1Gp91BJ5g2W6c4r8UhGVc2UhQGdCHju72aZswpR-Qxpc/edit?usp=sharing)"  in the FTR213 -20<sup>o</sup>C freezer.
 
 ---
 
 #### RESULTS
 
+Qubit data (Google Sheet):
 
+- [20181220_qubit_gDNA_gigas_ploidy](https://docs.google.com/spreadsheets/d/1KFkA9hL217watfnJoC3DNq9R9OPm7n_Az3vRG8WLWdY/edit?usp=sharing)
 
 
 
