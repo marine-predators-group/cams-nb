@@ -22,9 +22,19 @@ With that out of the way, here's a _very_ brief overview of the entire MAKER ann
 
 2. Provide RNAseq data ([Trinity assembly from 20180919](https://robertslab.github.io/sams-notebook/2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html))
 
-3. Provide species-specific and/or related proteomic data (used publicly available proteomes from NCBI for _C.gigas_ ([GCA_000297895.1_oyster_v9](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/297/895/GCA_000297895.1_oyster_v9/)) and _C.virginica ([GCF_002022765.2_C_virginica-3.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/))
+3. Provide species-specific and/or related proteomic data (used publicly available proteomes from NCBI for _C.gigas_ ([GCA_000297895.1_oyster_v9](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/297/895/GCA_000297895.1_oyster_v9/)) and _C.virginica_ ([GCF_002022765.2_C_virginica-3.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/))
 
-4.
+4. Run MAKER to produce initial gene models.
+
+5. Merge all the hundred thousands (seriously) of individual GFFs and FastAs in to a singular file of each file type.
+
+6. Generate _ab initio_ gene prediction using [SNAP](https://github.com/KorfLab/SNAP). This is integrated in to MAKER.
+
+7. Run MAKER again, using the SNAP gene models.
+
+8. Run SNAP a second time.
+
+9. Run MAKER a _third_ time using the second set of SNAP gene models.
 
 
 All files were ```rsync```'d to my folder on Gannet.
