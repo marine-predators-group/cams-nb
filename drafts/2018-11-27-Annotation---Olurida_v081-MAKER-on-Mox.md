@@ -44,7 +44,7 @@ With that out of the way, here's a _very_ brief overview of the entire MAKER ann
 
 So, that's how it's done! Easy!
 
-With each round of MAKER, a "control" file needs to be generated and modified appropriately. Modifications consist of telling MAKER locations of files and whether or not to use certain types of files when producing a new model (e.g. RNAseq data, SNAP HMM file, etc.). Here are the three control files that were used to run MAKER. The links are simply text files, despite their extension, so they can be downloaded and viewwed in any text editor, if desired, but I've pasted their contents below for easier review:
+With each round of MAKER, a "control" file needs to be generated and modified appropriately. Modifications consist of telling MAKER locations of files and whether or not to use certain types of files when producing a new model (e.g. RNAseq data, SNAP HMM file, etc.). Here are the three control files that were used to run MAKER. The links are simply text files, despite their extension, so they can be downloaded and viewed in any text editor, if desired, but I've pasted their contents below for easier review:
 
 ---
 
@@ -570,3 +570,15 @@ All files were ```rsync```'d to my folder on Gannet.
 Output directory:
 
 - [20181127_oly_maker_genome_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/)
+
+Here are some of the key output files:
+
+##### MAKER Protein FastA
+- [20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta(9.3MB)](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta)
+
+##### MAKER Transcripts FastAs
+- [20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.transcripts.fasta (28MB)](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.transcripts.fasta)
+
+##### Initial MAKER Run GFF3
+
+- [20181127_oly_maker_genome_annotation/Olurida_v081.maker.all.noseqs.gff  (1.1GB)](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/Olurida_v081.maker.all.noseqs.gff)
