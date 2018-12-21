@@ -582,3 +582,12 @@ Here are some of the key output files:
 ##### Initial MAKER Run GFF3
 
 - [20181127_oly_maker_genome_annotation/Olurida_v081.maker.all.noseqs.gff  (1.1GB)](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/Olurida_v081.maker.all.noseqs.gff)
+
+
+##### 2<sup>nd</sup> MAKER Run GFF (after 1<sup>st</sup> SNAP)
+
+- [20181127_oly_maker_genome_annotation/snap01/20181127_oly_genome_snap01.all.noseqs.gff (1.2GB)](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/snap01/20181127_oly_genome_snap01.all.noseqs.gff)
+
+##### 3<sup>rd</sup> MAKER Run GFF (after 2<sup>nd</sup> SNAP)
+
+- [20181127_oly_maker_genome_annotation/snap02/20181127_oly_genome_snap02.all.noseqs.gff](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/snap02/20181127_oly_genome_snap02.all.noseqs.gff)
