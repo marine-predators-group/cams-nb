@@ -591,3 +591,20 @@ Here are some of the key output files:
 ##### 3<sup>rd</sup> MAKER Run GFF (after 2<sup>nd</sup> SNAP)
 
 - [20181127_oly_maker_genome_annotation/snap02/20181127_oly_genome_snap02.all.noseqs.gff](https://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/snap02/20181127_oly_genome_snap02.all.noseqs.gff)
+
+
+So, what to do with all of this?
+
+Firstly, I've learned a lot about how all of this should work and recently discovered this remarkably informative GitHub Gist that walks through the process of annotating a snake genome:
+
+- [In-depth description of running MAKER for genome annotation.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=29&cad=rja&uact=8&ved=2ahUKEwjph4b1ibLfAhUMFnwKHRofDboQFjAcegQICxAB&url=https%3A%2F%2Fgist.github.com%2Fdarencard%2Fbb1001ac1532dd4225b030cf0cd61ce2&usg=AOvVaw152zgECy_-2g7bjqS0vTaa)
+
+The post above provides details on how to speed the process up (hint: use GFFs for subsequent MAKER rounds to avoid repeated BLAST-ing. BLAST-ing is one of the slowest parts of the process.) and provides some explanations of how to evaluate the process, as well as how to run BUSCO/Augustus.
+
+The 3<sup>rd</sup> MAKER Run GFF should contain the most refined gene models. This GFF has individual genes, coding sequences (CDS), mRNAs, and proteins. However, it's a good idea to load all three GFFs in a genome browser and see how they compare.
+
+A run through BUSCO/Augustus gene prediction should refine these models even further and seems to be the standard practice when annotating genomes.
+
+Additionally, the protein FastA file needs to be subject to BLASTp, as well as run through InterProScan to actually assign functions to the genome.
+
+Finally, MAKER can put all this together and create better sequence ID info in the FastA files _and_ the GFFs (will create NCBI-standardized sequence IDs).
