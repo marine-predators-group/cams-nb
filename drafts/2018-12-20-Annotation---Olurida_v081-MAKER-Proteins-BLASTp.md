@@ -80,3 +80,17 @@ ${blastp} \
 -outfmt 6 \
 -num_threads 28
 </code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- [20181220_oly_maker_blastp/](http://gannet.fish.washington.edu/Atumefaciens/20181220_oly_maker_blastp/)
+
+BLASTp output:
+
+- [20181220_oly_maker_blastp/20181220_outfmt6.blastp](http://gannet.fish.washington.edu/Atumefaciens/20181220_oly_maker_blastp/20181220_outfmt6.blastp)
+
+Great, now that I have this, I can use it to incorporate into the MAKER outputs (GFFs and FastA).
