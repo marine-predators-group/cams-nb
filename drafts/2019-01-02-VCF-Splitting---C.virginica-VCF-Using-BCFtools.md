@@ -21,8 +21,20 @@ Overview of process:
 
 2. Gunzipped file.
 
-3. Sorted file with ```awk``` command found at
+3. Sorted and bgzipped file.
+
+4. Indexed sorted file with ```tabix```.
+
+5. Filled AN/AC values with ```bcftools``` AN/AC fill plugin.
+
+6. BCFtools to split sorted/filled VCF in to individual VCF files.
+
+The entire process is documented in the Jupyter Notebook linked below.
 
 Jupyter Notebook (GitHub):
 
 - [20190103_swoose_C.virginica_vcf_splitting.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190103_swoose_C.virginica_vcf_splitting.ipynb)
+
+---
+
+#### RESULTS
