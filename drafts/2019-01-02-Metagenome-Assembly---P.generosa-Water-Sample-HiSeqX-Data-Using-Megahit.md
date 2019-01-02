@@ -111,3 +111,23 @@ ${bbmap_dir}/pileup.sh \
 in=aln.sam.gz \
 out=coverage.txt
 </code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- [20190102_metagenomics_geo_megahit/](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/)
+
+Assembly (FastA):
+
+- [20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa)
+
+Alignment (Gzipped SAM):
+
+- [20190102_metagenomics_geo_megahit/aln.sam.gz](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/aln.sam.gz)
+
+Coverage file (txt):
+
+- [20190102_metagenomics_geo_megahit/coverage.txt](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/coverage.txt)
