@@ -38,3 +38,9 @@ Jupyter Notebook (GitHub):
 ---
 
 #### RESULTS
+
+Output folder:
+
+- [20190103_Cvirginica_vcf_splitting](http://gannet.fish.washington.edu/Atumefaciens/20190103_Cvirginica_vcf_splitting)
+
+Will let Steven know this is complete and close out [GitHub issue]((https://github.com/RobertsLab/resources/issues/528)).
