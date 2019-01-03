@@ -135,3 +135,57 @@ Alignment (Gzipped SAM):
 Coverage file (txt):
 
 - [20190102_metagenomics_geo_megahit/coverage.txt](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/coverage.txt)
+
+
+This assembly yielded 2,276,153 contigs (```grep -c ">" final.contigs.fa```).
+
+Also, ran Quast to assess assembly:
+
+```
+python \
+/home/sam/software/quast-4.5/quast.py \
+--threads=20 \
+--min-contig=100 \
+--labels=meta_megahit_assembly \
+/mnt/gannet/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa```
+Quast output folder:
+
+- [20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/)
+
+Quast report (HTML):
+
+- [20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/report.html](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/report.html)
+
+Quast report (text):
+
+- [20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/report.txt](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/report.txt)
+
+Quast ```report.txt```:
+
+```
+All statistics are based on contigs of size >= 100 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    meta_megahit_assembly
+# contigs (>= 0 bp)         2276153              
+# contigs (>= 1000 bp)      496414               
+# contigs (>= 5000 bp)      41075                
+# contigs (>= 10000 bp)     12255                
+# contigs (>= 25000 bp)     2797                 
+# contigs (>= 50000 bp)     864                  
+Total length (>= 0 bp)      2243059881           
+Total length (>= 1000 bp)   1342986697           
+Total length (>= 5000 bp)   487449312            
+Total length (>= 10000 bp)  293688660            
+Total length (>= 25000 bp)  154694058            
+Total length (>= 50000 bp)  89125138             
+# contigs                   2276153              
+Largest contig              2035937              
+Total length                2243059881           
+GC (%)                      39.32                
+N50                         1413                 
+N75                         624                  
+L50                         308641               
+L75                         932685               
+# N's per 100 kbp           0.00    
+
+```
