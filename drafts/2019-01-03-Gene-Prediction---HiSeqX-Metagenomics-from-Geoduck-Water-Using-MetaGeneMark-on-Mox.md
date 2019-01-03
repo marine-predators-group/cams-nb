@@ -113,3 +113,7 @@ Protein FastA (727MB):
 GFF3 File (1.3GB):
 
 - [20190103_metagenomics_geo_metagenemark/20190103-mgm.gff3](http://gannet.fish.washington.edu/Atumefaciens/20190103_metagenomics_geo_metagenemark/20190103-mgm.gff3)
+
+A cursory glance at the FastA files (```grep -c ">" fasta```) indicate a total of 3,296,610 genes predicted.
+
+Now, for some annotations using BLASTn and/or BLASTp...
