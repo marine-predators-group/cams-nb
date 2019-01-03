@@ -14,7 +14,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-Quantified Ronit's DNased RNA [earlier today](https://robertslab.github.io/sams-notebook/2018/11/20/RNA-Quantification-Ronit's-C.gigas-DNased-RNA-from-20181115.html) and proceeded with reverse transcription using 500ng of DNased RNA with oligo dT primers (Promega) and M-MLV reverse transcriptase (Promega) according to the manufacturer's protocol.
+Quantified Ronit's DNased RNA [earlier today](https://robertslab.github.io/sams-notebook/2018/11/20/RNA-Quantification-Ronit's-C.gigas-DNased-RNA-from-20181115.html) and proceeded with reverse transcription using 100ng of DNased RNA with oligo dT primers (Promega) and M-MLV reverse transcriptase (Promega) according to the manufacturer's protocol.
 
 RNA and oligo dTs were incubated at 70<sup>o</sup>C for 10mins in a PTC-200 thermal cycler (MJ Research) without a heated lid and immediately placed on ice.
 
