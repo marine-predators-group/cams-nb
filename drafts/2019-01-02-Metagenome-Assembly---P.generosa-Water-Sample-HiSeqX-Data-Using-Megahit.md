@@ -116,6 +116,10 @@ out=coverage.txt
 
 #### RESULTS
 
+This took a little less than a day to run:
+
+![](http://gannet.fish.washington.edu/Atumefaciens/images/20190103_mox_megahit_complete.png)
+
 Output folder:
 
 - [20190102_metagenomics_geo_megahit/](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/)
