@@ -189,3 +189,5 @@ L75                         932685
 # N's per 100 kbp           0.00    
 
 ```
+
+Now, should probably BLASTn, identify ORFs, translate and BLASTp those ORFs.
