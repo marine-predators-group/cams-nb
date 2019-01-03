@@ -139,6 +139,23 @@ Coverage file (txt):
 
 This assembly yielded 2,276,153 contigs (```grep -c ">" final.contigs.fa```).
 
+Here're some alignment stats from the ```BBmmap pileup.sh``` command (can be found at end of [the slurm file (text)](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/slurm-553487.out)):
+
+```
+Reads:                               	163236894
+Mapped reads:                        	143703254
+Mapped bases:                        	16437148607
+Ref scaffolds:                       	2276153
+Ref bases:                           	2243059881
+
+Percent mapped:                      	88.034
+Percent proper pairs:                	76.768
+Average coverage:                    	7.328
+Standard deviation:                    	27.892
+Percent scaffolds with any coverage: 	70.54
+Percent of reference bases covered:  	56.07
+```
+
 Also, ran Quast to assess assembly:
 
 ```
@@ -149,6 +166,7 @@ python \
 --labels=meta_megahit_assembly \
 /mnt/gannet/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa
 ```
+
 Quast output folder:
 
 - [20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/)
