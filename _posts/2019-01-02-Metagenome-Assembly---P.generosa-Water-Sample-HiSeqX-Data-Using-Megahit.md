@@ -27,7 +27,7 @@ SBATCH script is linked here and pasted in full below:
 
 - [20190102_metagenomics_geo_megahit/20190102_metagenomics_geo_megahit.sh](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/20190102_metagenomics_geo_megahit.sh)
 
-<pre><code>
+```
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=megahit
@@ -110,7 +110,7 @@ out=aln.sam.gz
 ${bbmap_dir}/pileup.sh \
 in=aln.sam.gz \
 out=coverage.txt
-</code></pre>
+```
 
 ---
 
@@ -147,7 +147,8 @@ python \
 --threads=20 \
 --min-contig=100 \
 --labels=meta_megahit_assembly \
-/mnt/gannet/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa```
+/mnt/gannet/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa
+```
 Quast output folder:
 
 - [20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/quast_results/results_2019_01_03_13_37_32/)
