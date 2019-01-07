@@ -11,4 +11,68 @@ tags:
 categories:
   - Olympia Oyster Genome Sequencing
 ---
-Continuation of genome annotation of the Olympia oyster genome. [Determined initial gene models using MAKER with two rounds of SNAP](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html) and then performed [protein-level annotations using BLASTp](https://robertslab.github.io/sams-notebook/2018/12/20/Annotation-Olurida_v081-MAKER-Proteins-BLASTp.html).
+Continuation of genome annotation of the Olympia oyster genome. [Determined initial gene models using MAKER with two rounds of SNAP](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html) and then performed [protein-level annotations using BLASTp](https://robertslab.github.io/sams-notebook/2018/12/20/Annotation-Olurida_v081-MAKER-Proteins-BLASTp.html). Next, I'm going to run [InterProScan5 (IPS5)](https://github.com/ebi-pf-team/interproscan/wiki) to help functionally characterize the _O.lurida_ proteins ID'd by MAKER. Once this is complete, I'll use MAKER to incorporate the IPS5 and BLASTp results into a much more neatly (i.e. human-readable) annotated genome!
+
+THE IPS5 analysis was performed on Mox with the following SBATCH script:
+
+- [20190107_oly_maker_interproscan.sh (text)](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20190107_oly_maker_interproscan.sh)
+
+<pre><code>
+#!/bin/bash
+## Job Name
+#SBATCH --job-name=interproscan
+## Allocation Definition
+#SBATCH --account=srlab
+#SBATCH --partition=srlab
+## Resources
+## Nodes
+#SBATCH --nodes=2
+## Walltime (days-hours:minutes:seconds format)
+#SBATCH --time=15-00:00:00
+## Memory per node
+#SBATCH --mem=120G
+##turn on e-mail notification
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=samwhite@uw.edu
+## Specify the working directory for this job
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190107_oly_maker_interproscan
+
+# Load Python Mox module for Python module availability
+
+module load intel-python3_2017
+
+# Load Open MPI module for parallel, multi-node processing
+
+module load icc_19-ompi_3.1.2
+
+# SegFault fix?
+export THREADS_DAEMON_MODEL=1
+
+# Document programs in PATH (primarily for program version ID)
+
+date >> system_path.log
+echo "" >> system_path.log
+echo "System PATH for $SLURM_JOB_ID" >> system_path.log
+echo "" >> system_path.log
+printf "%0.s-" {1..10} >> system_path.log
+echo ${PATH} | tr : \\n >> system_path.log
+
+# Variables
+interproscan=/gscratch/srlab/programs/interproscan-5.31-70.0/interproscan.sh
+maker_prot_fasta=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta
+
+# Run InterProScan 5
+## disable-precalc since this requires external database access (which Mox does not allow)
+${interproscan} \
+--input ${maker_prot_fasta} \
+--goterms \
+--disable-precalc
+</code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- [20190107_oly_maker_interproscan](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan)
