@@ -20,7 +20,7 @@ With that out of the way, here's a _very_ brief overview of the entire MAKER ann
 
 1. Create custom repeat library for your organism ([did this with RepeatModeler on 20181022](https://robertslab.github.io/sams-notebook/2018/10/22/Repeat-Library-Construction-O.lurida-RepeatModeler-v1.0.11.html))
 
-2. Provide RNAseq data ([Trinity assembly from 20180919](https://robertslab.github.io/sams-notebook/2018/09/19/transcriptome-assembly-olympia-oyster-rnaseq-data-with-trinity.html))
+2. Provide RNAseq data ([transcriptome v3](http://eagle.fish.washington.edu/cnidarian/Olurida_transcriptome_v3.fasta))
 
 3. Provide species-specific and/or related proteomic data (used publicly available proteomes from NCBI for _C.gigas_ ([GCA_000297895.1_oyster_v9](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/297/895/GCA_000297895.1_oyster_v9/)) and _C.virginica_ ([GCF_002022765.2_C_virginica-3.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/))
 
