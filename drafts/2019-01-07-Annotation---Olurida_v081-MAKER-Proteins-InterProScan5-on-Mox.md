@@ -73,6 +73,26 @@ ${interproscan} \
 
 #### RESULTS
 
+Took a decent amount of time to run (~5.5hrs). Requesting both nodes didn't make a difference because the program was unable to see two nodes, so only utilized a single node for processing. However, I did modify the config file to request much more than the default number of threads (cores) and set the maximum memory to 120GB.
+
 Output folder:
 
 - [20190107_oly_maker_interproscan](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan)
+
+Tab-separated file (27MB):
+
+- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.tsv](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.tsv)
+
+GFF file (68MB):
+
+- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.gff3)
+
+XML file (136MB):
+
+- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml)
+
+InterProScan Properties file (i.e. config file):
+
+- [20190107_oly_maker_interproscan/interproscan.properties](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/interproscan.properties)
+
+OK, so I should be able to use the TSV file, along with the previous BLASTp annotations to make a nice, _functionally annotated_ genome! Will get this next step running on Mox!
