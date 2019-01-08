@@ -154,3 +154,10 @@ Here's a look at the files:
 ###### Still has lengthy, original names and does not have the ```Olurida_#########-RA``` format
 
 ![head GFF]({{ site.url }}/images/screencaps/20190108_004)
+
+
+Unfortunately, the command didn't generate any error messages _and_ the FastA conversion worked, so this is perplexing. I did come across [a similar issue in the MAKER forums](http://gmod.827538.n3.nabble.com/maker-map-ids-issue-tp4059717.html). However, that issue was resolved and related to the way the original assembly FastA descriptions were written (there was an equals sign); our assembly doesn't suffer from this problem.
+
+I've sent an email to the developer to see if they have any insight.
+
+Regardless, the next steps are to use the newly labeled protein FastA file for BLASTp and protein domain identification. Will move forward with those two steps.
