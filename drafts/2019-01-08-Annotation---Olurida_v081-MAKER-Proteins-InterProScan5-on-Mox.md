@@ -80,15 +80,15 @@ Output folder:
 
 - [20190108_oly_maker_interproscan](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan)
 
-Tab-separated file (27MB):
+Tab-separated file (24MB):
 
 - [20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.tsv](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.tsv)
 
-GFF file (68MB):
+GFF file (60MB):
 
 - [20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.gff3)
 
-XML file (136MB):
+XML file (150MB):
 
 - [20190108_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20180108_oly_maker_proteins_ips.xml)
 
