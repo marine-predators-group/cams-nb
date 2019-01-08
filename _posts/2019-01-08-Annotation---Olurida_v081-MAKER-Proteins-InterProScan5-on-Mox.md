@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - Olurida_v081 MAKER Proteins InterProScan5 on Mox
-date: '2019-01-07 08:48'
+date: '2019-01-08 08:48'
 tags:
   - InterProScan
   - Ostrea lurida
@@ -11,11 +11,11 @@ tags:
 categories:
   - Olympia Oyster Genome Sequencing
 ---
-Continuation of genome annotation of the Olympia oyster genome. [Determined initial gene models using MAKER with two rounds of SNAP](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html) and then performed [protein-level annotations using BLASTp](https://robertslab.github.io/sams-notebook/2018/12/20/Annotation-Olurida_v081-MAKER-Proteins-BLASTp.html). Next, I'm going to run [InterProScan5 (IPS5)](https://github.com/ebi-pf-team/interproscan/wiki) to help functionally characterize the _O.lurida_ proteins ID'd by MAKER. Once this is complete, I'll use MAKER to incorporate the IPS5 and BLASTp results into a much more neatly (i.e. human-readable) annotated genome!
+Continuation of genome annotation of the Olympia oyster genome. [Determined initial gene models using MAKER with two rounds of SNAP](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html), [relabeled with more user-friendly names](https://robertslab.github.io/sams-notebook/2019/01/08/Annotation-Olurida_v081-MAKER-ID-Mapping.html), and then performed [protein-level annotations using BLASTp](https://robertslab.github.io/sams-notebook/2019/01/08/Annotation-Olurida_v081-MAKER-Proteins-BLASTp.html). Next, I'm going to run [InterProScan5 (IPS5)](https://github.com/ebi-pf-team/interproscan/wiki) to help functionally characterize the _O.lurida_ proteins ID'd by MAKER. Once this is complete, I'll use MAKER to incorporate the IPS5 and BLASTp results into a much more neatly (i.e. human-readable) annotated genome!
 
 THE IPS5 analysis was performed on Mox with the following SBATCH script:
 
-- [20190107_oly_maker_interproscan.sh (text)](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20190107_oly_maker_interproscan.sh)
+- [20190108_oly_maker_interproscan.sh (text)](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan/20190108_oly_maker_interproscan.sh)
 
 <pre><code>
 #!/bin/bash
@@ -26,7 +26,7 @@ THE IPS5 analysis was performed on Mox with the following SBATCH script:
 #SBATCH --partition=srlab
 ## Resources
 ## Nodes
-#SBATCH --nodes=2
+#SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
 #SBATCH --time=15-00:00:00
 ## Memory per node
@@ -35,7 +35,7 @@ THE IPS5 analysis was performed on Mox with the following SBATCH script:
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190107_oly_maker_interproscan
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_interproscan
 
 # Load Python Mox module for Python module availability
 
@@ -59,13 +59,14 @@ echo ${PATH} | tr : \\n >> system_path.log
 
 # Variables
 interproscan=/gscratch/srlab/programs/interproscan-5.31-70.0/interproscan.sh
-maker_prot_fasta=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta
+maker_prot_fasta=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta
 
 # Run InterProScan 5
 ## disable-precalc since this requires external database access (which Mox does not allow)
 ${interproscan} \
 --input ${maker_prot_fasta} \
 --goterms \
+--output-file-base 20180108_oly_maker_proteins_ips \
 --disable-precalc
 </code></pre>
 
@@ -73,26 +74,26 @@ ${interproscan} \
 
 #### RESULTS
 
-Took a decent amount of time to run (~5.5hrs). Requesting both nodes didn't make a difference because the program was unable to see two nodes, so only utilized a single node for processing. However, I did modify the config file to request much more than the default number of threads (cores) and set the maximum memory to 120GB.
+Took a decent amount of time to run (~6.5hrs). Requesting both nodes didn't make a difference because the program was unable to see two nodes, so only utilized a single node for processing. However, I did modify the config file to request much more than the default number of threads (cores) and set the maximum memory to 120GB.
 
 Output folder:
 
-- [20190107_oly_maker_interproscan](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan)
+- [20190108_oly_maker_interproscan](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan)
 
 Tab-separated file (27MB):
 
-- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.tsv](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.tsv)
+- [20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.tsv](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.tsv)
 
 GFF file (68MB):
 
-- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.gff3)
+- [20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_interproscan/20180108_oly_maker_proteins_ips.gff3)
 
 XML file (136MB):
 
-- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml)
+- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20180108_oly_maker_proteins_ips.xml)
 
 InterProScan Properties file (i.e. config file):
 
-- [20190107_oly_maker_interproscan/interproscan.properties](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/interproscan.properties)
+- [20190108_oly_maker_interproscan/interproscan.properties](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/interproscan.properties)
 
 OK, so I should be able to use the TSV file, along with the previous BLASTp annotations to make a nice, _functionally annotated_ genome! Will get this next step running on Mox!
