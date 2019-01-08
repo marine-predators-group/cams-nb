@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - Olurida_v081 MAKER Proteins BLASTp on Mox
-date: '2019-01-07 14:32'
+date: '2019-01-08 09:25'
 tags:
   - Ostrea lurida
   - Olympia oyster
