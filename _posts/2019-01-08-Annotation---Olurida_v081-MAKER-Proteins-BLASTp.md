@@ -11,15 +11,15 @@ tags:
 categories:
   - Olympia Oyster Genome Sequencing
 ---
-[After getting through the initial MAKER annotation and SNAP gene predictions](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html), I needed to run BLASTp on the FastA file produced by MAKER in order to assign some functionality to the predicted genes.
+[After getting through the initial MAKER annotation and SNAP gene predictions](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html), and then [renaming the sequences](https://robertslab.github.io/sams-notebook/2019/01/08/Annotation-Olurida_v081-MAKER-ID-Mapping.html), I needed to run BLASTp on the FastA file produced by MAKER id mapping in order to assign functionality to the predicted genes.
 
 Input FastA (9.3MB):
 
-- [20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta](http://gannet.fish.washington.edu/Atumefaciens/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta)
+- [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta)
 
 SBATCH script (text file):
 
-- [20190107_oly_maker_blastp/20190107_oly_maker_blastp.sh](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/20190107_oly_maker_blastp.sh)
+- [20190108_oly_maker_blastp/20190108_oly_maker_blastp.sh](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_blastp/20190108_oly_maker_blastp.sh)
 
 <pre><code>
 #!/bin/bash
@@ -39,7 +39,7 @@ SBATCH script (text file):
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20181220_oly_maker_blastp
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_blastp
 
 # Load Python Mox module for Python module availability
 
@@ -67,8 +67,8 @@ export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20181008/
 
 blastp=/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin/blastp
 uniprot_db=/gscratch/srlab/blastdbs/UniProtKB_20181008/20181008_uniprot_sprot.fasta
-maker_p_fasta=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation/Olurida_v081.all.maker.proteins.fasta
-output=/gscratch/scrubbed/samwhite/outputs/20181220_oly_maker_blastp/20181220_outfmt6.blastp
+maker_p_fasta=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta
+output=20190108_blastp.outfmt6
 
 # Run blastp
 ${blastp} \
@@ -87,10 +87,10 @@ ${blastp} \
 
 Output folder:
 
-- [20190107_oly_maker_blastp/](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/)
+- [20190108_oly_maker_blastp/](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_blastp/)
 
 BLASTp output:
 
-- [20190107_oly_maker_blastp/20190107_blastp.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/20190107_blastp.outfmt6)
+- [20190108_oly_maker_blastp/20190108_blastp.outfmt6](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_blastp/20190108_blastp.outfmt6)
 
-Great, now that I have this, I can use it to incorporate into the MAKER outputs (GFFs and FastA).
+Great, now that I have this, I can use it to incorporate into the functional annotations of MAKER outputs (GFFs and FastA).
