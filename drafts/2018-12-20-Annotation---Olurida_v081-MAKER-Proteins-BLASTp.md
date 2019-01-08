@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - Olurida_v081 MAKER Proteins BLASTp on Mox
-date: '2018-12-20 13:32'
+date: '2019-01-07 14:32'
 tags:
   - Ostrea lurida
   - Olympia oyster
@@ -19,7 +19,7 @@ Input FastA (9.3MB):
 
 SBATCH script (text file):
 
-- [20181220_oly_maker_blastp/20181220_oly_maker_blastp.sh](http://gannet.fish.washington.edu/Atumefaciens/20181220_oly_maker_blastp/20181220_oly_maker_blastp.sh)
+- [20190107_oly_maker_blastp/20190107_oly_maker_blastp.sh](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/20190107_oly_maker_blastp.sh)
 
 <pre><code>
 #!/bin/bash
@@ -87,10 +87,10 @@ ${blastp} \
 
 Output folder:
 
-- [20181220_oly_maker_blastp/](http://gannet.fish.washington.edu/Atumefaciens/20181220_oly_maker_blastp/)
+- [20190107_oly_maker_blastp/](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/)
 
 BLASTp output:
 
-- [20181220_oly_maker_blastp/20181220_outfmt6.blastp](http://gannet.fish.washington.edu/Atumefaciens/20181220_oly_maker_blastp/20181220_outfmt6.blastp)
+- [20190107_oly_maker_blastp/20190107_blastp.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_blastp/20190107_blastp.outfmt6)
 
 Great, now that I have this, I can use it to incorporate into the MAKER outputs (GFFs and FastA).
