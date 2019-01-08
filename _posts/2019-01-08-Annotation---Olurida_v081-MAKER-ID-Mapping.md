@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - Olurida_v081 MAKER ID Mapping
-date: '2019-01-08 11:44'
+date: '2019-01-08 07:44'
 tags:
   - MAKER
   - Ostrea lurida
@@ -129,7 +129,7 @@ Here's a look at the files:
 
 ###### This files is used as a key for the name conversions, original names on left, new names on right
 
-![head map file](/images/screencaps/20190108_001.png)
+![head map file](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_001.png)
 
 ---
 
@@ -137,7 +137,7 @@ Here's a look at the files:
 
 ###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
 
-![head proteins FastA]({{ site.url }}/images/screencaps/20190108_002)
+![head proteins FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_002)
 
 ---
 
@@ -145,7 +145,7 @@ Here's a look at the files:
 
 ###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
 
-![head transcripts FastA]({{ site.url }}/images/screencaps/20190108_003)
+![head transcripts FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_003)
 
 ---
 
@@ -153,7 +153,7 @@ Here's a look at the files:
 
 ###### Still has lengthy, original names and does not have the ```Olurida_#########-RA``` format
 
-![head GFF]({{ site.url }}/images/screencaps/20190108_004)
+![head GFF](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_004)
 
 
 Unfortunately, the command didn't generate any error messages _and_ the FastA conversion worked, so this is perplexing. I did come across [a similar issue in the MAKER forums](http://gmod.827538.n3.nabble.com/maker-map-ids-issue-tp4059717.html). However, that issue was resolved and related to the way the original assembly FastA descriptions were written (there was an equals sign); our assembly doesn't suffer from this problem.
