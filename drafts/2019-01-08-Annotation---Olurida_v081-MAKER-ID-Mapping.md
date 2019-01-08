@@ -117,3 +117,40 @@ Renamed protein FastA:
 Renamed transcripts FastA:
 
 - [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta) (30MB)
+
+
+OK, so this mostly worked. For some reason, the GFF didn't get renamed, but the two FastA files did...
+
+Here's a look at the files:
+
+---
+
+- Map file
+
+###### This files is used as a key for the name conversions, original names on left, new names on right
+
+![head map file]({{ site.url }}/images/screencaps/20190108_001.png)
+
+---
+
+- Proteins FastA
+
+###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
+
+![head proteins FastA]({{ site.url }}/images/screencaps/20190108_002)
+
+---
+
+- Transcripts FastA
+
+###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
+
+![head transcripts FastA]({{ site.url }}/images/screencaps/20190108_003)
+
+---
+
+- GFF
+
+###### Still has lengthy, original names and does not have the ```Olurida_#########-RA``` format
+
+![head GFF]({{ site.url }}/images/screencaps/20190108_004)
