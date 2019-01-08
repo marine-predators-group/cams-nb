@@ -66,7 +66,7 @@ maker_prot_fasta=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_id_mappi
 ${interproscan} \
 --input ${maker_prot_fasta} \
 --goterms \
---output-file-base 20180108_oly_maker_proteins_ips \
+--output-file-base 20190108_oly_maker_proteins_ips \
 --disable-precalc
 </code></pre>
 
@@ -90,7 +90,7 @@ GFF file (68MB):
 
 XML file (136MB):
 
-- [20190107_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20180108_oly_maker_proteins_ips.xml)
+- [20190108_oly_maker_interproscan/Olurida_v081.all.maker.proteins.fasta.xml](https://gannet.fish.washington.edu/Atumefaciens/20190107_oly_maker_interproscan/20180108_oly_maker_proteins_ips.xml)
 
 InterProScan Properties file (i.e. config file):
 
