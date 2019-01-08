@@ -129,7 +129,7 @@ Here's a look at the files:
 
 ###### This files is used as a key for the name conversions, original names on left, new names on right
 
-![head map file]({{ site.url }}/images/screencaps/20190108_001.png)
+![head map file](/images/screencaps/20190108_001.png)
 
 ---
 
