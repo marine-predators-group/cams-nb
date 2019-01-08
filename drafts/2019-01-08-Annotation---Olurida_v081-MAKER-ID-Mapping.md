@@ -16,7 +16,7 @@ MAKER provides this functionality.
 
 Ran the following SBATCH script on Mox:
 
-- []()
+- [20190108_oly_maker_id_mapping/20190108_oly_maker_id_mapping.sh](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20190108_oly_maker_id_mapping.sh) (text file)
 
 <pre><code>
 #!/bin/bash
@@ -93,3 +93,27 @@ ${maker_dir}/map_fasta_ids \
 20181127_oly_genome.map \
 20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta
 </code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- [20190108_oly_maker_id_mapping/](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/)
+
+Mapping file (text):
+
+- [20190108_oly_maker_id_mapping/20181127_oly_genome.map](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome.map) (2.7MB)
+
+Renamed GFF:
+
+- [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.renamed.gff](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.renamed.gff) (2.3GB)
+
+Renamed protein FastA:
+
+- [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta) (10MB)
+
+Renamed transcripts FastA:
+
+- [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta) (30MB)
