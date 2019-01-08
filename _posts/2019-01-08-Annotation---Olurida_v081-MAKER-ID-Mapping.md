@@ -119,9 +119,8 @@ Renamed transcripts FastA:
 - [20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.transcripts.renamed.fasta) (30MB)
 
 
-OK, so this mostly worked. For some reason, the GFF didn't get renamed, but the two FastA files did...
 
-Here's a look at the files:
+Here's a look at the files to show that this worked.
 
 ---
 
@@ -137,7 +136,7 @@ Here's a look at the files:
 
 ###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
 
-![head proteins FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_002)
+![head proteins FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_002.png)
 
 ---
 
@@ -145,19 +144,17 @@ Here's a look at the files:
 
 ###### Note the name update at the beginning of the FastA descriptions: ```Olurida_#########-RA```
 
-![head transcripts FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_003)
+![head transcripts FastA](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_003.png)
 
 ---
 
 - GFF
 
-###### Still has lengthy, original names and does not have the ```Olurida_#########-RA``` format
+###### The new IDs are present but only shown for gene models:
 
-![head GFF](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_004)
+![head GFF](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_004.png)
 
 
-Unfortunately, the command didn't generate any error messages _and_ the FastA conversion worked, so this is perplexing. I did come across [a similar issue in the MAKER forums](http://gmod.827538.n3.nabble.com/maker-map-ids-issue-tp4059717.html). However, that issue was resolved and related to the way the original assembly FastA descriptions were written (there was an equals sign); our assembly doesn't suffer from this problem.
-
-I've sent an email to the developer to see if they have any insight.
+![gene models GFF](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190108_005.png)
 
 Regardless, the next steps are to use the newly labeled protein FastA file for BLASTp and protein domain identification. Will move forward with those two steps.
