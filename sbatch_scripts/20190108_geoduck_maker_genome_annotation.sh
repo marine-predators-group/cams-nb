@@ -135,7 +135,7 @@ if [ ! -e maker_opts.ctl ]; then
   $maker -CTL
   sed -i "/^genome=/ s% %$genome %" "$maker_opts_file"
   sed -i "/^est=/ s% %$transcriptome %" "$maker_opts_file"
-  sed -i "/^protein=/ s% %$gigas_virginica_ncbi_proteomes %" "$maker_opts_file"
+  sed -i "/^protein=/ s% %$combined_proteomes %" "$maker_opts_file"
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
   sed -i "/^protein2genome=0/ s/protein2genome=0/protein2genome=1/" "$maker_opts_file"
