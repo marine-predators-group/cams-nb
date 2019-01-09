@@ -50,7 +50,7 @@ snap02_put_domains_gff=20181127_oly_genome_snap02.all.renamed.putative_function.
 snap02_put_domains_visible_gff=20181127_oly_genome_snap02.all.renamed.visible_ips_domains.gff
 blastp_out=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_blastp/20190108_blastp.outfmt6
 maker_ips=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_interproscan/20190108_oly_maker_proteins_ips.tsv
-sp_db=/gscratch/srlab/blastdbs/UniProtKB_20181008/20190108_uniprot_sprot.dat
+sp_db=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
 
 
 
