@@ -2,8 +2,8 @@
 ## Job Name
 #SBATCH --job-name=maker
 ## Allocation Definition
-#SBATCH --account=srlab
-#SBATCH --partition=srlab
+#SBATCH --account=coenv
+#SBATCH --partition=coenv
 ## Resources
 ## Nodes
 #SBATCH --nodes=1
@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_functional_annotation
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190109_oly_maker_functional_annotation
 
 # Load Python Mox module for Python module availability
 
