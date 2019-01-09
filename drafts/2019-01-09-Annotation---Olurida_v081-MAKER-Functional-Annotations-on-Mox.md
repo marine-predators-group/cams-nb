@@ -126,6 +126,24 @@ ${snap02_gff} \
 
 #### RESULTS
 
+Awesome!!! I can't believe this is actually complete!!! It's been a long, long road.
+
+A quick summary of the big picture results:
+
+- 139671 coding sequences
+
+- 142530 exons
+
+- 9468 5' UTRs
+
+- 24680 genes
+
+- 24680 mRNAs
+
+- 6598 3' UTRs
+
+Next, I'd like to evaluate the genome using BUSCO, as well as run a final gene training/modeling with Augustus.
+
 Output folder:
 
 - [20190109_oly_maker_functional_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190109_oly_maker_functional_annotation/)
