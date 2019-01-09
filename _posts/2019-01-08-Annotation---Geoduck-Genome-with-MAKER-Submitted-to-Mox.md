@@ -69,7 +69,7 @@ export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20181008/
 
 ## Establish variables for more readable code
 
-work_dir=$(pwd)
+wd=$(pwd)
 maker_dir=/gscratch/srlab/programs/maker-2.31.10/bin
 snap_dir=/gscratch/srlab/programs/maker-2.31.10/exe/snap
 ### Paths to Maker binaries
@@ -132,7 +132,7 @@ virginica_proteome=/gscratch/srlab/sam/data/C_virginica/virginica_ncbi_protein/G
 panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/generosa_proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
 
 ### Path to concatenated NCBI prteins FastA
-combined_proteomes=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation/gigas_virginica_ncbi_proteomes.fasta
+combined_proteomes=${wd}/combined_proteomes.fasta
 
 ### Path to P.generosa-specific repeat library
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v070-families.fa
