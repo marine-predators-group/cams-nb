@@ -15,7 +15,7 @@ gff_array=( $(awk '{ print $3 }' ${gff} | sort -u) )
 ## Pass bash feature variable to awk with the "-v" declaration
 ## Match contents of column three in MAKER GFF with current feature
 ## When matched, print entire line to output file.
-for feature in "${gff_array[@]:1}"
+for feature in "${gff_array[@]}"
   do
     awk \
     -v feature="${feature}" \
