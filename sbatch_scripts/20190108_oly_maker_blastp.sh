@@ -42,7 +42,7 @@ export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20181008/
 # Define variables
 
 blastp=/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin/blastp
-uniprot_db=/gscratch/srlab/blastdbs/UniProtKB_20181008/20181008_uniprot_sprot.fasta
+uniprot_db=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
 maker_p_fasta=/gscratch/scrubbed/samwhite/outputs/20190108_oly_maker_id_mapping/20181127_oly_genome_snap02.all.maker.proteins.renamed.fasta
 output=20190108_blastp.outfmt6
 
