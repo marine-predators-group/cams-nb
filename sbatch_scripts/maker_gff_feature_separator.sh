@@ -5,6 +5,10 @@
 ## Set MAKER GFF file location
 gff=/mnt/gannet/Atumefaciens/20190109_oly_maker_functional_annotation/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff
 
+## Set filename prefix.
+## Output formate will be filename_prefix_feature.gff
+filename_prefix=Olurida_v081
+
 ## Declare empty array
 gff_array=()
 
@@ -20,5 +24,5 @@ for feature in "${gff_array[@]}"
     awk \
     -v feature="${feature}" \
     '{ if ($3 == feature) print $0 }' ${gff} \
-    > ~/Olurida_v11_${feature}.gff
+    > ~/${filename_prefix}_${feature}.gff
 done
