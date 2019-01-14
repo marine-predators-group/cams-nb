@@ -43,6 +43,14 @@ busco=/gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/eukaryota_odb9
 maker_dir=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation
 oly_genome=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa
+tblastn=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/tblastn
+makeblastdb=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/makeblastdb
+augustus=/gscratch/srlab/programs/Augustus-3.3.2/bin/augustus
+augustus_etrain=/gscratch/srlab/programs/Augustus-3.3.2/bin/etraining
+agusutus_gff2gbSmallDNA=/gscratch/srlab/programs/Augustus-3.3.2/scripts/gff2gbSmallDNA.pl
+augustus_new_species=/gscratch/srlab/programs/Augustus-3.3.2/scripts/new_species.pl
+augustus_optimize_augustus=/gscratch/srlab/programs/Augustus-3.3.2/scripts/optimize_augustus.pl
+hmmsearch=/gscratch/srlab/programs/hmmer-3.2.1/src/hmmsearch
 
 
 # Subset transcripts and include +/- 1000bp on each side.
