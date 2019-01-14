@@ -20,7 +20,7 @@ I also used [geoduck gDNA (162ng/uL; from 20170105)](https://robertslab.github.i
 
 Primers:
 
-(SR IDs)[https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK]:
+[SR IDs(https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK):
 
 - 1712
 - 1711
