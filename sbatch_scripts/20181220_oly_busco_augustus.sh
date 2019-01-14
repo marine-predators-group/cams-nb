@@ -88,6 +88,7 @@ mkdir --parents augustus/config
 cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 
 # Edit BUSCO config file
+## Set paths to various programs
 ### The use of the % symbol sets the delimiter sed uses for arguments.
 ### Normally, the delimiter that most examples use is a slash "/".
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
