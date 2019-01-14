@@ -49,17 +49,11 @@ busco_config_ini=${wd}/config.ini
 maker_dir=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation
 oly_genome=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa
 oly_maker_gff=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.maker.all.noseqs.gff
-tblastn=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/tblastn
-makeblastdb=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/makeblastdb
+blast_dir=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/
 augustus_bin=/gscratch/srlab/programs/Augustus-3.3.2/bin
 augustus_scripts=/gscratch/srlab/programs/Augustus-3.3.2/scripts
 augustus_config_dir=${wd}/augustus/config
 augustus_orig_config_dir=/gscratch/srlab/programs/Augustus-3.3.2/config
-augustus=/gscratch/srlab/programs/Augustus-3.3.2/bin/augustus
-augustus_etrain=/gscratch/srlab/programs/Augustus-3.3.2/bin/etraining
-augustus_gff2gbSmallDNA=/gscratch/srlab/programs/Augustus-3.3.2/scripts/gff2gbSmallDNA.pl
-augustus_new_species=/gscratch/srlab/programs/Augustus-3.3.2/scripts/new_species.pl
-augustus_optimize_augustus=/gscratch/srlab/programs/Augustus-3.3.2/scripts/optimize_augustus.pl
 hmmsearch=/gscratch/srlab/programs/hmmer-3.2.1/src/hmmsearch
 
 
@@ -95,13 +89,13 @@ cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
 ### Thus, the use of % symbol instead (it could be any character that is NOT present in the expanded variable; doesn't have to be "%").
 
-sed -i "/^tblastn_path/ s%tblastn_path = /usr/bin/%path = ${tblastn}%" "${busco_config_ini}"
-sed -i "/^makeblastdb_path/ s%makeblastdb_path = /usr/bin/%path = ${makeblastdb}%" "${busco_config_ini}"
-sed -i "/^augustus_path/ s%augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus}%" "${busco_config_ini}"
-sed -i "/^etraining_path/ s%etraining_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus_etrain}%" "${busco_config_ini}"
-sed -i "/^gff2gbSmallDNA_path/ s%gff2gbSmallDNA_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
-sed -i "/^new_species_path/ s%new_species_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_new_species}%" "${busco_config_ini}"
-sed -i "/^optimize_augustus_path/ s%optimize_augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_optimize_augustus}%" "${busco_config_ini}"
+sed -i "/^tblastn_path/ s%tblastn_path = /usr/bin/%path = ${blast_dir}%" "${busco_config_ini}"
+sed -i "/^makeblastdb_path/ s%makeblastdb_path = /usr/bin/%path = ${blast_dir}%" "${busco_config_ini}"
+sed -i "/^augustus_path/ s%augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus_bin}%" "${busco_config_ini}"
+sed -i "/^etraining_path/ s%etraining_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus_bin}%" "${busco_config_ini}"
+sed -i "/^gff2gbSmallDNA_path/ s%gff2gbSmallDNA_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
+sed -i "/^new_species_path/ s%new_species_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
+sed -i "/^optimize_augustus_path/ s%optimize_augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
 sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%path = ${hmmsearch}%" "${busco_config_ini}"
 
 
