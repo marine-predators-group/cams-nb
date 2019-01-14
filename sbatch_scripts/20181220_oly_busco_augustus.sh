@@ -83,6 +83,7 @@ sed -i "/^etraining_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${
 sed -i "/^gff2gbSmallDNA_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
 sed -i "/^new_species_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_new_species}%" "${busco_config_ini}"
 sed -i "/^optimize_augustus_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_optimize_augustus}%" "${busco_config_ini}"
+sed -i "/^hmmsearch_path s%/home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%${hmmsearch_path}%" "${busco_config_ini}"
 
 
 export BUSCO_CONFIG_FILE="${busco_config_ini}"
