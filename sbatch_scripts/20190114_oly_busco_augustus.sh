@@ -48,6 +48,7 @@ busco_config_default=/gscratch/srlab/programs/busco-v3/config/config.ini.default
 busco_config_ini=${wd}/config.ini
 maker_dir=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation
 oly_genome=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa
+oly_maker_gff=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.maker.all.noseqs.gff
 tblastn=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/tblastn
 makeblastdb=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/makeblastdb
 augustus_bin=/gscratch/srlab/programs/Augustus-3.3.2/bin
@@ -75,7 +76,7 @@ export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
 # Subset transcripts and include +/- 1000bp on each side.
 ## Reduces amount of data used for training - don't need crazy amounts to properly train gene models
-awk -v OFS="\t" '{ if ($3 == "mRNA") print $1, $4, $5 }' ${maker_dir}/Olurida_v081.maker.all.noseqs.gff | \
+awk -v OFS="\t" '{ if ($3 == "mRNA") print $1, $4, $5 }' ${oly_maker_gff} | \
 awk -v OFS="\t" '{ if ($2 < 1000) print $1, "0", $3+1000; else print $1, $2-1000, $3+1000 }' | \
 ${bedtools} getfasta -fi ${oly_genome} \
 -bed - \
@@ -94,14 +95,14 @@ cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
 ### Thus, the use of % symbol instead (it could be any character that is NOT present in the expanded variable; doesn't have to be "%").
 
-sed -i "/^tblastn_path/ s%/usr/bin/%${tblastn}%" "${busco_config_ini}"
-sed -i "/^makeblastdb_path/ s%/usr/bin/%${makeblastdb}%" "${busco_config_ini}"
-sed -i "/^augustus_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus}%" "${busco_config_ini}"
-sed -i "/^etraining_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus_etrain}%" "${busco_config_ini}"
-sed -i "/^gff2gbSmallDNA_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
-sed -i "/^new_species_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_new_species}%" "${busco_config_ini}"
-sed -i "/^optimize_augustus_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_optimize_augustus}%" "${busco_config_ini}"
-sed -i "/^hmmsearch_path/ s%/home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%${hmmsearch}%" "${busco_config_ini}"
+sed -i "/^tblastn_path/ s%tblastn_path = /usr/bin/%path = ${tblastn}%" "${busco_config_ini}"
+sed -i "/^makeblastdb_path/ s%makeblastdb_path = /usr/bin/%path = ${makeblastdb}%" "${busco_config_ini}"
+sed -i "/^augustus_path/ s%augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus}%" "${busco_config_ini}"
+sed -i "/^etraining_path/ s%etraining_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus_etrain}%" "${busco_config_ini}"
+sed -i "/^gff2gbSmallDNA_path/ s%gff2gbSmallDNA_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
+sed -i "/^new_species_path/ s%new_species_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_new_species}%" "${busco_config_ini}"
+sed -i "/^optimize_augustus_path/ s%optimize_augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_optimize_augustus}%" "${busco_config_ini}"
+sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%path = ${hmmsearch}%" "${busco_config_ini}"
 
 
 # Run BUSCO/Augustus training
