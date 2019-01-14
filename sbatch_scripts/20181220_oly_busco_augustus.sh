@@ -2,11 +2,11 @@
 ## Job Name
 #SBATCH --job-name=busco
 ## Allocation Definition
-#SBATCH --account=srlab
-#SBATCH --partition=srlab
+#SBATCH --account=coenv
+#SBATCH --partition=coenv
 ## Resources
 ## Nodes
-#SBATCH --nodes=2
+#SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
 #SBATCH --time=15-00:00:00
 ## Memory per node
