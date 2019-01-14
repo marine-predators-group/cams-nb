@@ -113,10 +113,8 @@ combined_proteomes=${wd}/combined_proteomes.fasta
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v070-families.fa
 
 ### Path to SwissProt database for BLASTp
-sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20181008/20181008_uniprot_sprot.fasta
+sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
 
-### Path to SwissProt database for annotations
-sp_db_annotations=/gscratch/srlab/blastdbs/UniProtKB_20181008/20190108_uniprot_sprot.dat
 
 ## Make directories
 mkdir blastp_annotation
