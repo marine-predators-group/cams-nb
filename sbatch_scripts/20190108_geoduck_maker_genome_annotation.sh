@@ -315,7 +315,7 @@ ${blastp} \
 
 # Functional annotations
 
-cd {$wd}
+cd ${wd}
 
 ## Add putative gene functions
 ### GFF
