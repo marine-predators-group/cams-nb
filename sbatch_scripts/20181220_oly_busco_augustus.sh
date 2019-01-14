@@ -37,17 +37,22 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
+
 ## Establish variables for more readable code
+wd=$(pwd)
+
 bedtools=/gscratch/srlab/programs/bedtools-2.27.1/bin/bedtools
 busco=/gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/eukaryota_odb9
+busco_config_default=/gscratch/srlab/programs/busco-v3/config/config.ini.default
+busco_config_ini=${wd}/config.ini
 maker_dir=/gscratch/scrubbed/samwhite/outputs/20181127_oly_maker_genome_annotation
 oly_genome=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa
 tblastn=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/tblastn
 makeblastdb=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/makeblastdb
 augustus=/gscratch/srlab/programs/Augustus-3.3.2/bin/augustus
 augustus_etrain=/gscratch/srlab/programs/Augustus-3.3.2/bin/etraining
-agusutus_gff2gbSmallDNA=/gscratch/srlab/programs/Augustus-3.3.2/scripts/gff2gbSmallDNA.pl
+augustus_gff2gbSmallDNA=/gscratch/srlab/programs/Augustus-3.3.2/scripts/gff2gbSmallDNA.pl
 augustus_new_species=/gscratch/srlab/programs/Augustus-3.3.2/scripts/new_species.pl
 augustus_optimize_augustus=/gscratch/srlab/programs/Augustus-3.3.2/scripts/optimize_augustus.pl
 hmmsearch=/gscratch/srlab/programs/hmmer-3.2.1/src/hmmsearch
@@ -63,11 +68,28 @@ ${bedtools} getfasta -fi ${oly_genome} \
 
 cp Olurida_v081.all.maker.transcripts1000.fasta ${maker_dir}
 
+cp ${busco_config_default} ${busco_config_ini}
 
+# Edit BUSCO config file
+### The use of the % symbol sets the delimiter sed uses for arguments.
+### Normally, the delimiter that most examples use is a slash "/".
+### But, we need to expand the variables into a full path with slashes, which screws up sed.
+### Thus, the use of % symbol instead (it could be any character that is NOT present in the expanded variable; doesn't have to be "%").
+
+sed -i "/^tblastn_path/ s%/usr/bin%${tblastn}%" "${busco_config_ini}"
+sed -i "/^makeblastdb_path s%/usr/bin%${makeblastdb}%" "${busco_config_ini}"
+sed -i "/^augustus_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus}%" "${busco_config_ini}"
+sed -i "/^etraining_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus_etrain}%" "${busco_config_ini}"
+sed -i "/^gff2gbSmallDNA_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
+sed -i "/^new_species_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_new_species}%" "${busco_config_ini}"
+sed -i "/^optimize_augustus_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_optimize_augustus}%" "${busco_config_ini}"
+
+
+export BUSCO_CONFIG_FILE="${busco_config_ini}"
 # Run BUSCO/Augustus training
 ${busco} \
 --in Olurida_v081.all.maker.transcripts1000.fasta \
---out  Olurida_maker_busco \
+--out Olurida_maker_busco \
 --lineage_path ${busco_db} \
 --mode genome \
 --cpu 56 \
