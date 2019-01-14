@@ -94,14 +94,14 @@ cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
 ### Thus, the use of % symbol instead (it could be any character that is NOT present in the expanded variable; doesn't have to be "%").
 
-sed -i "/^tblastn_path/ s%/usr/bin%${tblastn}%" "${busco_config_ini}"
-sed -i "/^makeblastdb_path s%/usr/bin%${makeblastdb}%" "${busco_config_ini}"
-sed -i "/^augustus_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus}%" "${busco_config_ini}"
-sed -i "/^etraining_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus_etrain}%" "${busco_config_ini}"
-sed -i "/^gff2gbSmallDNA_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
-sed -i "/^new_species_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_new_species}%" "${busco_config_ini}"
-sed -i "/^optimize_augustus_path s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_optimize_augustus}%" "${busco_config_ini}"
-sed -i "/^hmmsearch_path s%/home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%${hmmsearch}%" "${busco_config_ini}"
+sed -i "/^tblastn_path/ s%/usr/bin/%${tblastn}%" "${busco_config_ini}"
+sed -i "/^makeblastdb_path/ s%/usr/bin/%${makeblastdb}%" "${busco_config_ini}"
+sed -i "/^augustus_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus}%" "${busco_config_ini}"
+sed -i "/^etraining_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%${augustus_etrain}%" "${busco_config_ini}"
+sed -i "/^gff2gbSmallDNA_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_gff2gbSmallDNA}%" "${busco_config_ini}"
+sed -i "/^new_species_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_new_species}%" "${busco_config_ini}"
+sed -i "/^optimize_augustus_path/ s%/home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%${augustus_optimize_augustus}%" "${busco_config_ini}"
+sed -i "/^hmmsearch_path/ s%/home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%${hmmsearch}%" "${busco_config_ini}"
 
 
 # Run BUSCO/Augustus training
