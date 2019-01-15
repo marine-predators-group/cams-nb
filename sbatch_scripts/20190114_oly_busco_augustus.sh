@@ -54,7 +54,7 @@ augustus_bin=/gscratch/srlab/programs/Augustus-3.3.2/bin
 augustus_scripts=/gscratch/srlab/programs/Augustus-3.3.2/scripts
 augustus_config_dir=${wd}/augustus/config
 augustus_orig_config_dir=/gscratch/srlab/programs/Augustus-3.3.2/config
-hmmsearch=/gscratch/srlab/programs/hmmer-3.2.1/src/hmmsearch
+hmm_dir=/gscratch/srlab/programs/hmmer-3.2.1/src/
 
 
 
@@ -79,7 +79,7 @@ ${bedtools} getfasta -fi ${oly_genome} \
 cp Olurida_v081.all.maker.transcripts1000.fasta ${maker_dir}
 cp ${busco_config_default} ${busco_config_ini}
 
-mkdir --parents augustus/config
+mkdir augustus
 cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 
 # Edit BUSCO config file
@@ -96,7 +96,7 @@ sed -i "/^etraining_path/ s%etraining_path = /home/osboxes/BUSCOVM/augustus/augu
 sed -i "/^gff2gbSmallDNA_path/ s%gff2gbSmallDNA_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
 sed -i "/^new_species_path/ s%new_species_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
 sed -i "/^optimize_augustus_path/ s%optimize_augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/scripts/%path = ${augustus_scripts}%" "${busco_config_ini}"
-sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%path = ${hmmsearch}%" "${busco_config_ini}"
+sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3.1b2-linux-intel-ia32/binaries/%path = ${hmm_dir}%" "${busco_config_ini}"
 
 
 # Run BUSCO/Augustus training
