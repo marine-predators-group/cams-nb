@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annotation - Geoduck Genome with MAKER Submitted to Mox
-date: '2019-01-08 13:11'
+date: '2019-01-15 07:11'
 tags:
   - geoduck
   - Panopea generosa
@@ -40,7 +40,7 @@ To finish off this post, I'll provide the SBATCH script used to submit this job 
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190108_geoduck_maker_genome_annotation
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190115_geoduck_maker_genome_annotation
 
 # Load Python Mox module for Python module availability
 
@@ -91,21 +91,24 @@ iprscan2gff3=${maker_dir}/iprscan2gff3
 
 blastp_dir=${wd}/blastp_annotation
 maker_blastp=${wd}/blastp_annotation/20190108_blastp.outfmt6
-maker_prot_fasta=${wd}/snap02/20190108_geoduck_snap02.all.maker.proteins.fasta
-maker_prot_fasta_renamed=${wd}/snap02/20190108_geoduck_snap02.all.maker.proteins.renamed.fasta
-maker_transcripts_fasta=${wd}/snap02/20190108_geoduck_snap02.all.maker.transcripts.fasta
-maker_transcripts_fasta_renamed=${wd}/snap02/20190108_geoduck_snap02.all.maker.transcripts.renamed.fasta
-snap02_gff=${wd}/snap02/20190108_geoduck_snap02.all.gff
-snap02_gff_renamed=${wd}/snap02/20190108_geoduck_snap02.all.renamed.gff
-put_func_gff=20190108_geoduck_genome_snap02.all.renamed.putative_function.gff
-put_func_prot=20190108_geoduck_genome_snap02.all.maker.proteins.renamed.putative_function.fasta
-put_func_trans=20190108_geoduck_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
-put_domain_gff=20190108_geoduck_genome_snap02.all.renamed.putative_function.domain_added.gff
+maker_prot_fasta=${wd}/snap02/Pgenerosa_v70_snap02.all.maker.proteins.fasta
+maker_prot_fasta_renamed=${wd}/snap02/Pgenerosa_v70_snap02.all.maker.proteins.renamed.fasta
+maker_transcripts_fasta=${wd}/snap02/Pgenerosa_v70_snap02.all.maker.transcripts.fasta
+maker_transcripts_fasta_renamed=${wd}/snap02/Pgenerosa_v70_snap02.all.maker.transcripts.renamed.fasta
+snap02_est_gff=${wd}/snap02/Pgenerosa_v70_snap01.maker.all.noseqs.est2genome.gff
+snap02_gff=${wd}/snap02/Pgenerosa_v70_snap02.all.gff
+snap02_gff_renamed=${wd}/snap02/Pgenerosa_v70_snap02.all.renamed.gff
+snap02_protein_gff=${wd}/snap02/Pgenerosa_v70_snap01.maker.all.noseqs.protein2genome.gff
+snap02_rm_gff=${wd}/snap02/Pgenerosa_v70_snap01.maker.all.noseqs.repeats.gff
+put_func_gff=Pgenerosa_v70_genome_snap02.all.renamed.putative_function.gff
+put_func_prot=Pgenerosa_v70_genome_snap02.all.maker.proteins.renamed.putative_function.fasta
+put_func_trans=Pgenerosa_v70_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
+put_domain_gff=Pgenerosa_v70_genome_snap02.all.renamed.putative_function.domain_added.gff
 ips_dir=${wd}/interproscan_annotation
-ips_base=20190108_geoduck_maker_proteins_ips
-ips_name=20190108_geoduck_maker_proteins_ips.tsv
-id_map=${wd}/snap02/20190108_geoduck_genome.map
-ips_domains=20190108_geoduck_genome_snap02.all.renamed.visible_ips_domains.gff
+ips_base=Pgenerosa_v70_maker_proteins_ips
+ips_name=Pgenerosa_v70_maker_proteins_ips.tsv
+id_map=${wd}/snap02/Pgenerosa_v70_genome.map
+ips_domains=Pgenerosa_v70_genome_snap02.all.renamed.visible_ips_domains.gff
 
 ## Path to blastp
 blastp=/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin/blastp
@@ -138,10 +141,8 @@ combined_proteomes=${wd}/combined_proteomes.fasta
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v070-families.fa
 
 ### Path to SwissProt database for BLASTp
-sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20181008/20181008_uniprot_sprot.fasta
+sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
 
-### Path to SwissProt database for annotations
-sp_db_annotations=/gscratch/srlab/blastdbs/UniProtKB_20181008/20190108_uniprot_sprot.dat
 
 ## Make directories
 mkdir blastp_annotation
@@ -160,7 +161,7 @@ if [ ! -e maker_opts.ctl ]; then
   $maker -CTL
   sed -i "/^genome=/ s% %$genome %" "$maker_opts_file"
   sed -i "/^est=/ s% %$transcriptome %" "$maker_opts_file"
-  sed -i "/^protein=/ s% %$gigas_virginica_ncbi_proteomes %" "$maker_opts_file"
+  sed -i "/^protein=/ s% %$combined_proteomes %" "$maker_opts_file"
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
   sed -i "/^protein2genome=0/ s/protein2genome=0/protein2genome=1/" "$maker_opts_file"
@@ -203,7 +204,7 @@ ${maker2zff} ../Pgenerosa_v70.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
 ${forge} export.ann export.dna
-${hmmassembler} genome . > 20190108_geoduck_snap01.hmm
+${hmmassembler} genome . > Pgenerosa_v70_snap01.hmm
 
 ## Initiate second Maker run.
 ### Copy initial maker control files and
@@ -220,36 +221,36 @@ if [ ! -e maker_opts.ctl ]; then
   sed -i "/^est_gff=/ s% %../Pgenerosa_v70.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
   sed -i "/^protein_gff=/ s% %../Pgenerosa_v70.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
   sed -i "/^rm_gff=/ s% %../Pgenerosa_v70.maker.all.noseqs.repeats.gff %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %20190108_geoduck_snap01.hmm %" maker_opts.ctl
+  sed -i "/^snaphmm=/ s% %Pgenerosa_v70_snap01.hmm %" maker_opts.ctl
 fi
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
 mpiexec -n 56 $maker \
--base 20190108_geoduck_snap01
+-base Pgenerosa_v70_snap01
 
 ## Merge gffs
-${gff3_merge} -d 20190108_geoduck_snap01.maker.output/20190108_geoduck_snap01_master_datastore_index.log
+${gff3_merge} -d Pgenerosa_v70_snap01.maker.output/Pgenerosa_v70_snap01_master_datastore_index.log
 
 ## GFF with no FastA in footer
-${gff3_merge} -n -s -d 20190108_geoduck_snap01.maker.output/20190108_geoduck_snap01_master_datastore_index.log > 20190108_geoduck_snap01.maker.all.noseqs.gff
+${gff3_merge} -n -s -d Pgenerosa_v70_snap01.maker.output/Pgenerosa_v70_snap01_master_datastore_index.log > Pgenerosa_v70_snap01.maker.all.noseqs.gff
 
 ## Extract GFF alignments for use in subsequent MAKER rounds
 ### Transcript alignments
-awk '{ if ($2 == "est2genome") print $0 }' 20190108_geoduck_snap01.maker.all.noseqs.gff > 20190108_geoduck_snap01.maker.all.noseqs.est2genome.gff
+awk '{ if ($2 == "est2genome") print $0 }' Pgenerosa_v70_snap01.maker.all.noseqs.gff > Pgenerosa_v70_snap01.maker.all.noseqs.est2genome.gff
 ### Protein alignments
-awk '{ if ($2 == "protein2genome") print $0 }' 20190108_geoduck_snap01.maker.all.noseqs.gff > 20190108_geoduck_snap01.maker.all.noseqs.protein2genome.gff
+awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v70_snap01.maker.all.noseqs.gff > Pgenerosa_v70_snap01.maker.all.noseqs.protein2genome.gff
 ### Repeat alignments
-awk '{ if ($2 ~ "repeat") print $0 }' 20190108_geoduck_snap01.maker.all.noseqs.gff > 20190108_geoduck_snap01.maker.all.noseqs.repeats.gff
+awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v70_snap01.maker.all.noseqs.gff > Pgenerosa_v70_snap01.maker.all.noseqs.repeats.gff
 
 ## Run SNAP training, round 2
 cd ..
 mkdir snap02 && cd snap02
-${maker2zff} ../snap01/20190108_geoduck_snap01.all.gff
+${maker2zff} ../snap01/Pgenerosa_v70_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
 ${forge} export.ann export.dna
-${hmmassembler} genome . > 20190108_geoduck_snap02.hmm
+${hmmassembler} genome . > Pgenerosa_v70_snap02.hmm
 
 ## Initiate third and final Maker run.
 ### Copy initial maker control files and:
@@ -263,27 +264,27 @@ if [ ! -e maker_opts.ctl ]; then
   sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
   sed -i "/^est2genome=1/ s/est2genome=1/est2genome=0/" maker_opts.ctl
   sed -i "/^protein2genome=1/ s/protein2genome=1/protein2genome=0/" maker_opts.ctl
-  sed -i "/^est_gff=/ s% %../20190108_geoduck_snap01.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %../20190108_geoduck_snap01.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %../20190108_geoduck_snap01.maker.all.noseqs.repeats.gff %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %20190108_geoduck_snap02.hmm %" maker_opts.ctl
+  sed -i "/^est_gff=/ s% %${snap02_est_gff} %" maker_opts.ctl
+  sed -i "/^protein_gff=/ s% %${snap02_protein_gff} %" maker_opts.ctl
+  sed -i "/^rm_gff=/ s% %${snap02_rm_gff} %" maker_opts.ctl
+  sed -i "/^snaphmm=/ s% %Pgenerosa_v70_snap02.hmm %" maker_opts.ctl
 fi
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
 mpiexec -n 56 $maker \
--base 20190108_geoduck_snap02
+-base Pgenerosa_v70_snap02
 
 ## Merge gffs
 ${gff3_merge} \
--d 20190108_geoduck_snap02.maker.output/20190108_geoduck_snap02_master_datastore_index.log
+-d Pgenerosa_v70_snap02.maker.output/Pgenerosa_v70_snap02_master_datastore_index.log
 
 ## GFF with no FastA in footer
-${gff3_merge} -n -s -d 20190108_geoduck_snap02.maker.output/20190108_geoduck_snap02_master_datastore_index.log > 20190108_geoduck_snap02.maker.all.noseqs.gff
+${gff3_merge} -n -s -d Pgenerosa_v70_snap02.maker.output/Pgenerosa_v70_snap02_master_datastore_index.log > Pgenerosa_v70_snap02.maker.all.noseqs.gff
 
 ## Merge FastAs
 ${fasta_merge} \
--d 20190108_geoduck_snap02.maker.output/20190108_geoduck_snap02_master_datastore_index.log
+-d Pgenerosa_v70_snap02.maker.output/Pgenerosa_v70_snap02_master_datastore_index.log
 
 # Create copies of files for mapping
 cp ${maker_prot_fasta} ${maker_prot_fasta_renamed}
@@ -339,7 +340,7 @@ ${blastp} \
 
 # Functional annotations
 
-cd {$wd}
+cd ${wd}
 
 ## Add putative gene functions
 ### GFF
