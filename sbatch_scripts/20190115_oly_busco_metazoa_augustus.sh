@@ -68,6 +68,15 @@ export PATH="${augustus_scripts}:$PATH"
 export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
 
+# Longest transcripts
+
+${samtools} faidx FASTA
+
+awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' Olurida_v081.all.maker.transcripts.fasta.fai | sort -k8nr,8 | sort -uk2,2 | cut -f1-7 -d' ' | tr ' ' '-' > Olurida_v081.all.maker.transcripts.longest.list
+
+while read contig; do ~/programs/samtools-1.9/samtools faidx Olurida_v081.all.maker.transcripts.fasta $contig >> Olurida_v081.all.maker.transcripts.longest.fasta; done < Olurida_v081.all.maker.transcripts.longest.list
+
+${samtools} faidx FASTA
 
 # Subset transcripts and include +/- 1000bp on each side.
 ## Reduces amount of data used for training - don't need crazy amounts to properly train gene models
