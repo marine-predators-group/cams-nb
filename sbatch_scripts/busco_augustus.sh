@@ -38,12 +38,18 @@ echo ${PATH} | tr : \\n >> system_path.log
 # Establish variables for more readable code
 
 ## Input files
-genome=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa
-genome_index=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.fa.fai
+genome_fasta=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta
+genome_index=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta.fai
 maker_gff=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.maker.all.noseqs.gff
 
+
+base_name=Olurida_v081.all.maker
+
 ## Output files
-longest_transcripts=
+longest_transcripts_fasta=${base_name}.longest.transcripts.fa
+longest_trascripts_fai=${longest_transcripts_fasta}.fai
+longest_transctipts_list=${base_name}.longest.list
+
 
 ## Save working directory
 wd=$(pwd)
@@ -68,18 +74,31 @@ export PATH="${augustus_bin}:$PATH"
 export PATH="${augustus_scripts}:$PATH"
 export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
-# Longest transcripts
-awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' Olurida_v081.all.maker.transcripts.fasta.fai | sort -k8nr,8 | sort -uk2,2 | cut -f1-7 -d' ' | tr ' ' '-' > Olurida_v081.all.maker.transcripts.longest.list
+# Creates a list of a subset transcripts to use longest transcript for each isoform.
+## Reduces amount of data used for training - don't need crazy amounts to properly train gene models.
+## Eliminates duplicate transcripts which improves BUSCO analysis.
+### Command sets two field separators (tab for genome index file and '-' for FastA).
+### Sorts in numerical reverse order on field #8 - sequence length.
+### Then sorts unique names on field #2 - gene ID.
+### Then cuts fields #1-7 and translates the spaces back to hyphens to restore original formatting.
+awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' ${genome_index} \
+| sort -k8nr,8 \
+| sort -uk2,2 \
+| cut -f1-7 -d' ' \
+| tr ' ' '-' \
+> ${longest_transctipts_list}
 
-while read contig; do ~/programs/samtools-1.9/samtools faidx Olurida_v081.all.maker.transcripts.fasta $contig >> Olurida_v081.all.maker.transcripts.longest.fasta; done < Olurida_v081.all.maker.transcripts.longest.list
+# Create FastA from list of longeset transcripts
+while read contig; do ${samtools} faidx ${genome_index} $contig >> ${longest_transcripts_fasta}; done < ${longest_transctipts_list}
 
-${samtools} faidx FASTA
+# Index longest transcripts FastA, for posterity.
+${samtools} faidx ${longest_transcripts_fasta}
 
 # Subset transcripts and include +/- 1000bp on each side.
 ## Reduces amount of data used for training - don't need crazy amounts to properly train gene models
 awk -v OFS="\t" '{ if ($3 == "mRNA") print $1, $4, $5 }' ${maker_gff} | \
 awk -v OFS="\t" '{ if ($2 < 1000) print $1, "0", $3+1000; else print $1, $2-1000, $3+1000 }' | \
-${bedtools} getfasta -fi ${genome} \
+${bedtools} getfasta -fi ${genome_fasta} \
 -bed - \
 -fo Olurida_v081.all.maker.transcripts1000.fasta
 
