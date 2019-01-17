@@ -50,7 +50,7 @@ augustus_species=${human}
 longest_transcripts_fasta=${base_name}.longest.transcripts.fa
 longest_trascripts_fai=${longest_transcripts_fasta}.fai
 longest_transctipts_list=${base_name}.longest.list
-
+augustus_retrain_params=run_${base_name}_busco/augustus_output/retraining_parameters
 
 ## Save working directory
 wd=$(pwd)
@@ -140,3 +140,7 @@ ${busco} \
 --species ${augustus_species} \
 --tarzip \
 --augustus_parameters='--progress=true'
+
+# Prep Augusts for maker_dir
+
+/gscratch/scrubbed/samwhite/outputs/20190114_oly_busco_augustus/run_Olurida_maker_busco/augustus_output/retraining_parameters
