@@ -88,21 +88,13 @@ awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' ${genome_index} \
 | tr ' ' '-' \
 > ${longest_transctipts_list}
 
-# Create FastA from list of longeset transcripts
+## Create FastA from list of longeset transcripts
 while read contig; do ${samtools} faidx ${genome_index} $contig >> ${longest_transcripts_fasta}; done < ${longest_transctipts_list}
 
-# Index longest transcripts FastA, for posterity.
+## Index longest transcripts FastA, for posterity.
 ${samtools} faidx ${longest_transcripts_fasta}
 
-# Subset transcripts and include +/- 1000bp on each side.
-## Reduces amount of data used for training - don't need crazy amounts to properly train gene models
-awk -v OFS="\t" '{ if ($3 == "mRNA") print $1, $4, $5 }' ${maker_gff} | \
-awk -v OFS="\t" '{ if ($2 < 1000) print $1, "0", $3+1000; else print $1, $2-1000, $3+1000 }' | \
-${bedtools} getfasta -fi ${genome_fasta} \
--bed - \
--fo Olurida_v081.all.maker.transcripts1000.fasta
 
-cp Olurida_v081.all.maker.transcripts1000.fasta ${maker_dir}
 cp ${busco_config_default} ${busco_config_ini}
 
 mkdir augustus
