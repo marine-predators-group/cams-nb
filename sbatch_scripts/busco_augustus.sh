@@ -58,9 +58,18 @@ wd=$(pwd)
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
 
 ## Set program paths
+augustus_bin=/gscratch/srlab/programs/Augustus-3.3.2/bin
+augustus_scripts=/gscratch/srlab/programs/Augustus-3.3.2/scripts
 bedtools=/gscratch/srlab/programs/bedtools-2.27.1/bin/bedtools
+blast_dir=/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin/
 busco=/gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py
+hmm_dir=/gscratch/srlab/programs/hmmer-3.2.1/src/
 samtools=/gscratch/srlab/programs/samtools-1.9/samtools
+
+## Augustus configs
+augustus_dir=${wd}/augustus
+augustus_config_dir=${augustus_dir}/config
+augustus_orig_config_dir=/gscratch/srlab/programs/Augustus-3.3.2/config
 
 ## BUSCO configs
 busco_config_default=/gscratch/srlab/programs/busco-v3/config/config.ini.default
@@ -94,10 +103,15 @@ while read contig; do ${samtools} faidx ${genome_index} $contig >> ${longest_tra
 ## Index longest transcripts FastA, for posterity.
 ${samtools} faidx ${longest_transcripts_fasta}
 
-
+# Copy BUSCO config file
 cp ${busco_config_default} ${busco_config_ini}
 
-mkdir augustus
+# Make Augustus directory if it doesn't exist
+if [ ! -d mkdir ${augustus_dir} ]; then
+  mkdir ${augustus_dir}
+fi
+
+# Copy Augustus config directory
 cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
 
 # Edit BUSCO config file
