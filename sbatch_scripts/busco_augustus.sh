@@ -37,13 +37,14 @@ echo ${PATH} | tr : \\n >> system_path.log
 
 # Establish variables for more readable code
 
-## Input files
+## Input files and settings
+base_name=Olurida_v081.all.maker
+busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
 genome_fasta=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta
 genome_index=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta.fai
 maker_gff=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.maker.all.noseqs.gff
+augustus_species=${human}
 
-
-base_name=Olurida_v081.all.maker
 
 ## Output files
 longest_transcripts_fasta=${base_name}.longest.transcripts.fa
@@ -53,9 +54,6 @@ longest_transctipts_list=${base_name}.longest.list
 
 ## Save working directory
 wd=$(pwd)
-
-## Set databases paths
-busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
 
 ## Set program paths
 augustus_bin=/gscratch/srlab/programs/Augustus-3.3.2/bin
@@ -133,12 +131,12 @@ sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3
 
 # Run BUSCO/Augustus training
 ${busco} \
---in Olurida_v081.all.maker.transcripts1000.fasta \
---out Olurida_maker_busco \
+--in ${longest_transcripts_fasta} \
+--out ${base_name} \
 --lineage_path ${busco_db} \
 --mode genome \
 --cpu 56 \
 --long \
---species human \
+--species ${augustus_species} \
 --tarzip \
 --augustus_parameters='--progress=true'
