@@ -43,25 +43,25 @@ RNA was isolated from the following samples using the PAXgene Tissue RNA Kit (Qi
 
 Background on all of this is in this [GitHub Issue](https://github.com/sr320/LabDocs/issues/648#issuecomment-313792588)
 
-NF-10-22
-NF-10-23
-NF-10-24
-NF-10-26
-NF-10-28
-NF-10-30
-SN-10-16
-SN-10-17
-SN-10-20
-SN-10-25
-SN-10-26
-SN-10-31
+- NF-10-22
+- NF-10-23
+- NF-10-24
+- NF-10-26
+- NF-10-28
+- NF-10-30
+- SN-10-16
+- SN-10-17
+- SN-10-20
+- SN-10-25
+- SN-10-26
+- SN-10-31
 
 IMPORTANT:
 
 
 
 
-    
+
   * Prior to beginning, I prepared an aliquot of Buffer TR1 by adding 40μL of β-mercaptoethanol (β-ME) to 4000μL of Buffer TR1)
 
 
@@ -69,16 +69,16 @@ IMPORTANT:
 Isolated RNA according to the PAXgene Tissue RNA Kit protocol with the following alterations:
 
 
-    
+
   * "Max speed" spins were performed at 20,000g.
 
-    
+
   * Tissue disruption was performed by adding ~25-50 glass beads (425 - 600μm diameter) with the Disruptor Genie @ 45C for 15mins (in the Friedman Lab).
 
-    
+
   * Shaking incubation step was performed with Disruptor Genie
 
-    
+
   * Samples were eluted with 27μL of Buffer TR4 x 2, incubated @ 65C for 5mins, immediately placed on ice.
 
 
