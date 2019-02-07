@@ -15,9 +15,14 @@ Sample list is here (Google Sheet):
 
 - [L18_CV_DNAM_Roberts](https://docs.google.com/spreadsheets/d/1_ejhH2xx81WN8EvMkEpqmc3zAGlrGOrAl5RWgL7ShJ8/edit?usp=sharing)
 
+---
+
+![](https://github.com/RobertsLab/sams-notebook/raw/master/images/20190129_lotterhos_samples.jpg)
+
 
 Samples were stored in [Rack 1, Column 1, Row 1 in our -80<sup>o</sup>C](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit?usp=sharing).
 
+---
 
 Katie Lotterhos emailed the following note regarding some of the samples:
 
