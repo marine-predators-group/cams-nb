@@ -113,7 +113,7 @@ panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/generosa_proteomes/20180
 combined_proteomes=${wd}/combined_proteomes.fasta
 
 ### Path to P.generosa-specific repeat library
-repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v071-families.fa
+repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v070-families.fa
 
 ### Path to SwissProt database for BLASTp
 sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
