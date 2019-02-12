@@ -65,7 +65,7 @@ ipr_update_gff=${maker_dir}/ipr_update_gff
 iprscan2gff3=${maker_dir}/iprscan2gff3
 
 blastp_dir=${wd}/blastp_annotation
-maker_blastp=${wd}/blastp_annotation/20190213_blastp.outfmt6
+maker_blastp=${wd}/blastp_annotation/blastp.outfmt6
 maker_prot_fasta=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.proteins.fasta
 maker_prot_fasta_renamed=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.proteins.renamed.fasta
 maker_transcripts_fasta=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.transcripts.fasta
