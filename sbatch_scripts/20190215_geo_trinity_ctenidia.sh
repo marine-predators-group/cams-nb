@@ -48,7 +48,7 @@ ${data_dir}/Geoduck-ctenidia-RNA-4_S27_L004_R1_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-5_S35_L005_R1_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-6_S43_L006_R1_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-7_S51_L007_R1_001.fastq.gz,\
-${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R1_001.fastq.gz,\
+${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R1_001.fastq.gz \
 --right \
 ${data_dir}/Geoduck-ctenidia-RNA-1_S3_L001_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-2_S11_L002_R2_001.fastq.gz,\
@@ -57,7 +57,7 @@ ${data_dir}/Geoduck-ctenidia-RNA-4_S27_L004_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-5_S35_L005_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-6_S43_L006_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-7_S51_L007_R2_001.fastq.gz,\
-${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R2_001.fastq.gz,\
+${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R2_001.fastq.gz
 
 # Assembly sp_db_annotations
 ${trinity_dir}/util/TrinityStats.pl Trinity.fasta \
