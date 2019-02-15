@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=20180829_trinity
+#SBATCH --job-name=trinity_20190215
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
