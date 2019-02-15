@@ -39,7 +39,7 @@ ${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
 --max_memory 120G \
---CPU 28 \
+--CPU 56 \
 --left \
 ${data_dir}/Geoduck-ctenidia-RNA-1_S3_L001_R1_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-2_S11_L002_R1_001.fastq.gz,\

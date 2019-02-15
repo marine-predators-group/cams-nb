@@ -39,7 +39,7 @@ ${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
 --max_memory 120G \
---CPU 28 \
+--CPU 56 \
 --left \
 ${data_dir}/Geoduck-gonad-RNA-1_S1_L001_R1_001.fastq.gz,\
 ${data_dir}/Geoduck-gonad-RNA-2_S9_L002_R1_001.fastq.gz,\
