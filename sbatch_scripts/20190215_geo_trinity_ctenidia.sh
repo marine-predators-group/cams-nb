@@ -59,6 +59,6 @@ ${data_dir}/Geoduck-ctenidia-RNA-6_S43_L006_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-7_S51_L007_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R2_001.fastq.gz
 
-# Assembly sp_db_annotations
+# Assembly stats
 ${trinity_dir}/util/TrinityStats.pl Trinity.fasta \
 > ${assembly_stats}
