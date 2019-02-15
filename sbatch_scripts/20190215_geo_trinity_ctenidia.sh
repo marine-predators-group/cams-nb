@@ -31,9 +31,11 @@ printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
 data_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq
+trinity_dir=/gscratch/srlab/programs/trinityrnaseq-Trinity-v2.8.3
+assembly_stats=assembly_stats.txt
 
 # Run Trinity
-/gscratch/srlab/programs/trinityrnaseq-Trinity-v2.8.3/Trinity \
+${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
 --max_memory 120G \
@@ -56,3 +58,7 @@ ${data_dir}/Geoduck-ctenidia-RNA-5_S35_L005_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-6_S43_L006_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-7_S51_L007_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-ctenidia-RNA-8_S59_L008_R2_001.fastq.gz,\
+
+# Assembly sp_db_annotations
+${trinity_dir}/util/TrinityStats.pl Trinity.fasta \
+> ${assembly_stats}
