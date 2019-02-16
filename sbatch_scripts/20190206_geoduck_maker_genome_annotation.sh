@@ -168,22 +168,8 @@ ${forge} export.ann export.dna
 ${hmmassembler} genome . > Pgenerosa_v070_snap02.hmm
 
 ## Initiate third and final Maker run.
-### Copy initial maker control files and:
-### - change gene prediction settings to 0 (i.e. don't generate Maker gene predictions)
-### - use GFF subsets generated in first round of SNAP
-### - set location of snaphmm file to use for gene prediction.
-### Percent symbols used below are the sed delimiters, instead of the default "/",
-### due to the need to use file paths.
-if [ ! -e maker_opts.ctl ]; then
-  $maker -CTL
-  sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
-  sed -i "/^est2genome=1/ s/est2genome=1/est2genome=0/" maker_opts.ctl
-  sed -i "/^protein2genome=1/ s/protein2genome=1/protein2genome=0/" maker_opts.ctl
-  sed -i "/^est_gff=/ s% %${snap02_est_gff} %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %${snap02_protein_gff} %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %${snap02_rm_gff} %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %Pgenerosa_v070_snap02.hmm %" maker_opts.ctl
-fi
+### Copy snap01 maker control file
+cp ../snap01/maker_opts.ctl .
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
