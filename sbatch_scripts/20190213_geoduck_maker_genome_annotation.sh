@@ -210,16 +210,8 @@ ${gff3_merge} -d Pgenerosa_v071_snap01.maker.output/Pgenerosa_v071_snap01_master
 ## GFF with no FastA in footer
 ${gff3_merge} -n -s -d Pgenerosa_v071_snap01.maker.output/Pgenerosa_v071_snap01_master_datastore_index.log > Pgenerosa_v071_snap01.maker.all.noseqs.gff
 
-## Extract GFF alignments for use in subsequent MAKER rounds
-### Transcript alignments
-awk '{ if ($2 == "est2genome") print $0 }' Pgenerosa_v071_snap01.maker.all.noseqs.gff > Pgenerosa_v071_snap01.maker.all.noseqs.est2genome.gff
-### Protein alignments
-awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v071_snap01.maker.all.noseqs.gff > Pgenerosa_v071_snap01.maker.all.noseqs.protein2genome.gff
-### Repeat alignments
-awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v071_snap01.maker.all.noseqs.gff > Pgenerosa_v071_snap01.maker.all.noseqs.repeats.gff
-
 ## Run SNAP training, round 2
-cd ..
+cd ${wd}
 mkdir snap02 && cd snap02
 ${maker2zff} ../snap01/Pgenerosa_v071_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
@@ -228,22 +220,8 @@ ${forge} export.ann export.dna
 ${hmmassembler} genome . > Pgenerosa_v071_snap02.hmm
 
 ## Initiate third and final Maker run.
-### Copy initial maker control files and:
-### - change gene prediction settings to 0 (i.e. don't generate Maker gene predictions)
-### - use GFF subsets generated in first round of SNAP
-### - set location of snaphmm file to use for gene prediction.
-### Percent symbols used below are the sed delimiters, instead of the default "/",
-### due to the need to use file paths.
-if [ ! -e maker_opts.ctl ]; then
-  $maker -CTL
-  sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
-  sed -i "/^est2genome=1/ s/est2genome=1/est2genome=0/" maker_opts.ctl
-  sed -i "/^protein2genome=1/ s/protein2genome=1/protein2genome=0/" maker_opts.ctl
-  sed -i "/^est_gff=/ s% %${snap01_est_gff} %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %${snap01_protein_gff} %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %${snap01_rm_gff} %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %Pgenerosa_v071_snap02.hmm %" maker_opts.ctl
-fi
+### Copy snap01 maker control file
+cp ../snap01/maker_opts.ctl .
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
