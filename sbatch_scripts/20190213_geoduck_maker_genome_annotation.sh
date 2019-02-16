@@ -70,11 +70,11 @@ maker_prot_fasta=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.proteins.fasta
 maker_prot_fasta_renamed=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.proteins.renamed.fasta
 maker_transcripts_fasta=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.transcripts.fasta
 maker_transcripts_fasta_renamed=${wd}/snap02/Pgenerosa_v071_snap02.all.maker.transcripts.renamed.fasta
-snap02_est_gff=${wd}/snap02/Pgenerosa_v071_snap01.maker.all.noseqs.est2genome.gff
+snap01_est_gff=${wd}/snap01/Pgenerosa_v071_snap01.maker.all.noseqs.est2genome.gff
 snap02_gff=${wd}/snap02/Pgenerosa_v071_snap02.all.gff
 snap02_gff_renamed=${wd}/snap02/Pgenerosa_v071_snap02.all.renamed.gff
-snap02_protein_gff=${wd}/snap02/Pgenerosa_v071_snap01.maker.all.noseqs.protein2genome.gff
-snap02_rm_gff=${wd}/snap02/Pgenerosa_v071_snap01.maker.all.noseqs.repeats.gff
+snap01_protein_gff=${wd}/snap01/Pgenerosa_v071_snap01.maker.all.noseqs.protein2genome.gff
+snap01_rm_gff=${wd}/snap01/Pgenerosa_v071_snap01.maker.all.noseqs.repeats.gff
 put_func_gff=Pgenerosa_v071_genome_snap02.all.renamed.putative_function.gff
 put_func_prot=Pgenerosa_v071_genome_snap02.all.maker.proteins.renamed.putative_function.fasta
 put_func_trans=Pgenerosa_v071_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
@@ -239,9 +239,9 @@ if [ ! -e maker_opts.ctl ]; then
   sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
   sed -i "/^est2genome=1/ s/est2genome=1/est2genome=0/" maker_opts.ctl
   sed -i "/^protein2genome=1/ s/protein2genome=1/protein2genome=0/" maker_opts.ctl
-  sed -i "/^est_gff=/ s% %${snap02_est_gff} %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %${snap02_protein_gff} %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %${snap02_rm_gff} %" maker_opts.ctl
+  sed -i "/^est_gff=/ s% %${snap01_est_gff} %" maker_opts.ctl
+  sed -i "/^protein_gff=/ s% %${snap01_protein_gff} %" maker_opts.ctl
+  sed -i "/^rm_gff=/ s% %${snap01_rm_gff} %" maker_opts.ctl
   sed -i "/^snaphmm=/ s% %Pgenerosa_v071_snap02.hmm %" maker_opts.ctl
 fi
 
