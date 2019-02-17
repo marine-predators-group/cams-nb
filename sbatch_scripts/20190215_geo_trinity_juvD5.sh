@@ -31,7 +31,7 @@ printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
 data_dir=${data_dir}
-trinity_dir=/gscratch/srlab/programs/trinityrnaseq-Trinity-v2.8.3
+trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
 assembly_stats=assembly_stats.txt
 
 # Run Trinity
