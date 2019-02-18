@@ -60,5 +60,5 @@ ${data_dir}/Geoduck-larvae-day5-RNA-EPI-99-7_S56_L007_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-larvae-day5-RNA-EPI-99-8_S64_L008_R2_001.fastq.gz
 
 # Assembly stats
-${trinity_dir}/util/TrinityStats.pl Trinity.fasta \
+${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
 > ${assembly_stats}

@@ -60,5 +60,5 @@ ${data_dir}/Geoduck-gonad-RNA-7_S49_L007_R2_001.fastq.gz,\
 ${data_dir}/Geoduck-gonad-RNA-8_S57_L008_R2_001.fastq.gz
 
 # Assembly stats
-${trinity_dir}/util/TrinityStats.pl Trinity.fasta \
+${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
 > ${assembly_stats}
