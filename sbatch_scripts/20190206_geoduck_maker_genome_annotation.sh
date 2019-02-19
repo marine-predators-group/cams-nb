@@ -159,8 +159,8 @@ awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v070_snap01.maker.all.n
 awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v070_snap01.maker.all.noseqs.gff > Pgenerosa_v070_snap01.maker.all.noseqs.repeats.gff
 
 ## Run SNAP training, round 2
-cd ..
-mkdir snap02 && cd snap02
+cd ${wd}
+cd snap02
 ${maker2zff} ../snap01/Pgenerosa_v070_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
