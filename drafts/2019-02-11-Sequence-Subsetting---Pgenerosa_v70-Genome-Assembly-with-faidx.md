@@ -10,24 +10,37 @@ tags:
 categories:
   - Miscellaneous
 ---
-
-```
-faidx --size-range 10000,1000000000 Pgenerosa_v070.fa > Pgenerosa_v070_10k_plus.fasta
-```
-
-```
-faidx Pgenerosa_v070_10k_plus.fasta
-```
-
-```
-faidx --size-range 30000,1000000000 Pgenerosa_v070.fa > Pgenerosa_v070_30k_plus.fasta
-
-```
-
-```
-faidx Pgenerosa_v070_30k_plus.fasta
-```
+[Steven asked to subset geoduck assembly](https://github.com/RobertsLab/resources/issues/572) in to >10kbp and >30kbp groups. Here are the commands, using ```faidx```:
 
 
-35b6b653b543ebb7f3631e68523ab595  Pgenerosa_v070_10k_plus.fasta
-ce81a0fc127e6cc0cbf216eb85b87749  Pgenerosa_v070_30k_plus.fasta
+#### >10kbp subsetting
+```
+faidx --size-range 10000,1000000000 Pgenerosa_v070.fa > Pgenerosa_v071.fasta
+```
+
+#### Index new FastA
+```
+faidx Pgenerosa_v071.fasta
+```
+---
+
+#### >30kbp subsetting
+```
+faidx --size-range 30000,1000000000 Pgenerosa_v070.fa > Pgenerosa_v073.fasta
+
+```
+#### Index new FastA
+```
+faidx Pgenerosa_v073.fasta
+```
+---
+
+#### MD5 checksums
+35b6b653b543ebb7f3631e68523ab595  Pgenerosa_v071.fasta
+ce81a0fc127e6cc0cbf216eb85b87749  Pgenerosa_v073.fasta
+
+---
+
+All files were copied to our [genomic databank](http://owl.fish.washington.edu/halfshell/genomic-databank/) on Owl.
+
+See our [Genomic Resources wiki (GitHub)](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) for a more concise overview.
