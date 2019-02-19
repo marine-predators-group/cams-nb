@@ -47,6 +47,7 @@ export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20181008/
 wd=$(pwd)
 maker_dir=/gscratch/srlab/programs/maker-2.31.10/bin
 snap_dir=/gscratch/srlab/programs/maker-2.31.10/exe/snap
+
 ### Paths to Maker binaries
 
 maker=${maker_dir}/maker
@@ -174,7 +175,8 @@ awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v071.maker.all.noseqs.g
 awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v071.maker.all.noseqs.gff > Pgenerosa_v071.maker.all.noseqs.repeats.gff
 
 ## Run SNAP training, round 1
-mkdir snap01 && cd snap01
+cd ${wd}
+cd snap01
 ${maker2zff} ../Pgenerosa_v071.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
@@ -212,7 +214,7 @@ ${gff3_merge} -n -s -d Pgenerosa_v071_snap01.maker.output/Pgenerosa_v071_snap01_
 
 ## Run SNAP training, round 2
 cd ${wd}
-mkdir snap02 && cd snap02
+cd snap02
 ${maker2zff} ../snap01/Pgenerosa_v071_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
