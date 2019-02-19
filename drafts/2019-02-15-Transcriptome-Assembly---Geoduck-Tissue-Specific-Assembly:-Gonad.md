@@ -1,6 +1,6 @@
 /---
 layout: post
-title: Transcriptome Assembly - Geoduck Tissue-specific Assembly: Gonad
+title: Transcriptome Assembly - Geoduck Tissue-specific Assembly (Gonad)
 date: '2019-02-15 22:42'
 tags:
   - gonad
