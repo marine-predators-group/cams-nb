@@ -32,11 +32,11 @@ According to our [Olympia oyster genome wiki](https://github.com/RobertsLab/proj
 
 
 
-  * [Whole genome BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+  * [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
-  * [MBD BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
+  * [MBD BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/MBD-BSseq-December-2015)
 
 
 
@@ -56,55 +56,54 @@ Samples were trimmed with TrimGalore and then evaluated with FastQC. MultiQC was
 The Olympia oyster genome assembly, [pbjelly_sjw_01](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Genome-Assemblies), was used as the reference genome and was prepared for use in Bismark:
 
 
-    
-    <code>
-    /home/shared/Bismark-0.19.1/bismark_genome_preparation \
-    --path_to_bowtie /home/shared/bowtie2-2.3.4.1-linux-x86_64/ \
-    --verbose /home/sam/data/oly_methylseq/oly_genome/ \
-    2> 20180507_bismark_genome_prep.err
-    </code>
+<pre><code>
+/home/shared/Bismark-0.19.1/bismark_genome_preparation \
+--path_to_bowtie /home/shared/bowtie2-2.3.4.1-linux-x86_64/ \
+--verbose /home/sam/data/oly_methylseq/oly_genome/ \
+2> 20180507_bismark_genome_prep.err
+</code></pre>
 
 
 
 Bismark was run on trimmed samples with the following command:
 
 
-    
-    <code>
-    /home/shared/Bismark-0.19.1/bismark \
-    --path_to_bowtie /home/shared/bowtie2-2.3.4.1-linux-x86_64/ \
-    --genome /home/sam/data/oly_methylseq/oly_genome/ \
-    -u 1000000 \
-    -p 16 \
-    --non_directional \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/1_ATCACG_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/2_CGATGT_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/3_TTAGGC_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/4_TGACCA_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/5_ACAGTG_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/6_GCCAAT_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/7_CAGATC_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/8_ACTTGA_L001_R1_001_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_10_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_11_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_12_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_13_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_14_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_15_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_16_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_17_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_18_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_1_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_2_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_3_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_4_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_5_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_6_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_7_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_8_s456_trimmed.fq.gz \
-    /home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_9_s456_trimmed.fq.gz \
-    2> 20180507_bismark_02.err
-    </code>
+
+<pre><code>
+/home/shared/Bismark-0.19.1/bismark \
+--path_to_bowtie /home/shared/bowtie2-2.3.4.1-linux-x86_64/ \
+--genome /home/sam/data/oly_methylseq/oly_genome/ \
+-u 1000000 \
+-p 16 \
+--non_directional \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/1_ATCACG_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/2_CGATGT_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/3_TTAGGC_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/4_TGACCA_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/5_ACAGTG_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/6_GCCAAT_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/7_CAGATC_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/8_ACTTGA_L001_R1_001_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_10_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_11_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_12_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_13_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_14_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_15_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_16_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_17_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_18_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_1_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_2_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_3_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_4_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_5_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_6_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_7_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_8_s456_trimmed.fq.gz \
+/home/sam/analyses/20180503_oly_methylseq_trimgalore/zr1394_9_s456_trimmed.fq.gz \
+2> 20180507_bismark_02.err
+</code></pre>
 
 
 
@@ -168,7 +167,7 @@ Bismark output folder:
 
 
 
-#### [Whole genome BS-seq (2015)(https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
+#### [Whole genome BS-seq (2015)](https://github.com/RobertsLab/project-olympia.oyster-genomic/wiki/Whole-genome-BSseq-December-2015)
 
 
 
@@ -198,66 +197,66 @@ Bismark output folder:
 
 <tbody >
 <tr >
-  
+
 <td >1_ATCACG_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >40.3%
 </td>
 </tr>
 <tr >
-  
+
 <td >2_CGATGT_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >39.9%
 </td>
 </tr>
 <tr >
-  
+
 <td >3_TTAGGC_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >40.2%
 </td>
 </tr>
 <tr >
-  
+
 <td >4_TGACCA_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >40.4%
 </td>
 </tr>
 <tr >
-  
+
 <td >5_ACAGTG_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >39.9%
 </td>
 </tr>
 <tr >
-  
+
 <td >6_GCCAAT_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >39.6%
 </td>
 </tr>
 <tr >
-  
+
 <td >7_CAGATC_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >39.9%
 </td>
 </tr>
 <tr >
-  
+
 <td >8_ACTTGA_L001_R1_001_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >39.7%
 </td>
 </tr>
@@ -305,146 +304,146 @@ Bismark output folder:
 
 <tbody >
 <tr >
-  
+
 <td >zr1394_1_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >33.0%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_2_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >34.1%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_3_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >32.5%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_4_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >32.8%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_5_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >35.2%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_6_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >35.5%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_7_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >32.8%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_8_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >33.0%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_9_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >34.7%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_10_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >34.9%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_11_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >30.5%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_12_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >35.8%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_13_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >32.5%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_14_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >30.8%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_15_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >31.3%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_16_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >30.7%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_17_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >32.4%
 </td>
 </tr>
 <tr >
-  
+
 <td >zr1394_18_s456_trimmed_bismark_bt2_SE_report.txt
 </td>
-  
+
 <td >34.9%
 </td>
 </tr>
