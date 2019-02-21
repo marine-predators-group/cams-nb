@@ -38,8 +38,7 @@ bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 ## Directories
-bisulfite_dir="/gscratch/srlab/sam/data/C_gigas/genomes/bisfulfite_genomes
-"
+bisulfite_dir="/gscratch/srlab/sam/data/C_gigas/genomes/bisfulfite_genomes"
 
 ## Files
 genome="/gscratch/srlab/sam/data/C_gigas/genomes/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa"
