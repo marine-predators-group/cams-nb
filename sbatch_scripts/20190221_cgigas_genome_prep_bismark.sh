@@ -37,13 +37,10 @@ bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
 bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
-## Directories
-bisulfite_dir="/gscratch/srlab/sam/data/C_gigas/genomes/bisfulfite_genomes"
-
 ## Files
-genome="/gscratch/srlab/sam/data/C_gigas/genomes/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa"
+genome="/gscratch/srlab/sam/data/C_gigas/genomes"
 
 # Prepare bisulfite genomes
 ${bismark_dir}/bismark_genome_preparation \
 --path_to_bowtie ${bowtie2_dir} \
---verbose ${bisulfite_dir}
+--verbose ${genome}
