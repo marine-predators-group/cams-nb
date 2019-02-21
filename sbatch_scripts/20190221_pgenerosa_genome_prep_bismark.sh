@@ -39,8 +39,18 @@ samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 ## Files
 genome_v070="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v070"
+genome_v071="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v071"
+genome_v073="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v073"
 
 # Prepare bisulfite genomes
 ${bismark_dir}/bismark_genome_preparation \
 --path_to_bowtie ${bowtie2_dir} \
---verbose ${genome}
+--verbose ${genome_v070}
+
+${bismark_dir}/bismark_genome_preparation \
+--path_to_bowtie ${bowtie2_dir} \
+--verbose ${genome_v071}
+
+${bismark_dir}/bismark_genome_preparation \
+--path_to_bowtie ${bowtie2_dir} \
+--verbose ${genome_v073}
