@@ -225,6 +225,8 @@ ${hmmassembler} genome . > Pgenerosa_v071_snap02.hmm
 ### Copy snap01 maker control file
 cp ../snap01/maker_* .
 
+sed -i "/^snaphmm=/ s% %Pgenerosa_v071_snap02.hmm %" maker_opts.ctl
+
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
 mpiexec -n 56 $maker \
