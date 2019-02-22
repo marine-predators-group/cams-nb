@@ -46,7 +46,7 @@ genome_array=(${genome_v070} ${genome_v071} ${genome_v073})
 
 ## An array of subsets of reads to use in bismark:
 ## 100k, 500k, 1M, 2M, 5M, 10M
-subset_aray=(100000 500000 1000000 2000000 5000000 1000000)
+subset_array=(100000 500000 1000000 2000000 5000000 1000000)
 
 ## FastQ Files
 R1="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R1.fastq.gz"
@@ -54,55 +54,61 @@ R2="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R2.fast
 
 # Run bismark using bisulftie-converted genome
 
-${bismark_dir}/bismark \
---path_to_bowtie ${bowtie2_dir} \
---genome ${genome} \
---score_min L,0,-0.6 \
--p 56 \
---non_directional \
+for genome in ${genome_array[@]} do
+  for subset in ${subset_array[@]} do
+    mkdir subset_${subset}
+    cd subset_${subset}
+    ${bismark_dir}/bismark \
+    --path_to_bowtie ${bowtie2_dir} \
+    --genome ${genome} \
+    --score_min L,0,-0.6 \
+    -u ${subset}
+    -p 56 \
+    -1 ${R1} \
+    -2 ${R2}
 
+    # Deduplicate bam files
+    ${bismark_dir}/deduplicate_bismark \
+    --bam \
+    --single \
+    *.bam
 
-# Deduplicate bam files
+    # Methylation extraction
 
-${bismark_dir}/deduplicate_bismark \
---bam \
---single \
-*.bam
+    ${bismark_dir}/bismark_methylation_extractor \
+    --bedgraph \
+    --counts \
+    --scaffolds \
+    --remove_spaces \
+    --multicore 56 \
+    --buffer_size 75% \
+    *deduplicated.bam
 
-# Methylation extraction
+    # Bismark processing report
 
-${bismark_dir}/bismark_methylation_extractor \
---bedgraph \
---counts \
---scaffolds \
---remove_spaces \
---multicore 56 \
---buffer_size 75% \
-*deduplicated.bam
+    ${bismark_dir}/bismark2report
 
-# Bismark processing report
+    #Bismark summary report
 
-${bismark_dir}/bismark2report
+    ${bismark_dir}/bismark2summary
 
-#Bismark summary report
+    # Sort files for methylkit and IGV
 
-${bismark_dir}/bismark2summary
+    find *deduplicated.bam \
+    | xargs basename -s .bam \
+    | xargs -I{} ${samtools} \
+    sort \
+    --threads 56 \
+    {}.bam \
+    -o {}.sorted.bam
 
-# Sort files for methylkit and IGV
+    # Index sorted files for IGV
+    # The "-@ 56" below specifies number of CPU threads to use.
 
-find *deduplicated.bam \
-| xargs basename -s .bam \
-| xargs -I{} ${samtools} \
-sort \
---threads 56 \
-{}.bam \
--o {}.sorted.bam
-
-# Index sorted files for IGV
-# The "-@ 56" below specifies number of CPU threads to use.
-
-find *.sorted.bam \
-| xargs basename -s .sorted.bam \
-| xargs -I{} ${samtools} \
-index -@ 56 \
-{}.sorted.bam
+    find *.sorted.bam \
+    | xargs basename -s .sorted.bam \
+    | xargs -I{} ${samtools} \
+    index -@ 56 \
+    {}.sorted.bam
+  done
+done
