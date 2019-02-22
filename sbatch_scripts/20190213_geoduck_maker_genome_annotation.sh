@@ -222,10 +222,17 @@ ${forge} export.ann export.dna
 ${hmmassembler} genome . > Pgenerosa_v071_snap02.hmm
 
 ## Initiate third and final Maker run.
-### Copy snap01 maker control file
-cp ../snap01/maker_* .
 
-sed -i "/^snaphmm=/ s% %Pgenerosa_v071_snap02.hmm %" maker_opts.ctl
+if [ ! -e maker_opts.ctl ]; then
+  $maker -CTL
+  sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
+  sed -i "/^est2genome=1/ s/est2genome=1/est2genome=0/" maker_opts.ctl
+  sed -i "/^protein2genome=1/ s/protein2genome=1/protein2genome=0/" maker_opts.ctl
+  sed -i "/^est_gff=/ s% %../Pgenerosa_v071.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
+  sed -i "/^protein_gff=/ s% %../Pgenerosa_v071.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
+  sed -i "/^rm_gff=/ s% %../Pgenerosa_v071.maker.all.noseqs.repeats.gff %" maker_opts.ctl
+  sed -i "/^snaphmm=/ s% %Pgenerosa_v071_snap02.hmm %" maker_opts.ctl
+fi
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
