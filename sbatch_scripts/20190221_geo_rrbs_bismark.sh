@@ -86,16 +86,19 @@ ${bismark_dir}/bismark2summary
 
 # Sort files for methylkit and IGV
 
-find *deduplicated.bam | \
-xargs basename -s .bam | \
-xargs -I{} ${samtools} \
-sort --threads 56 {}.bam \
+find *deduplicated.bam \
+| xargs basename -s .bam \
+| xargs -I{} ${samtools} \
+sort \
+--threads 56 \
+{}.bam \
 -o {}.sorted.bam
 
 # Index sorted files for IGV
 # The "-@ 56" below specifies number of CPU threads to use.
 
-find *.sorted.bam | \
-xargs basename -s .sorted.bam | \
-xargs -I{} ${samtools} \
-index -@ 56 {}.sorted.bam
+find *.sorted.bam \
+| xargs basename -s .sorted.bam \
+| xargs -I{} ${samtools} \
+index -@ 56 \
+{}.sorted.bam
