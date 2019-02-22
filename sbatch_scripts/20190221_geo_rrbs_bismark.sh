@@ -49,6 +49,8 @@ genome_array=(${genome_v070} ${genome_v071} ${genome_v073})
 subset_aray=(100000 500000 1000000 2000000 5000000 1000000)
 
 ## FastQ Files
+R1="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R1.fastq.gz"
+R2="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R2.fastq.gz"
 
 # Run bismark using bisulftie-converted genome
 
