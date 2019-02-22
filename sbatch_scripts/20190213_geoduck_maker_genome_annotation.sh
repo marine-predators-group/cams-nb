@@ -223,7 +223,7 @@ ${hmmassembler} genome . > Pgenerosa_v071_snap02.hmm
 
 ## Initiate third and final Maker run.
 ### Copy snap01 maker control file
-cp ../snap01/maker_opts.ctl .
+cp ../snap01/maker_* .
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
