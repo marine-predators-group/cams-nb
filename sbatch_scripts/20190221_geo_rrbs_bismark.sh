@@ -43,9 +43,10 @@ genome_v071="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v071"
 genome_v073="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v073"
 
 genome_array=(${genome_v070} ${genome_v071} ${genome_v073})
+
+
+
 ## FastQ Files
-
-
 
 # Run bismark using bisulftie-converted genome
 
@@ -96,5 +97,5 @@ sort --threads 56 {}.bam \
 
 find *.sorted.bam | \
 xargs basename -s .sorted.bam | \
-xargs -I{} /home/shared/samtools-1.8/samtools \
+xargs -I{} ${samtools} \
 index -@ 56 {}.sorted.bam
