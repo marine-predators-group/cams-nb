@@ -35,7 +35,6 @@ echo ${PATH} | tr : \\n >> system_path.log
 wd=$(pwd)
 bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
 bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
-genome="/gscratch/scrubbed/samwhite/data/O_lurida/BSseq/20180503_oly_genome_pbjelly_sjw_01_bismark/"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 ## genomes
@@ -43,13 +42,12 @@ genome_v070="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v070"
 genome_v071="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v071"
 genome_v073="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v073"
 
+genome_array=(${genome_v070} ${genome_v071} ${genome_v073})
 ## FastQ Files
 
 
 
 # Run bismark using bisulftie-converted genome
-# Converted genome from 20180503 - by me:
-# http://onsnetwork.org/kubu4/2018/05/08/bs-seq-mapping-olympia-oyster-bisulfite-sequencing-trimgalore-fastqc-bismark/
 
 ${bismark_dir}/bismark \
 --path_to_bowtie ${bowtie2_dir} \
