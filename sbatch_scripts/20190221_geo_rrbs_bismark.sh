@@ -44,7 +44,9 @@ genome_v073="/gscratch/scrubbed/samwhite/data/P_generosa/Pgenerosa_v073"
 
 genome_array=(${genome_v070} ${genome_v071} ${genome_v073})
 
-
+## An array of subsets of reads to use in bismark:
+## 100k, 500k, 1M, 2M, 5M, 10M
+subset_aray=(100000 500000 1000000 2000000 5000000 1000000)
 
 ## FastQ Files
 
