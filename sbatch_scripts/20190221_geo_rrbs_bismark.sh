@@ -67,7 +67,8 @@ do
     -u ${subset} \
     -p 28 \
     -1 ${R1} \
-    -2 ${R2}
+    -2 ${R2} \
+    2> subset_${subset}_summary.txt
 
     # Methylation extraction
 
