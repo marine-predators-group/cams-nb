@@ -80,7 +80,7 @@ do
     --remove_spaces \
     --multicore 28 \
     --buffer_size 75% \
-    *deduplicated.bam
+    *.bam
 
     # Bismark processing report
 
