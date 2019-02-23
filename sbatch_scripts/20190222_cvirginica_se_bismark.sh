@@ -39,14 +39,14 @@ samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 ## genomes
 
-genome="/gscratch/srlab/sam/data/C_gigas/genomes/"
+genome="/gscratch/srlab/sam/data/C_virginica/genomes/"
 
 ## An array of subsets of reads to use in bismark:
 ## 100k, 500k, 1M, 2M, 5M, 10M
 subset_array=(100000 500000 1000000 2000000 5000000 10000000)
 
 ## FastQ Files
-se_reads="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cgig_bsseq_all_R1.fastq.gz"
+se_reads="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cvir_bsseq_all_se_R1.fastq.gz"
 
 # Run bismark using bisulftie-converted genome
 
