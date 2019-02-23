@@ -92,7 +92,7 @@ do
 
     # Sort files for methylkit and IGV
 
-    find *deduplicated.bam \
+    find *.bam \
     | xargs basename -s .bam \
     | xargs -I{} ${samtools} \
     sort \
