@@ -63,7 +63,7 @@ for genome in ${genome_array[@]} do
     --genome ${genome} \
     --score_min L,0,-0.6 \
     -u ${subset}
-    -p 56 \
+    -p 28 \
     -1 ${R1} \
     -2 ${R2}
 
@@ -80,7 +80,7 @@ for genome in ${genome_array[@]} do
     --counts \
     --scaffolds \
     --remove_spaces \
-    --multicore 56 \
+    --multicore 28 \
     --buffer_size 75% \
     *deduplicated.bam
 
@@ -98,7 +98,7 @@ for genome in ${genome_array[@]} do
     | xargs basename -s .bam \
     | xargs -I{} ${samtools} \
     sort \
-    --threads 56 \
+    --threads 28 \
     {}.bam \
     -o {}.sorted.bam
 
@@ -108,7 +108,7 @@ for genome in ${genome_array[@]} do
     find *.sorted.bam \
     | xargs basename -s .sorted.bam \
     | xargs -I{} ${samtools} \
-    index -@ 56 \
+    index -@ 28 \
     {}.sorted.bam
   done
 done
