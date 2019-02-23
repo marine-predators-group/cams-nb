@@ -36,6 +36,7 @@ wd=$(pwd)
 bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
 bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+reads_dir="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/"
 
 ## genomes
 
@@ -46,7 +47,27 @@ genome="/gscratch/srlab/sam/data/C_virginica/genomes/"
 subset_array=(100000 500000 1000000 2000000 5000000 10000000)
 
 ## FastQ Files
-se_reads="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_se_R1.fastq.gz"
+se_reads="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_R1.fastq.gz"
+
+## FastQ files lists
+R1_list="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_R1.list"
+
+# Check for existence of previous concatenation
+# If they exist, delete them
+
+for file in ${R1} ${R1_list}
+do
+  if [ -e ${file} ]; then
+    rm ${file}
+  fi
+done
+
+# Concatenate R1 reads and generate lists of FastQs
+for fastq in ${reads_dir}*R1*.gz
+do
+  echo ${fastq} >> ${R1_list}
+  cat ${fastq} >> ${R1}
+done
 
 # Run bismark using bisulftie-converted genome
 
