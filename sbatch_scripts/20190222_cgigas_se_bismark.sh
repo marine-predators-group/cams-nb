@@ -43,7 +43,7 @@ genome="/gscratch/srlab/sam/data/C_gigas/genomes/"
 
 ## An array of subsets of reads to use in bismark:
 ## 100k, 500k, 1M, 2M, 5M, 10M
-subset_array=(100000 500000 1000000 2000000 5000000 1000000)
+subset_array=(100000 500000 1000000 2000000 5000000 10000000)
 
 ## FastQ Files
 se_reads="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cgig_bsseq_all_R1.fastq.gz"
