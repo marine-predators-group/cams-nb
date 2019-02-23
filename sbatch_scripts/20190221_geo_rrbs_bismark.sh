@@ -64,7 +64,7 @@ do
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
     --score_min L,0,-0.6 \
-    -u ${subset}
+    -u ${subset} \
     -p 28 \
     -1 ${R1} \
     -2 ${R2}
@@ -112,5 +112,6 @@ do
     | xargs -I{} ${samtools} \
     index -@ 28 \
     {}.sorted.bam
+    cd ${wd}
   done
 done
