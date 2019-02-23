@@ -6,7 +6,7 @@
 #SBATCH --partition=coenv
 ## Resources
 ## Nodes
-#SBATCH --nodes=2
+#SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
 #SBATCH --time=10-00:00:00
 ## Memory per node
