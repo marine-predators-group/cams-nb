@@ -69,12 +69,6 @@ do
     -1 ${R1} \
     -2 ${R2}
 
-    # Deduplicate bam files
-    ${bismark_dir}/deduplicate_bismark \
-    --bam \
-    --single \
-    *.bam
-
     # Methylation extraction
 
     ${bismark_dir}/bismark_methylation_extractor \
