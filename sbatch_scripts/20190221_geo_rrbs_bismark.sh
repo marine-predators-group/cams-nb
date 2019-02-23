@@ -54,8 +54,10 @@ R2="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R2.fast
 
 # Run bismark using bisulftie-converted genome
 
-for genome in ${genome_array[@]} do
-  for subset in ${subset_array[@]} do
+for genome in ${genome_array[@]}
+do
+  for subset in ${subset_array[@]}
+  do
     mkdir subset_${subset}
     cd subset_${subset}
     ${bismark_dir}/bismark \
