@@ -60,8 +60,7 @@ do
     --score_min L,0,-0.6 \
     -u ${subset} \
     -p 28 \
-    -1 ${R1} \
-    -2 ${R2} \
+    ${se_reads} \
     2> subset_${subset}_summary.txt
 
     # Deduplicate bam files
