@@ -51,10 +51,8 @@ R2="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cgig_bsseq_pe_all_R2.fastq.gz
 
 # Run bismark using bisulftie-converted genome
 
-for genome in ${genome_array[@]}
+for subset in ${subset_array[@]}
 do
-  for subset in ${subset_array[@]}
-  do
     mkdir subset_${subset}
     cd subset_${subset}
     ${bismark_dir}/bismark \
@@ -110,5 +108,4 @@ do
     index -@ 28 \
     {}.sorted.bam
     cd ${wd}
-  done
 done
