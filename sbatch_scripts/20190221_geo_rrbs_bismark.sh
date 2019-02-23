@@ -60,6 +60,7 @@ do
   do
     mkdir subset_${subset}
     cd subset_${subset}
+    genome_version=$(echo ${genome##*/})
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
@@ -68,7 +69,7 @@ do
     -p 28 \
     -1 ${R1} \
     -2 ${R2} \
-    2> subset_${subset}_summary.txt
+    2> subset_${genome_version}_${subset}_summary.txt
 
     # Methylation extraction
 
