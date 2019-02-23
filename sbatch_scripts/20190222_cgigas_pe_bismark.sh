@@ -46,8 +46,8 @@ genome="/gscratch/srlab/sam/data/C_gigas/genomes/"
 subset_array=(100000 500000 1000000 2000000 5000000 1000000)
 
 ## FastQ Files
-R1="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R1.fastq.gz"
-R2="/gscratch/scrubbed/samwhite/data/P_generosa/BSeq/rrbs/pgen_bsseq_all_R2.fastq.gz"
+R1="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cgig_bsseq_pe_all_R1.fastq.gz"
+R2="/gscratch/scrubbed/samwhite/data/C_gigas/BSseq/cgig_bsseq_pe_all_R2.fastq.gz"
 
 # Run bismark using bisulftie-converted genome
 
