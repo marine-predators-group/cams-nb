@@ -73,9 +73,10 @@ do
 done
 
 # Run bismark using bisulftie-converted genome
-
-for subset in ${subset_array[@]}
+for genome in ${genome_array[@]}
 do
+  for subset in ${subset_array[@]}
+  do
     mkdir subset_${subset}
     cd subset_${subset}
     ${bismark_dir}/bismark \
@@ -131,4 +132,5 @@ do
     index -@ 28 \
     {}.sorted.bam
     cd ${wd}
+  done
 done
