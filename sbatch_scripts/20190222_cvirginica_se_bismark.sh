@@ -55,7 +55,7 @@ R1_list="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_R1.li
 # Check for existence of previous concatenation
 # If they exist, delete them
 
-for file in ${R1} ${R1_list}
+for file in ${se_reads} ${R1_list}
 do
   if [ -e ${file} ]; then
     rm ${file}
@@ -66,7 +66,7 @@ done
 for fastq in ${reads_dir}*R1*.gz
 do
   echo ${fastq} >> ${R1_list}
-  cat ${fastq} >> ${R1}
+  cat ${fastq} >> ${se_reads}
 done
 
 # Run bismark using bisulftie-converted genome
