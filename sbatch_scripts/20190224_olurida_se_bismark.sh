@@ -36,7 +36,7 @@ wd=$(pwd)
 bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
 bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
-reads_dir="/gscratch/scrubbed/samwhite/data/O_lurida/BSseq"
+reads_dir="/gscratch/scrubbed/samwhite/data/O_lurida/BSseq/"
 
 ## genomes
 
