@@ -40,7 +40,7 @@ reads_dir="/gscratch/scrubbed/samwhite/data/O_lurida/BSseq/"
 
 ## genomes
 
-genome="gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/oly_v081_bismark_genome"
+genome="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/oly_v081_bismark_genome"
 
 ## An array of subsets of reads to use in bismark:
 ## 100k, 500k, 1M, 2M, 5M, 10M
