@@ -17,6 +17,298 @@ This is a quick and dirty (i.e. no adaptor/quality trimming) assessment of all o
 - 5M
 - 10M
 
+This was run as both paired end and single end, as the paired end analysis didn't actually produce a mapping efficiency (but _does_ have alignment percentages), but the single end ended up yielding mapping efficiencies. Single end analysis consisted of just the R1 reads.
+
+SBATCH scripts are linked and pasted below:
+
+---
+
+Paired end script:
+
+-
+
 <pre><code>
+#!/bin/bash
+## Job Name
+#SBATCH --job-name=bismark
+## Allocation Definition
+#SBATCH --account=coenv
+#SBATCH --partition=coenv
+## Resources
+## Nodes
+#SBATCH --nodes=1
+## Walltime (days-hours:minutes:seconds format)
+#SBATCH --time=10-00:00:00
+## Memory per node
+#SBATCH --mem=120G
+##turn on e-mail notification
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=samwhite@uw.edu
+## Specify the working directory for this job
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190222_cvirginica_pe_bismark
+
+# Load Python Mox module for Python module availability
+
+module load intel-python3_2017
+
+# Document programs in PATH (primarily for program version ID)
+
+date >> system_path.log
+echo "" >> system_path.log
+echo "System PATH for $SLURM_JOB_ID" >> system_path.log
+echo "" >> system_path.log
+printf "%0.s-" {1..10} >> system_path.log
+echo ${PATH} | tr : \\n >> system_path.log
+
+
+# Directories and programs
+wd=$(pwd)
+bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
+bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
+samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+reads_dir="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/"
+
+## genomes
+
+genome="/gscratch/srlab/sam/data/C_virginica/genomes/"
+
+## An array of subsets of reads to use in bismark:
+## 100k, 500k, 1M, 2M, 5M, 10M
+subset_array=(100000 500000 1000000 2000000 5000000 10000000)
+
+## FastQ Files
+R1="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_pe_R1.fastq.gz"
+R2="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_pe_R2.fastq.gz"
+
+## FastQ files lists
+R1_list="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_pe_all_R1.list"
+R2_list="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_pe_all_R2.list"
+
+# Check for existence of previous concatenation
+# If they exist, delete them
+
+for file in ${R1} ${R1_list} ${R2} ${R2_list}
+do
+  if [ -e ${file} ]; then
+    rm ${file}
+  fi
+done
+
+# Concatenate R1 reads and generate lists of FastQs
+for fastq in ${reads_dir}*R1*.gz
+do
+  echo ${fastq} >> ${R1_list}
+  cat ${fastq} >> ${R1}
+done
+
+# Concatenate R2 reads and generate lists of FastQs
+for fastq in ${reads_dir}*R2*.gz
+do
+  echo ${fastq} >> ${R2_list}
+  cat ${fastq} >> ${R2}
+done
+
+# Run bismark using bisulftie-converted genome
+
+for subset in ${subset_array[@]}
+do
+    mkdir subset_${subset}
+    cd subset_${subset}
+    ${bismark_dir}/bismark \
+    --path_to_bowtie ${bowtie2_dir} \
+    --genome ${genome} \
+    --score_min L,0,-0.6 \
+    -u ${subset} \
+    -p 28 \
+    -1 ${R1} \
+    -2 ${R2} \
+    2> subset_${subset}_summary.txt
+
+    # Deduplicate bam files
+    ${bismark_dir}/deduplicate_bismark \
+    --bam \
+    --single \
+    *.bam
+
+    # Methylation extraction
+
+    ${bismark_dir}/bismark_methylation_extractor \
+    --bedgraph \
+    --counts \
+    --scaffolds \
+    --remove_spaces \
+    --multicore 28 \
+    --buffer_size 75% \
+    *deduplicated.bam
+
+    # Bismark processing report
+
+    ${bismark_dir}/bismark2report
+
+    #Bismark summary report
+
+    ${bismark_dir}/bismark2summary
+
+    # Sort files for methylkit and IGV
+
+    find *deduplicated.bam \
+    | xargs basename -s .bam \
+    | xargs -I{} ${samtools} \
+    sort \
+    --threads 28 \
+    {}.bam \
+    -o {}.sorted.bam
+
+    # Index sorted files for IGV
+    # The "-@ 56" below specifies number of CPU threads to use.
+
+    find *.sorted.bam \
+    | xargs basename -s .sorted.bam \
+    | xargs -I{} ${samtools} \
+    index -@ 28 \
+    {}.sorted.bam
+    cd ${wd}
+done
+
+</code></pre>
+
+---
+
+Single end script:
+
+-
+
+<pre><code>
+#!/bin/bash
+## Job Name
+#SBATCH --job-name=bismark
+## Allocation Definition
+#SBATCH --account=coenv
+#SBATCH --partition=coenv
+## Resources
+## Nodes
+#SBATCH --nodes=1
+## Walltime (days-hours:minutes:seconds format)
+#SBATCH --time=10-00:00:00
+## Memory per node
+#SBATCH --mem=120G
+##turn on e-mail notification
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=samwhite@uw.edu
+## Specify the working directory for this job
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190222_cvirginica_se_bismark
+
+# Load Python Mox module for Python module availability
+
+module load intel-python3_2017
+
+# Document programs in PATH (primarily for program version ID)
+
+date >> system_path.log
+echo "" >> system_path.log
+echo "System PATH for $SLURM_JOB_ID" >> system_path.log
+echo "" >> system_path.log
+printf "%0.s-" {1..10} >> system_path.log
+echo ${PATH} | tr : \\n >> system_path.log
+
+
+# Directories and programs
+wd=$(pwd)
+bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
+bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
+samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+reads_dir="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/"
+
+## genomes
+
+genome="/gscratch/srlab/sam/data/C_virginica/genomes/"
+
+## An array of subsets of reads to use in bismark:
+## 100k, 500k, 1M, 2M, 5M, 10M
+subset_array=(100000 500000 1000000 2000000 5000000 10000000)
+
+## FastQ Files
+se_reads="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_R1.fastq.gz"
+
+## FastQ files lists
+R1_list="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/cvir_bsseq_all_R1.list"
+
+# Check for existence of previous concatenation
+# If they exist, delete them
+
+for file in ${se_reads} ${R1_list}
+do
+  if [ -e ${file} ]; then
+    rm ${file}
+  fi
+done
+
+# Concatenate R1 reads and generate lists of FastQs
+for fastq in ${reads_dir}*R1*.gz
+do
+  echo ${fastq} >> ${R1_list}
+  cat ${fastq} >> ${se_reads}
+done
+
+# Run bismark using bisulftie-converted genome
+
+for subset in ${subset_array[@]}
+do
+    mkdir subset_${subset}
+    cd subset_${subset}
+    ${bismark_dir}/bismark \
+    --path_to_bowtie ${bowtie2_dir} \
+    --genome ${genome} \
+    --score_min L,0,-0.6 \
+    -u ${subset} \
+    -p 28 \
+    ${se_reads} \
+    2> subset_${subset}_summary.txt
+
+    # Deduplicate bam files
+    ${bismark_dir}/deduplicate_bismark \
+    --bam \
+    --single \
+    *.bam
+
+    # Methylation extraction
+
+    ${bismark_dir}/bismark_methylation_extractor \
+    --bedgraph \
+    --counts \
+    --scaffolds \
+    --remove_spaces \
+    --multicore 28 \
+    --buffer_size 75% \
+    *deduplicated.bam
+
+    # Bismark processing report
+
+    ${bismark_dir}/bismark2report
+
+    #Bismark summary report
+
+    ${bismark_dir}/bismark2summary
+
+    # Sort files for methylkit and IGV
+
+    find *deduplicated.bam \
+    | xargs basename -s .bam \
+    | xargs -I{} ${samtools} \
+    sort \
+    --threads 28 \
+    {}.bam \
+    -o {}.sorted.bam
+
+    # Index sorted files for IGV
+    # The "-@ 56" below specifies number of CPU threads to use.
+
+    find *.sorted.bam \
+    | xargs basename -s .sorted.bam \
+    | xargs -I{} ${samtools} \
+    index -@ 28 \
+    {}.sorted.bam
+    cd ${wd}
+done
 
 </code></pre>
