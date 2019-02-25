@@ -77,8 +77,9 @@ for genome in ${genome_array[@]}
 do
   for subset in ${subset_array[@]}
   do
-    mkdir ${genome}_subset_${subset}
-    cd ${genome}_subset_${subset}
+    genome_version=$(echo ${genome##*/})
+    mkdir subset_${genome_version}_${subset}
+    cd subset_${genome_version}_${subset}
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
