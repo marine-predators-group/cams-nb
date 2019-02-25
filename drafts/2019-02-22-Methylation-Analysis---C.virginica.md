@@ -312,3 +312,26 @@ do
 done
 
 </code></pre>
+
+---
+
+#### RESULTS
+
+```
+find ./*_cvirginica_* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency"
+./20190222_cvirginica_se_bismark/subset_500000/subset_500000_summary.txt:Mapping efficiency:	18.6%
+./20190222_cvirginica_se_bismark/subset_10000000/subset_10000000_summary.txt:Mapping efficiency:	16.1%
+./20190222_cvirginica_se_bismark/subset_1000000/subset_1000000_summary.txt:Mapping efficiency:	19.2%
+./20190222_cvirginica_se_bismark/subset_5000000/subset_5000000_summary.txt:Mapping efficiency:	18.6%
+./20190222_cvirginica_se_bismark/subset_100000/subset_100000_summary.txt:Mapping efficiency:	18.5%
+./20190222_cvirginica_se_bismark/subset_2000000/subset_2000000_summary.txt:Mapping efficiency:	19.5%
+```
+
+| Reads Subset | Mapping Efficiency (%) |
+|--------------|------------------------|
+| 100000       | 18.5                   |
+| 500000       | 18.6                   |
+| 1000000      | 19.2                   |
+| 2000000      | 19.5                   |
+| 5000000      | 18.6                   |
+| 10000000     | 16.1                   |

@@ -157,3 +157,23 @@ done
 ---
 
 #### RESULTS
+
+```
+find ./*_olurida_* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency"
+./20190224_olurida_se_bismark/subset_500000/subset_500000_summary.txt:Mapping efficiency:	54.4%
+./20190224_olurida_se_bismark/subset_10000000/subset_10000000_summary.txt:Mapping efficiency:	53.8%
+./20190224_olurida_se_bismark/subset_1000000/subset_1000000_summary.txt:Mapping efficiency:	54.5%
+./20190224_olurida_se_bismark/subset_5000000/subset_5000000_summary.txt:Mapping efficiency:	54.3%
+./20190224_olurida_se_bismark/subset_100000/subset_100000_summary.txt:Mapping efficiency:	54.2%
+./20190224_olurida_se_bismark/subset_2000000/subset_2000000_summary.txt:Mapping efficiency:	54.4%
+
+```
+
+| Reads Subset | Mapping Efficiency (%) |
+|--------------|------------------------|
+| 100000       | 54.2                   |
+| 500000       | 54.4                   |
+| 1000000      | 54.5                   |
+| 2000000      | 54,4                   |
+| 5000000      | 54.3                   |
+| 10000000     | 53.8                   |
