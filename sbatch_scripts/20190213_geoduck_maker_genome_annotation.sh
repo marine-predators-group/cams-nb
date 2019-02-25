@@ -315,14 +315,14 @@ ${snap02_gff_renamed} \
 > ${put_func_gff}
 
 ### Proteins
-${maker_functional_fasta} \
+${functional_fasta} \
 ${sp_db_annotations} \
 ${maker_blastp} \
 ${maker_prot_fasta_renamed} \
 > ${put_func_prot}
 
 ### Transcripts
-${maker_functional_fasta} \
+${functional_fasta} \
 ${sp_db_annotations} \
 ${maker_blastp} \
 ${maker_transcripts_fasta_renamed} \
