@@ -257,7 +257,7 @@ cp ${snap02_gff} ${snap02_gff_renamed}
 
 # Map IDs
 ## Change gene names
-${maker_map_ids} \
+${map_ids} \
 --prefix PGEN_ \
 --justify 8 \
 ${snap02_gff} \
