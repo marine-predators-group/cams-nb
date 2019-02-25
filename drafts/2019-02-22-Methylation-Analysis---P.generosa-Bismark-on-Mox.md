@@ -321,3 +321,48 @@ do
 done
 
 </code></pre>
+
+---
+
+#### RESULTS
+
+```
+find ./20190224_pgenerosa* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency" | sort -h
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_10000000/subset_10000000_summary.txt:Mapping efficiency:	56.2%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_1000000/subset_1000000_summary.txt:Mapping efficiency:	56.1%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_100000/subset_100000_summary.txt:Mapping efficiency:	56.3%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_2000000/subset_2000000_summary.txt:Mapping efficiency:	56.2%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_5000000/subset_5000000_summary.txt:Mapping efficiency:	56.2%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_500000/subset_500000_summary.txt:Mapping efficiency:	56.1%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_10000000/subset_10000000_summary.txt:Mapping efficiency:	53.9%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_1000000/subset_1000000_summary.txt:Mapping efficiency:	53.9%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_100000/subset_100000_summary.txt:Mapping efficiency:	54.1%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_2000000/subset_2000000_summary.txt:Mapping efficiency:	53.9%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_5000000/subset_5000000_summary.txt:Mapping efficiency:	54.0%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_500000/subset_500000_summary.txt:Mapping efficiency:	53.8%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_10000000/subset_10000000_summary.txt:Mapping efficiency:	49.7%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_1000000/subset_1000000_summary.txt:Mapping efficiency:	49.7%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_100000/subset_100000_summary.txt:Mapping efficiency:	49.8%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_2000000/subset_2000000_summary.txt:Mapping efficiency:	49.7%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_5000000/subset_5000000_summary.txt:Mapping efficiency:	49.8%
+./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_500000/subset_500000_summary.txt:Mapping efficiency:	49.7%
+```
+
+| Genome | Reads Subset | Mapping Efficiency (%) |
+|--------|--------------|------------------------|
+| v070   | 100000       | 56.3                   |
+| v070   | 500000       | 56.1                   |
+| v070   | 1000000      | 56.1                   |
+| v070   | 2000000      | 56.2                   |
+| v070   | 5000000      | 56.2                   |
+| v070   | 10000000     | 56.2                   |
+| v071   | 100000       | 54.1                   |
+| v071   | 500000       | 53.8                   |
+| v071   | 1000000      | 53.9                   |
+| v071   | 2000000      | 53.9                   |
+| v071   | 5000000      | 54.0                   |
+| v071   | 10000000     | 53.9                   |
+| v073   | 100000       | 49.8                   |
+| v073   | 500000       | 49.7                   |
+| v073   | 1000000      | 49.7                   |
+| v073   | 2000000      | 49.7                   |
