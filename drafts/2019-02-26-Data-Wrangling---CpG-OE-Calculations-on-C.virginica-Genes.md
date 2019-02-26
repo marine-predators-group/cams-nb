@@ -58,3 +58,28 @@ do
   && mv ${tmp} ID_CpG_labelled_all
 done
 </code></pre>
+
+---
+
+All data was ```rsync```'d to my folder on Gannet.
+
+#### RESULTS
+
+Output folder:
+
+- [20190225_cpg_oe/](http://gannet.fish.washington.edu/Atumefaciens/20190225_cpg_oe/)
+
+The output folder contains a subdirectory for each of the ~90 genes that were processed. Each contains the following files (text):
+
+- ```C``` (count of Cs in sequences)
+- ```CG``` (count of CGs in sequences)
+- ```*_tab``` (FastA to tab file created with ```seqkit```)
+- ```*_tab2``` (Just sequences from each entry within the FastA)
+- ```G``` (count of Gs in sequences)
+- ```ID_CpG``` (initial CpG O/E determination - no header)
+- ```ID_CpG_labelled``` (CpG O/E determination - with header)
+- ```comb``` (Tabbed FastA with seq lengths, CG/C/G counts)
+
+The combined CpG O/E file (text):
+
+- [20190225_cpg_oe/ID_CpG_labelled_all](http://gannet.fish.washington.edu/Atumefaciens/20190225_cpg_oe/ID_CpG_labelled_all)
