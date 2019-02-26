@@ -309,21 +309,21 @@ cd ${wd}
 ## Add putative gene functions
 ### GFF
 ${functional_gff} \
-${sp_db_annotations} \
+${sp_db_blastp} \
 ${maker_blastp} \
 ${snap02_gff_renamed} \
 > ${put_func_gff}
 
 ### Proteins
 ${functional_fasta} \
-${sp_db_annotations} \
+${sp_db_blastp} \
 ${maker_blastp} \
 ${maker_prot_fasta_renamed} \
 > ${put_func_prot}
 
 ### Transcripts
 ${functional_fasta} \
-${sp_db_annotations} \
+${sp_db_blastp} \
 ${maker_blastp} \
 ${maker_transcripts_fasta_renamed} \
 > ${put_func_trans}
