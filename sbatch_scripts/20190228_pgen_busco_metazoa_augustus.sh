@@ -44,13 +44,6 @@ genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071_genome_s
 genome_index=${genome_fasta}.fai
 augustus_species=human
 
-
-## Output files
-longest_transcripts_fasta=${base_name}.longest.transcripts.fa
-longest_trascripts_fai=${longest_transcripts_fasta}.fai
-longest_transctipts_list=${base_name}.longest.list
-augustus_retrain_params=run_${base_name}_busco/augustus_output/retraining_parameters
-
 ## Save working directory
 wd=$(pwd)
 
