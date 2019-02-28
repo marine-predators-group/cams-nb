@@ -84,7 +84,7 @@ export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 # Check for FastA index file
 ## If it doesn't exist, make it.
 if [ ! -e ${genome_index} ]; then
-  ${samtools} faidx ${genome}
+  ${samtools} faidx ${genome_fasta}
 fi
 
 # Creates a list of a subset transcripts to use longest transcript for each isoform.
