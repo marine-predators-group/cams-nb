@@ -80,6 +80,13 @@ export PATH="${augustus_bin}:$PATH"
 export PATH="${augustus_scripts}:$PATH"
 export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
+
+# Check for FastA index file
+## If it doesn't exist, make it.
+if [ ! -e ${genome_index} ]; then
+  ${samtools} faidx ${genome}
+fi
+
 # Creates a list of a subset transcripts to use longest transcript for each isoform.
 ## Reduces amount of data used for training - don't need crazy amounts to properly train gene models.
 ## Eliminates duplicate transcripts which improves BUSCO analysis.
