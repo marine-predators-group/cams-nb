@@ -123,6 +123,8 @@ sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
 ## Make directories
 mkdir blastp_annotation
 mkdir interproscan_annotation
+mkdir snap01
+mkdir snap02
 
 
 ## Create Maker control files needed for running Maker, only if it doesn't already exist and then edit it.
