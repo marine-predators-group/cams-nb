@@ -79,11 +79,11 @@ cp ${busco_config_default} ${busco_config_ini}
 
 # Make Augustus directory if it doesn't exist
 if [ ! -d ${augustus_dir} ]; then
-  mkdir --parents ${augustus_config_dir}
+  mkdir --parents ${augustus_dir}
 fi
 
 # Copy Augustus config directory
-cp --preserve -r ${augustus_orig_config_dir} ${augustus_config_dir}
+cp --preserve -r ${augustus_orig_config_dir} ${augustus_dir}
 
 # Edit BUSCO config file
 ## Set paths to various programs
