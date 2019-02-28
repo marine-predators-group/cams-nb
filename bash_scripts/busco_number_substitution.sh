@@ -29,11 +29,11 @@ string=$(echo *_parameters.cfg)
 ## Saves the second to last field (```$(NF-1)```), which is that BUSCO number
 busco_num=$(awk -F"${delim}" '{print $(NF-1)}' <<< ${string})
 
-## Use rename utility to substitute new name for all corresponding files
+## Use paremeter subsitution to match pattern (designated by the '#') and replace with patter that follows the '/'
 ## E.g. produces files named ```Panopea_generosa_parameters.cfg```
 for file in BUSCO*
 do
-  mv ${file} "${file/#BUSCO_${base_name}_${busco_num}/BUSCO_${base_name}_${species}}"
+  mv ${file} "${file/#BUSCO_${base_name}_${busco_num}/${species}}"
 done
 
 ## Substitute new naming scheme into config files
