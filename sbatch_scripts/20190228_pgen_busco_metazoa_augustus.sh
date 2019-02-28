@@ -40,7 +40,7 @@ echo ${PATH} | tr : \\n >> system_path.log
 ## Input files and settings
 base_name=Pgenerosa_v071_genome_snap02.all.maker
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
-genome_fasta=Pgenerosa_v071_genome_snap02.all.fasta
+genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071_genome_snap02.all.renamed.fasta
 genome_index=${genome_fasta}.fai
 augustus_species=human
 
