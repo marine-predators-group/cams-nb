@@ -81,36 +81,6 @@ export PATH="${augustus_scripts}:$PATH"
 export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
 
-# Check for FastA index file
-## If it doesn't exist, make it.
-if [ ! -e ${genome_index} ]; then
-  ${samtools} faidx ${genome_fasta}
-fi
-
-# Creates a list of a subset transcripts to use longest transcript for each isoform.
-## Reduces amount of data used for training - don't need crazy amounts to properly train gene models.
-## Eliminates duplicate transcripts which improves BUSCO analysis.
-### Command sets two field separators (tab for genome index file and '-' for FastA).
-### Sorts in numerical reverse order on field #8 - sequence length.
-### Then sorts unique names on field #2 - gene ID.
-### Then cuts fields #1-7 and translates the spaces back to hyphens to restore original formatting.
-awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' ${genome_index} \
-| sort -k8nr,8 \
-| sort -uk2,2 \
-| cut -f1-7 -d' ' \
-| tr ' ' '-' \
-> ${longest_transctipts_list}
-
-## Create FastA from list of longeset transcripts
-while read contig
-do
-  ${samtools} faidx ${genome_index} ${contig} \
-  >> ${longest_transcripts_fasta}
-done < ${longest_transctipts_list}
-
-## Index longest transcripts FastA, for posterity.
-${samtools} faidx ${longest_transcripts_fasta}
-
 # Copy BUSCO config file
 cp ${busco_config_default} ${busco_config_ini}
 
@@ -141,7 +111,7 @@ sed -i "/^hmmsearch_path/ s%hmmsearch_path = /home/osboxes/BUSCOVM/hmmer/hmmer-3
 
 # Run BUSCO/Augustus training
 ${busco} \
---in ${longest_transcripts_fasta} \
+--in ${genome_fasta} \
 --out ${base_name} \
 --lineage_path ${busco_db} \
 --mode genome \
