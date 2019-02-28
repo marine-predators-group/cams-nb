@@ -41,8 +41,7 @@ echo ${PATH} | tr : \\n >> system_path.log
 base_name=Olurida_v081.all.maker
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
 genome_fasta=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta
-genome_index=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta.fai
-maker_gff=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.maker.all.noseqs.gff
+genome_index=${genome_fasta}.fai
 augustus_species=human
 
 
@@ -140,7 +139,3 @@ ${busco} \
 --species ${augustus_species} \
 --tarzip \
 --augustus_parameters='--progress=true'
-
-# Prep Augusts for maker_dir
-
-/gscratch/scrubbed/samwhite/outputs/20190114_oly_busco_augustus/run_Olurida_maker_busco/augustus_output/retraining_parameters
