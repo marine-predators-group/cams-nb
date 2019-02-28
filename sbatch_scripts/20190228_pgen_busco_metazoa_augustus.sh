@@ -102,7 +102,11 @@ awk -F'[\t-]' '{print $1,$2,$3,$4,$5,$6,$7,$8}' ${genome_index} \
 > ${longest_transctipts_list}
 
 ## Create FastA from list of longeset transcripts
-while read contig; do ${samtools} faidx ${genome_index} $contig >> ${longest_transcripts_fasta}; done < ${longest_transctipts_list}
+while read contig
+do
+  ${samtools} faidx ${genome_index} ${contig} \
+  >> ${longest_transcripts_fasta}
+done < ${longest_transctipts_list}
 
 ## Index longest transcripts FastA, for posterity.
 ${samtools} faidx ${longest_transcripts_fasta}
