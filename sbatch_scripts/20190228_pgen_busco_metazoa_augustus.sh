@@ -91,7 +91,7 @@ cp --preserve -r ${augustus_orig_config_dir} ${augustus_config_dir}
 ### Normally, the delimiter that most examples use is a slash "/".
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
 ### Thus, the use of % symbol instead (it could be any character that is NOT present in the expanded variable; doesn't have to be "%").
-sed -i "/^;cpu/ s/1/28/"
+sed -i "/^;cpu/ s/1/28/" "${busco_config_ini}"
 sed -i "/^tblastn_path/ s%tblastn_path = /usr/bin/%path = ${blast_dir}%" "${busco_config_ini}"
 sed -i "/^makeblastdb_path/ s%makeblastdb_path = /usr/bin/%path = ${blast_dir}%" "${busco_config_ini}"
 sed -i "/^augustus_path/ s%augustus_path = /home/osboxes/BUSCOVM/augustus/augustus-3.2.2/bin/%path = ${augustus_bin}%" "${busco_config_ini}"
