@@ -120,7 +120,7 @@ if [ ! -d mkdir ${augustus_dir} ]; then
 fi
 
 # Copy Augustus config directory
-cp -pr ${augustus_orig_config_dir} ${augustus_config_dir}
+cp --preserve -r ${augustus_orig_config_dir} ${augustus_config_dir}
 
 # Edit BUSCO config file
 ## Set paths to various programs
@@ -145,7 +145,7 @@ ${busco} \
 --out ${base_name} \
 --lineage_path ${busco_db} \
 --mode genome \
---cpu 56 \
+--cpu 28 \
 --long \
 --species ${augustus_species} \
 --tarzip \
