@@ -74,15 +74,12 @@ export PATH="${augustus_scripts}:$PATH"
 export AUGUSTUS_CONFIG_PATH="${augustus_config_dir}"
 
 
-# Make subdirectories
-mkdir --parents ${augustus_config_dir}
-
 # Copy BUSCO config file
 cp ${busco_config_default} ${busco_config_ini}
 
 # Make Augustus directory if it doesn't exist
-if [ ! -d mkdir ${augustus_dir} ]; then
-  mkdir ${augustus_dir}
+if [ ! -d ${augustus_dir} ]; then
+  mkdir --parents ${augustus_config_dir}
 fi
 
 # Copy Augustus config directory
