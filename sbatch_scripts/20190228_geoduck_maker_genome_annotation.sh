@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190122_geoduck_maker_genome_annotation
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190228_pgen_maker_v070_annotation
 
 # Load Python Mox module for Python module availability
 
