@@ -38,9 +38,9 @@ echo ${PATH} | tr : \\n >> system_path.log
 # Establish variables for more readable code
 
 ## Input files and settings
-base_name=Olurida_v081.all.maker
+base_name=Pgenerosa_v071_genome_snap02.all.maker
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
-genome_fasta=/gscratch/srlab/sam/data/O_lurida/oly_genome_assemblies/Olurida_v081/Olurida_v081.all.maker.transcripts.fasta
+genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
 genome_index=${genome_fasta}.fai
 augustus_species=human
 
