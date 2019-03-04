@@ -19,11 +19,11 @@ Synology provides a simple interface for this:
 
   - Change "Location" from Volume1 to Volume2.
 
-  The Synology will take care of the rest, but it's going to take awhile (Synology estimates it taking >24hrs!).
+The Synology will take care of the rest, but it's going to take awhile (Synology estimates it taking >24hrs!).
 
 
 
+After the data migration, then I should be able to use the Synology Storage Manager to expand Volume2 to include Volume1 and become a singlular, large storage volume.
 
 
-
-  In theory, this change of volume will not be noticeable for most of our regular usage. However, for ```rsync/ssh```, a user will now have to specify ```/volume2/web``` instead of ```/volume1/web``` like we previously did. There does not appear to be a way to change the name of the volume.
+In theory, this change of volume will not be noticeable for most of our regular usage. However, for ```rsync/ssh```, a user will now have to specify ```/volume2/web``` instead of ```/volume1/web``` like we previously did. There does not appear to be a way to change the name of the volume.
