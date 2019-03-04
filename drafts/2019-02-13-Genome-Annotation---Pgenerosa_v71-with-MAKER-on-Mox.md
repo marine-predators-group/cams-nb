@@ -363,3 +363,21 @@ ${snap02_gff_renamed} \
 > ${ips_domains}
 
 </code></pre>
+
+---
+
+#### RESULTS
+
+After all the rigamorole with fixing various script issues, this finally completed on 20190226. I think this would have finished much, much sooner if I didn't have so many small oversights in the SBATCH script.
+
+Output folder:
+
+- [20190213_geoduck_maker_genome_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190213_geoduck_maker_genome_annotation/)
+
+Final annotation GFF:
+
+ - [20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.putative_function.domain_added.gff](https://gannet.fish.washington.edu/Atumefaciens/20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.putative_function.domain_added.gff)
+
+ Supplemental InterProScan domains GFF:
+
+ - [20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.visible_ips_domains.gff](https://gannet.fish.washington.edu/Atumefaciens/20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.visible_ips_domains.gff)
