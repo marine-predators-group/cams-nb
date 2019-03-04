@@ -10,7 +10,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-This is a quick and dirty (i.e. no adaptor/quality trimming) assessment of all of our _Ostrea lurida_ bisulfite sequencing efforts to date in order to get a rough idea of the methylation mapping. Ran Bismark on Mox on a series of subset of the reads:
+This is a quick and dirty (i.e. no adaptor/quality trimming) assessment of all of our _Ostrea lurida_ bisulfite sequencing efforts to date in order to get a rough idea of the methylation mapping, per [this GitHub issue](https://github.com/RobertsLab/resources/issues/589). Ran Bismark on Mox on a series of subset of the reads:
 
 - 100k
 - 500k
