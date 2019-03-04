@@ -326,6 +326,22 @@ done
 
 #### RESULTS
 
+Output folders:
+
+- [20190224_pgenerosa_rrbs_se_bismark/](http://gannet.fish.washington.edu/Atumefaciens/20190224_pgenerosa_rrbs_se_bismark/)
+
+Bedgraphs for each subset:
+
+- There is a bedgraph for each genome _and_ each subset. I will not link them all. Here're examples for each genome with the 10,000,000 subset:
+  - _v070_
+    - [20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
+  - _v071_ (>10kbp subset)
+    - [20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v071_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
+  - _v073_ (>30kbp subset)
+    - [20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
+
+
+
 ```
 find ./20190224_pgenerosa* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency" | sort -h
 ./20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v070_10000000/subset_10000000_summary.txt:Mapping efficiency:	56.2%

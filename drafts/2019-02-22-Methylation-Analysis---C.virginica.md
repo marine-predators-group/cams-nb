@@ -317,6 +317,15 @@ done
 
 #### RESULTS
 
+Output folder:
+
+- [20190222_cvirginica_se_bismark/](http://gannet.fish.washington.edu/Atumefaciens/20190222_cvirginica_se_bismark/)
+
+Bedgraphs for each subset:
+
+- There is a bedgraph for each single-end subset. I will not link them all. Here's an example for the 10,000,000 subset:
+  - [20190222_cvirginica_se_bismark/subset_10000000/cvir_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190222_cvirginica_se_bismark/subset_10000000/cvir_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
+
 ```
 find ./*_cvirginica_* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency"
 ./20190222_cvirginica_se_bismark/subset_500000/subset_500000_summary.txt:Mapping efficiency:	18.6%
