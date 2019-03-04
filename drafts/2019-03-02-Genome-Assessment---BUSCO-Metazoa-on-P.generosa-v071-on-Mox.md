@@ -23,10 +23,10 @@ Extracted the FastA from the GFF with the following script:
 # User needs to set GFF path and desired output file name
 #-----------------------------------
 # Set path to GFF
-gff=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071.all.gff
+gff=/gscratch/scrubbed/samwhite/outputs/20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.putative_function.domain_added.gff
 
 # Set path to desired FastA file output
-fasta_out=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071_all.fasta
+fasta_out=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v071_genome_snap02.all.renamed.fasta
 
 #-----------------------------------
 
