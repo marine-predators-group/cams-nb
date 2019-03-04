@@ -368,7 +368,7 @@ ${snap02_gff_renamed} \
 
 #### RESULTS
 
-After all the rigamorole with fixing various script issues, this finally completed on 20190226. I think this would have finished much, much sooner if I didn't have so many small oversights in the SBATCH script.
+After all the rigamarole with fixing various script issues, this finally completed on 20190226. I think this would have finished much, much sooner if I didn't have so many small oversights in the SBATCH script.
 
 Output folder:
 
