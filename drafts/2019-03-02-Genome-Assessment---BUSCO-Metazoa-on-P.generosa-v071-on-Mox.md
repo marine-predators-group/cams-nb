@@ -12,8 +12,9 @@ tags:
 categories:
   - Miscellaneous
 ---
+Ran [BUSCO](https://busco.ezlab.org/) on our completed annotation of the [P.generosa v071 genome] (GFF)(https://gannet.fish.washington.edu/Atumefaciens/20190213_geoduck_maker_genome_annotation/Pgenerosa_v071_genome_snap02.all.renamed.putative_function.domain_added.gff) (subset of sequences >10kbp). This provides a nice metric on how "complete" a genome assembly (or transcriptome) is. Additionally, BUSCO is tied in with [Augustus](http://augustus.gobics.de/) for gene prediction and generates _ab initio_ gene models. With that said, since I just want to evaluate the completeness of this particular genome assembly, I'll be using the annotated genome generated through two rounds of [SnAP](https://github.com/KorfLab/SNAP) gene prediction. Otherwise, I'd use the initial MAKER annotations to generate an Augustus gene model that could be used in conjuction with the SNAP models (I'll likely do this at a later date).
 
-Extracted the FastA from the GFF with the following script:
+Firstly, I needed a FastA as input for BUSCO, so I extracted the FastA from the GFF with the following script:
 
 <pre><code>
 #!/bin/env bash
@@ -45,6 +46,17 @@ awk 'BEGIN{min=${begin_fastas_line};max=total_records} \
 > ${fasta_out}
 
 </code></pre>
+
+Then, I ran BUSCO using two different species with the same BUSCO database (```metazoa_odb9```):
+
+- Human
+- fly (BUSCO default)
+
+I simply did this to get an idea of what impact species selection might have on BUSCO analysis.
+
+Here are the two SBATCH scripts submitted to Mox for each of the two species.
+
+---
 
 Human SBATCH script:
 
@@ -298,6 +310,8 @@ ${busco} \
 
 #### RESULTS
 
+Both runs took ~16hrs each to complete.
+
 Human output folder:
 
 - [20190228_pgen_busco_metazoa_augustus/](http://gannet.fish.washington.edu/Atumefaciens/20190228_pgen_busco_metazoa_augustus/)
@@ -353,3 +367,5 @@ Fly short summary:
 	178	Missing BUSCOs (M)
 	978	Total BUSCO groups searched
 </code></pre>
+
+Overall, the species selection seems to have minimal impact on the analysis. Both sets of analyses yield nearly identical results, however, fly yields three additional complete BUSCOs, but they're duplicated.
