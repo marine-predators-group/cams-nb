@@ -340,7 +340,7 @@ Bedgraphs for each subset:
   - _v073_ (>30kbp subset)
     - [20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190224_pgenerosa_rrbs_se_bismark/subset_Pgenerosa_v073_10000000/pgen_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
 
-
+Code used to pull mapping efficiencies:
 
 ```
 find ./20190224_pgenerosa* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency" | sort -h
@@ -387,10 +387,6 @@ find ./20190224_pgenerosa* -name "subset*.txt" -print0 | xargs -0 grep "Mapping 
 
 
 ---
-
-```
-
-```
 
 
 | Genome | Read Type (PE or SE) | Reads Subset | C methylated in CpG context (%) |

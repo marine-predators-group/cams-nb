@@ -167,6 +167,8 @@ Bedgraphs for each subset:
 - There is a bedgraph for each single-end subset. I will not link them all. Here's an example for the 10,000,000 subset:
   - [20190224_olurida_se_bismark/subset_10000000/olur_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz](http://gannet.fish.washington.edu/Atumefaciens/20190224_olurida_se_bismark/subset_10000000/olur_bsseq_all_R1_bismark_bt2.deduplicated.bedGraph.gz)
 
+Code used to pull mapping efficiencies:
+
 ```
 find ./*_olurida_* -name "subset*.txt" -print0 | xargs -0 grep "Mapping efficiency"
 ./20190224_olurida_se_bismark/subset_500000/subset_500000_summary.txt:Mapping efficiency:	54.4%
