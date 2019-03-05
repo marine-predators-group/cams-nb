@@ -18,6 +18,16 @@ categories:
 
 I'm not entirely sure how long this will take to run, but initial glance at the output indicates that it is unable to use the two nodes I requested (as it has a message about only using maximum of 28 threads), so it will only use a single node, even though this job has reserved two nodes (whoops!).
 
+Ran with the following:
+
+Species:
+
+- human
+
+BUSCO database:
+
+- ```eukaryota_odb9```
+
 SBATCH script (GitHub):
 
 - [20190114_oly_busco_augustus.sh
@@ -152,3 +162,25 @@ Output folder:
 
 BUSCO config file (txt)
 - [20190114_oly_busco_augustus/config.ini](https://gannet.fish.washington.edu/Atumefaciens/20190114_oly_busco_augustus/config.ini)
+
+BUSCO short summary file (txt):
+
+- [20190114_oly_busco_augustus/run_Olurida_maker_busco/short_summary_Olurida_maker_busco.txt](https://gannet.fish.washington.edu/Atumefaciens/20190114_oly_busco_augustus/run_Olurida_maker_busco/short_summary_Olurida_maker_busco.txt)
+
+<pre><code>
+# BUSCO version is: 3.0.2
+# The lineage dataset is: eukaryota_odb9 (Creation date: 2016-11-02, number of species: 100, number of BUSCOs: 303)
+# To reproduce this run: python /gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py -i Olurida_v081.all.maker.transcripts1000.fasta -o Olurida_maker_busco -l /gscratch/srlab/sam/data/databases/BUSCO/eukaryota_odb9/ -m genome -c 56 --long -z -sp human --augustus_parameters '--progress=true'
+#
+# Summarized benchmarking in BUSCO notation for file Olurida_v081.all.maker.transcripts1000.fasta
+# BUSCO was run in mode: genome
+
+	C:32.1%[S:31.4%,D:0.7%],F:12.5%,M:55.4%,n:303
+
+	97	Complete BUSCOs (C)
+	95	Complete and single-copy BUSCOs (S)
+	2	Complete and duplicated BUSCOs (D)
+	38	Fragmented BUSCOs (F)
+	168	Missing BUSCOs (M)
+	303	Total BUSCO groups searched
+</code></pre>
