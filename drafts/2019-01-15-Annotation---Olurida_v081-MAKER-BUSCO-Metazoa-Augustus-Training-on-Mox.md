@@ -189,3 +189,5 @@ BUSCO short summary file (txt):
 	521	Missing BUSCOs (M)
 	978	Total BUSCO groups searched
 </code></pre>
+
+Using the ```metazoa_odb9``` BUSCO database vs the ```eukaryota_odb9``` database results in an increase in complete BUSCOs (36.2% vs 32.1%), so selecting the correct database is certainly important. With that said, this BUSCO analysis strongly implies that this genome assembly is far from complete and likely warrants further sequencing.
