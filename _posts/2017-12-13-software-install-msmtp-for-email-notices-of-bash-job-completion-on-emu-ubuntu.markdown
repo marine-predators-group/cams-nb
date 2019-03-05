@@ -28,11 +28,7 @@ To get this going, I mainly followed this [msmtp ArchWiki guide.](https://wiki.a
 
 #### Step 1. Installed a mail server:
 
-
-
-
-    
-    <code>sudo apt-get install sendmail</code>
+<code>sudo apt-get install sendmail</code>
 
 
 
@@ -40,11 +36,7 @@ To get this going, I mainly followed this [msmtp ArchWiki guide.](https://wiki.a
 
 #### Step 2. Installed `msmtp`:
 
-
-
-
-    
-    <code>sudo apt-get install msmtp</code>
+<code>sudo apt-get install msmtp</code>
 
 
 
@@ -56,7 +48,7 @@ To get this going, I mainly followed this [msmtp ArchWiki guide.](https://wiki.a
 
 The original contents of the file for testing were:
 
-[code lang=text]
+<pre><code>
        # Example for a user configuration file ~/.msmtprc
        #
        # This file focuses on TLS and authentication. Features not used here include
@@ -92,7 +84,7 @@ The original contents of the file for testing were:
        password myuwpassword
 
        account default : uw
-[/code]
+</code></pre>
 
 This is a configuration to allow emails to get sent via the Univ. of Washington email servers. Yes, I currently had UW password saved in this file, but will be addressing this issue below.
 
@@ -100,23 +92,12 @@ This is a configuration to allow emails to get sent via the Univ. of Washington 
 
 #### Step 4. Changed permissions on `~/.msmtprc` to be readable/writable only by me (important, particularly if you've stored your password in this file!):
 
-
-
-
-    
-    <code>chmod 600 ~/.msmtprc</code>
-
-
-
+<code>chmod 600 ~/.msmtprc</code>
 
 
 #### Step 5. Assigned `sendmail` to use `msmtp` with the `set` command (this sets the following command as a [positional parameter](https://www.gnu.org/software/bash/manual/html_node/Positional-Parameters.html) by adding to the `/etc/mail.rc` file:
 
-
-
-
-    
-    <code>echo "set sendmail=/usr/bin/msmtp" | sudo tee -a /etc/mail.rc</code>
+<code>echo "set sendmail=/usr/bin/msmtp" | sudo tee -a /etc/mail.rc</code>
 
 
 
@@ -127,10 +108,7 @@ This command pipers the output of `echo` to `sudo` and uses `tee -a` to append t
 #### Step 5. Send a test email:
 
 
-
-
-    
-    <code>echo "Job complete!" | msmtp myuwemail@uw.edu</code>
+<code>echo "Job complete!" | msmtp myuwemail@uw.edu</code>
 
 
 
@@ -142,9 +120,7 @@ To use it in your workflow, you'd append that command to the end of any Bash com
 
 Example:
 
-
-    
-    <code>echo "This counts as a command"; echo "Job complete!" | msmtp myuwemail@uw.edu</code>
+<code>echo "This counts as a command"; echo "Job complete!" | msmtp myuwemail@uw.edu</code>
 
 
 
@@ -163,9 +139,6 @@ Anyway, not bad! However, we want to make this a bit nicer and more secure.
 ### Improve security:
 
 
-
-
-
 #### Step 1. Generate a GPG Key:
 
 
@@ -180,11 +153,7 @@ Technically, this is does not follow proper security protocols, but this is bett
 
 #### Step 2. Create an encrypted password file:
 
-
-
-
-    
-    <code>gpg --encrypt -o ~/.msmtp-password.gpg -r youremailaddress -</code>
+<code>gpg --encrypt -o ~/.msmtp-password.gpg -r youremailaddress -</code>
 
 
 
@@ -195,16 +164,13 @@ After entering that, type _your UW email password_(NOTE: You will not receive a 
 #### Step 3. Add the following line to your `~/.msmtprc` file:
 
 
-
-
-    
-    <code>passwordeval    "gpg --quiet --for-your-eyes-only --no-tty --decrypt ~/.msmtp-password.gpg"</code>
+<code>passwordeval    "gpg --quiet --for-your-eyes-only --no-tty --decrypt ~/.msmtp-password.gpg"</code>
 
 
 
 Here's what the file looks like now:
 
-[code lang=text]
+<pre><code>
        # Example for a user configuration file ~/.msmtprc
        #
        # This file focuses on TLS and authentication. Features not used here include
@@ -243,17 +209,14 @@ Here's what the file looks like now:
 
        account default : uw
 
-[/code]
+</code></pre>
 
 
 
 #### Step 4. Change permissions on `~/.msmtp-password.gpg` so it's only readable/writable by you:
 
 
-
-
-    
-    <code>chmod 600 ~/.msmtp-password.gpg</code>
+<code>chmod 600 ~/.msmtp-password.gpg</code>
 
 
 
@@ -262,10 +225,7 @@ Here's what the file looks like now:
 #### Step 5. Send a test email like before:
 
 
-
-
-    
-    <code>echo "Job complete!" | msmtp myuwemail@uw.edu</code>
+<code>echo "Job complete!" | msmtp myuwemail@uw.edu</code>
 
 
 
@@ -283,31 +243,23 @@ That's it for security.
 
 
 
-
-
 #### Step 1. Create `~/.default_subject.mail` and add the following lines to the file (substitute your own email address):
 
 
 
-[code lang=text]
+<pre><code>
 To: myuwemail@uw.edu
 From: [EMU]
 Subject: JOB COMPLETE!
 
-[/code]
+</code></pre>
 
 Feel free to change the Subject and/or From info to whatever you'd like.
 
 
 
 #### Step 2. Send message using `~/.default_subject.mail`:
-
-
-
-
-    
-    <code>cat ~/.default_subject.mail | msmtp myuwemail@uw.edu
-    </code>
+<code>cat ~/.default_subject.mail | msmtp myuwemail@uw.edu</code>
 
 
 
@@ -335,24 +287,21 @@ Appending those lines is going to be difficult to remember, is annoying to type 
 
 Add the following lines to the end of your `~/.bashrc` file:
 
-[code lang=text]
+<pre><code>
 # Email address
 export EMAIL=myuwemail@uw.edu
-[/code]
+</code></pre>
 
 Your email address is now saved in the variable `$EMAIL`. You will need to use the following command to load that information:
 
 
-    
-    <code>source ~/.bashrc</code>
+<code>source ~/.bashrc</code>
 
 
 
 Verify that it worked:
 
-
-    
-    <code>echo "$EMAIL"</code>
+<code>echo "$EMAIL"</code>
 
 
 
@@ -363,24 +312,16 @@ That should spit out your email address and is ready to be used!
 #### Step 2. Add alias for full mail command to `~/.bash_aliases` file:
 
 
-
-
-    
-    <code>echo "alias emailme='cat ~/.default_subject.mail | msmtp "$EMAIL"'" >> ~/.bash_aliases</code>
+<code>echo "alias emailme='cat ~/.default_subject.mail | msmtp "$EMAIL"'" >> ~/.bash_aliases</code>
 
 
 
 Verify that it worked:
 
-
-    
-    <code>source ~/.bash_aliases</code>
+<code>source ~/.bash_aliases</code>
 
 
-
-
-    
-    <code>emailme</code>
+<code>emailme</code>
 
 
 
