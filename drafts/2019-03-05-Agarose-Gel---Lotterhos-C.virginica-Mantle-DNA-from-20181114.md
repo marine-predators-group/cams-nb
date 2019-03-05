@@ -26,3 +26,28 @@ The idea being that the HighRange ladder would handle high integrity gDNA molecu
 ---
 
 #### RESULTS
+
+Wish I had wiped the dust off of the protective UV screen before snapping the pic...
+
+![20190305_gel_gDNA_virginica](https://github.com/RobertsLab/sams-notebook/blob/master/images/20190305_gel_gDNA_virginica.jpg?raw=true)
+
+Almost all of the samples look pretty good. The exceptions are:
+
+- 17013
+- 17176
+- 17203
+
+These three samples appear to be degraded (evidenced by lack of prominent, high molecular weight band).
+
+Also, just to add info regarding the ladders, the HighRange ladder's smallest band is ~10kbp and the largest is ~48kbp.
+
+The DNA Ladder Mix's smallest band is ~100bp and the largest is ~10kbp.
+
+The DNA Ladder Mix ran from the upper lane into the lane below it, giving the appearance of a continuous ladder; however, it is just overlapping the DNA Ladder Mix in the lane below. Additionally, the HighRange ladder did not have sufficient time to separate out in to defined bands - probably needed a couple of more hours!
+
+Will proceed with shearing tomorrow morning and then MBD enrichment.
+
+
+![GeneRuler HighRange DNA Ladder](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_GeneRuler_HighRange_DNALadder_50ug.png?raw=true)
+
+![GeneRuler DNA Ladder Mix](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
