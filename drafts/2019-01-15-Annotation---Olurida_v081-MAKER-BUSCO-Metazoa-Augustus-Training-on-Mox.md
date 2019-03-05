@@ -161,7 +161,16 @@ SBATCH script (GitHub):
 
 #### RESULTS
 
+Output folder:
 
+- [20190115_oly_busco_metazoa_augustus/](https://gannet.fish.washington.edu/Atumefaciens/20190115_oly_busco_metazoa_augustus/)
+
+BUSCO config file (txt)
+- [20190115_oly_busco_metazoa_augustus//config.ini](https://gannet.fish.washington.edu/Atumefaciens/20190115_oly_busco_metazoa_augustus/config.ini)
+
+BUSCO short summary file (txt):
+
+- [20190114_oly_busco_augustus/run_Olurida_maker_busco/short_summary_Olurida_maker_busco.txt](https://gannet.fish.washington.edu/Atumefaciens/20190115_oly_busco_metazoa_augustus/run_Olurida_maker_busco/short_summary_Olurida_maker_busco.txt)
 
 <pre><code>
 # BUSCO version is: 3.0.2
