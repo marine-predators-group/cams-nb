@@ -184,3 +184,7 @@ BUSCO short summary file (txt):
 	168	Missing BUSCOs (M)
 	303	Total BUSCO groups searched
 </code></pre>
+
+Well, this suggests this assembly is incomplete. Ideally, one would expect 100% complete BUSCOs in a complete assembly. This only has 32.1% complete BUSCOs. Might we need to do more sequencing?
+
+I'll re-run this using the ```metazoa_odb9``` BUSCO database and see how it compares.
