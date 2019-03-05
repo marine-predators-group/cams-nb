@@ -32,41 +32,40 @@ HS = heat shocked
 
 
 
-    
+
   * 2M sheared
 
-    
+
   * 4M sheared
 
-    
+
   * 6M sheared
 
-    
+
   * 2M HS sheared
 
-    
+
   * 4M HS sheared
 
-    
+
   * 6M HS sheared
 
 
 
 Results:
 
-Bioanalyzer Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-02-19_11-32-35(2).xad](2100%20expert_DNA%201000_DE72902486_2015-02-19_11-32-35%20(2).xad)
+Bioanalyzer Data File (XAD): [2100_expert_DNA_1000_DE72902486_2015-02-19_11-32-35 (2).xad](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/2100%20expert_DNA%201000_DE72902486_2015-02-19_11-32-35%20%282%29.xad)
 
 
 
-Electropherograms
+Electropherograms:
 
-[caption id="" align="alignnone" width="1032"]![](https://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)(http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg) 2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA.[/caption]
+![2100 Bioanalyzer electropherograms of Claire's sheared C.gigas DNA](http://eagle.fish.washington.edu/Arabidopsis/Bioanalyzer%20Data/20150219_bioanalyzerDNA1000_claireGigasHSsheared_elecrophergrams.jpg)
 
 
 
 Spreadsheet: [2100 expert_DNA 1000_DE72902486_2015-02-19_11-32-35_Results_001](https://docs.google.com/spreadsheets/d/1WQTZcRZ9vLjgKus3SK1Wu1JkeJN7-oPFyK-H8HiY-aU/edit?usp=sharing)
 
-``
 
 
 
@@ -81,5 +80,3 @@ UPDATE 20150226:
 Sample volumes were measured and total quantity (ng) of DNA in each sample were added to the spreadsheet above.
 
 Based on the quantities of DNA we have for each sample, will discuss sequencing options (e.g. MBD or not, self-prepare libraries or not, etc) with Steven.
-
-
