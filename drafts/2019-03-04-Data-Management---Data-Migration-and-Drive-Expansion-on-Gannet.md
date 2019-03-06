@@ -7,7 +7,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-A little while ago, we installed some additional hard drives in Gannet (Synology RS3618XS) with the intention of expanding the total storage space. However, the original set of HDDs were set up as RAID10. As it turns out, RAID10 configurations cannot be expanded! So, the new set of HDDs were configured as a separate volume (Volume 2) in a RAID5 configuration. After backing up the ```/volume1/web``` directory (via ```rsync```) to our UW Google Drive, I begane the data migration.
+A little while ago, we installed some additional hard drives in Gannet (Synology RS3618XS) with the intention of expanding the total storage space. However, the original set of HDDs were set up as RAID10. As it turns out, RAID10 configurations cannot be expanded! So, the new set of HDDs were configured as a separate volume (Volume 2) in a RAID6 configuration. After backing up the ```/volume1/web``` directory (via ```rsync```) to our UW Google Drive, I begane the data migration.
 
 Synology provides a simple interface for this:
 
@@ -19,11 +19,16 @@ Synology provides a simple interface for this:
 
   - Change "Location" from Volume1 to Volume2.
 
-The Synology will take care of the rest, but it's going to take awhile (Synology estimates it taking >24hrs!).
+![](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190304_gannet_migration_01.png?raw=true)
+
+This process took a couple of days.
 
 
+After the data migration, then I removed Volume1 and Storage Pool1.
 
-After the data migration, then I should be able to use the Synology Storage Manager to expand Volume2 to include Volume1 and become a singlular, large storage volume.
+Then, restarted the Synology and used Storage Manager to add the unused disks, formerly part of Volume 1, to the only remaining storage pool, Storage Pool2. Re-installed and started the Web Station app to re-enable access to the folder indexes for our web folders and now we're up and running again!
+
+The expansion of the storage pool to include the "newly added" disks will take quite a bit of time, but, in the end, we should end up with ~78TB of total storage space, in a RAID6 configuration.
 
 
 In theory, this change of volume will not be noticeable for most of our regular usage. However, for ```rsync/ssh```, a user will now have to specify ```/volume2/web``` instead of ```/volume1/web``` like we previously did. There does not appear to be a way to change the name of the volume.
