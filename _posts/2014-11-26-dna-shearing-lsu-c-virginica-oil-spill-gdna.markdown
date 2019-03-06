@@ -31,4 +31,4 @@ Low power
 
 Target average fragment size is ~350bp.
 
-See tomorrow (20141126) for the gel.
+See tomorrow ([20141127](https://robertslab.github.io/sams-notebook/2014/11/27/methylated-dna-enrichment-mbd-lsu-c-virginica-oil-spill-gdna.html)) for the gel.
