@@ -12,7 +12,7 @@ categories:
 ---
 In preparation for some a [quick and "dirty" bisulfite analysis](https://github.com/RobertsLab/resources/issues/589), I needed to make bisulfite genomes with, and for, Bismark to use.
 
-SBATCH script contains all details regarding which genome was used as input and which software versions were used to proudce the subsequent bisulfite genome:
+SBATCH script contains all details regarding which genome was used as input and which software versions were used to produce the subsequent bisulfite genome:
 
 - [20190221_cgigas_genome_prep_bismark.sh](http://gannet.fish.washington.edu/Atumefaciens/20190221_cgigas_genome_prep_bismark/20190221_cgigas_genome_prep_bismark.sh)
 
@@ -72,7 +72,7 @@ ${bismark_dir}/bismark_genome_preparation \
 
 Output folder was folder, ```rsync```ed to the Owl [genomic databank directory](http://owl.fish.washington.edu/halfshell/genomic-databank/), and gzipped:
 
-- [Pgenerosa_v070_bisulfite.tar.gz](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070_bisulfite.tar.gz)
+- []()
 
 This contains all the necessary files for use with Bismark, as well as a ```readme``` file and a copy of the SBATCH script.
 
