@@ -18,7 +18,11 @@ _Crassostrea virginica_ mantle gDNA that had previously been [isolated on 201811
 
 #### RESULTS
 
+Date files (XAD - requires Windows and 2100 Expert software):
 
+- [2100 expert_DNA 2012000_DE72902486_2019-03-06_09-33-02.xad](http://owl.fish.washington.edu/Athaliana/20190306_virginica_bioanlyzer/2100%20expert_DNA%2012000_DE72902486_2019-03-06_09-33-02.xad)
+
+- [2100 expert_DNA 12000_DE72902486_2019-03-06_10-12-36.xad](http://owl.fish.washington.edu/Athaliana/20190306_virginica_bioanlyzer/2100%20expert_DNA%2012000_DE72902486_2019-03-06_10-12-36.xad)
 
 Electropherograms:
 
