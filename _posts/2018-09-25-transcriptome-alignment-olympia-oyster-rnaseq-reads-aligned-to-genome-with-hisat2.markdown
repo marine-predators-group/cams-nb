@@ -41,7 +41,7 @@ PERFORM GENOME INDEXING & ALIGNMENT
 - [20180925_oly_RNAseq_genome_hisat2.sh](https://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_oly_RNAseq_genome_hisat2.sh)
 
 SORT & INDEX ALIGNMENT OUTPUT
-- [20180925_oly_RNAseq_genome_sort_bam.sh](20180925_oly_RNAseq_genome_hisat2.sh)
+- [20180925_oly_RNAseq_genome_sort_bam.sh](https://owl.fish.washington.edu/Athaliana/20180925_oly_RNAseq_genome_hisat2/20180925_oly_RNAseq_genome_sort_bam.sh)
 
 
 
