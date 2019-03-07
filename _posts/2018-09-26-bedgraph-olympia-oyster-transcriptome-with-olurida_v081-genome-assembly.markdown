@@ -36,12 +36,12 @@ SBATCH script file:
 
 
 
-    
-    <code>
+
+<pre><code>
     #!/bin/bash
     ## Job Name
     #SBATCH --job-name=20180926_oly_bedgraphs
-    ## Allocation Definition 
+    ## Allocation Definition
     #SBATCH --account=srlab
     #SBATCH --partition=srlab
     ## Resources
@@ -56,29 +56,29 @@ SBATCH script file:
     #SBATCH --mail-user=samwhite@uw.edu
     ## Specify the working directory for this job
     #SBATCH --workdir=/gscratch/scrubbed/samwhite/20180926_oly_RNAseq_bedgraphs
-    
+
     # Load Python Mox module for Python module availability
-    
+
     module load intel-python3_2017
-    
+
     # Document programs in PATH (primarily for program version ID)
-    
+
     date >> system_path.log
     echo "" >> system_path.log
     echo "System PATH for $SLURM_JOB_ID" >> system_path.log
     echo "" >> system_path.log
     printf "%0.s-" {1..10} >> system_path.log
     echo ${PATH} | tr : \\n >> system_path.log
-    
+
     # Set sorted transcriptome assembly bam file
     oly_transcriptome_bam=/gscratch/scrubbed/samwhite/20180925_oly_RNAseq_genome_hisat2/20180925_Olurida_v081.sorted.bam
-    
-    
+
+
     # Set program paths
     bedtools=/gscratch/srlab/programs/bedtools-2.27.1/bin
     samtools=/gscratch/srlab/programs/samtools-1.9/samtools
-    
-    
+
+
     # Create bedgraph
     ## Reports depth at each position (-bg in bedgraph format) and report regions with zero coverage (-a).
     ## Screens for portions of reads coming from exons (-split).
@@ -89,7 +89,7 @@ SBATCH script file:
     -split \
     -trackline \
     > 20180926_oly_RNAseq.bedgraph
-    </code>
+</code></pre>
 
 
 
@@ -125,4 +125,4 @@ Bedgraph file (1.2GB):
 
 Loaded in to IGV to verify things looked OK:
 
-![](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_IGV.png)
+![Screencap of bedgraph in IGV](https://owl.fish.washington.edu/Athaliana/20180926_oly_RNAseq_coverage_IGV.png)
