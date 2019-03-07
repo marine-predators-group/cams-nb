@@ -72,7 +72,7 @@ ${bismark_dir}/bismark_genome_preparation \
 
 Output folder ```rsync```ed to the Owl [genomic databank directory](http://owl.fish.washington.edu/halfshell/genomic-databank/), and gzipped:
 
-- [Crassostrea_gigas.oyster_v9.dna_sm.toplevel.bisulfite.tar.gz](http://owl.fish.washington.edu/halfshell/genomic-databank/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.bisulfite.tar.gz)
+- [Crassostrea_gigas.oyster_v9.dna_sm.toplevel_bisulfite.tar.gz](http://owl.fish.washington.edu/halfshell/genomic-databank/Crassostrea_gigas.oyster_v9.dna_sm.toplevel_bisulfite.tar.gz)
 
 This contains all the necessary files for use with Bismark, as well as a ```readme``` file and a copy of the SBATCH script.
 
