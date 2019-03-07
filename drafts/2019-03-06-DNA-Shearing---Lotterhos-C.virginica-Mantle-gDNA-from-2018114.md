@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DNA Shearing - Lotterhos C.virginica Mantle gDNA from 2018114
+title: DNA Shearing & Bioanalyzer - Lotterhos C.virginica Mantle gDNA from 2018114
 date: '2019-03-06 15:26'
 tags:
   - gDNA
