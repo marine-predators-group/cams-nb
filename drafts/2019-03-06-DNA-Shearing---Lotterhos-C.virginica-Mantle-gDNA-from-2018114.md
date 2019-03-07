@@ -13,6 +13,24 @@ categories:
 ---
 _Crassostrea virginica_ mantle gDNA that had previously been [isolated on 20181114](https://robertslab.github.io/sams-notebook/2018/11/14/DNA-Isolation-and-Quantification-Lotterhos-C.virginica-Mantle-DNA.html) was evaluated for integrity via agaroase gel [yesterday (20190305)](https://robertslab.github.io/sams-notebook/2019/03/05/Agarose-Gel-Lotterhos-C.virginica-Mantle-DNA-from-20181114.html). Everything looked pretty good, so proceeded with shearing in preparation for MBD enrichment.
 
+Aliquoted 2500ng of DNA in a final volume of 100uL of each sample in 0.5mL snap cap (polypropylene) tubes for shearing in the Seeb Lab sonicator (Diagenode Bioruptor 300) with the following settings:
+
+- 30 cycles
+
+- 30 seconds on
+
+- 30 seconds off
+
+![Cycle settings on Diagenode Bioruptor for DNA shearing](https://github.com/RobertsLab/sams-notebook/blob/master/images/20190306_bioruptor_settings_DNA_shearing.jpg?raw=true)
+
+Calculations for DNA dilutions are here (Google Sheet):
+
+- [Roberts_2017AdultExposureSampleInfo](https://docs.google.com/spreadsheets/d/1cDLmp6jKf37gnPTwHDR07dNt-t3_jzGE2TC2afagouM/edit?usp=sharing)
+
+Ideally, this will shear DNA to a target size around 300bp.
+
+After shearing, ran all samples on the Bionalyzer 2100 (Agilent) using a DNA 12000 chip according to manufacturer's protocol.
+
 
 ---
 
