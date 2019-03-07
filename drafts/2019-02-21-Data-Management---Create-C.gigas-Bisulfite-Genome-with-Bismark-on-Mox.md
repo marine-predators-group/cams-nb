@@ -70,9 +70,9 @@ ${bismark_dir}/bismark_genome_preparation \
 
 #### RESULTS
 
-Output folder was folder, ```rsync```ed to the Owl [genomic databank directory](http://owl.fish.washington.edu/halfshell/genomic-databank/), and gzipped:
+Output folder ```rsync```ed to the Owl [genomic databank directory](http://owl.fish.washington.edu/halfshell/genomic-databank/), and gzipped:
 
-- []()
+- [Cvirginica_v300](http://owl.fish.washington.edu/halfshell/genomic-databank/Cvirginica_v300.bisulfite.tar.gz)
 
 This contains all the necessary files for use with Bismark, as well as a ```readme``` file and a copy of the SBATCH script.
 
