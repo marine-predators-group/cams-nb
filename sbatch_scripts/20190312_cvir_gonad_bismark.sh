@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/2019312_cvir_gonad_bismark.sh
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/2019312_cvir_gonad_bismark
 
 # Load Python Mox module for Python module availability
 
@@ -36,7 +36,7 @@ wd=$(pwd)
 bismark_dir="/gscratch/srlab/programs/Bismark-0.19.0"
 bowtie2_dir="/gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64/"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
-reads_dir="/gscratch/scrubbed/samwhite/data/C_virginica/BSseq/"
+reads_dir="/gscratch/srlab/sam/data/C_virginica/bsseq"
 
 ## genomes
 
