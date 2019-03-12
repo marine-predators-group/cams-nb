@@ -19,7 +19,7 @@ ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virgini
 
 SBATCH script contains all details regarding which genome was used as input and which software versions were used to produce the subsequent bisulfite genome:
 
-- [20190312_cvir_genome_prep_bismark.sh]()
+- [20190312_cvir_genome_prep_bismark.sh](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_genome_prep_bismark/20190312_cvir_genome_prep_bismark.sh)
 
 <pre><code>
 #!/bin/bash
