@@ -47,6 +47,8 @@ R1="${wd}/cvir_bsseq_all_pe_R1.fastq.gz"
 R2="${wd}/cvir_bsseq_all_pe_R2.fastq.gz"
 
 ## FastQ files lists
+### FastQ files were previously trimmed in preparation for use with Bismark:
+### https://robertslab.github.io/sams-notebook/2018/04/11/trimgalorefastqcmultiqc-trim-10bp-53-ends-c-virginica-mbd-bs-seq-fastq-data.html
 R1_list="${wd}/cvir_bsseq_pe_all_R1.list"
 R2_list="${wd}/cvir_bsseq_pe_all_R2.list"
 
