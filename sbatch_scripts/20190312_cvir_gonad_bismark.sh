@@ -120,14 +120,14 @@ do
 done
 
 # Concatenate R1 reads and generate lists of FastQs
-for fastq in ${reads_dir}*R1*.gz
+for fastq in ${reads_dir}/*R1*.gz
 do
   echo ${fastq} >> ${R1_list}
   cat ${fastq} >> ${R1}
 done
 
 # Concatenate R2 reads and generate lists of FastQs
-for fastq in ${reads_dir}*R2*.gz
+for fastq in ${reads_dir}/*R2*.gz
 do
   echo ${fastq} >> ${R2_list}
   cat ${fastq} >> ${R2}
