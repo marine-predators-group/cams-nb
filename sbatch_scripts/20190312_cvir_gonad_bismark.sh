@@ -50,31 +50,24 @@ R2="${wd}/cvir_bsseq_all_pe_R2.fastq.gz"
 R1_list="${wd}/cvir_bsseq_pe_all_R1.list"
 R2_list="${wd}/cvir_bsseq_pe_all_R2.list"
 
-## Save FastQ files to arrays
+# Initialize variables
+total_reads=0
+avg_reads=0
+half_avg_reads=0
+half_total_reads=0
+reads_set_array=()
 R1_array=()
 R2_array=()
+
+
+## Save FastQ files to arrays
 R1_array=(${reads_dir}/*_R1_*.fq.gz)
 R2_array=(${reads_dir}/*_R2_*.fq.gz)
 
-# Number of libraries
+# Number of libraries by counting elements in array
 num_libs=$(echo ${#R1_array[@]})
 
-
-# Set total reads to zero
-total_reads=0
-
-# Set average reads to zero
-avg_reads=0
-
-
-half_avg_reads=0
-
-
-half_total_reads=0
-
-
-
-reads_set_array=()
+# Add names to array
 reads_set_names_array=("avg_reads" "half_avg_reads" "half_total_reads" "total_reads")
 
 # Check for existence of previous concatenation
