@@ -70,3 +70,15 @@ ${bismark_dir}/bismark_genome_preparation \
 --verbose ${genome}
 
 </code></pre>
+
+---
+
+#### RESULTS
+
+Output folder ```rsync```ed to the Owl [genomic databank directory](http://owl.fish.washington.edu/halfshell/genomic-databank/), and gzipped:
+
+- [GCF_002022765.2_C_virginica-3.0_bisulfite.tar.gz](http://owl.fish.washington.edu/halfshell/genomic-databank/GCF_002022765.2_C_virginica-3.0_bisulfite.tar.gz)
+
+This contains all the necessary files for use with Bismark, as well as a ```readme``` file and a copy of the SBATCH script.
+
+Will add to our [Genomic Resources wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources)
