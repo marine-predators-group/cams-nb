@@ -75,7 +75,7 @@ half_total_reads=0
 
 
 reads_set_array=()
-reads_set_names_array=(avg_reads half_avg_reads half_total_reads total_reads)
+reads_set_names_array=("avg_reads" "half_avg_reads" "half_total_reads" "total_reads")
 
 # Check for existence of previous concatenation
 # If they exist, delete them
