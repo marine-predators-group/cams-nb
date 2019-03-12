@@ -59,11 +59,23 @@ R2_array=(${reads_dir}/*_R2_*.fq.gz)
 # Number of libraries
 num_libs=$(echo ${#R1_array[@]})
 
+
 # Set total reads to zero
 total_reads=0
 
 # Set average reads to zero
 avg_reads=0
+
+
+half_avg_reads=0
+
+
+half_total_reads=0
+
+
+
+reads_set_array=()
+reads_set_names_array=(avg_reads half_avg_reads half_total_reads total_reads)
 
 # Check for existence of previous concatenation
 # If they exist, delete them
@@ -92,6 +104,7 @@ avg_reads=$(echo ${total_reads}/${num_libs} | bc)
 half_avg_reads=$(echo "${avg_reads} * 0.5" | bc)
 half_total_reads=$(echo "${total_reads} * 0.5" | bc)
 
+reads_set_array=(${avg_reads} ${half_avg_reads} ${half_total_reads} ${total_reads})
 
 # Concatenate R1 reads and generate lists of FastQs
 for fastq in ${reads_dir}*R1*.gz
