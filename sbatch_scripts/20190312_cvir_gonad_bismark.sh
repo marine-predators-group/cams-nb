@@ -123,8 +123,8 @@ for set in "${!reads_set_names_array[@]}"
 do
   set_name=${reads_set_names_array[set]}
   reads_set=${reads_set_array[set]}
-  mkdir ${set_name}
-  cd ${set_name}
+  mkdir ${set_name}_bismark
+  cd ${set_name}_bismark
   ${bismark_dir}/bismark \
   --path_to_bowtie ${bowtie2_dir} \
   --genome ${genome} \
