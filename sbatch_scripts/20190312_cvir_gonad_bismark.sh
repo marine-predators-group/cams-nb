@@ -119,6 +119,8 @@ do
 done
 
 # Run bismark using bisulftie-converted genome
+# Converted genome from 20190222 by me:
+# https://robertslab.github.io/sams-notebook/2019/02/21/Data-Management-Create-C.virginica-Bisulfite-Genome-wit-Bismark-on-Mox.html
 ## Loops through the various read sets
 ## performs each analysis in respective subdirectory
 for set in "${!reads_set_names_array[@]}"
