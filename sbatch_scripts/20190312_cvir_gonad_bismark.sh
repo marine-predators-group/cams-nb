@@ -41,3 +41,11 @@ reads_dir="/gscratch/srlab/sam/data/C_virginica/bsseq"
 ## genomes
 
 genome="/gscratch/srlab/sam/data/C_virginica/genomes/"
+
+## Concatenated FastQ Files
+R1="${wd}/cvir_bsseq_all_pe_R1.fastq.gz"
+R2="${wd}/cvir_bsseq_all_pe_R2.fastq.gz"
+
+## FastQ files lists
+R1_list="${wd}/cvir_bsseq_pe_all_R1.list"
+R2_list="${wd}/cvir_bsseq_pe_all_R2.list"
