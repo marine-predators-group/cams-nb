@@ -75,7 +75,7 @@ reads_set_names_array=("avg_reads" "half_avg_reads" "half_total_reads" "total_re
 # Check for existence of previous concatenation
 # If they exist, delete them
 
-for file in ${R1} ${R1_list} ${R2} ${R2_list}
+for file in ${R1} ${R1_list} ${R2} ${R2_list} library_counts.txt
 do
   if [ -e ${file} ]; then
     rm ${file}
@@ -83,6 +83,7 @@ do
 done
 
 
+printf "%s\t%s\n\n" "LIBRARY" "COUNT" >> library_counts.txt
 
 # Determine total reads counts from all libraries
 ## Iterates through arrays and determines read counts
@@ -90,11 +91,14 @@ done
 ## Each loop adds the read1 and read2 read counts to the total
 for fastq in "${!R1_array[@]}"
 do
+  lib_count=0
   R1_fastq=${R1_array[fastq]}
   R2_fastq=${R2_array[fastq]}
   lib_name=$(echo ${fastq} | awk -F'_' '{ print $3 }')
   R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
   R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
+  lib_count=$(echo ${R1_count} + ${R2_count} | bc)
+  printf '%s\t%s\n' "library_${lib_name}" "lib_count" >> library_counts.txt
   total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
 done
 
@@ -103,8 +107,17 @@ avg_reads=$(echo ${total_reads}/${num_libs} | bc)
 half_avg_reads=$(echo "${avg_reads} * 0.5" | bc)
 half_total_reads=$(echo "${total_reads} * 0.5" | bc)
 
+
 # Store calculated values in array
 reads_set_array=(${avg_reads} ${half_avg_reads} ${half_total_reads} ${total_reads})
+
+# Loop to record counts/calculations
+for name in ${!reads_set_names_array[@]}
+do
+  count_name=${reads_set_names_array[name]}
+  counts=${reads_set_array[name]}
+  printf "%s\t%s\n" "${count_name}" "${counts}" >> library_counts.txt
+done
 
 # Concatenate R1 reads and generate lists of FastQs
 for fastq in ${reads_dir}*R1*.gz
