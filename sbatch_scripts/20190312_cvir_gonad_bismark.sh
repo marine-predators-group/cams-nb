@@ -98,7 +98,7 @@ do
   R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
   R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
   lib_count=$(echo ${R1_count} + ${R2_count} | bc)
-  printf '%s\t%s\n' "library_${lib_name}" "lib_count" >> library_counts.txt
+  printf "%s\t%s\n" library_${lib_name} ${lib_count} >> library_counts.txt
   total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
 done
 
