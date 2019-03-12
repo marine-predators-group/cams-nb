@@ -94,7 +94,7 @@ do
   lib_count=0
   R1_fastq=${R1_array[fastq]}
   R2_fastq=${R2_array[fastq]}
-  lib_name=$(echo ${fastq} | awk -F'_' '{ print $3 }')
+  lib_name=$(echo ${R1_fastq} | awk -F'_' '{ print $3 }')
   R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
   R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
   lib_count=$(echo ${R1_count} + ${R2_count} | bc)
