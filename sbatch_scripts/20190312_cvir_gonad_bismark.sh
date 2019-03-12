@@ -51,8 +51,19 @@ R1_list="${wd}/cvir_bsseq_pe_all_R1.list"
 R2_list="${wd}/cvir_bsseq_pe_all_R2.list"
 
 ## Save FastQ files to arrays
+R1_array=()
+R2_array=()
 R1_array=(${reads_dir}/*_R1_*.fq.gz)
 R2_array=(${reads_dir}/*_R2_*.fq.gz)
+
+# Number of libraries
+num_libs=$(echo ${#R1_array[@]})
+
+# Set total reads to zero
+total_reads=0
+
+# Set average reads to zero
+avg_reads=0
 
 # Check for existence of previous concatenation
 # If they exist, delete them
@@ -63,6 +74,24 @@ do
     rm ${file}
   fi
 done
+
+
+
+
+for fastq in "${!R1_array[@]}"
+do
+  R1_fastq=${R1_array[fastq]}
+  R2_fastq=${R2_array[fastq]}
+  lib_name=$(echo ${fastq} | awk -F'_' '{ print $3 }')
+  R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
+  R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
+  total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
+done
+
+avg_reads=$(echo ${total_reads}/${num_libs} | bc)
+half_avg_reads=$(echo "${avg_reads} * 0.5" | bc)
+half_total_reads=$(echo "${total_reads} * 0.5" | bc)
+
 
 # Concatenate R1 reads and generate lists of FastQs
 for fastq in ${reads_dir}*R1*.gz
