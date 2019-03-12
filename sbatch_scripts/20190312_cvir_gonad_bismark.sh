@@ -119,3 +119,66 @@ do
   echo ${fastq} >> ${R2_list}
   cat ${fastq} >> ${R2}
 done
+
+# Run bismark using bisulftie-converted genome
+for set in "${!reads_set_names_array[@]}"
+do
+  set_name=${reads_set_names_array[set]}
+  reads_set=${reads_set[set]}
+  mkdir ${set_name}
+  cd ${set_name}
+  ${bismark_dir}/bismark \
+  --path_to_bowtie ${bowtie2_dir} \
+  --genome ${genome} \
+  --score_min L,0,-0.6 \
+  -u ${reads_set} \
+  -p 28 \
+  -1 ${R1} \
+  -2 ${R2} \
+  2> ${set_name}_summary.txt
+
+  # Deduplicate bam files
+  ${bismark_dir}/deduplicate_bismark \
+  --bam \
+  --single \
+  *.bam
+
+  # Methylation extraction
+
+  ${bismark_dir}/bismark_methylation_extractor \
+  --bedgraph \
+  --counts \
+  --scaffolds \
+  --remove_spaces \
+  --multicore 28 \
+  --buffer_size 75% \
+  *deduplicated.bam
+
+  # Bismark processing report
+
+  ${bismark_dir}/bismark2report
+
+  #Bismark summary report
+
+  ${bismark_dir}/bismark2summary
+
+  # Sort files for methylkit and IGV
+
+  find *deduplicated.bam \
+  | xargs basename -s .bam \
+  | xargs -I{} ${samtools} \
+  sort \
+  --threads 28 \
+  {}.bam \
+  -o {}.sorted.bam
+
+  # Index sorted files for IGV
+  # The "-@ 28" below specifies number of CPU threads to use.
+
+  find *.sorted.bam \
+  | xargs basename -s .sorted.bam \
+  | xargs -I{} ${samtools} \
+  index -@ 28 \
+  {}.sorted.bam
+  cd ${wd}
+done
