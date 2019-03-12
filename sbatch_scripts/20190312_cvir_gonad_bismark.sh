@@ -82,7 +82,10 @@ done
 
 
 
-
+# Determine total reads counts from all libraries
+## Iterates through arrays and determines read counts
+## by counting lines in FastQ and dividing by 4.
+## Each loop adds the read1 and read2 read counts to the total
 for fastq in "${!R1_array[@]}"
 do
   R1_fastq=${R1_array[fastq]}
@@ -93,10 +96,12 @@ do
   total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
 done
 
+# Calcuations for different read amounts desired for analysis.
 avg_reads=$(echo ${total_reads}/${num_libs} | bc)
 half_avg_reads=$(echo "${avg_reads} * 0.5" | bc)
 half_total_reads=$(echo "${total_reads} * 0.5" | bc)
 
+# Store calculated values in array
 reads_set_array=(${avg_reads} ${half_avg_reads} ${half_total_reads} ${total_reads})
 
 # Concatenate R1 reads and generate lists of FastQs
@@ -117,7 +122,7 @@ done
 for set in "${!reads_set_names_array[@]}"
 do
   set_name=${reads_set_names_array[set]}
-  reads_set=${reads_set[set]}
+  reads_set=${reads_set_array[set]}
   mkdir ${set_name}
   cd ${set_name}
   ${bismark_dir}/bismark \
