@@ -11,7 +11,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-In preparation for some a [bisulfite analysis requested by Steven](https://github.com/RobertsLab/resources/issues/589), I needed to make bisulfite genome with, and for, Bismark to use and wanted to use the same one Yaamini has been working with. Downloaded the NCBI version of the _C.virginica_ genome.
+In preparation for some a [bisulfite analysis requested by Steven](https://github.com/RobertsLab/resources/issues/609), I needed to make bisulfite genome with, and for, Bismark to use and wanted to use the same one Yaamini has been working with. Downloaded the NCBI version of the _C.virginica_ genome.
 
 NCBI genome here:
 
