@@ -119,6 +119,8 @@ do
 done
 
 # Run bismark using bisulftie-converted genome
+## Loops through the various read sets
+## performs each analysis in respective subdirectory
 for set in "${!reads_set_names_array[@]}"
 do
   set_name=${reads_set_names_array[set]}
