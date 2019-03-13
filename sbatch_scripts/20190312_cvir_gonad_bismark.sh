@@ -173,9 +173,6 @@ do
     -2 ${R2} \
     2> ${set_name}_summary.txt
   fi
-done
-
-
   # Methylation extraction
 
   ${bismark_dir}/bismark_methylation_extractor \
