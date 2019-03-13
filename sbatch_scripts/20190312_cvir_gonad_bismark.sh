@@ -70,6 +70,9 @@ R2_array=(${reads_dir}/*_R2_*.fq.gz)
 num_libs=$(echo ${#R1_array[@]})
 
 # Add names to array
+## Two IMPORTANT notes:
+## 1. The "total reads" must be the last element of the array.
+## 2. The order of this array must match the "reads_set_array" below!
 reads_set_names_array=("avg_reads" "half_avg_reads" "half_total_reads" "total_reads")
 
 # Check for existence of previous concatenation
@@ -109,6 +112,8 @@ half_total_reads=$(echo "${total_reads} / 2" | bc)
 
 
 # Store calculated values in array
+## IMPORTANT note:
+## The order of this array must match "reads_set_names_array" above!
 reads_set_array=(${avg_reads} ${half_avg_reads} ${half_total_reads} ${total_reads})
 
 # Loop to record counts/calculations
@@ -138,6 +143,8 @@ done
 # https://robertslab.github.io/sams-notebook/2019/02/21/Data-Management-Create-C.virginica-Bisulfite-Genome-wit-Bismark-on-Mox.html
 ## Loops through the various read sets
 ## performs each analysis in respective subdirectory
+## When loop encounters last element of the array, then Bismark is run without the
+## -u subsetting option.
 for set in "${!reads_set_names_array[@]}"
 do
   if [ ${num_libs} -eq ${set} ]; then
