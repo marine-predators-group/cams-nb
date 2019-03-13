@@ -151,7 +151,7 @@ do
   reads_set=${reads_set_array[set]}
   mkdir ${set_name}_bismark
   cd ${set_name}_bismark
-  if [ $(( ${num_libs} - 1 )) -eq ${set} ]; then
+  if [ ${set} -eq $(( ${#reads_set_names_array[@]} - 1 )) ]; then
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
