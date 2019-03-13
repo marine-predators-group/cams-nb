@@ -140,19 +140,37 @@ done
 ## performs each analysis in respective subdirectory
 for set in "${!reads_set_names_array[@]}"
 do
-  set_name=${reads_set_names_array[set]}
-  reads_set=${reads_set_array[set]}
-  mkdir ${set_name}_bismark
-  cd ${set_name}_bismark
-  ${bismark_dir}/bismark \
-  --path_to_bowtie ${bowtie2_dir} \
-  --genome ${genome} \
-  --score_min L,0,-0.6 \
-  -u ${reads_set} \
-  -p 28 \
-  -1 ${R1} \
-  -2 ${R2} \
-  2> ${set_name}_summary.txt
+  if [ ${num_libs} -eq ${set} ]; then
+    set_name=${reads_set_names_array[set]}
+    reads_set=${reads_set_array[set]}
+    mkdir ${set_name}_bismark
+    cd ${set_name}_bismark
+    ${bismark_dir}/bismark \
+    --path_to_bowtie ${bowtie2_dir} \
+    --genome ${genome} \
+    --non-directional \
+    --score_min L,0,-0.6 \
+    -p 28 \
+    -1 ${R1} \
+    -2 ${R2} \
+    2> ${set_name}_summary.txt
+  else
+    set_name=${reads_set_names_array[set]}
+    reads_set=${reads_set_array[set]}
+    mkdir ${set_name}_bismark
+    cd ${set_name}_bismark
+    ${bismark_dir}/bismark \
+    --path_to_bowtie ${bowtie2_dir} \
+    --genome ${genome} \
+    --non-directional \
+    --score_min L,0,-0.6 \
+    -u ${reads_set} \
+    -p 28 \
+    -1 ${R1} \
+    -2 ${R2} \
+    2> ${set_name}_summary.txt
+  fi
+done
 
 
   # Methylation extraction
