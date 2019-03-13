@@ -154,11 +154,6 @@ do
   -2 ${R2} \
   2> ${set_name}_summary.txt
 
-  # Deduplicate bam files
-  ${bismark_dir}/deduplicate_bismark \
-  --bam \
-  --single \
-  *.bam
 
   # Methylation extraction
 
@@ -169,7 +164,7 @@ do
   --remove_spaces \
   --multicore 28 \
   --buffer_size 75% \
-  *deduplicated.bam
+  *.bam
 
   # Bismark processing report
 
@@ -181,7 +176,7 @@ do
 
   # Sort files for methylkit and IGV
 
-  find *deduplicated.bam \
+  find *.bam \
   | xargs basename -s .bam \
   | xargs -I{} ${samtools} \
   sort \
