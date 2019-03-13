@@ -147,7 +147,7 @@ done
 ## -u subsetting option.
 for set in "${!reads_set_names_array[@]}"
 do
-  if [ ${num_libs} -eq ${set} ]; then
+  if [ $(( ${num_libs} - 1 )) -eq ${set} ]; then
     set_name=${reads_set_names_array[set]}
     reads_set=${reads_set_array[set]}
     mkdir ${set_name}_bismark
