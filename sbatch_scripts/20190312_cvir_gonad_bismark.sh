@@ -155,7 +155,7 @@ do
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
-    --non-directional \
+    --non_directional \
     --score_min L,0,-0.6 \
     -p 28 \
     -1 ${R1} \
@@ -165,7 +165,7 @@ do
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
-    --non-directional \
+    --non_directional \
     --score_min L,0,-0.6 \
     -u ${reads_set} \
     -p 28 \
