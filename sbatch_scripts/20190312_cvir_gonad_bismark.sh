@@ -147,11 +147,11 @@ done
 ## -u subsetting option.
 for set in "${!reads_set_names_array[@]}"
 do
+  set_name=${reads_set_names_array[set]}
+  reads_set=${reads_set_array[set]}
+  mkdir ${set_name}_bismark
+  cd ${set_name}_bismark
   if [ $(( ${num_libs} - 1 )) -eq ${set} ]; then
-    set_name=${reads_set_names_array[set]}
-    reads_set=${reads_set_array[set]}
-    mkdir ${set_name}_bismark
-    cd ${set_name}_bismark
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
@@ -162,10 +162,6 @@ do
     -2 ${R2} \
     2> ${set_name}_summary.txt
   else
-    set_name=${reads_set_names_array[set]}
-    reads_set=${reads_set_array[set]}
-    mkdir ${set_name}_bismark
-    cd ${set_name}_bismark
     ${bismark_dir}/bismark \
     --path_to_bowtie ${bowtie2_dir} \
     --genome ${genome} \
