@@ -104,8 +104,8 @@ done
 
 # Calcuations for different read amounts desired for analysis.
 avg_reads=$(echo ${total_reads}/${num_libs} | bc)
-half_avg_reads=$(echo "${avg_reads} * 0.5" | bc)
-half_total_reads=$(echo "${total_reads} * 0.5" | bc)
+half_avg_reads=$(echo "${avg_reads} / 2" | bc)
+half_total_reads=$(echo "${total_reads} / 2" | bc)
 
 
 # Store calculated values in array
