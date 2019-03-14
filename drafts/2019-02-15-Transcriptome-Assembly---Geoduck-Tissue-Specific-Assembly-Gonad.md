@@ -13,3 +13,33 @@ tags:
 categories:
   - Miscellaneous
 ---
+
+
+
+SBATCH script:
+
+- []()
+
+
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- []()
+
+Trinity assembly:
+
+- []()(FastA)
+
+  - FastA index (```samtools faidx```):
+
+    - []()
+
+Assembly stats:
+
+- []()
+
+---
