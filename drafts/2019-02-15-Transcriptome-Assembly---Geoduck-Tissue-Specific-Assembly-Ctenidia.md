@@ -17,7 +17,7 @@ categories:
 
 SBATCH script:
 
-- []()
+- [20190215_geo_trinity_ctenidia.sh](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/sbatch_scripts/20190215_geo_trinity_ctenidia.sh) (GitHub)
 
 <pre><code>
 #!/bin/bash
@@ -93,18 +93,18 @@ ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
 
 Output folder:
 
-- []()
+- [20190215_trinity_geoduck_ctenidia_RNAseq/](http://gannet.fish.washington.edu/Atumefaciens/20190215_trinity_geoduck_ctenidia_RNAseq/)
 
 Trinity assembly:
 
-- []()(FastA)
+- [20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta)(FastA)
 
   - FastA index (```samtools faidx```):
 
-    - []()
+    - [20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.fai)
 
 Assembly stats:
 
-- []()
+- [20190215_trinity_geoduck_ctenidia_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190215_trinity_geoduck_ctenidia_RNAseq/assembly_stats.txt)
 
 ---
