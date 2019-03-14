@@ -13,7 +13,12 @@ categories:
 ---
 After completing two rounds of MBD enrichment ([first 12 samples on 20190307](https://robertslab.github.io/sams-notebook/2019/03/07/MBD-Enrichment-C.virginica-Sheared-Mantle-DNA-from-20190306.html) and the [second 12 samples on 20190311](https://robertslab.github.io/sams-notebook/2019/03/11/MBD-Enrichment-C.virginica-Sheared-Mantle-DNA-from-20190306.html)), I performed ethanol precipitation, per the MethylMiner instructions with the following modifications:
 
+
 - after additions of glycogen, sodium acetate and ethanol, incubated samples O/N at -80<sup>o</sup>C
+
+- after incubation, the two elutions were consolidated in the following fashion:
+  - the first of each of the two elutions was pelleted, supe discarded, and second elution transferred to the pellet
+  - second elution was pelleted in same tube as first
 
 - spins were performed at 13,000g
 
