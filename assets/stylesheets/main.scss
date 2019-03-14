@@ -11,6 +11,3 @@ $base-font-family: "Roboto", sans-serif !default;
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
-
-//Favicon
-<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico" >
