@@ -13,7 +13,11 @@ tags:
 categories:
   - Miscellaneous
 ---
+Based on a [discussion in this GitHub Issue](https://github.com/RobertsLab/resources/issues/576), I've initiated some tissue-specific transcriptome assemblies with our current geoduck data.
 
+Job was run on Mox and ```rsync```ed to my folder on Gannet.
+
+FastA index files were generated separately via ```samtools faidx Trinity.fasta``` (didn't think about it at the time so did not add to SBATCH script).
 
 
 SBATCH script:
@@ -149,3 +153,11 @@ Stats based on ALL transcript contigs:
 	Average contig: 439.99
 	Total assembled bases: 66003927
 </code></pre>
+
+---
+
+Will likely run the resulting assembly through Trinnotate and Transdecoder to try to get a more refined assembly.
+
+Will also run BUSCO on the refined assembly to evaluate its completeness.
+
+Will also explore combining all of the geoduck tissue-specific transcriptome assemblies using DRAP (mentioned/suggested by Katherine in that GitHub issue).
