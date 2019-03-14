@@ -90,3 +90,21 @@ ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
 ---
 
 #### RESULTS
+
+Output folder:
+
+- []()
+
+Trinity assembly:
+
+- []()(FastA)
+
+  - FastA index (```samtools faidx```):
+
+    - []()
+
+Assembly stats:
+
+- []()
+
+---
