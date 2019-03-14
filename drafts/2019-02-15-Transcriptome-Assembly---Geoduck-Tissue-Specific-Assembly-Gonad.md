@@ -109,3 +109,43 @@ Assembly stats:
 - [20190215_trinity_geoduck_gonad_01_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190215_trinity_geoduck_gonad_01_RNAseq/assembly_stats.txt)
 
 ---
+
+<pre><code>
+
+
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	150013
+Total trinity transcripts:	197407
+Percent GC: 36.17
+
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 3251
+	Contig N20: 2018
+	Contig N30: 1342
+	Contig N40: 904
+	Contig N50: 638
+
+	Median contig length: 315
+	Average contig: 521.76
+	Total assembled bases: 102998329
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 2257
+	Contig N20: 1328
+	Contig N30: 873
+	Contig N40: 626
+	Contig N50: 474
+
+	Median contig length: 289
+	Average contig: 439.99
+	Total assembled bases: 66003927
+</code></pre>
