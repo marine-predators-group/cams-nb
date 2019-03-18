@@ -36,13 +36,15 @@ wd="$(pwd)"
 
 # Paths to input/output files
 blastp_out_dir="${wd}/blastp_out"
-blastp_out="${blastp_out_dir}/blastp.outfmt6"
+transdecoder_out_dir="${wd}/Trinity.fasta.transdecoder_dir"
 pfam_out_dir="${wd}/pfam_out"
+blastp_out="${blastp_out_dir}/blastp.outfmt6"
+
 pfam_out="${pfam_out_dir/pfam.domtblout}"
 lORFs_pep="${transdecoder_out_dir}/longest_orfs.pep"
 pfam_db="/gscratch/srlab/programs/Trinotate-v3.1.1/admin/Pfam-A.hmm"
 sp_db="/gscratch/srlab/programs/Trinotate-v3.1.1/admin/uniprot_sprot.pep"
-transdecoder_out_dir="${wd}/Trinity.fasta.transdecoder_dir"
+
 trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_juvD5_RNAseq/trinity_out_dir/Trinity.fasta"
 
 # Paths to programs
