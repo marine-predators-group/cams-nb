@@ -59,6 +59,7 @@ trinity_fasta="${trinity_out_dir}/Trinity.fasta"
 trinity_gene_map="${trinity_out_dir}/Trinity.fasta.gene_trans_map"
 
 
+
 # Paths to programs
 rnammer_dir="/gscratch/srlab/programs/RNAMMER-1.2"
 rnammer="${rnammer_dir}/rnammer"
@@ -69,6 +70,9 @@ tmhmm="${tmhmm_dir}/tmhmm"
 trinotate_dir="/gscratch/srlab/programs/Trinotate-v3.1.1"
 trinotate="${trinotate_dir}/Trinotate"
 trinotate_rnammer="${trinotate_dir}/util/rnammer_support/RnammerTranscriptome.pl"
+pfam_db="${trinotate_dir}/admin/Pfam-A.hmm"
+sp_db="${trinotate_dir}/admin/uniprot_sprot.pep"
+trinotate_sqlite_db="${trinotate_dir}/Trinotate.sqlite"
 
 # Make output directories
 mkdir ${rnammer_out_dir} ${signalp_out_dir} ${tmhmm_out_dir}
