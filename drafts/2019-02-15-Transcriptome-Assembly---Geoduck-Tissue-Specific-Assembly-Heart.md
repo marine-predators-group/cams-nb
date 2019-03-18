@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transcriptome Assembly - Geoduck Tissue-specific Assembly (Heart)
+title: Transcriptome Assembly - Geoduck Tissue-specific Assembly Heart
 date: '2019-02-15 22:43'
 tags:
   - heart
