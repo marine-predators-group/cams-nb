@@ -37,6 +37,7 @@ wd="$(pwd)"
 # Paths to input/output files
 ## Non-working directory locations
 blastp_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/blastp_out"
+blastx_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_blastx_geoduck_ctenidia_RNAseq"
 pfam_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/pfam_out"
 trinity_out_dir="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir"
 transdecoder_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/Trinity.fasta.transdecoder_dir"
@@ -50,6 +51,7 @@ tmhmm_out_dir="${wd}/tmhmm_out"
 
 
 blastp_out="${blastp_out_dir}/blastp.outfmt6"
+blastx_out="${blastx_out_dir}/blastx.outfmt6"
 pfam_out="${pfam_out_dir}/pfam.domtblout"
 lORFs_pep="${transdecoder_out_dir}/longest_orfs.pep"
 rnammer_out="${rnammer_out_dir}/Trinity.fasta.rnammer.gff"
