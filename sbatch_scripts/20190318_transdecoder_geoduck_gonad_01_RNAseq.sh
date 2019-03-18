@@ -73,7 +73,6 @@ ${blastp} \
 > ${blastp_out}
 
 # Run pfam search
-cd ${pfam_out_dir}
 ${hmmscan}
 --cpu 28 \
 --domtblout ${pfam_out} \
