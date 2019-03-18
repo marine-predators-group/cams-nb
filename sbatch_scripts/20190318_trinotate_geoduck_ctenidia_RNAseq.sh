@@ -40,11 +40,12 @@ blastp_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduc
 pfam_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/pfam_out"
 transdecoder_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/Trinity.fasta.transdecoder_dir"
 
+trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta"
+
 ## New folders for working directory
 signalp_out_dir="${wd}/signalp_out"
 tmhmm_out_dir="${wd}/tmhmm_out"
 rnammer_out_dir="${wd}/RNAmmer_out"
-
 
 
 blastp_out="${blastp_out_dir}/blastp.outfmt6"
@@ -54,7 +55,6 @@ rnammer_out="${rnammer_out_dir}/Trinity.fasta.rnammer.gff"
 signalp_out="${signalp_out_dir}/signalp.out"
 tmhmm_out="${tmhmm_out_dir}/tmhmm.out"
 
-trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta"
 
 # Paths to programs
 rnammer_dir="/gscratch/srlab/programs/RNAMMER-1.2"
