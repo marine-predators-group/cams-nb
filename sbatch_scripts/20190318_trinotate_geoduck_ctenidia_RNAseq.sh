@@ -38,9 +38,10 @@ wd="$(pwd)"
 ## Non-working directory locations
 blastp_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/blastp_out"
 pfam_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/pfam_out"
+trinity_out_dir="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir"
 transdecoder_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_geoduck_ctenidia_RNAseq/Trinity.fasta.transdecoder_dir"
 
-trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta"
+
 
 ## New folders for working directory
 rnammer_out_dir="${wd}/RNAmmer_out"
@@ -54,6 +55,8 @@ lORFs_pep="${transdecoder_out_dir}/longest_orfs.pep"
 rnammer_out="${rnammer_out_dir}/Trinity.fasta.rnammer.gff"
 signalp_out="${signalp_out_dir}/signalp.out"
 tmhmm_out="${tmhmm_out_dir}/tmhmm.out"
+trinity_fasta="${trinity_out_dir}/Trinity.fasta"
+trinity_gene_map="${trinity_out_dir}/Trinity.fasta.gene_trans_map"
 
 
 # Paths to programs
