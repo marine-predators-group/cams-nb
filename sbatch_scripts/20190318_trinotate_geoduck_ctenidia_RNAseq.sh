@@ -137,6 +137,12 @@ ${trinotate_sqlite_db} \
 LOAD_signalp \
 ${signalp_out}
 
+## Load RNAmmer
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_rnammer \
+${rnammer_out}
+
 ## Creat annotation report
 ${trinotate} \
 ${trinotate_sqlite_db} \
