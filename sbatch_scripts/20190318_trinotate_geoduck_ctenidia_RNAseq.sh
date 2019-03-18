@@ -43,9 +43,9 @@ transdecoder_out_dir="/gscratch/scrubbed/samwhite/outputs/20190318_transdecoder_
 trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta"
 
 ## New folders for working directory
+rnammer_out_dir="${wd}/RNAmmer_out"
 signalp_out_dir="${wd}/signalp_out"
 tmhmm_out_dir="${wd}/tmhmm_out"
-rnammer_out_dir="${wd}/RNAmmer_out"
 
 
 blastp_out="${blastp_out_dir}/blastp.outfmt6"
@@ -63,3 +63,28 @@ signalp_dir="/gscratch/srlab/programs/signalp-4.1"
 signalp="${signalp_dir}/signalp"
 tmhmm_dir="/gscratch/srlab/programs/tmhmm-2.0c/bin"
 tmhmm="${tmhmm_dir}/tmhmm"
+trinotate_dir="/gscratch/srlab/programs/Trinotate-v3.1.1"
+trinotate="${trinotate_dir}/Trinotate"
+trinotate_rnammer="${trinotate_dir}/util/rnammer_support/RnammerTranscriptome.pl"
+
+# Make output directories
+mkdir ${rnammer_out_dir} ${signalp_out_dir} ${tmhmm_out_dir}
+
+# Run signalp
+${signalp} \
+-f short \
+-n ${signalp_out} \
+${lORFs_pep}
+
+# Run tmHMM
+${tmhmm} \
+--short \
+< ${lORFs_pep} \
+> ${tmhmm_out}
+
+# Run RNAmmer
+cd ${rnammer_out_dir}
+${trinotate_rnammer} \
+--transcriptome ${trinity_fasta} \
+--path_to_rnammer ${rnammer}
+cd ${wd}
