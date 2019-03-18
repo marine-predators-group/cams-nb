@@ -29,3 +29,31 @@ echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
+
+
+wd="$(pwd)"
+
+
+# Paths to input/output files
+blastp_out_dir="${wd}/blastp_out"
+blastp_out="${blastp_out_dir}/blastp.outfmt6"
+pfam_out_dir="${wd}/pfam_out"
+pfam_out="${pfam_out_dir/pfam.domtblout}"
+lORFs_pep="${transdecoder_out_dir}/longest_orfs.pep"
+pfam_db="/gscratch/srlab/programs/Trinotate-v3.1.1/admin/Pfam-A.hmm"
+sp_db="/gscratch/srlab/programs/Trinotate-v3.1.1/admin/uniprot_sprot.pep"
+transdecoder_out_dir="${wd}/Trinity.fasta.transdecoder_dir"
+trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta"
+
+# Paths to programs
+blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
+blastp="${blast_dir}/blastp"
+hmmer_dir="/gscratch/srlab/programs/hmmer-3.2.1/src"
+hmmscan="${hmmer_dir}/hmmscan"
+transdecoder_dir="/gscratch/srlab/programs/TransDecoder-v5.5.0"
+transdecoder_lORFs="${transdecoder_dir}/TransDecoder.LongOrfs"
+transdecoder_predict="${transdecoder_dir}/TransDecoder.Predict"
+
+# Make output directories
+mkdir ${blastp_out_dir}
+mkdir ${pfam_out_dir}
