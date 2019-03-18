@@ -51,6 +51,6 @@ ${blastx} \
 -db ${sp_db} \
 -max_target_seqs 1 \
 -outfmt 6 \
--evalue 1e-5 \
+-evalue 1e-3 \
 -num_threads 28 \
 > ${blastx_out}
