@@ -50,13 +50,14 @@ tmhmm_out_dir="${wd}/tmhmm_out"
 
 
 blastp_out="${blastp_out_dir}/blastp.outfmt6"
-pfam_out="${pfam_out_dir/pfam.domtblout}"
+pfam_out="${pfam_out_dir}/pfam.domtblout"
 lORFs_pep="${transdecoder_out_dir}/longest_orfs.pep"
 rnammer_out="${rnammer_out_dir}/Trinity.fasta.rnammer.gff"
 signalp_out="${signalp_out_dir}/signalp.out"
 tmhmm_out="${tmhmm_out_dir}/tmhmm.out"
 trinity_fasta="${trinity_out_dir}/Trinity.fasta"
 trinity_gene_map="${trinity_out_dir}/Trinity.fasta.gene_trans_map"
+trinotate_report="${wd}/trinotate_annotation_report.txt"
 
 
 
@@ -95,3 +96,47 @@ ${trinotate_rnammer} \
 --transcriptome ${trinity_fasta} \
 --path_to_rnammer ${rnammer}
 cd ${wd}
+
+# Run Trinotate
+## Load transcripts and coding regions into database
+${trinotate} \
+${trinotate_sqlite_db} \
+init \
+--gene_trans_map ${trinity_gene_map} \
+--transcript_fasta ${trinity_fasta} \
+--transdecoder_pep ${lORFs_pep}
+
+## Load BLAST homologies
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_swissprot_blastp \
+${blastp_out}
+
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_swissprot_blastx \
+${blastx_out}
+
+## Load Pfam
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_pfam \
+${pfam_out}
+
+## Load transmembrane domains
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_tmhmm \
+${tmhmm_out}
+
+## Load signal peptides
+${trinotate} \
+${trinotate_sqlite_db} \
+LOAD_signalp \
+${signalp_out}
+
+## Creat annotation report
+${trinotate} \
+${trinotate_sqlite_db} \
+report \
+> ${trinotate_report}
