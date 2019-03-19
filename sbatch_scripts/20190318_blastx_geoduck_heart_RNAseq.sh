@@ -35,7 +35,7 @@ wd="$(pwd)"
 
 
 # Paths to input/output files
-blastx_out="${blastp_out_dir}/blastx.outfmt6"
+blastx_out="${wd}/blastx.outfmt6"
 sp_db="/gscratch/srlab/programs/Trinotate-v3.1.1/admin/uniprot_sprot.pep"
 
 trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_heart_RNAseq/trinity_out_dir/Trinity.fasta"
