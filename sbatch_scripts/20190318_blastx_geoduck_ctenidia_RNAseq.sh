@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=transdecoder
+#SBATCH --job-name=blastx_ctendia
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv

@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=transdecoder
+#SBATCH --job-name=blastx_heart
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
