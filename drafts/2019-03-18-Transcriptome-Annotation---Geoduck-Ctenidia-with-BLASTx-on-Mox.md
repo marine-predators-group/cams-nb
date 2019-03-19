@@ -87,6 +87,6 @@ Output folder:
 
 - [20190318_blastx_geoduck_ctenidia_RNAseq](http://gannet.fish.washington.edu/Atumefaciens/20190318_blastx_geoduck_ctenidia_RNAseq)
 
-BLASTp output (output format 6):
+BLASTx output (output format 6):
 
 - [20190318_blastx_geoduck_ctenidia_RNAseq/blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190318_blastx_geoduck_ctenidia_RNAseq/blastx.outfmt6)
