@@ -11,7 +11,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-
+I'll be annotating the [transcriptome assembly (from 20190215)](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-Specific-Assembly-Ctenidia.html) using [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) and part of that process is having BLASTx output for the Trinity assembly, so have run BLASTx on Mox.
 
 
 SBATCH script:
