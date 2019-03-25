@@ -20,4 +20,6 @@ awk -F'[;\t]' '{print $1 "\t" $13}' ${blast_out} > ${krona_tax_list}
 ## Create Krona plot, specifying output filename
 ${krona} \
 -o ${krona_out} \
-${krona_tax_list}
+${krona_tax_list} \
+1> stdout.txt \
+2> stderr.txt
