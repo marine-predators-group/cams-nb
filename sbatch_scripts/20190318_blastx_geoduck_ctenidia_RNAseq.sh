@@ -44,6 +44,7 @@ trinity_fasta="/gscratch/scrubbed/samwhite/outputs/20190215_trinity_geoduck_cten
 blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
 blastx="${blast_dir}/blastx"
 
+cd ${blast_dir}
 
 # Run blastx on Trinity fasta
 ${blastx} \
