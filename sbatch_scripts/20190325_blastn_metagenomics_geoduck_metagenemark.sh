@@ -36,18 +36,20 @@ wd="$(pwd)"
 
 # Paths to input/output files
 blastn_out="${wd}/blastn.outfmt6"
-db="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5/nr_v5"
+blastdb_dir="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5"
+blast_db="${blastdb_dir}/nr_v5"
 fasta="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/20190103-mgm-nucleotides.fa"
 
 # Paths to programs
 blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
-blastn="${blast_dir}/blastn"
+blastn="${blastdb_dir}/blastn"
 
+export BLASTDB=${blastdb_dir}
 
 # Run blastx on Trinity fasta
 ${blastn} \
 -query ${fasta} \
--db ${db} \
+-db ${blast_db} \
 -max_target_seqs 1 \
 -outfmt "6 std staxids" \
 -evalue 1e-10 \
