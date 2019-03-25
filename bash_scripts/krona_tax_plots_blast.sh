@@ -6,7 +6,7 @@
 
 # Input/output files
 blast_out="blastp.outfmt6"
-krona_out="krona_megahit_MGM_blastp"
+krona_out="krona_megahit_MGM_blastp.html"
 krona_tax_list="krona_tax.lst"
 
 # Programs
@@ -18,4 +18,6 @@ krona="/home/sam/programs/KronaTools-2.7/bin/ktImportTaxonomy"
 awk -F'[;\t]' '{print $1 "\t" $13}' ${blast_out} > ${krona_tax_list}
 
 ## Create Krona plot, specifying output filename
-${krona} -o ${krona_out}
+${krona} \
+-o ${krona_out} \
+${krona_tax_list}
