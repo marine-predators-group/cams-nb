@@ -12,15 +12,23 @@ tags:
 categories:
   - Miscellaneous
 ---
+we're working on getting the metagenomics sequencing project written up as a manuscript and Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547).
 
-[Megahit assembly notebook](https://robertslab.github.io/sams-notebook/2019/01/02/Metagenome-Assembly-P.generosa-Water-Sample-HiSeqX-Data-Using-Megahit.html) and [MetaGeneMark gene prediction notebook](https://robertslab.github.io/sams-notebook/2019/01/03/Gene-Prediction-HiSeqX-Metagenomics-from-Geoduck-Water-Using-MetaGeneMark-on-Mox.html)
+I previously assembled all of the sequencing data in to a single assembly (i.e. did not assemble by experimental treatments):
 
-[GitHub Issue](https://github.com/RobertsLab/resources/issues/547)
+- [Megahit assembly notebook](https://robertslab.github.io/sams-notebook/2019/01/02/Metagenome-Assembly-P.generosa-Water-Sample-HiSeqX-Data-Using-Megahit.html).
 
+Subsequently, I ran some gene prediction software to help refine the assembly in to a more conservative representation, in hopes of getting a more realistic view of biologically relevant DNA (i.e. analyzing sequenced DNA that actually has putative functions, as opposed to random eDNA that may have been floating around in the water):
+
+- [MetaGeneMark gene prediction notebook](https://robertslab.github.io/sams-notebook/2019/01/03/Gene-Prediction-HiSeqX-Metagenomics-from-Geoduck-Water-Using-MetaGeneMark-on-Mox.html)
+
+
+For getting taxonomic info, I took the MetaGeneMark proteins FastA file and ran BLASTp against the NCBI SwissProt database (v5) to get taxonomic IDs. See this
 Jupyter Notebook (GitHub):
 
 - [20190321_swoose_metagnomics_pgen_blastp_ncbi-sp-v5-db.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190321_swoose_metagnomics_pgen_blastp_ncbi-sp-v5-db.ipynb)
 
+This was followed up by using [Krona](https://github.com/marbl/Krona/wiki) to plot the data in an interactive fashion, according to NCBI taxonomic ID abundance (see Results below).
 
 ---
 
@@ -47,6 +55,6 @@ BLASTp resulted in:
 
 - 1,346,325 SwissProt matches
 
-The Krona plot provides a pretty nice way to view the breakdown of the data and, as such, I won't provide a written summary of how it all shakes out. 
+The Krona plot provides a pretty nice way to view the breakdown of the data and, as such, I won't provide a written summary of how it all shakes out.
 
 Next, for curiosity sake, I'll run BLASTn and see how things compare.
