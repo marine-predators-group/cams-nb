@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=blastx_ctendia
+#SBATCH --job-name=blastn_metagenomics
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190318_blastx_geoduck_ctenidia_RNAseq
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190325_blastn_metagenomics_geoduck_metagenemark
 
 # Load Python Mox module for Python module availability
 
@@ -36,8 +36,8 @@ wd="$(pwd)"
 
 # Paths to input/output files
 blastn_out="${wd}/blastn.outfmt6"
-db=""
-fasta=""
+db="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5/nr_v5"
+fasta="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/20190103-mgm-nucleotides.fa"
 
 # Paths to programs
 blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
