@@ -42,7 +42,7 @@ fasta="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/20190103-mgm-
 
 # Paths to programs
 blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
-blastn="${blastdb_dir}/blastn"
+blastn="${blast_dir}/blastn"
 
 export BLASTDB=${blastdb_dir}
 
