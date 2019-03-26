@@ -12,7 +12,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-we're working on getting the metagenomics sequencing project written up as a manuscript and Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547).
+We're working on getting the metagenomics sequencing project written up as a manuscript and Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547).
 
 I previously assembled all of the sequencing data in to a single assembly (i.e. did not assemble by experimental treatments):
 
