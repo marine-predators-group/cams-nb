@@ -18,7 +18,7 @@ Steven tasked me with [assembling our geoduck metagenomics HiSeqX data](https://
 
 Jupyter Notebook (GitHub):
 
-- [20181211_swoose_gigas_mt_primer_design.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181211_swoose_gigas_mt_primer_design.ipynb)
+- [20181212_emu_geo_metagenomics_fastqc_trimgalore.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20181212_emu_geo_metagenomics_fastqc_trimgalore.ipynb)
 
 ---
 
