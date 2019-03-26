@@ -76,3 +76,23 @@ ${blastn} \
 > ${blastn_out}
 
 </code></pre>
+
+
+
+
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- []()
+
+BLASTn output (tab-delimited text):
+
+- []()
+
+Krona plot (HTML):
+
+- []()
