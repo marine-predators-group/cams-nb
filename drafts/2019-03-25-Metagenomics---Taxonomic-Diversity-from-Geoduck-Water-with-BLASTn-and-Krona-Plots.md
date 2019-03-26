@@ -11,7 +11,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-Continuing on getting the metagenomics sequencing project written up as a manuscript, Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547). Yesterday, I [ran analysis using BLASTp data](https://robertslab.github.io/sams-notebook/2019/03/25/Metagenomics-Taxonomic-Diversity-from-Geoduck-Water-with-BLASTp-and-Krona-plots.html). I initiated additional analysis using the MetaGeneMark nucleotide data to run BLASTn on Mox.
+Continuing on getting the metagenomics sequencing project written up as a manuscript, Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547). Earlier today, I [ran analysis using BLASTp data](https://robertslab.github.io/sams-notebook/2019/03/25/Metagenomics-Taxonomic-Diversity-from-Geoduck-Water-with-BLASTp-and-Krona-plots.html). I initiated additional analysis using the MetaGeneMark nucleotide data to run BLASTn on Mox.
 
 - [20190103-mgm-nucleotides.fa](http://gannet.fish.washington.edu/Atumefaciens/20190103_metagenomics_geo_metagenemark/20190103-mgm-nucleotides.fa) (1.6GB)
 
