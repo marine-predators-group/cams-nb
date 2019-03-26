@@ -8,8 +8,8 @@
 blast_out="blastp.outfmt6"
 krona_out="krona_megahit_MGM_blastp.html"
 krona_tax_list="krona_tax.lst"
-krona_err="krona_stderr.txt" # Krona standard error capture
-krona_out="krona_stdout.txt" # Krona standard out capture
+krona_stderr="krona_stderr.txt" # Krona standard error capture
+krona_stdout="krona_stdout.txt" # Krona standard out capture
 
 # Programs
 krona="/home/sam/programs/KronaTools-2.7/bin/ktImportTaxonomy"
@@ -28,5 +28,5 @@ awk -F'[;\t]' '!seen[$1,$13]++' ${blast_out} \
 ${krona} \
 -o ${krona_out} \
 ${krona_tax_list} \
-1> ${krona_out} \
-2> ${krona_err}
+1> ${krona_stdout} \
+2> ${krona_stderr}
