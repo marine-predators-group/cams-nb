@@ -11,6 +11,9 @@ tags:
 categories:
   - Miscellaneous
 ---
+Continuing on getting the metagenomics sequencing project written up as a manuscript, Steven asked me to provide an overview of the taxonomic makeup of our metagenome assembly in this [GitHub Issue](https://github.com/RobertsLab/resources/issues/547). Yesterday, I [ran analysis using BLASTp data](https://robertslab.github.io/sams-notebook/2019/03/25/Metagenomics-Taxonomic-Diversity-from-Geoduck-Water-with-BLASTp-and-Krona-plots.html). I initiated additional analysis using the MetaGeneMark nucleotide data to run BLASTn on Mox.
+
+- [20190103-mgm-nucleotides.fa](http://gannet.fish.washington.edu/Atumefaciens/20190103_metagenomics_geo_metagenemark/20190103-mgm-nucleotides.fa) (1.6GB)
 
 SBATCH script:
 
@@ -78,6 +81,7 @@ ${blastn} \
 </code></pre>
 
 
+After the BLASTn, I followed that up by making a Krona plot using the taxonomic info pulled via BLASTn. This was run locally on my computer (swoose).
 
 Krona plot script:
 
@@ -135,3 +139,7 @@ BLASTn output (tab-delimited text):
 Krona plot (HTML):
 
 - [20190325_blastn_metagenomics_geoduck_metagenemark/krona_megahit_MGM_blastn.html](http://gannet.fish.washington.edu/Atumefaciens/20190325_blastn_metagenomics_geoduck_metagenemark/krona_megahit_MGM_blastn.html)
+
+The BLASTn took about 6hrs to complete on Mox, using a single node. The Krona plot above is an interactive web page and provides a really nice way to dive into the taxonomic abundances of this data set.
+
+Now, time to delve into exploring differences between the different treatments in this experiment and ssee how their taxonomy compares.
