@@ -69,12 +69,13 @@ do
   names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
 done
 
+# Create list of fastq files used in analysis
 for fastq in ${fastq_dir}*.gz
 do
   echo ${fastq} >> fastq.list.txt
 done
 
-
+# Loop through samples
 for sample in ${!names_array[@]}
 do
   mkdir ${sample} && cd ${sample}
@@ -97,4 +98,7 @@ do
   ${bbmap_dir}/pileup.sh \
   in=${sample}.aln.sam.gz \
   out=${sample}.coverage.txt
+
+  # Return to working directory
+  cd ${wd}
 done
