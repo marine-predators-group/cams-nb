@@ -39,9 +39,11 @@ echo ${PATH} | tr : \\n >> system_path.log
 
 
 # variables
+wd=$(pwd)
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 megahit=/gscratch/srlab/programs/megahit_v1.1.4_LINUX_CPUONLY_x86_64-bin/megahit
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
+cpus=28
 
 ## Inititalize arrays
 fastq_array_R1=()
@@ -58,10 +60,11 @@ for fastq in ${fastq_dir}/*R2*.gz; do
   fastq_array_R2+=(${fastq})
 done
 
-# Create comma-separated list of input files
-R1_fastq_list=$(IFS=,; echo "${fastq_array_R1[*]}")
-R2_fastq_list=$(IFS=,; echo "${fastq_array_R2[*]}")
-
+# Create array of sample names
+## Uses awk to parse out sample name from filename
+for R1_fastq in ${fastq_dir}/*R1*.gz; do
+  names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
+done
 
 # Run Megahit using paired-end reads
 ${megahit} \
