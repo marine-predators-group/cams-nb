@@ -3,8 +3,8 @@ author: kubu4
 comments: true
 date: 2018-08-08 22:54:49+00:00
 layout: post
-slug: genome-annoation-olympia-oyster-genome-annotation-results-01
-title: 'Genome Annoation - Olympia oyster genome annotation results #01'
+slug: genome-annotation-olympia-oyster-genome-annotation-results-01
+title: 'Genome Annotation - Olympia oyster genome annotation results #01'
 wordpress_id: 3487
 author:
   - kubu4
@@ -40,7 +40,7 @@ Before proceeding further, it should be noted that I neglected to provide Maker 
 The following line in the [`maker_opts.ctl`](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_01/maker_opts.ctl) file was originally populated with an absolute path to data I didn't recognize, so I removed it:
 
 
-    
+
     <code>repeat_protein= #provide a fasta file of transposable element proteins for RepeatRunner</code>
 
 
@@ -51,7 +51,7 @@ I'm not entirely sure what the impacts will be on annotation, so I've re-run Mak
 
 
 
-  * [Genome Annoation – Olympia oyster genome annotation results #02](https://robertslab.github.io/sams-notebook/2018/08/08/genome-annoation-olympia-oyster-genome-annotation-results-02.html)
+  * [Genome Annotation – Olympia oyster genome annotation results #02](https://robertslab.github.io/sams-notebook/2018/08/08/genome-annotation-olympia-oyster-genome-annotation-results-02.html)
 
 
 

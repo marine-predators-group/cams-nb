@@ -3,8 +3,8 @@ author: kubu4
 comments: true
 date: 2018-08-08 22:55:49+00:00
 layout: post
-slug: genome-annoation-olympia-oyster-genome-annotation-results-02
-title: 'Genome Annoation – Olympia oyster genome annotation results #02'
+slug: genome-annotation-olympia-oyster-genome-annotation-results-02
+title: 'Genome Annotation – Olympia oyster genome annotation results #02'
 wordpress_id: 3497
 author:
   - kubu4
@@ -29,7 +29,7 @@ The results from that run can be seen here:
 
 
 
-  * [Genome Annoation – Olympia oyster genome annotation results #01](https://robertslab.github.io/sams-notebook/2018/08/08/genome-annoation-olympia-oyster-genome-annotation-results-01.html)
+  * [Genome Annotation – Olympia oyster genome annotation results #01](https://robertslab.github.io/sams-notebook/2018/08/08/genome-annotation-olympia-oyster-genome-annotation-results-01.html)
 
 
 
@@ -38,7 +38,7 @@ In that previous run, I neglected to provide a transposable elements FastA file 
 I remedied that and re-ran it. I modified [`maker_opts.ctl`](https://owl.fish.washington.edu/Athaliana/20180807_wqmaker_run_oly_02/maker_opts.ctl) to include the following:
 
 
-    
+
     <code>repeat_protein=../../opt/maker/data/te_proteins.fasta #provide a fasta file of transposable element proteins for RepeatRunner</code>
 
 
