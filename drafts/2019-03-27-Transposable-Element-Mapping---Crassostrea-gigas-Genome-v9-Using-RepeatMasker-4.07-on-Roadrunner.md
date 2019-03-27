@@ -19,3 +19,15 @@ Per this [GitHub issue](https://github.com/RobertsLab/resources/issues/643), I'm
 Genome used (from our [Genomic Resources wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome)):
 
 - [Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa)
+
+Analysis was performed in the following Jupyter Notebok (GitHub):
+
+- [20190327_roadrunner_cgig_TEs_repeatmasker.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190327_roadrunner_cgig_TEs_repeatmasker.ipynb)
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- [20190327_cgig_repeatmasker_all/](http://gannet.fish.washington.edu/Atumefaciens/20190327_cgig_repeatmasker_all)
