@@ -51,40 +51,50 @@ fastq_array_R2=()
 names_array=()
 
 # Create array of fastq R1 files
-for fastq in ${fastq_dir}/*R1*.gz; do
+for fastq in ${fastq_dir}/*R1*.gz
+do
   fastq_array_R1+=(${fastq})
 done
 
 # Create array of fastq R2 files
-for fastq in ${fastq_dir}/*R2*.gz; do
+for fastq in ${fastq_dir}/*R2*.gz
+do
   fastq_array_R2+=(${fastq})
 done
 
 # Create array of sample names
 ## Uses awk to parse out sample name from filename
-for R1_fastq in ${fastq_dir}/*R1*.gz; do
+for R1_fastq in ${fastq_dir}/*R1*.gz
+do
   names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
 done
 
-for fastq in ${fastq_dir}*.gz; do
+for fastq in ${fastq_dir}*.gz
+do
   echo ${fastq} >> fastq.list.txt
 done
 
-# Run Megahit using paired-end reads
-${megahit} \
--1 ${R1_fastq_list} \
--2 ${R2_fastq_list} \
---num-cpu-threads 28
 
-# Determine coverage
-## Align reads with BBmap BBwrap
-${bbmap_dir}/bbwrap.sh \
-ref=megahit_out/final.contigs.fa \
-in1=${R1_fastq_list} \
-in2=${R2_fastq_list} \
-out=aln.sam.gz
+for sample in ${!names_array[@]}
+do
+  mkdir ${sample} && cd ${sample}
+  # Run Megahit using paired-end reads
+  ${megahit} \
+  -1 ${fastq_array_R1[sample]} \
+  -2 ${fastq_array_R2[sample]} \
+  --num-cpu-threads ${cpus} \
+  --out-prefix ${sample}
 
-## Output contig coverage
-${bbmap_dir}/pileup.sh \
-in=aln.sam.gz \
-out=coverage.txt
+  # Determine coverage
+  ## Align reads with BBmap BBwrap
+  ${bbmap_dir}/bbwrap.sh \
+  ref=megahit_out/${sample}.contigs.fa \
+  in1=${fastq_array_R1[sample]} \
+  in2=${fastq_array_R2[sample]} \
+  out=${sample}.aln.sam.gz
+
+  ## Output contig coverage
+  ${bbmap_dir}/pileup.sh \
+  in=${sample}.aln.sam.gz \
+  out=${sample}.coverage.txt
+done
