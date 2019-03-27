@@ -66,6 +66,10 @@ for R1_fastq in ${fastq_dir}/*R1*.gz; do
   names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
 done
 
+for fastq in ${fastq_dir}*.gz; do
+  echo ${fastq} >> fastq.list.txt
+done
+
 # Run Megahit using paired-end reads
 ${megahit} \
 -1 ${R1_fastq_list} \
