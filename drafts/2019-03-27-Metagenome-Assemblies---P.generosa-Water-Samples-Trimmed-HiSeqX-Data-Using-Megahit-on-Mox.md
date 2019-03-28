@@ -52,7 +52,7 @@ SBATCH script:
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_geo_megahit
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
 
 # Load Python Mox module for Python module availability
 
@@ -80,6 +80,7 @@ wd=$(pwd)
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 megahit=/gscratch/srlab/programs/megahit_v1.1.4_LINUX_CPUONLY_x86_64-bin/megahit
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
+samtools=/gscratch/srlab/programs/samtools-1.9/samtools
 cpus=28
 
 ## Inititalize arrays
@@ -100,16 +101,18 @@ do
 done
 
 # Create array of sample names
+## Uses parameter substitution to strip leading path from filename
 ## Uses awk to parse out sample name from filename
 for R1_fastq in ${fastq_dir}/*R1*.gz
 do
-  names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
+  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"_" '{print $3 $4}'))
 done
 
 # Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
 for fastq in ${fastq_dir}*.gz
 do
-  echo ${fastq} >> fastq.list.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
 # Loop through samples
@@ -122,6 +125,9 @@ do
   -2 ${fastq_array_R2[sample]} \
   --num-cpu-threads ${cpus} \
   --out-prefix ${sample}
+
+  # Create FastA index file
+  ${samtools} faidx megahit_out/${sample}.contigs.fa
 
   # Determine coverage
   ## Align reads with BBmap BBwrap
