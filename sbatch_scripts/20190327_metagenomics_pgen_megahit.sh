@@ -63,16 +63,18 @@ do
 done
 
 # Create array of sample names
+## Uses parameter substitution to strip leading path from filename
 ## Uses awk to parse out sample name from filename
 for R1_fastq in ${fastq_dir}/*R1*.gz
 do
-  names_array+=($(echo ${R1_fastq} | awk -F"_" '{print $3 $4}'))
+  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"_" '{print $3 $4}'))
 done
 
 # Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
 for fastq in ${fastq_dir}*.gz
 do
-  echo ${fastq} >> fastq.list.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
 # Loop through samples
