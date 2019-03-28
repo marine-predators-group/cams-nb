@@ -134,52 +134,52 @@ done
 
 Output folder:
 
-- []()
+- [20190327_metagenomics_geo_megahit/](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit)
 
   - MG1 Output folder:
 
-  - []()
+  - [20190327_metagenomics_geo_megahit/MG1](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG1)
 
      - MG1 FastA:
 
-       - []()
+       - [20190327_metagenomics_geo_megahit/MG1/megahit_out/MG1.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG1/megahit_out/MG1.contigs.fa)
 
    - MG2 Output folder:
 
-     - []()
+     - [20190327_metagenomics_geo_megahit/MG2](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG2)
 
        - MG2 FastA:
 
-       - []()
+       - [20190327_metagenomics_geo_megahit/MG1/megahit_out/MG2.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG2/megahit_out/MG2.contigs.fa)
 
     - MG3 Output folder:
 
-      - []()
+      - [20190327_metagenomics_geo_megahit/MG3](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG3)
 
         - MG3 Fasta:
 
-        - []()
+        - [20190327_metagenomics_geo_megahit/MG3/megahit_out/MG3.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG3/megahit_out/MG3.contigs.fa)
 
     - MG5 Output folder:
 
-      - []()
+      - [20190327_metagenomics_geo_megahit/MG5](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG5)
 
         - MG5 FastA:
 
-          - []()
+          - [20190327_metagenomics_geo_megahit/MG5/megahit_out/MG5.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG5/megahit_out/MG5.contigs.fa)
 
     - MG6 Output folder:
 
-      - []()
+      - [20190327_metagenomics_geo_megahit/MG6](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG6)
 
         - MG6 FastA:
 
-          - []()
+          - [20190327_metagenomics_geo_megahit/MG6/megahit_out/MG6.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG6/megahit_out/MG6.contigs.fa)
 
     - MG7 Output folder:
 
-      - []()
+      - [20190327_metagenomics_geo_megahit/MG7](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG7)
 
         - MG7 FastA:
 
-          - []()
+          - [20190327_metagenomics_geo_megahit/MG7/megahit_out/MG7.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit/MG7/megahit_out/MG7.contigs.fa)
