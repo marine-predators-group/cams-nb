@@ -43,6 +43,7 @@ wd=$(pwd)
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 megahit=/gscratch/srlab/programs/megahit_v1.1.4_LINUX_CPUONLY_x86_64-bin/megahit
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
+samtools=/gscratch/srlab/programs/samtools-1.9/samtools
 cpus=28
 
 ## Inititalize arrays
@@ -87,6 +88,9 @@ do
   -2 ${fastq_array_R2[sample]} \
   --num-cpu-threads ${cpus} \
   --out-prefix ${sample}
+
+  # Create FastA index file
+  ${samtools} faidx megahit_out/${sample}.contigs.fa
 
   # Determine coverage
   ## Align reads with BBmap BBwrap
