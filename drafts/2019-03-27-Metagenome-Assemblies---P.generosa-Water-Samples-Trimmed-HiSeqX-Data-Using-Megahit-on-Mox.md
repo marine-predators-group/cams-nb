@@ -118,29 +118,30 @@ done
 # Loop through samples
 for sample in ${!names_array[@]}
 do
-  mkdir ${sample} && cd ${sample}
+  sample_name=$(echo ${names_array[sample]})
+  mkdir ${sample_name} && cd ${sample_name}
   # Run Megahit using paired-end reads
   ${megahit} \
   -1 ${fastq_array_R1[sample]} \
   -2 ${fastq_array_R2[sample]} \
   --num-cpu-threads ${cpus} \
-  --out-prefix ${sample}
+  --out-prefix ${sample_name}
 
   # Create FastA index file
-  ${samtools} faidx megahit_out/${sample}.contigs.fa
+  ${samtools} faidx megahit_out/${sample_name}.contigs.fa
 
   # Determine coverage
   ## Align reads with BBmap BBwrap
   ${bbmap_dir}/bbwrap.sh \
-  ref=megahit_out/${sample}.contigs.fa \
+  ref=megahit_out/${sample_name}.contigs.fa \
   in1=${fastq_array_R1[sample]} \
   in2=${fastq_array_R2[sample]} \
-  out=${sample}.aln.sam.gz
+  out=${sample_name}.aln.sam.gz
 
   ## Output contig coverage
   ${bbmap_dir}/pileup.sh \
-  in=${sample}.aln.sam.gz \
-  out=${sample}.coverage.txt
+  in=${sample_name}.aln.sam.gz \
+  out=${sample_name}.coverage.txt
 
   # Return to working directory
   cd ${wd}
