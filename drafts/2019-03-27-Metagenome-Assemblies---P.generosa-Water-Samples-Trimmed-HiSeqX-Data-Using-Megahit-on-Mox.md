@@ -15,6 +15,20 @@ categories:
 
 [I previously created a single metagenome assembly](https://robertslab.github.io/sams-notebook/2019/01/02/Metagenome-Assembly-P.generosa-Water-Sample-HiSeqX-Data-Using-Megahit.html) using all of the sequencing data from this project.
 
+Now, we want to compare the different water sample metagenomes to each other.
+
+Here's how the sample names breakdown:
+
+| Sample | Develomental Stage (days post-fertilization) | pH Treatment |
+|--------|-------------------------|--------------|
+| MG1    | 13                      | 8.2          |
+| MG2    | 17                      | 8.2          |
+| MG3    | 6                       | 7.1          |
+| MG5    | 10                      | 8.2          |
+| MG6    | 13                      | 7.1          |
+| MG7    | 17                      | 7.1          |
+
+
 
 SBATCH script:
 
