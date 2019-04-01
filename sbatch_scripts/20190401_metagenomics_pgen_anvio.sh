@@ -23,9 +23,7 @@ set -e
 # Load Anaconda virtual environment with Anvio 5.4
 ## Environment created earlier:
 ## conda create --name anvio54 -c conda-forge -c bioconda anvio==5.4.0 "blas=*=openblas" python=3.6
-/gscratch/srlab/programs/anaconda3/bin/conda \
-/gscratch/srlab/programs/anaconda3/bin/activate \
-/gscratch/srlab/programs/anaconda3/envs/anvio54
+/gscratch/srlab/programs/anaconda3/bin/conda activate anvio54
 
 # Load Open MPI module for parallel, multi-node processing
 
