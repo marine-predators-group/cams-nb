@@ -89,7 +89,7 @@ do
   -o ${sample_name}.renamed.fa \
   --simplify-names \
   -l 0 \
-  --report-file
+  --report-file ${sample_name}.renamed.txt
   ##########################
   # Create FastA index
   ${samtools} faidx ${sample_name}.renamed.fa
