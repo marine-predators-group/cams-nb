@@ -43,6 +43,7 @@ wd=$(pwd)
 cpus=28
 megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
+anvi_out_dir=${wd}anvi_work_dir
 
 ## Inititalize arrays
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
@@ -54,6 +55,8 @@ fasta_array=()
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
 anvi_dir=/gscratch/srlab/programs/anaconda3/bin
 samtools=/gscratch/srlab/programs/samtools-1.9/samtools
+
+mkdir ${anvi_out_dir}
 
 # Create array of fastq R1 files
 for fastq in ${fastq_dir}/*R1*.gz
@@ -118,3 +121,9 @@ do
   ${anvi_dir}/anvi-run-ncbi-cogs \
   -c ${sample_name}.db \
   --num-threads ${cpus}
+  # Create Anvio profile database
+   ${anvi_dir}/anvi-profile \
+   -i ${sample_name}.bam \
+   -c ${sample_name}.db \
+   --output-dir ${anvi_out_dir} \
+   --sample-name ${sample_name}
