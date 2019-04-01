@@ -103,7 +103,7 @@ do
   ##########################
   # Convert SAM to BAM
   gunzip < ${sample_name}.aln.sam.gz > ${sample_name}.RAW.sam
-  ${samtools} view -bS --threads ${cpus} ${sample_name}.RAW.sam
+  ${samtools} view -bS --threads ${cpus} ${sample_name}.RAW.sam > ${sample_name}.RAW.bam
   ${anvi_dir}/anvi-init-bam \
   ${sample_name}.RAW.bam \
   -o ${sample_name}.bam
