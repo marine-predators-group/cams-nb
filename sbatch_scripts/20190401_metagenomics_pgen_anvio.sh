@@ -17,9 +17,9 @@
 ## Specify the working directory for this job
 #SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190401_metagenomics_pgen_anvio
 
-# Load Python Mox module for Python module availability
+# Load Anaconda virtual environment with Anvio 5.4
 
-module load intel-python3_2017
+conda activate anvio5
 
 # Load Open MPI module for parallel, multi-node processing
 
