@@ -48,6 +48,7 @@ fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
 fastq_array_R1=()
 fastq_array_R2=()
+fasta_array=()
 
 ## Programs
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
@@ -73,6 +74,12 @@ do
   echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
+# Create
+for sample in ${!samples_array[@]}
+do
+  sample_name=$(echo ${samples_array[sample]})
+  fasta_array+=(${megahit_out_dir}/${sample_name}/megahit_out/${sample_name}.contigs.fa)
+done
 
 # Re-label FastAs
 for sample in ${!samples_array[@]}
