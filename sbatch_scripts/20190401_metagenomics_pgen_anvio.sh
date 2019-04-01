@@ -112,5 +112,5 @@ do
   -o ${sample_name}.db
   # Run HMMs
   ${anvi_dir}/anvi-run-hmms \
-  -c ${sample_name}.db
-  
+  -c ${sample_name}.db \
+  --num-threads ${cpus}
