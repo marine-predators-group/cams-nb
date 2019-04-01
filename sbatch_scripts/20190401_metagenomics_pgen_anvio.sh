@@ -115,7 +115,12 @@ do
   -c contigs.db \
   --num-threads ${cpus}
   # Create Anvio profile database
-   ${anvi_dir}/anvi-profile \
-   -i ${sample_name}.bam \
-   -c contigs.db \
-   --sample-name ${sample_name}
+  ${anvi_dir}/anvi-profile \
+  -i ${sample_name}.bam \
+  -c contigs.db \
+  --sample-name ${sample_name}
+  # Merge Anvi databases
+  ${anvi_dir}/anvi-merge ${sample_name}/PROFILE.db \
+  -o SAMPLES-MERGED \
+  -c contigs.db
+done
