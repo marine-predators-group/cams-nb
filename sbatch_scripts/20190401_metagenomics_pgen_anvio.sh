@@ -114,3 +114,7 @@ do
   ${anvi_dir}/anvi-run-hmms \
   -c ${sample_name}.db \
   --num-threads ${cpus}
+  # Assign Clusters of Orthologous Groups (COGs)
+  ${anvi_dir}/anvi-run-ncbi-cogs \
+  -c ${sample_name}.db \
+  --num-threads ${cpus}
