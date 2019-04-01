@@ -43,7 +43,6 @@ echo ${PATH} | tr : \\n >> system_path.log
 wd=$(pwd)
 cpus=28
 megahit_assembly=/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/final.contigs.fa
-megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 
 ## Inititalize arrays
