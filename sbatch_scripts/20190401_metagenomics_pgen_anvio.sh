@@ -44,7 +44,6 @@ cpus=28
 megahit_assembly=/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/final.contigs.fa
 megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
-anvi_out_dir=${wd}anvi_work_dir
 
 ## Inititalize arrays
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
@@ -106,18 +105,17 @@ do
   # Create Anvio database
   ${anvi_dir}/anvi-gen-contigs-database \
   -f ${sample_name}.renamed.fa \
-  -o ${sample_name}.db
+  -o contigs.db
   # Run HMMs
   ${anvi_dir}/anvi-run-hmms \
-  -c ${sample_name}.db \
+  -c contigs.db \
   --num-threads ${cpus}
   # Assign Clusters of Orthologous Groups (COGs)
   ${anvi_dir}/anvi-run-ncbi-cogs \
-  -c ${sample_name}.db \
+  -c contigs.db \
   --num-threads ${cpus}
   # Create Anvio profile database
    ${anvi_dir}/anvi-profile \
    -i ${sample_name}.bam \
-   -c ${sample_name}.db \
-   --output-dir ${anvi_out_dir} \
+   -c contigs.db \
    --sample-name ${sample_name}
