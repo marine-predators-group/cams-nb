@@ -40,3 +40,35 @@ echo ${PATH} | tr : \\n >> system_path.log
 
 # variables
 wd=$(pwd)
+cpus=28
+megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
+
+## Inititalize arrays
+samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
+fastq_array_R1=()
+fastq_array_R2=()
+
+## Programs
+bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
+anvi_dir=/gscratch/srlab/programs/anaconda3/bin
+samtools=/gscratch/srlab/programs/samtools-1.9/samtools
+
+
+
+# Re-label FastAs
+for sample in ${samples_array}
+do
+  #
+  ${anvi_dir}/anvi-script-reformat-fasta \
+  -o ${sample}.renamed.fa \
+  --simplify-names \
+  -l 0 \
+  --report-file
+  # Create FastA index
+  ${samtools} faidx ${sample}.renamed.fa
+  # Map reads to FastAs
+  ${bbmap_dir}/bbwrap.sh \
+  ref=${sample}.renamed.fa \
+  in1=${fastq_array_R1[sample]} \
+  in2=${fastq_array_R2[sample]} \
+  out=${sample_name}.aln.sam.gz
