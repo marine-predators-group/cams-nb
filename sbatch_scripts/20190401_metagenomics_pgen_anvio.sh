@@ -105,7 +105,8 @@ do
   # Create Anvio database
   ${anvi_dir}/anvi-gen-contigs-database \
   -f ${sample_name}.renamed.fa \
-  -o contigs.db
+  -o contigs.db \
+  --project-name "${sample_name} contigs"
   # Run HMMs
   ${anvi_dir}/anvi-run-hmms \
   -c contigs.db \
