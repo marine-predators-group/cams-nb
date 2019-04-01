@@ -55,7 +55,7 @@ fastq_array_R2=()
 
 ## Programs
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
-anvi_dir=/gscratch/srlab/programs/anaconda3/bin
+anvi_dir=/gscratch/srlab/programs/anaconda3/envs/anvio54/bin/
 samtools=/gscratch/srlab/programs/samtools-1.9/samtools
 
 # Create array of fastq R1 files
