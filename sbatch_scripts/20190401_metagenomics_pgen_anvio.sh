@@ -18,7 +18,7 @@
 #SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190401_metagenomics_pgen_anvio
 
 # Load Anaconda virtual environment with Anvio 5.4
-
+## Environment created earlier: conda create -y --name anvio5 python=3.6
 conda activate anvio5
 
 # Load Open MPI module for parallel, multi-node processing
