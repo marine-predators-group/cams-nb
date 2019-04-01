@@ -42,6 +42,7 @@ echo ${PATH} | tr : \\n >> system_path.log
 wd=$(pwd)
 cpus=28
 megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
+fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 
 ## Inititalize arrays
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
@@ -53,6 +54,24 @@ bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
 anvi_dir=/gscratch/srlab/programs/anaconda3/bin
 samtools=/gscratch/srlab/programs/samtools-1.9/samtools
 
+# Create array of fastq R1 files
+for fastq in ${fastq_dir}/*R1*.gz
+do
+  fastq_array_R1+=(${fastq})
+done
+
+# Create array of fastq R2 files
+for fastq in ${fastq_dir}/*R2*.gz
+do
+  fastq_array_R2+=(${fastq})
+done
+
+# Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
+for fastq in ${fastq_dir}*.gz
+do
+  echo ${fastq#${fastq_dir}} >> fastq.list.txt
+done
 
 
 # Re-label FastAs
