@@ -74,7 +74,7 @@ do
   echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
-# Create
+# Create FastA array
 for sample in ${!samples_array[@]}
 do
   sample_name=$(echo ${samples_array[sample]})
@@ -87,6 +87,7 @@ do
   sample_name=$(echo ${samples_array[sample]})
   # Reformat FastA deflines
   ${anvi_dir}/anvi-script-reformat-fasta \
+  ${fasta_array[sample]} \
   -o ${sample_name}.renamed.fa \
   --simplify-names \
   -l 0 \
@@ -105,3 +106,11 @@ do
   ${anvi_dir}/anvi-init-bam \
   ${sample_name}.RAW.bam \
   -o ${sample_name}.bam
+  # Create Anvio database
+  ${anvi_dir}/anvi-gen-contigs-database \
+  -f ${sample_name}.renamed.fa \
+  -o ${sample_name}.db
+  # Run HMMs
+  ${anvi_dir}/anvi-run-hmms \
+  -c ${sample_name}.db
+  
