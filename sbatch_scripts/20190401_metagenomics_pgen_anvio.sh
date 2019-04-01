@@ -17,6 +17,9 @@
 ## Specify the working directory for this job
 #SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190401_metagenomics_pgen_anvio
 
+# Exit script if a command fails
+set -e
+
 # Load Anaconda virtual environment with Anvio 5.4
 ## Environment created earlier:
 ## conda create --name anvio54 -c conda-forge -c bioconda anvio==5.4.0 "blas=*=openblas" python=3.6
