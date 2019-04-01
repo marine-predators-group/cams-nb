@@ -130,9 +130,10 @@ do
   -c contigs.db \
   --sample-name ${sample_name} \
   --num-threads ${cpus}
-  #########################
-  # Merge Anvi databases
-  ${anvi_dir}/anvi-merge ${sample_name}/PROFILE.db \
-  -o SAMPLES-MERGED \
-  -c contigs.db
 done
+
+# Merge Anvi databases
+${anvi_dir}/anvi-merge \
+*/PROFILE.db \
+-o SAMPLES-MERGED \
+-c contigs.db
