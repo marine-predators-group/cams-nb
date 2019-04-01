@@ -75,19 +75,26 @@ done
 
 
 # Re-label FastAs
-for sample in ${samples_array}
+for sample in ${!samples_array[@]}
 do
-  #
+  sample_name=$(echo ${samples_array[sample]})
+  # Reformat FastA deflines
   ${anvi_dir}/anvi-script-reformat-fasta \
-  -o ${sample}.renamed.fa \
+  -o ${sample_name}.renamed.fa \
   --simplify-names \
   -l 0 \
   --report-file
   # Create FastA index
-  ${samtools} faidx ${sample}.renamed.fa
+  ${samtools} faidx ${sample_name}.renamed.fa
   # Map reads to FastAs
   ${bbmap_dir}/bbwrap.sh \
-  ref=${sample}.renamed.fa \
+  ref=${sample_name}.renamed.fa \
   in1=${fastq_array_R1[sample]} \
   in2=${fastq_array_R2[sample]} \
   out=${sample_name}.aln.sam.gz
+  # Convert SAM to BAM
+  gunzip < ${sample_name}.aln.sam.gz > ${sample_name}.RAW.sam
+  ${samtools} view -bS --threads ${cpus} ${sample_name}.RAW.sam
+  ${anvi_dir}/anvi-init-bam \
+  ${sample_name}.RAW.bam \
+  -o ${sample_name}.bam
