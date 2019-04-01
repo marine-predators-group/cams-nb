@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=megahit
+#SBATCH --job-name=anvio
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
