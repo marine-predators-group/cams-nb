@@ -41,6 +41,7 @@ echo ${PATH} | tr : \\n >> system_path.log
 # variables
 wd=$(pwd)
 cpus=28
+megahit_assembly=/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/final.contigs.fa
 megahit_out_dir=/gscratch/scrubbed/samwhite/outputs/20190327_metagenomics_pgen_megahit
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
 anvi_out_dir=${wd}anvi_work_dir
@@ -49,7 +50,6 @@ anvi_out_dir=${wd}anvi_work_dir
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
 fastq_array_R1=()
 fastq_array_R2=()
-fasta_array=()
 
 ## Programs
 bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
@@ -77,12 +77,6 @@ do
   echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
-# Create FastA array
-for sample in ${!samples_array[@]}
-do
-  sample_name=$(echo ${samples_array[sample]})
-  fasta_array+=(${megahit_out_dir}/${sample_name}/megahit_out/${sample_name}.contigs.fa)
-done
 
 # Re-label FastAs
 for sample in ${!samples_array[@]}
@@ -90,7 +84,7 @@ do
   sample_name=$(echo ${samples_array[sample]})
   # Reformat FastA deflines
   ${anvi_dir}/anvi-script-reformat-fasta \
-  ${fasta_array[sample]} \
+  ${megahit_assembly} \
   -o ${sample_name}.renamed.fa \
   --simplify-names \
   -l 0 \
