@@ -56,8 +56,6 @@ bbmap_dir=/gscratch/srlab/programs/bbmap_38.34
 anvi_dir=/gscratch/srlab/programs/anaconda3/bin
 samtools=/gscratch/srlab/programs/samtools-1.9/samtools
 
-mkdir ${anvi_out_dir}
-
 # Create array of fastq R1 files
 for fastq in ${fastq_dir}/*R1*.gz
 do
