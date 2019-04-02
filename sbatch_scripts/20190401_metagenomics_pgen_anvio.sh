@@ -24,6 +24,7 @@ set -e
 ## Environment created earlier:
 ## conda create --name anvio54 -c conda-forge -c bioconda anvio==5.4.0 "blas=*=openblas" python=3.6
 module load anaconda3_5.3
+. /sw/anaconda-5.3/python3.7/etc/profile.d/conda.sh
 conda activate anvio54
 
 # Load Open MPI module for parallel, multi-node processing
