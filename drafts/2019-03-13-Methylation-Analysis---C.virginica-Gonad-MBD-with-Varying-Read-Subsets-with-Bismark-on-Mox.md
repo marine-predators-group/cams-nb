@@ -30,6 +30,8 @@ Set up the following SBATCH script to run on Mox:
 
 - [20190312_cvir_gonad_bismark.sh](https://github.com/RobertsLab/sams-notebook/blob/2809f72af692b4fb5cd44b882a99bc65876f5dbd/sbatch_scripts/20190312_cvir_gonad_bismark.sh)
 
+_NOTE_: It seems as though the if/else statement didn't work properly and resulted in a duplicated analysis of the "half total reads". The "total reads" will be run independently.
+
 <pre><code>
 #!/bin/bash
 ## Job Name
@@ -246,3 +248,47 @@ do
   cd ${wd}
 done
 </code></pre>
+
+---
+
+### RESULTS
+
+This took a pretty long  time to run (6days 16hrs):
+
+![6 days, 16hrs runtime](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190320_bismark_complete.png)
+
+Additionally, the if/else statement in the script above didn't seem to work for identifying the "total reads" sample. Instead, it processed the "half total reads" subset a second time. :(
+
+I'll re-run just the total reads set independently and will update this post with that data once available.
+
+Additionally, I don't have the time at the moment to actually finish the analysis to evaluate differences in coverage. I'm posting notebook entry to make data available (belatedly) and will get some sort of comparison analysis done in the near future...
+
+Output folder:
+
+- [20190312_cvir_gonad_bismark/](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/)
+
+Summary reports for each of the configurations (HTML):
+
+- [avg_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/avg_reads_bismark/bismark_summary_report.html)
+
+  - 27,591,427 reads
+
+  - 25.0% unique alignments
+
+  - 74.2% methylated CpG
+
+- [half_avg_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/half_avg_reads_bismark/bismark_summary_report.html)
+
+  - 55,182,854 reads
+
+  - 28.9% unique alignments
+
+  - 73.6% methylated CpG
+
+- [half_total_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/half_total_reads_bismark/bismark_summary_report.html)
+
+  - 275,914,272 reads
+
+  - 32.8% unique alignments
+
+  - 75.5% methylated CpG
