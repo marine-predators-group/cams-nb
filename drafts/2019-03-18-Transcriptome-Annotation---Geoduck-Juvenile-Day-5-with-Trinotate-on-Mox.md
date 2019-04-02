@@ -2,13 +2,41 @@
 layout: post
 title: Transcriptome Annotation - Geoduck Juvenile Day 5 with Trinotate on Mox
 date: '2019-03-18 15:41'
-tags: 
+tags:
   - geoduck
   - Panopea generosa
   - trinotate
   - mox
   - transcriptome
   - trinity
-categories: 
+categories:
   - Miscellaneous
 ---
+Trinity:
+
+- []()
+
+Transdecoder:
+
+- []()
+
+BLASTx:
+
+- []()
+
+
+SBATCH script:
+
+- []()
+
+<pre><code>
+
+</code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- []()
