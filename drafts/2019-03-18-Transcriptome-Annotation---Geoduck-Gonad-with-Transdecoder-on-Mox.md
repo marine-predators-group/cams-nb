@@ -13,6 +13,13 @@ tags:
 categories:
   - Miscellaneous
 ---
+Continuing tissue-specific RNAseq. Using Transdecoder to identify open reading frames (ORFs). Relies on BLASTp, Pfam, and HMM scanning to ID ORFs.
+
+Trinity notebook:
+
+- [20190215_trinity_geoduck_gonad_01_RNAseq](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-Specific-Assembly-Gonad.html)
+
+
 SBATCH script:
 
 - [20190318_transdecoder_geoduck_gonad_01_RNAseq.sh](http://gannet.fish.washington.edu/Atumefaciens/20190318_transdecoder_geoduck_gonad_01_RNAseq/20190318_transdecoder_geoduck_gonad_01_RNAseq.sh)
