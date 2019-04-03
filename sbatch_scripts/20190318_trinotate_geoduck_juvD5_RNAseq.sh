@@ -75,10 +75,14 @@ trinotate="${trinotate_dir}/Trinotate"
 trinotate_rnammer="${trinotate_dir}/util/rnammer_support/RnammerTranscriptome.pl"
 pfam_db="${trinotate_dir}/admin/Pfam-A.hmm"
 sp_db="${trinotate_dir}/admin/uniprot_sprot.pep"
-trinotate_sqlite_db="${trinotate_dir}/admin/Trinotate.sqlite"
+trinotate_sqlite_db="Trinotate.sqlite"
 
 # Make output directories
 mkdir ${rnammer_out_dir} ${signalp_out_dir} ${tmhmm_out_dir}
+
+# Copy sqlite database template
+
+cp ${trinotate_dir}/admin/Trinotate.sqlite .
 
 # Run signalp
 ${signalp} \
