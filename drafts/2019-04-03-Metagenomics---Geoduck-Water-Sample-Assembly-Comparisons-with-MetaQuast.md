@@ -114,3 +114,24 @@ Output folder:
 Quast Report (HTML):
 
 - [20190403_metagenomics_pgen_metaquast_comparisons/quast_results/results_2019_04_03_08_23_17/report.html](http://gannet.fish.washington.edu/Atumefaciens/20190403_metagenomics_pgen_metaquast_comparisons/quast_results/results_2019_04_03_08_23_17/report.html)
+
+- The Quast HTML report is a fully interactive report with ways to change views of the data, including contig browsers, heat maps, line graphs.
+
+  - Screen cap of default report view (look at the "Stastics without Reference" section at the bottom of the table):
+
+---
+
+  ![Screen cap of default report view](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190404_metagenomics_pgen_quast-01.png?raw=true)
+
+---
+
+  - Screen cap of the Icarus Contig Viewer:
+
+---
+
+![Screen cap of the Icarus Contig Viewer](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190404_metagenomics_pgen_quast-02.png?raw=true)
+
+
+---
+
+At a cursory glance at the comparisons, I'd say that the assemblies that I generated with Megahit seem a bit more robust than those that were generated using NGless. Unfortunately, the NGless job submission is a bit of a black box, as Emma's cluster loaded it as part of a cluster "module" - meaning the settings for NGless are stored in there, not actually in the cluster job submission script. Maybe I'll contact Emma and see if she can pass along the NGless module contents.
