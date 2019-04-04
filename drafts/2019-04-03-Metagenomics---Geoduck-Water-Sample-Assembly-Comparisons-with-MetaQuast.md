@@ -93,10 +93,24 @@ python \
 /home/sam/data/metagenomics/P_generosa/contigsM7S2.fa \
 /home/sam/data/metagenomics/P_generosa/MG7.contigs.fa
 </code></pre>
+
+
+
+
 ---
 
 #### RESULTS
 
+This took most of the day to run, but churns out some interesting info/data visualizations.
+
+Basically, MetaQuast takes the assemblies you provide it and runs a BLASTn against SILVA 16S rRNA database. After annotating your assemblies via BLASTn, it tries to match taxonomy to a subset (n=50) of NCBI prokaryotic reference genomes. As such, the taxonomic data in this particular assessment is limited and is somewhat obvious when looking at the data (e.g. most contigs don't align to any of the references). Consequently, the various "Genome Statistics" carry little weight on considering the impications of that data, in my opinion.
+
+However, it does provide an excellent summary on how big each of the assemblies are, N50, largest contigs, etc.
+
 Output folder:
 
 - [20190403_metagenomics_pgen_metaquast_comparisons/](http://gannet.fish.washington.edu/Atumefaciens/20190403_metagenomics_pgen_metaquast_comparisons/)
+
+Quast Report (HTML):
+
+- [20190403_metagenomics_pgen_metaquast_comparisons/quast_results/results_2019_04_03_08_23_17/report.html](http://gannet.fish.washington.edu/Atumefaciens/20190403_metagenomics_pgen_metaquast_comparisons/quast_results/results_2019_04_03_08_23_17/report.html)
