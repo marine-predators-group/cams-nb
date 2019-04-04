@@ -72,6 +72,31 @@ write(contigs, ofile='orfM7S2.fna')
 
 I `rsync`'d all the assembly files to my computer (swoose) and ran [MetaQuast](http://quast.sourceforge.net/metaquast) locally. I did _not_ provide MetaQuast with individual reads, nor reference, as I just wanted a quick and dirty assessment of each of the assemblies. For a more in-depth comparison, I'm currently running [Anvi'o](http://merenlab.org/software/anvio/) on Mox.
 
+I ran MetaQuast with the following command:
+
+<pre><code>
+python \
+/home/sam/programs/quast-5.0.2/metaquast.py \
+--threads=20 \
+--min-contig=100 \
+--labels=MG1_ets,MG1_sjw,MG2_ets,MG2_sjw,MG3_ets,MG3_sjw,MG5_ets,MG5_sjw,MG6_ets,MG6_sjw,MG7_ets,MG7_sjw \
+/home/sam/data/metagenomics/P_generosa/contigsMG1S3.fa \
+/home/sam/data/metagenomics/P_generosa/MG1.contigs.fa \
+/home/sam/data/metagenomics/P_generosa/contigsMG2S4.fa \
+/home/sam/data/metagenomics/P_generosa/MG2.contigs.fa \
+/home/sam/data/metagenomics/P_generosa/contigsM32S1.fa \
+/home/sam/data/metagenomics/P_generosa/MG3.contigs.fa \
+/home/sam/data/metagenomics/P_generosa/contigsM5S6.fa \
+/home/sam/data/metagenomics/P_generosa/MG5.contigs.fa \
+/home/sam/data/metagenomics/P_generosa/contigsM6S5.fa \
+/home/sam/data/metagenomics/P_generosa/MG6.contigs.fa \
+/home/sam/data/metagenomics/P_generosa/contigsM7S2.fa \
+/home/sam/data/metagenomics/P_generosa/MG7.contigs.fa
+</code></pre>
 ---
 
 #### RESULTS
+
+Output folder:
+
+- [20190403_metagenomics_pgen_metaquast_comparisons/](http://gannet.fish.washington.edu/Atumefaciens/20190403_metagenomics_pgen_metaquast_comparisons/)
