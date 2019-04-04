@@ -153,6 +153,8 @@ done
 
 #### RESULTS
 
+I'll assess these when I get Emma's individual assemblies and create a new post with that comparison.
+
 Output folder:
 
 - [20190327_metagenomics_geo_megahit/](http://gannet.fish.washington.edu/Atumefaciens/20190327_metagenomics_geo_megahit)
