@@ -79,7 +79,37 @@ do
   echo ${fastq#${fastq_dir}} >> fastq.list.txt
 done
 
+##########################
+# Reformat FastA deflines for reference assembly
+${anvi_dir}/anvi-script-reformat-fasta \
+${megahit_assembly} \
+-o megahit_assembly.renamed.fa \
+--simplify-names \
+-l 0 \
+--report-file megahit_assembly.renamed.txt
 
+# Create FastA index
+${samtools} faidx megahit_assembly.renamed.fa
+
+# Create Anvio database
+${anvi_dir}/anvi-gen-contigs-database \
+-f megahit_assembly.renamed.fa \
+-o contigs.db \
+--project-name "metagenome geoduck contigs"
+##########################
+
+# Run HMMs
+${anvi_dir}/anvi-run-hmms \
+-c contigs.db \
+--num-threads ${cpus}
+
+# Assign Clusters of Orthologous Groups (COGs)
+${anvi_dir}/anvi-run-ncbi-cogs \
+-c contigs.db \
+--num-threads ${cpus}
+##########################
+
+# Process individual samples
 # Re-label FastAs
 for sample in ${!samples_array[@]}
 do
@@ -110,21 +140,6 @@ do
   ${sample_name}.RAW.bam \
   -o ${sample_name}.bam
   ##########################
-  # Create Anvio database
-  ${anvi_dir}/anvi-gen-contigs-database \
-  -f ${sample_name}.renamed.fa \
-  -o contigs.db \
-  --project-name "${sample_name} contigs"
-  ##########################
-  # Run HMMs
-  ${anvi_dir}/anvi-run-hmms \
-  -c contigs.db \
-  --num-threads ${cpus}
-  ##########################
-  # Assign Clusters of Orthologous Groups (COGs)
-  ${anvi_dir}/anvi-run-ncbi-cogs \
-  -c contigs.db \
-  --num-threads ${cpus}
   ##########################
   # Create Anvio profile database
   ${anvi_dir}/anvi-profile \
