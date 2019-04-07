@@ -49,6 +49,8 @@ wd=$(pwd)
 cpus=28
 megahit_assembly=/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/final.contigs.fa
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
+ref_assembly_renamed="megahit_assembly.renamed"
+ref_assembly_renamed_fasta="megahit_assembly.renamed.fa"
 
 ## Inititalize arrays
 samples_array=(MG1 MG2 MG3 MG5 MG6 MG7)
@@ -83,17 +85,17 @@ done
 # Reformat FastA deflines for reference assembly
 ${anvi_dir}/anvi-script-reformat-fasta \
 ${megahit_assembly} \
--o megahit_assembly.renamed.fa \
+-o ${ref_assembly_renamed_fasta} \
 --simplify-names \
 -l 0 \
---report-file megahit_assembly.renamed.txt
+--report-file ${ref_assembly_renamed}.txt
 
 # Create FastA index
-${samtools} faidx megahit_assembly.renamed.fa
+${samtools} faidx ${ref_assembly_renamed_fasta}
 
 # Create Anvio database
 ${anvi_dir}/anvi-gen-contigs-database \
--f megahit_assembly.renamed.fa \
+-f ${ref_assembly_renamed_fasta} \
 -o contigs.db \
 --project-name "metagenome geoduck contigs"
 ##########################
@@ -117,7 +119,7 @@ do
   ##########################
   # Reformat FastA deflines
   ${anvi_dir}/anvi-script-reformat-fasta \
-  ${megahit_assembly} \
+  ${ref_assembly_renamed_fasta} \
   -o ${sample_name}.renamed.fa \
   --simplify-names \
   -l 0 \
@@ -128,7 +130,7 @@ do
   ##########################
   # Map reads to FastAs
   ${bbmap_dir}/bbwrap.sh \
-  ref=${sample_name}.renamed.fa \
+  ref=${ref_assembly_renamed_fasta} \
   in1=${fastq_array_R1[sample]} \
   in2=${fastq_array_R2[sample]} \
   out=${sample_name}.aln.sam.gz
