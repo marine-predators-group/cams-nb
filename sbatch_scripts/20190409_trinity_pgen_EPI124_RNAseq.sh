@@ -50,6 +50,13 @@ do
   fastq_array_R2+=(${fastq})
 done
 
+# Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
+for fastq in ${fastq_dir}/*EPI-124*.gz
+do
+  echo ${fastq} >> fastq.list.txt
+done
+
 # Run Trinity
 ${trinity_dir}/Trinity \
 --trimmomatic \
