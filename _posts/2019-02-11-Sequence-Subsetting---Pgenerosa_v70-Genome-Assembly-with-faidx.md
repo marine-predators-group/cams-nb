@@ -10,7 +10,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-[Steven asked to subset geoduck assembly](https://github.com/RobertsLab/resources/issues/572) in to >10kbp and >30kbp groups. Here are the commands, using ```faidx```:
+[Steven asked to subset geoduck assembly](https://github.com/RobertsLab/resources/issues/572) in to >10kbp and >30kbp groups. Here are the commands, using [```faidx```](https://github.com/mdshw5/pyfaidx):
 
 
 #### >10kbp subsetting
