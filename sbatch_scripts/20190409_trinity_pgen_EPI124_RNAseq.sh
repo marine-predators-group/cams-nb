@@ -33,3 +33,18 @@ echo ${PATH} | tr : \\n >> system_path.log
 data_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq
 trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
 assembly_stats=assembly_stats.txt
+
+# Run Trinity
+${trinity_dir}/Trinity \
+--trimmomatic \
+--seqType fq \
+--max_memory 120G \
+--CPU 56 \
+--left \
+
+--right \
+
+
+# Assembly stats
+${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
+> ${assembly_stats}
