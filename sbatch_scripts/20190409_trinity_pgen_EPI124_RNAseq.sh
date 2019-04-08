@@ -34,6 +34,22 @@ data_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq
 trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
 assembly_stats=assembly_stats.txt
 
+## Inititalize arrays
+fastq_array_R1=()
+fastq_array_R2=()
+
+# Create array of fastq R1 files
+for fastq in ${fastq_dir}/*EPI-124*R1*.gz
+do
+  fastq_array_R1+=(${fastq})
+done
+
+# Create array of fastq R2 files
+for fastq in ${fastq_dir}/*EPI-124*R2*.gz
+do
+  fastq_array_R2+=(${fastq})
+done
+
 # Run Trinity
 ${trinity_dir}/Trinity \
 --trimmomatic \
