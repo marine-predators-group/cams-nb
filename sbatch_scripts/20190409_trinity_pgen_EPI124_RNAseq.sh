@@ -18,11 +18,9 @@
 #SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190409_trinity_pgen_EPI124_RNAseq
 
 # Load Python Mox module for Python module availability
-
 module load intel-python3_2017
 
 # Document programs in PATH (primarily for program version ID)
-
 date >> system_path.log
 echo "" >> system_path.log
 echo "System PATH for $SLURM_JOB_ID" >> system_path.log
@@ -30,12 +28,15 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
+# User-defined variables
 data_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq
 threads=28
-
-trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
-samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 assembly_stats=assembly_stats.txt
+
+# Paths to programs
+trinity_dir="/gscratch/srlab/programs/Trinity-v2.8.3"
+samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+
 
 ## Inititalize arrays
 R1_array=()
