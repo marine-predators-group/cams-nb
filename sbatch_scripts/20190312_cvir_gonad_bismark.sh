@@ -91,18 +91,17 @@ printf "%s\t%s\n\n" "LIBRARY" "COUNT" >> library_counts.txt
 # Determine total reads counts from all libraries
 ## Iterates through arrays and determines read counts
 ## by counting lines in FastQ and dividing by 4.
-## Each loop adds the read1 and read2 read counts to the total
+## Each loop adds the read1 read counts to the total
+## Only uses R1 because Bismark interprets subsetting value as read pairs
 for fastq in "${!R1_array[@]}"
 do
   lib_count=0
   R1_fastq=${R1_array[fastq]}
-  R2_fastq=${R2_array[fastq]}
   lib_name=$(echo ${R1_fastq} | awk -F'_' '{ print $3 }')
   R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
-  R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
-  lib_count=$(echo ${R1_count} + ${R2_count} | bc)
+  lib_count=$(echo ${R1_count})
   printf "%s%s\t%s\n" "library_" "${lib_name}" "${lib_count}" >> library_counts.txt
-  total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
+  total_reads=$(echo ${R1_count} + ${total_reads}| bc)
 done
 
 # Calcuations for different read amounts desired for analysis.
