@@ -1,14 +1,14 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=trinity_20190215
+#SBATCH --job-name=trin_epi124
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
 ## Resources
 ## Nodes
-#SBATCH --nodes=2
+#SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
-#SBATCH --time=5-00:00:00
+#SBATCH --time=30-00:00:00
 ## Memory per node
 #SBATCH --mem=120G
 ##turn on e-mail notification
@@ -31,6 +31,8 @@ printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
 data_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq
+threads=28
+
 trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 assembly_stats=assembly_stats.txt
@@ -66,7 +68,7 @@ ${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
 --max_memory 120G \
---CPU 56 \
+--CPU ${threads} \
 --left \
 ${R1_list} \
 --right \
