@@ -35,20 +35,18 @@ trinity_dir=/gscratch/srlab/programs/Trinity-v2.8.3
 assembly_stats=assembly_stats.txt
 
 ## Inititalize arrays
-fastq_array_R1=()
-fastq_array_R2=()
+R1_array=()
+R2_array=()
+
+# Variables for R1/R2 lists
+R1_list=""
+R2_list=""
 
 # Create array of fastq R1 files
-for fastq in ${fastq_dir}/*R1*.gz
-do
-  fastq_array_R1+=(${fastq})
-done
+R1_array=(${reads_dir}/*_R1_*.fq.gz)
 
 # Create array of fastq R2 files
-for fastq in ${fastq_dir}/*R2*.gz
-do
-  fastq_array_R2+=(${fastq})
-done
+R2_array=(${reads_dir}/*_R2_*.fq.gz)
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
@@ -57,6 +55,11 @@ do
   echo ${fastq##*/} >> fastq.list.txt
 done
 
+# Create comma-separated lists of FastQ reads
+R1_list=$(echo ${R1_array[@]} | tr " " ",")
+R2_list=$(echo ${R2_array[@]} | tr " " ",")
+
+
 # Run Trinity
 ${trinity_dir}/Trinity \
 --trimmomatic \
@@ -64,9 +67,9 @@ ${trinity_dir}/Trinity \
 --max_memory 120G \
 --CPU 56 \
 --left \
-
+${R1_list} \
 --right \
-
+${R2_list}
 
 # Assembly stats
 ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
