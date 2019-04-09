@@ -47,7 +47,7 @@ Other tissue was from a single, adult geoduck, collected by [Brent & Steven on 2
   6. Larvae day 0 ([EPI_74, EPI_75](https://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
 
 
-  7. Larvae day 5 ([EPI_99](https://github.com/hputnam/project_larval_geoduck_OA/edit/master/Larval_Sample_Info.csv))
+  7. Larvae day 5 ([EPI_99](https://github.com/hputnam/project_larval_geoduck_OA/blob/master/Larval_Sample_Info.csv))
 
 
   8. Crystalline style
