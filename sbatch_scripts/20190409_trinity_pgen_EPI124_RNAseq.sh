@@ -39,22 +39,22 @@ fastq_array_R1=()
 fastq_array_R2=()
 
 # Create array of fastq R1 files
-for fastq in ${fastq_dir}/*EPI-124*R1*.gz
+for fastq in ${fastq_dir}/*R1*.gz
 do
   fastq_array_R1+=(${fastq})
 done
 
 # Create array of fastq R2 files
-for fastq in ${fastq_dir}/*EPI-124*R2*.gz
+for fastq in ${fastq_dir}/*R2*.gz
 do
   fastq_array_R2+=(${fastq})
 done
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
-for fastq in ${fastq_dir}/*EPI-124*.gz
+for fastq in ${fastq_dir}/*.gz
 do
-  echo ${fastq} >> fastq.list.txt
+  echo ${fastq##*/} >> fastq.list.txt
 done
 
 # Run Trinity
