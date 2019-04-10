@@ -57,7 +57,7 @@ R2_array=(${reads_dir}/*_R2_*.fq.gz)
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
-for fastq in ${fastq_dir}/*.gz
+for fastq in ${reads_dir}/*.gz
 do
   echo ${fastq##*/} >> fastq.list.txt
 done
