@@ -50,10 +50,10 @@ R1_list=""
 R2_list=""
 
 # Create array of fastq R1 files
-R1_array=(${reads_dir}/*_R1_*.fq.gz)
+R1_array=(${reads_dir}/*_R1_*.gz)
 
 # Create array of fastq R2 files
-R2_array=(${reads_dir}/*_R2_*.fq.gz)
+R2_array=(${reads_dir}/*_R2_*.gz)
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
