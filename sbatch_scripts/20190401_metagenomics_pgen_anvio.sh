@@ -78,7 +78,7 @@ done
 ## Uses parameter substitution to strip leading path from filename
 for fastq in ${fastq_dir}*.gz
 do
-  echo ${fastq#${fastq_dir}} >> fastq.list.txt
+  echo ${fastq##*/} >> fastq.list.txt
 done
 
 ##########################
