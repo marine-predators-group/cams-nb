@@ -84,9 +84,9 @@ ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
 
 # Create gene map files
 ${trinity_dir}/util/support_scripts/get_Trinity_gene_to_trans_map.pl \
-trinity_out/Trinity.fasta \
-> trinity_out/Trinity.fasta.gene_trans_map
+trinity_out_dir/Trinity.fasta \
+> trinity_out_dir/Trinity.fasta.gene_trans_map
 
 # Create FastA index
 ${samtools} faidx \
-trinity_out/Trinity.fasta
+trinity_out_dir/Trinity.fasta
