@@ -15,3 +15,26 @@ tags:
 categories:
   - Miscellaneous
 ---
+SBATCH script (GitHub):
+
+- []()
+
+<pre><code>
+
+</code></pre>
+
+---
+
+#### RESULTS
+
+Output folder:
+
+- []()
+
+Trinity FastA:
+
+- []()
+
+Trinity FastA index file:
+
+- []()
