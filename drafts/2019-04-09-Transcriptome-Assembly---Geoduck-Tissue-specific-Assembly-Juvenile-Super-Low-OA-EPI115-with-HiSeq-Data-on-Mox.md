@@ -15,6 +15,10 @@ tags:
 categories:
   - Miscellaneous
 ---
+Ran a _de novo_ assembly on our HiSeq data from [Hollie's juvenile EPI 115 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+
+Trimming of the HiSeq data was performed via Trinity, using the `--trimmomatic` option.
+
 SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_EPI115_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_EPI115_RNAseq.sh)
@@ -118,14 +122,88 @@ trinity_out_dir/Trinity.fasta
 
 #### RESULTS
 
+This took ~12hrs to complete.
+
+I'll pass this along to Steven/Christian, since this was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+
+I'll also probably just take this through the annotation pipeline, since it's not difficult, nor time consuming.
+
 Output folder:
 
-- []()
+- [20190409_trinity_pgen_EPI115_RNAseq/](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/)
 
 Trinity FastA:
 
-- []()
+- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- []()
+- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai)
+
+
+Assembly stats (text):
+
+- [20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt)
+
+```
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	199765
+Total trinity transcripts:	320691
+Percent GC: 36.50
+
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 5803
+	Contig N20: 3937
+	Contig N30: 2902
+	Contig N40: 2153
+	Contig N50: 1581
+
+	Median contig length: 411
+	Average contig: 842.06
+	Total assembled bases: 270039845
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 4344
+	Contig N20: 2835
+	Contig N30: 1998
+	Contig N40: 1433
+	Contig N50: 1002
+
+	Median contig length: 339
+	Average contig: 641.10
+	Total assembled bases: 128069660
+
+```
+
+
+List of input FastQs (text):
+
+- [20190409_trinity_pgen_EPI115_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/fastq.list.txt)
+
+```
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-1_S4_L001_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-1_S4_L001_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-2_S12_L002_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-2_S12_L002_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-3_S20_L003_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-3_S20_L003_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-4_S28_L004_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-4_S28_L004_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-5_S36_L005_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-5_S36_L005_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-6_S44_L006_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-6_S44_L006_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-7_S52_L007_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-7_S52_L007_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-8_S60_L008_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-115-8_S60_L008_R2_001.fastq.gz
+```
