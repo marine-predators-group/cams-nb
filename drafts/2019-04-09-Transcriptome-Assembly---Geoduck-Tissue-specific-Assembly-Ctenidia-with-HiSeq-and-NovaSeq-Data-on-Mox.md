@@ -15,6 +15,10 @@ categories:
 
 I previously assembled and annotated _P.generosa_ ctenidia transcriptome ([20190318](https://robertslab.github.io/sams-notebook/2019/03/18/Transcriptome-Annotation-Geoduck-Ctenidia-with-Trinotate-on-Mox.html)) using just our HiSeq data from our Illumina collaboration. This was a an oversight, as I didn't realize that we also had NovaSeq RNAseq data. So, I've initiated another _de novo_ assembly using Trinity incorporating both sets of data.
 
+NovaSeq data had been [previously trimmed](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
+
+Trimming of the HiSeq data was performed via Trinity, using the `--trimmomatic` option.
+
 SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_ctenidia_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_ctenidia_RNAseq.sh)
@@ -118,14 +122,67 @@ trinity_out_dir/Trinity.fasta
 
 #### RESULTS
 
+This took ~12hrs to complete.
+
+I'll pass this along to Steven/Christian, since this was done for Christian to use in some long, non-coding RNA (lncRNA) analysies.
+
+I'll also probably just take this through the annotation pipeline, since it's not difficult, nor time consuming.
+
 Output folder:
 
-- []()
+- [20190409_trinity_pgen_EPI115_RNAseq](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/)
 
 Trinity FastA:
 
-- []()
+- 20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta[](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- []()
+- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai)
+
+Trinity Gene Trans Map file:
+
+- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map)
+
+
+Assembly stats (text):
+
+- [20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt)
+
+```
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	199765
+Total trinity transcripts:	320691
+Percent GC: 36.50
+
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 5803
+	Contig N20: 3937
+	Contig N30: 2902
+	Contig N40: 2153
+	Contig N50: 1581
+
+	Median contig length: 411
+	Average contig: 842.06
+	Total assembled bases: 270039845
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 4344
+	Contig N20: 2835
+	Contig N30: 1998
+	Contig N40: 1433
+	Contig N50: 1002
+
+	Median contig length: 339
+	Average contig: 641.10
+	Total assembled bases: 128069660
+  ```
