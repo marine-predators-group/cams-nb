@@ -13,11 +13,13 @@ categories:
   - Miscellaneous
 ---
 
-I ran [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) (v3.1.1) on Mox to annotate the _P.generosa_ ctenidia transcriptome I previously assembled with the HiSeq data from Illumina.
+I ran [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) (v3.1.1) on Mox to annotate the _P.generosa_ larvae transcriptome I previously assembled with the HiSeq data from Illumina.
+
+NOTE: I have this mislabelled as "juvenile" in all previous steps!
 
 Trinity:
 
-- [20190215 Juvenile Day 5 Trinity](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-Specific-Assembly-Ctenidia.html)
+- [20190215 Juvenile Day 5 Trinity](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile.html)
 
 Transdecoder:
 

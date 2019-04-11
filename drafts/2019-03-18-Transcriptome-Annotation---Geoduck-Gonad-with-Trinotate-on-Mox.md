@@ -13,7 +13,7 @@ categories:
   - Miscellaneous
 ---
 
-I ran [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) (v3.1.1) on Mox to annotate the _P.generosa_ ctenidia transcriptome I previously assembled with the HiSeq data from Illumina.
+I ran [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) (v3.1.1) on Mox to annotate the _P.generosa_ gonad transcriptome I previously assembled with the HiSeq data from Illumina.
 
 Trinity:
 
