@@ -12,6 +12,8 @@ tags:
 categories:
   - Miscellaneous
 ---
+I ran [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki) (v3.1.1) on Mox to annotate the _P.generosa_ ctenidia transcriptome I previously assembled with the HiSeq data from Illumina.
+
 Trinity:
 
 - [20190215 Ctenidia Trinity](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-Specific-Assembly-Ctenidia.html)
@@ -201,3 +203,50 @@ Trinotate Annotation Table (text):
 Trinotate SQLlite Database:
 
 - [20190318_trinotate_geoduck_ctenidia_RNAseq/Trinotate.sqlite](http://gannet.fish.washington.edu/Atumefaciens/20190318_trinotate_geoduck_ctenidia_RNAseq/Trinotate.sqlite)
+
+Info on report output, from the [Trinotate wiki](https://github.com/Trinotate/Trinotate.github.io/wiki/Loading-generated-results-into-a-Trinotate-SQLite-Database-and-Looking-the-Output-Annotation-Report):
+
+<pre><code>
+The output has the following column headers:
+0       #gene_id
+1       transcript_id
+2       sprot_Top_BLASTX_hit
+3       RNAMMER
+4       prot_id
+5       prot_coords
+6       sprot_Top_BLASTP_hit
+7       custom_pombe_pep_BLASTX
+8       custom_pombe_pep_BLASTP
+9       Pfam
+10      SignalP
+11      TmHMM
+12      eggnog
+13      Kegg
+14      gene_ontology_blast
+15      gene_ontology_pfam
+16      transcript
+17      peptide
+
+and the data are formatted like so:
+
+0       TRINITY_DN179_c0_g1
+1       TRINITY_DN179_c0_g1_i1
+2       GCS1_SCHPO^GCS1_SCHPO^Q:53-2476,H:1-808^100%ID^E:0^RecName: Full=Probable mannosyl-oligosaccharide glucosidase;^Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina; Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae; Schizosaccharomyces
+3       .
+4       TRINITY_DN179_c0_g1_i1|m.1
+5       2-2479[+]
+6       GCS1_SCHPO^GCS1_SCHPO^Q:18-825,H:1-808^100%ID^E:0^RecName: Full=Probable mannosyl-oligosaccharide glucosidase;^Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina; Schizosaccharomycetes; Schizosaccharomycetales; Schizosaccharomycetaceae; Schizosaccharomyces
+7       SPAC6G10_09_SPAC6G10_09_I_alpha_glucosidase_I_Gls1_predicte^SPAC6G10_09_SPAC6G10_09_I_alpha_glucosidase_I_Gls1_predicte^Q:53-2476,H:1-808^100%ID^E:0^.^.
+8       SPAC6G10_09_SPAC6G10_09_I_alpha_glucosidase_I_Gls1_predicte^SPAC6G10_09_SPAC6G10_09_I_alpha_glucosidase_I_Gls1_predicte^Q:18-825,H:1-808^100%ID^E:0^.^.
+9       PF16923.2^Glyco_hydro_63N^Glycosyl hydrolase family 63 N-terminal domain^58-275^E:6.9e-60`PF03200.13^Glyco_hydro_63^Glycosyl hydrolase family 63 C-terminal domain^315-823^E:5.1e-187
+10      .
+11      .
+12      .
+13      KEGG:spo:SPAC6G10.09`KO:K01228
+14      GO:0005783^cellular_component^endoplasmic reticulum`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0016021^cellular_component^integral component of membrane`GO:0004573^molecular_function^mannosyl-oligosaccharide glucosidase activity`GO:0009272^biological_process^fungal-type cell wall biogenesis`GO:0009311^biological_process^oligosaccharide metabolic process`GO:0006487^biological_process^protein N-linked glycosylation
+15      .
+16      .
+17      .
+
+Backticks  and carets (^) are used as delimiters for data packed within an individual field, such as separating E-values, percent identity, and taxonomic info for best matches. When there are multiple assignments in a given field, the assignments are separated by (`) and the fields within an assignment are separated by (^).
+</code></pre>
