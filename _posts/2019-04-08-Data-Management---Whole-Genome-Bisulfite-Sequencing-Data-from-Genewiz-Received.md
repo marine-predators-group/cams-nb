@@ -38,3 +38,7 @@ Received the WGBS data from Genewiz that were [sent to Genewiz for whole genome 
 - [Shelly's _P.generosa_ samples](https://shellytrigg.github.io/38th-post/)
 
 Transferred data to [nightingales/C_gigas](http://owl.fish.washington.edu/nightingales/C_gigas/) or [nightingales/P_generosa](http://owl.fish.washington.edu/nightingales/P_generosa/) and verified MD5 checksums. Have added list of files to [nightingales spreadsheet](https://docs.google.com/spreadsheets/d/1_XqIOPVHSBVGscnjzDSWUeRL7HUHXfaHxVzec-I-8Xk/edit#gid=0)(Google Sheet).
+
+Also, of importance, are trimming guidelines for these sequences. [Hollie contacted Genewiz about their library prep](https://genefish.slack.com/archives/CD9M5LSFK/p1552084666004400) and learned they use the [Accel-NGS Methyl-Seq DNA Library Kit (Swift)](https://swiftbiosci.com/products/accel-ngs-methyl-seq-dna-library-kit/accel-ngs-methyl-seq-dna-library-kit/). Swift provides a [technical bulletin on trimming](https://swiftbiosci.com/wp-content/uploads/2016/09/16-0853-Tail-Trim-TN.pdf) and indicates the following:
+
+> Trimming 10 bases from the beginning of both R1 and R2 _following_ adapter trimming eliminates the majority of Adaptase tails.
