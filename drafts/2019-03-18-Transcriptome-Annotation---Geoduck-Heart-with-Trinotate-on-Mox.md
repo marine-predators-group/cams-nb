@@ -193,3 +193,11 @@ report \
 Output folder:
 
 - [20190318_trinotate_geoduck_heart_RNAseq/](http://gannet.fish.washington.edu/Atumefaciens/20190318_trinotate_geoduck_heart_RNAseq/)
+
+Trinotate Annotation Table (text):
+
+- [20190318_trinotate_geoduck_heart_RNAseq/trinotate_annotation_report.txt](http://gannet.fish.washington.edu/Atumefaciens/20190318_trinotate_geoduck_heart_RNAseq/trinotate_annotation_report.txt)
+
+Trinotate SQLlite Database:
+
+- [20190318_trinotate_geoduck_heart_RNAseq/Trinotate.sqlite](http://gannet.fish.washington.edu/Atumefaciens/20190318_trinotate_geoduck_heart_RNAseq/Trinotate.sqlite)
