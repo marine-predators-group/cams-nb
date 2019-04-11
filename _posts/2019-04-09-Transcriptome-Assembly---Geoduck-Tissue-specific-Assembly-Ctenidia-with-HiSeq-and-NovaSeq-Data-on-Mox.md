@@ -185,4 +185,31 @@ Stats based on ALL transcript contigs:
 	Median contig length: 339
 	Average contig: 641.10
 	Total assembled bases: 128069660
-  ```
+```
+
+List of input FastQs (text):
+
+- [20190409_trinity_pgen_ctenidia_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/fastq.list.txt)
+
+```
+Geoduck-ctenidia-RNA-1_S3_L001_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-1_S3_L001_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-2_S11_L002_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-2_S11_L002_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-3_S19_L003_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-3_S19_L003_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-4_S27_L004_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-4_S27_L004_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-5_S35_L005_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-5_S35_L005_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-6_S43_L006_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-6_S43_L006_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-7_S51_L007_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-7_S51_L007_R2_001.fastq.gz
+Geoduck-ctenidia-RNA-8_S59_L008_R1_001.fastq.gz
+Geoduck-ctenidia-RNA-8_S59_L008_R2_001.fastq.gz
+NR012_S1_L001_R1_001_val_1_val_1.fq.gz
+NR012_S1_L001_R2_001_val_2_val_2.fq.gz
+NR012_S1_L002_R1_001_val_1_val_1.fq.gz
+NR012_S1_L002_R2_001_val_2_val_2.fq.gz
+```
