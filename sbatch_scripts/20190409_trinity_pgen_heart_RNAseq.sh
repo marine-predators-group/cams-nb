@@ -2,15 +2,15 @@
 ## Job Name
 #SBATCH --job-name=trin_heart
 ## Allocation Definition
-#SBATCH --account=coenv
-#SBATCH --partition=coenv
+#SBATCH --account=srlab
+#SBATCH --partition=srlab
 ## Resources
 ## Nodes
 #SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
 #SBATCH --time=30-00:00:00
 ## Memory per node
-#SBATCH --mem=120G
+#SBATCH --mem=500G
 ##turn on e-mail notification
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
