@@ -15,6 +15,13 @@ tags:
 categories:
   - Miscellaneous
 ---
+Ran a _de novo_ assembly on our HiSeq and NovaSeq data from [Hollie's juvenile EPI 115 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+
+
+NovaSeq data had been [previously trimmed](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
+
+Trimming of the HiSeq data was performed via Trinity, using the `--trimmomatic` option.
+
 SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_EPI116_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_EPI116_RNAseq.sh)
