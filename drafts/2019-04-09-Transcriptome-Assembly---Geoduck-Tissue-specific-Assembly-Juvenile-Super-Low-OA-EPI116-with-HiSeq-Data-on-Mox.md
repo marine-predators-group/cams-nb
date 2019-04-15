@@ -124,11 +124,11 @@ Output folder:
 
 Trinity FastA:
 
-- []()
+- [20190409_trinity_pgen_EPI116_RNAseq/trinity_out_dir/Trinity.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI116_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- []()
+- [20190409_trinity_pgen_EPI116_RNAseq/trinity_out_dir/Trinity.fasta.fai](20190409_trinity_pgen_EPI116_RNAseq/trinity_out_dir/Trinity.fasta.fai)
 
 Trinity Gene Trans Map file:
 
