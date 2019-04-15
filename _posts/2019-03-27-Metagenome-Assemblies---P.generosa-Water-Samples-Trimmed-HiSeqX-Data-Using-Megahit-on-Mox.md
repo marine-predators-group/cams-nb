@@ -30,9 +30,9 @@ Here's how the sample names breakdown:
 
 
 
-SBATCH script:
+SBATCH script (GitHub):
 
-- [20190327_metagenomics_geo_megahit.sh]()
+- [20190327_metagenomics_geo_megahit.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190327_metagenomics_pgen_megahit.sh)
 
 <pre><code>
 #!/bin/bash
