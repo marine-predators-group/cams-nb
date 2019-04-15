@@ -120,15 +120,15 @@ trinity_out_dir/Trinity.fasta
 
 Output folder:
 
-- []()
+- [](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI123_RNAseq/)
 
 Trinity FastA:
 
-- []()
+- [20190409_trinity_pgen_EPI123_RNAseq/trinity_out_dir/Trinity.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI123_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- []()
+- [20190409_trinity_pgen_EPI123_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI123_RNAseq/trinity_out_dir/Trinity.fasta.fai)
 
 Trinity Gene Trans Map file:
 
@@ -140,7 +140,41 @@ Assembly stats (text):
 - [20190409_trinity_pgen_EPI123_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI123_RNAseq/assembly_stats.txt)
 
 ```
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	196131
+Total trinity transcripts:	303568
+Percent GC: 35.58
 
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 4364
+	Contig N20: 3019
+	Contig N30: 2269
+	Contig N40: 1724
+	Contig N50: 1286
+
+	Median contig length: 418
+	Average contig: 772.07
+	Total assembled bases: 234374927
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 3592
+	Contig N20: 2435
+	Contig N30: 1767
+	Contig N40: 1292
+	Contig N50: 932
+
+	Median contig length: 355
+	Average contig: 629.19
+	Total assembled bases: 123402828
 ```
 
 List of input FastQs (text):
@@ -148,5 +182,20 @@ List of input FastQs (text):
 - [20190409_trinity_pgen_EPI123_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI123_RNAseq/fastq.list.txt)
 
 ```
-
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-1_S6_L001_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-1_S6_L001_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-2_S14_L002_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-2_S14_L002_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-3_S22_L003_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-3_S22_L003_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-4_S30_L004_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-4_S30_L004_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-5_S38_L005_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-5_S38_L005_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-6_S46_L006_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-6_S46_L006_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-7_S54_L007_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-7_S54_L007_R2_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-8_S62_L008_R1_001.fastq.gz
+Geoduck-juvenile-ambient-exposure-RNA-EPI-123-8_S62_L008_R2_001.fastq.gz
 ```
