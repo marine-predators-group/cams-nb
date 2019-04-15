@@ -51,37 +51,47 @@ fastq_array_R1=()
 fastq_array_R2=()
 names_array=(pH71 pH82)
 
-
+# Create list of input FastQs used for concatenation
+# Concatenate all pH7.1 R1 FastQs
 for fastq in Library_Geoduck_MG_[367]*_R1_*.gz
 do
   echo ${fastq} >> fastq.list.pH71.txt
   cat ${fastq} >> pH71.all.R1.fq.gz
 done
 
+# Create list of input FastQs used for concatenation
+# Concatenate all pH7.1 R2 FastQs
 for fastq in Library_Geoduck_MG_[367]*_R2_*.gz
 do
   echo ${fastq} >> fastq.list.pH71.txt
   cat ${fastq} >> pH71.all.R2.fq.gz
 done
 
+
+# Create list of input FastQs used for concatenation
+# Concatenate all pH8.2 R1 FastQs
 for fastq in Library_Geoduck_MG_[125]*_R1_*.gz
 do
   echo ${fastq} >> fastq.list.pH82.txt
   cat ${fastq} >> pH82.all.R1.fq.gz
 done
 
+
+# Create list of input FastQs used for concatenation
+# Concatenate all pH8.2 R2 FastQs
 for fastq in Library_Geoduck_MG_[125]*_R2_*.gz
 do
   echo ${fastq} >> fastq.list.pH82.txt
   cat ${fastq} >> pH82.all.R2.fq.gz
 done
 
+# Populate R1 array with concatenated R1 FastQs
 for fastq in *R1*.fq.gz
 do
   fastq_array_R1+=(${fastq})
 done
 
-# Create array of fastq R2 files
+# Populate R2 array with concatenated R2 FastQs
 for fastq in *R2*.gz
 do
   fastq_array_R2+=(${fastq})
