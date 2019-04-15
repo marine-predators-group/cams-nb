@@ -37,13 +37,13 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
-# Variables
+# Programs
 gmhmmp=/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/gmhmmp
 mgm_mod=/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/MetaGeneMark_v1.mod
-assembly_fasta=/gscratch/scrubbed/samwhite/outputs/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa
-nuc_out=20190103-mgm-nucleotides.fa
-gff_out=20190103-mgm.gff3
-prot_out=20190103-mgm-proteins.fa
+
+# Variables
+assemblies_dir=/gscratch/scrubbed/samwhite/outputs/20190415_metagenomics_pgen_megahit
+
 
 # Run MetaGeneMark
 ## Specifying the following:
