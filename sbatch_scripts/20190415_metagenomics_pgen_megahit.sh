@@ -53,35 +53,39 @@ names_array=(pH71 pH82)
 
 # Create list of input FastQs used for concatenation
 # Concatenate all pH7.1 R1 FastQs
-for fastq in Library_Geoduck_MG_[367]*_R1_*.gz
+# Uses parameter substitution to strip path
+for fastq in ${fastq_dir}/Library_Geoduck_MG_[367]*_R1_*.gz
 do
-  echo ${fastq} >> fastq.list.pH71.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.pH71.txt
   cat ${fastq} >> pH71.all.R1.fq.gz
 done
 
 # Create list of input FastQs used for concatenation
 # Concatenate all pH7.1 R2 FastQs
-for fastq in Library_Geoduck_MG_[367]*_R2_*.gz
+# Uses parameter substitution to strip path
+for fastq in ${fastq_dir}/Library_Geoduck_MG_[367]*_R2_*.gz
 do
-  echo ${fastq} >> fastq.list.pH71.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.pH71.txt
   cat ${fastq} >> pH71.all.R2.fq.gz
 done
 
 
 # Create list of input FastQs used for concatenation
 # Concatenate all pH8.2 R1 FastQs
-for fastq in Library_Geoduck_MG_[125]*_R1_*.gz
+# Uses parameter substitution to strip path
+for fastq in ${fastq_dir}/Library_Geoduck_MG_[125]*_R1_*.gz
 do
-  echo ${fastq} >> fastq.list.pH82.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.pH82.txt
   cat ${fastq} >> pH82.all.R1.fq.gz
 done
 
 
 # Create list of input FastQs used for concatenation
 # Concatenate all pH8.2 R2 FastQs
-for fastq in Library_Geoduck_MG_[125]*_R2_*.gz
+# Uses parameter substitution to strip path
+for fastq in ${fastq_dir}/Library_Geoduck_MG_[125]*_R2_*.gz
 do
-  echo ${fastq} >> fastq.list.pH82.txt
+  echo ${fastq#${fastq_dir}} >> fastq.list.pH82.txt
   cat ${fastq} >> pH82.all.R2.fq.gz
 done
 
