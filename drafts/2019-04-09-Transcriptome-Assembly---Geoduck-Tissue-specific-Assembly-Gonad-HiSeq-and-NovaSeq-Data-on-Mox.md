@@ -121,15 +121,15 @@ trinity_out_dir/Trinity.fasta
 
 Output folder:
 
-- []()
+- [20190409_trinity_pgen_gonad_RNAseq/](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_gonad_RNAseq/)
 
 Trinity FastA:
 
-- []()
+- [20190409_trinity_pgen_gonad_RNAseq/trinity_out_dir/Trinity.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_gonad_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- []()
+- [20190409_trinity_pgen_gonad_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_gonad_RNAseq/trinity_out_dir/Trinity.fasta.fai)
 
 Trinity Gene Trans Map file:
 
@@ -141,7 +141,41 @@ Assembly stats (text):
 - [20190409_trinity_pgen_gonad_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_gonad_RNAseq/assembly_stats.txt)
 
 ```
+################################
+## Counts of transcripts, etc.
+################################
+Total trinity 'genes':	151263
+Total trinity transcripts:	198748
+Percent GC: 36.21
 
+########################################
+Stats based on ALL transcript contigs:
+########################################
+
+	Contig N10: 3270
+	Contig N20: 2036
+	Contig N30: 1343
+	Contig N40: 908
+	Contig N50: 640
+
+	Median contig length: 315
+	Average contig: 522.32
+	Total assembled bases: 103810995
+
+
+#####################################################
+## Stats based on ONLY LONGEST ISOFORM per 'GENE':
+#####################################################
+
+	Contig N10: 2267
+	Contig N20: 1319
+	Contig N30: 873
+	Contig N40: 626
+	Contig N50: 472
+
+	Median contig length: 288
+	Average contig: 439.32
+	Total assembled bases: 66453310
 ```
 
 List of input FastQs (text):
@@ -149,5 +183,24 @@ List of input FastQs (text):
 - [20190409_trinity_pgen_gonad_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_gonad_RNAseq/fastq.list.txt)
 
 ```
-
+Geoduck-gonad-RNA-1_S1_L001_R1_001.fastq.gz
+Geoduck-gonad-RNA-1_S1_L001_R2_001.fastq.gz
+Geoduck-gonad-RNA-2_S9_L002_R1_001.fastq.gz
+Geoduck-gonad-RNA-2_S9_L002_R2_001.fastq.gz
+Geoduck-gonad-RNA-3_S17_L003_R1_001.fastq.gz
+Geoduck-gonad-RNA-3_S17_L003_R2_001.fastq.gz
+Geoduck-gonad-RNA-4_S25_L004_R1_001.fastq.gz
+Geoduck-gonad-RNA-4_S25_L004_R2_001.fastq.gz
+Geoduck-gonad-RNA-5_S33_L005_R1_001.fastq.gz
+Geoduck-gonad-RNA-5_S33_L005_R2_001.fastq.gz
+Geoduck-gonad-RNA-6_S41_L006_R1_001.fastq.gz
+Geoduck-gonad-RNA-6_S41_L006_R2_001.fastq.gz
+Geoduck-gonad-RNA-7_S49_L007_R1_001.fastq.gz
+Geoduck-gonad-RNA-7_S49_L007_R2_001.fastq.gz
+Geoduck-gonad-RNA-8_S57_L008_R1_001.fastq.gz
+Geoduck-gonad-RNA-8_S57_L008_R2_001.fastq.gz
+NR006_S3_L001_R1_001_val_1_val_1.fq.gz
+NR006_S3_L001_R2_001_val_2_val_2.fq.gz
+NR006_S3_L002_R1_001_val_1_val_1.fq.gz
+NR006_S3_L002_R2_001_val_2_val_2.fq.gz
 ```
