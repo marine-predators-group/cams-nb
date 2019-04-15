@@ -44,6 +44,14 @@ mgm_mod=/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/MetaGeneMark_v1.
 # Variables
 assemblies_dir=/gscratch/scrubbed/samwhite/outputs/20190415_metagenomics_pgen_megahit
 
+## Initialize array
+assemblies_array=()
+
+# Populate array with MegaHit FastAs
+assemblies_array=$(find ${assemblies_dir} -name "*.contigs.fa")
+
+# List of files in array
+printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
 
 # Run MetaGeneMark
 ## Specifying the following:
