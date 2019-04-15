@@ -16,6 +16,10 @@ categories:
 
 I previously assembled and annotated _P.generosa_ gonad transcriptome ([20190318](https://robertslab.github.io/sams-notebook/2019/03/18/Transcriptome-Annotation-Geoduck-Gonad-with-Trinotate-on-Mox.html)) using just our HiSeq data from our Illumina collaboration. This was a an oversight, as I didn't realize that we also had NovaSeq RNAseq data. So, I've initiated another _de novo_ assembly using Trinity incorporating both sets of data.
 
+NovaSeq data had been [previously trimmed](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
+
+Trimming of the HiSeq data was performed via Trinity, using the `--trimmomatic` option.
+
 SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_gonad_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_gonad_RNAseq.sh)
