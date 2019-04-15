@@ -108,8 +108,8 @@ do
   mkdir ${sample_name} && cd ${sample_name}
   # Run Megahit using paired-end reads
   ${megahit} \
-  -1 ${fastq_array_R1[sample]} \
-  -2 ${fastq_array_R2[sample]} \
+  -1 ${wd}/${fastq_array_R1[sample]} \
+  -2 ${wd}/${fastq_array_R2[sample]} \
   --num-cpu-threads ${cpus} \
   --out-prefix ${sample_name}
 
