@@ -129,3 +129,24 @@ Trinity FastA:
 Trinity FastA index file:
 
 - []()
+
+Trinity Gene Trans Map file:
+
+- [20190409_trinity_pgen_EPI124_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI124_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map)
+
+
+Assembly stats (text):
+
+- [20190409_trinity_pgen_EPI124_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI124_RNAseq/assembly_stats.txt)
+
+```
+
+```
+
+List of input FastQs (text):
+
+- [20190409_trinity_pgen_EPI124_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI124_RNAseq/fastq.list.txt)
+
+```
+
+```
