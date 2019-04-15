@@ -16,7 +16,7 @@ categories:
 ---
 I previously assembled and annotated _P.generosa_ larval Day 5 transcriptome ([20190318](https://robertslab.github.io/sams-notebook/2019/03/18/Transcriptome-Annotation-Geoduck-Juvenile-Day-5-with-Trinotate-on-Mox.html) - mislabeled as Juvenile Day 5 in my previous notebook entries) using just our HiSeq data from our Illumina collaboration. This was a an oversight, as I didn't realize that we also had NovaSeq RNAseq data. So, I've initiated another _de novo_ assembly using Trinity incorporating both sets of data.
 
-Ran a _de novo_ assembly on our HiSeq and NovaSeq data from [Hollie's juvenile EPI 115 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+Ran a _de novo_ assembly on our HiSeq and NovaSeq data from [Hollie's larval Day 5 EPI 99 sample](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
 
 NovaSeq data had been [previously trimmed](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
 
