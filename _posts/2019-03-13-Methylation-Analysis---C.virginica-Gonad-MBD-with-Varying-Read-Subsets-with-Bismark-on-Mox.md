@@ -28,9 +28,11 @@ Steven asked for the following analysis in [this GitHub Issue](https://github.co
 
 Set up the following SBATCH script to run on Mox:
 
-- [20190312_cvir_gonad_bismark.sh](https://github.com/RobertsLab/sams-notebook/blob/2809f72af692b4fb5cd44b882a99bc65876f5dbd/sbatch_scripts/20190312_cvir_gonad_bismark.sh)
+- [20190312_cvir_gonad_bismark.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190312_cvir_gonad_bismark.sh) (GitHub)
 
 _NOTE_: It seems as though the if/else statement didn't work properly and resulted in a duplicated analysis of the "half total reads". The "total reads" will be run independently.
+
+_2nd NOTE_: Actually, the "problem" was that I was calculating read counts based on combining R1 and R2 reads. However, Bismark uses the subsetting option to run on read pairs (i.e. -u 1000 would run 1000 read pairs which is 2000 reads). So, my usage was incorrect. Fixed and re-ran.
 
 <pre><code>
 #!/bin/bash
@@ -126,18 +128,17 @@ printf "%s\t%s\n\n" "LIBRARY" "COUNT" >> library_counts.txt
 # Determine total reads counts from all libraries
 ## Iterates through arrays and determines read counts
 ## by counting lines in FastQ and dividing by 4.
-## Each loop adds the read1 and read2 read counts to the total
+## Each loop adds the read1 read counts to the total
+## Only uses R1 because Bismark interprets subsetting value as read pairs
 for fastq in "${!R1_array[@]}"
 do
   lib_count=0
   R1_fastq=${R1_array[fastq]}
-  R2_fastq=${R2_array[fastq]}
   lib_name=$(echo ${R1_fastq} | awk -F'_' '{ print $3 }')
   R1_count=$(echo $(zcat ${R1_fastq} | wc -l)/4 | bc)
-  R2_count=$(echo $(zcat ${R2_fastq} | wc -l)/4 | bc)
-  lib_count=$(echo ${R1_count} + ${R2_count} | bc)
+  lib_count=$(echo ${R1_count})
   printf "%s%s\t%s\n" "library_" "${lib_name}" "${lib_count}" >> library_counts.txt
-  total_reads=$(echo ${R1_count} + ${R2_count} + ${total_reads}| bc)
+  total_reads=$(echo ${R1_count} + ${total_reads}| bc)
 done
 
 # Calcuations for different read amounts desired for analysis.
@@ -257,9 +258,6 @@ This took a pretty long  time to run (6days 16hrs):
 
 ![6 days, 16hrs runtime](https://raw.githubusercontent.com/RobertsLab/sams-notebook/master/images/screencaps/20190320_bismark_complete.png)
 
-Additionally, the if/else statement in the script above didn't seem to work for identifying the "total reads" sample. Instead, it processed the "half total reads" subset a second time. :(
-
-I'll re-run just the total reads set independently and will update this post with that data once available.
 
 Additionally, I don't have the time at the moment to actually finish the analysis to evaluate differences in coverage. I'm posting notebook entry to make data available (belatedly) and will get some sort of comparison analysis done in the near future...
 
@@ -273,19 +271,27 @@ Summary reports for each of the configurations (HTML):
 
   - 27,591,427 reads
 
-  - 25.0% unique alignments
+  - 28.9% unique alignments
 
-  - 74.2% methylated CpG
+  - 73.6% methylated CpG
 
 - [half_avg_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/half_avg_reads_bismark/bismark_summary_report.html)
 
   - 55,182,854 reads
 
-  - 28.9% unique alignments
+  - 36.8% unique alignments
 
-  - 73.6% methylated CpG
+  - 73.4% methylated CpG
 
 - [half_total_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/half_total_reads_bismark/bismark_summary_report.html)
+
+  - 137,957,136 reads
+
+  - 31.3% unique alignments
+
+  - 75.2% methylated CpG
+
+- [http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/total_reads_bismark/bismark_summary_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190312_cvir_gonad_bismark/total_reads_bismark/)
 
   - 275,914,272 reads
 
