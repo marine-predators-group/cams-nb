@@ -16,7 +16,7 @@ categories:
   - Miscellaneous
 ---
 
-Ran a _de novo_ assembly on our HiSeq data from [Hollie's juvenile EPI 115 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+Ran a _de novo_ assembly on our HiSeq data from [Hollie's juvenile EPI 123 sample "ambient OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
 
 Trimming of the HiSeq data was performed via Trinity, using the `--trimmomatic` option.
 
