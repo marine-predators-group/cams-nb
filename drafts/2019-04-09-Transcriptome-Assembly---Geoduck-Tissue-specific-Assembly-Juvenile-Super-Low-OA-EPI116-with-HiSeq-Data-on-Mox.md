@@ -15,7 +15,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-Ran a _de novo_ assembly on our HiSeq and NovaSeq data from [Hollie's juvenile EPI 115 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
+Ran a _de novo_ assembly on our HiSeq and NovaSeq data from [Hollie's juvenile EPI 116 sample "super low OA"](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv). This was done for Christian to use in some long, non-coding RNA (lncRNA) analysis.
 
 
 NovaSeq data had been [previously trimmed](https://robertslab.github.io/sams-notebook/2018/01/25/adapter-trimming-and-fastqc-illumina-geoduck-novaseq-data.html).
