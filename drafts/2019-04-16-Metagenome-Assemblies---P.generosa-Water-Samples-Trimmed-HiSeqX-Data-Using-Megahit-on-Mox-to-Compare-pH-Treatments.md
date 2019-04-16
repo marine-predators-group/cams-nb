@@ -13,7 +13,7 @@ categories:
   - Miscellaneous
 ---
 
-A report involving our work on the geoduck water metagenomics is due later this week and our in-depth analysis for this project using [Anvi'o](http://merenlab.org/software/anvio/) is likely to require at least another week to complete. Even though we have a [broad overview of the metagenomic taxa present in these water samples](https://robertslab.github.io/sams-notebook/2019/03/25/Metagenomics-Taxonomic-Diversity-from-Geoduck-Water-with-BLASTn-and-Krona-Plots.html), we don't have data in a format for comparing across samples/treatments. So, I initiated our simplified pipeline (MEGAHIT > MetaGeneMark > KronaTools) for examining our metagenomic data of the two treatments:
+A report involving our work on the geoduck water metagenomics is due later this week and our in-depth analysis for this project using [Anvi'o](http://merenlab.org/software/anvio/) is likely to require at least another week to complete. Even though we have a [broad overview of the metagenomic taxa present in these water samples](https://robertslab.github.io/sams-notebook/2019/03/25/Metagenomics-Taxonomic-Diversity-from-Geoduck-Water-with-BLASTn-and-Krona-Plots.html), we don't have data in a format for comparing across samples/treatments. So, I initiated our simplified pipeline (MEGAHIT > MetaGeneMark > BLASTn > KronaTools) for examining our metagenomic data of the two treatments:
 
 - pH=7.1
 
@@ -168,7 +168,25 @@ done
 
 #### RESULTS
 
+This tooks ~16hrs to complete:
+
+![Screencap of inbox notification for Megahit Mox job runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190416-megahit-runtime.png?raw=true)
 
 Output folder:
 
-- []()
+- [20190415_metagenomics_pgen_megahit/](http://gannet.fish.washington.edu/Atumefaciens/20190415_metagenomics_pgen_megahit/)
+
+pH=7.1 Assembly (FastA) and Index:
+
+- [20190415_metagenomics_pgen_megahit/pH71/megahit_out/pH71.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190415_metagenomics_pgen_megahit/pH71/megahit_out/pH71.contigs.fa)
+
+- [20190415_metagenomics_pgen_megahit/pH71/megahit_out/pH71.contigs.fa.fai](http://gannet.fish.washington.edu/Atumefaciens/20190415_metagenomics_pgen_megahit/pH71/megahit_out/pH71.contigs.fa.fai)
+
+pH=8.2 Assembly (FastA) and Index:
+
+- [20190415_metagenomics_pgen_megahit/pH82/megahit_out/pH82.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190415_metagenomics_pgen_megahit/pH82/megahit_out/pH82.contigs.fa)
+
+- [20190415_metagenomics_pgen_megahit/pH82/megahit_out/pH82.contigs.fa.fai](http://gannet.fish.washington.edu/Atumefaciens/20190415_metagenomics_pgen_megahit/pH82/megahit_out/pH82.contigs.fa.fai)
+
+
+Next up, MetaGeneMark for gene prediction, followed by BLAST, and Krona plots. That is _extremely_ fast (like, should take less than 10mins!).
