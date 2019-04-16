@@ -56,22 +56,24 @@ printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
 
 for sample in ${!names_array[@]}
 do
+  no_ext=${assemblies_array[sample]%%.*}
+  sample_name=$(echo ${no_ext##*/})
   # Run MetaGeneMark
   ## Specifying the following:
   ### -a : output predicted proteins
   ### -A : write predicted proteins to designated file
   ### -d : output predicted nucleotides
-  ### -D : write predicted protein to designated file
+  ### -D : write predicted nucleotides to designated file
   ### -f 3 : Output format in GFF3
   ### -m : Model file (supplied with software)
   ### -o : write GFF3 to designated file
   ${gmhmmp} \
   -a \
-  -A ${prot_out} \
+  -A ${sample_name}.mgm-proteins.fasta \
   -d \
-  -D ${nuc_out} \
+  -D ${sample_name}.mgm-nucleotides.fasta \
   -f 3 \
   -m ${mgm_mod} \
-  ${assembly_fasta} \
-  -o ${gff_out}
+  ${assemblies_array[sample]} \
+  -o ${sample_name}.mgm.gff
 done
