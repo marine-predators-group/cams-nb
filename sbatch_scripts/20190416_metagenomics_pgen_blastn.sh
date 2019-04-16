@@ -52,6 +52,9 @@ export BLASTDB=${blastdb_dir}
 
 for ${fasta} in ${fasta_dir}/*.fasta
 do
+  echo ${fasta} >> input.fasta.list.txt
+  no_ext=${fasta%%.*}
+  sample_name=$(echo ${no_ext##*/})
   # Run blastx on Trinity fasta
   ${blastn} \
   -query ${fasta} \
