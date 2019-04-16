@@ -38,8 +38,9 @@ printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
 # Programs
-gmhmmp=/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/gmhmmp
-mgm_mod=/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/MetaGeneMark_v1.mod
+gmhmmp="/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/gmhmmp"
+mgm_mod="/gscratch/srlab/programs/MetaGeneMark_linux_64_3.38/mgm/MetaGeneMark_v1.mod"
+samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 # Variables
 assemblies_dir=/gscratch/scrubbed/samwhite/outputs/20190415_metagenomics_pgen_megahit
@@ -78,4 +79,10 @@ do
   -m ${mgm_mod} \
   ${assemblies_array[sample]} \
   -o ${sample_name}.mgm.gff
+done
+
+# Index FastAs
+for fasta in *.fasta
+do
+  ${samtools} faidx ${fasta}
 done
