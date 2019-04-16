@@ -53,7 +53,7 @@ export BLASTDB=${blastdb_dir}
 # Create list of those FastAs for reference
 # Parse out sample names
 # Run BLASTn on each FastA
-for ${fasta} in ${fasta_dir}/*nucleotides.fasta
+for fasta in ${fasta_dir}/*nucleotides.fasta
 do
   echo ${fasta} >> input.fasta.list.txt
   no_ext=${fasta%%.*}
