@@ -32,26 +32,33 @@ echo ${PATH} | tr : \\n >> system_path.log
 
 
 wd="$(pwd)"
-
-
-# Paths to input/output files
-blastn_out="${wd}/blastn.outfmt6"
-blastdb_dir="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5"
-blast_db="${blastdb_dir}/nt"
-fasta="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/20190103-mgm-nucleotides.fa"
+threads=28
 
 # Paths to programs
 blast_dir="/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin"
 blastn="${blast_dir}/blastn"
 
+# Paths to blastdbs
+blastdb_dir="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5"
+blast_db="${blastdb_dir}/nt"
+
+
+fasta_dir="/gscratch/scrubbed/samwhite/outputs/20190416_metagenomics_pgen_metagenemark"
+
+
+
 export BLASTDB=${blastdb_dir}
 
-# Run blastx on Trinity fasta
-${blastn} \
--query ${fasta} \
--db ${blast_db} \
--max_target_seqs 1 \
--outfmt "6 std staxids" \
--evalue 1e-10 \
--num_threads 28 \
-> ${blastn_out}
+
+for ${fasta} in ${fasta_dir}/*.fasta
+do
+  # Run blastx on Trinity fasta
+  ${blastn} \
+  -query ${fasta} \
+  -db ${blast_db} \
+  -max_target_seqs 1 \
+  -outfmt "6 std staxids" \
+  -evalue 1e-10 \
+  -num_threads ${threads} \
+  > ${wd}/${sample_name}.blastn.outfmt6
+done
