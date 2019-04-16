@@ -54,7 +54,7 @@ assemblies_array=$(find ${assemblies_dir} -maxdepth 3 -name "*.contigs.fa")
 printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
 
 
-for sample in ${!assemblies_array[@]}
+for sample in ${assemblies_array[@]}
 do
   no_ext=${assemblies_array[sample]%%.*}
   sample_name=$(echo ${no_ext##*/})
