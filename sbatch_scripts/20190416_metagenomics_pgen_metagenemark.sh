@@ -48,7 +48,7 @@ assemblies_dir=/gscratch/scrubbed/samwhite/outputs/20190415_metagenomics_pgen_me
 assemblies_array=()
 
 # Populate array with MegaHit FastAs
-assemblies_array=$(find ${assemblies_dir} -name "*.contigs.fa")
+assemblies_array=$(find ${assemblies_dir} -maxdepth 3 -name "*.contigs.fa")
 
 # List of files in array
 printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
