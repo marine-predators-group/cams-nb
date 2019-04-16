@@ -53,7 +53,9 @@ assemblies_array=$(find ${assemblies_dir} -maxdepth 3 -name "*.contigs.fa")
 # List of files in array
 printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
 
-
+# Loop through array and run MetaGeneMark
+# Parse out sample name by removing .contigs.fa from filename
+# and remove path
 for sample in ${assemblies_array[@]}
 do
   no_ext=${assemblies_array[sample]%%.*}
