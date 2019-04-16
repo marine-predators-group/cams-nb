@@ -77,7 +77,7 @@ do
   -D ${sample_name}.mgm-nucleotides.fasta \
   -f 3 \
   -m ${mgm_mod} \
-  ${assemblies_array[sample]} \
+  ${sample} \
   -o ${sample_name}.mgm.gff
 done
 
