@@ -59,7 +59,7 @@ printf "%s\n" "${assemblies_array[@]}" >> fastas.list.txt
 # and remove path
 for sample in ${assemblies_array[@]}
 do
-  no_ext=${assemblies_array[sample]%%.*}
+  no_ext=${sample%%.*}
   sample_name=$(echo ${no_ext##*/})
   # Run MetaGeneMark
   ## Specifying the following:
