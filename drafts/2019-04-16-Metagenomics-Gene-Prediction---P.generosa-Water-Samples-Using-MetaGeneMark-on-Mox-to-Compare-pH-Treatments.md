@@ -13,6 +13,8 @@ categories:
 ---
 Continuing with a relatively quick comparison of pH treatments (pH=7.1 vs. pH=8.2), I wanted to run gene prediction on the [MEGAHIT assemblies I made yesterday](https://robertslab.github.io/sams-notebook/2019/04/15/Metagenome-Assemblies-P.generosa-Water-Samples-Trimmed-HiSeqX-Data-Using-Megahit-on-Mox-to-Compare-pH-Treatments.html). I ran [MetaGeneMark](http://opal.biology.gatech.edu/GeneMark/) on the two pH-specific assemblies on Mox. This should be a _very_ fast process (I'm talking, like a couple of minutes fast), so it enhances the annotation with very little effort and time.
 
+This will output a nucleotides FastA, proteins FastA, and a GFF for each of the two assemblies (i.e. pH treatments)
+
 SBATCH script (GitHub):
 
 - [20190416_metagenomics_pgen_metagenemark.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190416_metagenomics_pgen_metagenemark.sh)
@@ -113,6 +115,36 @@ done
 
 #### RESULTS
 
+As predicted, this completed really quickly - 7.5 _minutes_!
+
 Output folder:
 
-- []()
+- [20190416_metagenomics_pgen_metagenemark/](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/)
+
+pH=7.1 Outputs:
+
+- [20190416_metagenomics_pgen_metagenemark/pH71.mgm-nucleotides.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH71.mgm-nucleotides.fasta)
+
+- [20190416_metagenomics_pgen_metagenemark/pH71.mgm-nucleotides.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH71.mgm-nucleotides.fasta.fai)
+
+- [20190416_metagenomics_pgen_metagenemark/pH71.mgm-proteins.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH71.mgm-proteins.fasta)
+
+- [20190416_metagenomics_pgen_metagenemark/pH71.mgm-proteins.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH71.mgm-proteins.fasta.fai)
+
+- [20190416_metagenomics_pgen_metagenemark/pH71.mgm.gff](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH71.mgm.gff)
+
+
+pH=8.2 Outputs:
+
+- [20190416_metagenomics_pgen_metagenemark/pH82.mgm-nucleotides.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH82.mgm-nucleotides.fasta)
+
+- [20190416_metagenomics_pgen_metagenemark/pH82.mgm-nucleotides.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH82.mgm-nucleotides.fasta.fai)
+
+- [20190416_metagenomics_pgen_metagenemark/pH82.mgm-proteins.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH82.mgm-proteins.fasta)
+
+- [20190416_metagenomics_pgen_metagenemark/pH82.mgm-proteins.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH82.mgm-proteins.fasta.fai)
+
+- [20190416_metagenomics_pgen_metagenemark/pH82.mgm.gff](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_metagenemark/pH82.mgm.gff)
+
+
+Next, annotate these using BLASTn (will probably do BLASTp eventually, too, but this will take significantly longer and Steven need's some data from this comparison before the end of the week) and then visualize with KronaTools.
