@@ -50,7 +50,7 @@ fasta_dir="/gscratch/scrubbed/samwhite/outputs/20190416_metagenomics_pgen_metage
 export BLASTDB=${blastdb_dir}
 
 
-for ${fasta} in ${fasta_dir}/*.fasta
+for ${fasta} in ${fasta_dir}/*nucleotides.fasta
 do
   echo ${fasta} >> input.fasta.list.txt
   no_ext=${fasta%%.*}
