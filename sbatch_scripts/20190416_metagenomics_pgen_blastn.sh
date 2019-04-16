@@ -42,14 +42,17 @@ blastn="${blast_dir}/blastn"
 blastdb_dir="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5"
 blast_db="${blastdb_dir}/nt"
 
-
+# Directory with metagenemark FastAs
 fasta_dir="/gscratch/scrubbed/samwhite/outputs/20190416_metagenomics_pgen_metagenemark"
 
 
-
+# Export BLAST database directory
 export BLASTDB=${blastdb_dir}
 
-
+# Loop through metagenemark nucleotide FastAs
+# Create list of those FastAs for reference
+# Parse out sample names
+# Run BLASTn on each FastA
 for ${fasta} in ${fasta_dir}/*nucleotides.fasta
 do
   echo ${fasta} >> input.fasta.list.txt
