@@ -100,6 +100,28 @@ done
 
 #### RESULTS
 
+Runtime was ~9hrs for these.
+
 Output folder:
 
-- []()
+- [20190416_metagenomics_pgen_blastn/](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_blastn/)
+
+pH=7.1 BLASTn Output:
+
+- [20190416_metagenomics_pgen_blastn/pH71.blastn.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_blastn/pH71.blastn.outfmt6)
+
+- 547,999 matches
+
+- 2,188,436 seqs in input FastA
+
+- ~25% of input seqs were matched
+
+pH=8.2 BLASTn Output:
+
+- [20190416_metagenomics_pgen_blastn/pH82.blastn.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_blastn/pH82.blastn.outfmt6)
+
+- 298,564
+
+- 2,047,907 seqs in input FastA
+
+- ~15% of input seqs were matched
