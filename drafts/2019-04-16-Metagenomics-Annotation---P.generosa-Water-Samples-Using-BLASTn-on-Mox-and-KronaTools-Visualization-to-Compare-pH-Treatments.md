@@ -125,3 +125,33 @@ pH=8.2 BLASTn Output:
 - 2,047,907 seqs in input FastA
 
 - ~15% of input seqs were matched
+
+Interactive taxonomic Krona Plot (HTML):
+
+- [20190416_metagenomics_pgen_blastn/krona_megahit_MGM_blastn.html](http://gannet.fish.washington.edu/Atumefaciens/20190416_metagenomics_pgen_blastn/krona_megahit_MGM_blastn.html)
+
+Here are just a couple snapshots of the plots to add some "spice" to this notebook entry:
+
+---
+
+##### pH=7.1 Bacteria
+
+![pH=7.1 bacteria krona plot](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190417_krona_pH7.1_bacteria.png?raw=true)
+
+---
+
+##### pH=8.2 Bacteria
+
+![pH=8.2 bacteria krona plot](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190417_krona_pH8.2_bacteria.png?raw=true)
+
+---
+
+##### pH=7.1 Intramacronucleata (ciliate subphylum)
+
+![pH=7.1 Intramacronucleata krona plot](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190417_krona_pH7.1_Intramacronucleata.png?raw=true)
+
+---
+
+##### pH=8.2 Intramacronucleata (ciliate subphylum)
+
+![pH=8.2 Intramacronucleata krona plot](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190417_krona_pH8.2_Intramacronucleata.png?raw=true)
