@@ -34,6 +34,15 @@ _NOTE_: It seems as though the if/else statement didn't work properly and result
 
 _2nd NOTE_: Actually, the "problem" was that I was calculating read counts based on combining R1 and R2 reads. However, Bismark uses the subsetting option to run on read pairs (i.e. -u 1000 would run 1000 read pairs which is 2000 reads). So, my usage was incorrect. Fixed and re-ran.
 
+_3rd NOTE_: I generated cytosine coverage files after the fact on a Mox build node and it is not part of the SBATCH script. I ran the following command in each of the Bismark output folders:
+
+```
+/gscratch/srlab/programs/Bismark-0.21.0_dev/coverage2cytosine \
+cvir_bsseq_all_pe_R1_bismark_bt2_pe.bismark.cov.gz  \
+--output bismark_cytosine_coverage.txt \
+--genome_folder /gscratch/srlab/sam/data/C_virginica/genomes/GCF_002022765.2_C_virginica-3.0/
+```
+
 <pre><code>
 #!/bin/bash
 ## Job Name
