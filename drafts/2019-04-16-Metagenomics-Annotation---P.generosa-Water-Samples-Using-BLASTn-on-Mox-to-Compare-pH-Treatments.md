@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metagenomics Annotation - P.generosa Water Samples Using BLASTn on Mox to Compare pH Treatments
+title: Metagenomics Annotation - P.generosa Water Samples Using BLASTn on Mox and KronaTools Visualization to Compare pH Treatments
 date: '2019-04-16 14:30'
 tags:
   - Panopea generosa
@@ -17,7 +17,7 @@ Nearing the end of this quick metagenomics comparison of taxonomic differences b
 
 - [MetaGeneMark gene prediction](https://robertslab.github.io/sams-notebook/2019/04/16/Metagenomics-Gene-Prediction-P.generosa-Water-Samples-Using-MetaGeneMark-on-Mox-to-Compare-pH-Treatments.html)
 
-After this completes, I'll run [KronaTools](https://github.com/marbl/Krona/wiki/KronaTools) to get a rundown on taxonomic makeup of these two different pH treatments. I don't expect it to take terribly long (based on previous metagenomics runs wit this data set); I'd guess around 6hrs.
+After this completes, I'll run [KronaTools](https://github.com/marbl/Krona/wiki/KronaTools) to get a rundown on taxonomic makeup of these two different pH treatments. I don't expect BLASTn to take terribly long (based on previous metagenomics runs wit this data set); I'd guess around 6hrs.
 
 SBATCH script (GitHub):
 
