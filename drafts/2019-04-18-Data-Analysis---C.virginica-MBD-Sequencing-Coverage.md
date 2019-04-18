@@ -56,3 +56,7 @@ Plot of the various "Percent Methylation" coverages in each of the Bismark subse
 
 
 ---
+
+After looking at this a bit, it's surprising how little coverage we actually end up with. This is data for _all_ of the samples combined (n = 10), 100bp PE sequencing. This helps inform us on how much sequencing we actually need to do in order to achieve a target coverage.
+
+_However_, this analysis doesn't tell us anything about methylated CpG coverage (although, it could if I tweaked things a tiny bit). Yaamini has been working on that, so she should have those answers. Her analysis and my analysis will likely be used to contribute to our [BS-seq decision tree](https://github.com/RobertsLab/resources/issues/543).
