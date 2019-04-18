@@ -22,10 +22,37 @@ Subsequently, the data was concatenated, subset, and aligned using Bismark:
 - [20190313 Bismark alignment subsetting](https://robertslab.github.io/sams-notebook/2019/03/13/Methylation-Analysis-C.virginica-Gonad-MBD-with-Varying-Read-Subsets-with-Bismark-on-Mox.html)
 
 
-Today, I finally found the time to dedicate to evaluating alignment coverage of each of the Bismark sequence subsets. It was done in a Jupyter Notebook:
+Today, I finally found the time to dedicate to evaluating alignment coverage of each of the Bismark sequence subsets. It was done in a Jupyter Notebook and solely with Bash/Python! I used this as project as an excuse to dive into using Python a bit more, instead of using R. For what I needed to accomplish, I just felt like this approach was simpler (instead of creating an R project and all of that).
 
-- [20190418_cvir_mbd_coverage_comparison.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190418_cvir_mbd_coverage_comparison.ipynb)
+- [20190418_cvir_mbd_coverage_comparison.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190418_cvir_mbd_coverage_comparison.ipynb) (GitHub)
 
 ---
 
 #### RESULTS
+
+Plot of the various "Percent Methylation" coverages in each of the Bismark subsets. The lines/bars are redundant. I added the lines to provide a better visual guide to see how the percent methylation coverage changes from one Bismark subset to the next. A quick guide to X axis labeling:
+
+- half_avg_reads: Subset of 50% of the average number of read pairs.
+
+- avg_reads: Subset of the average number of read pairs.
+
+- half_total_reads: Subset of 50% of the total number of read pairs.
+
+- total_reads: All read pairs.
+
+![Bar/line plot showing differences in percent CpG coverage of each Bismark subset](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190418_cvir_mbd_cov_comparison.png?raw=true)
+
+
+---
+
+##### Summary Table
+
+| Bismark Subset                | No. of Read pairs | Trimmed read length (bp) | No. of Bases (Gbp) | Genome size (Gbp) | Genome coverage (x fold) | Mean CpG Coverage | Percent CpG Coverage | Percent 5x CpG Coverage | Percent 10x CpG Coverage |
+|-------------------------------|-------------------|--------------------------|--------------------|-------------------|--------------------------|-------------------|----------------------|-------------------------|--------------------------|
+| total_reads_CpG_coverage      | 275914272         | 80                       | 22.07              | 0.684741          | 32.24                    | 7.3               | 45.3                 | 14.7                    | 9.1                      |
+| half_total_reads_CpG_coverage | 137957136         | 80                       | 11.04              | 0.684741          | 16.12                    | 3.5               | 33.5                 | 9.2                     | 5.7                      |
+| avg_reads_CpG_coverage        | 27591427          | 80                       | 2.21               | 0.684741          | 3.22                     | 0.7               | 15.3                 | 3.2                     | 1.8                      |
+| half_avg_reads_CpG_coverage   | 13795713          | 80                       | 1.10               | 0.684741          | 1.61                     | 0.5               | 11.2                 | 2.3                     | 1.2                      |
+
+
+---
