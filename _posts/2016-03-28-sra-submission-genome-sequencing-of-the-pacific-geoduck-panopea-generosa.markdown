@@ -16,7 +16,7 @@ tags:
   - NCBI
   - Panopea generosa
   - SRA
-  - SRP072453
+  - PRJNA316601
 ---
 
 Adding our geoduck genome sequencing (sequencing done by BGI) to the NCBI Sequence Read Archive (SRS). The current status can be seen in the screen cap below. Release date is set for a year from now, but will likely bump it up. Need Steven to review the details of the submission (BioProject, Experiment descriptions, etc.) before I initiate the public release. Will update this post with the SRA number once we receive it.
@@ -44,4 +44,22 @@ Here’s the list of files uploaded to the SRA:
 
 Mate pair sequencing files were uploaded together within a single “Run”.
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160328_SRA_submission_geoduck_genome_seq.jpg)
+
+SRA info:
+
+- [BioProject PRJNA316601](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA316601)
+
+- [BioSample SAMN04588719](https://www.ncbi.nlm.nih.gov/biosample/?term=SAMN04588719)
+
+- wHAIPI023989-79: [SRR3306093](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306093)
+
+- wHAMPI023988-81: [SRR3306094](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306094)
+
+- wHAXPI023990-97: [SRR3306300](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306300)
+
+- WHPANwalDDAADWAAPEI-101: [SRR3306306](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306306)
+
+- WHPANwalDDABDLAAPEI-100: [SRR3306307](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306307)
+
+- WHPANwalDDACDTAAPEI-102: [SRR3306336](https://www.ncbi.nlm.nih.gov/Traces/sra/?run=SRR3306336)
