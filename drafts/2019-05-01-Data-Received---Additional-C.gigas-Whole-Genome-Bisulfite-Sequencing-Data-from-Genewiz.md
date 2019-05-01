@@ -11,8 +11,19 @@ tags:
 categories:
   - Miscellaneous
 ---
+The [FastQC analysis](https://robertslab.github.io/sams-notebook/2019/04/15/FastQC-WGBS-Sequencing-Data-from-Genewiz-Received-20190408.html) of the intitial data we received from Genewiz ([on 20190408](https://robertslab.github.io/sams-notebook/2019/04/08/Data-Management-Whole-Genome-Bisulfite-Sequencing-Data-from-Genewiz-Received.html))showed consistent failures in the "Per Tile Sequence Quality" for all of Roberto's _Crassostrea gigas_ sequencing. After discussing with Genewiz, they offered to generate an additional 25% reads for each of those libraries.
 
+The data became available today. The additional reads were appended to the previous sequencing results, so the filenames remain the same as before.
 
+Data was downloaded to `owl/nightingales/C_gigas`:
+
+http://owl.fish.washington.edu/nightingales/C_gigas/
+
+Roberto's samples match the following filename pattern:
+
+`[035]*.gz`
+
+Will generate new FastQC analysis for these files. Since the additional data was simply appended to the previous data, I fully expect the "Per Tile Sequence Quality" to fail again. However, this additional data should help compensate for data loss we will experience after quality trimming.
 ---
 
 #### Updated sequencing report:
