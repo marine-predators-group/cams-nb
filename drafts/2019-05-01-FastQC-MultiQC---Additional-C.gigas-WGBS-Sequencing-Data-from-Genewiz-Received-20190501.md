@@ -18,6 +18,14 @@ Earlier today, we [received the additional _G.gigas_ sequencing data from Genewi
 
 Ran FastQC, followed by MultiQC on my computer (swoose).
 
+Used this bash script:
+
+- [20190501_cgig_fastqc_wgbs_roberto.sh]()
+
 ---
 
 #### RESULTS
+
+Output folder:
+
+- [20190501_cgig_fastqc_wgbs_roberto]()
