@@ -38,3 +38,7 @@ NOTE: Sample #82 did not look like all the others. It was clear, while all other
 Qubit data (Google Sheet):
 
 - [20190430_qubit_RNA_crab](http://b.link/20190430-qubit-RNA-crab)
+
+Everything worked great! Got detectable levels from 64/66 samples. Not surpisingly, sample #82 was one of the two samples that did not have any RNA.
+
+Have passed results on to Steven to make help make a decision on how to handle the subsequent sequencing we want to perform.
