@@ -2,7 +2,7 @@
 layout: post
 title: FastQC-MultiQC - Additional C.gigas WGBS Sequencing Data from Genewiz Received 20190501
 date: '2019-05-01 13:03'
-tags: 
+tags:
   - Crassostrea gigas
   - Genewiz
   - Pacific oyster
@@ -11,6 +11,13 @@ tags:
   - whole genome
   - fastqc
   - multiqc
-categories: 
+categories:
   - Miscellaneous
 ---
+Earlier today, we [received the additional _G.gigas_ sequencing data from Genewiz](https://robertslab.github.io/sams-notebook/2019/05/01/Data-Received-Additional-C.gigas-Whole-Genome-Bisulfite-Sequencing-Data-from-Genewiz.html). Wanted to run through FastQC again and get an updated report for each data set. Admittedly, it probably won't look much different from [the initial FastQC run on 20190415](https://robertslab.github.io/sams-notebook/2019/04/15/FastQC-WGBS-Sequencing-Data-from-Genewiz-Received-20190408.html), due to the fact that the additional sequencing was simply appended to the previous data. Since FastQC examines a subset of the data in each file, I'd fully expect the FastQC report to look the same. However, we'll have a greater number of sequences in each file. This should, in turn, increase the number of reads retained after quality trimming.
+
+Ran FastQC, followed by MultiQC on my computer (swoose).
+
+---
+
+#### RESULTS
