@@ -2,7 +2,7 @@
 layout: post
 title: RNA Isolation and Quantification - C.bairdi Hemolymph Pellet in RNAlater
 date: '2019-04-30 15:36'
-tags: 
+tags:
   - hemolymph
   - RNAlater
   - RNA isolation
@@ -12,6 +12,29 @@ tags:
   - RNA
   - tanner crab
   - Chionoecetes bairdi
-categories: 
+categories:
   - Miscellaneous
 ---
+After the [success we had isolating RNA using the Quick-DNA/RNA Microprep Plus Kit (ZymoResearch)](https://robertslab.github.io/sams-notebook/2019/04/11/RNA-Isolation-and-Quantification-Crab-Hemolypmh-Using-Quick-DNA-RNA-Microprep-Plus-Kit.html), Steven had me isolate RNA from a list of ~117 samples. Of that list, I was able to find 66 crab hemolymph pelleted RNAlater samples. The "missing" samples were most likely previosly used by Grace during our various attempts to get some usable RNA out these.
+
+Used 70uL of each RNAlater/hemolymph "slurry". This was intended to maximize the sample size and speed of the procedure. If I had done calculations correctly, it would have meant _not_ having multiple round of transferring the samples to the columns. However, I should have used 35uL! So, this is just a note to my future self...
+
+Followed the Zymo protocol for “Samples in RNAlater” (used H2O as intial sample diluent) and included the on-column DNase step.
+
+Eluted with 15uL.
+
+Quantified RNA using the Roberts Lab Qubit 3.0 and the RNA High Sensitivity Assay (Invitrogen).
+
+Used 2uL of each sample.
+
+NOTE: Sample #82 did not look like all the others. It was clear, while all other samples were cloudy and kind of thicker in consistency.:
+
+![Comparison of clear and hazy crab hemo pellet in RNAlater](https://github.com/RobertsLab/sams-notebook/blob/master/images/20190430_crab_hemo_RNAlater.jpg?raw=true)
+
+---
+
+#### RESULTS
+
+Qubit data (Google Sheet):
+
+- [20190430_qubit_RNA_crab](http://b.link/20190430-qubit-RNA-crab)
