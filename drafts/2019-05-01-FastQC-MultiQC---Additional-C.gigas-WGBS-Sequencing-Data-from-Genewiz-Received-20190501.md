@@ -20,7 +20,7 @@ Ran FastQC, followed by MultiQC on my computer (swoose).
 
 Used this bash script:
 
-- [20190501_cgig_fastqc_wgbs_roberto.sh]()
+- [20190501_cgig_fastqc_wgbs_roberto.sh](http://gannet.fish.washington.edu/Atumefaciens/20190501_cgig_fastqc_wgbs_roberto/20190501_cgig_fastqc_wgbs_roberto.sh)
 
 ---
 
@@ -28,4 +28,13 @@ Used this bash script:
 
 Output folder:
 
-- [20190501_cgig_fastqc_wgbs_roberto]()
+- [20190501_cgig_fastqc_wgbs_roberto](http://gannet.fish.washington.edu/Atumefaciens/20190501_cgig_fastqc_wgbs_roberto/)
+
+MultiQC Report (HTML):
+
+- [20190501_cgig_fastqc_wgbs_roberto/multiqc_report.html](http://gannet.fish.washington.edu/Atumefaciens/20190501_cgig_fastqc_wgbs_roberto/multiqc_report.html)
+
+
+As predicted, the "Per Tile Sequence Quality" test still fails, but the additional reads should help make up for the sequence loss we might experience during quality trimming:
+
+![Screencap of example FastQC Per Sequence Tile failure](https://github.com/RobertsLab/sams-notebook/raw/master/images/screencaps/20190501_fastqc_tile_fail.png)
