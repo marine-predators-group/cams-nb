@@ -31,6 +31,7 @@ NOTE: Sample #82 did not look like all the others. It was clear, while all other
 
 ![Comparison of clear and hazy crab hemo pellet in RNAlater](https://github.com/RobertsLab/sams-notebook/blob/master/images/20190430_crab_hemo_RNAlater.jpg?raw=true)
 
+
 ---
 
 #### RESULTS
@@ -40,5 +41,12 @@ Qubit data (Google Sheet):
 - [20190430_qubit_RNA_crab](http://b.link/20190430-qubit-RNA-crab)
 
 Everything worked great! Got detectable levels from 64/66 samples. Not surpisingly, sample #82 was one of the two samples that did not have any RNA.
+
+Samples were stored in our [-80<sup>o</sup>C freezer](http://b.link/srlab-80C) in:
+
+- [Shellfish RNA Box #6](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit#gid=5) (Rack 8, Column 4, Row 1)
+
+- [Shellfish RNA Box #7](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit#gid=1549162576) (Rack 2, Column 3, Row 1)
+
 
 Have passed results on to Steven to make help make a decision on how to handle the subsequent sequencing we want to perform.
