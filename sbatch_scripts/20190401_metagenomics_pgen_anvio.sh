@@ -48,7 +48,7 @@ echo ${PATH} | tr : \\n >> system_path.log
 wd=$(pwd)
 cpus=28
 megahit_assembly=/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/final.contigs.fa
-fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa
+fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa/
 ref_assembly_renamed="megahit_assembly.renamed"
 ref_assembly_renamed_fasta="megahit_assembly.renamed.fa"
 
