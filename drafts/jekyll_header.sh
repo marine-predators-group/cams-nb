@@ -51,7 +51,7 @@ echo "Enter categories (semi-colon separated)"
 read -a -r categories_array
 
 # remove spaces from post-title and replace with hyphens
-formatted_title=$(echo -ne "${post_title}" | tr [:space:] '-')
+formatted_title=$(echo -ne "${post_title}" | tr "[:space:]" '-')
 
 # save new filename using post_date and formatted_phrase variables.
 new_md_file="$(echo -n "${filename_date}"-"${formatted_title}")".md
