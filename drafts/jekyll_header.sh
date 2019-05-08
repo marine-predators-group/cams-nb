@@ -42,13 +42,13 @@ IFS=';'
 
 # Ask user for input
 echo "Enter post title (use no punctuation):"
-read post_title
+read -r post_title
 
 echo "Enter tags (semi-colon separated)"
-read -a tag_array
+read -a -r tag_array
 
 echo "Enter categories (semi-colon separated)"
-read -a categories_array
+read -a -r categories_array
 
 # remove spaces from post-title and replace with hyphens
 formatted_title=$(echo -ne "${post_title}" | tr [:space:] '-')
