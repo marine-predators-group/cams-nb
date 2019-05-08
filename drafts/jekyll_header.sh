@@ -35,11 +35,9 @@ md_line="---"
 layout="layout: post"
 title="title: "
 date_line="date: "
-comments="comments: true"
 tags="tags: "
 categories="categories: "
 
-OLD_IFS="${IFS}"
 IFS=';'
 
 # Ask user for input
