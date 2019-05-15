@@ -42,16 +42,16 @@ IFS=';'
 
 # Ask user for input
 echo "Enter post title (use no punctuation):"
-read -r post_title
+read post_title
 
 echo "Enter tags (semi-colon separated)"
-read -a -r tag_array
+read -a tag_array
 
 echo "Enter categories (semi-colon separated)"
-read -a -r categories_array
+read -a categories_array
 
 # remove spaces from post-title and replace with hyphens
-formatted_title=$(echo -ne "${post_title}" | tr "[:space:]" '-')
+formatted_title=$(echo -ne "${post_title}" | tr [:space:] '-')
 
 # save new filename using post_date and formatted_phrase variables.
 new_md_file="$(echo -n "${filename_date}"-"${formatted_title}")".md
