@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=blastn_metagenomics
+#SBATCH --job-name=blastx_metagenomics
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190416_metagenomics_pgen_blastn
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190515_metagenomics_pgen_fastq_blastx
 
 # Exit script if any command fails
 set -e
