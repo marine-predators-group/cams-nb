@@ -105,19 +105,20 @@ export BLASTDB=${blastdb_dir}
 # Loop through FastAs
 # Create list of those FastAs for reference
 # Parse out sample names
-# Run BLASTn on each FastA
-for fasta in ${fasta_dir}/*nucleotides.fasta
+# Run BLASTx on each FastA
+for fasta in *.fasta
 do
   echo ${fasta} >> input.fasta.list.txt
   no_ext=${fasta%%.*}
   sample_name=$(echo ${no_ext##*/})
-  # Run blastx on Trinity fasta
-  ${blastn} \
+
+  # Run BLASTx on each FastA
+  ${blastx} \
   -query ${fasta} \
   -db ${blast_db} \
-  -max_target_seqs 1 \
-  -outfmt "6 std staxids" \
+  -max_hsps 1 \
+  -outfmt "6 std staxid ssciname" \
   -evalue 1e-10 \
   -num_threads ${threads} \
-  > ${wd}/${sample_name}.blastn.outfmt6
+  > "${sample_name}".blastx.outfmt6
 done
