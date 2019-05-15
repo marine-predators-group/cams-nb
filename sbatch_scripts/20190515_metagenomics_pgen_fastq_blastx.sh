@@ -93,7 +93,7 @@ do
   then
     sample_name="${sample_name}"_pH82
   else
-    sample_name="${sample_name}"_pH81
+    sample_name="${sample_name}"_pH71
   fi
   "${seqtk}" mergefa "${fastq_array_R1[index]}" "${fastq_array_R2[index]}" > "${sample_name}".fasta
 done
