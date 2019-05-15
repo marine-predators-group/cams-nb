@@ -42,8 +42,8 @@ blastx="${blast_dir}/blastx"
 seqtk="/gscratch/srlab/programs/seqtk-1.3/seqtk"
 
 # Paths to blastdbs
-blastdb_dir="/gscratch/srlab/blastdbs/ncbi-nr-nt-v5"
-blast_db="${blastdb_dir}/nt"
+blastdb_dir="/gscratch/srlab/blastdbs/ncbi-sp-v5"
+blast_db="${blastdb_dir}/swissprot_v5"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 # Input files
