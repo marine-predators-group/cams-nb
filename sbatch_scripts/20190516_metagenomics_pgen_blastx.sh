@@ -54,32 +54,25 @@ fasta_dir="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/"
 fasta_array=()
 names_array=()
 
+# Export BLAST database directory
+export BLASTDB=${blastdb_dir}
+
 # Create array of FastA files
+# Create array of sample names
+## Uses parameter substitution to strip leading path from filename
 for fasta in ${fasta_dir}/MG*.fa
 do
   fasta_array+=(${fastq})
+  names_array+=($(echo ${fasta#${fasta_dir}} | awk -F"." '{print $1}'))
 done
 
 
-# Create array of sample names
-## Uses parameter substitution to strip leading path from filename
-## Uses awk to parse out sample name from filename
-for R1_fastq in ${fastq_dir}/*R1*.gz
-do
-  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"_" '{print $3 $4}'))
-done
 
-# Create list of fastq files used in analysis
-## Uses parameter substitution to strip leading path from filename
-for fastq in ${fastq_dir}*.gz
+# Loop through arrays to customize sample names
+# and run BLASTx on each FastA
+for index in "${!names_array[@]}"
 do
-  echo "${fastq#${fastq_dir}}" >> fastq.list.txt
-done
-
-# Merge paired-end reads into singular FastA files
-# Uses seqtk for FastQ/FastA manipulation.
-for index in "${!fastq_array_R1[@]}"
-do
+  # Loops through sample names and appends appropriate treatment to each sample name
   sample_name=$(echo "${names_array[index]}")
   if [ "${sample_name}" == "MG1" ] \
   || [ "${sample_name}" == "MG2" ] \
@@ -89,26 +82,13 @@ do
   else
     sample_name="${sample_name}"_pH71
   fi
-  "${seqtk}" mergefa "${fastq_array_R1[index]}" "${fastq_array_R2[index]}" > "${sample_name}".fasta
-done
 
-# Export BLAST database directory
-export BLASTDB=${blastdb_dir}
-
-# Loop through FastAs
-# Create list of those FastAs for reference
-# Parse out sample names
-# Run BLASTx on each FastA
-for fasta in *.fasta
-do
+  # Create list of input FastA files
   echo "${fasta}" >> input.fasta.list.txt
-  "${samtools}" faidx "${fasta}"
-  no_ext=${fasta%%.*}
-  sample_name=$(echo ${no_ext##*/})
 
   # Run BLASTx on each FastA
   ${blastx} \
-  -query "${fasta}" \
+  -query "${fasta_array[index]}" \
   -db ${blast_db} \
   -max_hsps 1 \
   -outfmt "6 std staxid ssciname" \
