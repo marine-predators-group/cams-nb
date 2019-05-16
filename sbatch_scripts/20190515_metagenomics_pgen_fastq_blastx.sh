@@ -116,6 +116,7 @@ do
   ${blastx} \
   -query "${fasta}" \
   -db ${blast_db} \
+  -max_target_seqs 1 \
   -max_hsps 1 \
   -outfmt "6 std staxid ssciname" \
   -evalue 1e-10 \

@@ -91,6 +91,7 @@ do
   -query "${fasta_array[index]}" \
   -db ${blast_db} \
   -max_hsps 1 \
+  -max_target_seqs 1 \
   -outfmt "6 std staxid ssciname" \
   -evalue 1e-10 \
   -num_threads ${threads} \
