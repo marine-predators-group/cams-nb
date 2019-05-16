@@ -71,7 +71,7 @@ R2_list=$(echo ${R2_array[@]} | tr " " ",")
 ${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
---max_memory 120G \
+--max_memory 500G \
 --CPU ${threads} \
 --left \
 ${R1_list} \
