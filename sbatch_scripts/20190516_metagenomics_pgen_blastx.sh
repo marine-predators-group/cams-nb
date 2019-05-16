@@ -47,7 +47,7 @@ blast_db="${blastdb_dir}/swissprot_v5"
 
 
 # Input files
-fasta_dir="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies/"
+fasta_dir="/gscratch/srlab/sam/data/metagenomics/P_generosa/assemblies"
 
 
 ## Inititalize arrays
@@ -63,7 +63,7 @@ export BLASTDB=${blastdb_dir}
 for fasta in ${fasta_dir}/MG*.fa
 do
   fasta_array+=(${fasta})
-  names_array+=($(echo "${fasta#${fasta_dir}}" | awk -F"." '{print $1}'))
+  names_array+=($(echo "${fasta#${fasta_dir}/}" | awk -F"." '{print $1}'))
 done
 
 
