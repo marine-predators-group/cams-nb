@@ -62,7 +62,7 @@ export BLASTDB=${blastdb_dir}
 ## Uses parameter substitution to strip leading path from filename
 for fasta in ${fasta_dir}/MG*.fa
 do
-  fasta_array+=(${fastq})
+  fasta_array+=(${fasta})
   names_array+=($(echo "${fasta#${fasta_dir}}" | awk -F"." '{print $1}'))
 done
 
