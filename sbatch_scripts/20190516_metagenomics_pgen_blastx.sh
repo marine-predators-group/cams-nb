@@ -63,7 +63,7 @@ export BLASTDB=${blastdb_dir}
 for fasta in ${fasta_dir}/MG*.fa
 do
   fasta_array+=(${fastq})
-  names_array+=($(echo ${fasta#${fasta_dir}} | awk -F"." '{print $1}'))
+  names_array+=($(echo "${fasta#${fasta_dir}}" | awk -F"." '{print $1}'))
 done
 
 
