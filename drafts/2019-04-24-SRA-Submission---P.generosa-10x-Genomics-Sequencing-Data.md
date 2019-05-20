@@ -34,3 +34,6 @@ Here's the info:
 | 10x-Genomics-Libraries-Geo10x5-A3-MultipleC_S12 | [SRX5775751](https://www.ncbi.nlm.nih.gov/sra/SRX5775751) |
 | 10x-Genomics-Libraries-Geo10x5-A3-MultipleB_S11 | [SRX5775752](https://www.ncbi.nlm.nih.gov/sra/SRX5775752) |
 | 10x-Genomics-Libraries-Geo10x5-A3-MultipleA_S10 | [SRX5775753](https://www.ncbi.nlm.nih.gov/sra/SRX5775753) |
+
+
+Info will be entered in [Nightingales Google Sheet](http://b.link/nightingales)
