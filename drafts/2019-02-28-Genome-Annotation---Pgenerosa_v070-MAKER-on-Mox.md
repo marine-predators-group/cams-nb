@@ -12,7 +12,19 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+Here it goes, a massive undertaking of attempting to annotate the [Pgenerosa_v070 genome](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070.fa) (FastA; 2.1GB) using MAKER on Mox! I previously started this on [20190115](https://robertslab.github.io/sams-notebook/2019/01/15/Annotation-Geoduck-Genome-with-MAKER-Submitted-to-Mox.html), but killed it in order to fix a number of different issues with the script that were causing problems. I decided the changes were substantial enough, that I'd just make a new working directory and notebook entry.
 
+This will perform the following:
+
+- one round of MAKER gene model predictions
+- two rounds of SNAP gene model training/predictions
+- renaming of gene models to NCBI-standardized convention
+- functional characterization of protein models (via BLASTp)
+- functional characterization of protein domains (via InterProScan5)
+
+It also takes a slew of input files! See the SBATCH script below for those.
+
+I also annotated a subset of this genome (Pgenerosa_v071; scaffolds >10kbp) on 20190213](https://robertslab.github.io/sams-notebook/2019/02/13/Genome-Annotation-Pgenerosa_v71-with-MAKER-on-Mox.html). Just putting that in here for reference purposes.
 
 SBATCH script (GitHub):
 
@@ -399,3 +411,8 @@ The important files:
 
   - Annotated proteins FastA file.
   - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+
+I'll make an additional post that delves into more of these results, breaks out different genome structures into separate GFF files (e.g. exons, mRNA, CDS, etc.), and compares them to the other annotation performed on the 10kbp genome subset. However, a quick `grep -c ">"` on the FastA files reveals:
+
+- 53035 annotated transcripts/proteins
