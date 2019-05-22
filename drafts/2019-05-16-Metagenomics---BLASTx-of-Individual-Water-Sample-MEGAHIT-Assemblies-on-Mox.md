@@ -136,3 +136,17 @@ Actually took longer than I thought it would (almost six days - essentially one 
 Output folder:
 
 - [20190516_metagenomics_pgen_blastx](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx)
+
+BLAST output files (Output format 6, plus taxids and scientific names):
+
+- [MG1_pH82.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG1_pH82.blastx.outfmt6)
+
+- [MG2_pH82.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG2_pH82.blastx.outfmt6)
+
+- [MG3_pH71.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG3_pH71.blastx.outfmt6)
+
+- [MG5_pH82.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG5_pH82.blastx.outfmt6)
+
+- [MG6_pH71.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG6_pH71.blastx.outfmt6)
+
+- [MG7_pH71.blastx.outfmt6](http://gannet.fish.washington.edu/Atumefaciens/20190516_metagenomics_pgen_blastx/MG7_pH71.blastx.outfmt6)
