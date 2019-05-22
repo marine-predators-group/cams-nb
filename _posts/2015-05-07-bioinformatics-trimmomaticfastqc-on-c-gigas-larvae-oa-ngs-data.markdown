@@ -23,7 +23,7 @@ tags:
   - troubleshooting
 ---
 
-In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](https://robertslab.github.io/sams-notebook/2015/04/15/quality-trimming-c-gigas-larvae-oa-bs-seq-data.html), the first 39 bases still showed inconsistent quality:
+In another troubleshooting attempt for this problematic BS-seq Illumina data, I'm going to use Trimmomatic to remove the first 39 bases of each read. This is due to the fact that even [after the previous quality trimming with Trimmomatic](https://robertslab.github.io/sams-notebook/2015/04/16/quality-trimming-c-gigas-larvae-oa-bs-seq-data.html), the first 39 bases still showed inconsistent quality:
 
 ![](https://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)(http://eagle.fish.washington.edu/Arabidopsis/20150414_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc/Images/per_base_sequence_content.png)
 
@@ -48,5 +48,3 @@ FASTQC Report: [20150506_trimmed_2212_lane2_CTTGTA_L002_R1_001_fastqc.html](http
 You can see how flat the newly trimmed data is (which is what one would expect).
 
 Steven will take this trimmed dataset and try additional mapping with it to see if removal of the first 39 bases will improve the mapping.
-
-
