@@ -72,6 +72,7 @@ ${trinity_dir}/Trinity \
 --trimmomatic \
 --seqType fq \
 --max_memory 500G \
+--min_kmer_cov 2 \
 --CPU ${threads} \
 --left \
 "${R1_list}" \
