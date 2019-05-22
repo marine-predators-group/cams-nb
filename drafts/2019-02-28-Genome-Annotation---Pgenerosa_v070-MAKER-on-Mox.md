@@ -379,4 +379,23 @@ Well, it _finally_ finished! Praise be! Cumulative actual runtime was ~36 days! 
 
 Output folder:
 
-- []()
+- [20190228_pgen_maker_v070_annotation/](http://gannet.fish.washington.edu/Atumefaciens/20190228_pgen_maker_v070_annotation/)
+
+The important files:
+
+- [Pgenerosa_v070_genome_snap02.all.renamed.putative_function.domain_added.gff](http://gannet.fish.washington.edu/Atumefaciens/20190228_pgen_maker_v070_annotation/Pgenerosa_v070_genome_snap02.all.renamed.putative_function.domain_added.gff) (7.1GB)
+
+  - GFF file with all contigs annotated with putative functions and functional domains.
+  - _INCLUDES SEQUENCE FASTAS AT END OF FILE!_
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+  - MD5: ba6e9c69951d0b71675e3dc471563a0e
+
+- [Pgenerosa_v070_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190228_pgen_maker_v070_annotation/) (17MB)
+
+  - Annotated proteins FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+- [Pgenerosa_v070_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](http://gannet.fish.washington.edu/Atumefaciens/20190228_pgen_maker_v070_annotation/Pgenerosa_v070_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta) (44MB)
+
+  - Annotated proteins FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
