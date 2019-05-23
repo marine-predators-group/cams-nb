@@ -12,7 +12,7 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
-Needed to generate a generate a species-specific repeat library for use with MAKER genome annotation using [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and the Pgenerosa_v070.fa ([see our Genomic Resources wiki for more info])(https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-2) version of the genome.
+Needed to generate a generate a species-specific repeat library for use with MAKER genome annotation using [RepeatModeler](https://www.repeatmasker.org/RepeatModeler/) and the Pgenerosa_v070.fa ([see our Genomic Resources wiki for more info](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-2)) version of the genome.
 
 This was run in a Jupyter Notebook on Emu (Apple Xserve running Ubuntu 16.04LTS).
 
