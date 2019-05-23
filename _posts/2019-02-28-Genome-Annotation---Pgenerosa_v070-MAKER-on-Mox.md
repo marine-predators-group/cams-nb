@@ -22,7 +22,27 @@ This will perform the following:
 - functional characterization of protein models (via BLASTp)
 - functional characterization of protein domains (via InterProScan5)
 
-It also takes a slew of input files! See the SBATCH script below for those.
+---
+
+It also takes a slew of input files! See the SBATCH script and the list below for those:
+
+Genome assembly
+
+- [Pgenerosa_v070.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070.fa)
+
+Transcriptome assembly (from [20180904](https://robertslab.github.io/sams-notebook/2018/09/04/transcriptome-assembly-geoduck-rnaseq-data.html)):
+
+- [20180827_trinity_geoduck.fasta](http://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta) (972MB)
+
+Protein FastA (from [20181121](20180827_trinity_geoduck.fasta.transdecoder.pep))
+
+- [20180827_trinity_geoduck.fasta.transdecoder.pep](https://gannet.fish.washington.edu/Atumefaciens/20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.pep) (142MB)
+
+Repeats library FastA (from [20181219](https://robertslab.github.io/sams-notebook/2018/12/19/Repeat-Library-Construction-P.generosa-RepeatModeler-v1.0.11.html))
+
+- [Pgenerosa_v070-families.fa](http://gannet.fish.washington.edu/Atumefaciens/20181219_Pgenerosa_repeatmodeler/Pgenerosa_v070-families.fa) (1.4MB)
+
+---
 
 I also annotated a subset of this genome (Pgenerosa_v071; scaffolds >10kbp) on 20190213](https://robertslab.github.io/sams-notebook/2019/02/13/Genome-Annotation-Pgenerosa_v71-with-MAKER-on-Mox.html). Just putting that in here for reference purposes.
 
