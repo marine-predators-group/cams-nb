@@ -364,6 +364,24 @@ ${snap02_gff_renamed} \
 
 </code></pre>
 
+Here are links to the input files used:
+
+Genome assembly (from [20190211](https://robertslab.github.io/sams-notebook/2019/02/11/Sequence-Subsetting-Pgenerosa_v70-Genome-Assembly-with-faidx.html))
+
+- [Pgenerosa_v071.fasta](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v071.fasta) (1.3GB)
+
+Transcriptome assembly (from [20180904](https://robertslab.github.io/sams-notebook/2018/09/04/transcriptome-assembly-geoduck-rnaseq-data.html)):
+
+- [20180827_trinity_geoduck.fasta](http://owl.fish.washington.edu/Athaliana/20180827_trinity_geoduck_RNAseq/Trinity.fasta) (972MB)
+
+Protein FastA (from [20181121](20180827_trinity_geoduck.fasta.transdecoder.pep))
+
+- [20180827_trinity_geoduck.fasta.transdecoder.pep](https://gannet.fish.washington.edu/Atumefaciens/20181121_geo_transdecoder/20180827_trinity_geoduck.fasta.transdecoder.pep) (142MB)
+
+Repeats library FastA (from [20181219](https://robertslab.github.io/sams-notebook/2018/12/19/Repeat-Library-Construction-P.generosa-RepeatModeler-v1.0.11.html))
+
+- [Pgenerosa_v070-families.fa](http://gannet.fish.washington.edu/Atumefaciens/20181219_Pgenerosa_repeatmodeler/Pgenerosa_v070-families.fa) (1.4MB)
+
 ---
 
 #### RESULTS
