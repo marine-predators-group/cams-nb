@@ -38,12 +38,12 @@ SBATCH script:
 Due to the huge number of input files, I won't post the entire script contents here. Instead, here's a snippet of the script showing the commands used to start the Trinity run:
 
 
-    
-    <code>
+
+
     #!/bin/bash
     ## Job Name
     #SBATCH --job-name=20180829_trinity
-    ## Allocation Definition 
+    ## Allocation Definition
     #SBATCH --account=srlab
     #SBATCH --partition=srlab
     ## Resources
@@ -58,28 +58,28 @@ Due to the huge number of input files, I won't post the entire script contents h
     #SBATCH --mail-user=samwhite@uw.edu
     ## Specify the working directory for this job
     #SBATCH --workdir=/gscratch/scrubbed/samwhite/20180827_trinity_geoduck_RNAseq
-    
+
     # Load Python Mox module for Python module availability
-    
+
     module load intel-python3_2017
-    
+
     # Document programs in PATH (primarily for program version ID)
-    
+
     date >> system_path.log
     echo "" >> system_path.log
     echo "System PATH for $SLURM_JOB_ID" >> system_path.log
     echo "" >> system_path.log
     printf "%0.s-" {1..10} >> system_path.log
     echo ${PATH} | tr : \\n >> system_path.log
-    
-    
+
+
     # Run Trinity
     /gscratch/srlab/programs/trinityrnaseq-Trinity-v2.8.3/Trinity \
     --trimmomatic \
     --seqType fq \
     --max_memory 500G \
     --CPU 28 \
-    </code>
+
 
 
 
@@ -88,7 +88,7 @@ Despite the naming conventions, this job was submitted to the Mox scheduler on 2
 After job completion, the entire folder was gzipped (the following method of gzipping is SUPER fast, btw):
 
 
-    
+
     <code>tar -c 20180827_trinity_geoduck_RNAseq | pigz > 20180827_trinity_geoduck_RNAseq.tar.gz</code>
 
 
