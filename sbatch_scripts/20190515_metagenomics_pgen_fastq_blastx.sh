@@ -82,8 +82,8 @@ do
   echo "${fastq#${fastq_dir}}" >> fastq.list.txt
 done
 
-# Merge paired-end reads into singular FastA files
-# Uses seqtk for FastQ/FastA manipulation.
+# Concatenate paired-end reads into singular FastA files for each sample.
+# Uses seqtk to convert FastQ to FastA.
 for index in "${!fastq_array_R1[@]}"
 do
   sample_name=$(echo "${names_array[index]}")
@@ -95,7 +95,7 @@ do
   else
     sample_name="${sample_name}"_pH71
   fi
-  "${seqtk}" mergefa "${fastq_array_R1[index]}" "${fastq_array_R2[index]}" > "${sample_name}".fasta
+  "${seqtk}" seq -a "${fastq_array_R1[index]}" "${fastq_array_R2[index]}" >> "${sample_name}".fasta
 done
 
 # Export BLAST database directory
