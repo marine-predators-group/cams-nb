@@ -89,7 +89,7 @@ After job completion, the entire folder was gzipped (the following method of gzi
 
 
 
-    <code>tar -c 20180827_trinity_geoduck_RNAseq | pigz > 20180827_trinity_geoduck_RNAseq.tar.gz</code>
+    tar -c 20180827_trinity_geoduck_RNAseq | pigz > 20180827_trinity_geoduck_RNAseq.tar.gz
 
 
 
