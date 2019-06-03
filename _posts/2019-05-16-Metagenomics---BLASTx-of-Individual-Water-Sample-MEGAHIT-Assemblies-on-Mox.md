@@ -11,7 +11,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-After a meeting on this project yesterday, we decided to try a few things to continue with various approaches to assessing the metagenome. One of the approaches is to run BLASTx on the individual water sample MEGAHIT assemblies [from 20190327 ](https://robertslab.github.io/sams-notebook/2019/03/27/Metagenome-Assemblies-P.generosa-Water-Samples-Trimmed-HiSeqX-Data-Using-Megahit-on-Mox.html) and obtain taxonomy info for them, so that's what I did here.
+After a meeting on this project yesterda, we decided to try a few things to continue with various approaches to assessing the metagenome. One of the approaches is to run BLASTx on the individual water sample MEGAHIT assemblies [from 20190327 ](https://robertslab.github.io/sams-notebook/2019/03/27/Metagenome-Assemblies-P.generosa-Water-Samples-Trimmed-HiSeqX-Data-Using-Megahit-on-Mox.html) and obtain taxonomy info for them, so that's what I did here.
 
 Samples breakdown like so, for reference:
 
@@ -23,7 +23,7 @@ SBATCH script (GitHub):
 
 - [20190516_metagenomics_pgen_blastx.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190516_metagenomics_pgen_blastx.sh)
 
-```Shell
+
     #!/bin/bash
     ## Job Name
     #SBATCH --job-name=blastx_metagenomics
@@ -109,7 +109,7 @@ SBATCH script (GitHub):
 
       # Create list of input FastA files
       echo "${fasta}" >> input.fasta.list.txt
-
+    
       # Run BLASTx on each FastA
       ${blastx} \
       -query "${fasta_array[index]}" \
@@ -121,7 +121,7 @@ SBATCH script (GitHub):
       -num_threads ${threads} \
       > "${sample_name}".blastx.outfmt6
     done
-```
+
 
 ---
 
