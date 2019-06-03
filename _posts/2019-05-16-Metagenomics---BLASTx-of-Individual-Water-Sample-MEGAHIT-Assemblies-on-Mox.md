@@ -23,7 +23,7 @@ SBATCH script (GitHub):
 
 - [20190516_metagenomics_pgen_blastx.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190516_metagenomics_pgen_blastx.sh)
 
-<code>
+```shell
     #!/bin/bash
     ## Job Name
     #SBATCH --job-name=blastx_metagenomics
@@ -121,7 +121,7 @@ SBATCH script (GitHub):
       -num_threads ${threads} \
       > "${sample_name}".blastx.outfmt6
     done
-</code>
+```
 
 ---
 
