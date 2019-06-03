@@ -34,7 +34,7 @@ SBATCH script (GitHub):
 
 - [20190327_metagenomics_geo_megahit.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190327_metagenomics_pgen_megahit.sh)
 
-<pre><code>
+```shell
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=megahit
@@ -146,8 +146,7 @@ do
   # Return to working directory
   cd ${wd}
 done
-
-</code></pre>
+```
 
 ---
 

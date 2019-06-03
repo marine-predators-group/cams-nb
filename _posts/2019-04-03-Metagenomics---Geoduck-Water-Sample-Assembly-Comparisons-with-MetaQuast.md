@@ -14,7 +14,7 @@ As part of addressing this [GitHub Issue on assessing taxonomic diversity in our
 
 - [ngless.job](http://eagle.fish.washington.edu/oyster/metagenomics_2019/ngless.job)
 
-<pre><code>
+```shell
 #!/bin/bash
 
 #$ -cwd
@@ -44,13 +44,13 @@ ngless \
    --keep-temporary-files \
    -j $NSLOTS \
    -t /data/scratch/ssd
-</code></pre>
+```
 
 ---
 
 - [ngl.singleLibs](http://eagle.fish.washington.edu/oyster/metagenomics_2019/ngl.singleLibs)
 
-<pre><code>
+```shell
 ngless "0.10"
 import "parallel" version "0.6"
 
@@ -68,13 +68,13 @@ write(contigs, ofile='contigsM7S2.fa')
 
 orfs = orf_find(contigs, is_metagenome=True)
 write(contigs, ofile='orfM7S2.fna')
-</code></pre>
+```
 
 I `rsync`'d all the assembly files to my computer (swoose) and ran [MetaQuast](http://quast.sourceforge.net/metaquast) locally. I did _not_ provide MetaQuast with individual reads, nor reference, as I just wanted a quick and dirty assessment of each of the assemblies. For a more in-depth comparison, I'm currently running [Anvi'o](http://merenlab.org/software/anvio/) on Mox.
 
 I ran MetaQuast with the following command:
 
-<pre><code>
+```shell
 python \
 /home/sam/programs/quast-5.0.2/metaquast.py \
 --threads=20 \

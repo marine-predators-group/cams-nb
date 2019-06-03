@@ -25,7 +25,7 @@ So, I ran Quast on my computer (swoose - Ubuntu 16.04LTS) with the following inp
 
 - [final.contigs.fa](http://gannet.fish.washington.edu/Atumefaciens/20190102_metagenomics_geo_megahit/megahit_out/final.contigs.fa) (Mine from [20190102_metagenomics_geo_megahit](https://robertslab.github.io/sams-notebook/2019/01/02/Metagenome-Assembly-P.generosa-Water-Sample-HiSeqX-Data-Using-Megahit.html))
 
-<pre><code>
+```shell
 python \
 /home/sam/programs/quast-5.0.2/quast.py \
 --threads=20 \
@@ -33,7 +33,7 @@ python \
 --labels=ets,sjw \
 /home/sam/data/metagenomics/P_generosa/emma_assemblies/contigs.fa \
 /home/sam/data/metagenomics/P_generosa/final.contigs.fa
-</code></pre>
+```
 
 ---
 

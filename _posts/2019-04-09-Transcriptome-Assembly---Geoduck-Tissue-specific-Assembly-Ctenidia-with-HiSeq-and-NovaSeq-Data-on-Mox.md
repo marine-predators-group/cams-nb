@@ -23,7 +23,7 @@ SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_ctenidia_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_ctenidia_RNAseq.sh)
 
-<pre><code>
+```shell
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=trin_ctenidia
@@ -116,7 +116,7 @@ trinity_out_dir/Trinity.fasta \
 # Create FastA index
 ${samtools} faidx \
 trinity_out_dir/Trinity.fasta
-</code></pre>
+```
 
 ---
 
