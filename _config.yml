@@ -38,6 +38,9 @@ disqus:
   shortname: kubu4
 # Build settings
 markdown: kramdown
+
+# Set code block highlighting
+highlighter: rouge
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
