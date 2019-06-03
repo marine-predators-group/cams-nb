@@ -23,7 +23,7 @@ SBATCH script (GitHub):
 
 - [20190416_metagenomics_pgen_blastn.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190416_metagenomics_pgen_blastn.sh)
 
-<pre><code>
+```shell
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=blastn_metagenomics
@@ -94,9 +94,8 @@ do
   -num_threads ${threads} \
   > ${wd}/${sample_name}.blastn.outfmt6
 done
-</code></pre>
+```
 
----
 
 #### RESULTS
 
