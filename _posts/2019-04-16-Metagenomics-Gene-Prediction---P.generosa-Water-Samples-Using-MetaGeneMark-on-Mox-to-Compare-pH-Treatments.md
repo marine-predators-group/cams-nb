@@ -20,7 +20,7 @@ SBATCH script (GitHub):
 - [20190416_metagenomics_pgen_metagenemark.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190416_metagenomics_pgen_metagenemark.sh)
 
 
-<pre><code>
+```shell
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=mgm
@@ -109,7 +109,7 @@ for fasta in *.fasta
 do
   ${samtools} faidx ${fasta}
 done
-</code></pre>
+```
 
 ---
 
