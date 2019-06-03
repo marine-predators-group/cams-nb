@@ -67,6 +67,12 @@ printf "  - %s\n" "${tag_array[@]}" >> "${new_md_file}"
 printf "%s\n" "${categories}" >> "${new_md_file}"
 printf "  - %s\n" "${categories_array[@]}" >> "${new_md_file}"
 printf "%s\n" "${md_line}" >> "${new_md_file}"
+printf "\n\n\n" >> "${new_md_file}"
+printf "%s\n\n" "${md_line}" >> "${new_md_file}"
+printf "%s\n\n" "#### RESULTS" >> "${new_md_file}"
+printf "%s\n\n" "Output folder:" >> "${new_md_file}"
+printf "%s\n\n" "- []()"
+
 
 # Open file with Atom text editor.
 atom "${new_md_file}"
