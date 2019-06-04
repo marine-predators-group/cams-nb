@@ -27,7 +27,7 @@ do
 done
 
 # Create initial file for joining
-cp "${array[0]}"ID_CpG_labelled ID_CpG_labelled_all
+cp "${array[0]}"ID_CpG_labelled ID_CpG_labelled_all.tab
 
 # Loop through array and performs joins.
 # Looping starts at array index 1, since index 0 was processed above.
@@ -37,8 +37,8 @@ for file in "${array[@]:1}"
 do
   join \
   --nocheck-order \
-  ID_CpG_labelled_all "${file}"ID_CpG_labelled \
+  ID_CpG_labelled_all.tab "${file}"ID_CpG_labelled \
   | column -t -s "$(printf '\t')" \
   > "${tmp}" \
-  && mv "${tmp}" ID_CpG_labelled_all
+  && mv "${tmp}" ID_CpG_labelled_all.tab
 done
