@@ -38,7 +38,7 @@ do
   join \
   --nocheck-order \
   ID_CpG_labelled_all.tab "${file}"ID_CpG_labelled \
-  | column -t -s "$(printf '\t')" \
+  | tr ' ' '\t' \
   > "${tmp}" \
   && mv "${tmp}" ID_CpG_labelled_all.tab
 done
