@@ -14,7 +14,11 @@ array=(*/)
 # Create column headers for ID_CpG files using sample name from directory name.
 for file in ${array[@]}
 do
-  gene=$(echo ${file} | awk -F\[._] '{print $6"_"$7}')
+  gene=$(echo ${file} \
+  | awk -F[.] '{print $6}' \
+  | rev \
+  | cut -d "_" -f3- \
+  | rev)
   sed "1iID\t${gene}" ${file}ID_CpG > ${file}ID_CpG_labelled
 done
 
