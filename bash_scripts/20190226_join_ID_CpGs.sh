@@ -32,7 +32,7 @@ cp "${array[0]}"ID_CpG_labelled ID_CpG_labelled_all.tab
 # Loop through array and performs joins.
 # Looping starts at array index 1, since index 0 was processed above.
 # Assumes input files were already sorted by chromosome, in column 1.
-# Outputs
+# Outputs tab-delimited file
 for file in "${array[@]:1}"
 do
   join \
