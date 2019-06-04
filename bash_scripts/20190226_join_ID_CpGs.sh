@@ -12,26 +12,27 @@ tmp=$(mktemp)
 array=(*/)
 
 # Create column headers for ID_CpG files using sample name from directory name.
-for file in ${array[@]}
+for file in "${array[@]}"
 do
-  gene=$(echo ${file} \
+  gene=$(echo "${file}" \
   | awk -F[.] '{print $6}' \
   | rev \
   | cut -d "_" -f3- \
   | rev)
-  sed "1iID\t${gene}" ${file}ID_CpG > ${file}ID_CpG_labelled
+  sed "1iID\t${gene}" "${file}"ID_CpG \
+  > "${file}"ID_CpG_labelled
 done
 
 # Create initial file for joining
-cp ${array[0]}ID_CpG_labelled ID_CpG_labelled_all
+cp "${array[0]}"ID_CpG_labelled ID_CpG_labelled_all
 
 # Loop through array and performs joins.
-for file in ${array[@]:1}
+for file in "${array[@]:1}"
 do
   join \
   --nocheck-order \
-  ID_CpG_labelled_all ${file}ID_CpG_labelled \
+  ID_CpG_labelled_all "${file}"ID_CpG_labelled \
   | column -t \
-  > ${tmp} \
-  && mv ${tmp} ID_CpG_labelled_all
+  > "${tmp}" \
+  && mv "${tmp}" ID_CpG_labelled_all
 done
