@@ -61,7 +61,7 @@ SBATCH script (GitHub):
     echo "" >> system_path.log
     printf "%0.s-" {1..10} >> system_path.log
     echo "${PATH}" | tr : \\n >> system_path.log    
-    
+
 
     threads=28    
 
@@ -77,7 +77,7 @@ SBATCH script (GitHub):
 
     # Input files
     fastq_dir="/gscratch/srlab/sam/data/metagenomics/P_generosa/"    
-    
+
 
     ## Inititalize arrays
     fastq_array_R1=()
@@ -152,6 +152,9 @@ SBATCH script (GitHub):
       > "${sample_name}".blastx.outfmt6
     done
 
+Oof, after running for over _nine days_ the Mox node crashed this past weekend:
+
+![Screencap of blastx node failure notification](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190607_blastx_node_fail.png?raw=true)
 
 ---
 
