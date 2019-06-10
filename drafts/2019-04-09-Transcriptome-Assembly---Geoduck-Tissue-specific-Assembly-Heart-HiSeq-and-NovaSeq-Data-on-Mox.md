@@ -19,6 +19,7 @@ SBATCH script (GitHub):
 
 - [20190409_trinity_pgen_heart_RNAseq.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190409_trinity_pgen_heart_RNAseq.sh)
 
+```shell
     #!/bin/bash
     ## Job Name
     #SBATCH --job-name=trin_heart
@@ -53,7 +54,7 @@ SBATCH script (GitHub):
     echo ${PATH} | tr : \\n >> system_path.log    
 
     # User-defined variables
-    reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/heart
+    reads_dir=/gscratch/srlab/sam/data/P_generosa/RNAseq/heart
     threads=28
     assembly_stats=assembly_stats.txt    
 
@@ -111,6 +112,7 @@ SBATCH script (GitHub):
     # Create FastA index
     ${samtools} faidx \
     trinity_out_dir/Trinity.fasta
+```
 
 Oof, after running for over _two weeks_ the Mox node crashed this past weekend:
 
