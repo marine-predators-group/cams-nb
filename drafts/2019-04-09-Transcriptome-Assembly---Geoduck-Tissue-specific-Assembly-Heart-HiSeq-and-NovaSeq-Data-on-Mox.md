@@ -60,7 +60,7 @@ SBATCH script (GitHub):
     # Paths to programs
     trinity_dir="/gscratch/srlab/programs/Trinity-v2.8.3"
     samtools="/gscratch/srlab/programs/samtools-1.9/samtools"    
-    
+
 
     ## Inititalize arrays
     R1_array=()
@@ -86,7 +86,7 @@ SBATCH script (GitHub):
     # Create comma-separated lists of FastQ reads
     R1_list=$(echo ${R1_array[@]} | tr " " ",")
     R2_list=$(echo ${R2_array[@]} | tr " " ",")    
-    
+
 
     # Run Trinity
     ${trinity_dir}/Trinity \
@@ -112,6 +112,12 @@ SBATCH script (GitHub):
     ${samtools} faidx \
     trinity_out_dir/Trinity.fasta
 
+Oof, after running for over _two weeks_ the Mox node crashed this past weekend:
+
+![Screencap of Trinity node failure notification.](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190607_trinity_node_fail.png?raw=true)
+
+
+Have restarted the job...
 
 ---
 
