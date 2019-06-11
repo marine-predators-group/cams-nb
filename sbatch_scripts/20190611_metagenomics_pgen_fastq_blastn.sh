@@ -104,7 +104,7 @@ export BLASTDB=${blastdb_dir}
 # Loop through FastAs
 # Create list of those FastAs for reference
 # Parse out sample names
-# Run BLASTx on each FastA
+# Run BLASTn on each FastA
 for fasta in *.fasta
 do
   echo "${fasta}" >> input.fasta.list.txt
@@ -112,8 +112,8 @@ do
   no_ext=${fasta%%.*}
   sample_name=$(echo ${no_ext##*/})
 
-  # Run BLASTx on each FastA
-  ${blastx} \
+  # Run BLASTn on each FastA
+  ${blastn} \
   -query "${fasta}" \
   -db ${blast_db} \
   -max_target_seqs 1 \
