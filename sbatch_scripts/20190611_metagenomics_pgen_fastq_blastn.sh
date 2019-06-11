@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=blastx_metagenomics
+#SBATCH --job-name=blastn_metagenomics
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
