@@ -40,8 +40,26 @@ Krona Plots (HTML):
 - [20190612_metagenomics_ind_coverage_krona/taxonomy.krona.html](https://gannet.fish.washington.edu/Atumefaciens/20190612_metagenomics_ind_coverage_krona/taxonomy.krona.html)
 
 
+The Krona plot is interactive and allows the user to select the different plots that they want to see and then "drill down" further in to the various taxonomies. Unfortunately, the "Avg. score" (i.e. average of the average sequencing coverage) is only displayed as a number in the upper right corner. There's no color coding. Well, this isn't entirely true. An option is availabe to "Color by Avg. Score", however it seems that the color range is a default and does not dynamically adjust to the input ranges. As such, in this particular case, the coverage is all fairly low in the range (~20 fold coverage) and simply all gets colored the same, since the default score range is 0.3 - 6367.
+
 Example of Krona plot showing the Avg. score (i.e. the average of average sequencing coverage for a given taxonomic group):
 
 ![Example of Krona plot showing the Avg. score (i.e. the average of average sequencing coverage for a given taxonomic group)](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190612_metagenomics_blastx_cov_krona.png?raw=true)
 
 ---
+
+Although I still haven't figured out a way to actually pull out any of the data being used to generate the plots, a quick clicking around revealed a couple of things:
+
+1. Average coverage across taxa _within a given data set_ appears to be relatively equal.
+
+2. Average coverage across taxa _across most data sets_ appears to be ~20x.
+
+3. MG3 (pH = 7.1) sample exhibits ~50% _less_ average coverage across taxa: ~10X
+
+4. MG3 (pH = 7.1) sample shows higher average coverage in Eukaryotes than Bacteria, yet all other samples are the opposite.
+
+It seems that MG3 (pH = 7.1) is a bit of an anomaly. [Analysis I did with Anvi'o (using CONCOCT for genome abundance determination) on 20190401](https://robertslab.github.io/sams-notebook/2019/04/01/Metagenomics-Taxonomic-Diversity-Comparisons-from-Geoduck-Water-with-Anvio-on-Mox.html), also shows that MG3 is noticeably different than the other five samples:
+
+![Screencap of standard phylogram interactive plot interface](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190401_anvio_phylogram-01.png?raw=true)
+
+We have a meeting tomorrow (20190613) to go over this project with Emma. Should be good to determine what direction we will take and produce further ideas for analysis.
