@@ -37,7 +37,11 @@ echo "${PATH}" | tr : \\n >> system_path.log
 threads=28
 
 # Paths to programs
-
+reago_dir="/gscratch/srlab/programs/reago-1.1-release-2015.12.18"
+reago="${reago_dir}/reago.py"
+reago_filter="${reago_dir}/filter_input.py"
+cm_dir="${reago_dir}/cm"
+cm_to_use="${cm_dir}/ab"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 seqtk="/gscratch/srlab/programs/seqtk-1.3/seqtk"
 
@@ -90,7 +94,8 @@ do
   else
     sample_name="${sample_name}"_pH71
   fi
-  "${seqtk}" seq -a "${fastq_array_R1[index]}" "${fastq_array_R2[index]}" >> "${sample_name}".fasta
+  "${seqtk}" seq -a "${fastq_array_R1[index]}" >> "${sample_name}"_R1.fasta
+  "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
 done
 
 # Export BLAST database directory
@@ -106,4 +111,5 @@ do
   "${samtools}" faidx "${fasta}"
   no_ext=${fasta%%.*}
   sample_name=$(echo ${no_ext##*/})
+
 done
