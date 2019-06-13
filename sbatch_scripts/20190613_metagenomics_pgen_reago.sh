@@ -115,3 +115,12 @@ do
   "${cm}" \
   "${threads}"
 done
+
+# Run reago on filtered FastAs
+for fasta in filtered.*.fasta
+do
+  python "${reago}" \
+  "${fasta}" \
+  "${fasta}".reago_out \
+  -l 100
+done
