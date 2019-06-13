@@ -52,6 +52,9 @@ fastq_dir="/gscratch/srlab/sam/data/metagenomics/P_generosa/"
 ## Inititalize arrays
 fastq_array_R1=()
 fastq_array_R2=()
+fasta_array_R1=()
+fasta_array_R2=()
+filtered_fasta_array=()
 names_array=()
 
 # Create array of fastq R1 files
@@ -95,21 +98,20 @@ do
     sample_name="${sample_name}"_pH71
   fi
   "${seqtk}" seq -a "${fastq_array_R1[index]}" >> "${sample_name}"_R1.fasta
+  echo "${sample_name}_R1.fasta" >> input.fasta.list.txt
+  fasta_array_R1+=("${sample_name}"_R1.fasta)
   "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
+  echo "${sample_name}_R2.fasta" >> input.fasta.list.txt
+  fasta_array_R2+=("${sample_name}"_R1.fasta)
 done
 
-# Export BLAST database directory
-export BLASTDB=${blastdb_dir}
-
-# Loop through FastAs
-# Create list of those FastAs for reference
-# Parse out sample names
-# Run BLASTx on each FastA
-for fasta in *.fasta
+# Run reago filterinput.py on each FastA pair
+for index in "${!fasta_array_R1[@]}"
 do
-  echo "${fasta}" >> input.fasta.list.txt
-  "${samtools}" faidx "${fasta}"
-  no_ext=${fasta%%.*}
-  sample_name=$(echo ${no_ext##*/})
-
+  python "${filter_input}" \
+  "${fasta_array_R1[index]}" \
+  "${fasta_array_R2[index]}" \
+  "${cm_dir}" \
+  "${cm}" \
+  "${threads}"
 done
