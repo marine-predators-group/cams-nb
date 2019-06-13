@@ -54,7 +54,6 @@ fastq_array_R1=()
 fastq_array_R2=()
 fasta_array_R1=()
 fasta_array_R2=()
-filtered_fasta_array=()
 names_array=()
 
 # Create array of fastq R1 files
@@ -100,19 +99,21 @@ do
   "${seqtk}" seq -a "${fastq_array_R1[index]}" >> "${sample_name}"_R1.fasta
   echo "${sample_name}_R1.fasta" >> input.fasta.list.txt
   fasta_array_R1+=("${sample_name}"_R1.fasta)
+  "${samtools}" index "${fasta_array_R1[index]}"
   "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
   echo "${sample_name}_R2.fasta" >> input.fasta.list.txt
   fasta_array_R2+=("${sample_name}"_R1.fasta)
+  "${samtools}" index "${fasta_array_R2[index]}"
 done
 
 # Run reago filterinput.py on each FastA pair
 for index in "${!fasta_array_R1[@]}"
 do
-  python "${filter_input}" \
+  python "${reago_filter}" \
   "${fasta_array_R1[index]}" \
   "${fasta_array_R2[index]}" \
   "${cm_dir}" \
-  "${cm}" \
+  "${cm_to_use}" \
   "${threads}"
 done
 
