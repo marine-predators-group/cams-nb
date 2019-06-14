@@ -42,7 +42,6 @@ reago="${reago_dir}/reago.py"
 reago_filter="${reago_dir}/filter_input.py"
 cm_dir="${reago_dir}/cm"
 cm_to_use="${cm_dir}/ab"
-samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 seqtk="/gscratch/srlab/programs/seqtk-1.3/seqtk"
 
 # Input files
@@ -99,11 +98,9 @@ do
   "${seqtk}" seq -a "${fastq_array_R1[index]}" >> "${sample_name}"_R1.fasta
   echo "${sample_name}_R1.fasta" >> input.fasta.list.txt
   fasta_array_R1+=("${sample_name}"_R1.fasta)
-  "${samtools}" index "${fasta_array_R1[index]}"
   "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
   echo "${sample_name}_R2.fasta" >> input.fasta.list.txt
   fasta_array_R2+=("${sample_name}"_R1.fasta)
-  "${samtools}" index "${fasta_array_R2[index]}"
 done
 
 # Run reago filterinput.py on each FastA pair
