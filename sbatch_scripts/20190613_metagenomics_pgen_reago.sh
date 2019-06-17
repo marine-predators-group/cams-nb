@@ -100,7 +100,7 @@ do
   fasta_array_R1+=("${sample_name}"_R1.fasta)
   "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
   echo "${sample_name}_R2.fasta" >> input.fasta.list.txt
-  fasta_array_R2+=("${sample_name}"_R1.fasta)
+  fasta_array_R2+=("${sample_name}"_R2.fasta)
 done
 
 # Run reago filterinput.py on each FastA pair
