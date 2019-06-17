@@ -33,7 +33,7 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
 
-
+wd=$(pwd)
 threads=28
 
 # Paths to programs
@@ -109,6 +109,7 @@ do
   python "${reago_filter}" \
   "${fasta_array_R1[index]}" \
   "${fasta_array_R2[index]}" \
+  $"{wd}" \
   "${cm_dir}" \
   "${cm_to_use}" \
   "${threads}"
