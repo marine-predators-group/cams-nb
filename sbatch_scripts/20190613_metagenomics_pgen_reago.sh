@@ -109,7 +109,7 @@ do
   python "${reago_filter}" \
   "${fasta_array_R1[index]}" \
   "${fasta_array_R2[index]}" \
-  $"{wd}" \
+  "${wd}" \
   "${cm_dir}" \
   "${cm_to_use}" \
   "${threads}"
