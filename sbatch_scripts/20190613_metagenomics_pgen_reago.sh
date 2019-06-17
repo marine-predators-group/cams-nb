@@ -96,16 +96,16 @@ do
     sample_name="${sample_name}"_pH71
   fi
   "${seqtk}" seq -a "${fastq_array_R1[index]}" >> "${sample_name}"_R1.fasta
-  echo "${sample_name}_R1.fasta" >> input.fasta.list.txt
   fasta_array_R1+=("${sample_name}"_R1.fasta)
   "${seqtk}" seq -a  "${fastq_array_R2[index]}" >> "${sample_name}"_R2.fasta
-  echo "${sample_name}_R2.fasta" >> input.fasta.list.txt
   fasta_array_R2+=("${sample_name}"_R2.fasta)
 done
 
 # Run reago filterinput.py on each FastA pair
 for index in "${!fasta_array_R1[@]}"
 do
+  echo "${fasta_array_R1[index]}" >> input.fasta.list.txt
+  echo "${fasta_array_R2[index]}" >> input.fasta.list.txt
   python "${reago_filter}" \
   "${fasta_array_R1[index]}" \
   "${fasta_array_R2[index]}" \
