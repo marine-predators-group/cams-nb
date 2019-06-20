@@ -37,14 +37,36 @@ wd=$(pwd)
 threads=28
 
 # Paths to programs
+gffread="/gscratch/srlab/programs/gffread-0.11.4.Linux_x86_64/gffread"
 hisat2_dir="/gscratch/srlab/programs/hisat2-2.1.0"
 hisat2_build="${hisat2_dir}/hisat2-build"
+hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
+hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
 
-# Input files
+# Input/output files
+genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
+exons="hisat2_exons.tab"
+splice_sites="hisat2_splice_sites.tab"
+transcripts_gtf="20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
 
+# Create transcipts GTF from genome FastA
+"${gffread}" -T \
+"${genome_gff}" \
+-o "${transcripts_gtf}"
+
+# Create Hisat2 exons tab file
+"${hisat2_exons}" \
+"${transcripts_gtf}" \
+> "${exons}"
+# Create Hisate2 splice sites tab file
+"${hisat2_splice_sites}" \
+"${transcripts_gtf}" \
+> "${splice_sites}"
 
 # Build Hisat2 reference index
 "${hisat2_build}" \
 "${genome_fasta}" \
+--ss "${splice_sites}" \
+--exon "${exons}" \
 -p "${threads}"
