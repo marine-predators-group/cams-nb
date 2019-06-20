@@ -37,7 +37,14 @@ wd=$(pwd)
 threads=28
 
 # Paths to programs
-hisat_dir="/gscratch/srlab/programs/hisat2-2.1.0"
+hisat2_dir="/gscratch/srlab/programs/hisat2-2.1.0"
+hisat2_build="${hisat2_dir}/hisat2-build"
 
 # Input files
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
+
+
+# Build Hisat2 reference index
+"${hisat2_build}" \
+"${genome_fasta}" \
+-p "${threads}"
