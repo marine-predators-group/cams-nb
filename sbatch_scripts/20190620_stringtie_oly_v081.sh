@@ -48,7 +48,7 @@ genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 exons="hisat2_exons.tab"
 splice_sites="hisat2_splice_sites.tab"
-transcripts_gtf="20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
+transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
 
 # Create transcipts GTF from genome FastA
 "${gffread}" -T \
@@ -64,9 +64,9 @@ transcripts_gtf="20181127_oly_genome_snap02.all.renamed.putative_function.domain
 "${transcripts_gtf}" \
 > "${splice_sites}"
 
-# Build Hisat2 reference index
+# Build Hisat2 reference index using splice sites and exons
 "${hisat2_build}" \
 "${genome_fasta}" \
---ss "${splice_sites}" \
 --exon "${exons}" \
+--ss "${splice_sites}" \
 -p "${threads}"
