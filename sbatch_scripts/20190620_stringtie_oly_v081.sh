@@ -42,11 +42,13 @@ hisat2_dir="/gscratch/srlab/programs/hisat2-2.1.0"
 hisat2_build="${hisat2_dir}/hisat2-build"
 hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
 hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
+samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
-genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 exons="hisat2_exons.tab"
+fastq_dir=""
+genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
 
@@ -70,3 +72,5 @@ transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain
 --exon "${exons}" \
 --ss "${splice_sites}" \
 -p "${threads}"
+
+# Hisat2 alignments
