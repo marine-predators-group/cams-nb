@@ -52,6 +52,17 @@ genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v08
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
 
+## Inititalize arrays
+fastq_array_R1=()
+fastq_array_R2=()
+
+# Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
+for fastq in ${fastq_dir}*.gz
+do
+  echo "${fastq#${fastq_dir}}" >> fastq.list.txt
+done
+
 # Create transcipts GTF from genome FastA
 "${gffread}" -T \
 "${genome_gff}" \
