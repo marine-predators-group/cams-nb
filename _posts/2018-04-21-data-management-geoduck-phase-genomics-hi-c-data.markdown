@@ -55,20 +55,20 @@ The two assemblies (and assembly stats) they provided are here:
 
 
 
-  * [20180403 assembly (FASTA)(https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-03%2011%ef%80%a205%ef%80%a241.596285/PGA_assembly.fasta)
+  * [20180403 assembly (FASTA)](https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-03%2011%ef%80%a205%ef%80%a241.596285/PGA_assembly.fasta)
 
 
 
-    * [20180403 assembly stats (TXT)(https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-03%2011%ef%80%a205%ef%80%a241.596285/REPORT.txt)
+    * [20180403 assembly stats (TXT)](https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-03%2011%ef%80%a205%ef%80%a241.596285/REPORT.txt)
 
 
 
 
-  * [20180421 assembly (FASTA)(https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-21%2018%ef%80%a209%ef%80%a204.514704/PGA_assembly.fasta)
+  * [20180421 assembly (FASTA)](https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-21%2018%ef%80%a209%ef%80%a204.514704/PGA_assembly.fasta)
 
 
 
-    * [20180421 assembly stats (TXT)(https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-21%2018%ef%80%a209%ef%80%a204.514704/REPORT.txt)
+    * [20180421 assembly stats (TXT)](https://owl.fish.washington.edu/Athaliana/20180421_geoduck_hi-c/Results/geoduck_roberts%20results%202018-04-21%2018%ef%80%a209%ef%80%a204.514704/REPORT.txt)
 
 
 
