@@ -35,10 +35,12 @@ echo "${PATH}" | tr : \\n >> system_path.log
 
 wd=$(pwd)
 threads=28
+genome_index_name="Olurida_v081"
 
 # Paths to programs
 gffread="/gscratch/srlab/programs/gffread-0.11.4.Linux_x86_64/gffread"
 hisat2_dir="/gscratch/srlab/programs/hisat2-2.1.0"
+hisat2="${hisat2_dir}/hisat2"
 hisat2_build="${hisat2_dir}/hisat2-build"
 hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
 hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
@@ -100,12 +102,21 @@ done
 # Build Hisat2 reference index using splice sites and exons
 "${hisat2_build}" \
 "${genome_fasta}" \
+"${genome_index_name}" \
 --exon "${exons}" \
 --ss "${splice_sites}" \
--p "${threads}"
+-p "${threads}" \
+2> hisat2_build.err
 
 # Hisat2 alignments
-
+for index in "${!fastq_array_R1[@]}"
+do
+  sample_name=$(echo "${names_array[index]}")
+  "${hisat2}" \
+  -x "${genome_index_name}"\
+  -1 "${fastq_array_R1[index]}" \
+  -2 "${fastq_array_R2[index]}" \
+  -S "${sample_name}".sam \
+  2> "${sample_name}"_hisat2.err
 # Sort SAM files, convert to BAM, and index
-
 # Run stringtie on alignments
