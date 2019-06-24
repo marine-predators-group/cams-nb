@@ -120,6 +120,9 @@ do
   -S "${sample_name}".sam \
   2> "${sample_name}"_hisat2.err
 # Sort SAM files, convert to BAM, and index
-
+  "${samtools}" view \
+  -Su "${sample_name}".sam \
+  | "${samtools}" sort - -o "${sample_name}".sorted.bam
+  "${samtools}" index "${sample_name}".sorted.bam
 # Run stringtie on alignments
 done
