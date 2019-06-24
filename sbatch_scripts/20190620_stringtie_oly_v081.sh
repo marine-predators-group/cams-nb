@@ -120,3 +120,4 @@ do
   2> "${sample_name}"_hisat2.err
 # Sort SAM files, convert to BAM, and index
 # Run stringtie on alignments
+done
