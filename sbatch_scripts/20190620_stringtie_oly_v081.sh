@@ -56,6 +56,26 @@ transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain
 fastq_array_R1=()
 fastq_array_R2=()
 
+# Create array of fastq R1 files
+for fastq in ${fastq_dir}/*R1*.gz
+do
+  fastq_array_R1+=(${fastq})
+done
+
+# Create array of fastq R2 files
+for fastq in ${fastq_dir}/*R2*.gz
+do
+  fastq_array_R2+=(${fastq})
+done
+
+# Create array of sample names
+## Uses parameter substitution to strip leading path from filename
+## Uses awk to parse out sample name from filename
+for R1_fastq in ${fastq_dir}/*R1*.gz
+do
+  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"_" '{print $3 $4}'))
+done
+
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
 for fastq in ${fastq_dir}*.gz
