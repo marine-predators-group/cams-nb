@@ -19,7 +19,7 @@ tags:
   - QUAST
 ---
 
-[Steven asked me to create a couple of subsets of our Phase Genomics Hi-C geoduck genome assembly (pga_02)(https://github.com/RobertsLab/resources/issues/259):
+[Steven asked me to create a couple of subsets of our Phase Genomics Hi-C geoduck genome assembly (pga_02)](https://github.com/RobertsLab/resources/issues/259):
 
 
 
@@ -39,16 +39,11 @@ tags:
 I used [pyfaidx](https://github.com/mdshw5/pyfaidx) on Roadrunner and the following commands:
 
 
-    
-    <code>faidx --size-range 10000,100000000 PGA_assembly.fasta > PGA_assembly_10k_plus.fasta
-    </code>
+```shell
+faidx --size-range 10000,100000000 PGA_assembly.fasta > PGA_assembly_10k_plus.fasta
 
-
-
-
-    
-    <code>faidx --size-range 30000,100000000 PGA_assembly.fasta > PGA_assembly_30k_plus.fasta
-    </code>
+faidx --size-range 30000,100000000 PGA_assembly.fasta > PGA_assembly_30k_plus.fasta
+```
 
 
 
@@ -66,7 +61,7 @@ faidx Output folder: [20180512_geoduck_fasta_subsets/](https://owl.fish.washingt
 
 <blockquote>
   10kbp contigs (FastA): [20180512_geoduck_fasta_subsets/PGA_assembly_10k_plus.fasta](https://owl.fish.washington.edu/Athaliana/20180512_geoduck_fasta_subsets/PGA_assembly_10k_plus.fasta)
-  
+
   30kbp contigs (FastA): [20180512_geoduck_fasta_subsets/PGA_assembly_30k_plus.fasta](https://owl.fish.washington.edu/Athaliana/20180512_geoduck_fasta_subsets/PGA_assembly_30k_plus.fasta)
 </blockquote>
 
