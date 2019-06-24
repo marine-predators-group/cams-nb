@@ -105,3 +105,7 @@ done
 -p "${threads}"
 
 # Hisat2 alignments
+
+# Sort SAM files, convert to BAM, and index
+
+# Run stringtie on alignments
