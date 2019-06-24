@@ -114,10 +114,12 @@ do
   sample_name=$(echo "${names_array[index]}")
   "${hisat2}" \
   -x "${genome_index_name}"\
+  --downstream-transcriptome-assembly \
   -1 "${fastq_array_R1[index]}" \
   -2 "${fastq_array_R2[index]}" \
   -S "${sample_name}".sam \
   2> "${sample_name}"_hisat2.err
 # Sort SAM files, convert to BAM, and index
+
 # Run stringtie on alignments
 done
