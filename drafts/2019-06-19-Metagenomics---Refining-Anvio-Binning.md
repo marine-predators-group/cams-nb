@@ -56,6 +56,22 @@ anvi-refine \
 In the screencap below, the region of the dendrogram marked as "Bin_75_1" shows a drastic difference in coverage in the MG7 track at this particular split. Additionally, looking at the quick stats shown for this newly identified bin in the window pane to the left, one can see that Completion is now 99% and Redundancy is only 1.4%; a marked improvement on the automatic binning.
 
 
+
+
+There does appear to be a problem with the binning data, though. It appears that many bins exhibit Completion/Redundancy data of 0.00%, however clicking on that data in the summary table reveals that is incorrect:
+
+
+
+Ah, as it turns out, this has been fixed in the "master" commit in Anvi'o (thanks to the Anvi'o devs for their fast responses to my questions on their [Slack channel](https://anvio.slack.com/archives/C8SFMGYF3/p1561043792054900)!!).
+
+Here's how the upgrade process went:
+
+
+
+After upgrading, here's how things look:
+
+![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins]()
+
 ---
 
 #### RESULTS
