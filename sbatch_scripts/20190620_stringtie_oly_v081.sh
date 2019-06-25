@@ -45,6 +45,7 @@ hisat2_build="${hisat2_dir}/hisat2-build"
 hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
 hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
@@ -128,5 +129,5 @@ do
   -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
 # Run stringtie on alignments
-
+  "${stringtie}"
 done
