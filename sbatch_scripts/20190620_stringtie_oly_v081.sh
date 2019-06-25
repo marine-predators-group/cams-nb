@@ -50,7 +50,7 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
 exons="hisat2_exons.tab"
-fastq_dir=""
+fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
