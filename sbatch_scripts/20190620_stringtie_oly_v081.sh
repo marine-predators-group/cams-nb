@@ -33,7 +33,7 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
 
-wd=$(pwd)
+
 threads=27
 genome_index_name="Olurida_v081"
 
