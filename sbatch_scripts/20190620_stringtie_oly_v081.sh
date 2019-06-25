@@ -127,6 +127,6 @@ do
   -@ "${threads}" \
   -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
-done
-
 # Run stringtie on alignments
+
+done
