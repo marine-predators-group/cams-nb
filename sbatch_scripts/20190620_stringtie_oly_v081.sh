@@ -58,6 +58,7 @@ transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain
 ## Inititalize arrays
 fastq_array_R1=()
 fastq_array_R2=()
+bam_array=()
 
 # Create array of fastq R1 files
 for fastq in ${fastq_dir}/*R1*.gz
@@ -128,6 +129,8 @@ do
   -@ "${threads}" \
   -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
+# Add sorted bam file to array
+  bam_array+=("${sample_name}".sorted.bam)
 # Run stringtie on alignments
   "${stringtie}" "${sample_name}".sorted.bam \
   -p "${threads}" \
