@@ -34,7 +34,7 @@ printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
 
 wd=$(pwd)
-threads=28
+threads=27
 genome_index_name="Olurida_v081"
 
 # Paths to programs
@@ -121,8 +121,12 @@ do
   2> "${sample_name}"_hisat2.err
 # Sort SAM files, convert to BAM, and index
   "${samtools}" view \
+  -@ "${threads}" \
   -Su "${sample_name}".sam \
-  | "${samtools}" sort - -o "${sample_name}".sorted.bam
+  | "${samtools}" sort - \
+  -@ "${threads}" \
+  -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
 done
+
 # Run stringtie on alignments
