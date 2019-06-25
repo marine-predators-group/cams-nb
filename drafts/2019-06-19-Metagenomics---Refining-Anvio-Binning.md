@@ -67,6 +67,20 @@ Ah, as it turns out, this has been fixed in the "master" commit in Anvi'o (thank
 Here's how the upgrade process went:
 
 ```shell
+git clone --recursive https://github.com/merenlab/anvio.git
+```
+
+```shell
+conda create --yes --name anvio python=3.6
+
+conda activate anvio
+
+python setup.py
+
+pip install --editable
+```
+
+```shell
 conda activate anvio
 (anvio) sam@swoose:~/analyses/20190619_anvio$ ~/programs/anvio_git_master_bfbcbb3/bin/anvi-interactive --profile-db PROFILE.db --contigs-db contigs.db --collection-name CONCOCT
 
