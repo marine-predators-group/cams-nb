@@ -14,6 +14,15 @@ categories:
 ---
 
 
+Command to pull trimmed files:
+
+```shell
+tar -ztvf trinity_out_dir.tar.gz \
+| grep -E "*P.qtrim.gz" \
+&& tar -zxvf trinity_out_dir.tar.gz \
+-C /home/sam/Downloads/ \
+--wildcards "*P.qtrim.gz"
+```
 
 ---
 
