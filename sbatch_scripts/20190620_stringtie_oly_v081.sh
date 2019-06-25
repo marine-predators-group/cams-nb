@@ -146,4 +146,6 @@ gtf_list=$(echo "${gtf_array[*]}")
 
 # Create singular transcript file
 "${stringtie}" --merge \
-"${gtf_list_list}"
+"${gtf_list}" \
+-G "${genome_gff}" \
+-o "${genome_index_name}".stringtie.gtf
