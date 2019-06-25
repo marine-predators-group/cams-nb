@@ -54,6 +54,7 @@ fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
+sorted_bam_list=""
 
 ## Inititalize arrays
 fastq_array_R1=()
@@ -139,4 +140,7 @@ do
   -C "${sample_name}.cov_refs.gtf"
 done
 
-# Create singular
+# Create space-separated list of sorted bams
+sorted_bam_list=$(echo "${bam_array[*]}")
+
+# Create singular transcript file
