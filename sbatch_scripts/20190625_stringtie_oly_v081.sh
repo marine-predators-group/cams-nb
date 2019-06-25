@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=reago_metagenomics
+#SBATCH --job-name=oly_stringtie
 ## Allocation Definition
 #SBATCH --account=srlab
 #SBATCH --partition=srlab
