@@ -129,5 +129,11 @@ do
   -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
 # Run stringtie on alignments
-  "${stringtie}"
+  "${stringtie}" "${sample_name}".sorted.bam \
+  -p "${threads}" \
+  -o "${sample_name}".gtf \
+  -G "${genome_gff}" \
+  -C "${sample_name}.cov_refs.gtf"
 done
+
+# Create singular
