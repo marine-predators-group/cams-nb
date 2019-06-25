@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190620_stringtie_oly_v081
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190625_stringtie_oly_v081
 
 # Exit script if any command fails
 set -e
