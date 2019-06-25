@@ -71,7 +71,7 @@ printf "\n\n\n" >> "${new_md_file}"
 printf "%s\n\n" "${md_line}" >> "${new_md_file}"
 printf "%s\n\n" "#### RESULTS" >> "${new_md_file}"
 printf "%s\n\n" "Output folder:" >> "${new_md_file}"
-printf "%s\n\n" "- []()"
+printf "%s\n\n" "- []()" >> "${new_md_file}"
 
 
 # Open file with Atom text editor.
