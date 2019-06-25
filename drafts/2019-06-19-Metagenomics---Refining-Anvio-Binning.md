@@ -66,8 +66,29 @@ Ah, as it turns out, this has been fixed in the "master" commit in Anvi'o (thank
 
 Here's how the upgrade process went:
 
+```shell
+conda activate anvio
+(anvio) sam@swoose:~/analyses/20190619_anvio$ ~/programs/anvio_git_master_bfbcbb3/bin/anvi-interactive --profile-db PROFILE.db --contigs-db contigs.db --collection-name CONCOCT
 
 
+Config Error: The database at 'contigs.db' is outdated (its version is v12, but your anvi'o
+              installation only knows how to deal with v13). You can migrate your database
+              without losing any data using the program `anvi-migrate-db`.  
+```
+
+
+`~/programs/anvio_git_master_bfbcbb3/bin/anvi-migrate-db contigs.db`
+
+```shell
+* The contigs database is now 13. Unfortunatly this update removed all single-copy
+core gene HMMs from your contigs database :( We are very sorry about this, but
+we only did it to be able to offer you nicer things. It is best if you re-run
+`anvi-run-hmms` program from scratch. Doing that will not remove any 'non-
+default' HMM profiles you may have added in this contigs database, so you have
+nothing to worry about.
+```
+
+`~/programs/anvio_git_master_bfbcbb3/bin/anvi-run-hmms -c contigs.db --num-threads 23`
 After upgrading, here's how things look:
 
 ![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins]()
