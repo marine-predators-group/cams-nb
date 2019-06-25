@@ -72,6 +72,12 @@ After upgrading, here's how things look:
 
 ![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins]()
 
+
+![Screencap of Summarize table after update]()
+
+
+Clearly, there's a _lot_ of manual binning that needs to take place in order to refine the bins with excessive Completion/Redundancy info...
+
 ---
 
 #### RESULTS
