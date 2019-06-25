@@ -54,7 +54,7 @@ fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
-gtf_list_list=""
+gtf_list=""
 
 ## Inititalize arrays
 fastq_array_R1=()
