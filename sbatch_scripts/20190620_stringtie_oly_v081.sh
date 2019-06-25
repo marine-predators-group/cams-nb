@@ -54,12 +54,12 @@ fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
 splice_sites="hisat2_splice_sites.tab"
 transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
-sorted_bam_list=""
+gtf_list_list=""
 
 ## Inititalize arrays
 fastq_array_R1=()
 fastq_array_R2=()
-bam_array=()
+gtf_array=()
 
 # Create array of fastq R1 files
 for fastq in ${fastq_dir}/*R1*.gz
@@ -130,17 +130,20 @@ do
   -@ "${threads}" \
   -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
-# Add sorted bam file to array
-  bam_array+=("${sample_name}".sorted.bam)
+
 # Run stringtie on alignments
   "${stringtie}" "${sample_name}".sorted.bam \
   -p "${threads}" \
   -o "${sample_name}".gtf \
   -G "${genome_gff}" \
   -C "${sample_name}.cov_refs.gtf"
+# Add GTFs to array
+  gtf_array+=("${sample_name}".gtf)
 done
 
 # Create space-separated list of sorted bams
-sorted_bam_list=$(echo "${bam_array[*]}")
+gtf_list=$(echo "${gtf_array[*]}")
 
 # Create singular transcript file
+"${stringtie}" --merge \
+"${gtf_list_list}"
