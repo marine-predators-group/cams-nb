@@ -124,5 +124,5 @@ do
   -Su "${sample_name}".sam \
   | "${samtools}" sort - -o "${sample_name}".sorted.bam
   "${samtools}" index "${sample_name}".sorted.bam
-# Run stringtie on alignments
 done
+# Run stringtie on alignments
