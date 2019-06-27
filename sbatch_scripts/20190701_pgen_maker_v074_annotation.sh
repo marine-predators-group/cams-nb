@@ -101,8 +101,15 @@ maker_opts_file=./maker_opts.ctl
 ### Path to genome FastA file
 genome=/gscratch/srlab/sam/data/P_generosa/generosa_genomes/Pgenerosa_v074.fa
 
-### Path to transcriptome FastA file
-transcriptome=/gscratch/srlab/sam/data/P_generosa/generosa_transcriptomes/20180827_trinity_geoduck.fasta
+### Paths to transcriptome FastA files
+ctendia_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/ctenidia/Trinity.fasta
+gonad_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/gonad/Trinity.fasta
+heart_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/heart/Trinity.fasta
+EPI99_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/larvae/EPI99/Trinity.fasta
+EPI115_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI115/Trinity.fasta
+EPI116_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI116/Trinity.fasta
+EPI123_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI123/Trinity.fasta
+EPI124_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI124/Trinity.fasta
 
 ### Path to Crassotrea gigas NCBI protein FastA
 gigas_proteome=/gscratch/srlab/sam/data/C_gigas/gigas_ncbi_protein/GCA_000297895.1_oyster_v9_protein.faa
