@@ -130,24 +130,24 @@ I'll also probably just take this through the annotation pipeline, since it's no
 
 Output folder:
 
-- [20190409_trinity_pgen_EPI115_RNAseq](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/)
+- [20190409_trinity_pgen_ctenidia_RNAseq](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/)
 
 Trinity FastA:
 
-- 20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta[](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta)
+- 20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta[](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta)
 
 Trinity FastA index file:
 
-- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.fai)
+- [20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.fai](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.fai)
 
 Trinity Gene Trans Map file:
 
-- [20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map)
+- [20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/trinity_out_dir/Trinity.fasta.gene_trans_map)
 
 
 Assembly stats (text):
 
-- [20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI115_RNAseq/assembly_stats.txt)
+- [20190409_trinity_pgen_ctenidia_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_ctenidia_RNAseq/assembly_stats.txt)
 
 ```
 ################################
