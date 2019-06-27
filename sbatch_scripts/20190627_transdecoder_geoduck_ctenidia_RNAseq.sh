@@ -61,6 +61,9 @@ transdecoder_predict="${transdecoder_dir}/TransDecoder.Predict"
 mkdir "${blastp_out_dir}"
 mkdir "${pfam_out_dir}"
 
+# Record FastA checksum for verification, if needed.
+md5sum ${trinity_fasta} > fasta.md5
+
 # Extract long open reading frames
 ${transdecoder_lORFs} \
 -t ${trinity_fasta}
