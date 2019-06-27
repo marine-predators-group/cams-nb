@@ -28,7 +28,7 @@ echo "" >> system_path.log
 echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
-echo ${PATH} | tr : \\n >> system_path.log
+echo "${PATH}" | tr : \\n >> system_path.log
 
 
 wd="$(pwd)"
@@ -58,8 +58,8 @@ transdecoder_lORFs="${transdecoder_dir}/TransDecoder.LongOrfs"
 transdecoder_predict="${transdecoder_dir}/TransDecoder.Predict"
 
 # Make output directories
-mkdir ${blastp_out_dir}
-mkdir ${pfam_out_dir}
+mkdir "${blastp_out_dir}"
+mkdir "${pfam_out_dir}"
 
 # Extract long open reading frames
 ${transdecoder_lORFs} \
@@ -67,23 +67,23 @@ ${transdecoder_lORFs} \
 
 # Run blastp on long ORFs
 ${blastp} \
--query ${lORFs_pep} \
+-query "${lORFs_pep}" \
 -db ${sp_db} \
 -max_target_seqs 1 \
 -outfmt 6 \
 -evalue 1e-5 \
 -num_threads 28 \
-> ${blastp_out}
+> "${blastp_out}"
 
 # Run pfam search
 ${hmmscan} \
 --cpu 28 \
---domtblout ${pfam_out} \
+--domtblout "${pfam_out}" \
 ${pfam_db} \
-${lORFs_pep}
+"${lORFs_pep}"
 
 # Run Transdecoder with blastp and Pfam results
 ${transdecoder_predict} \
 -t ${trinity_fasta} \
---retain_pfam_hits ${pfam_out} \
---retain_blastp_hits ${blastp_out}
+--retain_pfam_hits "${pfam_out}" \
+--retain_blastp_hits "${blastp_out}"
