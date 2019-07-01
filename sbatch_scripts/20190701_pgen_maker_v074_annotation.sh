@@ -186,8 +186,13 @@ if [ ! -e maker_opts.ctl ]; then
   %" \
   "$maker_opts_file"
 
+  # Set repeat library to use
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
+
+  # Set est2ggenome to 1 - tells MAKER to use transcriptome FastAs
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
+
+  # Set protein2genome to 1 - tells MAKER to use protein FastAs
   sed -i "/^protein2genome=0/ s/protein2genome=0/protein2genome=1/" "$maker_opts_file"
 fi
 
