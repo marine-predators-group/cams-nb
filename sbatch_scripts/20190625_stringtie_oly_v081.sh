@@ -38,22 +38,14 @@ threads=27
 genome_index_name="Olurida_v081"
 
 # Paths to programs
-gffread="/gscratch/srlab/programs/gffread-0.11.4.Linux_x86_64/gffread"
 hisat2_dir="/gscratch/srlab/programs/hisat2-2.1.0"
 hisat2="${hisat2_dir}/hisat2"
-hisat2_build="${hisat2_dir}/hisat2-build"
-hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
-hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
 stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
-exons="hisat2_exons.tab"
 fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
-genome_fasta="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa"
-splice_sites="hisat2_splice_sites.tab"
-transcripts_gtf="20190620_oly_genome_snap02.all.renamed.putative_function.domain_added.transcripts.gtf"
 gtf_list=""
 
 ## Inititalize arrays
