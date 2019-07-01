@@ -128,9 +128,6 @@ pgen_td_juv_EPI123_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juveni
 pgen_td_juv_EPI124_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI124/Trinity.fasta.transdecoder.pep
 pgen_td_larvae_EPI99_proteom=/gscratch/srlab/sam/data/P_generosa/proteomes/larvae/EPI99/Trinity.fasta.transdecoder.pep
 
-### Path to concatenated NCBI prteins FastA
-combined_proteomes=${wd}/combined_proteomes.fasta
-
 ### Path to P.generosa-specific RepeatModeler library
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v074-families.fa
 
@@ -165,15 +162,6 @@ if [ ! -e maker_opts.ctl ]; then
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
   sed -i "/^protein2genome=0/ s/protein2genome=0/protein2genome=1/" "$maker_opts_file"
 fi
-
-## Create combined proteome FastA file, only if it doesn't already exist.
-if [ ! -e combined_proteomes.fasta ]; then
-    touch combined_proteomes.fasta
-    cat "$gigas_proteome" >> combined_proteomes.fasta
-    cat "$virginica_proteome" >> combined_proteomes.fasta
-    cat "$panopea_td_proteome" >> combined_proteomes.fasta
-fi
-
 
 
 ## Run Maker
