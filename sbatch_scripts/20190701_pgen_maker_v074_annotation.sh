@@ -132,7 +132,7 @@ pgen_td_larvae_EPI99_proteom=/gscratch/srlab/sam/data/P_generosa/proteomes/larva
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v074-families.fa
 
 ### Path to P.generosa-specific RepeatMasker GFF
-/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074.fa.out.gff
+rm_gff=/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074.fa.out.gff
 
 ### Path to SwissProt database for BLASTp
 sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
