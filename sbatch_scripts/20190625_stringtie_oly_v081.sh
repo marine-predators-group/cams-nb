@@ -78,7 +78,7 @@ done
 ## Uses awk to parse out sample name from filename
 for R1_fastq in ${fastq_dir}/*R1*.gz
 do
-  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"_" '{print $3 $4}'))
+  names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"[_.]" '{print $1 "_" $5}'))
 done
 
 # Create list of fastq files used in analysis
@@ -116,7 +116,7 @@ for index in "${!fastq_array_R1[@]}"
 do
   sample_name=$(echo "${names_array[index]}")
   "${hisat2}" \
-  -x "${genome_index_name}"\
+  -x "${genome_index_name}" \
   --downstream-transcriptome-assembly \
   -1 "${fastq_array_R1[index]}" \
   -2 "${fastq_array_R2[index]}" \
