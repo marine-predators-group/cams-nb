@@ -189,6 +189,9 @@ if [ ! -e maker_opts.ctl ]; then
   # Set repeat library to use
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
 
+  # Set RepeatModeler GFF to use
+  sed -i "/^rm_gff=/ s% %${rm_gff} %" "$maker_opts_file"
+
   # Set est2ggenome to 1 - tells MAKER to use transcriptome FastAs
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
 
