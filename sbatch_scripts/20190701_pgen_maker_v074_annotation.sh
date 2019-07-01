@@ -168,7 +168,23 @@ if [ ! -e maker_opts.ctl ]; then
   ${EPI123_transcriptome},\
   ${EPI124_transcriptome} %" \
   "$maker_opts_file"
-  sed -i "/^protein=/ s% %$combined_proteomes %" "$maker_opts_file"
+
+  # Set proteomes to use
+  sed -i "/^protein=/ s% %\
+  ${gigas_proteome},\
+  ${panopea_td_proteome},\
+  ${pgen_td_ctenidia_proteome},\
+  ${pgen_td_gonad_proteome},\
+  ${pgen_td_heart_proteome},\
+  ${pgen_td_juv_EPI115_proteome},\
+  ${pgen_td_juv_EPI116_proteome},\
+  ${pgen_td_juv_EPI123_proteome},\
+  ${pgen_td_juv_EPI124_proteome},\
+  ${pgen_td_larvae_EPI99_proteome},\
+  ${virginica_proteome} \
+  %" \
+  "$maker_opts_file"
+
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
   sed -i "/^protein2genome=0/ s/protein2genome=0/protein2genome=1/" "$maker_opts_file"
