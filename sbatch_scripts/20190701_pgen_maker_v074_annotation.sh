@@ -38,7 +38,7 @@ echo "" >> system_path.log
 echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
-echo ${PATH} | tr : \\n >> system_path.log
+echo "${PATH}" | tr : \\n >> system_path.log
 
 # Add BLAST to system PATH
 export PATH=$PATH:/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin
@@ -222,7 +222,7 @@ awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v074.maker.all.noseqs.g
 awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v074.maker.all.noseqs.gff > Pgenerosa_v074.maker.all.noseqs.repeats.gff
 
 ## Run SNAP training, round 1
-cd ${wd}
+cd "${wd}"
 cd snap01
 ${maker2zff} ../Pgenerosa_v074.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
@@ -290,7 +290,7 @@ ${gff3_merge} -d Pgenerosa_v074_snap01.maker.output/Pgenerosa_v074_snap01_master
 ${gff3_merge} -n -s -d Pgenerosa_v074_snap01.maker.output/Pgenerosa_v074_snap01_master_datastore_index.log > Pgenerosa_v074_snap01.maker.all.noseqs.gff
 
 ## Run SNAP training, round 2
-cd ${wd}
+cd "${wd}"
 cd snap02
 ${maker2zff} ../snap01/Pgenerosa_v074_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
@@ -358,51 +358,51 @@ ${fasta_merge} \
 -d Pgenerosa_v074_snap02.maker.output/Pgenerosa_v074_snap02_master_datastore_index.log
 
 # Create copies of files for mapping
-cp ${maker_prot_fasta} ${maker_prot_fasta_renamed}
-cp ${maker_transcripts_fasta} ${maker_transcripts_fasta_renamed}
-cp ${snap02_gff} ${snap02_gff_renamed}
+cp "${maker_prot_fasta}" "${maker_prot_fasta_renamed}"
+cp "${maker_transcripts_fasta}" "${maker_transcripts_fasta_renamed}"
+cp "${snap02_gff}" "${snap02_gff_renamed}"
 
 # Map IDs
 ## Change gene names
 ${map_ids} \
 --prefix PGEN_ \
 --justify 8 \
-${snap02_gff} \
-> ${id_map}
+"${snap02_gff}" \
+> "${id_map}"
 
 ## Map GFF IDs
 ${map_gff_ids} \
-${id_map} \
-${snap02_gff_renamed}
+"${id_map}" \
+"${snap02_gff_renamed}"
 
 ## Map FastAs
 ### Proteins
 ${map_fasta_ids} \
-${id_map} \
-${maker_prot_fasta_renamed}
+"${id_map}" \
+"${maker_prot_fasta_renamed}"
 
 ### Transcripts
 ${map_fasta_ids} \
-${id_map} \
-${maker_transcripts_fasta_renamed}
+"${id_map}" \
+"${maker_transcripts_fasta_renamed}"
 
 # Run InterProScan 5
 ## disable-precalc since this requires external database access (which Mox does not allow)
-cd ${ips_dir}
+cd "${ips_dir}"
 
 ${interproscan} \
---input ${maker_prot_fasta_renamed} \
+--input "${maker_prot_fasta_renamed}" \
 --goterms \
 --output-file-base ${ips_base} \
 --disable-precalc
 
 # Run BLASTp
-cd ${blastp_annotation}
+cd "${blastp_annotation}"
 
 ${blastp} \
--query ${maker_prot_fasta_renamed} \
+-query "${maker_prot_fasta_renamed}" \
 -db ${sp_db_blastp} \
--out ${maker_blastp} \
+-out "${maker_blastp}" \
 -max_target_seqs 1 \
 -evalue 1e-6 \
 -outfmt 6 \
@@ -411,39 +411,39 @@ ${blastp} \
 
 # Functional annotations
 
-cd ${wd}
+cd "${wd}"
 
 ## Add putative gene functions
 ### GFF
 ${functional_gff} \
 ${sp_db_blastp} \
-${maker_blastp} \
-${snap02_gff_renamed} \
+"${maker_blastp}" \
+"${snap02_gff_renamed}" \
 > ${put_func_gff}
 
 ### Proteins
 ${functional_fasta} \
 ${sp_db_blastp} \
-${maker_blastp} \
-${maker_prot_fasta_renamed} \
+"${maker_blastp}" \
+"${maker_prot_fasta_renamed}" \
 > ${put_func_prot}
 
 ### Transcripts
 ${functional_fasta} \
 ${sp_db_blastp} \
-${maker_blastp} \
-${maker_transcripts_fasta_renamed} \
+"${maker_blastp}" \
+"${maker_transcripts_fasta_renamed}" \
 > ${put_func_trans}
 
 ## Add InterProScan domain info
 ### Add searchable tags
 ${ipr_update_gff} \
 ${put_func_gff} \
-${ips_dir}/${ips_name} \
+"${ips_dir}"/${ips_name} \
 > ${put_domain_gff}
 
 ### Add viewable features for genome browsers (JBrowse, Gbrowse, Web Apollo)
 ${iprscan2gff3} \
-${ips_dir}/${ips_name} \
-${snap02_gff_renamed} \
+"${ips_dir}"/${ips_name} \
+"${snap02_gff_renamed}" \
 > ${ips_domains}
