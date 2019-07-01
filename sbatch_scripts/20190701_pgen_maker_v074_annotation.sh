@@ -240,6 +240,35 @@ ${hmmassembler} genome . > Pgenerosa_v074_snap01.hmm
 if [ ! -e maker_opts.ctl ]; then
   $maker -CTL
   sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
+
+  # Set transcriptomes to use
+  sed -i "/^est=/ s% %\
+  ${ctendia_transcriptome},\
+  ${gonad_transcriptome},\
+  ${heart_transcriptome},\
+  ${EPI99_transcriptome},\
+  ${EPI115_transcriptome},\
+  ${EPI116_transcriptome},\
+  ${EPI123_transcriptome},\
+  ${EPI124_transcriptome} %" \
+  "$maker_opts_file"
+
+  # Set proteomes to use
+  sed -i "/^protein=/ s% %\
+  ${gigas_proteome},\
+  ${panopea_td_proteome},\
+  ${pgen_td_ctenidia_proteome},\
+  ${pgen_td_gonad_proteome},\
+  ${pgen_td_heart_proteome},\
+  ${pgen_td_juv_EPI115_proteome},\
+  ${pgen_td_juv_EPI116_proteome},\
+  ${pgen_td_juv_EPI123_proteome},\
+  ${pgen_td_juv_EPI124_proteome},\
+  ${pgen_td_larvae_EPI99_proteome},\
+  ${virginica_proteome} \
+  %" \
+  "$maker_opts_file"
+
   sed -i "/^est_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
   sed -i "/^protein_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
   sed -i "/^rm_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.repeats.gff %" maker_opts.ctl
@@ -271,6 +300,35 @@ ${hmmassembler} genome . > Pgenerosa_v074_snap02.hmm
 if [ ! -e maker_opts.ctl ]; then
   $maker -CTL
   sed -i "/^genome=/ s% %$genome %" maker_opts.ctl
+
+  # Set transcriptomes to use
+  sed -i "/^est=/ s% %\
+  ${ctendia_transcriptome},\
+  ${gonad_transcriptome},\
+  ${heart_transcriptome},\
+  ${EPI99_transcriptome},\
+  ${EPI115_transcriptome},\
+  ${EPI116_transcriptome},\
+  ${EPI123_transcriptome},\
+  ${EPI124_transcriptome} %" \
+  "$maker_opts_file"
+
+  # Set proteomes to use
+  sed -i "/^protein=/ s% %\
+  ${gigas_proteome},\
+  ${panopea_td_proteome},\
+  ${pgen_td_ctenidia_proteome},\
+  ${pgen_td_gonad_proteome},\
+  ${pgen_td_heart_proteome},\
+  ${pgen_td_juv_EPI115_proteome},\
+  ${pgen_td_juv_EPI116_proteome},\
+  ${pgen_td_juv_EPI123_proteome},\
+  ${pgen_td_juv_EPI124_proteome},\
+  ${pgen_td_larvae_EPI99_proteome},\
+  ${virginica_proteome} \
+  %" \
+  "$maker_opts_file"
+
   sed -i "/^est_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
   sed -i "/^protein_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
   sed -i "/^rm_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.repeats.gff %" maker_opts.ctl
