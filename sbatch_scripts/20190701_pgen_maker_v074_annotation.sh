@@ -397,7 +397,7 @@ ${interproscan} \
 --disable-precalc
 
 # Run BLASTp
-cd "${blastp_annotation}"
+cd "${blastp_dir}"
 
 ${blastp} \
 -query "${maker_prot_fasta_renamed}" \
