@@ -117,14 +117,17 @@ gigas_proteome=/gscratch/srlab/sam/data/C_gigas/gigas_ncbi_protein/GCA_000297895
 ### Path to Crassostrea virginica NCBI protein FastA
 virginica_proteome=/gscratch/srlab/sam/data/C_virginica/virginica_ncbi_protein/GCF_002022765.2_C_virginica-3.0_protein.faa
 
-### Path to Panopea generosa TransDecoder protein FastA
+### Path to Panopea generosa TransDecoder protein FastAs
 panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/generosa_proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
 
 ### Path to concatenated NCBI prteins FastA
 combined_proteomes=${wd}/combined_proteomes.fasta
 
-### Path to P.generosa-specific repeat library
+### Path to P.generosa-specific RepeatModeler library
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v074-families.fa
+
+### Path to P.generosa-specific RepeatMasker GFF
+/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074.fa.out.gff
 
 ### Path to SwissProt database for BLASTp
 sp_db_blastp=/gscratch/srlab/blastdbs/UniProtKB_20190109/uniprot_sprot.fasta
