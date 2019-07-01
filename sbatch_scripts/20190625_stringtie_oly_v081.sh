@@ -46,7 +46,7 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
 genome_index_dir="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081"
-fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq"
+fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 gtf_list=""
 
 ## Inititalize arrays
@@ -59,13 +59,13 @@ names_array=()
 rsync -av "${genome_index_dir}"/Olurida_v081*.ht2 .
 
 # Create array of fastq R1 files
-for fastq in ${fastq_dir}/*R1*.gz
+for fastq in ${fastq_dir}*R1*.gz
 do
   fastq_array_R1+=(${fastq})
 done
 
 # Create array of fastq R2 files
-for fastq in ${fastq_dir}/*R2*.gz
+for fastq in ${fastq_dir}*R2*.gz
 do
   fastq_array_R2+=(${fastq})
 done
@@ -73,7 +73,7 @@ done
 # Create array of sample names
 ## Uses parameter substitution to strip leading path from filename
 ## Uses awk to parse out sample name from filename
-for R1_fastq in ${fastq_dir}/*R1*.gz
+for R1_fastq in ${fastq_dir}*R1*.gz
 do
   names_array+=($(echo ${R1_fastq#${fastq_dir}} | awk -F"[_.]" '{print $1 "_" $5}'))
 done
