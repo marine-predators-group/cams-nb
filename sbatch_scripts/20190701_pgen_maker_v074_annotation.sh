@@ -120,13 +120,14 @@ virginica_proteome=/gscratch/srlab/sam/data/C_virginica/virginica_ncbi_protein/G
 ### Path to Panopea generosa TransDecoder protein FastAs
 panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/generosa_proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
 pgen_td_ctenidia_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/ctenidia/Trinity.fasta.transdecoder.pep
-pgen_td_gonad_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/gonad/Trinity.fasta.transdecoder.pep
-pgen_td_heart_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/heart/Trinity.fasta.transdecoder.pep
+pgen_td_larvae_EPI99_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/larvae/EPI99/Trinity.fasta.transdecoder.pep
 pgen_td_juv_EPI115_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI115/Trinity.fasta.transdecoder.pep
 pgen_td_juv_EPI116_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI116/Trinity.fasta.transdecoder.pep
 pgen_td_juv_EPI123_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI123/Trinity.fasta.transdecoder.pep
 pgen_td_juv_EPI124_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI124/Trinity.fasta.transdecoder.pep
-pgen_td_larvae_EPI99_proteom=/gscratch/srlab/sam/data/P_generosa/proteomes/larvae/EPI99/Trinity.fasta.transdecoder.pep
+pgen_td_gonad_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/gonad/Trinity.fasta.transdecoder.pep
+pgen_td_heart_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/heart/Trinity.fasta.transdecoder.pep
+
 
 ### Path to P.generosa-specific RepeatModeler library
 repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v074-families.fa
