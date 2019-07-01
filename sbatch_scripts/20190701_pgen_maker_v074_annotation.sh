@@ -156,7 +156,18 @@ mkdir snap02
 if [ ! -e maker_opts.ctl ]; then
   $maker -CTL
   sed -i "/^genome=/ s% %$genome %" "$maker_opts_file"
-  sed -i "/^est=/ s% %$transcriptome %" "$maker_opts_file"
+
+  # Set transcriptomes to use
+  sed -i "/^est=/ s% %\
+  ${ctendia_transcriptome},\
+  ${gonad_transcriptome},\
+  ${heart_transcriptome},\
+  ${EPI99_transcriptome},\
+  ${EPI115_transcriptome},\
+  ${EPI116_transcriptome},\
+  ${EPI123_transcriptome},\
+  ${EPI124_transcriptome} %" \
+  "$maker_opts_file"
   sed -i "/^protein=/ s% %$combined_proteomes %" "$maker_opts_file"
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
   sed -i "/^est2genome=0/ s/est2genome=0/est2genome=1/" "$maker_opts_file"
