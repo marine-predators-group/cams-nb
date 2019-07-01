@@ -88,29 +88,6 @@ do
   echo "${fastq#${fastq_dir}}" >> fastq.list.txt
 done
 
-# Create transcipts GTF from genome FastA
-"${gffread}" -T \
-"${genome_gff}" \
--o "${transcripts_gtf}"
-
-# Create Hisat2 exons tab file
-"${hisat2_exons}" \
-"${transcripts_gtf}" \
-> "${exons}"
-# Create Hisate2 splice sites tab file
-"${hisat2_splice_sites}" \
-"${transcripts_gtf}" \
-> "${splice_sites}"
-
-# Build Hisat2 reference index using splice sites and exons
-"${hisat2_build}" \
-"${genome_fasta}" \
-"${genome_index_name}" \
---exon "${exons}" \
---ss "${splice_sites}" \
--p "${threads}" \
-2> hisat2_build.err
-
 # Hisat2 alignments
 for index in "${!fastq_array_R1[@]}"
 do
