@@ -46,7 +46,7 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
 genome_index_dir="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081"
-fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
+fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq"
 gtf_list=""
 
 ## Inititalize arrays
