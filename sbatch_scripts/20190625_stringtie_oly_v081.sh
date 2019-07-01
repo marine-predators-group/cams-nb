@@ -53,6 +53,7 @@ gtf_list=""
 fastq_array_R1=()
 fastq_array_R2=()
 gtf_array=()
+names_array=()
 
 # Copy Hisat2 genome index
 rsync -av "${genome_index_dir}"/Olurida_v081*.ht2 .
