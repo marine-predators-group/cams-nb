@@ -45,6 +45,7 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
+genome_index_dir="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081"
 fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
 gtf_list=""
 
@@ -52,6 +53,9 @@ gtf_list=""
 fastq_array_R1=()
 fastq_array_R2=()
 gtf_array=()
+
+# Copy Hisat2 genome index
+rsync -av "${genome_index_dir}"/Olurida_v081*.ht2 .
 
 # Create array of fastq R1 files
 for fastq in ${fastq_dir}/*R1*.gz
@@ -118,3 +122,6 @@ gtf_list=$(echo "${gtf_array[*]}")
 "${gtf_list}" \
 -G "${genome_gff}" \
 -o "${genome_index_name}".stringtie.gtf
+
+# Delete unneccessary index files
+rm Olurida_v081*.ht2
