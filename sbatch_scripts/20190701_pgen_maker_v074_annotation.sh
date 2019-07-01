@@ -186,10 +186,10 @@ if [ ! -e maker_opts.ctl ]; then
   %" \
   "$maker_opts_file"
 
-  # Set repeat library to use
+  # Set RepeatModeler library to use
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
 
-  # Set RepeatModeler GFF to use
+  # Set RepeatMasker GFF to use
   sed -i "/^rm_gff=/ s% %${rm_gff} %" "$maker_opts_file"
 
   # Set est2ggenome to 1 - tells MAKER to use transcriptome FastAs
@@ -269,6 +269,9 @@ if [ ! -e maker_opts.ctl ]; then
   %" \
   "$maker_opts_file"
 
+  # Set RepeatModeler library to use
+  sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
+
   sed -i "/^est_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
   sed -i "/^protein_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
   sed -i "/^rm_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.repeats.gff %" maker_opts.ctl
@@ -328,6 +331,9 @@ if [ ! -e maker_opts.ctl ]; then
   ${virginica_proteome} \
   %" \
   "$maker_opts_file"
+
+  # Set RepeatModeler library to use
+  sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
 
   sed -i "/^est_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
   sed -i "/^protein_gff=/ s% %../Pgenerosa_v074.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
