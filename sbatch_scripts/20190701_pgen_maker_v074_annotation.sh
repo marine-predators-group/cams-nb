@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=maker
+#SBATCH --job-name=maker_pgen074
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
