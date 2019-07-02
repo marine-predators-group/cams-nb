@@ -47,12 +47,11 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 genome_gff="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/20181127_oly_genome_snap02.all.renamed.putative_function.domain_added.gff"
 genome_index_dir="/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081"
 fastq_dir="/gscratch/srlab/sam/data/O_lurida/RNAseq/"
-gtf_list=""
+gtf_list="gtf_list.txt"
 
 ## Inititalize arrays
 fastq_array_R1=()
 fastq_array_R2=()
-gtf_array=()
 names_array=()
 
 # Copy Hisat2 genome index
@@ -111,16 +110,14 @@ do
   -o "${sample_name}".gtf \
   -G "${genome_gff}" \
   -C "${sample_name}.cov_refs.gtf"
-# Add GTFs to array
-  gtf_array+=("${sample_name}".gtf)
+# Add GTFs to list file
+  "${sample_name}".gtf >> "${gtf_list}"
 done
 
-# Create space-separated list of sorted bams
-gtf_list=$(echo "${gtf_array[*]}")
-
-# Create singular transcript file
+# Create singular transcript file, using GTF list file
 "${stringtie}" --merge \
 "${gtf_list}" \
+-p "${threads}" \
 -G "${genome_gff}" \
 -o "${genome_index_name}".stringtie.gtf
 
