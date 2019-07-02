@@ -29,7 +29,7 @@ All of it is detailed in the Jupyter Notebook (GitHub):
 
 #### RESULTS
 
-Run time was 1974 minutes (~32.4hrs).
+Run time was 2024 minutes (~33.7hrs).
 
 Output folder:
 
