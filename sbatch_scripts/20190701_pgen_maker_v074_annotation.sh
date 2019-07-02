@@ -96,7 +96,7 @@ interproscan=/gscratch/srlab/programs/interproscan-5.31-70.0/interproscan.sh
 maker_opts_file=./maker_opts.ctl
 
 ### Path to genome FastA file
-genome=/gscratch/srlab/sam/data/P_generosa/generosa_genomes/Pgenerosa_v074.fa
+genome=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa
 
 ### Paths to transcriptome FastA files
 ctendia_transcriptome=/gscratch/srlab/sam/data/P_generosa/transcriptomes/ctenidia/Trinity.fasta
