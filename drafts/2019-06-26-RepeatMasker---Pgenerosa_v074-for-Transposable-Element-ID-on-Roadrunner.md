@@ -13,7 +13,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-[Yesterday (20190625)](https://robertslab.github.io/sams-notebook/2019/06/25/Data-Wrangling-FastA-Subsetting-of-Pgenerosa_v070.fa-Using-samtools-faidx.html) I generated a subset of the first 18 FastA sequences from the [Pgenerosa_v070.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070.fa) file. This subset has been designated as Pgenerosa_v074 by Steven. It's avilable on our Genomic Resources wiki:
+[Yesterday (20190625)](https://robertslab.github.io/sams-notebook/2019/06/25/Data-Wrangling-FastA-Subsetting-of-Pgenerosa_v070.fa-Using-samtools-faidx.html) I generated a subset of the first 18 FastA sequences from the [Pgenerosa_v070.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070.fa) file. This subset has been designated as Pgenerosa_v074 by Steven. It's available on our Genomic Resources wiki:
 
 - [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
 
@@ -28,6 +28,8 @@ All of it is detailed in the Jupyter Notebook (GitHub):
 ---
 
 #### RESULTS
+
+Run time was 1974 minutes (~32.4hrs).
 
 Output folder:
 
