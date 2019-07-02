@@ -28,6 +28,8 @@ All of it is detailed in this Jupyter Notebook (GitHub):
 
 #### RESULTS
 
+Run time was 1974 minutes (~32.4hrs).
+
 Output folder:
 
 - [20190626_Pgenerosa_v074_repeatmodeler](https://gannet.fish.washington.edu/Atumefaciens/20190626_Pgenerosa_v074_repeatmodeler)
