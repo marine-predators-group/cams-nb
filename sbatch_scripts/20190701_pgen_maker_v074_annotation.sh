@@ -115,7 +115,7 @@ gigas_proteome=/gscratch/srlab/sam/data/C_gigas/gigas_ncbi_protein/GCA_000297895
 virginica_proteome=/gscratch/srlab/sam/data/C_virginica/virginica_ncbi_protein/GCF_002022765.2_C_virginica-3.0_protein.faa
 
 ### Path to Panopea generosa TransDecoder protein FastAs
-panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/generosa_proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
+panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
 pgen_td_ctenidia_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/ctenidia/Trinity.fasta.transdecoder.pep
 pgen_td_larvae_EPI99_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/larvae/EPI99/Trinity.fasta.transdecoder.pep
 pgen_td_juv_EPI115_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/juvenile/EPI115/Trinity.fasta.transdecoder.pep
@@ -127,7 +127,7 @@ pgen_td_heart_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/heart/Trini
 
 
 ### Path to P.generosa-specific RepeatModeler library
-repeat_library=/gscratch/srlab/sam/data/P_generosa/generosa_repeats/Pgenerosa_v074-families.fa
+repeat_library=/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074-families.fa
 
 ### Path to P.generosa-specific RepeatMasker GFF
 rm_gff=/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074.fa.out.gff
