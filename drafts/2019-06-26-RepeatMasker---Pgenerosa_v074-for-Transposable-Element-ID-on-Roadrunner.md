@@ -45,6 +45,64 @@ Output GFF:
 
 #### SUMMARY TABLE
 
-```
+```shell
+==================================================
+file name: Pgenerosa_v074.fa        
+sequences:            18
+total length:  942353201 bp  (784808881 bp excl N/X-runs)
+GC level:         33.78 %
+bases masked:   65221692 bp ( 8.31 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       204336     32863590 bp    4.19 %
+   SINEs:           127691     15752737 bp    2.01 %
+   Penelope           2382       279223 bp    0.04 %
+   LINEs:            49426     11965761 bp    1.52 %
+    CRE/SLACS          453        37114 bp    0.00 %
+     L2/CR1/Rex      13913      2779414 bp    0.35 %
+     R1/LOA/Jockey    3341      1189171 bp    0.15 %
+     R2/R4/NeSL       1211       165338 bp    0.02 %
+     RTE/Bov-B        9983      2559753 bp    0.33 %
+     L1/CIN4          6194      1146568 bp    0.15 %
+   LTR elements:     27219      5145092 bp    0.66 %
+     BEL/Pao          1918       317492 bp    0.04 %
+     Ty1/Copia        4335       355225 bp    0.05 %
+     Gypsy/DIRS1     16012      3831098 bp    0.49 %
+       Retroviral     2945       204333 bp    0.03 %
 
+DNA transposons      89437     12061369 bp    1.54 %
+   hobo-Activator    10103      1142451 bp    0.15 %
+   Tc1-IS630-Pogo    24664      3657788 bp    0.47 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            472        38428 bp    0.00 %
+   Tourist/Harbinger  2582       369771 bp    0.05 %
+   Other (Mirage,      628        39925 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:        38482      5369675 bp    0.68 %
+
+Total interspersed repeats:    50294634 bp    6.41 %
+
+
+Small RNA:           16303       859653 bp    0.11 %
+
+Satellites:          10312      1878369 bp    0.24 %
+Simple repeats:     239752     12742842 bp    1.62 %
+Low complexity:      31725      1550615 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+  Runs of >=20 X/Ns in query were excluded in % calcs
+
+
+The query species was assumed to be root          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+
+run with rmblastn version 2.6.0+
 ```
