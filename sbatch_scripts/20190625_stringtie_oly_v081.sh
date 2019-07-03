@@ -111,7 +111,7 @@ do
   -G "${genome_gff}" \
   -C "${sample_name}.cov_refs.gtf"
 # Add GTFs to list file
-  "${sample_name}".gtf >> "${gtf_list}"
+  echo "${sample_name}.gtf" >> "${gtf_list}"
 done
 
 # Create singular transcript file, using GTF list file
