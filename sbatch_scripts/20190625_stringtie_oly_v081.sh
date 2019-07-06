@@ -123,3 +123,6 @@ done
 
 # Delete unneccessary index files
 rm Olurida_v081*.ht2
+
+# Delete unneded SAM files
+rm *.sam
