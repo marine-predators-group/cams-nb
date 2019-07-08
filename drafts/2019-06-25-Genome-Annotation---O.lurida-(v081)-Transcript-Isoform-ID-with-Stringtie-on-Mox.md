@@ -30,7 +30,7 @@ tar -ztvf trinity_out_dir.tar.gz \
 
 This was run locally on my computer (swoose) and then `rsync`'d to Mox.
 
-NOTE: The "P" in the `*.P.qtrim.gz` represents trimmed reads that are properly paired, as determined by Trimmomatic/Trinity.
+NOTE: The "P" in the `*.P.qtrim.gz` represents trimmed reads that are properly paired, as determined by Trimmomatic/Trinity. See the [fastq.list.txt](https://gannet.fish.washington.edu/Atumefaciens/20190625_stringtie_oly_v081/fastq.list.txt) for the list of FastQ files used as input. For more info on input FastQ files, refer to [the Nightingales Google Sheet](http://b.link/nightingales).
 
 
 Here's the quick rundown of how transcript isoform annotation with Stringtie runs:
@@ -190,6 +190,8 @@ Output folder:
 Merged GTF:
 
 - [20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf](https://gannet.fish.washington.edu/Atumefaciens/20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf)
+
+
 
 ---
 Below, I've included a screencap of an Integrated Genomivs Viewer (IGV) session of a contig that shows mRNAs identified via the MAKER annotation, along with the GTF:
