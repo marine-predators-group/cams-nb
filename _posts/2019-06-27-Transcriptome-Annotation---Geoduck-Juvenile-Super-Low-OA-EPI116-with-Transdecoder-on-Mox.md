@@ -15,24 +15,6 @@ categories:
   - Miscellaneous
 ---
 
----
-layout: post
-title: Transcriptome Annotation - Geoduck Juvenile Super Low OA EPI116 with Transdecoder on Mox
-date: '2019-06-27 15:20'
-tags:
-  - EPI116
-  - juvenile
-  - OA
-  - transdecoder
-  - annotation
-  - geoduck
-  - Panopea generosa
-  - mox
-categories:
-  - Miscellaneous
----
-
-
 Used Transdecoder to identify open reading frames (ORFs) for use in [annotating Pgenerosa_v074 genome assembly](https://github.com/RobertsLab/resources/issues/707). Relies on BLASTp, Pfam, and HMM scanning to ID ORFs.
 
 Trinity notebook:
