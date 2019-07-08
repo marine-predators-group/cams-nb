@@ -167,6 +167,8 @@ Output folder:
 
 - [20190625_stringtie_oly_v081/](https://gannet.fish.washington.edu/Atumefaciens/20190625_stringtie_oly_v081/)
 
+Merged GTF:
 
+- [20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf](https://gannet.fish.washington.edu/Atumefaciens/20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf)
 
 ![IGV screencap showing Strintie isoforms](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190625_stringtie_olur_v081_igv.png?raw=true)
