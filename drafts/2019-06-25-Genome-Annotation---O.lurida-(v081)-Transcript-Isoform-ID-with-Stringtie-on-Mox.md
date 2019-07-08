@@ -191,10 +191,10 @@ Merged GTF:
 
 - [20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf](https://gannet.fish.washington.edu/Atumefaciens/20190625_stringtie_oly_v081/Olurida_v081.stringtie.gtf)
 
-
+Although I won't link them here, each input FastQ pair has a corresponding alignment file (BAM), coverage file (`.cov_refs.gtf`), Hisat2 alignment stats file (`_hisat2.err`), and GTF.
 
 ---
-Below, I've included a screencap of an Integrated Genomivs Viewer (IGV) session of a contig that shows mRNAs identified via the MAKER annotation, along with the GTF:
+Below, I've included a screencap of an Integrated Genomics Viewer (IGV) session of a contig that shows mRNAs identified via the MAKER annotation, along with the Stringtie GTF:
 
 ![IGV screencap showing Strintie isoforms](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190625_stringtie_olur_v081_igv.png?raw=true)
 
