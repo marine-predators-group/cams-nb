@@ -149,3 +149,5 @@ done
 Output folder:
 
 - [20190625_hisat2-build_oly_v081/](https://gannet.fish.washington.edu/Atumefaciens/20190625_hisat2-build_oly_v081/)
+
+The Hisat2 index files are: `*.ht2`. These will be used with Stringtie for transcript isoform annotation.
