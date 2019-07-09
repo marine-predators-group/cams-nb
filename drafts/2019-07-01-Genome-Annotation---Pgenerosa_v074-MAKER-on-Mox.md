@@ -54,6 +54,13 @@ Here are a list of the input files used for the various components of the MAKER 
 - [RepeatMasker GFF](https://robertslab.github.io/sams-notebook/2019/06/26/RepeatMasker-Pgenerosa_v074-for-Transposable-Element-ID-on-Roadrunner.html)
 
 
+SBATCH script (GitHub):
+
+- [20190701_pgen_maker_v074_annotation.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190701_pgen_maker_v074_annotation.sh)
+
+```shell
+
+```
 
 ---
 
