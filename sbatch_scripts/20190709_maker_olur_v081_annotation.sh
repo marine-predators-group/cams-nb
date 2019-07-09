@@ -114,7 +114,7 @@ virginica_proteome=/gscratch/srlab/sam/data/C_virginica/virginica_ncbi_protein/G
 ### Path to O.lurida-specific RepeatModeler library
 repeat_library=/gscratch/srlab/sam/data/O_lurida/repeats/Ostrea_lurida_v081-families.fa
 
-### Path to P.generosa-specific RepeatMasker GFF
+### Path to O.lurida-specific RepeatMasker GFF
 rm_gff=/gscratch/srlab/sam/data/O_lurida/repeats/Olurida_v081.fa.out.gff
 
 ### Path to SwissProt database for BLASTp
@@ -130,8 +130,8 @@ mkdir snap02
 
 ## Create Maker control files needed for running Maker, only if it doesn't already exist and then edit it.
 ### Edit options file
-### Set paths to P.generosa genome and transcriptome.
-### Set path to combined C. gigas, C.virginica, P.generosa proteomes.
+### Set paths to O.lurida genome and transcriptome.
+### Set paths to C. gigas and C.virginica proteomes.
 ### The use of the % symbol sets the delimiter sed uses for arguments.
 ### Normally, the delimiter that most examples use is a slash "/".
 ### But, we need to expand the variables into a full path with slashes, which screws up sed.
