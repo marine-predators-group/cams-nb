@@ -38,7 +38,7 @@ Here are a list of the input files used for the various components of the MAKER 
 - SwissProt BLASTp database(downloaded 20190109): uniprot_sprot.fasta
 
 #### TransDecoder protein FastA files (links to notebook entries)
-- panopea_td_proteome=/gscratch/srlab/sam/data/P_generosa/proteomes/20180827_trinity_geoduck.fasta.transdecoder.pep
+- [singular proteome](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html)
 - [ctenidia](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Ctenidia-with-Transdecoder-on-Mox.html)
 - [EPI99 (larvae)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Larvae-Day5-EPI99-with-Transdecoder-on-Mox.html)
 - [EPI115 (juvenile)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Super-Low-OA-EPI115-with-Transdecoder-on-Mox.html)
@@ -48,11 +48,10 @@ Here are a list of the input files used for the various components of the MAKER 
 - [gonad](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Gonad-with-Transdecoder-on-Mox.html)
 - [heart](https://robertslab.github.io/sams-notebook/2019/03/18/Transcriptome-Annotation-Geoduck-Heart-with-Transdecoder-on-Mox.html)
 
-#### RepeatModeler library
-repeat_library=/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074-families.fa
+#### Repeats Files
+- [RepeatModeler library](https://robertslab.github.io/sams-notebook/2019/06/26/RepeatModeler-Pgenerosa_v074-for-MAKER-Annotation-on-Emu.html)
 
-#### RepeatMasker GFF
-rm_gff=/gscratch/srlab/sam/data/P_generosa/repeats/Pgenerosa_v074.fa.out.gff
+- [RepeatMasker GFF](https://robertslab.github.io/sams-notebook/2019/06/26/RepeatMasker-Pgenerosa_v074-for-Transposable-Element-ID-on-Roadrunner.html)
 
 
 
