@@ -608,4 +608,31 @@ So, what does this mean? A few thoughts/conjectures in no particular order or pr
 
 2. Something went awry in the annotation. This will be difficult/impossible to assess, particularly since two of the scaffolds were successfully annotated. If two worked, why wouldn't the other 16? All 18 scaffolds were presented to MAKER as a single multi-FastA file. Presumably, each individual FastA would be processed by MAKER in the same way.
 
-3. The data is real and the majority of genes in the _P.generosa_ genome lie outside of these large scaffolds. If this is the case, this means that there are _lengthy_ stretches of DNA that do not have readily-identifiable genomic features. It also suggests that, overall, the assembly we have (Pgenerosa_v070) is quite fragmented. One way to evaluate this would be to compare the annotations between this one and the
+3. The data is real and the majority of genes in the _P.generosa_ genome lie outside of these large scaffolds. If this is the case, this means that there are _lengthy_ stretches of DNA that do not have readily-identifiable genomic features. It also suggests that, overall, the assembly we have (Pgenerosa_v070) is quite fragmented.
+
+
+So, to assess some of this (particularly points 2 and 3 above), I decided to look at the three annotations we have for _P.generosa_ using IGV.
+
+#### PGA_scaffold_1
+
+No annotations found by any of the three different annotations. Surprising, as this is the single longest scaffold in each of the three assemblies (89 Mbp)
+
+![IGV comparison of PGA_scaffold_1](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190701_igv_compare_scaffold1.png?raw=true)
+
+---
+
+#### PGA_scaffold_3
+
+Annotations only appear in the Pgenerosa_v070 assembly.
+
+![IGV comparison of PGA_scaffold_3](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190701_igv_compare_scaffold3.png?raw=true)
+
+---
+
+#### PGA_scaffold_18
+
+Annotations are found in each of the three assemblies.
+
+![IGV comparison of PGA_scaffold_18](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190701_igv_compare_scaffold18.png?raw=true)
+
+---
