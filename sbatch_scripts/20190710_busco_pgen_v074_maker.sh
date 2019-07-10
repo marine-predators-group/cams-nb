@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=busco_pgen74_maker
+#SBATCH --job-name=busco_pgen70
 ## Allocation Definition
 #SBATCH --account=srlab
 #SBATCH --partition=srlab
@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190710_busco_pgen_v074_maker
+#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190710_busco_pgen_v070
 
 # Load Python Mox module for Python module availability
 module load intel-python3_2017
@@ -40,7 +40,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 ## Input files and settings
 base_name=Pgenerosa_v074
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
-genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/
+genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070.fa
 augustus_species=fly
 threads=28
 
