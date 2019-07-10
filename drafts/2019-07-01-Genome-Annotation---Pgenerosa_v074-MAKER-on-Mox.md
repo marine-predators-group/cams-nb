@@ -592,3 +592,20 @@ awk 'BEGIN { print "##gff-version 3" ; } $3 == "mRNA" {print}' \
 Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
 > Pgenerosa_v074.mRNA.gff
 ```
+With all of that out of the way, a cursory glance at the results are, honestly, quite shocking. A quick `grep -c ">"` on the FastA files reveals:
+
+- 1712 proteins/transcripts
+
+This is compared to 53,035 proteins/transcripts identified/annotated in [the Pgenerosa_v070 annotation](https://robertslab.github.io/sams-notebook/2019/02/28/Genome-Annotation-Pgenerosa_v070-MAKER-on-Mox.html) and 20,813 proteins/transcripts in the [Pgenerosa_v071 annotation](https://robertslab.github.io/sams-notebook/2019/02/13/Genome-Annotation-Pgenerosa_v71-with-MAKER-on-Mox.html) (only contigs >10kbp).
+
+Additionally, annotations only occur on 2 out of 18 scaffolds: PGA_scaffold_17 and PGA_scaffold_18.
+
+Surprisingly, these two scaffolds comprise two of the three shortest (35Mbp and 28Mbp) of the 18 scaffolds subjected to annotation.
+
+So, what does this mean? A few thoughts/conjectures in no particular order or prioritization:
+
+1. Limiting to the longest 18 scaffolds [chosen to create this Pgenerosa_v074 subset](https://robertslab.github.io/sams-notebook/2019/06/25/Data-Wrangling-FastA-Subsetting-of-Pgenerosa_v070.fa-Using-samtools-faidx.html) was the wrong approach. Looking back at the [GitHub issue where scaffold selection was discussed](https://github.com/RobertsLab/resources/issues/705) reveals the apparent confusion with which assembly provided by Phase Genomics is the proper assembly to use. However, that discussion seems to agree that the "manually curated" version of their genome assembly (which is what was used here) is the proper one to use.
+
+2. Something went awry in the annotation. This will be difficult/impossible to assess, particularly since two of the scaffolds were successfully annotated. If two worked, why wouldn't the other 16? All 18 scaffolds were presented to MAKER as a single multi-FastA file. Presumably, each individual FastA would be processed by MAKER in the same way.
+
+3. The data is real and the majority of genes in the _P.generosa_ genome lie outside of these large scaffolds. If this is the case, this means that there are _lengthy_ stretches of DNA that do not have readily-identifiable genomic features. It also suggests that, overall, the assembly we have (Pgenerosa_v070) is quite fragmented. One way to evaluate this would be to compare the annotations between this one and the
