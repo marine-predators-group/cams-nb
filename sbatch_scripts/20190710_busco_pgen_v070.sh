@@ -38,7 +38,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 # Establish variables for more readable code
 
 ## Input files and settings
-base_name=Pgenerosa_v074
+base_name=Pgenerosa_v070
 busco_db=/gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9
 genome_fasta=/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070.fa
 augustus_species=fly
