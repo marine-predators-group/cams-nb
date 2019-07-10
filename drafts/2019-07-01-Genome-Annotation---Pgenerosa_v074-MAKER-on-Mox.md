@@ -545,3 +545,50 @@ The important files:
 
   - Annotated transcripts FastA file.
   - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+I should've just split the GFF as part of the Mox SBATCH script, but I didn't so I did it locally on my computer. Here are the commands for splitting the GFF. All the GFF files have been addeed to our [Genomic Resources wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub).
+
+- CDS GFF:
+
+  - [Pgenerosa_v074.CDS.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.CDS.gff) (1.3MB)
+  - MD5: `0585919b6d819efee8c86fb3bdc104b6`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "CDS" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.CDS.gff
+```
+
+
+- exon GFF:
+
+  - [Pgenerosa_v074.exon.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.exon.gff) (1.4MB)
+  - MD5: `92c1419894fb252d7c913313c725f3d5`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "exon" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.exon.gff
+```
+
+- gene GFF:
+
+  - [Pgenerosa_v074.gene.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.gene.gff)
+  - MD5: `8bf8bb60ce5fc42f2dfad2b5ae236abb`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "gene" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.gene.gff
+```
+
+- mRNA GFF:
+
+  - [Pgenerosa_v074.mRNA.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.mRNA.gff)
+  - MD5: `d1a6aba21b60f109510ee2399e03fb2c`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "mRNA" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.mRNA.gff
+```
