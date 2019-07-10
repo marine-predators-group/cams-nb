@@ -530,19 +530,18 @@ Well, this ran relatively quickly: A little over seven days.
 The important files:
 
 - [Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff)
-
   - GFF file with all contigs annotated with putative functions and functional domains.
   - _INCLUDES SEQUENCE FASTAS AT END OF FILE!_
   - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
   - MD5: 5a17f8dd40d534a544bec166c1b0c8be
 
-- [Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta) (902KB)
 
+- [Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta) (902KB)
   - Annotated proteins FastA file.
   - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
 
-- [Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta) (2.5MB)
 
+- [Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta) (2.5MB)
   - Annotated transcripts FastA file.
   - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
 
@@ -598,7 +597,9 @@ With all of that out of the way, a cursory glance at the results are, honestly, 
 
 This is compared to 53,035 proteins/transcripts identified/annotated in [the Pgenerosa_v070 annotation](https://robertslab.github.io/sams-notebook/2019/02/28/Genome-Annotation-Pgenerosa_v070-MAKER-on-Mox.html) and 20,813 proteins/transcripts in the [Pgenerosa_v071 annotation](https://robertslab.github.io/sams-notebook/2019/02/13/Genome-Annotation-Pgenerosa_v71-with-MAKER-on-Mox.html) (only contigs >10kbp).
 
-Additionally, annotations only occur on 2 out of 18 scaffolds: PGA_scaffold_17 and PGA_scaffold_18.
+Additionally, annotations only occur on 2 out of 18 scaffolds: 
+- PGA_scaffold_17
+- PGA_scaffold_18.
 
 Surprisingly, these two scaffolds comprise two of the three shortest (35Mbp and 28Mbp) of the 18 scaffolds subjected to annotation.
 
