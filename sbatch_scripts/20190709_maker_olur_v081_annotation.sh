@@ -95,7 +95,7 @@ interproscan=/gscratch/srlab/programs/interproscan-5.31-70.0/interproscan.sh
 maker_opts_file=./maker_opts.ctl
 
 ### Path to genome FastA file
-genome=/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081.fa
+genome=/gscratch/srlab/sam/data/O_lurida/genomes/Olurida_v081/Olurida_v081.fa
 
 ### Paths to transcriptome FastA files
 adductor_transcriptome=/gscratch/srlab/sam/data/O_lurida/transcriptomes/Olurida_CA_adductor_Trinity.fasta
