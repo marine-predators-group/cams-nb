@@ -611,7 +611,7 @@ So, what does this mean? A few thoughts/conjectures in no particular order or pr
 3. The data is real and the majority of genes in the _P.generosa_ genome lie outside of these large scaffolds. If this is the case, this means that there are _lengthy_ stretches of DNA that do not have readily-identifiable genomic features. It also suggests that, overall, the assembly we have (Pgenerosa_v070) is quite fragmented.
 
 
-So, to assess some of this (particularly points 2 and 3 above), I decided to look at the three annotations we have for _P.generosa_ using IGV.
+So, to assess some of this (particularly points 2 and 3 above), I decided to look at the three annotations we have for _P.generosa_ using IGV on some of the 18 scaffolds that are present in each of the three previous assembly variations we've annotated with MAKER.
 
 #### PGA_scaffold_1
 
@@ -636,3 +636,15 @@ Annotations are found in each of the three assemblies.
 ![IGV comparison of PGA_scaffold_18](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190701_igv_compare_scaffold18.png?raw=true)
 
 ---
+
+Yeesh, so what do those IGV alignments tell us?
+
+1. The single longest scaffold appears to have no identifiable genomic features, as no annotations are present in any of the various assemblies. That's a pretty lengthy stretch of DNA to not have anything there. Caveat: haven't looked at transposable elements, nor other repeats. Is it possible that an 89Mbp stretch of DNA could be comprised solely of low-complexity sequence?
+
+2. The annotation process appears to be inconsistent. This is troublesome. Although this comes with a catch: I did not use the exact same data for each of the three annotations. For example, the Pgenerosa_v070 and Pgenerosa_v071 annotations used the singular _P.generosa_ transcriptome assembly ([from 20180827](https://robertslab.github.io/sams-notebook/2018/09/04/transcriptome-assembly-geoduck-rnaseq-data.html))for EST evidence, whereas the Pgenerosa_v074 annotation utilized tissue-specific transcriptome assemblies (from 20190409) and Transdecoder peptide data from each of these assemblies. Could these changes account for the differences we see? Oddly, and this thought is solely based on the limited IGV comparisons posted above, it seems like the fewer the overall number of sequences in an assembly, the fewer annotations MAKER is able to generate within any given scaffold.
+
+Now what?
+
+Well, I have the Pgenerosa_v074 assembly currently running on [the Genome Sequence Annotation Server (GenSAS)](https://www.gensas.org) using most of the same files that I used for MAKER on Mox (exceptions are repeat masking/modeling files - those steps will be run on GenSAS). It will be interesting to see how the MAKER and GenSAS annotations compare.
+
+I could also re-run some of these annotations using the exact same files. I think I'll actually go ahead and do this on GenSAS, as the files I need are already on their servers and it will be trivial to upload the other two assemblies and initiate the annotation process...
