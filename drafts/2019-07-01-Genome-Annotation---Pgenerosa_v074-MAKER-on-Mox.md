@@ -17,6 +17,14 @@ categories:
 
 As part of that, [Steven wanted this version annotated using MAKER](https://github.com/RobertsLab/resources/issues/707).
 
+This will perform the following:
+
+- one round of MAKER gene model predictions
+- two rounds of SNAP gene model training/predictions
+- renaming of gene models to NCBI-standardized convention
+- functional characterization of protein models (via BLASTp)
+- functional characterization of protein domains (via InterProScan5)
+
 Here are a list of the input files used for the various components of the MAKER annotation:
 
 
@@ -513,4 +521,27 @@ ${iprscan2gff3} \
 
 Output folder:
 
-- []()
+Well, this ran relatively quickly: A little over seven days.
+
+![Pgenerosa_v074 MAKER runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190702_maker_pgen074_runtime.png?raw=true)
+
+- [20190701_pgen_maker_v074_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/) (519MB)
+
+The important files:
+
+- [Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff)
+
+  - GFF file with all contigs annotated with putative functions and functional domains.
+  - _INCLUDES SEQUENCE FASTAS AT END OF FILE!_
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+  - MD5: 5a17f8dd40d534a544bec166c1b0c8be
+
+- [Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta) (902KB)
+
+  - Annotated proteins FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+- [Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190701_pgen_maker_v074_annotation/Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta) (2.5MB)
+
+  - Annotated transcripts FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
