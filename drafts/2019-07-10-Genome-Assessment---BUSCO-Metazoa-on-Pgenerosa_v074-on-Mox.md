@@ -138,7 +138,9 @@ ${busco} \
 
 #### RESULTS
 
+This took ~12hrs to run:
 
+![BUSCO runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190710_busco_pgen74_runtime.png?raw=true)
 
 Output folder:
 
