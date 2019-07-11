@@ -147,17 +147,22 @@ Output folder:
 
 BUSCO scores:
 
-- [20190710_busco_pgen_v070/20190710_busco_pgen_v070_scores.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_busco_pgen_v070/20190710_busco_pgen_v070_scores.txt)
+- [20190710_busco_pgen_v070/run_Pgenerosa_v070/short_summary_Pgenerosa_v070.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_busco_pgen_v070/run_Pgenerosa_v070/short_summary_Pgenerosa_v070.txt)
 
 ```
-INFO	Results:
-INFO	C:84.2%[S:78.5%,D:5.7%],F:9.4%,M:6.4%,n:978
-INFO	824 Complete BUSCOs (C)
-INFO	768 Complete and single-copy BUSCOs (S)
-INFO	56 Complete and duplicated BUSCOs (D)
-INFO	92 Fragmented BUSCOs (F)
-INFO	62 Missing BUSCOs (M)
-INFO	978 Total BUSCO groups searched
-INFO	BUSCO analysis done with WARNING(s). Total running time: 55019.21382021904 seconds
-INFO	Results written in /gscratch/scrubbed/samwhite/outputs/20190710_busco_pgen_v070/run_Pgenerosa_v070/
+# BUSCO version is: 3.0.2
+# The lineage dataset is: metazoa_odb9 (Creation date: 2016-02-13, number of species: 65, number of BUSCOs: 978)
+# To reproduce this run: python /gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py -i /gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070.fa -o Pgenerosa_v070 -l /gscratch/srlab/sam/data/databases/BUSCO/metazoa_odb9/ -m genome -c 28 --long -z -sp fly --augustus_parameters '--progress=true'
+#
+# Summarized benchmarking in BUSCO notation for file /gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070.fa
+# BUSCO was run in mode: genome
+
+	C:84.2%[S:78.5%,D:5.7%],F:9.4%,M:6.4%,n:978
+
+	824	Complete BUSCOs (C)
+	768	Complete and single-copy BUSCOs (S)
+	56	Complete and duplicated BUSCOs (D)
+	92	Fragmented BUSCOs (F)
+	62	Missing BUSCOs (M)
+	978	Total BUSCO groups searched
 ```
