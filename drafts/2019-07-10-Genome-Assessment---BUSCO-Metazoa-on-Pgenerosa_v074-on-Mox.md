@@ -13,7 +13,7 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
-
+Ran BUSCO on Mox for our [Pgenerosa_v74 genome assembly](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-2) to assess "completeness". This is the assembly that only has the longest 18 scaffolds (the scaffolds hand-curated by Phase Genomics).
 
 SBATCH script (GitHub):
 

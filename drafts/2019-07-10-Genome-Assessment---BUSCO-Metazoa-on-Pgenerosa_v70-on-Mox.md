@@ -12,7 +12,7 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
-
+Ran BUSCO on Mox for our [Pgenerosa_v70 genome assembly](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#genome-2) to assess "completeness".
 
 SBATCH script (GitHub):
 
