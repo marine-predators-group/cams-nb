@@ -72,15 +72,26 @@ Here's an example of what happens when refining Bin 3:
 
 ![Screencap of interactive dendrogram with Bin_3_1 highlighted to show continuing display of 0.00% Completion/Redundancy](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-04.png?raw=true)
 
-
+---
 
 Ah, as it turns out, this has been fixed in the "master" commit in Anvi'o (thanks to the Anvi'o devs for their fast responses to my questions on their [Slack channel](https://anvio.slack.com/archives/C8SFMGYF3/p1561043792054900)!!).
 
-Here's how the upgrade process went:
+Here's how the upgrade process went.
+
+Clone current version of Anvio's GitHub repo:
 
 ```shell
 git clone --recursive https://github.com/merenlab/anvio.git
 ```
+---
+
+Create an Anaconda environment for Anvio', using Python version 3.6.
+
+Then, activate the newly created Anaconda environment.
+
+Within the cloned Anvi'o repo, use Python to execute the `setup.py` file.
+
+Finally, use `pip` to complete the Anvi'o installation.
 
 ```shell
 conda create --yes --name anvio python=3.6
@@ -92,6 +103,10 @@ python setup.py
 pip install --editable
 ```
 
+---
+
+Now, we should be able to run `anvio-interactive` on the database again and get an updated version of stats for each bin:
+
 ```shell
 conda activate anvio
 (anvio) sam@swoose:~/analyses/20190619_anvio$ ~/programs/anvio_git_master_bfbcbb3/bin/anvi-interactive --profile-db PROFILE.db --contigs-db contigs.db --collection-name CONCOCT
@@ -102,8 +117,11 @@ Config Error: The database at 'contigs.db' is outdated (its version is v12, but 
               without losing any data using the program `anvi-migrate-db`.  
 ```
 
+So, I ran the `anvi-migrate-db` command as recommended:
 
 `~/programs/anvio_git_master_bfbcbb3/bin/anvi-migrate-db contigs.db`
+
+This message popped up:
 
 ```shell
 * The contigs database is now 13. Unfortunatly this update removed all single-copy
@@ -114,7 +132,12 @@ default' HMM profiles you may have added in this contigs database, so you have
 nothing to worry about.
 ```
 
+So, I ran the `anvi-run-hmms` command on the database to complete the upgrae process:
+
 `~/programs/anvio_git_master_bfbcbb3/bin/anvi-run-hmms -c contigs.db --num-threads 23`
+
+---
+
 After upgrading, here's how things look:
 
 ![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_interactive_dendrogram_fix-01.png?raw=true)
