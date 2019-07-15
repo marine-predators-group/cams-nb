@@ -55,7 +55,7 @@ anvi-refine \
 
 In the screencap below, the region of the dendrogram marked as "Bin_75_1" shows a drastic difference in coverage in the MG7 track at this particular split. Additionally, looking at the quick stats shown for this newly identified bin (in the window pane to the left), one can see that Completion is now 99% and Redundancy is only 1.4%; a marked improvement on the automatic binning.
 
-![Screencap of Bin_75 refinement dendrogram](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_refine_bin75-01.png)
+![Screencap of Bin_75 refinement dendrogram](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_refine_bin75-01.png?raw=true)
 
 
 
