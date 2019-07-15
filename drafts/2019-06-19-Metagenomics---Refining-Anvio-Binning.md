@@ -39,7 +39,7 @@ anvi-summarize \
 
 This command generates an `index.html` file (see Results section below for link) and takes ~10 minutes to complete. Here's the portion showing the binning completion/redundancy info (there's much, much more data present in that file):
 
-![initial anvio binning table showing completion/redundancy]()
+![initial Anvio binning table showing completion/redundancy](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_initial_bins_table.png?raw=true)
 
 
 
@@ -53,12 +53,24 @@ anvi-refine \
 --bin-id Bin_75
 ```
 
-In the screencap below, the region of the dendrogram marked as "Bin_75_1" shows a drastic difference in coverage in the MG7 track at this particular split. Additionally, looking at the quick stats shown for this newly identified bin in the window pane to the left, one can see that Completion is now 99% and Redundancy is only 1.4%; a marked improvement on the automatic binning.
+In the screencap below, the region of the dendrogram marked as "Bin_75_1" shows a drastic difference in coverage in the MG7 track at this particular split. Additionally, looking at the quick stats shown for this newly identified bin (in the window pane to the left), one can see that Completion is now 99% and Redundancy is only 1.4%; a marked improvement on the automatic binning.
 
+![Screencap of Bin_75 refinement dendrogram](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_refine_bin75-01.png)
 
 
 
 There does appear to be a problem with the binning data, though. It appears that many bins exhibit Completion/Redundancy data of 0.00%, however clicking on that data in the summary table reveals that is incorrect:
+
+![Screencap of summary table showing incorrect Completion/Redundancy info](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-01.png?raw=true)
+
+
+Here's an example of what happens when refining Bin 3:
+
+![Screencap of Bin 3 refinement dendrogram showing incorrect Completion/Redundancy info](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-02.png?raw=true)
+
+![Screencap of Bin 3 summary table after refinement - table still shows Completion/Redundancy of 0.00% ](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-03.png?raw=true)
+
+![Screencap of interactive dendrogram with Bin_3_1 highlighted to show continuing display of 0.00% Completion/Redundancy](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-04.png?raw=true)
 
 
 
@@ -105,13 +117,17 @@ nothing to worry about.
 `~/programs/anvio_git_master_bfbcbb3/bin/anvi-run-hmms -c contigs.db --num-threads 23`
 After upgrading, here's how things look:
 
-![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins]()
+![Screencap of dendgrogram after update now shows Completion/Redundancy info for all bins](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_interactive_dendrogram_fix-01.png?raw=true)
 
 
-![Screencap of Summarize table after update]()
+![Screencap of Summarize table after update](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-fix-01.png?raw=true)
+
+![Screencap of Summarize table after update with inset](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-fix-02.png?raw=true)
 
 
 Clearly, there's a _lot_ of manual binning that needs to take place in order to refine the bins with excessive Completion/Redundancy info...
+
+![Screencap of dendrogram after extensive refinement](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_interactive_dendrogram_refined.png?raw=true)
 
 ---
 
