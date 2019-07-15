@@ -23,7 +23,7 @@ anvi-interactive \
 
 That generates this:
 
-![initial anvio dendrogram screencap]()
+![initial anvio dendrogram screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_initial_dendrogram.png?raw=true)
 
 
 
