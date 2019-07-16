@@ -15,7 +15,40 @@ categories:
 ---
 I [previously annotated our Olurida_v081 genome with MAKER](https://robertslab.github.io/sams-notebook/2018/11/27/Annotation-Olurida_v081-MAKER-on-Mox.html) using our "canonical" transcriptome, [Olurida_transcriptome_v3.fasta](http://eagle.fish.washington.edu/cnidarian/Olurida_transcriptome_v3.fasta) as the EST evidence utilized by MAKER. A [discussion on one of our Slack channels related to the lack of isoform annotation](https://genefish.slack.com/archives/GHB1LCNRW/p1560978863004100) (I think it's a private channel, sorry) prompted Katherine Silliman to suggest re-running the annotation using tissue-specific transcriptome assemblies that she has generated as EST evidence, instead of a singular transcriptome. Since I already had previous versions of the MAKER script that I've used for annotations, re-running was rather straightforward. While this was running, I used [Stringtie on 20190625to produce a GTF that maps out potential isoforms](https://robertslab.github.io/sams-notebook/2019/06/25/Genome-Annotation-O.lurida-(v081)-Transcript-Isoform-ID-with-Stringtie-on-Mox.html), as I don't believe MAKER will actually predict isoforms, since it didn't do so the first time, nor has it with other annotations we've run on geoduck assemblies.
 
+Running MAKER will perform the following:
 
+- one round of MAKER gene model predictions
+- two rounds of SNAP gene model training/predictions
+- renaming of gene models to NCBI-standardized convention (e.g. OLUR_)
+- functional characterization of protein models (via BLASTp)
+- functional characterization of protein domains (via InterProScan5)
+
+Here are a list of the input files used for the various components of the MAKER annotation:
+
+
+#### Transcriptome FastA files (provided by Katherine Silliman; no creation info provided):
+
+- [CA adductor](https://owl.fish.washington.edu/wetgenes/201808_RNASeq_Hier/Olurida_CA_adductor_Trinity.fasta.gz)
+
+- [CA ctenidia](https://owl.fish.washington.edu/wetgenes/201808_RNASeq_Hier/Olurida_CA_ctenidia_Trinity.fasta.gz)
+
+- [CA mantle](https://owl.fish.washington.edu/wetgenes/201808_RNASeq_Hier/Olurida_CA_mantle_Trinity.fasta.gz)
+
+- [gonad](https://owl.fish.washington.edu/wetgenes/201808_RNASeq_Hier/Olurida_gonad_Trinity.fasta.gz)
+
+#### NCBI Protein FastA files
+
+- NCBI _Crassostrea gigas_ proteome (downloaded 20181119): `GCA_000297895.1_oyster_v9_protein.faa`
+
+- NCBI _Crassostrea virginica_ proteome (downloaded 20181119): `GCF_002022765.2_C_virginica-3.0_protein.faa`
+
+- SwissProt BLASTp database(downloaded 20190109): uniprot_sprot.fasta
+
+#### Repeats Files (links to notebook entries)
+
+- [RepeatModeler library](https://robertslab.github.io/sams-notebook/2018/10/22/Repeat-Library-Construction-O.lurida-RepeatModeler-v1.0.11.html)
+
+- [RepeatMasker GFF](https://robertslab.github.io/sams-notebook/2018/07/03/transposable-element-mapping-olympia-oyster-genome-assembly-olurida_v081-using-repeatmasker-4-07.html)
 
 
 SBATCH script (GitHub):
