@@ -129,7 +129,7 @@ done
 -o "${genome_index_name}".stringtie.gtf
 
 # Delete unneccessary index files
-rm ${genome_index_name}*.ht2
+rm "${genome_index_name}"*.ht2
 
 # Delete unneded SAM files
 rm ./*.sam
