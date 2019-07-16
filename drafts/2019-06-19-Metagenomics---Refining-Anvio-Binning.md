@@ -147,6 +147,10 @@ After upgrading, here's how things look:
 
 ![Screencap of Summarize table after update with inset](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190619_anvio_summarize_zero-percent-completion-problem-fix-02.png?raw=true)
 
+Additionally, the Anvi'o refine interface provides an informative pop up when clicking on the Completion info on the left pane that explains in user-friendly lingo what your Completion/Redundancy data might suggest:
+
+![Screencap of Anvi'o refine binning dendrogram pop up info]()
+
 
 Clearly, there's a _lot_ of manual binning that needs to take place in order to refine the bins with excessive Completion/Redundancy info...
 
