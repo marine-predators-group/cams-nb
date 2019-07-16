@@ -556,3 +556,15 @@ Here are some example comparisons in Integrated Genome Viewer (IGV) of the two a
 #### Annotations differ in gene/CDS annotation
 
 ![IGV screencap showing differences in gene/CDS annotation](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190709_maker_olur_v081_igv_comparisons-03.png?raw=true)
+
+---
+
+So, what does this mean? Well, firstly, it's a bit difficult to compare both annotations, as they differed slightly in the way they were run; and not just differences in utilizing a "canonical" transcriptome vs. tissue-specific transcriptomes for the EST evidence. The only way to perform a true comparison would be to re-run the original annotation and make the necessary changes so that all the commands match this, but utilize the "canonical" transcriptome.
+
+Another step we could take is attempting to improve the annotations by adding Augustus _ab initio_ gene prediction to the MAKER annotation. Having a third component for gene prediction would likely bolster results and improve our confidence in the annotations.
+
+Additionally, an aspect that shouldn't be ignored is examing the Annotation Edit Distance (AED). This value ranges from 0 - 1, with 0 being the _highest_ confidence in gene annotation. Each entry in the GFF files has an associated AED score. We could decide on a threshold and filter out low scoring features; how we'd decide on that threshold is not currently clear to me, though. This paper provides a nice overview of how genome annotation works, what the AED is, tools for annotation and gene prediction, etc.:
+
+- [Yandell, M. and Ence. D. A beginner’s guide to eukaryotic genome annotation. Nature Reviews Genetics 13, 329-342 (2012).](http://www.yandell-lab.org/publications/pdf/euk_genome_annotation_review.pdf) (PDF)
+
+Finally, we could also use "old school" bench approaches and do some physical cloning/sequencing of regions of the genome and see how the annotations compare to the actual sequencing data we get back, or some RT-qPCRs on genes with two apparent differences in coding sequence features and see if one (or both!) amplifies.
