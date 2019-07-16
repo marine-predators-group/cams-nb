@@ -525,6 +525,34 @@ All the GFF files have been added to our [Genomic Resources wiki](https://github
   - [Olurida_v081-20190709.mRNA.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081-20190709.mRNA.gff)
   - MD5: `ba915ec3a59ee6ff3b7d5e37b5d0463d`
 
-With all of that out of the way, a cursory glance at the results are, honestly, quite shocking. A quick `grep -c ">"` on the FastA files reveals:
+  ---
 
-- 4434 proteins/transcripts
+A quick `grep -c ">" Olurida_v081_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta`reveals:
+
+- 32,210 proteins/transcripts
+
+The previous annotation (`grep -c ">" 20181127_oly_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta`) yielded:
+
+- 24,680 proteins/transcripts
+
+That's ~30% increase in transcripts that have been ID'd/annotated with this particular MAKER set up. However, just as before, MAKER doesn't ID/annotate any potential isoforms. I'll probably run Stringtie with this annotation to get that info.
+
+Here are some example comparisons in Integrated Genome Viewer (IGV) of the two annotations. Blue tracks are the current v081 annotation and the pink tracks are the original v081 annotation:
+
+#### Annotations are the same
+
+![IGV screencap showing same annotations between original v081 and current v081 annotations](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190709_maker_olur_v081_igv_comparisons-01.png?raw=true)
+
+---
+
+#### Current annotation has additional features
+
+##### Also exhibits slight differences in gene lengths
+
+![IGV screencap showing additional annotations in current v081](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190709_maker_olur_v081_igv_comparisons-02.png?raw=true)
+
+---
+
+#### Annotations differ in gene/CDS annotation
+
+![IGV screencap showing differences in gene/CDS annotation](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190709_maker_olur_v081_igv_comparisons-03.png?raw=true)
