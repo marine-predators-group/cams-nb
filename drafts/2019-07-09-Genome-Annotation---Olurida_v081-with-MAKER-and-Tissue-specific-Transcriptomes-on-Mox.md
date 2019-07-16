@@ -481,4 +481,50 @@ This took ~5.75 days to run:
 
 Output folder:
 
-- []()
+- [20190709_maker_olur_v081_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190709_maker_olur_v081_annotation/)
+
+The important files:
+
+- [Olurida_v081_genome_snap02.all.renamed.putative_function.domain_added.gff](https://gannet.fish.washington.edu/Atumefaciens/20190709_maker_olur_v081_annotation/Olurida_v081_genome_snap02.all.renamed.putative_function.domain_added.gff) (2.9GB)
+  - GFF file with all contigs annotated with putative functions and functional domains.
+  - _INCLUDES SEQUENCE FASTAS AT END OF FILE!_
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+  - MD5: `f54512bd964f45645c34b1e8e403a2b0`
+
+
+- [Olurida_v081_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190709_maker_olur_v081_annotation/Olurida_v081.all.maker.proteins.fasta) (1.1MB)
+  - Annotated proteins FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+
+- [Olurida_v081_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190709_maker_olur_v081_annotation/Olurida_v081.all.maker.transcripts.fasta) (2.9MB)
+  - Annotated transcripts FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+All the GFF files have been added to our [Genomic Resources wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub).
+
+- CDS GFF:
+
+  - [Olurida_v081-20190709.CDS.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081-20190709.CDS.gff) (1.3MB)
+  - MD5: `eaf22c9868577539238a1b4c378e9200`
+
+
+- exon GFF:
+
+  - [Olurida_v081-20190709.exon.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081-20190709.exon.gff) (1.4MB)
+  - MD5: `748d596b07f1b2b18c567494f7d1c5b3`
+
+- gene GFF:
+
+  - [Olurida_v081-20190709.gene.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081-20190709.gene.gff)
+  - MD5: `6ec24727d92cc095ece0c371eb3b0c6b`
+
+
+- mRNA GFF:
+
+  - [Olurida_v081-20190709.mRNA.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Olurida_v081-20190709.mRNA.gff)
+  - MD5: `ba915ec3a59ee6ff3b7d5e37b5d0463d`
+
+With all of that out of the way, a cursory glance at the results are, honestly, quite shocking. A quick `grep -c ">"` on the FastA files reveals:
+
+- 4434 proteins/transcripts
