@@ -393,3 +393,21 @@ ${iprscan2gff3} \
 "${ips_dir}"/${ips_name} \
 "${snap02_gff_renamed}" \
 > ${ips_domains}
+
+# Create individual GFFs
+
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "CDS" {print}' \
+${put_domain_gff} \
+> Olurida_v081-20190709.CDS.gff
+
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "exon" {print}' \
+${put_domain_gff} \
+> Olurida_v081-20190709.exon.gff
+
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "gene" {print}' \
+${put_domain_gff} \
+> Olurida_v081-20190709.gene.gff
+
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "mRNA" {print}' \
+${put_domain_gff} \
+> Olurida_v081-20190709.mRNA.gff
