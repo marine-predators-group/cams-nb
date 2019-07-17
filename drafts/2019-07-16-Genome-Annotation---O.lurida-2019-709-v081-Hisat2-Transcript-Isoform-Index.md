@@ -158,3 +158,5 @@ This took ~55mins:
 Output folder:
 
 - [20190716_hisat2-build_20190709-olur_v081/](https://gannet.fish.washington.edu/Atumefaciens/20190716_hisat2-build_20190709-olur_v081/)
+
+The Hisat2 index files are: `*.ht2`. These will be used with Stringtie for transcript isoform annotation.
