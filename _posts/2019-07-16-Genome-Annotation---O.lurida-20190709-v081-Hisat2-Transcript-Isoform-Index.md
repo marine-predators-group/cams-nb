@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genome Annotation - O.lurida 2019-709-v081 Hisat2 Transcript Isoform Index
+title: Genome Annotation - O.lurida 20190709-v081 Hisat2 Transcript Isoform Index
 date: '2019-07-16 15:04'
 tags:
   - 20190709-v081
