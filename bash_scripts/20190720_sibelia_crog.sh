@@ -7,6 +7,9 @@
 # Set working dir
 wd=/home/sam/analyses/20190720_sibelia_crog
 
+# Set CPU threads
+threads=16
+
 # Input/output files
 assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
 assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
@@ -71,6 +74,7 @@ time \
 { "${sibelia}" \
 --parameters loose \
 --outdir "${wd}" \
+--processcount "${threads}" \
 "${assembly_subset}" \
 2> sibelia_stderr.txt \
 ; } \
