@@ -14,7 +14,7 @@ assembly_fasta="${wd}/20190720_sibelia_crog/Caligus_rogercresseyi_Genome.fa"
 assembly_index="${wd}/20190720_sibelia_crog/Caligus_rogercresseyi_Genome.fa.fai"
 assembly_subset="${wd}/20190720_sibelia_crog/C_rogercresseyi_top_21_scaffold.fa"
 sibelia_out_dir="${wd}"
-system_specs="${wd}"
+system_specs="${wd}/system_info.txt"
 subset_list="${wd}/20190720_sibelia_crog/top_21_scaffold_list.txt"
 
 # Program paths
@@ -22,4 +22,45 @@ samtools="/home/shared/samtools-1.8"
 sibelia="/home/shared/Sibelia-3.0.7-Linux/bin/Sibelia"
 
 
-# Capture system info
+# Record system info
+echo "TODAY'S DATE:" >> "${system_specs}"
+date >> "${system_specs}"
+echo "------------" >> "${system_specs}"
+echo "" >> "${system_specs}"
+lsb_release -a >> "${system_specs}"
+echo "" >> "${system_specs}"
+echo "------------" >> "${system_specs}"
+echo "HOSTNAME: "; hostname  >> "${system_specs}"
+echo "" >> "${system_specs}"
+echo "------------" >> "${system_specs}"
+echo "Computer Specs:" >> "${system_specs}"
+echo "" >> "${system_specs}"
+lscpu >> "${system_specs}"
+echo "" >> "${system_specs}"
+echo "------------" >> "${system_specs}"
+echo "" >> "${system_specs}"
+echo "Memory Specs" >> "${system_specs}"
+echo "" >> "${system_specs}"
+free -mh >> "${system_specs}"
+
+# Index FastA file
+"${samtools}" faidx \
+"${assembly_fasta}"
+
+# Extract list of top 21 longest scaffolds
+sort \
+--numeric-sort \
+--reverse \
+----field-separator $'\t' \
+--key 2,2 \
+"${assembly_index}" \
+| head -n 21 \
+| awk -F'\t' '{print $1}' \
+> "${subset_list}"
+
+# Create FastA of longest 21 scaffolds
+xargs \
+"${samtools}" faidx \
+"${assembly_fasta}" \
+< "${subset_list}" \
+> "${assembly_subset}"
