@@ -10,9 +10,9 @@ set -e
 wd=/home/sam/analyses
 
 # Input/output files
-assembly_fasta="${wd}/20190720_sibelia_crog/Caligus_rogercresseyi_Genome.fa"
-assembly_index="${wd}/20190720_sibelia_crog/Caligus_rogercresseyi_Genome.fa.fai"
-assembly_subset="${wd}/20190720_sibelia_crog/C_rogercresseyi_top_21_scaffold.fa"
+assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
+assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
+assembly_subset="${wd}/C_rogercresseyi_top_21_scaffold.fa"
 sibelia_out_dir="${wd}"
 system_specs="${wd}/system_info.txt"
 subset_list="${wd}/20190720_sibelia_crog/top_21_scaffold_list.txt"
@@ -64,3 +64,14 @@ xargs \
 "${assembly_fasta}" \
 < "${subset_list}" \
 > "${assembly_subset}"
+
+# Index new FastA
+"${samtools}" faidx \
+"${assembly_subset}"
+
+# Run Sibelia
+time --output sibelia_runtime.txt \
+"${sibelia}" \
+--parameters loose \
+--outdir "${wd}" \
+"${assembly_subset}"
