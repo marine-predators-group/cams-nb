@@ -3,8 +3,6 @@
 # Script to run Sibelia on top 21 scaffolds of C_rogercresseyi genome assembly.
 # Assembly provided by Cristian Gallardo.
 
-# Exit if any command fails
-set -e
 
 # Set working dir
 wd=/home/sam/analyses
@@ -18,7 +16,7 @@ system_specs="${wd}/system_info.txt"
 subset_list="${wd}/20190720_sibelia_crog/top_21_scaffold_list.txt"
 
 # Program paths
-samtools="/home/shared/samtools-1.8"
+samtools="/home/shared/samtools-1.8/samtools"
 sibelia="/home/shared/Sibelia-3.0.7-Linux/bin/Sibelia"
 
 
