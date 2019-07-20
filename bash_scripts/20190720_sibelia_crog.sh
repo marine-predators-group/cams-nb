@@ -67,9 +67,11 @@ xargs \
 "${assembly_subset}"
 
 # Run Sibelia
-"${sibelia}" \
+time \
+{ "${sibelia}" \
 --parameters loose \
 --outdir "${wd}" \
 "${assembly_subset}" \
 2> sibelia_stderr.txt \
-time --output sibelia_runtime.txt
+; } \
+2> sibelia_runtime.txt
