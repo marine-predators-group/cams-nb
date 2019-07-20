@@ -5,15 +5,14 @@
 
 
 # Set working dir
-wd=/home/sam/analyses
+wd=/home/sam/analyses/20190720_sibelia_crog
 
 # Input/output files
 assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
 assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
 assembly_subset="${wd}/C_rogercresseyi_top_21_scaffold.fa"
-sibelia_out_dir="${wd}"
 system_specs="${wd}/system_info.txt"
-subset_list="${wd}/20190720_sibelia_crog/top_21_scaffold_list.txt"
+subset_list="${wd}/top_21_scaffold_list.txt"
 
 # Program paths
 samtools="/home/shared/samtools-1.8/samtools"
@@ -68,9 +67,9 @@ xargs \
 "${assembly_subset}"
 
 # Run Sibelia
-time --output sibelia_runtime.txt \
 "${sibelia}" \
 --parameters loose \
 --outdir "${wd}" \
 "${assembly_subset}" \
-2> sibelia_stderr.txt
+2> sibelia_stderr.txt \
+time --output sibelia_runtime.txt
