@@ -74,4 +74,5 @@ time --output sibelia_runtime.txt \
 "${sibelia}" \
 --parameters loose \
 --outdir "${wd}" \
-"${assembly_subset}"
+"${assembly_subset}" \
+2> sibelia_stderr.txt
