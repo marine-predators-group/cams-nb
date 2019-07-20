@@ -48,7 +48,7 @@ free -mh >> "${system_specs}"
 sort \
 --numeric-sort \
 --reverse \
-----field-separator $'\t' \
+--field-separator $'\t' \
 --key 2,2 \
 "${assembly_index}" \
 | head -n 21 \
