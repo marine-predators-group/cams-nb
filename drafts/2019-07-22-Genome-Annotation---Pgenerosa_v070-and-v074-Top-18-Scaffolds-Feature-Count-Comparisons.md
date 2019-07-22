@@ -32,3 +32,11 @@ Output folder:
 GFF subset:
 
 - [20190722_pgen_v070_top18_scaffold_annotation_counts/pgen_v070_top18_scaffolds.gff](https://gannet.fish.washington.edu/Atumefaciens/20190722_pgen_v070_top18_scaffold_annotation_counts/pgen_v070_top18_scaffolds.gff)
+
+
+#### SUMMARY TABLE
+
+| GENOME    | CDS   | exon  | gene | mRNA |
+|-----------|-------|-------|------|------|
+| Pgen_v070 | 41187 | 43554 | 8404 | 8404 |
+| Pgen_v074 | 10764 | 10940 | 1712 | 1712 |
