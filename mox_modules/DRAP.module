@@ -5,5 +5,7 @@ proc ModulesHelp { } {
 
 module-whatis "Adds DRAP programs to environment."
 
-prepend-path    PATH            /sw/parallel-20170722/bin
-prepend-path    MANPATH         /sw/parallel-20170722/share/man
+prepend-path    PATH            /gscratch/srlab/programs/DRAP/bedtools-2.26.0/bin
+prepend-path    PATH            /gscratch/srlab/programs/blat-v36x2
+prepend-path    PATH            /gscratch/srlab/programs/bowtie2-2.3.4.1-linux-x86_64
+prepend-path    PATH            /gscratch/srlab/programs/busco-v3/scripts/run_BUSCO.py
