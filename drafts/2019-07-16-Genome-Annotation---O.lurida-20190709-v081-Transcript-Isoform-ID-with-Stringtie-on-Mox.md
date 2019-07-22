@@ -192,6 +192,16 @@ rm ./*.sam
 
 #### RESULTS
 
+This took ~24hrs to run:
+
+![Screencap of Mox Stringtie runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190716_stringtie_olur_v081_runtime.png)
+
 Output folder:
 
-- []()
+- [20190716_stringtie_20190709-olur-v081/](https://gannet.fish.washington.edu/Atumefaciens/20190716_stringtie_20190709-olur-v081/)
+
+Merged GTF:
+
+- [20190716_stringtie_20190709-olur-v081/20190709-Olurida_v081.stringtie.gtf](https://gannet.fish.washington.edu/Atumefaciens/20190716_stringtie_20190709-olur-v081/20190709-Olurida_v081.stringtie.gtf)
+
+Although I won't link them here, each input FastQ pair has a corresponding alignment file (BAM), coverage file (`.cov_refs.gtf`), Hisat2 alignment stats file (`_hisat2.err`), and GTF.
