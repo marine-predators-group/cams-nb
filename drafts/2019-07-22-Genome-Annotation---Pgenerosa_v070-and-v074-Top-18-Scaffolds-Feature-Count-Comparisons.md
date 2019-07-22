@@ -41,3 +41,10 @@ GFF subset:
 | Pgen_v070                 | 169460 | 175006 | 53035 | 53035 |
 | Pgen_v070_top18_scaffolds | 41187  | 43554  | 8404  | 8404  |
 | Pgen_v074                 | 10764  | 10940  | 1712  | 1712  |
+
+
+---
+
+Well, we definitely see a difference between annotations of those top 18 scaffolds (~6-fold difference). However, there is still a _huge_ difference between the full Pgenerosa_v070 annotation and the top 18 scaffolds from the Pgenerosa_v070 annotation.
+
+I'll be performing some RNAseq alignments to these various assemblies. That should provide us with some evidence that we can use to support/refute some of the annotations that are present/absent.
