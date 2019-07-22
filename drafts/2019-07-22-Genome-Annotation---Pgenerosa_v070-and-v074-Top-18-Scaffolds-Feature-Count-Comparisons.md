@@ -2,7 +2,7 @@
 layout: post
 title: Genome Annotation - Pgenerosa_v070 and v074 Top 18 Scaffolds Feature Count Comparisons
 date: '2019-07-22 11:03'
-tags: 
+tags:
   - Panopea generosa
   - geoduck
   - Pgenerosa_v070
@@ -10,11 +10,15 @@ tags:
   - v070
   - v074
   - gff
-categories: 
+categories:
   - Geoduck Genome Sequencing
 ---
+After [annotating Pgenerosa_v074 on 20190701](https://robertslab.github.io/sams-notebook/2019/07/01/Genome-Annotation-Pgenerosa_v074-MAKER-on-Mox.html), we noticed a large discrepancy in the number of transcripts that MAKER identified, compared to Pgenerosa_v070. As a reminder, the Pgenerosa_v074 is a subset of Pgenerosa_v070 containing only the top 18 longest scaffolds. So, we decided to do a quick comparison of the annotations present in these 18 scaffolds Pgenerosa_v070 and Pgenerosa_v074.
 
+Briefly, used `grep` to pull out features identified in the same 18 scaffolds in the Pgenerosa_v074 assembly from [Pgenerosa_v070 annotated GFF from 20190228](https://robertslab.github.io/sams-notebook/2019/02/28/Genome-Annotation-Pgenerosa_v070-MAKER-on-Mox.html) and then counted the number of features identified in this newly subsetted GFF. It's all documented in the Jupyter Notebook below.
 
+Jupyter Notebook (GitHub):
+- [20190722_swoose_pgen_v070_top18_scaffold_annotation_count.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190722_swoose_pgen_v070_top18_scaffold_annotation_count.ipynb)
 
 ---
 
@@ -22,5 +26,9 @@ categories:
 
 Output folder:
 
-- []()
+- [20190722_pgen_v070_top18_scaffold_annotation_counts/](https://gannet.fish.washington.edu/Atumefaciens/20190722_pgen_v070_top18_scaffold_annotation_counts/)
 
+
+GFF subset:
+
+- [20190722_pgen_v070_top18_scaffold_annotation_counts/pgen_v070_top18_scaffolds.gff](https://gannet.fish.washington.edu/Atumefaciens/20190722_pgen_v070_top18_scaffold_annotation_counts/pgen_v070_top18_scaffolds.gff)
