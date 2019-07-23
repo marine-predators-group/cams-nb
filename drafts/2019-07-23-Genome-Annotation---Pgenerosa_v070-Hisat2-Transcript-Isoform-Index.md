@@ -14,6 +14,7 @@ categories:
   - Geoduck Genome Sequencing
 ---
 
+
 Essentially, the steps below (which is what was done here) are needed to prepare files for use with [Stringtie](https://ccb.jhu.edu/software/stringtie/index.shtml):
 
 1. Create GTF file (basically a GFF specifically for use with transcripts - thus the "T" in GTF) from input GFF file. Done with [GFF utilities software](http://ccb.jhu.edu/software/stringtie/gff.shtml).
@@ -147,6 +148,12 @@ rsync -av "${genome_index_name}"*.ht2 "${genome_dir}"
 
 #### RESULTS
 
+Took about an hour to run:
+
+![Screencap of Hisat2 runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190723_hisat2_build_pgen070_runtime.png?raw=true)
+
 Output folder:
 
-- [20190723_hisat2-build_pgen_v070/]()
+- [20190723_hisat2-build_pgen_v070/](https://gannet.fish.washington.edu/Atumefaciens/20190723_hisat2-build_pgen_v070/)
+
+The Hisat2 index files are: `*.ht2`. These will be used with Stringtie for transcript isoform annotation.
