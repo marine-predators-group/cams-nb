@@ -13,7 +13,7 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
-
+This is the first step in getting transcript isoform annotations. The annotations and alignments that will be generated with Stringtie will be used to help us get a better grasp of what's going on with our annotations of the different _Panopea generosa_ genome assembly versions.
 
 Essentially, the steps below (which is what was done here) are needed to prepare files for use with [Stringtie](https://ccb.jhu.edu/software/stringtie/index.shtml):
 
