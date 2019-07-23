@@ -46,7 +46,7 @@ stringtie="/gscratch/srlab/programs/stringtie-1.3.6.Linux_x86_64/stringtie"
 # Input/output files
 genome_gff="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070_genome_snap02.all.renamed.putative_function.domain_added.gff"
 genome_index_dir="/gscratch/srlab/sam/data/P_generosa/genomes"
-fastq_dir="/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq"
+fastq_dir="/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/"
 gtf_list="gtf_list.txt"
 
 ## Inititalize arrays
