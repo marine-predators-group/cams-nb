@@ -149,6 +149,14 @@ rsync -av "${genome_index_name}"*.ht2 "${genome_dir}"
 
 #### RESULTS
 
+This took a _shockingly_ short amount of time to complete: ~10mins!
+
+![Screencap of Hisat2 pgen_v074 runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190723_hisat2_build_pgen074_runtime.png?raw=true)
+
+Other Hisat indexing I've done with _Ostrea lurida_ and the Pgen_v070 assemblies all took ~1hr.
+
 Output folder:
 
-- []()
+- [20190723_hisat2-build_pgen_v074/](https://gannet.fish.washington.edu/Atumefaciens/20190723_hisat2-build_pgen_v074/)
+
+The Hisat2 index files are: `*.ht2`. These will be used with Stringtie for transcript isoform annotation.
