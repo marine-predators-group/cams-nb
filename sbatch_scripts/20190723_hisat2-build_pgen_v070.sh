@@ -34,7 +34,7 @@ printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
 
 
-threads=27
+threads=28
 genome_index_name="Pgenerosa_v070"
 
 # Paths to programs
@@ -45,7 +45,7 @@ hisat2_exons="${hisat2_dir}/hisat2_extract_exons.py"
 hisat2_splice_sites="${hisat2_dir}/hisat2_extract_splice_sites.py"
 
 # Input/output files
-fastq_dir=""
+fastq_dir="/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq"
 genome_dir="/gscratch/srlab/sam/data/P_generosa/genomes"
 
 genome_gff="${genome_dir}/Pgenerosa_v070_genome_snap02.all.renamed.putative_function.domain_added.gff"
