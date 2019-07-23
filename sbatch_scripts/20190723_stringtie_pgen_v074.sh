@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=oly_stringtie
+#SBATCH --job-name=pgen_v074_stringtie
 ## Allocation Definition
 #SBATCH --account=srlab
 #SBATCH --partition=srlab
