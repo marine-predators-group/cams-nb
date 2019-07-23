@@ -50,21 +50,21 @@ R1_list=""
 R2_list=""
 
 # Create array of fastq R1 files
-R1_array=(${reads_dir}/*_R1_*.gz)
+R1_array=("${reads_dir}"/*_R1_*.gz)
 
 # Create array of fastq R2 files
-R2_array=(${reads_dir}/*_R2_*.gz)
+R2_array=("${reads_dir}"/*_R2_*.gz)
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
-for fastq in ${reads_dir}/*.gz
+for fastq in "${reads_dir}"/*.gz
 do
   echo "${fastq##*/}" >> fastq.list.txt
 done
 
 # Create comma-separated lists of FastQ reads
-R1_list=$(echo ${R1_array[@]} | tr " " ",")
-R2_list=$(echo ${R2_array[@]} | tr " " ",")
+R1_list=$(echo "${R1_array[@]}" | tr " " ",")
+R2_list=$(echo "${R2_array[@]}" | tr " " ",")
 
 
 # Run Trinity
