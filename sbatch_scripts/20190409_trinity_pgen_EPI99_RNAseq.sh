@@ -32,7 +32,7 @@ printf "%0.s-" {1..10} >> system_path.log
 echo ${PATH} | tr : \\n >> system_path.log
 
 # User-defined variables
-reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/epi_115
+reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/epi_99
 threads=28
 assembly_stats=assembly_stats.txt
 
