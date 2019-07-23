@@ -10,7 +10,7 @@
 ## Walltime (days-hours:minutes:seconds format)
 #SBATCH --time=25-00:00:00
 ## Memory per node
-#SBATCH --mem=500G
+#SBATCH --mem=120G
 ##turn on e-mail notification
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
@@ -80,7 +80,7 @@ done
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
-for fastq in "${fastq_dir}"*.gz
+for fastq in "${fastq_dir}"/*.gz
 do
   echo "${fastq#${fastq_dir}}" >> fastq.list.txt
 done
