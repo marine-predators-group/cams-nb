@@ -29,7 +29,7 @@ echo "" >> system_path.log
 echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
-echo ${PATH} | tr : \\n >> system_path.log
+echo "${PATH}" | tr : \\n >> system_path.log
 
 # User-defined variables
 reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/epi_99
@@ -59,7 +59,7 @@ R2_array=(${reads_dir}/*_R2_*.gz)
 ## Uses parameter substitution to strip leading path from filename
 for fastq in ${reads_dir}/*.gz
 do
-  echo ${fastq##*/} >> fastq.list.txt
+  echo "${fastq##*/}" >> fastq.list.txt
 done
 
 # Create comma-separated lists of FastQ reads
@@ -74,9 +74,9 @@ ${trinity_dir}/Trinity \
 --max_memory 120G \
 --CPU ${threads} \
 --left \
-${R1_list} \
+"${R1_list}" \
 --right \
-${R2_list}
+"${R2_list}"
 
 # Assembly stats
 ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
