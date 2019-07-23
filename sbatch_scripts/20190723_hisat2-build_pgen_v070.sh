@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=oly_hisat2
+#SBATCH --job-name=pgen_v070_hisat2
 ## Allocation Definition
 #SBATCH --account=srlab
 #SBATCH --partition=srlab
