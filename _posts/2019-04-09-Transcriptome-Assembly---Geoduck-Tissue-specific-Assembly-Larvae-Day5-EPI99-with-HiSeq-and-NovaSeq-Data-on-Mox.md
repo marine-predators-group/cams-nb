@@ -127,6 +127,10 @@ trinity_out_dir/Trinity.fasta
 
 _NOTE:_ Re-ran this on 20190723 after I realized that I used the EPI 115 files instead of the EPI 99 files.
 
+Took ~14.75hrs to run:
+
+![Screencap of Trinity EPI99 runtime on Mox](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190723_trinity_epi99_runtime.png?raw=true)
+
 Output folder:
 
 - [](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI99_RNAseq/)
