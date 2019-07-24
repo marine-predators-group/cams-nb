@@ -58,10 +58,10 @@ echo "" >> system_path.log
 echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
-echo ${PATH} | tr : \\n >> system_path.log
+echo "${PATH}" | tr : \\n >> system_path.log
 
 # User-defined variables
-reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/epi_115
+reads_dir=/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/epi_99
 threads=28
 assembly_stats=assembly_stats.txt
 
@@ -79,21 +79,21 @@ R1_list=""
 R2_list=""
 
 # Create array of fastq R1 files
-R1_array=(${reads_dir}/*_R1_*.gz)
+R1_array=("${reads_dir}"/*_R1_*.gz)
 
 # Create array of fastq R2 files
-R2_array=(${reads_dir}/*_R2_*.gz)
+R2_array=("${reads_dir}"/*_R2_*.gz)
 
 # Create list of fastq files used in analysis
 ## Uses parameter substitution to strip leading path from filename
-for fastq in ${reads_dir}/*.gz
+for fastq in "${reads_dir}"/*.gz
 do
-  echo ${fastq##*/} >> fastq.list.txt
+  echo "${fastq##*/}" >> fastq.list.txt
 done
 
 # Create comma-separated lists of FastQ reads
-R1_list=$(echo ${R1_array[@]} | tr " " ",")
-R2_list=$(echo ${R2_array[@]} | tr " " ",")
+R1_list=$(echo "${R1_array[@]}" | tr " " ",")
+R2_list=$(echo "${R2_array[@]}" | tr " " ",")
 
 
 # Run Trinity
@@ -103,9 +103,9 @@ ${trinity_dir}/Trinity \
 --max_memory 120G \
 --CPU ${threads} \
 --left \
-${R1_list} \
+"${R1_list}" \
 --right \
-${R2_list}
+"${R2_list}"
 
 # Assembly stats
 ${trinity_dir}/util/TrinityStats.pl trinity_out_dir/Trinity.fasta \
@@ -189,20 +189,20 @@ List of input FastQs (text):
 - [20190409_trinity_pgen_EPI99_RNAseq/fastq.list.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI99_RNAseq/fastq.list.txt)
 
 ```
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-1_S4_L001_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-1_S4_L001_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-2_S12_L002_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-2_S12_L002_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-3_S20_L003_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-3_S20_L003_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-4_S28_L004_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-4_S28_L004_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-5_S36_L005_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-5_S36_L005_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-6_S44_L006_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-6_S44_L006_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-7_S52_L007_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-7_S52_L007_R2_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-8_S60_L008_R1_001.fastq.gz
-Geoduck-juvenile-OA-exposure-RNA-EPI-115-8_S60_L008_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-1_S4_L001_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-1_S4_L001_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-2_S12_L002_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-2_S12_L002_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-3_S20_L003_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-3_S20_L003_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-4_S28_L004_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-4_S28_L004_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-5_S36_L005_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-5_S36_L005_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-6_S44_L006_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-6_S44_L006_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-7_S52_L007_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-7_S52_L007_R2_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-8_S60_L008_R1_001.fastq.gz
+Geoduck-juvenile-OA-exposure-RNA-EPI-99-8_S60_L008_R2_001.fastq.gz
 ```
