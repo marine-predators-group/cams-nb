@@ -153,41 +153,46 @@ Assembly stats (text):
 - [20190409_trinity_pgen_EPI99_RNAseq/assembly_stats.txt](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI99_RNAseq/assembly_stats.txt)
 
 ```
+
+
 ################################
 ## Counts of transcripts, etc.
 ################################
-Total trinity 'genes':	199895
-Total trinity transcripts:	320086
-Percent GC: 36.50
+Total trinity 'genes':	249799
+Total trinity transcripts:	425165
+Percent GC: 36.64
 
 ########################################
 Stats based on ALL transcript contigs:
 ########################################
 
-	Contig N10: 5761
-	Contig N20: 3937
-	Contig N30: 2884
-	Contig N40: 2147
-	Contig N50: 1570
+	Contig N10: 4381
+	Contig N20: 2939
+	Contig N30: 2142
+	Contig N40: 1598
+	Contig N50: 1165
 
-	Median contig length: 411
-	Average contig: 840.04
-	Total assembled bases: 268886145
+	Median contig length: 381
+	Average contig: 710.84
+	Total assembled bases: 302222999
 
 
 #####################################################
 ## Stats based on ONLY LONGEST ISOFORM per 'GENE':
 #####################################################
 
-	Contig N10: 4348
-	Contig N20: 2819
-	Contig N30: 2006
-	Contig N40: 1439
-	Contig N50: 1005
+	Contig N10: 3444
+	Contig N20: 2179
+	Contig N30: 1492
+	Contig N40: 1022
+	Contig N50: 704
 
-	Median contig length: 339
-	Average contig: 641.35
-	Total assembled bases: 128203590
+	Median contig length: 311
+	Average contig: 539.32
+	Total assembled bases: 134721170
+
+
+
 ```
 
 List of input FastQs (text):
