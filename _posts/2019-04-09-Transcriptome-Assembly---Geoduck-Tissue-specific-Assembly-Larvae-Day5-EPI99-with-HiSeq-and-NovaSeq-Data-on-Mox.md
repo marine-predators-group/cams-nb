@@ -125,6 +125,8 @@ trinity_out_dir/Trinity.fasta
 
 #### RESULTS
 
+_NOTE:_ Re-ran this on 20190723 after I realized that I used the EPI 115 files instead of the EPI 99 files.
+
 Output folder:
 
 - [](http://gannet.fish.washington.edu/Atumefaciens/20190409_trinity_pgen_EPI99_RNAseq/)
