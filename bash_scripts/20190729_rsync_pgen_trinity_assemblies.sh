@@ -39,7 +39,7 @@ assemblies_array=(
 for index in "${!assemblies_array[@]}"
 do
   # Remove everything after first slash
-  assembly=$(echo "${assembly_dirs_array[index]%%/*}")
+  assembly=$(echo "${assemblies_array[index]%%/*}")
   if [ "${assembly}" = "20180827_trinity_geoduck_RNAseq" ]; then
     rsync \
     --archive \
