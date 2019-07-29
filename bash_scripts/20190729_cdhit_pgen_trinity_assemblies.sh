@@ -4,7 +4,8 @@
 # Script to retrieve geoduck Trinity assemblies
 # Assemblies will be used in SBATCH script called at end of this script.
 
-gannet="gannet:/volume2/web/Atumefaciens"
+# Set rsync remote path
+gannet="gannet:/volume2/web/Atumefaciens/"
 
 # Create array of directories for storing Trinity assemblies
 assembly_dirs_array=(
@@ -30,11 +31,11 @@ assemblies_array=(
 20190409_trinity_pgen_EPI124_RNAseq/trinity_out_dir/Trinity.fasta
 20190409_trinity_pgen_EPI99_RNAseq/trinity_out_dir/Trinity.fasta)
 
-
+# Retrieve FastA files via rsync
 for index in "${!assemblies_array[@]}"
 do
   rsync \
   --archive \
-  "${gannet}""${assemblies_array[index]} \
+  "${gannet}${assemblies_array[index]}" \
   "${assembly_dirs_array[index]}"
 done
