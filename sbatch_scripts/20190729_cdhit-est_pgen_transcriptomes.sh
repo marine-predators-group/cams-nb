@@ -63,18 +63,11 @@ do
   sample_name=$(echo "${assembly_dirs_array[index]##*/}")
   # Run cd-hit-est
   "${cd_hit_est}" \
-  # output file
   -o "${sample_name}".cdhit \
-  # sequence identitiy threshold
   -c 0.98 \
-  # input assembly
   -i "${assembly_dirs_array[index]}"/Trinity.fasta \
-  # print alignment overlap in .clstr file
   -p 1 \
-  # Use FastA defline for .clstr file names
   -d 0 \
-  # set band_width of alignment
   -b 3 \
-  # number of CPUs to use
   -T "${threads}"
 done
