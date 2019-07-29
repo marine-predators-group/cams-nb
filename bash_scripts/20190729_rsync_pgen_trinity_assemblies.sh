@@ -40,14 +40,19 @@ for index in "${!assemblies_array[@]}"
 do
   # Remove everything after first slash
   assembly=$(echo "${assemblies_array[index]%%/*}")
+  echo "Preparing to download ${assembly}..."
   if [ "${assembly}" = "20180827_trinity_geoduck_RNAseq" ]; then
+    echo "Now syncing ${assembly} to ${assembly_dirs_array[index]}"
     rsync \
     --archive \
+    --progress \
     "${owl}/${assemblies_array[index]}" \
     "${assembly_dirs_array[index]}"
   else
+  echo "Now syncing ${assembly} to ${assembly_dirs_array[index]}"
   rsync \
   --archive \
+  --progress \
   "${gannet}/${assemblies_array[index]}" \
   "${assembly_dirs_array[index]}"
   fi
