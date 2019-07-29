@@ -59,4 +59,4 @@ do
 done
 
 # Start SBATCH script to run CD-Hit on all transcriptome assemblies
-sbatch 20190729_cdhit_pgen_trinity_assemblies.sh
+sbatch 20190729_cdhit-est_pgen_transcriptomes.sh
