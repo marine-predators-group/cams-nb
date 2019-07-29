@@ -1,8 +1,10 @@
 #!/usr/bin/bash
 
-
 # Script to retrieve geoduck Trinity assemblies
 # Assemblies will be used in SBATCH script called at end of this script.
+
+# Exit if any command fails
+set -e
 
 # Set rsync remote path
 gannet="gannet:/volume2/web/Atumefaciens/"
