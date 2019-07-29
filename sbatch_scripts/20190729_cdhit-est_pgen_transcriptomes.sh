@@ -41,7 +41,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 threads=27
 
 # Program paths
-cd-hit-est="/gscratch/srlab/programs/cd-hit-v4.8.1-2019-0228/cd-hit-est"
+cd_hit_est="/gscratch/srlab/programs/cd-hit-v4.8.1-2019-0228/cd-hit-est"
 
 # Create assembly paths array
 assembly_dirs_array=(
@@ -62,7 +62,7 @@ do
   # everything up to and including the last slash in path
   sample_name=$(echo "${assembly_dirs_array[index]##*/}")
   # Run cd-hit-est
-  "${cd-hit-est}" \
+  "${cd_hit_est}" \
   # output file
   -o "${sample_name}".cdhit \
   # sequence identitiy threshold
