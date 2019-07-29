@@ -61,8 +61,9 @@ do
   # Store individual sample name by removing
   # everything up to and including the last slash in path
   sample_name=$(echo "${assembly_dirs_array[index]##*/}")
+  # Run cd-hit-est
   "${cd-hit-est}" \
-   # output file
+  # output file
   -o "${sample_name}".cdhit \
   # sequence identitiy threshold
   -c 0.98 \
