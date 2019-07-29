@@ -69,5 +69,6 @@ do
   -p 1 \
   -d 0 \
   -b 3 \
-  -T "${threads}"
+  -T "${threads}" \
+  -M 0
 done
