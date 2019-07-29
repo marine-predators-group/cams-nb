@@ -45,7 +45,7 @@ cd_hit_est="/gscratch/srlab/programs/cd-hit-v4.8.1-2019-0228/cd-hit-est"
 
 # Create assembly paths array
 assembly_dirs_array=(
-/gscratch/srlab/sam/data/P_generosa/transcriptomes/20190827_assembly
+/gscratch/srlab/sam/data/P_generosa/transcriptomes/20180827_assembly
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/ctenidia
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/gonad
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/heart
