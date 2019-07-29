@@ -2,6 +2,7 @@
 
 # Script to retrieve geoduck Trinity assemblies
 # Assemblies will be used in SBATCH script called at end of this script.
+# Script needs to be run within same directory as SBATCH script.
 
 # Exit if any command fails
 set -e
@@ -41,3 +42,6 @@ do
   "${gannet}${assemblies_array[index]}" \
   "${assembly_dirs_array[index]}"
 done
+
+# Start SBATCH script to run CD-Hit on all transcriptome assemblies
+sbatch 20190729_cdhit_pgen_trinity_assemblies.sh
