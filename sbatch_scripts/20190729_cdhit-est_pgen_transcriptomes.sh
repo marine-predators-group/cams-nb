@@ -54,3 +54,26 @@ assembly_dirs_array=(
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI123
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/juvenile/EPI124
 /gscratch/srlab/sam/data/P_generosa/transcriptomes/larvae/EPI99)
+
+# Run cd-hit-est on each assembly
+for index in "${!assembly_dirs_array[@]}"
+do
+  # Store individual sample name by removing
+  # everything up to and including the last slash in path
+  sample_name=$(echo "${assembly_dirs_array[index]##*/}")
+  "${cd-hit-est}" \
+   # output file
+  -o "${sample_name}".cdhit \
+  # sequence identitiy threshold
+  -c 0.98 \
+  # input assembly
+  -i "${assembly_dirs_array[index]}"/Trinity.fasta \
+  # print alignment overlap in .clstr file
+  -p 1 \
+  # Use FastA defline for .clstr file names
+  -d 0 \
+  # set band_width of alignment
+  -b 3 \
+  # number of CPUs to use
+  -T "${threads}"
+done
