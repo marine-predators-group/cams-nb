@@ -112,8 +112,12 @@ do
   -G "${genome_gff}" \
   -C "${sample_name}.cov_refs.gtf"
 
-# Add GTFs to list file
-  echo "${sample_name}.gtf" >> "${gtf_list}"
+# Add GTFs to list file, only if non-empty
+# Identifies GTF files that only have header
+  gtf_lines=$(wc -l < ${sample_name}.gtf )
+  if [ "${gtf_lines}" -gt 2 ]; then
+    echo "${sample_name}.gtf" >> "${gtf_list}"
+  fi
 done
 
 # Create singular transcript file, using GTF list file
