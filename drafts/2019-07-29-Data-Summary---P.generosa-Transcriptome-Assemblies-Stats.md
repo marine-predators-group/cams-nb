@@ -19,21 +19,17 @@ In our continuing quest to wrangle the geoduck transcriptome assemblies we have,
 - CD-Hit is a count of headers in the CD-Hit-est FastA output file.
 
 
-| Assembly           | Genes  | Isoforms | transdecoder_pep | CD-Hit |
+| Assembly           | Genes  | Isoforms | transdecoder_pep | [CD-Hit](https://robertslab.github.io/sams-notebook/2019/07/29/Transcriptome-Compression-P.generosa-Transcriptome-Assemblies-Using-CD-Hit-est-on-Mox.html) |
 |--------------------|--------|----------|------------------|--------|
-| ctenidia           | 216248 | 349773   | 72274            | 325783 |
-| gonad              | 151263 | 198748   | 31706            | 189378 |
-| Juvenile (EPI 115) | 199765 | 320691   | 78149            | 297848 |
-| Juvenile (EPI 116) | 268476 | 434877   | 99089            | 408498 |
-| Juvenile (EPI 123) | 196131 | 303568   | 67398            | 284852 |
-| Juvenile (EPI 124) | 255277 | 421670   | 93285            | 395527 |
-| Larvae (EPI 99)    | 249799 | 425165   | 77694            | 379210 |
+| ctenidia           | [216248(https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Ctenidia-with-HiSeq-and-NovaSeq-Data-on-Mox.html)] | [349773](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Ctenidia-with-HiSeq-and-NovaSeq-Data-on-Mox.html)   | [72274](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Ctenidia-with-Transdecoder-on-Mox.html)           | 325783 |
+| gonad              | [151263](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Gonad-HiSeq-and-NovaSeq-Data-on-Mox.html) | [198748](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Gonad-HiSeq-and-NovaSeq-Data-on-Mox.html)   | [31706](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Gonad-with-Transdecoder-on-Mox.html)            | 189378 |
+| Juvenile (EPI 115) | [199765](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI115-with-HiSeq-Data-on-Mox.html) | [320691](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI115-with-HiSeq-Data-on-Mox.html)   | [78149](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Super-Low-OA-EPI115-with-Transdecoder-on-Mox.html)            | 297848 |
+| Juvenile (EPI 116) | [268476](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI116-with-HiSeq-Data-on-Mox.html) | [434877](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI116-with-HiSeq-Data-on-Mox.html)   | [99089](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Super-Low-OA-EPI116-with-Transdecoder-on-Mox.html)            | 408498 |
+| Juvenile (EPI 123) | [196131](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI123-with-HiSeq-Data-on-Mox.html) | [303568](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI123-with-HiSeq-Data-on-Mox.html)   | [67398](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Ambient-OA-EPI123-with-Transdecoder-on-Mox.html)            | 284852 |
+| Juvenile (EPI 124) | [255277](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI124-with-HiSeq-and-NovaSeq-Data-on-Mox.html) | [421670](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI124-with-HiSeq-and-NovaSeq-Data-on-Mox.html)   | [93285](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Ambient-OA-EPI124-with-Transdecoder-on-Mox.html)            | 395527 |
+| Larvae (EPI 99)    | [249799](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Larvae-Day5-EPI99-with-HiSeq-and-NovaSeq-Data-on-Mox.html) | [425165](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Larvae-Day5-EPI99-with-HiSeq-and-NovaSeq-Data-on-Mox.html)   | [77694](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Larvae-Day5-EPI99-with-Transdecoder-on-Mox.html)            | 379210 |
 | MEANS              | 219566 | 350642   | 74228            | 325871 |
 
 ---
 
 #### RESULTS
-
-Output folder:
-
-- []()
