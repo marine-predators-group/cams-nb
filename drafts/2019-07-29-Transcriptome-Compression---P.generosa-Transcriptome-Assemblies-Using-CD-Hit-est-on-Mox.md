@@ -174,3 +174,36 @@ done
 Output folder:
 
 - [20190729_cdhit-est_pgen_transcriptomes/](https://gannet.fish.washington.edu/Atumefaciens/20190729_cdhit-est_pgen_transcriptomes/)
+
+The output from CD-Hit is a FastA file. A quick `grep -c ">"` on the output files suggests that there were many "transcripts" that couldn't be clustered together. That's confirmed when taking a look at the end of the .cdhit.clstr files. Here's an example (`tail -n 25 ctenidia.cdhit.clst`):
+
+```
+>Cluster 325771
+0	189nt, >TRINITY_DN58755_c0_g1_i5... *
+>Cluster 325772
+0	189nt, >TRINITY_DN25471_c0_g1_i8... *
+>Cluster 325773
+0	187nt, >TRINITY_DN7576_c0_g1_i14... *
+>Cluster 325774
+0	186nt, >TRINITY_DN26627_c0_g1_i8... *
+>Cluster 325775
+0	186nt, >TRINITY_DN41216_c0_g1_i3... *
+>Cluster 325776
+0	185nt, >TRINITY_DN34387_c0_g1_i1... *
+>Cluster 325777
+0	185nt, >TRINITY_DN6164_c1_g1_i10... *
+>Cluster 325778
+0	184nt, >TRINITY_DN7464_c1_g2_i3... *
+>Cluster 325779
+0	184nt, >TRINITY_DN2395_c0_g1_i1... *
+>Cluster 325780
+0	184nt, >TRINITY_DN557_c0_g1_i3... *
+>Cluster 325781
+0	182nt, >TRINITY_DN53036_c0_g1_i3... *
+>Cluster 325782
+0	180nt, >TRINITY_DN12928_c1_g1_i8... *
+```
+
+Each of these transcripts from the assembly are very short (<200bp) and they do not cluster with any other transcripts (likely due to their short length). So, these are retained as individual transcripts, Although I haven't taken the time to assess things, there are probably thousands (maybe more?) of these transcripts that are small and don't cluster.
+
+Anyway, I ran this to provide additional information on our transcriptome assemblies, not really to explore the results of CD-Hit in-depth. I'm putting together a summary post of our assemblies that will compile a variety of "stats"; hopefully providing some insight on a more realistic assessment of the number of transcripts present in the geoduck transcriptome.
