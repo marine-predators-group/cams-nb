@@ -171,6 +171,10 @@ done
 
 #### RESULTS
 
+This was quick (~30mins)!:
+
+![Screencap of CD-hit-est runtime on Mox for various geoduck transcriptome assemblies](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190729_cdhit_pgen_runtime.png?raw=true)
+
 Output folder:
 
 - [20190729_cdhit-est_pgen_transcriptomes/](https://gannet.fish.washington.edu/Atumefaciens/20190729_cdhit-est_pgen_transcriptomes/)
