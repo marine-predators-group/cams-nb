@@ -10,6 +10,14 @@ tags:
 categories:
   - Miscellaneous
 ---
+In our continuing quest to wrangle the geoduck transcriptome assemblies we have, I was tasked with compiling assembly stats for our various assemblies. The table below provides an overview of some stats for each of our assemblies. Links within the table go to the the notebook entries for the various methods from which the data was gathered. In general:
+
+- Genes/Isoforms stats come directly from the Trinity assembly stats output file.
+
+- transdecoder_pep is a count of headers in the Transdecoder FastA output file, `transdecoder_pep`.
+
+- CD-Hit is a count of headers in the CD-Hit-est FastA output file.
+
 
 | Assembly           | Genes  | Isoforms | transdecoder_pep | CD-Hit |
 |--------------------|--------|----------|------------------|--------|
