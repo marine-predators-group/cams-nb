@@ -191,6 +191,10 @@ rm ./*.sam
 
 #### RESULTS
 
+This took a bit more than one day to complete:
+
+![Screencap of Stringtie runtime for Pgenerosa_v070 on Mox](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190723_stringtie_pgen_v070_runtime.png?raw=true)
+
 Output folder:
 
-- []()
+- [20190723_stringtie_pgen_v070/](https://gannet.fish.washington.edu/Atumefaciens/20190723_stringtie_pgen_v070/)
