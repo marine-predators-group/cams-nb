@@ -33,3 +33,7 @@ In our continuing quest to wrangle the geoduck transcriptome assemblies we have,
 ---
 
 #### RESULTS
+
+From this brief summarization of various assembly stats, it seems like the Transdecoder numbers are probably the most "realistic", at least when it comes to the number of actual coding mRNAs present in the geoduck genome.
+
+It's also good to keep in mind that the [Pgenerosa_v070 MAKER annotation](https://robertslab.github.io/sams-notebook/2019/02/28/Genome-Annotation-Pgenerosa_v070-MAKER-on-Mox.html) identified 53,035 transcripts/proteins, while the [Pgenerosa_v074 annotation](https://robertslab.github.io/sams-notebook/2019/07/01/Genome-Annotation-Pgenerosa_v074-MAKER-on-Mox.html). These numbers from the MAKER annotations do _not_ take into account transcript isoforms...
