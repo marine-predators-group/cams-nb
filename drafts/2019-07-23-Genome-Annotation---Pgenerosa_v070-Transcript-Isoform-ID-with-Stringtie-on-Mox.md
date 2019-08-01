@@ -198,3 +198,11 @@ This took a bit more than one day to complete:
 Output folder:
 
 - [20190723_stringtie_pgen_v070/](https://gannet.fish.washington.edu/Atumefaciens/20190723_stringtie_pgen_v070/)
+
+Merged GTF:
+
+- [20190723_stringtie_pgen_v070/Pgenerosa_v070.stringtie.gtf](https://gannet.fish.washington.edu/Atumefaciens/20190723_stringtie_pgen_v070/Pgenerosa_v070.stringtie.gtf)
+
+Although I won't link them here, each input FastQ pair has a corresponding alignment file (BAM), coverage file (`.cov_refs.gtf`), Hisat2 alignment stats file (`_hisat2.err`), and GTF.
+
+Additionally, I'm not going to delve too much into the analysis of this. I'll write a separate notebook post that goes into more depth on how this data looks, how it compares to the Pgenerosa_v074 Stringtie data, and what this means for the annotation of Scaffold 1...
