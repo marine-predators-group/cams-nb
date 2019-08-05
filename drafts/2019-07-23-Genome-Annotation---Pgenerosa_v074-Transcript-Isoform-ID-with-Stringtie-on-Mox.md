@@ -193,6 +193,12 @@ rm ./*.sam
 
 #### RESULTS
 
+The process of getting this to run took longer than it should have. The job got interrupted by an unintended Mox shutdown and also failed a few times before I was able to figure out the problem. The failure was triggered by one sample that didn't end up having any transcripts present in the output GTF. When Stringtie encounters an empty GTF file, it not only spits out an error (indicating as such), but it also kills the program. I had to re-write part of the script to evaluate whether or not input GTFs for the Stringtie merge step had any content.
+
+Once it was running with this change, and didn't get interrupted by Mox problems, it took ~ one day:
+
+![Screencap of Pgenerosa_v074 Stringtie runtime on Mox](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190723_stringtie_pgen_v074_runtime.png?raw=true)
+
 Output folder:
 
 - []()
