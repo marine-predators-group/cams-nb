@@ -13,6 +13,50 @@ categories:
   - Geoduck Genome Sequencing
 ---
 
+This will perform the following:
+
+- one round of MAKER gene model predictions
+- two rounds of SNAP gene model training/predictions
+- renaming of gene models to NCBI-standardized convention
+- functional characterization of protein models (via BLASTp)
+- functional characterization of protein domains (via InterProScan5)
+
+Here are a list of the input files used for the various components of the MAKER annotation:
+
+
+#### Transcriptome FastA files (links to notebook entries):
+- [ctenidia](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Ctenidia-with-HiSeq-and-NovaSeq-Data-on-Mox.html)
+- [gonad](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Gonad-HiSeq-and-NovaSeq-Data-on-Mox.html)
+- [heart](https://robertslab.github.io/sams-notebook/2019/02/15/Transcriptome-Assembly-Geoduck-Tissue-Specific-Assembly-Heart.html)
+- [EPI99 (larvae)](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Larvae-Day5-EPI99-with-HiSeq-and-NovaSeq-Data-on-Mox.html)
+- [EPI115 (juvenile)](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI115-with-HiSeq-Data-on-Mox.html)
+- [EPI116 (juvenile)](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Super-Low-OA-EPI116-with-HiSeq-Data-on-Mox.html)
+- [EPI123 (juvenile)](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI123-with-HiSeq-Data-on-Mox.html)
+- [EPI124 (juvenile)](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Juvenile-Ambient-OA-EPI124-with-HiSeq-and-NovaSeq-Data-on-Mox.html)
+
+#### NCBI Protein FastA files
+- NCBI _Crassostrea gigas_ proteome (downloaded 20181119): `GCA_000297895.1_oyster_v9_protein.faa`
+
+- NCBI _Crassostrea virginica_ proteome (downloaded 20181119): `GCF_002022765.2_C_virginica-3.0_protein.faa`
+
+- SwissProt BLASTp database(downloaded 20190109): uniprot_sprot.fasta
+
+#### TransDecoder protein FastA files (links to notebook entries)
+- [singular proteome](https://robertslab.github.io/sams-notebook/2018/11/21/Annotation-Geoduck-Transcritpome-with-TransDecoder.html)
+- [ctenidia](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Ctenidia-with-Transdecoder-on-Mox.html)
+- [EPI99 (larvae)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Larvae-Day5-EPI99-with-Transdecoder-on-Mox.html)
+- [EPI115 (juvenile)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Super-Low-OA-EPI115-with-Transdecoder-on-Mox.html)
+- [EPI116 (juvenile)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Super-Low-OA-EPI116-with-Transdecoder-on-Mox.html)
+- [EPI123 (juvenile)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Ambient-OA-EPI123-with-Transdecoder-on-Mox.html)
+- [EPI124 (juvenile)](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Juvenile-Ambient-OA-EPI124-with-Transdecoder-on-Mox.html)
+- [gonad](https://robertslab.github.io/sams-notebook/2019/06/27/Transcriptome-Annotation-Geoduck-Gonad-with-Transdecoder-on-Mox.html)
+- [heart](https://robertslab.github.io/sams-notebook/2019/03/18/Transcriptome-Annotation-Geoduck-Heart-with-Transdecoder-on-Mox.html)
+
+#### Repeats Files
+- [RepeatModeler library](https://robertslab.github.io/sams-notebook/2019/06/26/RepeatModeler-Pgenerosa_v074-for-MAKER-Annotation-on-Emu.html)
+
+- [RepeatMasker GFF](https://robertslab.github.io/sams-notebook/2019/06/26/RepeatMasker-Pgenerosa_v074-for-Transposable-Element-ID-on-Roadrunner.html)
+
 
 SBATCH script (GitHub):
 
