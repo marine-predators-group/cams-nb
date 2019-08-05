@@ -50,6 +50,7 @@ export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20190109/
 wd=$(pwd)
 maker_dir=/gscratch/srlab/programs/maker-2.31.10/bin
 snap_dir=/gscratch/srlab/programs/maker-2.31.10/exe/snap
+base_name=20190805_Pgenerosa_v070
 
 ### Paths to Maker binaries
 
@@ -70,21 +71,21 @@ iprscan2gff3=${maker_dir}/iprscan2gff3
 
 blastp_dir=${wd}/blastp_annotation
 maker_blastp=${wd}/blastp_annotation/blastp.outfmt6
-maker_prot_fasta=${wd}/snap02/Pgenerosa_v070_snap02.all.maker.proteins.fasta
-maker_prot_fasta_renamed=${wd}/snap02/Pgenerosa_v070_snap02.all.maker.proteins.renamed.fasta
-maker_transcripts_fasta=${wd}/snap02/Pgenerosa_v070_snap02.all.maker.transcripts.fasta
-maker_transcripts_fasta_renamed=${wd}/snap02/Pgenerosa_v070_snap02.all.maker.transcripts.renamed.fasta
-snap02_gff=${wd}/snap02/Pgenerosa_v070_snap02.all.gff
-snap02_gff_renamed=${wd}/snap02/Pgenerosa_v070_snap02.all.renamed.gff
-put_func_gff=Pgenerosa_v070_genome_snap02.all.renamed.putative_function.gff
-put_func_prot=Pgenerosa_v070_genome_snap02.all.maker.proteins.renamed.putative_function.fasta
-put_func_trans=Pgenerosa_v070_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
-put_domain_gff=Pgenerosa_v070_genome_snap02.all.renamed.putative_function.domain_added.gff
+maker_prot_fasta=${wd}/snap02/${base_name}_snap02.all.maker.proteins.fasta
+maker_prot_fasta_renamed=${wd}/snap02/${base_name}_snap02.all.maker.proteins.renamed.fasta
+maker_transcripts_fasta=${wd}/snap02/${base_name}_snap02.all.maker.transcripts.fasta
+maker_transcripts_fasta_renamed=${wd}/snap02/${base_name}_snap02.all.maker.transcripts.renamed.fasta
+snap02_gff=${wd}/snap02/${base_name}_snap02.all.gff
+snap02_gff_renamed=${wd}/snap02/${base_name}_snap02.all.renamed.gff
+put_func_gff=${base_name}_genome_snap02.all.renamed.putative_function.gff
+put_func_prot=${base_name}_genome_snap02.all.maker.proteins.renamed.putative_function.fasta
+put_func_trans=${base_name}_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta
+put_domain_gff=${base_name}_genome_snap02.all.renamed.putative_function.domain_added.gff
 ips_dir=${wd}/interproscan_annotation
-ips_base=Pgenerosa_v070_maker_proteins_ips
-ips_name=Pgenerosa_v070_maker_proteins_ips.tsv
-id_map=${wd}/snap02/Pgenerosa_v070_genome.map
-ips_domains=Pgenerosa_v070_genome_snap02.all.renamed.visible_ips_domains.gff
+ips_base=${base_name}_maker_proteins_ips
+ips_name=${base_name}_maker_proteins_ips.tsv
+id_map=${wd}/snap02/${base_name}_genome.map
+ips_domains=${base_name}_genome_snap02.all.renamed.visible_ips_domains.gff
 
 ## Path to blastp
 blastp=/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin/blastp
@@ -202,30 +203,30 @@ fi
 mpiexec -n 56 $maker
 
 ## Merge gffs
-${gff3_merge} -d Pgenerosa_v070.maker.output/Pgenerosa_v070_master_datastore_index.log
+${gff3_merge} -d ${base_name}.maker.output/${base_name}_master_datastore_index.log
 
 ## GFF with no FastA in footer
-${gff3_merge} -n -s -d Pgenerosa_v070.maker.output/Pgenerosa_v070_master_datastore_index.log > Pgenerosa_v070.maker.all.noseqs.gff
+${gff3_merge} -n -s -d ${base_name}.maker.output/${base_name}_master_datastore_index.log > ${base_name}.maker.all.noseqs.gff
 
 ## Merge all FastAs
-${fasta_merge} -d Pgenerosa_v070.maker.output/Pgenerosa_v070_master_datastore_index.log
+${fasta_merge} -d ${base_name}.maker.output/${base_name}_master_datastore_index.log
 
 ## Extract GFF alignments for use in subsequent MAKER rounds
 ### Transcript alignments
-awk '{ if ($2 == "est2genome") print $0 }' Pgenerosa_v070.maker.all.noseqs.gff > Pgenerosa_v070.maker.all.noseqs.est2genome.gff
+awk '{ if ($2 == "est2genome") print $0 }' ${base_name}.maker.all.noseqs.gff > ${base_name}.maker.all.noseqs.est2genome.gff
 ### Protein alignments
-awk '{ if ($2 == "protein2genome") print $0 }' Pgenerosa_v070.maker.all.noseqs.gff > Pgenerosa_v070.maker.all.noseqs.protein2genome.gff
+awk '{ if ($2 == "protein2genome") print $0 }' ${base_name}.maker.all.noseqs.gff > ${base_name}.maker.all.noseqs.protein2genome.gff
 ### Repeat alignments
-awk '{ if ($2 ~ "repeat") print $0 }' Pgenerosa_v070.maker.all.noseqs.gff > Pgenerosa_v070.maker.all.noseqs.repeats.gff
+awk '{ if ($2 ~ "repeat") print $0 }' ${base_name}.maker.all.noseqs.gff > ${base_name}.maker.all.noseqs.repeats.gff
 
 ## Run SNAP training, round 1
 cd "${wd}"
 cd snap01
-${maker2zff} ../Pgenerosa_v070.all.gff
+${maker2zff} ../${base_name}.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
 ${forge} export.ann export.dna
-${hmmassembler} genome . > Pgenerosa_v070_snap01.hmm
+${hmmassembler} genome . > ${base_name}_snap01.hmm
 
 ## Initiate second Maker run.
 ### Copy initial maker control files and
@@ -269,31 +270,31 @@ if [ ! -e maker_opts.ctl ]; then
   # Set RepeatModeler library to use
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
 
-  sed -i "/^est_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.repeats.gff %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %Pgenerosa_v070_snap01.hmm %" maker_opts.ctl
+  sed -i "/^est_gff=/ s% %../${base_name}.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
+  sed -i "/^protein_gff=/ s% %../${base_name}.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
+  sed -i "/^rm_gff=/ s% %../${base_name}.maker.all.noseqs.repeats.gff %" maker_opts.ctl
+  sed -i "/^snaphmm=/ s% %${base_name}_snap01.hmm %" maker_opts.ctl
 fi
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
 mpiexec -n 56 $maker \
--base Pgenerosa_v070_snap01
+-base ${base_name}_snap01
 
 ## Merge gffs
-${gff3_merge} -d Pgenerosa_v070_snap01.maker.output/Pgenerosa_v070_snap01_master_datastore_index.log
+${gff3_merge} -d ${base_name}_snap01.maker.output/${base_name}_snap01_master_datastore_index.log
 
 ## GFF with no FastA in footer
-${gff3_merge} -n -s -d Pgenerosa_v070_snap01.maker.output/Pgenerosa_v070_snap01_master_datastore_index.log > Pgenerosa_v070_snap01.maker.all.noseqs.gff
+${gff3_merge} -n -s -d ${base_name}_snap01.maker.output/${base_name}_snap01_master_datastore_index.log > ${base_name}_snap01.maker.all.noseqs.gff
 
 ## Run SNAP training, round 2
 cd "${wd}"
 cd snap02
-${maker2zff} ../snap01/Pgenerosa_v070_snap01.all.gff
+${maker2zff} ../snap01/${base_name}_snap01.all.gff
 ${fathom} -categorize 1000 genome.ann genome.dna
 ${fathom} -export 1000 -plus uni.ann uni.dna
 ${forge} export.ann export.dna
-${hmmassembler} genome . > Pgenerosa_v070_snap02.hmm
+${hmmassembler} genome . > ${base_name}_snap02.hmm
 
 ## Initiate third and final Maker run.
 
@@ -332,27 +333,27 @@ if [ ! -e maker_opts.ctl ]; then
   # Set RepeatModeler library to use
   sed -i "/^rmlib=/ s% %$repeat_library %" "$maker_opts_file"
 
-  sed -i "/^est_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
-  sed -i "/^protein_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
-  sed -i "/^rm_gff=/ s% %../Pgenerosa_v070.maker.all.noseqs.repeats.gff %" maker_opts.ctl
-  sed -i "/^snaphmm=/ s% %Pgenerosa_v070_snap02.hmm %" maker_opts.ctl
+  sed -i "/^est_gff=/ s% %../${base_name}.maker.all.noseqs.est2genome.gff %" maker_opts.ctl
+  sed -i "/^protein_gff=/ s% %../${base_name}.maker.all.noseqs.protein2genome.gff %" maker_opts.ctl
+  sed -i "/^rm_gff=/ s% %../${base_name}.maker.all.noseqs.repeats.gff %" maker_opts.ctl
+  sed -i "/^snaphmm=/ s% %${base_name}_snap02.hmm %" maker_opts.ctl
 fi
 
 ## Run Maker
 ### Set basename of files and specify number of CPUs to use
 mpiexec -n 56 $maker \
--base Pgenerosa_v070_snap02
+-base ${base_name}_snap02
 
 ## Merge gffs
 ${gff3_merge} \
--d Pgenerosa_v070_snap02.maker.output/Pgenerosa_v070_snap02_master_datastore_index.log
+-d ${base_name}_snap02.maker.output/${base_name}_snap02_master_datastore_index.log
 
 ## GFF with no FastA in footer
-${gff3_merge} -n -s -d Pgenerosa_v070_snap02.maker.output/Pgenerosa_v070_snap02_master_datastore_index.log > Pgenerosa_v070_snap02.maker.all.noseqs.gff
+${gff3_merge} -n -s -d ${base_name}_snap02.maker.output/${base_name}_snap02_master_datastore_index.log > ${base_name}_snap02.maker.all.noseqs.gff
 
 ## Merge FastAs
 ${fasta_merge} \
--d Pgenerosa_v070_snap02.maker.output/Pgenerosa_v070_snap02_master_datastore_index.log
+-d ${base_name}_snap02.maker.output/${base_name}_snap02_master_datastore_index.log
 
 # Create copies of files for mapping
 cp "${maker_prot_fasta}" "${maker_prot_fasta_renamed}"
