@@ -42,7 +42,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 
 # Add BLAST to system PATH
 export PATH=$PATH:/gscratch/srlab/programs/ncbi-blast-2.6.0+/bin
-export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20181008/
+export BLASTDB=/gscratch/srlab/blastdbs/UniProtKB_20190109/
 
 
 ## Establish variables for more readable code
