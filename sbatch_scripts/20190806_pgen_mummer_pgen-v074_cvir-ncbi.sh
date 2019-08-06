@@ -46,6 +46,7 @@ threads=28
 
 # Filename prefix
 prefix="pgen-v074_cvir-ncbi"
+pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
 nucmer="/gscratch/srlab/programs/mummer-4.0.0beta2/nucmer"
@@ -68,6 +69,12 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 # Parse nucmer delta output into more userfriendly format
 # -q option sorts by query
 "${show_coords}" \
+-b \
+-c \
 -q \
 "${prefix}".delta \
 > "${prefix}".coords.txt
+
+# Parse out PGA_scaffold1__77_contigs__length_89643857
+head -n 5 "${prefix}".coords.txt > "${pga1_coords}"
+grep "PGA_scaffold1__77_contigs__length_89643857" >> "${pga1_coords}"
