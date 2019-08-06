@@ -67,6 +67,8 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 "${pgen_v074_fasta}"
 
 # Parse nucmer delta output into more userfriendly format
+# -b useful for syteny - merges overlapping alignments
+# -c show percent coverage info
 # -q option sorts by query
 "${show_coords}" \
 -b \
