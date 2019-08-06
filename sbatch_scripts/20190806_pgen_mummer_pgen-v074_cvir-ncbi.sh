@@ -39,3 +39,21 @@ echo "System PATH for $SLURM_JOB_ID" >> system_path.log
 echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
+
+### Set variables
+# CPUs to use
+threads=28
+
+# Filename prefix
+prefix="pgen-v074_cvir-ncbi"
+
+# Program paths
+nucmer="/gscratch/srlab/programs/mummer-4.0.0beta2/nucmer"
+
+# C.virginica NCBI FastA
+cvir_fasta="/gscratch/srlab/sam/data/C_virginica/genomes/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fa"
+
+# P.generosa Pgenerosa_v074 FastA
+pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
+
+### Run MUMmer (nucmer)
