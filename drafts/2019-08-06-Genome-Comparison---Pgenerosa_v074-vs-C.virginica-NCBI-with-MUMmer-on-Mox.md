@@ -107,6 +107,10 @@ grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${p
 
 #### RESULTS
 
+This is _super_ quick (~3.5 mins)!
+
+![pgen-v074 vs cvir-ncbi MUMmer runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190806_mummer_pgen-074_cvir-ncbi_runtime.png?raw=true)
+
 Output folder:
 
 - [20190806_pgen_mummer_pgen-v074_cvir-ncbi/](https://gannet.fish.washington.edu/Atumefaciens/20190806_pgen_mummer_pgen-v074_cvir-ncbi)
