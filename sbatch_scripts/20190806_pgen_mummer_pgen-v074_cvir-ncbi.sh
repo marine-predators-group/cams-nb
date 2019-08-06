@@ -57,3 +57,9 @@ cvir_fasta="/gscratch/srlab/sam/data/C_virginica/genomes/GCF_002022765.2_C_virgi
 pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 
 ### Run MUMmer (nucmer)
+# Compares pgen_v074 (query) to cvir-ncbi (reference)
+"${nucmer}" \
+"${cvir_fasta}" \
+"${pgen_v074_fasta}" \
+--prefix="${prefix}" \
+--threads="${threads}"
