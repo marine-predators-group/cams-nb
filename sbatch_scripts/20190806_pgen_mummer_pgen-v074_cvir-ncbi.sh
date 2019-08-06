@@ -79,4 +79,4 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 
 # Parse out PGA_scaffold1__77_contigs__length_89643857
 head -n 5 "${prefix}".coords.txt > "${pga1_coords}"
-grep "PGA_scaffold1__77_contigs__length_89643857" >> "${pga1_coords}"
+grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${pga1_coords}"
