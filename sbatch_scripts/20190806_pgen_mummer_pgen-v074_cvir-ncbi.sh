@@ -49,6 +49,7 @@ prefix="pgen-v074_cvir-ncbi"
 
 # Program paths
 nucmer="/gscratch/srlab/programs/mummer-4.0.0beta2/nucmer"
+show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
 
 # C.virginica NCBI FastA
 cvir_fasta="/gscratch/srlab/sam/data/C_virginica/genomes/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fa"
@@ -63,3 +64,10 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 --threads="${threads}" \
 "${cvir_fasta}" \
 "${pgen_v074_fasta}"
+
+# Parse nucmer delta output into more userfriendly format
+# -q option sorts by query
+"${show_coords}" \
+-q \
+"${prefix}".delta \
+> "${prefix}".coords.txt
