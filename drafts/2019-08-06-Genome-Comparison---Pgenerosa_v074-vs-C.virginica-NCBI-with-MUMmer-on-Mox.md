@@ -22,12 +22,12 @@ Query:
 
 - [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
 
-Reference genome:
+Reference genome (_Crassostrea virginica_ - Eastern oyster):
 
 - [GCF_002022765.2_C_virginica-3.0_genomic.fa](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz) (NCBI)
 
 
-This was run using MUMmer v4 on Mox using the SBATCh script below.
+This was run using MUMmer v4 on Mox using the SBATCH script below.
 
 SBATCH script (GitHub):
 
