@@ -22,12 +22,12 @@ Query:
 
 - [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
 
-Reference genome:
+Reference genome (_Crassostrea gigas_ - Pacific oyster):
 
 - [GCrassostrea_gigas.oyster_v9.dna_sm.toplevel.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa) (NCBI via our [Genomics Resources wiki](http://owl.fish.washington.edu/halfshell/genomic-databank/))
 
 
-This was run using MUMmer v4 on Mox using the SBATCh script below.
+This was run using MUMmer v4 on Mox using the SBATCH script below.
 
 SBATCH script (GitHub):
 
@@ -122,7 +122,7 @@ grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${p
 
 #### RESULTS
 
-This was took a bit over an hour. Signifcantly longer than the C.virginica comparison (which took only 3 mins!).
+This was took a bit over an hour. Significantly longer than the _C.virginica_ comparison (which took only 3 mins!).
 
 ![pgen-v074 vs cgig-ncbi MUMmer runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190807_mummer_pgen-074_cgig-ncbi_runtime.png?raw=true)
 
