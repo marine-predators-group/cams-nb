@@ -52,14 +52,14 @@ pga1_coords="PGA_scaffold1.coords.txt"
 nucmer="/gscratch/srlab/programs/mummer-4.0.0beta2/nucmer"
 show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
 
-# C.virginica NCBI FastA
+# C.gigas NCBI FastA
 cgig_fasta="/gscratch/srlab/sam/data/C_gigas/genomes/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa"
 
 # P.generosa Pgenerosa_v074 FastA
 pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 
 ### Run MUMmer (nucmer)
-# Compares pgen_v074 (query) to cvir-ncbi (reference)
+# Compares pgen_v074 (query) to cgig-ncbi (reference)
 "${nucmer}" \
 --prefix="${prefix}" \
 --threads="${threads}" \
