@@ -1,24 +1,3 @@
----
-layout: post
-title: Genome Comparison - Pgenerosa_v074 vs C.virginica NCBI with MUMmer on Mox
-date: '2019-08-06 13:57'
-tags:
-  - Panopea generosa
-  - geoduk
-  - Crassostrea virginica
-  - Eastern oyster
-  - MUMmer
-  - mox
-categories:
-  - Miscellaneous
----
-
-
-SBATCH script (GitHub):
-
-- [20190806_pgen_mummer_pgen-v074_cvir-ncbi.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190806_pgen_mummer_pgen-v074_cvir-ncbi.sh)
-
-```shell
 #!/bin/bash
 ## Job Name
 #SBATCH --job-name=mummer_pgen074
@@ -101,16 +80,3 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 # Parse out PGA_scaffold1__77_contigs__length_89643857
 head -n 5 "${prefix}".coords.txt > "${pga1_coords}"
 grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${pga1_coords}"
-```
-
----
-
-#### RESULTS
-
-This is _super_ quick (~3.5 mins)!
-
-![pgen-v074 vs cvir-ncbi MUMmer runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190806_mummer_pgen-074_cvir-ncbi_runtime.png?raw=true)
-
-Output folder:
-
-- [20190806_pgen_mummer_pgen-v074_cvir-ncbi/](https://gannet.fish.washington.edu/Atumefaciens/20190806_pgen_mummer_pgen-v074_cvir-ncbi)
