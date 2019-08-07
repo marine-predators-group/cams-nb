@@ -24,7 +24,7 @@ Query:
 
 - [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
 
-Reference genome(Mizuhopecten yessoensis - Yesso scallop):
+Reference genome (_Mizuhopecten yessoensis_ - Yesso scallop):
 
 - [GCA_002113885.2_ASM211388v2_genomic.fna](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/113/885/GCA_002113885.2_ASM211388v2/GCA_002113885.2_ASM211388v2_genomic.fna.gz) (NCBI)
 
