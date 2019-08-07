@@ -134,6 +134,8 @@ MUMmer delta file (text):
 
 - [20190806_pgen_mummer_pgen-v074_cvir-ncbi/pgen-v074_cvir-ncbi.delta](https://gannet.fish.washington.edu/Atumefaciens/20190806_pgen_mummer_pgen-v074_cvir-ncbi/pgen-v074_cvir-ncbi.delta)
 
+Delta file format is explained here: [http://mummer.sourceforge.net/manual/#nucmeroutput](http://mummer.sourceforge.net/manual/#nucmeroutput)
+
 MUMmer coordinates file (text):
 
 - [20190806_pgen_mummer_pgen-v074_cvir-ncbi/pgen-v074_cvir-ncbi.coords.txt](https://gannet.fish.washington.edu/Atumefaciens/20190806_pgen_mummer_pgen-v074_cvir-ncbi/pgen-v074_cvir-ncbi.coords.txt)
