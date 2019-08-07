@@ -12,7 +12,19 @@ tags:
 categories:
   - Miscellaneous
 ---
+In continuing to further improve our geoduck genome annotation, I'm attempting to figure out why [Scaffold 1 of our assembly doesn't have any annotations](https://github.com/RobertsLab/resources/issues/721). As part of that I've decided to perform a series of genome comparisons and see how they match up, with an emphasis on Scaffold 1, using [MUMmer (v4)](https://github.com/mummer4/mummer) (specifically, `nucmer` for nucleotide comparisons). This software is specifically designed to do this type of comparison.
 
+Basically, MUMmer will take a query genome assembly (Pgenerosa_v074 in this case), align it to a reference genome, and determine contig similarities/differences. So, this should provide further insight on what is happening in Pgenerosa_v074 Scaffold 1, when compared to related (or different) species' genomes.
+
+INPUT FILES:
+
+Query:
+
+- [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
+
+Reference genome:
+
+- [GCF_002022765.2_C_virginica-3.0_genomic.fa](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz) (NCBI)
 
 SBATCH script (GitHub):
 
