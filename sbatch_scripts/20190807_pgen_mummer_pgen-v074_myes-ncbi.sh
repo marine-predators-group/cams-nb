@@ -53,8 +53,7 @@ nucmer="/gscratch/srlab/programs/mummer-4.0.0beta2/nucmer"
 show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
 
 # M.yessoensis NCBI FastA
-myes_fasta="/gscratch/srlab/sam/data/M_yessoensis/genomes/
-GCA_002113885.2_ASM211388v2_genomic.fna"
+myes_fasta="/gscratch/srlab/sam/data/M_yessoensis/genomes/GCA_002113885.2_ASM211388v2_genomic.fna"
 
 # P.generosa Pgenerosa_v074 FastA
 pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
