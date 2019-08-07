@@ -141,3 +141,34 @@ MUMmer coordinates file (text):
 MUMmer PGA_scaffold1 coordinates file (text):
 
 - [20190806_pgen_mummer_pgen-v074_cvir-ncbi/PGA_scaffold1.coords.txt](https://gannet.fish.washington.edu/Atumefaciens/20190806_pgen_mummer_pgen-v074_cvir-ncbi/PGA_scaffold1.coords.txt)
+
+
+The coordinates files have a header like this:
+
+| [S1]  |   [E1] | [S2]  |   [E2] | [LEN 1] | [LEN 2] | [COV R] | [COV Q] | [TAGS] |
+|-------|--------|-------|--------|---------|---------|---------|---------|--------|
+
+The column labels represent the following:
+
+```
+[S1]    Start of the alignment region in the reference sequence.
+
+[E1]    End of the alignment region in the reference sequence.
+
+[S2]    Start of the alignment region in the query sequence.
+
+[E2]    End of the alignment region in the query sequence.
+
+[LEN 1] Length of the alignment region in the reference sequence,
+    measured in nucleotides.
+
+[LEN 2] Length of the alignment region in the query sequence, measured in nucleotides.
+
+[LEN R] Length of the reference sequence.
+
+[LEN Q] Length of the query sequence.
+
+[COV R] Percent coverage of the alignment on the reference sequence, calculated as [LEN 1] / [LEN R].
+
+[COV Q] Percent coverage of the alignment on the query sequence, calculated as [LEN 2] / [LEN Q].
+```
