@@ -24,13 +24,13 @@ Query:
 
 - [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa)
 
-Reference genome:
+Reference genome (_Homo sapiens_ - humans):
 
 - [GCA_000001405.28_GRCh38.p13_genomic.fna.gz](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.28_GRCh38.p13/GCA_000001405.28_GRCh38.p13_genomic.fna.gz
 ) (NCBI)
 
 
-This was run using MUMmer v4 on Mox using the SBATCh script below.
+This was run using MUMmer v4 on Mox using the SBATCH script below.
 
 SBATCH script (GitHub):
 
