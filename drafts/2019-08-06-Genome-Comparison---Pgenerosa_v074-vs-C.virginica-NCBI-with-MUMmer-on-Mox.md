@@ -26,6 +26,9 @@ Reference genome:
 
 - [GCF_002022765.2_C_virginica-3.0_genomic.fa](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz) (NCBI)
 
+
+This was run using MUMmer v4 on Mox using the SBATCh script below.
+
 SBATCH script (GitHub):
 
 - [20190806_pgen_mummer_pgen-v074_cvir-ncbi.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190806_pgen_mummer_pgen-v074_cvir-ncbi.sh)
