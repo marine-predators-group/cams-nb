@@ -38,22 +38,22 @@ Cycling params:
 
 
 
-    
+
   * 95C – 2.5mins
 
-    
+
   * 40 cycles of:
 
-    
+
     * 95C – 10s
 
-    
+
     * 60C – 20s
 
 
 
 
-    
+
   * Melt curve
 
 
@@ -62,12 +62,17 @@ Master mix calcs are here: [201500806_qPCR_Oly_DNased_RNA](https://docs.google.c
 
 qPCR Plate Layout: [20150806_qPCR_plate_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1m0Iz6TNFUOQsDPKaPUjn5Ap2lQRlemajBg8QlWkiVp4/edit?usp=sharing)
 
+---
 
 
-Results:
+RESULTS:
 
-qPCR Data File (Opticon): [20150806_165044.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20150806_165044.tad)
-qPCR Report (Google Spreadsheet): [20150806_qPCR_Report_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1Dx4Xmc2DAqd2UBoh_7dSAfmLK0Sk6pc1K8XNVxzJoFM/edit?usp=sharing)
+qPCR Data File (Opticon):
+
+- [20150806_165044.tad](https://eagle.fish.washington.edu/Arabidopsis/qPCR/Opticon/20150806_165044.tad)
+
+qPCR Report (Google Spreadsheet):
+- [20150806_qPCR_Report_Jake_Oly_DNased_RNA](https://docs.google.com/spreadsheets/d/1Dx4Xmc2DAqd2UBoh_7dSAfmLK0Sk6pc1K8XNVxzJoFM/edit?usp=sharing)
 
 Positive control comes up around cycle ~21.
 
@@ -85,11 +90,11 @@ Two wells of the DNased RNA samples exhibit amplification (E3, F6), however the 
 
 Positive Controls
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsAmp.JPG)
 
 
 
-
+---
 
 ### Melt Curves
 
@@ -103,23 +108,10 @@ Positive Controls
 
 
 
-#### ![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)
+#### ![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_PosControlsMelt.JPG)
 
 
-
-
-
-#### 
-
-
-
-
-
-#### 
-
-
-
-
+---
 
 #### DNased RNA Samples
 
@@ -127,4 +119,4 @@ Positive Controls
 
 Follow the green and red lines with the vertical bars. The different colors reflect that those are two different samples. Additionally, their respective replicates do not exhibit amplification.
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)(http://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)
+![](https://eagle.fish.washington.edu/Arabidopsis/20150806_qPCR_Oly_mech_stress_DNAsedRNA_Melt.JPG)
