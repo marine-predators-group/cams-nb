@@ -29,6 +29,8 @@ All of it is detailed in this Jupyter Notebook (GitHub):
 
 This took ~4 days to run - longer than I expected.
 
+Will use the GFF in subsequent MAKER annotation.
+
 Output folder:
 
 - [20190805_Pgenerosa_v070_repeatmasker_all/](https://gannet.fish.washington.edu/Atumefaciens/20190805_Pgenerosa_v070_repeatmasker_all/)
