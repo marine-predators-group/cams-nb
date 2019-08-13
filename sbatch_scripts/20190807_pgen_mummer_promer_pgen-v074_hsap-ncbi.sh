@@ -2,8 +2,8 @@
 ## Job Name
 #SBATCH --job-name=promer_pgen074_vs_hsap-ncbi
 ## Allocation Definition
-#SBATCH --account=coenv
-#SBATCH --partition=coenv
+#SBATCH --account=srlab
+#SBATCH --partition=srlab
 ## Resources
 ## Nodes
 #SBATCH --nodes=1
