@@ -43,7 +43,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 ### Set variables
 
 # Filename prefix
-prefix="pgen-v074_cvir-ncbi"
+prefix="pgen-v074_cgig-ncbi"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
