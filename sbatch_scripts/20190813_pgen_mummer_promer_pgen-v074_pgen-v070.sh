@@ -60,7 +60,7 @@ pgen_v074_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v074.fa"
 # Compares pgen_v074 (query) to pgen_v070 (reference)
 "${promer}" \
 -p "${prefix}" \
-"${pgen_fasta}" \
+"${pgen_v070_fasta}" \
 "${pgen_v074_fasta}"
 
 # Parse promer delta output into more userfriendly format
