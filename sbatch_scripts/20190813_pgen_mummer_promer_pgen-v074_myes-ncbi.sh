@@ -15,7 +15,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190807_pgen_mummer_promer_pgen-v074_myes-ncbi
+#SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190813_pgen_mummer_promer_pgen-v074_myes-ncbi
 
 # Exit if any command fails
 set -e
