@@ -47,8 +47,8 @@ prefix="pgen-v074_cgig-ncbi"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
-promer="/gscratch/srlab/programs/mummer-4.0.0beta2/promer"
-show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
+promer="/gscratch/srlab/programs/MUMmer3.23/promer"
+show_coords="/gscratch/srlab/programs/MUMmer3.23/show-coords"
 
 # C.gigas NCBI FastA
 cgig_fasta="/gscratch/srlab/sam/data/C_gigas/genomes/Crassostrea_gigas.oyster_v9.dna_sm.toplevel.fa"

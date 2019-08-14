@@ -47,8 +47,8 @@ prefix="pgen-v074_cvir-ncbi"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
-promer="/gscratch/srlab/programs/mummer-4.0.0beta2/promer"
-show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
+promer="/gscratch/srlab/programs/MUMmer3.23/promer"
+show_coords="/gscratch/srlab/programs/MUMmer3.23/show-coords"
 
 # C.virginica NCBI FastA
 cvir_fasta="/gscratch/srlab/sam/data/C_virginica/genomes/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fa"

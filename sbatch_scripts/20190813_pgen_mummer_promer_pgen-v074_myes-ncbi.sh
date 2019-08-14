@@ -47,8 +47,8 @@ prefix="pgen-v074_myes-ncbi"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
-promer="/gscratch/srlab/programs/mummer-4.0.0beta2/promer"
-show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
+promer="/gscratch/srlab/programs/MUMmer3.23/promer"
+show_coords="/gscratch/srlab/programs/MUMmer3.23/show-coords"
 
 # M.yessoensis NCBI FastA
 myes_fasta="/gscratch/srlab/sam/data/M_yessoensis/genomes/GCA_002113885.2_ASM211388v2_genomic.fna"

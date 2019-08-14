@@ -47,8 +47,8 @@ prefix="pgen-v074_sglo-ncbi"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
-promer="/gscratch/srlab/programs/mummer-4.0.0beta2/promer"
-show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
+promer="/gscratch/srlab/programs/MUMmer3.23/promer"
+show_coords="/gscratch/srlab/programs/MUMmer3.23/show-coords"
 
 # M.glomerata NCBI FastA
 sglo_fasta="/gscratch/srlab/sam/data/S_glomerata/genomes/GCA_003671525.1_Sgl1.0_genomic.fna"

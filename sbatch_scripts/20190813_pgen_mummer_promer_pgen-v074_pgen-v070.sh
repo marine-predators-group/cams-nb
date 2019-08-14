@@ -47,8 +47,8 @@ prefix="pgen-v074_pgen-v074"
 pga1_coords="PGA_scaffold1.coords.txt"
 
 # Program paths
-promer="/gscratch/srlab/programs/mummer-4.0.0beta2/promer"
-show_coords="/gscratch/srlab/programs/mummer-4.0.0beta2/show-coords"
+promer="/gscratch/srlab/programs/MUMmer3.23/promer"
+show_coords="/gscratch/srlab/programs/MUMmer3.23/show-coords"
 
 # P.generosa Pgenerosa_v070 FastA
 pgen_v070_fasta="/gscratch/srlab/sam/data/P_generosa/genomes/Pgenerosa_v070.fa"
