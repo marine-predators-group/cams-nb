@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=promer_pgen074
+#SBATCH --job-name=promer_pgen074_cvir-ncbi
 ## Allocation Definition
 #SBATCH --account=coenv
 #SBATCH --partition=coenv
