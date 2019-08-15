@@ -124,7 +124,7 @@ grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${p
 
 #### RESULTS
 
-This only took 16mins. Significantly shorter than _C.gigas_ comparison.
+This took ~3.5hrs.
 
 ![pgen-v074 vs hsap-ncbi MUMmer runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190807_mummer_pgen-074_hsap-ncbi_runtime.png?raw=true)
 
