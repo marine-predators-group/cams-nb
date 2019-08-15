@@ -137,7 +137,7 @@ grep "PGA_scaffold1__77_contigs__length_89643857" "${prefix}".coords.txt >> "${p
 
 #### RESULTS
 
-This took a bit over a 2hrs:
+This took ~3.5hrs.:
 
 ![pgen-v074 vs hsap-ncbi MUMmer promer runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190813_mummer_promer_pgen-074_hsap-ncbi_runtime.png?raw=true)
 
