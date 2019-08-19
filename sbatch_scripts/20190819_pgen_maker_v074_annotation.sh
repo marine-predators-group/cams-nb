@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Job Name
-#SBATCH --job-name=maker
+#SBATCH --job-name=maker_pgen074
 ## Allocation Definition
 #SBATCH --account=srlab
 #SBATCH --partition=srlab
@@ -8,14 +8,14 @@
 ## Nodes
 #SBATCH --nodes=2
 ## Walltime (days-hours:minutes:seconds format)
-#SBATCH --time=25-00:00:00
+#SBATCH --time=30-00:00:00
 ## Memory per node
 #SBATCH --mem=120G
 ##turn on e-mail notification
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --workdir=/gscratch/scrubbed/samwhite/outputs/20190819_pgen_maker_v074_annotation
+#SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190819_pgen_maker_v074_annotation
 
 # Exit if any command fails
 set -e
