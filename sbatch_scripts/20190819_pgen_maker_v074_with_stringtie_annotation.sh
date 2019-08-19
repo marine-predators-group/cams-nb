@@ -167,12 +167,15 @@ if [ ! -e maker_opts.ctl ]; then
   ${EPI115_transcriptome},\
   ${EPI116_transcriptome},\
   ${EPI123_transcriptome},\
-  ${EPI124_transcriptome} %" \
+  ${EPI124_transcriptome} \
+	%" \
   "$maker_opts_file"
 
 	# Set transcipt GFFs to use
 	sed -i "est_gff=/ s% %\
-	${stringtie_gff}"
+	${stringtie_gff} \
+  %" \
+	"$maker_opts_file"
 
   # Set proteomes to use
   sed -i "/^protein=/ s% %\
