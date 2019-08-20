@@ -16,19 +16,19 @@ promer_delta_rsync="/volume2/web/Atumefaciens/20190813*/*.delta"
 mkdir nucmer_delta promer_delta
 
 # Download nucloetide MUMMER delta files
-cd "${nucmer_delta}" \
+cd nucmer_delta \
 && rsync -av --progress "${nucmer_delta_rsync}" .
 
 
 # Download nucloetide MUMMER delta files
-cd ../"${promer_delta}" \
+cd ../promer_delta \
 && rsync -av --progress "${promer_delta_rsync}" .
 
 # Looop through directories and run DotPrep.py on each delta file
 for folder in *delta/
 do
 	mummer=$(echo "${folder}" | awk -F"_" '{ print $1 }')
-	cd "${folder}"
+	cd "${folder}" || exit
   for delta in *.delta
 	do
 		comparison=$(echo "${delta}" | awk -F"." '{ print $1 }')
