@@ -25,7 +25,7 @@ cd nucmer_delta \
 
 
 # Download nucloetide MUMMER delta files
-cd ../promer_delta \
+cd promer_delta \
 && rsync -av --progress "${promer_delta_rsync}" . \
 && cd ..
 
