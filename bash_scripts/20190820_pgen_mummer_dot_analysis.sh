@@ -9,8 +9,9 @@ set -e
 # Capture date. E.g. format is: 20190820
 timestamp=$(date +"%Y%m%d")
 
-nucmer_delta_rsync="/volume2/web/Atumefaciens/20190807*/*.delta"
-promer_delta_rsync="/volume2/web/Atumefaciens/20190813*/*.delta"
+# Set rsync path
+nucmer_delta_rsync="gannet:/volume2/web/Atumefaciens/20190807*/*.delta"
+promer_delta_rsync="gannet:/volume2/web/Atumefaciens/20190813*/*.delta"
 
 
 
@@ -34,6 +35,7 @@ do
   for delta in *.delta
 	do
 		comparison=$(echo "${delta}" | awk -F"." '{ print $1 }')
+    # Run DotPrep on each delta file
 		../DotPrep.py \
 		--delta "${delta}" \
 		--out "${timestamp}"_"${mummer}"_"${comparison}".coords.dot
