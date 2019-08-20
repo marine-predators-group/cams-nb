@@ -20,12 +20,14 @@ mkdir nucmer_delta promer_delta
 
 # Download nucloetide MUMMER delta files
 cd nucmer_delta \
-&& rsync -av --progress "${nucmer_delta_rsync}" .
+&& rsync -av --progress "${nucmer_delta_rsync}" . \
+&& cd ..
 
 
 # Download nucloetide MUMMER delta files
 cd ../promer_delta \
-&& rsync -av --progress "${promer_delta_rsync}" .
+&& rsync -av --progress "${promer_delta_rsync}" . \
+&& cd ..
 
 # Looop through directories and run DotPrep.py on each delta file
 for folder in *delta/
