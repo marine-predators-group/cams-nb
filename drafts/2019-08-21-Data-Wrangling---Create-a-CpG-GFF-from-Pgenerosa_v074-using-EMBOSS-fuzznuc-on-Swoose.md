@@ -41,4 +41,6 @@ MD5 checksum:
 
 - f7176f7dfe5e964aa1111cb7013a9f37
 
-This file was also added our [Genomic Resources Wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub).
+This file was also added our [Genomic Resources Wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub). The file was renamed to:
+
+- Pgenerosa_v074.CpG.gff
