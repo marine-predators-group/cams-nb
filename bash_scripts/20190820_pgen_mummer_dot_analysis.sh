@@ -10,7 +10,7 @@ set -e
 timestamp=$(date +"%Y%m%d")
 
 # Set rsync path
-nucmer_delta_rsync="gannet:/volume2/web/Atumefaciens/20190807*/*.delta"
+nucmer_delta_rsync="gannet:/volume2/web/Atumefaciens/2019080[67]*/*.delta"
 promer_delta_rsync="gannet:/volume2/web/Atumefaciens/20190813*/*.delta"
 
 
