@@ -2,7 +2,7 @@
 layout: post
 title: Data Wrangling - Create a CpG GFF from Pgenerosa_v074 using EMBOSS fuzznuc on Swoose
 date: '2019-08-21 12:24'
-tags: 
+tags:
   - Panopea generosa
   - GFF
   - fuzznuc
@@ -10,11 +10,20 @@ tags:
   - geoduck
   - v074
   - Pgenerosa_v074
-categories: 
+categories:
   - Geoduck Genome Sequencing
 ---
+Steven wanted me to create a CpG GFF for use in IGV visulations for continued Pgenerosa_v074 analysis. I did that by running the EMBOSS tool `fuzznuc`:
 
+```shell
+~/programs/EMBOSS-6.6.0/emboss/fuzznuc \
+-sequence ~/data/P_generosa/genomes/Pgenerosa_v074.fa \
+-pattern CG \
+-outfile 20190821_fuzznuc_pgenv074.gff \
+-rformat gff
+```
 
+This was run on my computer, `swoose`.
 
 ---
 
@@ -22,5 +31,14 @@ categories:
 
 Output folder:
 
-- []()
+- [20190821_fuzznuc_pgen074/](https://gannet.fish.washington.edu/Atumefaciens/20190821_fuzznuc_pgen074/)
 
+Output GFF:
+
+- [20190821_fuzznuc_pgen074/20190821_fuzznuc_pgenv074.gff](https://gannet.fish.washington.edu/Atumefaciens/20190821_fuzznuc_pgen074/20190821_fuzznuc_pgenv074.gff) (2.4GB)
+
+MD5 checksum:
+
+- f7176f7dfe5e964aa1111cb7013a9f37
+
+This file was also added our [Genomic Resources Wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub).
