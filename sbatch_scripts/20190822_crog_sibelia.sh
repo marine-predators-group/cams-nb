@@ -38,25 +38,27 @@ sibelia="/gscratch/srlab/programs/Sibelia-3.0.7-Source/Sibelia"
 
 
 # Record system info
-echo "TODAY'S DATE:" >> "${system_specs}"
-date >> "${system_specs}"
-echo "------------" >> "${system_specs}"
-echo "" >> "${system_specs}"
-lsb_release -a >> "${system_specs}"
-echo "" >> "${system_specs}"
-echo "------------" >> "${system_specs}"
-echo "HOSTNAME: " hostname  >> "${system_specs}"
-echo "" >> "${system_specs}"
-echo "------------" >> "${system_specs}"
-echo "Computer Specs:" >> "${system_specs}"
-echo "" >> "${system_specs}"
-lscpu >> "${system_specs}"
-echo "" >> "${system_specs}"
-echo "------------" >> "${system_specs}"
-echo "" >> "${system_specs}"
-echo "Memory Specs" >> "${system_specs}"
-echo "" >> "${system_specs}"
-free -mh >> "${system_specs}"
+{
+echo "TODAY'S DATE:"
+date
+echo "------------"
+echo ""
+lsb_release -a
+echo ""
+echo "------------"
+echo "HOSTNAME: " hostname
+echo ""
+echo "------------"
+echo "Computer Specs:"
+echo ""
+lscpu
+echo ""
+echo "------------"
+echo ""
+echo "Memory Specs"
+echo ""
+free -mh
+} >> "${system_specs}"
 
 # Index FastA file
 "${samtools}" faidx \
