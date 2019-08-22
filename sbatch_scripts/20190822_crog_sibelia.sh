@@ -10,7 +10,7 @@
 ## Nodes
 #SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
-#SBATCH --time=20-00:00:00
+#SBATCH --time=16-00:00:00
 ## Memory per node
 #SBATCH --mem=500G
 ##turn on e-mail notification
@@ -26,7 +26,7 @@ wd=$(pwd)
 
 
 # Input/output files
-assembly_fasta="/gscratch/srlab/sam/data/C_rogercresseyi/genomes/Caligus_rogercresseyi_Genome.fa"
+assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
 assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
 assembly_subset="${wd}/C_rogercresseyi_top_21_scaffold.fa"
 system_specs="${wd}/system_info.txt"
