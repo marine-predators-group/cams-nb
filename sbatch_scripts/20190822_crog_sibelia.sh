@@ -26,7 +26,7 @@ wd=$(pwd)
 
 
 # Input/output files
-assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
+assembly_fasta="/gscratch/srlab/sam/data/C_rogercresseyi/genomes/Caligus_rogercresseyi_Genome.fa"
 assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
 assembly_subset="${wd}/C_rogercresseyi_top_21_scaffold.fa"
 system_specs="${wd}/system_info.txt"
@@ -85,7 +85,7 @@ xargs \
 "${assembly_subset}"
 
 # Run Sibelia
-{ "${sibelia}" \
+"${sibelia}" \
 --parameters loose \
 --outdir "${wd}" \
 "${assembly_subset}" \
