@@ -6,7 +6,7 @@
 #SBATCH --partition=srlab
 ## Resources
 ## CPU request
-#SBATCH --constraint="skylake"
+#SBATCH --constraint="skylake|broadwell"
 ## Nodes
 #SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
