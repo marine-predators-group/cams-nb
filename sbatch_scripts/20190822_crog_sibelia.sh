@@ -17,7 +17,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=samwhite@uw.edu
 ## Specify the working directory for this job
-#SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190822_crog_sibeliea
+#SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190822_crog_sibelia
 
 
 
