@@ -194,7 +194,7 @@ rm ./*.sam
 
 This took ~24hrs to run:
 
-![Screencap of Mox Stringtie runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190716_stringtie_olur_v081_runtime.png)
+![Screencap of Mox Stringtie runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190716_stringtie_olur_v081_runtime.png?raw=true)
 
 Output folder:
 
