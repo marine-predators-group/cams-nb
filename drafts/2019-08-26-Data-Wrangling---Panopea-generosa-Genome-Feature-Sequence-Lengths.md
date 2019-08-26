@@ -15,14 +15,21 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+In preparation for a paper we're writing, we needed some summary stats on the various genome assembly feature sequences. I determined the max/min, mean, and median sequence lengths for all the GFF feature files we currently have for Pgenerosa_v070, Pgenerosa_v070_top18_scaffolds, and Pgenerosa_v074. This info will be compiled in to a table for the manuscript. See our Genomic Resources wiki for more info on GFFs:
 
+- [Genomic Resources Wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub)
 
+Calculations were performed using Python in a Jupyter Notebook.
+
+Jupyter Notebook (GitHub):
+
+ - [20190826_swoose_pgen_genome_feature_counts.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190826_swoose_pgen_genome_feature_counts.ipynb)
 
 ---
 
 #### RESULTS
 
-Output folder:
+I've copied/pasted (and, reordered) the summary data for each of the GFFs that were analyzed, for quick reference. Will get this compiled in to a table of some sort for people to use for the manuscript.
 
 ```
 Pgenerosa_v070_top18_scaffolds.CDS.gff
