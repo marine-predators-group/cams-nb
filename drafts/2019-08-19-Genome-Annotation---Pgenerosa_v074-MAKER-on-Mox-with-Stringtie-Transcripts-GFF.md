@@ -535,6 +535,105 @@ ${iprscan2gff3} \
 
 #### RESULTS
 
+Well, this ran relatively quickly: A little over seven days.
+
+![Pgenerosa_v074 MAKER with Stringtie runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190819_pgen_maker_v074_with_stringtie_annotation_runtime.png?raw=true)
+
 Output folder:
 
 - [20190819_pgen_maker_v074_with_stringtie_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190819_pgen_maker_v074_with_stringtie_annotation/)
+
+
+The important files:
+
+- [Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff](https://gannet.fish.washington.edu/Atumefaciens/20190819_pgen_maker_v074_with_stringtie_annotation/Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff) (373MB)
+  - GFF file with all contigs annotated with putative functions and functional domains.
+  - _INCLUDES SEQUENCE FASTAS AT END OF FILE!_
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+  - MD5: 8e8391912e481695addac8fed320a8a1
+
+
+- [Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190819_pgen_maker_v074_with_stringtie_annotation/Pgenerosa_v074_genome_snap02.all.maker.proteins.renamed.putative_function.fasta) (432KB)
+  - Annotated proteins FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+
+- [Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta](https://gannet.fish.washington.edu/Atumefaciens/20190819_pgen_maker_v074_with_stringtie_annotation/Pgenerosa_v074_genome_snap02.all.maker.transcripts.renamed.putative_function.fasta) (1.2MB)
+  - Annotated transcripts FastA file.
+  - Generated with one round of MAKER gene prediction, followed by two rounds of SNAP _ab-initio_ gene prediction.
+
+I should've just split the GFF as part of the Mox SBATCH script, but I didn't so I did it locally on my computer. Here are the commands for splitting the GFF. All the GFF files have been addeed to our [Genomic Resources wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub).
+
+- CDS GFF:
+
+  - [Pgenerosa_v074.1.CDS.gff
+](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.CDS.gff
+) (605KB)
+  - MD5: `78165439a8fd3e399e90e7eb1a0ea221`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "CDS" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.CDS.gff
+```
+
+
+- exon GFF:
+
+  - [Pgenerosa_v074.1.exon.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.exon.gff) (655KB)
+  - MD5: `a9f88dfc6fa3a2a6b43535341cd421f2`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "exon" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.exon.gff
+```
+
+- five prime UTR GFF:
+
+  - [Pgenerosa_v074.1.five_prime_UTR.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.five_prime_UTR.gff) (54KB)
+  - MD5: `f651827d5e6c9a235b78670af08f7b2c`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "five_prime_UTR" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.five_prime_UTR.gff
+```
+
+- gene GFF:
+
+  - [Pgenerosa_v074.1.gene.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.gene.gff) (269KB)
+  - MD5: `5b3af590a9b34c0aa87abef2442d9bde`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "gene" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.gene.gff
+```
+
+- mRNA GFF:
+
+  - [Pgenerosa_v074.1.mRNA.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.mRNA.gff) (337KB)
+  - MD5: `fd4889cfc5b1184f2c39054a4ead3f62`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "mRNA" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.mRNA.gff
+```
+
+- three prime UTR GFF:
+
+  - [Pgenerosa_v074.1.three_prime_UTR.gff](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.1.three_prime_UTR.gff) (37KB)
+  - MD5: `3e9547af413d5e4230c4d556cac13d68`
+
+```shell
+awk 'BEGIN { print "##gff-version 3" ; } $3 == "three_prime_UTR" {print}' \
+Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
+> Pgenerosa_v074.1.three_prime_UTR.gff
+```
+
+
+With all of that out of the way, a cursory glance at the results are, honestly, quite shocking. A quick `grep -c ">"` on the FastA files reveals:
+
+- 825 proteins/transcripts
