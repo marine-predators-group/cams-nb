@@ -13,7 +13,9 @@ categories:
 ---
 [I previously created a subset of the Pgenerosa_v070 genome assembly](https://robertslab.github.io/sams-notebook/2019/06/25/Data-Wrangling-FastA-Subsetting-of-Pgenerosa_v070.fa-Using-samtools-faidx.html) that contains just the largest 18 scaffolds (these scaffolds were produced by Phase Genomics, utilizing some Hi-C sequencing). The new subsetted genome is labeled as [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa) (914MB).
 
-As part of that, [Steven wanted this version annotated using MAKER](https://github.com/RobertsLab/resources/issues/707).
+As part of that, [I previously annotated this using MAKER, on 20190709](https://robertslab.github.io/sams-notebook/2019/07/01/Genome-Annotation-Pgenerosa_v074-MAKER-on-Mox.html).
+
+This time, I've add transcripts and their isoforms, as [predicted by Stringtie on (from 20190723)](https://robertslab.github.io/sams-notebook/2019/07/23/Genome-Annotation-Pgenerosa_v074-Transcript-Isoform-ID-with-Stringtie-on-Mox.html) to the MAKER process to see if we can improve annotations, particularly in Scaffold1. This scaffold has been void of any gene-feature annotations in any previous MAKER runs (Pgenerosa_v070, Pgenerosa_v071, and Pgenerosa_v074).
 
 This will perform the following:
 
@@ -25,6 +27,11 @@ This will perform the following:
 
 Here are a list of the input files used for the various components of the MAKER annotation:
 
+#### Stringtie GFF
+
+ Pgenerosa_v074.stringtie.gff: Made from Pgenerosa_v074.stringtie.gtf using
+
+ `gffread Pgenerosa_v074.stringtie.gtf -o Pgenerosa_v074.stringtie.gff` on 20190819. Run using Mox build node.
 
 #### Transcriptome FastA files (links to notebook entries):
 - [ctenidia](https://robertslab.github.io/sams-notebook/2019/04/09/Transcriptome-Assembly-Geoduck-Tissue-specific-Assembly-Ctenidia-with-HiSeq-and-NovaSeq-Data-on-Mox.html)
