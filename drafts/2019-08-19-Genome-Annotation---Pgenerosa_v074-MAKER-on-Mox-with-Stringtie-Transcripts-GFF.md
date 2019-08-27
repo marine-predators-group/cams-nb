@@ -637,3 +637,14 @@ Pgenerosa_v074_genome_snap02.all.renamed.putative_function.domain_added.gff \
 With all of that out of the way, a cursory glance at the results are, honestly, quite shocking. A quick `grep -c ">"` on the FastA files reveals:
 
 - 825 proteins/transcripts
+
+Here's table with feature counts from each of the GFF files listed above:
+
+| Feature Count | Feature File                         |
+|---------------|--------------------------------------|
+| 4905          | Pgenerosa_v074.1.CDS.gff             |
+| 5037          | Pgenerosa_v074.1.exon.gff            |
+| 371           | Pgenerosa_v074.1.five_prime_UTR.gff  |
+| 826           | Pgenerosa_v074.1.gene.gff            |
+| 826           | Pgenerosa_v074.1.mRNA.gff            |
+| 250           | Pgenerosa_v074.1.three_prime_UTR.gff |
