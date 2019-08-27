@@ -11,6 +11,8 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+For reference, this annotation will be referred to as Pgenerosa_v074.1.
+
 [I previously created a subset of the Pgenerosa_v070 genome assembly](https://robertslab.github.io/sams-notebook/2019/06/25/Data-Wrangling-FastA-Subsetting-of-Pgenerosa_v070.fa-Using-samtools-faidx.html) that contains just the largest 18 scaffolds (these scaffolds were produced by Phase Genomics, utilizing some Hi-C sequencing). The new subsetted genome is labeled as [Pgenerosa_v074.fa](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v074.fa) (914MB).
 
 As part of that, [I previously annotated this using MAKER, on 20190709](https://robertslab.github.io/sams-notebook/2019/07/01/Genome-Annotation-Pgenerosa_v074-MAKER-on-Mox.html).
@@ -648,3 +650,16 @@ Here's table with feature counts from each of the GFF files listed above:
 | 826           | Pgenerosa_v074.1.gene.gff            |
 | 826           | Pgenerosa_v074.1.mRNA.gff            |
 | 250           | Pgenerosa_v074.1.three_prime_UTR.gff |
+
+
+---
+
+So, how does this compare to the [previous annotation of Pgenerosa_v074 from 20190709](https://robertslab.github.io/sams-notebook/2019/07/01/Genome-Annotation-Pgenerosa_v074-MAKER-on-Mox.html)?
+
+1. Pgenerosa_v074.1 has ~50% _fewer_ genes annotated than the Pgenerosa_v074 annotation.
+
+2. Pgenerosa_v074.1 only exhibits annotations on PGA_scaffold_18. The Pgenerosa_v074 annotation had annotation present on PGA_scaffold_17 & PGA_scaffold_17 (no others).
+
+The Stringtie information clearly had an influence on gene predictions and the resulting annotations. Admittedly, I was expecting _more_ gene predictions, since the Stringtie info shows transcripts present on all the other scaffolds. Instead, we ended up with a more _stringent_ set of predicted genes!
+
+Will peruse all of this data a bit more and see what I can make of it...
