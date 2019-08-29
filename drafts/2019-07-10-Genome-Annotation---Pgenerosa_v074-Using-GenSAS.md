@@ -79,13 +79,16 @@ awk -v feature="$feature" '$3 == feature {print}' ${input} \
 done
 ```
 
-- [Panopea-generosa-vv0.74.a2.CDS.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.CDS.gff)
+- [Panopea-generosa-vv0.74.a2.CDS.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.CDS.gff3)
 
-- [Panopea-generosa-vv0.74.a2.exon.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.exon.gff)
+- [Panopea-generosa-vv0.74.a2.exon.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.exon.gff3)
 
-- [Panopea-generosa-vv0.74.a2.gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.gene.gff)
+- [Panopea-generosa-vv0.74.a2.gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.gene.gff3)
 
-- [Panopea-generosa-vv0.74.a2.mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.mRNA.gff)
+- [Panopea-generosa-vv0.74.a2.mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.mRNA.gff3)
+
+
+
 
 Project Summary file (TEXT):
 
