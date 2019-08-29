@@ -20,3 +20,13 @@ categories:
 Output folder:
 
 - []()
+
+
+
+- [Panopea-generosa-vv0.71.a2CDS.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.CDS.gff3)
+
+- [Panopea-generosa-vv0.71.a2exon.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.exon.gff3)
+
+- [Panopea-generosa-vv0.71.a2gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.gene.gff3)
+
+- [Panopea-generosa-vv0.71.a2mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.mRNA.gff3)
