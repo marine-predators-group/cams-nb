@@ -57,7 +57,9 @@ Output folder:
 
 - [20190710_Pgenerosa_v074_gensas_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/)
 
+Merged GFF:
 
+- [Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3)
 
 
 Individual feature GFFs were made with the following shell commands:
