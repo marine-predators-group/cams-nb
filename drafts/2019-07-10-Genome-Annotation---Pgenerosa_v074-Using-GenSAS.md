@@ -53,6 +53,8 @@ This took way longer than I was expecting! This took nearly an entire month (the
 
 ---
 
+
+
 Output folder:
 
 - [20190710_Pgenerosa_v074_gensas_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/)
@@ -60,6 +62,17 @@ Output folder:
 Merged GFF:
 
 - [Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3)
+
+Feature counts:
+
+```shell
+awk 'NR>3 { print $3 }' Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3 | sort | uniq -c
+
+ 192022 CDS
+ 192022 exon
+  45748 gene
+  45748 mRNA
+```
 
 
 Individual feature GFFs were made with the following shell commands:
@@ -86,8 +99,6 @@ done
 - [Panopea-generosa-vv0.74.a2.gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.gene.gff3)
 
 - [Panopea-generosa-vv0.74.a2.mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2.mRNA.gff3)
-
-
 
 
 Project Summary file (TEXT):
