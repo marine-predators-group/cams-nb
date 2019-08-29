@@ -19,6 +19,8 @@ categories:
 
 #### RESULTS
 
+![GenSAS project summary processes and runtimes screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190710_gensas_pgen-074_runtimes.png?raw=true)
+
 Output folder:
 
 - []()
