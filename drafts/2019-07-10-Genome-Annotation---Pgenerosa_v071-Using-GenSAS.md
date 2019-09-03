@@ -276,3 +276,5 @@ Project Summary file (TEXT):
   - Minimal predicted signal peptide length : 10
   - Truncate to sequence length : 70
 ```
+
+Overall, this annotation is much more believable than the previous MAKER annotations, due to the fact that GenSAS actually predicts genes to exist on all the scaffolds (unlike MAKER)! Will be interesting to compare to the GenSAS [Panopea-generosa-vv0.74.a3 annotation](https://robertslab.github.io/sams-notebook/2019/07/10/Genome-Annotation-Pgenerosa_v074-Using-GenSAS.html).
