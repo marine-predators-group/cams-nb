@@ -52,7 +52,38 @@ Output folder:
 
 - [20190710_Pgenerosa_v071_gensas_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/)
 
+Feature counts:
 
+```shell
+awk 'NR>3 { print $3 }' Panopea-generosa-v1.0.a2-merged-2019-08-29-15-28-54.gff3 | sort | uniq -c
+
+264153 CDS
+264153 exon
+ 56167 gene
+ 56167 mRNA
+```
+
+BUSCO assessment:
+
+- 80.7% complete BUSCOs present in predicted genes
+
+
+Individual feature GFFs were made with the following shell commands:
+
+
+```shell
+features_array=(CDS exon gene mRNA)
+
+for feature in ${features_array[@]}
+do
+output="Panopea-generosa-v1.0.a2.${feature}.gff3"
+input="Panopea-generosa-v1.0.a2-merged-2019-08-29-15-28-54.gff3"
+head -n 3 Panopea-generosa-v1.0.a2-merged-2019-08-29-15-28-54.gff3 \
+>> ${output}
+awk -v feature="$feature" '$3 == feature {print}' ${input} \
+>> ${output}
+done
+```
 
 - [Panopea-generosa-vv0.71.a2CDS.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.CDS.gff3)
 
