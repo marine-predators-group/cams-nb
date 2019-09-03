@@ -130,3 +130,149 @@ Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
 | 174           | PF00059.16     | C-type lectin            |
 
 A rhodopsin protein family appears in the Top 10 most abundant Pfams?! Proteins in this family are involved in light detection...
+
+
+InterProScan annotations (tab-delimited text):
+
+- [Panopea-generosa-v1.0.a2.5d65aa8055fad-interproscan.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-v1.0.a2.5d65aa8055fad-interproscan.tab)
+
+  - Contains gene ontology (GO) terms
+
+
+Project Summary file (TEXT):
+
+- [t_5d263cd070fe7-5d67fbd85ec41-publish-project-summary.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/t_5d263cd070fe7-5d67fbd85ec41-publish-project-summary.txt)
+
+```
+
+=================================
+ Project Summary
+---------------------------------
+# Project Information
+  Project Name         : Pgenerosa_v071
+  Owner                : kubu4
+  Create Date          : 2019-07-10 12:30:24
+
+# Project Properties
+  Genus                : Panopea
+  Species              : generosa
+  Project Type         : invertebrate
+  Prefix               : PGEN_
+  Common Name          : Pacific geoduck
+  Genetic Code         : Standard Code
+
+# Input FASTA
+  Filename           : Pgenerosa_v071.fasta
+  Filesize           : 1.32 GB
+  Number of Sequence : 14014
+
+=================================
+ Job Information
+---------------------------------
+# Official Gene Set
+  >PASA Refinement
+  - version : 2.3.3
+  - Transcripts FASTA file : Trinity.fasta
+
+  # The source Job of the refinement job
+    >Augustus-01
+    - version : 3.3.1
+    - Species : fly
+    - Report genes on : both
+    - Allowed gene structure : partial
+    - cDNA (transcripts) sequences : Trinity.fasta
+    - Protein sequences : 20180827_trinity_geoduck.fasta.transdecoder.fa
+
+
+# The consensus mask Job
+  >Masked Repeat Consensus
+
+  # The source jobs for consensus mask job
+    >RepeatMasker
+    >RepeatModeler
+
+  # Family copy number summary
+    Family	Copy Numbers
+    DNA	85
+    DNA/Academ	264
+    DNA/Crypton	200
+    DNA/Kolobok-T2	188
+    DNA/MuLE-MuDR	94
+    DNA/PIF-Harbinger	482
+    DNA/Sola	122
+    DNA/TcMar-Mariner	599
+    DNA/TcMar-Tc1	1266
+    DNA/hAT-Tip100	808
+    DNA/hAT-Tip100?	255
+    Type:DNA	4363
+    LINE	2153
+    LINE/CR1	4122
+    LINE/CR1-Zenon	1717
+    LINE/I-Nimb	72
+    LINE/Jockey	510
+    LINE/L1-Tx1	967
+    LINE/L2	1896
+    LINE/Penelope	735
+    LINE/Proto2	155
+    LINE/R2-Hero	211
+    LINE/RTE-X	2275
+    LINE/Tad1	97
+    Type:LINE	14910
+    Type:SINE	0
+    LTR/DIRS	192
+    LTR/Gypsy	1420
+    LTR/Ngaro	533
+    LTR/Pao	146
+    Type:LTR	2291
+    Type:EVERYTHING_TE	21564
+    Type:Simple_repeat	107
+    Type:Unknown	115322
+
+# The functional Jobs on the OGS
+  >BLAST protein vs protein (blastp)_SP01
+  - version : 2.7.1
+  - Protein Data Set : SwissProt
+  - Maximum HSP Distinace : 30000
+  - Output type : tab
+  - Matrix : BLOSUM62
+  - Expect : 1e-8
+  - Word Size : 3
+  - Gap Open : 11
+  - Gap Extend : 1
+
+  >DIAMOND Functional SP01
+  - version : 0.9.22
+  - Protein Data Set : SwissProt
+
+  >BLAST protein vs protein (blastp)
+  - version : 2.7.1
+  - Protein Data Set : 20180827_trinity_geoduck.fasta.transdecoder.fa
+  - Maximum HSP Distinace : 30000
+  - Output type : tab
+  - Matrix : BLOSUM62
+  - Expect : 1e-8
+  - Word Size : 3
+  - Gap Open : 11
+  - Gap Extend : 1
+
+  >DIAMOND Functional
+  - version : 0.9.22
+  - Protein Data Set : 20180827_trinity_geoduck.fasta.transdecoder.fa
+
+  >InterProScan
+  - version : 5.29-68.0
+
+  >Pfam
+  - version : 1.6
+  - E-value Sequence : 1
+  - E-value Domain : 10
+
+  >SignalP
+  - version : 4.1
+  - Organism group : euk
+  - Method : best
+  - D-cutoff for SignalP-noTM networks : 0.45
+  - D-cutoff for SignalP-TM networks : 0.50
+  - Minimal predicted signal peptide length : 10
+  - Truncate to sequence length : 70
+```
