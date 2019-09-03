@@ -13,20 +13,7 @@ tags:
 categories:
   - Miscellaneous
 ---
----
-layout: post
-title: Genome Comparison - Pgenerosa_v074 vs M.yessoensis NCBI with MUMmer Promer on Mox
-date: '2019-08-13 09:41'
-tags:
-  - Panopea generosa
-  - geoduck
-  - Yesso scallop
-  - MUMmer
-  - mox
-  - Mizuhopecten yessoensis
-categories:
-  - Miscellaneous
----
+
 In continuing to further improve our geoduck genome annotation, I'm attempting to figure out why [Scaffold 1 of our assembly doesn't have any annotations](https://github.com/RobertsLab/resources/issues/721). As part of that I've decided to perform a series of genome comparisons and see how they match up, with an emphasis on Scaffold 1, using [MUMmer 3.23](https://sourceforge.net/projects/mummer/) (specifically, `promer` for protein level comparisons). This software is specifically designed to do this type of comparison.
 
 Basically, MUMmer `promer` will take a query genome assembly (Pgenerosa_v074 in this case), translate it into all six reading frames, align it to a reference genome, and determine contig similarities/differences. So, this should provide further insight on what is happening in Pgenerosa_v074 Scaffold 1, when compared to related (or different) species' genomes.
