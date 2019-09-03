@@ -66,7 +66,7 @@ Merged GFF:
 Feature counts:
 
 ```shell
-awk 'NR>3 { print $3 }' Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3 | sort | uniq -c
+awk 'NR>3 { print $3 }' Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3 | sort | uniq -c
 
  192022 CDS
  192022 exon
@@ -83,9 +83,9 @@ features_array=(CDS exon gene mRNA)
 
 for feature in ${features_array[@]}
 do
-output="Panopea-generosa-vv0.74.a2.${feature}.gff3"
-input="Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3"
-head -n 3 Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3 \
+output="Panopea-generosa-vv0.74.a3.${feature}.gff3"
+input="Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3"
+head -n 3 Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3 \
 >> ${output}
 awk -v feature="$feature" '$3 == feature {print}' ${input} \
 >> ${output}
