@@ -101,9 +101,13 @@ done
 - [Panopea-generosa-vv0.74.a3.mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3.mRNA.gff3)
 
 
+SwissProt functional annotations (tab-delimited text):
 
+- BLASTp
+  - [Panopea-generosa-vv0.74.a3.5d66e5e537f02-blast_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3.5d66e5e537f02-blast_functional.tab)
 
-
+- DIAMOND
+  - [Panopea-generosa-vv0.74.a3.5d66e5f03c48d-diamond_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/)
 
 Project Summary file (TEXT):
 
@@ -249,3 +253,5 @@ Project Summary file (TEXT):
   - version : 0.9.22
   - Protein Data Set : 20180827_trinity_geoduck.fasta.transdecoder.fa
 ```
+
+Overall, this annotation is much more believable than the previous MAKER annotations, due to the fact that GenSAS actually predicts genes to exist on all the scaffolds (unlike MAKER)! As such, this will likely become the canonical _P.generosa_ genome going forward. With that being said, we still should manually curate this when we have the time to see how well the predictions line up with the evidence.
