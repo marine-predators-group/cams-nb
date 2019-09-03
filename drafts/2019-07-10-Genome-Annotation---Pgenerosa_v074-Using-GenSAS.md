@@ -113,9 +113,6 @@ SwissProt functional annotations (tab-delimited text):
 - DIAMOND
   - [Panopea-generosa-vv0.74.a3.5d66e5f03c48d-diamond_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/)
 
-Project Summary file (TEXT):
-
-- [t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt)
 
 
 Pfam annotations (tab-delimited text):
@@ -145,6 +142,10 @@ A couple of interesting things that I notice from this table:
 2. A rhodopsin protein family appears in the Top 10 most abundant Pfams?! Proteins in this family are involved in light detection...
 
 
+
+Project Summary file (TEXT):
+
+- [t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt)
 
 ```
 
