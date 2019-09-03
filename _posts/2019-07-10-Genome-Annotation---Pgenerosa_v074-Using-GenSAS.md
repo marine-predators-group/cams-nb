@@ -12,7 +12,7 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
-In our various attempts to get the _Panopea generosa_ genome annotated in such a manner that we're comfortable with (the previous annotation attempts we're lacking any annotations in almost all of the largets scaffolds, which didn't seem right), Steven stumbled across [GenSAS](https://www.gensas.org/gensas), a web/GUI-based genome annotation program, so we gave it a shot.
+In our various attempts to get the _Panopea generosa_ genome annotated in such a manner that we're comfortable with (the previous annotation attempts we're lacking any annotations in almost all of the largest scaffolds, which didn't seem right), Steven stumbled across [GenSAS](https://www.gensas.org/gensas), a web/GUI-based genome annotation program, so we gave it a shot.
 
 I uploaded the following to the GenSAS website to potentially use as "evidence files":
 
