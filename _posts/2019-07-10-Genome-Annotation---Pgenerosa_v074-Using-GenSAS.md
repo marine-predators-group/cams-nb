@@ -127,6 +127,10 @@ Pfam annotations (tab-delimited text):
 
 Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
 
+```shell
+awk '{print $2}' Panopea-generosa-vv0.74.a3.5d65aaa449919-pfam.tab | sort | uniq -c | sort -nr | head
+```
+
 
 | Feature Count | Pfam Accession | Pfam                                                 |
 |---------------|----------------|------------------------------------------------------|
