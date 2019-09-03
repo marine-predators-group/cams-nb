@@ -117,6 +117,35 @@ Project Summary file (TEXT):
 
 - [t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/t_5d25021b0d20b-5d6843e21278a-publish-project-summary.txt)
 
+
+Pfam annotations (tab-delimited text):
+
+- [Panopea-generosa-vv0.74.a3.5d65aaa449919-pfam.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3.5d65aaa449919-pfam.tab)
+
+Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
+
+
+| Feature Count | Pfam Accession | Pfam                                                 |
+|---------------|----------------|------------------------------------------------------|
+| 1062          | PF00078.22     | Reverse transcriptase (RNA-dependent DNA polymerase) |
+| 370           | PF00665.21     | Integrase                                            |
+| 353           | PF13358.1      | DDE superfamily endonuclease                         |
+| 264           | PF03372.18     | Endonuclease/Exonuclease/phosphatase family          |
+| 213           | PF14529.1      | Endonuclease-reverse transcriptase                   |
+| 208           | PF00643.19     | B-box zinc finger                                    |
+| 199           | PF07690.11     | Major Facilitator Superfamily                        |
+| 158           | PF00001.16     | 7 transmembrane receptor (rhodopsin family)          |
+| 148           | PF12796.2      | Ankyrin repeat                                       |
+| 136           | PF00096.21     | Zinc finger                                          |
+
+A couple of interesting things that I notice from this table:
+
+1. The four of the top five most abundant are involved in DNA transposition.
+
+2. A rhodopsin protein family appears in the Top 10 most abundant Pfams?! Proteins in this family are involved in light detection...
+
+
+
 ```
 
 =================================
