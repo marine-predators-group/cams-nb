@@ -142,6 +142,12 @@ A couple of interesting things that I notice from this table:
 2. A rhodopsin protein family appears in the Top 10 most abundant Pfams?! Proteins in this family are involved in light detection...
 
 
+InterProScan annotations (tab-delimited text):
+
+- [Panopea-generosa-vv0.74.a3.5d65aaa22961e-interproscan.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3.5d65aaa22961e-interproscan.tab)
+
+  - Contains gene ontology (GO) terms
+
 
 Project Summary file (TEXT):
 
