@@ -115,3 +115,18 @@ Pfam annotations (tab-delimited text):
 - [Panopea-generosa-v1.0.a2.5d65aa832a1bf-pfam.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-v1.0.a2.5d65aa832a1bf-pfam.tab)
 
 Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
+
+| Feature Count | Pfam Accession | Pfam                     |
+|---------------|----------------|--------------------------|
+| 364           | PF00643.19     | B-box zinc finger        |
+| 293           | PF07690.11     | Major facilitator family |
+| 228           | PF00001.16     | Rhodopsin-like receptors |
+| 220           | PF12796.2      | Ankyrin repeat           |
+| 209           | PF00651.26     | BTB/POZ domain           |
+| 206           | PF00069.20     | Protein kinase domain    |
+| 180           | PF00067.17     | Cytochrome P450          |
+| 175           | PF02931.18     | Ligand-gated ion channel |
+| 174           | PF00400.27     | WD40 repeat              |
+| 174           | PF00059.16     | C-type lectin            |
+
+A rhodopsin protein family appears in the Top 10 most abundant Pfams?! Proteins in this family are involved in light detection...
