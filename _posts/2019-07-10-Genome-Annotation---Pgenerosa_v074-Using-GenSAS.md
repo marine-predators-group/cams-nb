@@ -8,8 +8,8 @@ tags:
   - Panopea generosa
   - v074
   - Pgenerosa_v074
-	- Panopea-generosa-vv0.74.a3
-	- v074.a3
+  - Panopea-generosa-vv0.74.a3
+  - v074.a3
   - annotation
 categories:
   - Geoduck Genome Sequencing

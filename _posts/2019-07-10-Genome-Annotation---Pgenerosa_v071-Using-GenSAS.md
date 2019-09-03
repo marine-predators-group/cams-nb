@@ -7,8 +7,8 @@ tags:
   - geoduck
   - Panopea generosa
   - annotation
-	- Pgenerosa_v071
-	- v071.a2
+  - Pgenerosa_v071
+  - v071.a2
 categories:
   - Geoduck Genome Sequencing
 ---
