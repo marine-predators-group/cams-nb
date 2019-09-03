@@ -103,7 +103,7 @@ done
 SwissProt functional annotations (tab-delimited text):
 
 - BLASTp
-  - []()
+  - [Panopea-generosa-v1.0.a2.5d66e5b736200-blast_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-v1.0.a2.5d66e5b736200-blast_functional.tab)
 
 - DIAMOND
   - [Panopea-generosa-v1.0.a2.5d66e5cca9bdd-diamond_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-v1.0.a2.5d66e5cca9bdd-diamond_functional.tab)
