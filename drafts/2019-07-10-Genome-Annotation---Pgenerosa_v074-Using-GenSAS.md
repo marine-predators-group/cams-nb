@@ -61,7 +61,7 @@ Output folder:
 
 Merged GFF:
 
-- [Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a2-merged-2019-08-29-7-29-58.gff3)
+- [Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3)
 
 Feature counts:
 
