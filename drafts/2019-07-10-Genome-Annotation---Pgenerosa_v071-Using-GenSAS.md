@@ -7,10 +7,16 @@ tags:
   - geoduck
   - Panopea generosa
   - annotation
+	- Pgenerosa_v071
+	- v071.a2
 categories:
   - Geoduck Genome Sequencing
 ---
 In our various attempts to get the _Panopea generosa_ genome annotated in such a manner that we're comfortable with (the previous annotation attempts we're lacking any annotations in almost all of the largest scaffolds, which didn't seem right), Steven stumbled across [GenSAS](https://www.gensas.org/gensas), a web/GUI-based genome annotation program, so we gave it a shot.
+
+This version of the genome annotation will be referred to as:
+
+- Panopea-generosa-vv0.71.a2
 
 I uploaded the following to the GenSAS website to potentially use as "evidence files":
 
