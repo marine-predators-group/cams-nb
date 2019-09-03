@@ -98,3 +98,20 @@ done
 - [Panopea-generosa-vv0.71.a2gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.gene.gff3)
 
 - [Panopea-generosa-vv0.71.a2mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-vv0.71.a2.mRNA.gff3)
+
+
+SwissProt functional annotations (tab-delimited text):
+
+- BLASTp
+  - []()
+
+- DIAMOND
+  - []()
+
+
+
+Pfam annotations (tab-delimited text):
+
+- [Panopea-generosa-v1.0.a2.5d65aa832a1bf-pfam.tab](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v071_gensas_annotation/Panopea-generosa-v1.0.a2.5d65aa832a1bf-pfam.tab)
+
+Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
