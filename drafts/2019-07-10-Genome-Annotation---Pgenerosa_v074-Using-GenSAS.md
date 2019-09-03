@@ -74,6 +74,10 @@ awk 'NR>3 { print $3 }' Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff
   45748 mRNA
 ```
 
+BUSCO assessment:
+
+- 68.4% complete BUSCOs present in predicted genes
+
 
 Individual feature GFFs were made with the following shell commands:
 
