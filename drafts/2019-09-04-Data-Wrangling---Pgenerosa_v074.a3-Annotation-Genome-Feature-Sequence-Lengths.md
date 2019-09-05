@@ -27,4 +27,44 @@ Jupyter Notebook (GitHub):
 
 #### RESULTS
 
-I've copied/pasted (and, reordered) the summary data for each of the GFFs that were analyzed, for quick reference. Will get this compiled in to a table of some sort for people to use for the manuscript.
+I've copied/pasted the summary data for each of the GFFs that were analyzed, for quick reference. Will get this compiled in to a table of some sort for people to use for the manuscript.
+
+```
+Panopea-generosa-vv0.74.a3.exon.gff3
+-------------------------
+mean        255.932825
+min           3.000000
+median      157.000000
+max       13359.000000
+
+
+
+
+Panopea-generosa-vv0.74.a3.CDS.gff3
+-------------------------
+mean        255.932825
+min           3.000000
+median      157.000000
+max       13359.000000
+
+
+
+
+Panopea-generosa-vv0.74.a3.mRNA.gff3
+-------------------------
+mean       13318.053183
+min          201.000000
+median      2346.000000
+max       345225.000000
+
+
+
+
+Panopea-generosa-vv0.74.a3.gene.gff3
+-------------------------
+mean       13318.053183
+min          201.000000
+median      2346.000000
+max       345225.000000
+
+```
