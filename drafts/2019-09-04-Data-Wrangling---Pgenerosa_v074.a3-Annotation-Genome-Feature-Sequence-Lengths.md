@@ -8,16 +8,23 @@ tags:
   - Pgenerosa_v074.a3
   - Panopea-generosa-vv0.74.a3
   - Jupyter
-categories: 
+categories:
   - Geoduck Genome Sequencing
 ---
+The [GenSAS Pgenerosa_v074 annotation from 20190710](https://robertslab.github.io/sams-notebook/2019/07/10/Genome-Annotation-Pgenerosa_v074-Using-GenSAS.html) (referred to as: Panopea-generosa-vv0.74.a3) recently completed (after nearly a month of running).
 
+In preparation for a paper we're writing, we needed some summary stats for Panopea-generosa-vv0.74.a3. This info will be compiled in to a table for the manuscript. See our Genomic Resources wiki for more info on GFFs:
 
+- [Genomic Resources Wiki](https://github.com/RobertsLab/resources/wiki/Genomic-Resources) (GitHub)
+
+Calculations were performed using Python in a Jupyter Notebook.
+
+Jupyter Notebook (GitHub):
+
+ - [20190904_swoose_pgen_v074.a3_genome_feature_counts.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20190904_swoose_pgen_v074.a3_genome_feature_counts.ipynb)
 
 ---
 
 #### RESULTS
 
-Output folder:
-
-- []()
+I've copied/pasted (and, reordered) the summary data for each of the GFFs that were analyzed, for quick reference. Will get this compiled in to a table of some sort for people to use for the manuscript.
