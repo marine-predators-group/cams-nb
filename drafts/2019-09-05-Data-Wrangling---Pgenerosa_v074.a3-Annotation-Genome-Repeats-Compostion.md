@@ -11,7 +11,13 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+Needed to pull some numbers on repeats in our Pgenerosa_v074.a3 GenSAS annotation ([from 20190710](https://robertslab.github.io/sams-notebook/2019/07/10/Genome-Annotation-Pgenerosa_v074-Using-GenSAS.html)) for the manuscript we're putting together.
 
+Used the following file (repeats identified via RepeatMasker; original file name t_5d25021b0d20b-5d250896def4c-repeatmasker.gensas.gff3):
+
+[Panopea-generosa-vv0.74.a3.TE.gff3](https://owl.fish.washington.edu/halfshell/genomic-databank/Panopea-generosa-vv0.74.a3.TE.gff3)
+
+Analysis was done in a Jupyter notebook (link below).
 
 Jupyter Notebook (GitHub):
 
@@ -21,6 +27,7 @@ Jupyter Notebook (GitHub):
 
 #### RESULTS
 
+Will add info to manuscript and create a table.
 
 ```
 Panopea-generosa-vv0.74.a3.repeats.DNA.gff3
