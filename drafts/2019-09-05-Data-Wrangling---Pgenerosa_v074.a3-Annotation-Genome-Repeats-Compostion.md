@@ -17,6 +17,20 @@ Used the following file (repeats identified via RepeatMasker; original file name
 
 [Panopea-generosa-vv0.74.a3.TE.gff3](https://owl.fish.washington.edu/halfshell/genomic-databank/Panopea-generosa-vv0.74.a3.TE.gff3)
 
+Repeats were analyzed by type of repeats:
+
+- DNA transposons (DNA)
+
+- Simple repeats
+
+- LINE (Long Interspersed Nuclear Elements)
+
+- LTR (Long Terminal Repeats)
+
+- SINE (Short Interspersed Nuclear Elements)
+
+- Unknown repeats
+
 Analysis was done in a Jupyter notebook (link below).
 
 Jupyter Notebook (GitHub):
