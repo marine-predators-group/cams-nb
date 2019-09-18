@@ -64,11 +64,13 @@ categories:
   - SRA Submissions
 ---
 
+BioProject Accession:
 
+- [PRJNA566166](http://www.ncbi.nlm.nih.gov/bioproject/566166)
 
 ---
 
-Samples submitted:
+Table of samples submitted and their BioSample Accession numbers:
 
 | BIOSAMPLE ACCESSION                                             | READ PAIR 1                      | READ PAIR 2                      |
 |-----------------------------------------------------------------|----------------------------------|----------------------------------|
