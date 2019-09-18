@@ -26,16 +26,16 @@ Important things to note:
 
 
 
-    
+
   * Once any of the three required components for SRA submission have been created (SRA, BioProject, and BioSamples), they can no longer be edited/deleted by the user! Understandable if they've already been publicly released, but if they're still in pre-public release status, I think the user should be able to make changes as they see fit. As it currently stands, the user has to email the help desk at SRA and/or BioProjects to make any changes.
 
-    
+
   * Extremely difficult to figure out which information will show up (and where it will show up) in the final, formatted SRA record - no guide to this that I could find. Thus, if you screw it up, it's a major, major hassle to try to change anything.
 
-    
+
   * When creating a "Run" (within an "Experiment", within your SRA submission), only include sequencing files that provide the same data (e.g. if you have multiple sequence files, each generated from different individuals/samples, then you need to create a separate "Experiment" and "Run" for each of those files - otherwise, all files uploaded to a "Run" are combined into a single SRA file that loses any distinguishing info from the separate sequencing files).
 
-    
+
   * When creating a batch submission for BioSamples, there's no way to set a Title attribute. This means all of your submissions (in my case) will have all have a title of "Invertebrate sample". Considering that I will likely end up with dozens of BioSamples, that means there's no easy way to distinguish them from each other without some extra clicking and poking around.
 
 
@@ -50,7 +50,7 @@ Here's the best way to proceed:
 
 
 
-  2. Create [BioSample(s)(https://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
+  2. Create [BioSample(s)](https://submit.ncbi.nlm.nih.gov/subs/biosample/). This will be the next level of the hierarchy in the SRA submission and will be displayed as SAMPLE. This only shows up in the SRA when you create a new "Experiment"
 
 
 
@@ -73,100 +73,110 @@ Here's the best way to proceed:
 
 Here are some links that might come in handy (although, none are that great)...
 
-SRA Getting Started (helpful): [https://trace.ncbi.nlm.nih.gov/Traces/sra/?cmd=show&f=sra_sub_expl&view=get_started](http://trace.ncbi.nlm.nih.gov/Traces/sra/?cmd=show&f=sra_sub_expl&view=get_started)
+SRA Getting Started (helpful):
 
-SRA Metadata Overview (this is helpful): [https://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/](http://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/)
+- [https://trace.ncbi.nlm.nih.gov/Traces/sra/?cmd=show&f=sra_sub_expl&view=get_started](http://trace.ncbi.nlm.nih.gov/Traces/sra/?cmd=show&f=sra_sub_expl&view=get_started)
 
-SRA Submission Quick Start Guide (this is useful!): [https://www.ncbi.nlm.nih.gov/sra/docs/submit/](http://www.ncbi.nlm.nih.gov/sra/docs/submit/)
+SRA Metadata Overview (this is helpful):
 
-FTP Upload Instructions: [https://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/](http://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/)
+- [https://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/](http://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/)
 
-User UN-friendly SRA Guide: [https://www.ncbi.nlm.nih.gov/books/NBK47528/?report=reader](http://www.ncbi.nlm.nih.gov/books/NBK47528/?report=reader)
+SRA Submission Quick Start Guide (this is useful!):
+
+- [https://www.ncbi.nlm.nih.gov/sra/docs/submit/](http://www.ncbi.nlm.nih.gov/sra/docs/submit/)
+
+FTP Upload Instructions:
+
+- [https://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/](http://www.ncbi.nlm.nih.gov/sra/docs/submitfiles/)
+
+User UN-friendly SRA Guide:
+
+- [https://www.ncbi.nlm.nih.gov/books/NBK47528/?report=reader](http://www.ncbi.nlm.nih.gov/books/NBK47528/?report=reader)
 
 
 
 And, here are the screen caps, roughly in chronological order of how the process presents itself. It's too time consuming to caption any of these, so I'm putting them up for a reference. Also, all of the information seen in these screen caps has been deleted (because the entire submission was totally jacked up in multiple facets), so don't look for any of the various submission IDs - they no longer exist. This is really just to visually show how many steps there are in order to get stuff submitted - it's brutal.
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_01.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_02.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_03.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_04.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_05.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_06.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_07.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_08.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_09.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_10.jpg)
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)
-
-
-
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_11.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)
-
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_12.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_13.jpg)
+
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_14.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_15.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_16.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_17.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_18.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_19.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_20.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_21.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_22.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_23.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_24.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_25.jpg)
 
 
 
-![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)(http://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_26.jpg)
+
+
+
+![](https://eagle.fish.washington.edu/Arabidopsis/20160323_SRA_Submissions_27.jpg)
