@@ -116,7 +116,7 @@ tags:
 categories:
   - SRA Submissions
 ---
-Submitted sequencing data from Hollie's BS-seq project looking at differences in DNA methylation between juvenile geoduck exposed to different pHs over time.
+Submitted sequencing data (52 samples; see table below) from Hollie's BS-seq project looking at differences in DNA methylation between juvenile geoduck exposed to different pHs over time.
 
 
 BioProject Accession:
