@@ -36,7 +36,7 @@ echo "${PATH}" | tr : \\n >> system_path.log
 # Set number of CPUs to use
 threads=28
 
-# Set number of nucleotids to hard trim
+# Set number of nucleotides to hard trim
 num_nucs_trim=20
 
 
@@ -62,4 +62,19 @@ done
 for fastq in "${fastq_dir}"*R2*.gz
 do
   fastq_array_R2+=("${fastq}")
+done
+
+
+# Create array of sample names
+## Uses awk to parse out sample name from filename
+for R1_fastq in *R1*.gz
+do
+  names_array+=($(echo "${R1_fastq}" | awk -F"." '{print $1}'))
+done
+
+# Create list of fastq files used in analysis
+## Uses parameter substitution to strip leading path from filename
+for fastq in *.gz
+do
+  echo "${fastq}" >> fastq.list.txt
 done
