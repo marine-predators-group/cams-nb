@@ -33,12 +33,21 @@ echo "" >> system_path.log
 printf "%0.s-" {1..10} >> system_path.log
 echo "${PATH}" | tr : \\n >> system_path.log
 
-
+# Set number of CPUs to use
 threads=28
 
 
+# Paths to programs
+fastp=/gscratch/srlab/programs/fastp-0.20.0/fastp
+
+# Input/output files
+fastq_dir="/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/"
 
 
+## Inititalize arrays
+fastq_array_R1=()
+fastq_array_R2=()
+names_array=()
 
 # Create array of fastq R1 files
 for fastq in "${fastq_dir}"*R1*.gz
