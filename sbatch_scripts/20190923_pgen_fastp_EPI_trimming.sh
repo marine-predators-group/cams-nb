@@ -35,3 +35,19 @@ echo "${PATH}" | tr : \\n >> system_path.log
 
 
 threads=28
+
+
+
+
+
+# Create array of fastq R1 files
+for fastq in "${fastq_dir}"*R1*.gz
+do
+  fastq_array_R1+=("${fastq}")
+done
+
+# Create array of fastq R2 files
+for fastq in "${fastq_dir}"*R2*.gz
+do
+  fastq_array_R2+=("${fastq}")
+done
