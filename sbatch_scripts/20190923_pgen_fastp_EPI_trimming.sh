@@ -44,7 +44,7 @@ num_nucs_trim=20
 fastp=/gscratch/srlab/programs/fastp-0.20.0/fastp
 
 # Input/output files
-fastq_dir="/gscratch/scrubbed/samwhite/data/P_generosa/RNAseq/"
+
 
 
 ## Inititalize arrays
