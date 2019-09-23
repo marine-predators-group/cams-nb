@@ -83,13 +83,14 @@ for index in "${!fastq_array_R1[@]}"
 do
   sample_name=$(echo "${names_array[index]}")
 	${fastp} \
-	--in1 ${fastq_array_R1[index]} \
-	--in2 ${fastq_array_R2[index]} \
+	--in1 "${fastq_array_R1[index]}" \
+	--in2 "${fastq_array_R2[index]}" \
 	--disable_quality_filtering \
 	--disable_length_filtering \
 	--disable_adapter_trimming \
 	--trim_front1 ${num_nucs_trim} \
 	--trim_front2 ${num_nucs_trim} \
-	--out1 ${sample_name}.20bp-trim.fq.gz \
-	--out2 ${sample_name}.20bp-trim.fq.gz
+	--thread ${threads}
+	--out1 "${sample_name}".20bp-trim.fq.gz \
+	--out2 "${sample_name}".20bp-trim.fq.gz
 done
