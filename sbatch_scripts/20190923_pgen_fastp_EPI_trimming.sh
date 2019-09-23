@@ -93,4 +93,6 @@ do
 	--thread ${threads} \
 	--out1 "${sample_name}".20bp-trim.fq.gz \
 	--out2 "${sample_name}".20bp-trim.fq.gz
+	# Remove original FastQ files
+	rm "${fastq_array_R1[index]}" "${fastq_array_R2[index]}"
 done
