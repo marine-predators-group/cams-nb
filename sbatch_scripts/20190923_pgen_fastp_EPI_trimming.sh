@@ -49,7 +49,8 @@ fastp=/gscratch/srlab/programs/fastp-0.20.0/fastp
 ## Inititalize arrays
 fastq_array_R1=()
 fastq_array_R2=()
-names_array=()
+R1_names_array=()
+R2_names_array=()
 
 # Create array of fastq R1 files
 for fastq in *R1*.gz
@@ -68,7 +69,14 @@ done
 ## Uses awk to parse out sample name from filename
 for R1_fastq in *R1*.gz
 do
-  names_array+=($(echo "${R1_fastq}" | awk -F"." '{print $1}'))
+  R1_names_array+=($(echo "${R1_fastq}" | awk -F"." '{print $1}'))
+done
+
+# Create array of sample names
+## Uses awk to parse out sample name from filename
+for R2_fastq in *R2*.gz
+do
+  R2_names_array+=($(echo "${R2_fastq}" | awk -F"." '{print $1}'))
 done
 
 # Create list of fastq files used in analysis
@@ -81,7 +89,8 @@ done
 # Run fastp on files and trim set number of nucleotides from 5' end of reads
 for index in "${!fastq_array_R1[@]}"
 do
-  sample_name=$(echo "${names_array[index]}")
+  R1_sample_name=$(echo "${R1_names_array[index]}")
+	R2_sample_name=$(echo "${R2_names_array[index]}")
 	${fastp} \
 	--in1 "${fastq_array_R1[index]}" \
 	--in2 "${fastq_array_R2[index]}" \
@@ -91,8 +100,8 @@ do
 	--trim_front1 ${num_nucs_trim} \
 	--trim_front2 ${num_nucs_trim} \
 	--thread ${threads} \
-	--out1 "${sample_name}".20bp-trim.fq.gz \
-	--out2 "${sample_name}".20bp-trim.fq.gz
+	--out1 "${R1_sample_name}".20bp-trim.fq.gz \
+	--out2 "${R2_sample_name}".20bp-trim.fq.gz
 	# Remove original FastQ files
 	rm "${fastq_array_R1[index]}" "${fastq_array_R2[index]}"
 done
