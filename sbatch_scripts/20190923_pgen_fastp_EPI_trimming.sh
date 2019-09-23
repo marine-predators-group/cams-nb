@@ -36,6 +36,9 @@ echo "${PATH}" | tr : \\n >> system_path.log
 # Set number of CPUs to use
 threads=28
 
+# Set number of nucleotids to hard trim
+num_nucs_trim=20
+
 
 # Paths to programs
 fastp=/gscratch/srlab/programs/fastp-0.20.0/fastp
