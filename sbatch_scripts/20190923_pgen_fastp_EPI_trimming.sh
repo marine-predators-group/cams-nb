@@ -26,12 +26,14 @@ module load intel-python3_2017
 
 # Document programs in PATH (primarily for program version ID)
 
-date >> system_path.log
-echo "" >> system_path.log
-echo "System PATH for $SLURM_JOB_ID" >> system_path.log
-echo "" >> system_path.log
-printf "%0.s-" {1..10} >> system_path.log
-echo "${PATH}" | tr : \\n >> system_path.log
+{
+date
+echo ""
+echo "System PATH for $SLURM_JOB_ID"
+echo ""
+printf "%0.s-" {1..10}
+echo "${PATH}" | tr : \\n
+} >> system_path.log
 
 # Set number of CPUs to use
 threads=28
