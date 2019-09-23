@@ -17,6 +17,11 @@
 ## Specify the working directory for this job
 #SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190923_pgen_fastp_EPI_trimming
 
+
+# This script is called by 20190923_pgen_EPI_rsync.sh. That script transfers the FastQ files
+# to the working directory from: https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/
+
+
 # Exit script if any command fails
 set -e
 
