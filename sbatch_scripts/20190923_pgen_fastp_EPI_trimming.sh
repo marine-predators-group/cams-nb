@@ -52,13 +52,13 @@ fastq_array_R2=()
 names_array=()
 
 # Create array of fastq R1 files
-for fastq in "${fastq_dir}"*R1*.gz
+for fastq in *R1*.gz
 do
   fastq_array_R1+=("${fastq}")
 done
 
 # Create array of fastq R2 files
-for fastq in "${fastq_dir}"*R2*.gz
+for fastq in *R2*.gz
 do
   fastq_array_R2+=("${fastq}")
 done
@@ -90,7 +90,7 @@ do
 	--disable_adapter_trimming \
 	--trim_front1 ${num_nucs_trim} \
 	--trim_front2 ${num_nucs_trim} \
-	--thread ${threads}
+	--thread ${threads} \
 	--out1 "${sample_name}".20bp-trim.fq.gz \
 	--out2 "${sample_name}".20bp-trim.fq.gz
 done
