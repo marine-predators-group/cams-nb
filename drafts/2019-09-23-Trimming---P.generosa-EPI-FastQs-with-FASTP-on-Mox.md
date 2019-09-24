@@ -16,9 +16,15 @@ I decided to use some trimming software called [fastp](https://github.com/OpenGe
 
 Looking at the M-Bias plots and the original FastQC assessment, I opted to trim the first 20bp from the 5' end of all reads.
 
+I followed this up with FastQC and MultiQC.
+
 ---
 
 #### RESULTS
+
+This was pretty quick, ~2.75hrs:
+
+![fastp runtime screencap](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190923_fastp_trimming_EPI_runtime.png?raw=true)
 
 Output folder:
 
@@ -33,3 +39,16 @@ fastp report (HTML):
 MultiQC report (HTML):
 
 - [20190923_pgen_fastp_EPI_trimming/multiqc_report.html](https://gannet.fish.washington.edu/Atumefaciens/20190923_pgen_fastp_EPI_trimming/multiqc_report.html)
+
+
+Firstly, it turns out that [fastp](https://github.com/OpenGene/fastp) is pretty awesome! It automatically generates a summary HTML file with before and after trimming data, similar to that of FastQC. Had I realized this, I might not have bothered with FastQC...
+
+Anyway, with that being said, this is how the before/after look for Read 1s via the fastp HTML:
+
+##### BEFORE
+![fastp sequence quality plots before](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190923_fastp_trimming_EPI_before.png?raw=true)
+
+---
+
+##### AFTER
+![fastp sequence quality plots before](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190923_fastp_trimming_EPI_after.png?raw=true)
