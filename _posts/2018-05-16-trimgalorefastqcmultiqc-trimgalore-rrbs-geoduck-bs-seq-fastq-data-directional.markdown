@@ -67,7 +67,7 @@ Jupyter Notebook:
 
 
 
-  * [20180516_roadrunner_geoduck_RRBS_trimming.ipynb (GitHub)(https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_RRBS_trimming.ipynb)
+  * [20180516_roadrunner_geoduck_RRBS_trimming.ipynb](https://github.com/sr320/LabDocs/blob/master/jupyter_nbs/sam/20180516_roadrunner_geoduck_RRBS_trimming.ipynb) (GitHub)
 
 
 
@@ -136,5 +136,3 @@ Jupyter Notebook:
 
 
   * [multiqc_report.html](https://owl.fish.washington.edu/Athaliana/20180516_geoduck_trimgalore_rrbs/20180516_geoduck_trimmed_fastqc/multiqc_data/multiqc_report.html)
-
-
