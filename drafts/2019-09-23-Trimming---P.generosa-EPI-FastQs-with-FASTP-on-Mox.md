@@ -19,4 +19,4 @@ categories:
 
 Output folder:
 
-- []()
+- [20190923_pgen_fastp_EPI_trimming/](https://gannet.fish.washington.edu/Atumefaciens/20190923_pgen_fastp_EPI_trimming/)
