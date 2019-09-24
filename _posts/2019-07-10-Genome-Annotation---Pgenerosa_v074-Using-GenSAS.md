@@ -94,8 +94,8 @@ features_array=(CDS exon gene mRNA)
 for feature in ${features_array[@]}
 do
 output="Panopea-generosa-vv0.74.a3.${feature}.gff3"
-input="Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3"
-head -n 3 Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3 \
+input="Panopea-generosa-vv0.74.a3-merged-2019-09-24-9-20-04.gff3"
+head -n 3 Panopea-generosa-vv0.74.a3-merged-2019-09-24-9-20-04.gff3 \
 >> ${output}
 awk -v feature="$feature" '$3 == feature {print}' ${input} \
 >> ${output}
