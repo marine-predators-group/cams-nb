@@ -65,9 +65,9 @@ Output folder:
 
 - [20190710_Pgenerosa_v074_gensas_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/)
 
-Merged GFF:
+Merged GFF (SwissProt IDs in Column 9 - from BLASTp and DIAMOND):
 
-- [Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3-merged-2019-09-03-6-14-33.gff3)
+- [Panopea-generosa-vv0.74.a3-merged-2019-09-24-9-20-04.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190710_Pgenerosa_v074_gensas_annotation/Panopea-generosa-vv0.74.a3-merged-2019-09-24-9-20-04.gff3)
 
 Feature counts:
 
