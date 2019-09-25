@@ -18,6 +18,19 @@ Looking at the M-Bias plots and the original FastQC assessment, I opted to trim 
 
 I followed this up with FastQC and MultiQC.
 
+Use the following Bash script to initiate file transfer to Mox and call the SBATCH script:
+
+```shell
+#!/bin/bash
+
+## Rsync P.generosa EPI files and then run SBATCH script for hard trimming.
+
+rsync -av --progress owl:/volume1/web/Athaliana/20180516_geoduck_trimgalore_rrbs/*.fq.gz .
+
+
+sbatch 20190923_pgen_fastp_EPI_trimming.sh
+```
+
 
 SBATCH script (GitHub):
 
