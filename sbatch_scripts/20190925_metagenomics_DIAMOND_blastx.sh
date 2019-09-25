@@ -64,14 +64,14 @@ do
 	echo "${fastq}" >> fastq_list.txt
 
 	# Strip leading path and extensions
-	no_path=$(echo ${fastq##*/})
-	no_ext=$(echo ${no_path%%.*})
+	no_path=$(echo "${fastq##*/}")
+	no_ext=$(echo "${no_path%%.*}")
 
 	# Run DIAMOND with blastx
 	${diamond} blastx \
 	--db ${dmnd} \
-	--query ${fastq} \
-	--out ${no_ext}.blastx.daa \
+	--query "${fastq}" \
+	--out "${no_ext}".blastx.daa \
 	--outfmt 100 \
 	--top 5 \
 	--block-size 20.0 \
@@ -82,5 +82,5 @@ do
 	--acc2taxa ${prot_acc2tax} \
 	--acc2interpro2go ${acc2interpro} \
 	--acc2eggnog ${acc2eggnog} \
-	${no_ext}.blastx.daa
+	"${no_ext}".blastx.daa
 done
