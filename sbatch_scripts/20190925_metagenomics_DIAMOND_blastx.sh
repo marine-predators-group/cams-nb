@@ -49,6 +49,7 @@ dmnd=/gscratch/srlab/blastdbs/ncbi-nr-20190925/nr.dmnd
 # MEGAN mapping files
 prot_acc2tax=/gscratch/srlab/sam/data/databases/MEGAN/prot_acc2tax-Jul2019X1.abin
 acc2interpro=/gscratch/srlab/sam/data/databases/MEGAN/acc2interpro-Jul2019X.abin
+acc2eggnog=/gscratch/srlab/sam/data/databases/MEGAN/acc2eggnog-Jul2019X.abin
 
 # FastQ files directory
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa/
