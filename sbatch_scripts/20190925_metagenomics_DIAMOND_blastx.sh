@@ -79,8 +79,8 @@ do
 	--out "${no_ext}".blastx.daa \
 	--outfmt 100 \
 	--top 5 \
-	--block-size 20.0 \
-	--index-chunks 2
+	--block-size 15.0 \
+	--index-chunks 4
 
 	# MEGANIZE .daa files
 	${meganizer} \
