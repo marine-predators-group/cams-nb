@@ -17,6 +17,11 @@
 ## Specify the working directory for this job
 #SBATCH --chdir=/gscratch/scrubbed/samwhite/outputs/20190925_metagenomics_DIAMOND_blastx
 
+## Perform DIAMOND BLASTx on trimmed geoduck water metagnomics FastQ files,
+## and prepare them for analysis in MEGAN6 by running daa-meganizer on them.
+## Trimmed FastQ files originated here:
+## https://gannet.fish.washington.edu/Atumefaciens/20181211_metagenomics_fastqc_trimgalore/20181211_metagenomics_trimgalore_03/
+
 # Exit script if any command fails
 set -e
 
