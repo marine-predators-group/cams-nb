@@ -81,5 +81,6 @@ do
 	${meganizer} \
 	--acc2taxa ${prot_acc2tax} \
 	--acc2interpro2go ${acc2interpro} \
-
+	--acc2eggnog ${acc2eggnog} \
+	${no_ext}.blastx.daa
 done
