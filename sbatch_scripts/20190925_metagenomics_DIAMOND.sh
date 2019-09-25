@@ -51,3 +51,23 @@ acc2interpr=/gscratch/srlab/sam/data/databases/MEGAN/acc2interpro-Jul2019X.abin
 
 # FastQ files directory
 fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa/
+
+
+# Loop through FastQ files, log filenames to fastq_list.txt.
+# Run DIAMOND on each FastQ
+# Run MEGANIZER on each DIAMOND output file
+for fastq in ${fastq_dir}*.fq.gz
+do
+	echo "${fastq}" >> fastq_list.txt
+	no_path=$(echo ${fastq##*/})
+	no_ext=$(echo ${no_path%%.*})
+	${diamond} \
+	--db ${dmnd} \
+	--query ${fastq} \
+	--out ${no_ext}.daa \
+	--outfmt 100 \
+	--top 5 \
+	--block-size 20.0 \
+	--index-chunks 2
+
+done
