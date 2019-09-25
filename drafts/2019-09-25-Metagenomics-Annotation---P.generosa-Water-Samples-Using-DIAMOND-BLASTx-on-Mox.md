@@ -35,6 +35,12 @@ The taxonmap and taxon node files were downloaded from the following NCBI locati
 
 - `ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdmp.zip`
 
+After running DIAMOND, the output files were "MEGANized" to add taxonomy/functional info to them. This will make them ready to open directly in MEGAN6.
+
+SBATCH script (GitHub):
+
+- [20190923_pgen_fastp_EPI_trimming.sh](https://github.com/RobertsLab/sams-notebook/blob/master/sbatch_scripts/20190923_pgen_fastp_EPI_trimming.sh)
+
 ---
 
 #### RESULTS
