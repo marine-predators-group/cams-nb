@@ -27,35 +27,27 @@ module load intel-python3_2017
 # SegFault fix?
 export THREADS_DAEMON_MODEL=1
 
-# Set working dir
-wd=$(pwd)
+# Document programs in PATH (primarily for program version ID)
+
+{
+date
+echo ""
+echo "System PATH for $SLURM_JOB_ID"
+echo ""
+printf "%0.s-" {1..10}
+echo "${PATH}" | tr : \\n
+} >> system_path.log
+
 
 # Program paths
-diamond=
+diamond=/gscratch/srlab/programs/diamond-0.9.26/diamond
 
 # DIAMOND NCBI nr database
 dmnd=/gscratch/srlab/blastdbs/ncbi-nr-20190925/nr.dmnd
 
+# MEGAN mapping files
+prot_acc2tax=/gscratch/srlab/sam/data/databases/MEGAN/prot_acc2tax-Jul2019X1.abin
+acc2interpr=/gscratch/srlab/sam/data/databases/MEGAN/acc2interpro-Jul2019X.abin
 
-# Record system info
-{
-echo "TODAY'S DATE:"
-date
-echo "------------"
-echo ""
-lsb_release -a
-echo ""
-echo "------------"
-echo "HOSTNAME: " hostname
-echo ""
-echo "------------"
-echo "Computer Specs:"
-echo ""
-lscpu
-echo ""
-echo "------------"
-echo ""
-echo "Memory Specs"
-echo ""
-free -mh
-} >> "${system_specs}"
+# FastQ files directory
+fastq_dir=/gscratch/srlab/sam/data/metagenomics/P_generosa/
