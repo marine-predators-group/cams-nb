@@ -5,7 +5,7 @@ proc ModulesHelp { } {
 
 module-whatis "Adds dDocent dependencies to environment."
 
-prepend-path    PATH            /gscratch/srlab/programs/freebayes-v1.3.1/
+prepend-path    PATH            /gscratch/srlab/programs/freebayes-v1.3.1
 prepend-path    PATH            /gscratch/srlab/programs/Trimmomatic-0.36/
 prepend-path    PATH            /gscratch/srlab/programs/stacks-2.41/
 prepend-path    PATH            /gscratch/srlab/programs/bwa-0.7.17/
@@ -20,5 +20,3 @@ prepend-path    PATH            /gscratch/srlab/programs/parallel-20190922/src/
 prepend-path    PATH            /gscratch/srlab/programs/bamtools-2.5.1/usr/local/bin
 /
 prepend-path    PATH            /gscratch/srlab/programs/pear-0.9.11-linux-x86_64/bin/
-prepend-path    PATH            /gscratch/srlab/programs/
-prepend-path    PATH            /gscratch/srlab/programs/
