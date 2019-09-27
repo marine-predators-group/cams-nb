@@ -20,4 +20,4 @@ prepend-path    PATH            /gscratch/srlab/programs/parallel-20190922/src
 prepend-path    PATH            /gscratch/srlab/programs/bamtools-2.5.1/usr/local/bin
 prepend-path    PATH            /gscratch/srlab/programs/pear-0.9.11-linux-x86_64/bin
 prepend-path    PATH            /gscratch/srlab/programs/fastp-0.20.0
-prepend-path    PATH            /usr/local/bin
+prepend-path    PATH            /gscratch/srlab/programs/mawk-1.3.4-20190203
