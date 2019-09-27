@@ -1,0 +1,8 @@
+#%Module1.0
+proc ModulesHelp { } {
+        puts stderr "\tAdds dDocent dependencies to environment."
+}
+
+module-whatis "Adds dDocent dependencies to environment."
+
+prepend-path    PATH            /gscratch/srlab/programs/
