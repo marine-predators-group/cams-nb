@@ -8,7 +8,7 @@
 ## Nodes
 #SBATCH --nodes=1
 ## Walltime (days-hours:minutes:seconds format)
-#SBATCH --time=10-00:00:00
+#SBATCH --time=6-00:00:00
 ## Memory per node
 #SBATCH --mem=120G
 ##turn on e-mail notification
@@ -81,15 +81,4 @@ do
 	--top 5 \
 	--block-size 15.0 \
 	--index-chunks 4
-
-	# MEGANIZE .daa files
-	## The xvfb-run stuff is needed to handle X11 requirement of meganizer
-	xvfb-run \
-	--auto-servernum \
-	--server-num=1 \
-	${meganizer} \
-	--in "${no_ext}".blastx.daa \
-	--acc2taxa ${prot_acc2tax} \
-	--acc2interpro2go ${acc2interpro} \
-	--acc2eggnog ${acc2eggnog}
 done
