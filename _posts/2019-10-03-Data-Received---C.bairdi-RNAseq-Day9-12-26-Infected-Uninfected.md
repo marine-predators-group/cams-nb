@@ -65,3 +65,53 @@ All files have been added to nightingales/C_bairdi:
 - [nightingales/C_bairdi](https://owl.fish.washington.edu/nightingales/C_bairdi/)
 
 Will update readme and [Nightingales Google sheet](http://b.link/nightingales)
+
+---
+
+I just realized that the list of FastQ files does not match the list of NWGC Sample IDs (329772 and 329773 do not have corresponding FastQ files). I've emailed the facility and this was their response:
+
+
+>Machiko Threlkeld
+>6:14 PM (3 hours ago)
+>to Sam, Peter, Stephanie
+>
+>Hi Sam,
+>
+>I am sorry. I should have been more clear. 2 samples of yours failed sequencing steps and we didn't have any more samples left to repeat the process. The QC results show that those two had less than 10ul to start with.
+>
+>Here is the summary of your project:
+>
+>\# total samples submitted = 6
+>
+>\# samples approved for sequencing = 6
+>
+>\# samples passed sequencing QC and released = 4
+>
+>I hope you understand.
+>
+>Thank you,
+>Machiko
+
+So, this is the first I'm hearing of any concern with these two particular samples. Especially since they passed the initial QC on [20190610](https://robertslab.github.io/sams-notebook/2019/05/21/Sample-Submission-Tanner-Crab-Infected-vs-Uninfected-RNAseq.html)!
+
+Here's my response; I'll update this post when they respond:
+
+
+>Sam White <samwhite@uw.edu>
+>8:58 PM (32 minutes ago)
+>to Machiko, Peter, Stephanie
+>
+>Hi Machiko,
+>
+>I definitely do not understand.
+>
+>The initial QC report you sent to me indicated that these two samples PASSED QC (there was only one sample that failed QC - that sample ended up getting sequenced without issue).
+>
+>Additionally, I'm not sure why the volume of the samples is relevant. The QC report clearly indicated that both samples had less than 10uL, yet they PASSED QC. Also, if there was a concern with low sample volume, why not add the additional water to each sample? If the volumes had been adjusted to 10uL, the resulting concentrations for both of those samples would have been ~100ng/uL; on par with the other samples. So, I am having difficulty believing that the sample volume was an issue of any sort.
+>
+>Regardless, the QC report indicated those two samples passed QC. So now what?
+>
+>Thanks for any insight you can provide.
+>
+>
+>Sam
