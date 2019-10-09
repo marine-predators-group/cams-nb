@@ -34,3 +34,23 @@ Here's the manifest sample sheet I submitted:
 | D12_uninfected               |                         | Chionoecetes bairdi |            |          | 74                         | 10                    |
 | D26_infected                 |                         | Chionoecetes bairdi |            |          | 59                         | 10                    |
 | D26_uninfected               |                         | Chionoecetes bairdi |            |          | 70                         | 10                    |
+
+
+---
+
+#### UPDATE 20190610
+
+Sample QC came back. One sample failed QC (D26_infected), but I've told them to proceed with sequencing of all samples.
+
+QC summary table supplied by NWGC (Google Sheet):
+
+- [roberts_grc_rnaseq_2_QCResults_20190610](https://drive.google.com/file/d/0B2S_90rPaQMzNmVQZm51T0VjalBuWFMzR1NiMVJpUXdWdWsw/view?usp=sharing)
+
+| Sample Note | NWGC Sample ID | Investigator Sample ID | Volume (ul) | Concentration (ng/ul) | Mass (ng) | QC Validation Pass/Fail |
+|-------------|----------------|------------------------|-------------|-----------------------|-----------|-------------------------|
+|             | 329772         | D9_infected            | 6.98        | 112.02                | 1005.95   | Pass                    |
+|             | 329773         | D9_uninfected          | 8.18        | 114.42                | 1164.75   | Pass                    |
+|             | 329774         | D12_infected           | 11.72       | 88.51                 | 1214.42   | Pass                    |
+|             | 329775         | D12_uninfected         | 10.71       | 107.38                | 1364.77   | Pass                    |
+| low mass    | 329776         | D26_infected           | 11.22       | 58.11                 | 768.25    | Fail                    |
+|             | 329777         | D26_uninfected         | 11.11       | 97.32                 | 1275.92   | Pass                    |
