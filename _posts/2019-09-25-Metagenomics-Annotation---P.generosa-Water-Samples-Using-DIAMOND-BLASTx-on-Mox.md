@@ -182,3 +182,5 @@ The initial DIAMOND BLASTx took ~12hrs per sample, for a total run time of ~5 da
 Output folder:
 
 - [20190925_metagenomics_DIAMOND_blastx/](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/)
+
+All `.daa` files should now be able to be loaded into MEGAN6 for taxonomic analyses.
