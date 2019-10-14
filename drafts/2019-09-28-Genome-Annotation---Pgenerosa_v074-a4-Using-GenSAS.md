@@ -42,7 +42,7 @@ Merged GFF (SwissProt IDs in Column 9 - from BLASTp and DIAMOND):
 
 BUSCO assessment (metazoa_odb9):
 
-- 71.5% complete BUSCOs present in predicted genes
+- 71.5% complete BUSCOs present in predicted genes (_Panopea-generosa-vv0.74.a3_ had 68.4%)
 
 ---
 
@@ -60,6 +60,20 @@ awk 'NR>3 {print $3}' Panopea-generosa-vv0.74.a4-merged-2019-10-07-4-46-46.gff3 
   15514 tRNA
 
 ```
+
+Here's a feature count comparison between the two different annotations:
+
+| Feature | Panopea-generosa-vv0.74.a3 | Panopea-generosa-vv0.74.a4 |
+|---------|----------------------------|----------------------------|
+| CDS     | 192022                     | 236960                     |
+| exon    | 192022                     | 236960                     |
+| gene    | 45748                      | 34947                      |
+| mRNA    | 45748                      | 38326                      |
+
+
+This is particularly interesting because we now see a difference in the number of mRNA/gene features in the Panopea-generosa-vv0.74.a4, as opposed to Panopea-generosa-vv0.74.a3 where these two feature counts are identical. The fact that Panopea-generosa-vv0.74.a4 has different counts (notice that mRNA is greater than gene) between these two features suggests that providing the Stringtie BAM files have resulted in identification/annotation of alternative isoforms for some genes.
+
+---
 
 Individual feature GFFs were made with the following shell commands:
 
