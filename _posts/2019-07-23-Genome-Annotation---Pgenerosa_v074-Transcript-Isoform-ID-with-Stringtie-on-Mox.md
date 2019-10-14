@@ -210,3 +210,13 @@ Merged GTF:
 Although I won't link them here, each input FastQ pair has a corresponding alignment file (BAM), coverage file (`.cov_refs.gtf`), Hisat2 alignment stats file (`_hisat2.err`), and GTF.
 
 Additionally, I'm not going to delve too much into the analysis of this. I'll write a separate notebook post that goes into more depth on how this data looks, how it compares to the Pgenerosa_v074 Stringtie data, and what this means for the annotation of Scaffold 1...
+
+
+#### UPDATE 20190829
+
+Created a massive, merged BAM file for use with GenSAS for further annotation of the Pgenerosa_v074 assembly. Ran the following commands to create merged BAM file and corresponding index file:
+
+```shell
+samtools merge 20190723_sorted.merged.bam *.bam
+samtools index 20190723_sorted.merged.bam
+```
