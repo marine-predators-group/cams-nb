@@ -27,7 +27,8 @@ Output folder:
 
 Merged GFF (SwissProt IDs in Column 9 - from BLASTp and DIAMOND):
 
-- ()[]
+- [Panopea-generosa-vv0.74.a4-merged-2019-10-07-4-46-46.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4-merged-2019-10-07-4-46-46.gff3)
+
 
 
 BUSCO assessment (metazoa_odb9):
@@ -67,3 +68,17 @@ awk -v feature="$feature" '$3 == feature {print}' ${input} \
 >> ${output}
 done
 ```
+
+- [Panopea-generosa-vv0.74.a4.CDS.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.CDS.gff3)
+
+- [Panopea-generosa-vv0.74.a4.exon.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.exon.gff3)
+
+- [Panopea-generosa-vv0.74.a4.gene.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.gene.gff3)
+
+- [Panopea-generosa-vv0.74.a4.mRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.mRNA.gff3)
+
+- [Panopea-generosa-vv0.74.a4.repeat_region.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.repeat_region.gff3)
+
+- [Panopea-generosa-vv0.74.a4.rRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.rRNA.gff3)
+
+- [Panopea-generosa-vv0.74.a4.tRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.tRNA.gff3)
