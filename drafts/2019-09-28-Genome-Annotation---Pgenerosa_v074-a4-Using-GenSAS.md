@@ -82,3 +82,18 @@ done
 - [Panopea-generosa-vv0.74.a4.rRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.rRNA.gff3)
 
 - [Panopea-generosa-vv0.74.a4.tRNA.gff3](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.tRNA.gff3)
+
+---
+
+SwissProt functional annotations (tab-delimited text):
+
+- BLASTp
+  - [Panopea-generosa-vv0.74.a4.5d951a9b74287-blast_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.5d951a9b74287-blast_functional.tab)
+- DIAMOND
+  - [Panopea-generosa-vv0.74.a4.5d951bcf45b4b-diamond_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.5d951bcf45b4b-diamond_functional.tab)
+
+Pfam annotations (tab-delimited text):
+
+- [Panopea-generosa-vv0.74.a4.5d951bd7b0381-pfam.tab](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.5d951bd7b0381-pfam.tab)
+
+---
