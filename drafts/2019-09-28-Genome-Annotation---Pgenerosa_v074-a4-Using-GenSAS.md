@@ -92,8 +92,38 @@ SwissProt functional annotations (tab-delimited text):
 - DIAMOND
   - [Panopea-generosa-vv0.74.a4.5d951bcf45b4b-diamond_functional.tab](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.5d951bcf45b4b-diamond_functional.tab)
 
+---
+
 Pfam annotations (tab-delimited text):
 
 - [Panopea-generosa-vv0.74.a4.5d951bd7b0381-pfam.tab](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/Panopea-generosa-vv0.74.a4.5d951bd7b0381-pfam.tab)
+
+
+Grabbed the top 10 most abundant Pfam Accessions to see how things looked:
+
+```shell
+awk '{print $2}' Panopea-generosa-vv0.74.a4.5d951bd7b0381-pfam.tab | sort | uniq -c | sort -nr | head
+```
+
+| Feature Count | Pfam Accession | Pfam                                |
+|---------------|----------------|-------------------------------------|
+| 250           | PF07690.11     | major facilitator superfamily (MFS) |
+| 213           | PF00643.19     | B-box zinc finger                   |
+| 202           | PF00069.20     | Protein kinase domain               |
+| 192           | PF00001.16     | Rhodopsin-like receptors            |
+| 190           | PF12796.2      | Ankyrin repeat                      |
+| 147           | PF00400.27     | WD40 repeat                         |
+| 145           | PF00084.15     | Selectin                            |
+| 135           | PF00067.17     | Cytochrome P450                     |
+| 134           | PF00059.16     | C-type lectin                       |
+| 133           | PF02931.18     | Ligand-gated ion channel            |
+
+A couple of interesting things that I notice from this table:
+
+1. This annotation eliminates the DNA transposition Pfams that were present in the [Panopea-generosa-vv0.74.a3 GenSAS annotation from 20190710](https://robertslab.github.io/sams-notebook/2019/07/10/Genome-Annotation-Pgenerosa_v074-Using-GenSAS.html)
+
+2. Repeat families are still present, but now make up the majority of the most abundant Pfams.
+
+3. Rhodopsin Pfam is still amongst the Top 10 most abundant Pfams!
 
 ---
