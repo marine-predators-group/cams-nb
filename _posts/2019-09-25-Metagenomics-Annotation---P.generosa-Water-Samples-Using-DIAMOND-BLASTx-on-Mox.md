@@ -171,6 +171,10 @@ done
 
 #### RESULTS
 
+The initial DIAMOND BLASTx took ~12hrs per sample, for a total run time of ~5 days:
+
+![Screencap of DIAMONDA BLASTx Mox runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190925_metagenomics_DIAMOND_blastx_runtime.png?raw=true)
+
 Output folder:
 
 - [20190925_metagenomics_DIAMOND_blastx/](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/)
