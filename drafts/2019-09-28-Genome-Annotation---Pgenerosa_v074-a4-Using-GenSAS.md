@@ -283,3 +283,7 @@ Project Summary file (TEXT):
   >InterProScan
   - version : 5.29-68.0
 ```
+
+Overall, I think this annotation is likely to be significantly better than the Panopea-generosa-vv0.74.a3 version. Particularly because we now have alternative isoform information for genes:
+
+![IGV screencap showing mRNA alternative isoforms for some genes](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190928_gensas_Panopea-generosa-vv0.74.a4_igv.png?raw=true)
