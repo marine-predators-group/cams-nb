@@ -14,7 +14,16 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+I'd previously annotated our [Pgenerosa_v074 with GenSAS](https://robertslab.github.io/sams-notebook/2019/07/10/Genome-Annotation-Pgenerosa_v074-Using-GenSAS.html), but did so using limited options as we were (and still are) in need of an annotated genome to use for methylation data analysis. As such, I opted for speed, but a potentially a less accurate annotation.
 
+Since then, I've re-run the annotation, but have, essentially, added all the options. Meaning, I've run additional _ab initio_ gene predictors: BRAKER and GeneMarkES (previously, I only ran SNAP and Augustus). I also provided additional data to use as evidence; specifically a singular merged BAM file from the [Stringtie Isoform ID I ran on 20190723](https://robertslab.github.io/sams-notebook/2019/07/23/Genome-Annotation-Pgenerosa_v074-Transcript-Isoform-ID-with-Stringtie-on-Mox.html). I also ran RNAmmer (rRNA identification) and tRNAscan (tRNA identification).
+
+This should amount to a more accurate genome annotation, as the analysis will utilize a plethora of additional data to help predict genes.
+
+
+This version of the genome annotation will be referred to as:
+
+- Panopea-generosa-vv0.74.a4
 
 
 ---
