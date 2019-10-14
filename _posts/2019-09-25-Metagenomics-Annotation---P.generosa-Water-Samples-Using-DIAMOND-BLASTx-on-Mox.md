@@ -127,7 +127,9 @@ do
 done
 ```
 
-After running DIAMOND, the output files were "MEGANized" to add taxonomy/functional info to them. This will make them ready to open directly in MEGAN6. Used the following taxonomy mapping files available from the [MEGAN6 Download Page](https://software-ab.informatik.uni-tuebingen.de/download/megan6/welcome.html):
+After running DIAMOND, the output files were "MEGANized" to add taxonomy/functional info to them. This will make them ready to open directly in MEGAN6. MEGANization was performed on my computer (swoose) due to the need for the MEGAN6 software to launch an X11 window (I believe this is somehow tied to a graphical user interface), which breaks the Java commands when run on Mox. Frustratingly, even though Java throws an exception, the exception doesn't appear to kill the program, which prevents Mox from knowing that the job has failed - it will just sit until the job times out! So, I didn't realize this wasn't working on Mox for a few days...
+
+Used the following taxonomy mapping files available from the [MEGAN6 Download Page](https://software-ab.informatik.uni-tuebingen.de/download/megan6/welcome.html):
 
 - (Protein accession to NCBI-taxonomy mapping file)[http://ab.inf.uni-tuebingen.de/data/software/megan6/download/prot_acc2tax-Jul2019X1.abin.zip]
 
@@ -174,6 +176,8 @@ done
 The initial DIAMOND BLASTx took ~12hrs per sample, for a total run time of ~5 days:
 
 ![Screencap of DIAMONDA BLASTx Mox runtime](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20190925_metagenomics_DIAMOND_blastx_runtime.png?raw=true)
+
+
 
 Output folder:
 
