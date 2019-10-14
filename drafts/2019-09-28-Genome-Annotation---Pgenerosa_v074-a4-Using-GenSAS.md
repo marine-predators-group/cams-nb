@@ -23,7 +23,7 @@ categories:
 
 Output folder:
 
-- []()
+- [20190928_Pgenerosa_v074.a4_gensas_annotation/](https://gannet.fish.washington.edu/Atumefaciens/20190928_Pgenerosa_v074.a4_gensas_annotation/)
 
 Merged GFF (SwissProt IDs in Column 9 - from BLASTp and DIAMOND):
 
