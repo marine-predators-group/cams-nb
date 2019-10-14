@@ -71,7 +71,7 @@ Here's a feature count comparison between the two different annotations:
 | mRNA    | 45748                      | 38326                      |
 
 
-This is particularly interesting because we now see a difference in the number of mRNA/gene features in the Panopea-generosa-vv0.74.a4, as opposed to Panopea-generosa-vv0.74.a3 where these two feature counts are identical. The fact that Panopea-generosa-vv0.74.a4 has different counts (notice that mRNA is greater than gene) between these two features suggests that providing the Stringtie BAM files have resulted in identification/annotation of alternative isoforms for some genes.
+This is particularly interesting because we now see a difference in the number of mRNA/gene features in the Panopea-generosa-vv0.74.a4, as opposed to Panopea-generosa-vv0.74.a3 where these two feature counts are identical. The fact that Panopea-generosa-vv0.74.a4 has different counts (notice that `mRNA` is greater than `gene`) between these two features suggests that providing the Stringtie BAM files have resulted in identification/annotation of alternative isoforms for some genes.
 
 ---
 
