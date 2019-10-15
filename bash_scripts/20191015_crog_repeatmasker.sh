@@ -5,6 +5,8 @@
 # Assembly provided by Cristian Gallardo.
 # Run on Emu.
 
+# Exit if any command fails
+set -e
 
 # Set CPUs
 cpus=16
@@ -17,7 +19,7 @@ system_specs="system_info.txt"
 subset_list="top_21_scaffold_list.txt"
 
 # Program paths
-samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
+samtools="samtools"
 repeatmasker="/home/shared/RepeatMasker-4.0.7/RepeatMasker"
 
 
