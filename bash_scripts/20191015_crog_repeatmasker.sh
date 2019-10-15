@@ -68,6 +68,7 @@ xargs \
 > "${assembly_subset}"
 
 # Run RepeatMasker on longest 21 scaffolds
+# -xsmall option generates lowercase, soft-masked repeats (instead of replacing with Xs)
 time \
 ${repeatmasker} \
 ${assembly_subset} \
