@@ -3,6 +3,7 @@
 # Script to subset top 21 scaffolds of C_rogercresseyi genome assembly,
 # and create a soft-masked (lowercase repeats) FastA for use with SEDEF.
 # Assembly provided by Cristian Gallardo.
+# Run on Emu.
 
 
 # Set CPUs
@@ -17,7 +18,7 @@ subset_list="top_21_scaffold_list.txt"
 
 # Program paths
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
-repeatmasker=""
+repeatmasker="/home/shared/RepeatMasker-4.0.7/RepeatMasker"
 
 
 # Record system info
@@ -65,3 +66,17 @@ xargs \
 "${assembly_fasta}" \
 < "${subset_list}" \
 > "${assembly_subset}"
+
+# Run RepeatMasker on longest 21 scaffolds
+time \
+${repeatmasker} \
+${assembly_subset} \
+-species "all" \
+-pa ${cpus} \
+-excln \
+-xsmall \
+1> stdout.out \
+2> stderr.err
+
+# Email me when finished
+sed '/^Subject:/ s/ / repeatmasker_C_rog_all JOB COMPLETE/' ~/.default-subject.mail | msmtp "$EMAIL"
