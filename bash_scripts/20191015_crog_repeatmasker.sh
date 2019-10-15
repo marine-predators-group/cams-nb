@@ -19,7 +19,7 @@ system_specs="system_info.txt"
 subset_list="top_21_scaffold_list.txt"
 
 # Program paths
-samtools="samtools"
+samtools="/home/shared/samtools-1.8/samtools"
 repeatmasker="/home/shared/RepeatMasker-4.0.7/RepeatMasker"
 
 
