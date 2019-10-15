@@ -13,7 +13,7 @@ prepend-path    PATH            /gscratch/srlab/programs/bwa-0.7.17
 prepend-path    PATH            /gscratch/srlab/programs/cd-hit-v4.8.1-2019-0228
 prepend-path    PATH            /gscratch/srlab/programs/miniconda3/bin
 prepend-path    PATH            /gscratch/srlab/programs/exonerate-2.2.0-x86_64/bin
-prepend-path    PATH
+prepend-path    PATH            /gscratch/srlab/programs/express-1.5.1-linux_x86_64
 prepend-path    PATH
 prepend-path    PATH
 prepend-path    PATH
