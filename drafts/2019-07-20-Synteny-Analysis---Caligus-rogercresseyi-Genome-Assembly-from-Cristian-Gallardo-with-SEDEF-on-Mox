@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Synteny Analysis - Caligus rogercresseyi Genome Assembly from Cristian Gallardo with Sibelia on Emu
+title: Synteny Analysis - Caligus rogercresseyi Genome Assembly from Cristian Gallardo with SEDEF on Mox
 date: '2019-07-20 11:20'
-tags: 
+tags:
   - Caligus rogercresseyi
   - synteny
-  - sibelia
+  - SEDEF
   - emu
-categories: 
+  - mox
+categories:
   - Miscellaneous
 ---
 
@@ -20,4 +21,3 @@ categories:
 Output folder:
 
 - []()
-
