@@ -19,8 +19,7 @@ treatement_files_array=()
 # Make directories
 for tissue in ${tissues_array[@]}
 do
-	if [ "${tissue}" == "juvenile" ] \
-	|| ["${tissue}" == "larvae" ]; then \
+	if [ "${tissue}" == "juvenile" ]; then
 	  	for treatment in ${treatment_array[@]}
 			do
 					mkdir --parents ${tissue}/${treatment}
@@ -40,4 +39,28 @@ do
 	nr_check=$(echo "${fastq}" | awk -F"_" '{ print $1 }')
 	tissue_check=$(echo "${fastq}" | awk -F"-" ' { print $2 }')
 	treatment_check=$(echo "${fastq}" | awk -F"-" ' { print $2 "-" $3 }')
+
+	for tissue in ${tissues_array[@]}
+	do
+		if [[ "${tissue}" == "juvenile" ]]; then
+		  	for treatment in ${treatment_array[@]}
+				do
+						if [[ "${treatment_check}" == "${tissue}-${treatment}" ]]; then
+							mv "${fastq}" ${tissue}/${treatment}
+						fi
+				done
+		else
+			if [[ "${tissue}" == "${tissue_check}" ]]; then
+				mv "${fastq}" "${tissue}"
+			fi
+		fi
+	done
+
+	for nr_tissue in ${nr_files_array[@]}
+	do
+		for tissue in ${tissues_array[@]}
+		if [[ "${nr_tissue}" == "NR005"]]; then
+			mv ${fastq} "${}"
+		fi
+
 done
