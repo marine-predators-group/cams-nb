@@ -23,65 +23,22 @@ wd=$(pwd)
 
 
 # Input/output files
-assembly_fasta="${wd}/Caligus_rogercresseyi_Genome.fa"
-assembly_index="${wd}/Caligus_rogercresseyi_Genome.fa.fai"
-assembly_subset="${wd}/C_rogercresseyi_top_21_scaffold.fa"
-system_specs="${wd}/system_info.txt"
-subset_list="${wd}/top_21_scaffold_list.txt"
+softmasked_assembly_fasta="${wd}/C_rogercresseyi_top_21_scaffold.fa.masked"
 
 # Program paths
 samtools="/gscratch/srlab/programs/samtools-1.9/samtools"
-sibelia="/gscratch/srlab/programs/sedef/sedef.sh"
+sedef="/gscratch/srlab/programs/sedef/sedef.sh"
 
 
 # Record system info
 {
-echo "TODAY'S DATE:"
 date
-echo "------------"
 echo ""
-lsb_release -a
+echo "System PATH for $SLURM_JOB_ID"
 echo ""
-echo "------------"
-echo "HOSTNAME: " hostname
-echo ""
-echo "------------"
-echo "Computer Specs:"
-echo ""
-lscpu
-echo ""
-echo "------------"
-echo ""
-echo "Memory Specs"
-echo ""
-free -mh
-} >> "${system_specs}"
+printf "%0.s-" {1..10}
+echo "${PATH}" | tr : \\n
+} >> system_path.log
 
-
-# Index assembly FastA file
-"${samtools}" faidx \
-"${assembly_fasta}"
-
-# Extract list of top 21 longest scaffolds
-sort \
---numeric-sort \
---reverse \
---field-separator $'\t' \
---key 2,2 \
-"${assembly_index}" \
-| head -n 21 \
-| awk -F'\t' '{print $1}' \
-> "${subset_list}"
-
-# Create FastA of longest 21 scaffolds
-xargs \
-"${samtools}" faidx \
-"${assembly_fasta}" \
-< "${subset_list}" \
-> "${assembly_subset}"
-
-# Index new FastA
-"${samtools}" faidx \
-"${assembly_subset}"
 
 # Run SEDEF
