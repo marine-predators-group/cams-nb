@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Bash script for downloading geoduck RNAseq files
+# These are intended to be analyzed using DRAP (a program for generating and combining)
+# transcriptomes from different tissue types, treatments, etc.
 
 # All RNAseq FastQ files are available here:
 # https://owl.fish.washington.edu/nightingales/P_generosa/
