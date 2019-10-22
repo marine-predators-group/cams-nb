@@ -59,6 +59,8 @@ do
 					mv "${fastq}" "ctenidia"
 				elif [[ "${nr_check}" == "NR021" ]]; then
 					mv "${fastq}" "larvae"
+				elif [[ "${nr_check}"  == "NR015" ]]; then
+					rm "${fastq}"
 			  fi
 			done
 		else
