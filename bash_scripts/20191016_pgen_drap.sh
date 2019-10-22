@@ -43,24 +43,22 @@ do
 	for tissue in ${tissues_array[@]}
 	do
 		if [[ "${tissue}" == "juvenile" ]]; then
+			for nr_tissue in ${nr_files_array[@]}
+			do
+				if [[ "${nr_tissue}" == "NR005"]] \
+				|| [[ "${nr_tissue}" == "NR019"]]; then
 		  	for treatment in ${treatment_array[@]}
 				do
-						if [[ "${treatment_check}" == "${tissue}-${treatment}" ]]; then
+						if [[ "${treatmGraffient_check}" == "${tissue}-${treatment}" ]]; then
 							mv "${fastq}" ${tissue}/${treatment}
 						fi
 				done
+			  fi
+			done
 		else
 			if [[ "${tissue}" == "${tissue_check}" ]]; then
 				mv "${fastq}" "${tissue}"
 			fi
 		fi
 	done
-
-	for nr_tissue in ${nr_files_array[@]}
-	do
-		for tissue in ${tissues_array[@]}
-		if [[ "${nr_tissue}" == "NR005"]]; then
-			mv ${fastq} "${}"
-		fi
-
 done
