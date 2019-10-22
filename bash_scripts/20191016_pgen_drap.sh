@@ -22,10 +22,10 @@ treatement_files_array=()
 
 
 # Make directories
-for tissue in ${tissues_array[@]}
+for tissue in "${tissues_array[@]}"
 do
 	if [ "${tissue}" == "juvenile" ]; then
-	  	for treatment in ${treatment_array[@]}
+	  	for treatment in "${treatment_array[@]}"
 			do
 					mkdir --parents "${tissue}"/"${treatment}"
 			done
@@ -41,24 +41,24 @@ do
 	tissue_check=$(echo "${fastq}" | awk -F"-" ' { print $2 }')
 	treatment_check=$(echo "${fastq}" | awk -F"-" ' { print $2 "-" $3 }')
 
-	for tissue in ${tissues_array[@]}
+	for tissue in "${tissues_array[@]}"
 	do
 		if [[ "${tissue}" == "juvenile" ]]; then
-			for nr_tissue in ${nr_files_array[@]}
+			for nr_tissue in "${nr_files_array[@]}"
 			do
-				if [[ "${nr_tissue}" == "NR005" ]] \
-				|| [[ "${nr_tissue}" == "NR019" ]]; then
-		  	for treatment in ${treatment_array[@]}
+				if [[ "${nr_check}" == "NR005" ]] \
+				|| [[ "${nr_check}" == "NR019" ]]; then
+		  	for treatment in "${treatment_array[@]}"
 				do
-						if [[ "${treatmGraffient_check}" == "${tissue}-${treatment}" ]]; then
+						if [[ "${treatment_check}" == "${tissue}-${treatment}" ]]; then
 							mv "${fastq}" "${tissue}"/"${treatment}"
 						fi
 				done
-				elif [[ "${nr_tissue}" == "NR006" ]]; then
+			elif [[ "${nr_check}" == "NR006" ]]; then
 					mv "${fastq}" "gonad"
-				elif [[ "${nr_tissue}" == "NR012" ]]; then
+				elif [[ "${nr_check}" == "NR012" ]]; then
 					mv "${fastq}" "ctenidia"
-				elif [[ "${nr_tissue}" == "NR021" ]]; then
+				elif [[ "${nr_check}" == "NR021" ]]; then
 					mv "${fastq}" "larvae"
 			  fi
 			done
