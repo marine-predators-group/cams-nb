@@ -45,14 +45,20 @@ do
 		if [[ "${tissue}" == "juvenile" ]]; then
 			for nr_tissue in ${nr_files_array[@]}
 			do
-				if [[ "${nr_tissue}" == "NR005"]] \
-				|| [[ "${nr_tissue}" == "NR019"]]; then
+				if [[ "${nr_tissue}" == "NR005" ]] \
+				|| [[ "${nr_tissue}" == "NR019" ]]; then
 		  	for treatment in ${treatment_array[@]}
 				do
 						if [[ "${treatmGraffient_check}" == "${tissue}-${treatment}" ]]; then
 							mv "${fastq}" ${tissue}/${treatment}
 						fi
 				done
+				elif [[ "${nr_tissue}" == "NR006" ]]; then
+					mv "${fastq}" "gonad"
+				elif [[ "${nr_tissue}" == "NR012" ]]; then
+					mv "${fastq}" "ctenidia"
+				elif [[ "${nr_tissue}" == "NR021" ]]; then
+					mv "${fastq}" "larvae"
 			  fi
 			done
 		else
