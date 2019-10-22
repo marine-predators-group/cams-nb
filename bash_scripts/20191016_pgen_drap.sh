@@ -22,10 +22,10 @@ do
 	if [ "${tissue}" == "juvenile" ]; then
 	  	for treatment in ${treatment_array[@]}
 			do
-					mkdir --parents ${tissue}/${treatment}
+					mkdir --parents "${tissue}"/"${treatment}"
 			done
 	else
-		mkdir ${tissue}
+		mkdir "${tissue}"
 	fi
 done
 
@@ -50,7 +50,7 @@ do
 		  	for treatment in ${treatment_array[@]}
 				do
 						if [[ "${treatmGraffient_check}" == "${tissue}-${treatment}" ]]; then
-							mv "${fastq}" ${tissue}/${treatment}
+							mv "${fastq}" "${tissue}"/"${treatment}"
 						fi
 				done
 				elif [[ "${nr_tissue}" == "NR006" ]]; then
