@@ -26,3 +26,9 @@ Output folder:
 MultiQC Report (HTML):
 
 - [[20191024_cbai_fastqc_multiqc/multiqc_report.html](https://gannet.fish.washington.edu/Atumefaciens/20191024_cbai_fastqc_multiqc/multiqc_report.html)
+
+So, that's done. However, I've noticed that one of the samples (sample ID 329775) only has ~42M reads (circled in red below):
+
+![multiqc read count screencap with sample ID 329775 circled in red](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20191024_cbai_fastqc_multiqc_read-counts.png?raw=true)
+
+This read count is ~16% less than what we were quoted for. Unfortunately, the quote was for "~50M reads per sample". That "~" leads to a fair amount of ambiguity. The rest of the samples hover around 5 - 6% less than the 50M read mark. Is that acceptable? I don't know. In hindsight, I should've clarified what they meant on the quote. Of course, the other option is that this facility ([Northwest Genomics Center](https://nwgc.gs.washington.edu/))get their act together and write quotes that aren't ambiguous (e.g. promise >= 50M reads; then there's absolutely no confusion about what the customer is supposed to receive)!!
