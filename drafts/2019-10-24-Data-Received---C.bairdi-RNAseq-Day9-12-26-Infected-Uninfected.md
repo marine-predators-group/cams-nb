@@ -13,6 +13,10 @@ Previously, we "received" this data, but it turns out it was incomplete ([see 20
 
 Today, we _finally_ received _all_ the RNAseq data (>50M reads per samples) back from NWGC that we submitted on [20190521](https://robertslab.github.io/sams-notebook/2019/05/21/Sample-Submission-Tanner-Crab-Infected-vs-Uninfected-RNAseq.html)!
 
+The second round of data is _in addition_ to the data we received on [20191003](https://robertslab.github.io/sams-notebook/2019/10/03/Data-Received-C.bairdi-RNAseq-Day9-12-26-Infected-Uninfected.html). So, to simplify some of the data management and downstream processing of these files, I decided to concatenate the two sets of file. Concatenation is documented in this Jupyter Notebook (GitHub):
+
+- [20191024_swoose_cbai_fastq_concatenation.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191024_swoose_cbai_fastq_concatenation.ipynb)
+
 Here's a table with the library names and the FastQ naming schemes.
 
 
@@ -25,7 +29,7 @@ Here's a table with the library names and the FastQ naming schemes.
 | 329776         | D26_infected           |
 | 329777         | D26_uninfected         |
 
-The two samples above failed sequencing. See the previous post about data delivery for all the info on those two samples.
+The two samples with strikeouts  above failed sequencing. See the previous post from [20191003](https://robertslab.github.io/sams-notebook/2019/10/03/Data-Received-C.bairdi-RNAseq-Day9-12-26-Infected-Uninfected.html) about data delivery for all the info on those two samples.
 
 ---
 
@@ -68,4 +72,4 @@ All files have been added to nightingales/C_bairdi:
 
 - [nightingales/C_bairdi](https://owl.fish.washington.edu/nightingales/C_bairdi/)
 
-Will update readme and [Nightingales Google sheet](http://b.link/nightingales)
+Will update nightingales/C_bairdi/readme.txt and [Nightingales Google sheet](http://b.link/nightingales)
