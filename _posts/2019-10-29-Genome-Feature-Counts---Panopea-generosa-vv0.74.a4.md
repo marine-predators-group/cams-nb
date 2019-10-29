@@ -31,6 +31,10 @@ Genome Features Jupyter Notebook (GitHub):
 
 I've copied/pasted the summary data for each of the GFFs that were analyzed, for quick reference. Will get this compiled in to a table of some sort for people to use for the manuscript.
 
+Also, the repeats were split into individual GFFs by repeat type. Those GFFs can be found here:
+
+- [20191029_pgen_v074.a4_repeats_counts](https://gannet.fish.washington.edu/Atumefaciens/20191029_pgen_v074.a4_repeats_counts/)
+
 
 #### Genome Features
 ```
