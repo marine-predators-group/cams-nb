@@ -45,3 +45,10 @@ Intergenic BED file (BED):
 Intron BED file (BED):
 
 - [Panopea-generosa-vv0.74.a4.introns.bed](https://gannet.fish.washington.edu/Atumefaciens/20191030_pgen_v074.a4_intron_intergenic_features/Panopea-generosa-vv0.74.a4.introns.bed)
+
+
+Will add these files to the [OSF repository for this project](https://osf.io/yem8n/).
+
+Here's how they look in IGV:
+
+![IGV screencap showing intron and intergenic bed files](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20191030_pgen_Panopea-generosa-vv0.74.a4_intron-intergenic_igv.png?raw=true)
