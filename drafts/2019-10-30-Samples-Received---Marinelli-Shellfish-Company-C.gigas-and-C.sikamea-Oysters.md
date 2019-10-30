@@ -10,7 +10,9 @@ tags:
 categories:
   - Miscellaneous
 ---
-Steven was recently contacted by Marinelli Shellfish Company to see if we could help them determine if some oysters they had were _Crassostrea gigas_ (Pacific oyster) or _Crassostrea sikamea_ (Kumamoto). They sent ~12 of:
+Steven was recently contacted by Marinelli Shellfish Company to see if we could help them determine if some oysters they had were _Crassostrea gigas_ (Pacific oyster) or _Crassostrea sikamea_ (Kumamoto). Steven knows of a paper with primer sequences to use with qPCR for this specific determination.
+
+They sent ~12 of:
 
 - known _Crassostrea gigas_
 
@@ -20,11 +22,11 @@ Steven was recently contacted by Marinelli Shellfish Company to see if we could 
 
 We collected mantle tissue from 12 of each group. Samples were labeled in the following fashion:
 
-- C.gigas 1191-SS ## (known _Crassostrea gigas_)
+- _C.gigas_ 1191-SS ## (known _Crassostrea gigas_)
 
-- C.sikamea CA5SS ## (known _Crassostrea sikamea_)
+- _C.sikamea_ CA5SS ## (known _Crassostrea sikamea_)
 
-- C.sikamea 1191-SS ## (unknown)
+- _C.sikamea_ 1191-SS ## (unknown)
 
 
  Samples were stored at -80<sup>o</sup>C in Rack 2, Column 4, Row 5:
@@ -32,3 +34,37 @@ We collected mantle tissue from 12 of each group. Samples were labeled in the fo
 - [-80<sup>o</sup>C Inventory](http://b.link/srlab-80C)
 
 NOTE: Only 11 samples were collected for _C.sikamea_ CA5SS.
+
+
+---
+
+#### Paperwork
+
+![paperwork included with shipment](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-01.jpg?raw=true)
+
+---
+
+#### _C.gigas_ 1191-SS ## (known _Crassostrea gigas_)
+
+![bag and label of C.gigas 1191-SS ## (known _Crassostrea gigas_)](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-02.jpg?raw=true)
+
+![C.gigas 1191-SS ## (known _Crassostrea gigas_ out of bag](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-06.jpg?raw=true)
+
+---
+
+#### _C.sikamea_ CA5SS ## (known _Crassostrea sikamea_)
+
+![bag and label of C.sikamea CA5SS ## (known _Crassostrea sikamea_)](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-03.jpg?raw=true)
+
+![_C.sikamea_ CA5SS ## (known _Crassostrea sikamea_ out of bag](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-07.jpg?raw=true)
+
+---
+
+#### _C.sikamea_ 1191-SS ## (unknown)
+
+
+![bag and label of C.sikamea 1191-SS ## (unknown)](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-04.jpg?raw=true)
+
+
+
+![C.sikamea 1191-SS ## (unknown) out of bag](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-05.jpg?raw=true)
