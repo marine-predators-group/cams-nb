@@ -17,6 +17,14 @@ Jupyter Notebook (GitHub):
 
  - [20191031_swoose_pgen_v074_stringtie_BAM_splitting.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191031_swoose_pgen_v074_stringtie_BAM_splitting.ipynb)
 
+ TL;DR:
+
+ 1. Use Bash command `split` to split the file into desired chunk sizes
+
+ 2. Reassemble chunks into full size BAM using the Bash `cat` command.
+
+ 3. Run `md5sum` on original BAM and reassembled BAM to confirm the two files are the same.
+
 
 ---
 
@@ -24,4 +32,7 @@ Jupyter Notebook (GitHub):
 
 Output folder:
 
-- []()
+- [20191031_pgen_v074_stringtie_BAM_splitting/](https://gannet.fish.washington.edu/Atumefaciens/20191031_pgen_v074_stringtie_BAM_splitting/)
+
+
+Will upload split files to [OSF repository](https://osf.io/yem8n/).
