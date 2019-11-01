@@ -11,7 +11,11 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+We're in the process of organizing files for a manuscript dealing with the geoduck genome assembly/annotation we've done. As part of that, we need the [Stringtie BAM file that was used with GenSAS for Pgenerosa_v074 annotation](https://robertslab.github.io/sams-notebook/2019/07/23/Genome-Annotation-Pgenerosa_v074-Transcript-Isoform-ID-with-Stringtie-on-Mox.html) to upload to the [Open Science Foundation repository for this project](https://osf.io/yem8n/). Unfortunately, at 73GB, the file far exceeds the individual file size limit for OSF (5GB). So, I split it into 5GB chunks. See the following notebook for deets:
 
+Jupyter Notebook (GitHub):
+
+ - [20191031_swoose_pgen_v074_stringtie_BAM_splitting.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191031_swoose_pgen_v074_stringtie_BAM_splitting.ipynb)
 
 
 ---
