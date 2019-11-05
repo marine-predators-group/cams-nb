@@ -43,4 +43,6 @@ I processed all of the necessary files and documented in the following Jupyter N
 
 Output folder:
 
-- []()
+- [20191105_swoose_pgen_v074_renaming/](https://gannet.fish.washington.edu/Atumefaciens/20191105_swoose_pgen_v074_renaming/)
+
+Uploaded files to Gannet folder (linked above) and to the [Open Science Foundation repository for this project](https://osf.io/yem8n/).
