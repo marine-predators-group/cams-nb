@@ -24,13 +24,3 @@ So, I generated some relevant stats with the introns file, as well as some other
 Jupyter Notebook (GitHub):
 
 - [20191106_swoose_pgen_feature_stats.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191106_swoose_pgen_feature_stats.ipynb)
-
-
-
----
-
-#### RESULTS
-
-Output folder:
-
-- []()
