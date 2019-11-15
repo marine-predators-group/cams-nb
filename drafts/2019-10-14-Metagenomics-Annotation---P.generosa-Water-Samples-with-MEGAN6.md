@@ -37,4 +37,4 @@ As such, I determined only one pair (and only one pair) of Meganized DAA files s
 
 Output folder:
 
-- []()
+- [20190925_metagenomics_DIAMOND_blastx/](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/)
