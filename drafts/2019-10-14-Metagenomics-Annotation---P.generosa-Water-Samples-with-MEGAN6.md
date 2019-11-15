@@ -31,6 +31,14 @@ As such, I determined only one pair (and only one pair) of Meganized DAA files s
 
 ![screencap of RMA6 file sizes](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20191014_metagenomics_MEGAN6_filesize-01.png?raw=true)
 
+RMA6 files were generated using the "Import from BLAST", selecting each pair of DAA files, and applying the default Naive LCA settings. Used the following mapping files:
+
+Taxonomy: prot_acc2tax-Jul2019X1.abin
+EggNog: acc2eggnog-Jul2019X.abin
+InterPro2GO: acc2interpro-Jul2019X.abin
+SEED: acc2seed-May2015XX.abin
+
+
 ---
 
 #### RESULTS
