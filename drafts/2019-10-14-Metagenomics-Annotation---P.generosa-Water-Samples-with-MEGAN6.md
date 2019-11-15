@@ -38,3 +38,17 @@ As such, I determined only one pair (and only one pair) of Meganized DAA files s
 Output folder:
 
 - [20190925_metagenomics_DIAMOND_blastx/](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/)
+
+RMA6 files (NOTE: these are very large files!):
+
+- [Library_Geoduck_MG_1_S3_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_1_S3_L002_R1.rma6)
+
+- [Library_Geoduck_MG_2_S4_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_2_S4_L002_R1.rma6)
+
+- [Library_Geoduck_MG_3_S1_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_3_S1_L002_R1.rma6)
+
+- [Library_Geoduck_MG_5_S6_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_5_S6_L002_R1.rma6)
+
+- [Library_Geoduck_MG_6_S5_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_6_S5_L002_R1.rma6)
+
+- [Library_Geoduck_MG_7_S2_L002_R1.rma6](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/Library_Geoduck_MG_7_S2_L002_R1.rma6)
