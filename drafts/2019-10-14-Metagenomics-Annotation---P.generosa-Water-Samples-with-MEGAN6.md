@@ -64,3 +64,10 @@ RMA6 files (NOTE: these are very large files!):
 MEGAN6 "Import from BLAST" log file:
 
 - [200191115_MEGAN6_rma6_log.txt](https://gannet.fish.washington.edu/Atumefaciens/20190925_metagenomics_DIAMOND_blastx/200191115_MEGAN6_rma6_log.txt)
+
+The process generates this type of visualization after an RMA6 file is created:
+
+![Screencap of example RMA6 visualization](https://github.com/RobertsLab/sams-notebook/blob/master/images/screencaps/20191014_metagenomics_MEGAN6_output_example.png?raw=true)
+
+
+Next up is to figure out how to compare samples/groups. Since I have separate RMA6 files for each sample, I believe that I can import all the RMA6 files at one time and then use the software to group/compare them.
