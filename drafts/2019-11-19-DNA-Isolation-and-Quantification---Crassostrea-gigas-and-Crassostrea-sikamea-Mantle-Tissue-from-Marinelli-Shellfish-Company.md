@@ -17,7 +17,19 @@ tags:
 categories:
   - Miscellaneous
 ---
+Isolated DNA from the _C.gigas_ and _C.sikamea_ samples we received from [Marinelli Shellfish Company on 20191030](https://robertslab.github.io/sams-notebook/2019/10/30/Samples-Received-Marinelli-Shellfish-Company-C.gigas-and-C.sikamea-Oysters.html) using DNAzol.
 
+Small amounts of mantle tissue were homogenized using disposable mortar and pestles in 1.5mL snap cap tubes using 500uL of DNAzol. After homogenization, an additional 500uL of DNAzol was added to each sample. Samples were mixed gently by inversion. The manufacturer's protocol was followed with the following notes/changes:
+
+- DNA was _not_ spooled; instead it was pelleted per instructions for DNA < 15ug.
+
+- Initial DNA pellet wash was performed using 70% DNAzol/30% ethanol
+
+- Final pellets were resuspended in 300uL of nuclease-free water.
+
+NOTE: Most pellets were mostly insoluble (i.e. comprised of "junk" that was carried over). After solubilization attempts via pipetting, the insoluble material was pelleted (5,000g, 5mins).
+
+Samples were quantified using the Roberts Lab Qubit 3.0 and the Qubit dsDNA BR Assay Kit (BR = broad range), using 1uL of each sample.
 
 
 ---
