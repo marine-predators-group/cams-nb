@@ -26,4 +26,4 @@ Output folder:
 
 - [20191120_swoose_pgen_v074_renaming/](https://gannet.fish.washington.edu/Atumefaciens/20191120_swoose_pgen_v074_renaming)
 
-All files have also been uploaded to the [OSF repository](https://osf.io/yem8n/) for this project.
+All files have also been uploaded to the `bismark_coverage_files` folder in the [OSF repository](https://osf.io/yem8n/) for this project.
