@@ -11,7 +11,11 @@ tags:
 categories:
   - Geoduck Genome Sequencing
 ---
+After a meeting today, Steven and Hollie realized that the Bismark coverage files were still using the old scaffold names, stemming from the Pgenerosa_v074 naming. I'd [previously updated filenames and scaffold names](https://robertslab.github.io/sams-notebook/2019/11/05/Data-Wrangling-Rename-Pgenerosa_v074-Files-and-Scaffolds.html), so I recycled some of the code used there to rename the coverage files.
 
+The renaming was done in the following Jupyter Notebook (GitHub):
+
+- [20191120_swoose_pgen_v074_renaming.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191120_swoose_pgen_v074_renaming.ipynb)
 
 
 ---
