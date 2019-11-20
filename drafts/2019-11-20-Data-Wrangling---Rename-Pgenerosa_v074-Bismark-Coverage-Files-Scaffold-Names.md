@@ -25,3 +25,5 @@ The renaming was done in the following Jupyter Notebook (GitHub):
 Output folder:
 
 - [20191120_swoose_pgen_v074_renaming/](https://gannet.fish.washington.edu/Atumefaciens/20191120_swoose_pgen_v074_renaming)
+
+All files have also been uploaded to the [OSF repository](https://osf.io/yem8n/) for this project.
