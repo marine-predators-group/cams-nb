@@ -2,7 +2,7 @@
 layout: post
 title: DNA Isolation and Quantification - Crassostrea gigas and Crassostrea sikamea Mantle Tissue from Marinelli Shellfish Company
 date: '2019-11-19 15:32'
-tags: 
+tags:
   - Crassostrea gigas
   - Pacific oyster
   - Crasssostrea sikamea
@@ -14,7 +14,7 @@ tags:
   - dsDNA BR assay
   - Kumamoto
   - DNAzol
-categories: 
+categories:
   - Miscellaneous
 ---
 
@@ -24,7 +24,47 @@ categories:
 
 #### RESULTS
 
-Output folder:
+Qubit data (Google Sheets):
 
-- []()
+- [2019119_qubit_DNA_gigas_sikamea](https://docs.google.com/spreadsheets/d/1fOUHU71mgbDSrg76a3TXAzRFLRlRSXf6y-dd1Vika0I/edit?usp=sharing)
 
+
+| Sample ID            | Concentration (ng/uL) |
+|----------------------|-----------------------|
+| C.sikamea_1191-SS-01 | 4.32                  |
+| C.sikamea_1191-SS-02 | Out of range          |
+| C.sikamea_1191-SS-03 | 2.74                  |
+| C.sikamea_1191-SS-04 | 4.34                  |
+| C.sikamea_1191-SS-05 | 5.84                  |
+| C.sikamea_1191-SS-06 | 4.34                  |
+| C.sikamea_1191-SS-07 | 8.18                  |
+| C.sikamea_1191-SS-08 | 3.6                   |
+| C.sikamea_1191-SS-09 | 9.36                  |
+| C.sikamea_1191-SS-10 | 2.92                  |
+| C.sikamea_1191-SS-11 | 17.8                  |
+| C.sikamea_1191-SS-12 | 12.4                  |
+| C.gigas_1191-SS-01   | 7.62                  |
+| C.gigas_1191-SS-02   | 6.42                  |
+| C.gigas_1191-SS-03   | 8.24                  |
+| C.gigas_1191-SS-04   | 6.88                  |
+| C.gigas_1191-SS-05   | 6.42                  |
+| C.gigas_1191-SS-06   | 9.7                   |
+| C.gigas_1191-SS-07   | 9.28                  |
+| C.gigas_1191-SS-08   | 15.5                  |
+| C.gigas_1191-SS-09   | 14.5                  |
+| C.gigas_1191-SS-10   | 10.7                  |
+| C.gigas_1191-SS-11   | 14.3                  |
+| C.gigas_1191-SS-12   | 21.8                  |
+| C.sikamea_CA5SS-01   | 12.3                  |
+| C.sikamea_CA5SS-02   | 10                    |
+| C.sikamea_CA5SS-03   | 12.1                  |
+| C.sikamea_CA5SS-04   | 13.6                  |
+| C.sikamea_CA5SS-05   | 8.8                   |
+| C.sikamea_CA5SS-06   | 16.9                  |
+| C.sikamea_CA5SS-07   | 17.2                  |
+| C.sikamea_CA5SS-09   | 13.1                  |
+| C.sikamea_CA5SS-10   | 8.54                  |
+| C.sikamea_CA5SS-11   | 20.4                  |
+| C.sikamea_CA5SS-12   | 12                    |
+
+Although one of the samples was too low for the broad range assay, I suspect there's still DNA there. Additionally, since none of these samples are wildly different (i.e. within the same order of magnitude), I probably won't bother with normalizing the amount of DNA used in the PCR reactions. Will proceed with PCR.
