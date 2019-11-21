@@ -111,10 +111,18 @@ Gel #1
 
 ![Gel image from first PCR with too many bands; also ran target bands off gel](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191119_gel_Cgigas_vs_Csikamea-01.jpg?raw=true)
 
+Overall, this gel is a mess, so I'm haven't bothered taking the time to label anything. The ladders should be obvious. The no template control (NTC) is in the lane on the furthest right side of the gel and is blank, as it should be.
 
+All other lanes show many bands, most of them larger than the expected largest band size (697bp).
+
+In addition to that, I ended up running the gel too long (in an attempt to get better resolution of the lower molecular weight PCR products), so I lost any bands <500bp.
 
 ---
 
 Gel #2
 
 ![Gel image from 2nd PCR with anneal temp of 55C, showing no bands](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191119_gel_Cgigas_vs_Csikamea-02.jpg?raw=true)
+
+Although this gel is cleaner and has the full range of the ladder and encompasses all potential band sizes, there's no amplification in any lane; just primer dimers. That suggests that the changes I made to the cycling parameters were no good.
+
+Guess I'll repeat the PCR using the original cycling parameters and I'll be sure to run the products on a large gel to get a better idea of what's happening here.
