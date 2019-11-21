@@ -13,7 +13,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-
+After isolating DNA [earlier today](https://robertslab.github.io/sams-notebook/2019/11/19/DNA-Isolation-and-Quantification-Crassostrea-gigas-and-Crassostrea-sikamea-Mantle-Tissue-from-Marinelli-Shellfish-Company.html), I ran PCRs on all the samples.
 
 Primers and cycling parameters were taken from this publication:
 
@@ -25,6 +25,24 @@ Primers and cycling parameters were taken from this publication:
 | 1726  | COCsi546r   | AAGTAACCTTAATAGATCAGGGAACC |
 | 1725  | COCgi269r   | TCGAGGAAATTGCATGTCTGCTACAA |
 | 1724  | COforward   | GGGACTACCCCCTGAATTTAAGCAT  |
+
+
+I ended up running this PCR two times, due to:
+
+1. Ran the gel too far and ran most of the target products off the gel!
+
+2. Many non-specific bands produced.
+
+First PCR info:
+
+| Component              | Single Rxn Vol. (uL) | Num. Rxns | Total Volumes (uL)        |
+|------------------------|----------------------|-----------|---------------------------|
+| DNA                    | 4                    | NA        | NA                        |
+| 2x Apex Red Master Mix | 12.5                 | 18        | 225                       |
+| P1 Mix                 | 1.5                  | 18        | 27                        |
+| P2 Mix                 | 1.5                  | 18        | 27                        |
+| H2O                    | 5.5                  | 18        | 99                        |
+|                        | 25                   |           | Add 21uL to each PCR tube |
 
 
 ---
