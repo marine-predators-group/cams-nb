@@ -14,7 +14,49 @@ categories:
   - Miscellaneous
 ---
 
+Primers and cycling parameters were taken from this publication:
 
+- [Haiyan Wang and Ximing Guo "Identification of Crassostrea ariakensis and Related Oysters by Multiplex Species-Specific PCR," Journal of Shellfish Research 27(3), 481-487, (1 May 2008).](https://www.researchgate.net/profile/Ximing_Guo/publication/259643859_Identification_of_Crassostrea_ariakensis_and_related_oysters_by_multiplex_species-specific_PCR/links/55c79eb708aeb9756746e35e/Identification-of-Crassostrea-ariakensis-and-related-oysters-by-multiplex-species-specific-PCR.pdf)
+
+| SR ID | Primer Name | Sequence                   |
+|-------|-------------|----------------------------|
+| 1727  | COreverse   | CAGGGGGCCGTTCGCGGTCAACGCT  |
+| 1726  | COCsi546r   | AAGTAACCTTAATAGATCAGGGAACC |
+| 1725  | COCgi269r   | TCGAGGAAATTGCATGTCTGCTACAA |
+| 1724  | COforward   | GGGACTACCCCCTGAATTTAAGCAT  |
+
+Instead of running a multiplex PCR as before, I ran each set of species-specific primer pairs independently.
+
+The COforward/reverse primers should amplify any _Crassostrea spp._ DNA (i.e. a positive control - 697bp) and the other two primers will amplify either _C.gigas_ (Cgi269r - 269bp) or _C.sikamea_ (Csi546r - 546bp).
+
+Master mix calcs:
+
+| Component              | Single Rxn Vol. (uL) | Num. Rxns | Total Volumes (uL)        |
+|------------------------|----------------------|-----------|---------------------------|
+| DNA                    | 4                    | NA        | NA                        |
+| 2x Apex Master Mix | 12.5                 | 18        | 225                       |
+| COforward (100uM)              | 0.15                 | 18        | 2.7                       |
+| reverse primer (100uM)           | 0.10                 | 18        | 1.8                       |
+| H2O                    | 8.25                    | 18        | 148.5                       |
+|                        | 25                   |           | Add 21uL to each PCR tube |
+
+
+Cycling params:
+
+95<sup>o</sup>C for 10mins
+
+30 cycles of:
+
+- 95<sup>o</sup>C 1min
+- 51<sup>o</sup>C 1min
+- 72<sup>o</sup>C 1min
+
+72<sup>o</sup>C 10mins
+
+
+Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
+
+![GeneRuler DNA Ladder Mix](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
 
 ---
 
