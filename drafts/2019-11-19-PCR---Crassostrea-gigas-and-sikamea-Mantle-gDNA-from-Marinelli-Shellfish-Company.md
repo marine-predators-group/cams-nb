@@ -26,6 +26,8 @@ Primers and cycling parameters were taken from this publication:
 | 1725  | COCgi269r   | TCGAGGAAATTGCATGTCTGCTACAA |
 | 1724  | COforward   | GGGACTACCCCCTGAATTTAAGCAT  |
 
+This is a multiplex PCR, where the COforward/reverse primers should amplify any _Crassostrea spp._ DNA (i.e. a positive control - 697bp) and the other two primers will amplify either _C.gigas_ (Cgi269r - 269bp) or _C.sikamea_ (Csi546r - 546bp).
+
 
 I ended up running this PCR two times, due to:
 
@@ -94,6 +96,12 @@ Cycling params:
 
 ---
 
+Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
+
+![GeneRuler DNA Ladder Mix](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+
+---
+
 #### RESULTS
 
 
@@ -102,6 +110,8 @@ Cycling params:
 Gel #1
 
 ![Gel image from first PCR with too many bands; also ran target bands off gel](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191119_gel_Cgigas_vs_Csikamea-01.jpg?raw=true)
+
+
 
 ---
 
