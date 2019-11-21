@@ -69,7 +69,7 @@ Since the first PCR didn't work, I made some changes:
 
 2. Increase annealing temp and reduce extension time to try to increasae specificity.
 
-3. Add primers individually instead of primer mixes.
+3. Add primers individually instead of primer mixes. Used 100uM stocks.
 
 | Component              | Single Rxn Vol. (uL) | Num. Rxns | Total Volumes (uL)        |
 |------------------------|----------------------|-----------|---------------------------|
