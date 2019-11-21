@@ -45,6 +45,53 @@ First PCR info:
 |                        | 25                   |           | Add 21uL to each PCR tube |
 
 
+Cycling params:
+
+95<sup>o</sup>C for 10mins
+
+30 cycles of:
+
+- 95<sup>o</sup>C 1min
+- 51<sup>o</sup>C 1min
+- 72<sup>o</sup>C 1min
+
+72<sup>o</sup>C 10mins
+
+Run on 0.8% agarose gel.
+
+---
+
+Since the first PCR didn't work, I made some changes:
+
+1. Longer gel (1.5% agarose) to improve ability to resolve lower molecular weight bands.
+
+2. Increase annealing temp and reduce extension time to try to increasae specificity.
+
+3. Add primers individually instead of primer mixes.
+
+| Component              | Single Rxn Vol. (uL) | Num. Rxns | Total Volumes (uL)        |
+|------------------------|----------------------|-----------|---------------------------|
+| DNA                    | 4                    | NA        | NA                        |
+| 2x Apex Red Master Mix | 12.5                 | 18        | 225                       |
+| COforward              | 0.15                 | 18        | 2.7                       |
+| Coreverse              | 0.15                 | 18        | 2.7                       |
+| COCgi269r              | 0.1                  | 18        | 1.8                       |
+| COCsi546r              | 0.1                  | 18        | 1.8                       |
+| H2O                    | 8                    | 18        | 144                       |
+|                        | 25                   |           | Add 21uL to each PCR tube |
+
+Cycling params:
+
+95<sup>o</sup>C for 10mins
+
+30 cycles of:
+
+- 95<sup>o</sup>C 1min
+- 55<sup>o</sup>C 1min
+- 72<sup>o</sup>C 45secs
+
+72<sup>o</sup>C 10mins
+
 ---
 
 #### RESULTS
