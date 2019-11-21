@@ -35,7 +35,7 @@ Master mix calcs:
 | DNA                    | 4                    | NA        | NA                        |
 | 2x Apex Master Mix | 12.5                 | 18        | 225                       |
 | COforward (100uM)              | 0.15                 | 18        | 2.7                       |
-| Coreverse (100uM)           | 0.15                 | 18        | 2.7                       |
+| COreverse (100uM)           | 0.15                 | 18        | 2.7                       |
 | COCgi269r (100uM)           | 0.1                  | 18        | 1.8                       |
 | COCsi546r (100uM)            | 0.1                  | 18        | 1.8                       |
 | H2O                    | 8                    | 18        | 144                       |
@@ -55,6 +55,10 @@ Cycling params:
 72<sup>o</sup>C 10mins
 
 
+Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
+
+![GeneRuler DNA Ladder Mix](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+
 ---
 
 #### RESULTS
@@ -62,3 +66,15 @@ Cycling params:
 Gel:
 
 ![Gel of four PCRs from each group of oysters](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191121_gel_C.gigas_C.sikamea-01.jpg?raw=true)
+
+
+Well, despite the very clean appearance of this gel image (defined bands, no bands in NTC), the results are not helpful.
+
+1. Band of ~700bp should be present in _all_ samples (OCforward/reverse primers should amplify any _Crassostrea spp_ DNA)- it isn't present in any of them.
+
+2. The single band generated in each lane is ~500 - 500bp. This band size is relatively close to the expected product size for _Crassostrea sikamea_ detection (546bp).
+
+These results _could_ suggest that they actually all are _C.sikamea_. [However, the `C.gigas 1191-SS` are supposed to be verified _C.gigas_; the samples in question were the `C.sikamea 1191-SS`](https://robertslab.github.io/sams-notebook/2019/10/30/Samples-Received-Marinelli-Shellfish-Company-C.gigas-and-C.sikamea-Oysters.html).
+
+
+Will discuss with Steven to see how much additional time he'd like to devote to this project to determine if I should re-run each of these samples with the species-specific primers only (i.e. no multiplex).
