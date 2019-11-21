@@ -15,6 +15,17 @@ categories:
 ---
 
 
+Primers and cycling parameters were taken from this publication:
+
+- [Haiyan Wang and Ximing Guo "Identification of Crassostrea ariakensis and Related Oysters by Multiplex Species-Specific PCR," Journal of Shellfish Research 27(3), 481-487, (1 May 2008).](https://www.researchgate.net/profile/Ximing_Guo/publication/259643859_Identification_of_Crassostrea_ariakensis_and_related_oysters_by_multiplex_species-specific_PCR/links/55c79eb708aeb9756746e35e/Identification-of-Crassostrea-ariakensis-and-related-oysters-by-multiplex-species-specific-PCR.pdf)
+
+| SR ID | Primer Name | Sequence                   |
+|-------|-------------|----------------------------|
+| 1727  | COreverse   | CAGGGGGCCGTTCGCGGTCAACGCT  |
+| 1726  | COCsi546r   | AAGTAACCTTAATAGATCAGGGAACC |
+| 1725  | COCgi269r   | TCGAGGAAATTGCATGTCTGCTACAA |
+| 1724  | COforward   | GGGACTACCCCCTGAATTTAAGCAT  |
+
 
 ---
 
