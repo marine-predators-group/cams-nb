@@ -61,3 +61,13 @@ Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
 ---
 
 #### RESULTS
+
+GEL: _C.gigas_-specific primers:
+
+![Gel image from C.gigas-specific primers](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191121_gel_Cgigas_primers.jpg?raw=true)
+
+---
+
+GEL: _C.sikamea_-specific primers:
+
+![Gel image from C.sikamea-specific primers](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191121_gel_Csikamea_primers.jpg?raw=true)
