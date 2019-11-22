@@ -71,3 +71,15 @@ GEL: _C.gigas_-specific primers:
 GEL: _C.sikamea_-specific primers:
 
 ![Gel image from C.sikamea-specific primers](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191121_gel_Csikamea_primers.jpg?raw=true)
+
+---
+
+GEL: _Crassostrea spp._ primers:
+
+![Gel image from Crassostrea species primers](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191121_gel_Crassostrea.sp_primers.jpg?raw=true)
+
+---
+
+Well, it looks like the two species-specific reverse primers don't seem to work with the _Crassostrea spp._ forward primer.
+
+However, the _Crassostrea spp._, despite the fact that they function properly (in that they amplify in all _Crassostrea_ DNA), they don't produce the expected band size that's mentioned in the paper (697bp). Talking with Steven, I don't think we're going to pursue much more of this.
