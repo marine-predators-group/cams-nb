@@ -14,6 +14,19 @@ categories:
   - Miscellaneous
 ---
 
+### UPDATE 20191125
+
+Since the results I obtained on my [final attempt to get this to work](https://robertslab.github.io/sams-notebook/2019/11/21/PCR-Crassostrea-gigas-and-sikamea-Mantle-gDNA-from-Marinellie-Shellfish-Company-No-Multiplex.html) failed, I decided to double-check the primer sequences.
+
+Well, I ordered/used the wrong sequences! The two general _Crassostrea spp._ primers ordered were the 28s primers listed in that paper, instead of the cytochrome oxidase primers! I've ordered the correct universal CO primers [which are actually listed in this paper: ([Folmer, O., M. Black, W. Hoeh, R. Lutz & R. Vrijenhoek. 1994. DNA
+primers for amplification of mitochondrial cytochrome C oxidase
+subunit I from diverse metazoan invertebrate. Mol. Mar. Biol.
+Biotechnol. 3:294–299.](https://www.researchgate.net/publication/15316743_DNA_primers_for_amplification_of_mitochondrial_Cytochrome_C_oxidase_subunit_I_from_diverse_metazoan_invertebrates)) and will re-run this.
+
+I'm leaving the original post below for posterity.
+
+---
+
 Primers and cycling parameters were taken from this publication:
 
 - [Haiyan Wang and Ximing Guo "Identification of Crassostrea ariakensis and Related Oysters by Multiplex Species-Specific PCR," Journal of Shellfish Research 27(3), 481-487, (1 May 2008).](https://www.researchgate.net/profile/Ximing_Guo/publication/259643859_Identification_of_Crassostrea_ariakensis_and_related_oysters_by_multiplex_species-specific_PCR/links/55c79eb708aeb9756746e35e/Identification-of-Crassostrea-ariakensis-and-related-oysters-by-multiplex-species-specific-PCR.pdf)

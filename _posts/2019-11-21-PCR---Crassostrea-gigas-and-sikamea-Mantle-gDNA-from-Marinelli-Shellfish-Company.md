@@ -13,6 +13,20 @@ tags:
 categories:
   - Miscellaneous
 ---
+
+### UPDATE 20191125
+
+Since the results I obtained on my [final attempt to get this to work](https://robertslab.github.io/sams-notebook/2019/11/21/PCR-Crassostrea-gigas-and-sikamea-Mantle-gDNA-from-Marinellie-Shellfish-Company-No-Multiplex.html) failed, I decided to double-check the primer sequences.
+
+Well, I ordered/used the wrong sequences! The two general _Crassostrea spp._ primers ordered were the 28s primers listed in that paper, instead of the cytochrome oxidase primers! I've ordered the correct universal CO primers [which are actually listed in this paper: ([Folmer, O., M. Black, W. Hoeh, R. Lutz & R. Vrijenhoek. 1994. DNA
+primers for amplification of mitochondrial cytochrome C oxidase
+subunit I from diverse metazoan invertebrate. Mol. Mar. Biol.
+Biotechnol. 3:294–299.](https://www.researchgate.net/publication/15316743_DNA_primers_for_amplification_of_mitochondrial_Cytochrome_C_oxidase_subunit_I_from_diverse_metazoan_invertebrates)) and will re-run this.
+
+I'm leaving the original post below for posterity.
+
+---
+
 After [yesterday's PCR debacles](https://robertslab.github.io/sams-notebook/2019/11/19/PCR-Crassostrea-gigas-and-sikamea-Mantle-gDNA-from-Marinelli-Shellfish-Company.html), I re-ran the PCRs with the original cylcing parameters, on a long 1.5% agarose (1x low TAE) gel.
 
 Primers and cycling parameters were taken from this publication:
