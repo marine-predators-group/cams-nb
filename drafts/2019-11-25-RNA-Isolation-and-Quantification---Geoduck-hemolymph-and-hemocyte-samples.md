@@ -43,7 +43,15 @@ RNA was isolated using the Quick-DNA/RNA Microprep Plus Kit (ZymoResearch) accor
 
 - Elution volume = 15uL
 
-After processing, samples were quantified using the Qubit hsRNA Assay, using 2uL of sample. Due to high sample concentrations (i.e. >100ng/uL) I had to dilute the samples a couple of times and re-measure. Here are the three sets of raw data (Google Sheets):
+After processing, samples were quantified using the Qubit hsRNA Assay, using 2uL of sample. Due to high sample concentrations (i.e. >100ng/uL) I had to dilute the samples a couple of times and re-measure.
+
+
+
+---
+
+#### RESULTS
+
+Here are the three sets of raw data (Google Sheets):
 
 - (2019-11-25_13-05-12_qubit_geoduck_hemo-01)[https://docs.google.com/spreadsheets/d/1CzQ5K2uvKq6FUdW5_zVsAKkBOLqS7exz6gznEpJCd8o/edit?usp=sharing]
 
@@ -62,13 +70,3 @@ Here's the summary table of sample concentrations:
 | 61H       | 47.7                          | 100             | 4770       |
 | 11-08 1H  | 30.9                          | 15              | 463.5      |
 | 11-08 2H  | 12.3                          | 100             | 1230       |
-
-
-
----
-
-#### RESULTS
-
-Output folder:
-
-- []()
