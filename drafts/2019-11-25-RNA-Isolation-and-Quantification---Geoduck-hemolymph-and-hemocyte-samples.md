@@ -41,6 +41,8 @@ RNA was isolated using the Quick-DNA/RNA Microprep Plus Kit (ZymoResearch) accor
 
 - Added four volumes of lysis buffer for the hemolymph samples
 
+- Performed on-column DNase step
+
 - Elution volume = 15uL
 
 After processing, samples were quantified using the Qubit hsRNA Assay, using 2uL of sample. Due to high sample concentrations (i.e. >100ng/uL) I had to dilute the samples a couple of times and re-measure.
@@ -70,3 +72,10 @@ Here's the summary table of sample concentrations:
 | 61H       | 47.7                          | 100             | 4770       |
 | 11-08 1H  | 30.9                          | 15              | 463.5      |
 | 11-08 2H  | 12.3                          | 100             | 1230       |
+
+
+Will do some calculations and performs reverse transcription on these tomorrow, followed by qPCR with vitellogenin primers.
+
+RNA was stored in the -80<sup>o</sup>C:
+
+- [Shellfish RNA Box #7: E5 - E9](https://docs.google.com/spreadsheets/d/1ax6C-muxUTXxFEtfWdswBvueLhmxZzmwZcO2ur-0q-Q/edit#gid=1549162576", "Shellfish RNA Box #7)
