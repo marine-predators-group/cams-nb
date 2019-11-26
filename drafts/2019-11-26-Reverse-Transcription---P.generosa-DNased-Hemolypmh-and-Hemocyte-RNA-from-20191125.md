@@ -25,3 +25,7 @@ A master mix of buffer, dNTPs, water, and M-MLV reverse transcriptase was made, 
 Reverse transcription calcs (Google Sheet):
 
 - [20191126_geoduck_hemo_cDNA-calcs](https://docs.google.com/spreadsheets/d/1gzXoUYoJbOdBXwYH_KABzw88cX_YxcPCFMaHx_SC_Os/edit?usp=sharing)
+
+Resulting cDNA was stored in the small -20<sup>o</sup>C in:
+
+- [Sam's cDNA Box #3 A2 - A7](https://docs.google.com/spreadsheets/d/1dH1nrwITQwoYXUFSNx0-dHIjquq_Pde11pJ3Hz7K1Xc/edit#gid=0)
