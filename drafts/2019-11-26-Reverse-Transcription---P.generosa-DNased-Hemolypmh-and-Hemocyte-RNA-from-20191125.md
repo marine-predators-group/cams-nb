@@ -24,4 +24,4 @@ A master mix of buffer, dNTPs, water, and M-MLV reverse transcriptase was made, 
 
 Reverse transcription calcs (Google Sheet):
 
-- []()
+- [20191126_geoduck_hemo_cDNA-calcs](https://docs.google.com/spreadsheets/d/1gzXoUYoJbOdBXwYH_KABzw88cX_YxcPCFMaHx_SC_Os/edit?usp=sharing)
