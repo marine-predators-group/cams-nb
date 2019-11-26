@@ -55,11 +55,11 @@ After processing, samples were quantified using the Qubit hsRNA Assay, using 2uL
 
 Here are the three sets of raw data (Google Sheets):
 
-- (2019-11-25_13-05-12_qubit_geoduck_hemo-01)[https://docs.google.com/spreadsheets/d/1CzQ5K2uvKq6FUdW5_zVsAKkBOLqS7exz6gznEpJCd8o/edit?usp=sharing]
+- [2019-11-25_13-05-12_qubit_geoduck_hemo-01](https://docs.google.com/spreadsheets/d/1CzQ5K2uvKq6FUdW5_zVsAKkBOLqS7exz6gznEpJCd8o/edit?usp=sharing)
 
-- (2019-11-25_13-05-12_qubit_geoduck_hemo-02)[https://docs.google.com/spreadsheets/d/1xmLya8a2Jy8zusVEgZr9O3Kg2k65s4Je9hvBb85AJcI/edit?usp=sharing]
+- [2019-11-25_13-05-12_qubit_geoduck_hemo-02](https://docs.google.com/spreadsheets/d/1xmLya8a2Jy8zusVEgZr9O3Kg2k65s4Je9hvBb85AJcI/edit?usp=sharing)
 
-- (2019-11-25_13-05-12_qubit_geoduck_hemo-03)[https://docs.google.com/spreadsheets/d/1ec_pCFu-LSu8lVYjB5bSkoIpypvN-70ruT0ZGsMXIbg/edit?usp=sharing]
+- [2019-11-25_13-05-12_qubit_geoduck_hemo-03](https://docs.google.com/spreadsheets/d/1ec_pCFu-LSu8lVYjB5bSkoIpypvN-70ruT0ZGsMXIbg/edit?usp=sharing)
 
 
 Here's the summary table of sample concentrations:
