@@ -25,16 +25,58 @@ All qPCR reactions were run in duplicate. See qPCR Report (Results section below
 
 qPCR Master Mix calcs (Google Sheet):
 
-- []()
+- [20191127_qPCR_geoduck_vtg_hemo](https://docs.google.com/spreadsheets/d/16kMsHtiXdc94nVEcCczZBqqogyEsJ-qvm0jwOp55JFU/edit?usp=sharing)
+
+NOTE: I actually ended up running this twice (55<sup>o</sup>C and 60<sup>o</sup>C)due to poor melt curves when run at 55<sup>o</sup>C anneal.
 
 ---
 
 #### Results
 
+qPCR at 55<sup>o</sup>C anneal:
+
 qPCR Report (PDF):
 
-- []()
+- [sam_2019-11-27 2007-49-21_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2019-11-27%2007-49-21_BR006896.pdf)
 
 CFX Data File (PCRD):
 
-- []()
+- [sam_2019-11-27%2007-49-21_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2019-11-27%2007-49-21_BR006896.pcrd)
+
+
+CFX Results File (CSV):
+
+- [sam_2019-11-27_07-49-21_BR006896_-_20_Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_07-49-21_BR006896_-%20_Quantification_Cq_Results.csv)
+
+
+#### Amplifcation plots
+
+![Amplifcation plots of VTG cDNA at 55C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_07-49-21_amp_plots.png)
+
+#### Melt curves
+![Melt curves of VTG cDNA at 55C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_07-49-21_melt_plots.png)
+
+---
+
+qPCR at 60<sup>o</sup>C anneal:
+
+qPCR Report (PDF):
+
+- [sam_2019-11-27_10-02-00_BR006896.pdf](https://owl.fish.washington.edu/Athaliana/qPCR_data/qPCR_reports/sam_2019-11-27_10-02-00_BR006896.pdf)
+
+CFX Data File (PCRD):
+
+- [sam_2019-11-27%2010-02-00_BR006896.pcrd](https://owl.fish.washington.edu/scaphapoda/qPCR_data/cfx_connect_data/sam_2019-11-27%2010-02-00_BR006896.pcrd)
+
+CFX Results File (CSV):
+
+- [sam_2019-11-27_10-02-00_BR006896_-__Quantification_Cq_Results.csv](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_10-02-00_BR006896_-__Quantification_Cq_Results.csv)
+
+
+#### Amplification plots
+
+![Amplifcation plots of VTG cDNA at 60C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_10-02-00_amp_plots.png)
+
+#### Melt curves
+
+![Melt curves of VTG cDNA at 60C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_10-02-00_melt_plots.png)
