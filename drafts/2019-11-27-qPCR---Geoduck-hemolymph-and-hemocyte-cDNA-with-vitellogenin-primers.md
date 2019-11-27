@@ -21,6 +21,8 @@ Primers:
 - 1712 (Pg_DN51983i8_1471)
 - 1711 (Pg_DN51983i8_1347)
 
+Positive control used was same [pooled gonad cDNA used succesffully on 20181206 to test the assay](https://robertslab.github.io/sams-notebook/2018/12/06/qPCR-Geoduck-gonad-cDNA-with-vitellogenin-primers.html). Due to sample limitations, positive control was _not_ run in duplicate!
+
 All qPCR reactions were run in duplicate. See qPCR Report (Results section below) for plate layout, cycling params, etc.
 
 qPCR Master Mix calcs (Google Sheet):
@@ -56,6 +58,17 @@ CFX Results File (CSV):
 #### Melt curves
 ![Melt curves of VTG cDNA at 55C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_07-49-21_melt_plots.png)
 
+
+OK, here's the quick rundown:
+
+- No amplification in 39H
+
+- Single melt peaks in 31H, 61H, and positive control only
+
+Seeing this, I decided to run this at a higher annealing temp to see if I could increase specificity (see below).
+
+
+
 ---
 
 qPCR at 60<sup>o</sup>C anneal:
@@ -80,3 +93,10 @@ CFX Results File (CSV):
 #### Melt curves
 
 ![Melt curves of VTG cDNA at 60C annealing temp](https://owl.fish.washington.edu/Athaliana/qPCR_data/sam_2019-11-27_10-02-00_melt_plots.png)
+
+
+OK, here's the quick rundown:
+
+- Still no amplification in 39H
+
+- All samples show single melt peak now
