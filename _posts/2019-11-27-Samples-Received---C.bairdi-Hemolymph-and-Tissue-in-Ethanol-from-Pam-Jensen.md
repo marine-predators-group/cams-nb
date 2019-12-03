@@ -17,3 +17,10 @@ The box of samples was stored in FTR 26 (underneath the fume hood).
 Pam will provide a digitized version of the sample spreadsheet, as well as column name explanations. I'll add that info here when I receive it.
 
 ![Image of sample storage box](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191127_Cbairdi_EtOH-samples.jpg?raw=true)
+
+
+---
+
+Sample sheet (Google Sheets):
+
+- [Sample info 4 Steven etal 112719](https://docs.google.com/spreadsheets/d/1WQ60Tox68T5meJZGv4tl7hGyZoe9ebjLML8T_GqLI_k/edit?usp=sharing)
