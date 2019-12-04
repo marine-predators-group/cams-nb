@@ -65,6 +65,7 @@ Cycling params:
 
 72<sup>o</sup>C 10mins
 
+PCR reactions were run on a 1.5% agarose, 1x low TAE gel with ethidium bromide.
 
 Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
 
