@@ -36,6 +36,41 @@ primers for amplification of mitochondrial cytochrome C oxidase
 subunit I from diverse metazoan invertebrate. Mol. Mar. Biol.
 Biotechnol. 3:294–299.](https://www.researchgate.net/publication/15316743_DNA_primers_for_amplification_of_mitochondrial_Cytochrome_C_oxidase_subunit_I_from_diverse_metazoan_invertebrates)
 
+
+This is a multiplex PCR, where the HC02198 and LCO1490 primers should amplify any _Crassostrea spp._ DNA (i.e. a positive control - 697bp) and the other two primers will amplify either _C.gigas_ (Cgi269r - 269bp) or _C.sikamea_ (Csi546r - 546bp).
+
+Master mix calcs:
+
+| Component              | Single Rxn Vol. (uL) | Num. Rxns | Total Volumes (uL)        |
+|------------------------|----------------------|-----------|---------------------------|
+| DNA                    | 4                    | NA        | NA                        |
+| 2x Apex Master Mix | 12.5                 | 18        | 225                       |
+| HC02198 (100uM)              | 0.15                 | 18        | 2.7                       |
+| LCO1490 (100uM)           | 0.15                 | 18        | 2.7                       |
+| COCgi269r (100uM)           | 0.1                  | 18        | 1.8                       |
+| COCsi546r (100uM)            | 0.1                  | 18        | 1.8                       |
+| H2O                    | 8                    | 18        | 144                       |
+|                        | 25                   |           | Add 21uL to each PCR tube |
+
+
+Cycling params:
+
+95<sup>o</sup>C for 10mins
+
+30 cycles of:
+
+- 95<sup>o</sup>C 1min
+- 51<sup>o</sup>C 1min
+- 72<sup>o</sup>C 1min
+
+72<sup>o</sup>C 10mins
+
+
+Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
+
+![GeneRuler DNA Ladder Mix](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ThermoFisher_OgeneRuler_DNA_Ladder_Mix_F100439.jpg?raw=true)
+
+
 ---
 
 #### RESULTS
