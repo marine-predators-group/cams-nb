@@ -57,6 +57,11 @@ I ended up contacting GenSAS and it turned out there was a bug on their end that
 >
 >Sam
 
+So, now that I have the updated, final GFF, I want to re-run the GFF splitting into separate feature files, as well as counts and sequence length stats for all features (including repeats).
+
+Everything is documented in this Jupyter Notebook (GitHub):
+
+- [20191203_swoose_pgen_v074.a4_genome_feature_counts.ipynb](https://github.com/RobertsLab/code/blob/master/notebooks/sam/20191203_swoose_pgen_v074.a4_genome_feature_counts.ipynb)
 
 ---
 
@@ -65,3 +70,174 @@ I ended up contacting GenSAS and it turned out there was a bug on their end that
 Output folder:
 
 - [20191203_pgen_v074.a4_genome_feature_counts/](https://gannet.fish.washington.edu/Atumefaciens/20191203_pgen_v074.a4_genome_feature_counts/)
+
+
+I've copied/pasted the summary data for each of the GFFs that were analyzed, for quick reference.
+
+```
+Panopea-generosa-v1.0.a4.gene.gff3
+-------------------------
+mean       10811.04461
+min          166.00000
+median      4464.00000
+max       283066.00000
+
+
+
+
+Panopea-generosa-v1.0.a4.mRNA.gff3
+-------------------------
+mean       12903.649559
+min          166.000000
+median      5453.000000
+max       283066.000000
+
+
+
+
+Panopea-generosa-v1.0.a4.tRNA.gff3
+-------------------------
+mean       74.807745
+min        53.000000
+median     75.000000
+max       314.000000
+
+
+
+
+Panopea-generosa-v1.0.a4.rRNA.gff3
+-------------------------
+mean      117.125
+min       108.000
+median    115.000
+max       138.000
+
+
+
+
+Panopea-generosa-v1.0.a4.repeat_region.gff3
+-------------------------
+/home/sam/programs/minicocnda3/lib/python3.6/site-packages/IPython/core/interactiveshell.py:3049: DtypeWarning: Columns (5) have mixed types. Specify dtype option on import or set low_memory=False.
+  interactivity=interactivity, compiler=compiler, result=result)
+mean        212.244974
+min           6.000000
+median      149.000000
+max       10981.000000
+
+
+
+
+Panopea-generosa-v1.0.a4.exon.gff3
+-------------------------
+mean        201.476988
+min           3.000000
+median      133.000000
+max       13221.000000
+
+
+
+
+Panopea-generosa-v1.0.a4.gff3
+-------------------------
+mean         591.326038
+min            3.000000
+median       148.000000
+max       283066.000000
+
+
+
+
+Panopea-generosa-v1.0.a4.CDS.gff3
+-------------------------
+mean        201.476988
+min           3.000000
+median      133.000000
+max       13221.000000
+
+Panopea-generosa-v1.0.a4.repeats.LTR.gff3
+-------------------------
+percent 0.25
+sum       2315583.00
+mean          711.83
+min            11.00
+median        323.00
+max          6541.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.RC.gff3
+-------------------------
+percent 0.03
+sum       258182.00
+mean         429.59
+min           13.00
+median       464.00
+max          674.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.Simple_repeat.gff3
+-------------------------
+percent 0.55
+sum       5138701.00
+mean          258.71
+min             6.00
+median        124.00
+max          5981.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.DNA.gff3
+-------------------------
+percent 1.01
+sum       9497156.00
+mean          409.48
+min            11.00
+median        248.00
+max          7012.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.SINE.gff3
+-------------------------
+percent 0.72
+sum       6737909.00
+mean          156.23
+min            11.00
+median        165.00
+max           934.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.LINE.gff3
+-------------------------
+percent 3.19
+sum       30035624.00
+mean           395.53
+min             11.00
+median         226.00
+max           6604.00
+
+
+
+
+Panopea-generosa-v1.0.a4.repeats.Unknown.gff3
+-------------------------
+percent 32.04
+sum       3.018520e+08
+mean      1.998300e+02
+min       1.100000e+01
+median    1.450000e+02
+max       1.098100e+04
+
+
+
+
+-------------------------
+Repeats composition of genome (percent): 37.79
+```
