@@ -74,6 +74,20 @@ Output folder:
 
 I've copied/pasted the summary data for each of the GFFs that were analyzed, for quick reference.
 
+I'll double-check numbers and update the manuscript as needed. Also, all files will be uploaded to the [OSF repository for this paper](https://osf.io/yem8n/files/)
+
+| Feature       | Count   |
+|---------------|---------|
+| CDS           | 236960  |
+| exon          | 236960  |
+| gene          | 34947   |
+| mRNA          | 38326   |
+| repeat_region | 1676544 |
+| rRNA          | 8       |
+| tRNA          | 16889   |
+
+
+
 ```
 Panopea-generosa-v1.0.a4.gene.gff3
 -------------------------
