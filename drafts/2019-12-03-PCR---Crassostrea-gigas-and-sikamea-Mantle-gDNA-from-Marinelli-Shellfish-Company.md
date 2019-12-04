@@ -78,3 +78,27 @@ Used the GeneRuler DNA Ladder Mix (ThermoFisher) for all gels:
 
 
 ![Gel image](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191203_gel_cgigas_csikamea_PCR.jpg?raw=true)
+
+
+
+Alrighty, this is what we expected to see (at least in terms of primer functionality). We see:
+
+- A band of ~700bp in all samples (i.e. the universal cytochrome oxidase primers)
+
+- A band of ~270bp in the`C.gigas 1911SS` samples
+
+
+Now, this is where things get interesting...
+
+In the `C.sikamea CA5SS`:
+
+- A prominent band of ~550bp, indicating these are _C.sikamea_
+
+- A less prominent, but definitive, band at ~270bp, indicating the presence of _C.gigas_ cytochrome oxidase sequence. Suggests that this particular stock has hybridized with _C.gigas_ (or, there was some sort of cross contamination of DNA/tissue; unlikely as we _don't_ see potential cross contamination of _C.sikamea_ DNA in the other samples).
+
+In the `C.sikamea 1911SS`:
+
+- A prominent band of ~270bp, indicating these are _C.gigas_, despite the bag label indicating them as Kumamoto _and/or_ Pacific oysters (see image below)
+
+
+![Confusing bag label marking oysters as Kumamoto and Pacific oyster](https://github.com/RobertsLab/sams-notebook/blob/master/images/20191030_marinelli_shellfish-04.jpg?raw=true)
