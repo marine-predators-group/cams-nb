@@ -14,7 +14,7 @@ categories:
 ---
 In the final GFF from our [GenSAS Pgenerosa_v074.a4 annotation ](https://robertslab.github.io/sams-notebook/2019/09/28/Genome-Annotation-Pgenerosa_v074-a4-Using-GenSAS.html), we noticed that there were no repeat motifs/sequences identified on Scaffold 01. The remaining scaffolds all had repeat motifs present on them, so something seemed amiss (see this [GitHub Issue for more info](https://github.com/RobertsLab/resources/issues/788)).
 
-I ended up contacting GenSAS and it turned out there was a bug on their end that led to this:
+I ended up contacting GenSAS and it turned out there was a bug on their end that led to this issue:
 
 
 >Taein Lee
