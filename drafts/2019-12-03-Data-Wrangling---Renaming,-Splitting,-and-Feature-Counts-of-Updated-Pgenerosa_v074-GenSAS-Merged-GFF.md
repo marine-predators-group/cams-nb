@@ -117,8 +117,6 @@ max       138.000
 
 Panopea-generosa-v1.0.a4.repeat_region.gff3
 -------------------------
-/home/sam/programs/minicocnda3/lib/python3.6/site-packages/IPython/core/interactiveshell.py:3049: DtypeWarning: Columns (5) have mixed types. Specify dtype option on import or set low_memory=False.
-  interactivity=interactivity, compiler=compiler, result=result)
 mean        212.244974
 min           6.000000
 median      149.000000
