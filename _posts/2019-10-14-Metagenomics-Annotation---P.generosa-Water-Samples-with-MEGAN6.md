@@ -10,7 +10,7 @@ tags:
 categories:
   - Miscellaneous
 ---
-After running [DIAMOND BLASTx and MEGANIZER on these samples on 20190925](https://robertslab.github.io/sams-notebook/2019/09/25/Metagenomics-Annotation-P.generosa-Water-Samples-Using-DIAMOND-BLASTx-on-Mox.html) to assess taxonomy info, I began the analyses/visualization of this data with (MEGAN6)[https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6/].
+After running [DIAMOND BLASTx and MEGANIZER on these samples on 20190925](https://robertslab.github.io/sams-notebook/2019/09/25/Metagenomics-Annotation-P.generosa-Water-Samples-Using-DIAMOND-BLASTx-on-Mox.html) to assess taxonomy info, I began the analyses/visualization of this data with [MEGAN6](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6/).
 
 
 Initially, I tried to import all of the Meganized DAA files, but ran in to  problems.
