@@ -1,5 +1,3 @@
-Sam's current lab notebook.
+Camrin Braun's lab notebook
 
-Previous notebook is here:
-
-- [onsnetwork.org/kubu4/](onsnetwork.org/kubu4/)
+Based on a notebook by [Sam White](https://github.com/RobertsLab/sams-notebook).
