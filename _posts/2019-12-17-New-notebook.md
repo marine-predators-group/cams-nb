@@ -3,14 +3,22 @@ layout: post
 title: New notebook
 date: '2019-12-17'
 tags:
-  - Ostrea lurida
-  - Olympia oyster
-  - intron
-  - UTR
-  - Olurida_v081
+  - markdown
+  - R code
 categories:
   - Miscellaneous
 ---
+
+There are many good markdown cheat sheets online like this [one](https://www.markdownguide.org/cheat-sheet/).
+
+Some very basic formatting options you'll need to get going are below.
+
+You can add code to a post like
+
+``` r
+2 + 2
+
+```
 
 itemized list like
 
