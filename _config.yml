@@ -18,7 +18,7 @@ title: Cam's Notebook
 email: cdbraun@uw.edu
 description: Marine Predators Group - University of Washington
 baseurl: /cams-nb # the optional subpath of your site, e.g. "/blog"
-url: https://marine-predators-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "localhost:4000" #https://marine-predators-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Camrin Braun
   twitter: braunianmotion
