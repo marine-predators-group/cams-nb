@@ -53,7 +53,5 @@ Full smoother and geostrophic calculations taking ~75 sec per day of data for N 
 Outputs look like this:
 
 
-![Image of Yaktocat](../images/screencaps/ugly_sla_comp.png)
-
-![Comparing different ways to get SSH. Confirmed old way that's loaded on s3://braun-public/ was incorrect.](https://github.com/marine-predators-group/cams-nb/blob/gh-pages/images/screencaps/ugly_sla_comp.png)
+![Comparing different ways to get SSH. Confirmed old way that's loaded on s3://braun-public/ was incorrect.](https://github.com/marine-predators-group/cams-nb/blob/gh-pages/images/screencaps/ugly_sla_comp.png?raw=true)
 
