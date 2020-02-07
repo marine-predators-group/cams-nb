@@ -51,5 +51,5 @@ Double check that matlab code folder/files are added to your path.
 Full smoother and geostrophic calculations taking ~75 sec per day of data for N hemisphere (-10 to 60 N) on m4.4xlarge. About the same with `smooth2d_loess_par` on m4.16xlarge. Trying a `parfor` loop with standard `smooth2d_loess`.
 
 Outputs look like this:
-![Comparing different ways to get SSH. Confirmed old way that's loaded on s3://braun-public/ was incorrect.](https://github.com/marine-predators-group/cams-nb/blob/master//images/screencaps/ugly_sla_comp.png)
+![Comparing different ways to get SSH. Confirmed old way that's loaded on s3://braun-public/ was incorrect.](https://github.com/marine-predators-group/cams-nb/blob/gh-pages/images/screencaps/ugly_sla_comp.png)
 
