@@ -14,6 +14,8 @@ categories:
 
 Running some smoother and geostrophic calculation code in matlab as its way faster than anything I can come up with in R, including via various parallelization routines.
 
+First need to get a matlab-centric instance going. I have an old-ish ami (29058d51) that works ok but there are a few community contributed amis that also work fine.
+
 Some good instructions [here](https://medium.com/@Arafat./graphical-user-interface-using-vnc-with-amazon-ec2-instances-549d9c0969c5)
 
 ```
