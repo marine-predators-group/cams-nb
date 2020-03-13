@@ -7,9 +7,6 @@ tags:
 categories:
 ---
 
-***
-### 5 Mar 2020 - add drifters
-
 Got a subset of the drifter data from AOML and made sure to only get those that are drogued, for 2002-2019 (matching tag data), and global (for now).
 
 Your submitted request was: request_gld.20200306_013522

@@ -6,8 +6,8 @@ tags:
   - facet
 ---
 
-*** 
-### Get raw eTUFF data
+
+Start w get raw eTUFF data
 
 ```
 ## load most recent meta file from nip_drake project
