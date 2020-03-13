@@ -1,8 +1,6 @@
-
 ---
 layout: post
-title: "Preparing tag data for FaCeT"
-author: Camrin Braun
+title: Preparing tag data for FaCeT
 date: '2020-03-12'
 tags:
   - facet
