@@ -8,6 +8,7 @@ tags:
   - matlab
   - aws
   - ubuntu
+  - nip
 categories:
   - Miscellaneous
 ---
